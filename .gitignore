@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+build/*.pkl
+dl/
+logo/_*.ttf

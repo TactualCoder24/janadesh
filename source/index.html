@@ -1,0 +1,1521 @@
+<title>Janadesh</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%20512%20512%22%20width%3D%22512%22%20height%3D%22512%22%3E%3Crect%20width%3D%22512%22%20height%3D%22512%22%20rx%3D%22116%22%20fill%3D%22%23141414%22/%3E%3Ccircle%20cx%3D%22149.60%22%20cy%3D%22360.00%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22180.76%22%20cy%3D%22284.76%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22331.24%22%20cy%3D%22284.76%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22362.40%22%20cy%3D%22360.00%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22107.80%22%20cy%3D%22360.00%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22127.66%22%20cy%3D%22285.90%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22181.90%22%20cy%3D%22231.66%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22256.00%22%20cy%3D%22211.80%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22330.10%22%20cy%3D%22231.66%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22384.34%22%20cy%3D%22285.90%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22404.20%22%20cy%3D%22360.00%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%2266.00%22%20cy%3D%22360.00%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%2280.46%22%20cy%3D%22287.29%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22121.65%22%20cy%3D%22225.65%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22183.29%22%20cy%3D%22184.46%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22256.00%22%20cy%3D%22170.00%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22328.71%22%20cy%3D%22184.46%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22390.35%22%20cy%3D%22225.65%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22431.54%22%20cy%3D%22287.29%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22446.00%22%20cy%3D%22360.00%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Crect%20x%3D%22237.95%22%20y%3D%22265.00%22%20width%3D%2236.10%22%20height%3D%22111.15%22%20rx%3D%2218.05%22%20fill%3D%22%238E5BD0%22/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anek+Latin:wdth,wght@75..125,400..800&family=Hind:wght@400;500;600&family=Anek+Devanagari:wght@500;700;800&display=swap">
+<style>
+/* Layout: white workspace. Home view: hero (headline + live 2024 chamber), how-it-works, scenarios, state grid. App view: header with pickers; control rail left; right column = result, map, charts, history. One column on phones with a pinned seat bar. */
+:root{
+  --bg:#FFFFFF; --panel:#FFFFFF; --sunk:#F2F3F5; --tint:#F6F7F8; --ink:#141414; --muted:#5D6068; --line:#E2E3E6;
+  --violet:#4A2577; --violet-soft:#EEE8F5; --evm:#E6E8EA; --evm-edge:#C9CDD2; --evmblue:#1F4FA8; --lamp:#E2231A; --warn:#9A5800; --warn-soft:#FFF5E3; --good:#16794A; --bad:#B4372B;
+  --display:"Anek Latin","Anek Devanagari","Segoe UI",system-ui,sans-serif; --body:"Hind","Segoe UI",system-ui,sans-serif;
+  --r:12px; color-scheme:light;
+}
+*{box-sizing:border-box}
+html,body{background:var(--bg);color:var(--ink)}
+body{font-family:var(--body);font-size:15px;line-height:1.5;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 32px}
+button,input,select,textarea{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--violet);outline-offset:2px}
+.num{font-variant-numeric:tabular-nums}
+h1,h2,h3{font-family:var(--display);margin:0;text-wrap:balance}
+.wrapw{max-width:1440px;margin:0 auto}
+
+.top{display:flex;flex-wrap:wrap;align-items:center;gap:12px 20px;padding-block:16px 14px;border-bottom:1px solid var(--line);margin-bottom:14px}
+.brand{display:flex;align-items:center;gap:12px;margin-right:auto;cursor:pointer;background:none;border:0;padding:0;text-align:left}
+.mark{width:38px;height:38px;flex:none;display:block}
+.brand h1{font-size:27px;font-weight:800;font-stretch:110%;line-height:1}
+.brand p{margin:2px 0 0;color:var(--muted);font-size:13px}
+.pick{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.seg{display:inline-flex;border:1px solid var(--ink);border-radius:6px;overflow:hidden;flex-wrap:wrap}
+.seg button{border:0;background:var(--panel);padding:5px 12px;cursor:pointer;color:var(--ink);font-weight:500}
+.seg button + button{border-left:1px solid var(--ink)}
+.seg button[aria-pressed="true"]{background:var(--ink);color:#fff}
+select,.inp{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:6px 10px;max-width:100%}
+.btn{border:1px solid var(--evm-edge);background:var(--panel);border-radius:5px;padding:6px 12px;cursor:pointer;font-weight:500;text-decoration:none;color:var(--ink);display:inline-flex;align-items:center;gap:6px}
+.btn:hover{border-color:var(--violet);color:var(--violet)}
+.btn.primary{background:var(--evmblue);border-color:var(--evmblue);color:#fff}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.primary:hover{color:#fff;filter:brightness(1.08)}
+.btn.small{padding:3px 10px;font-size:13px}
+.btn.big{padding:12px 20px;font-size:17px;border-radius:10px}
+.notice{border-left:4px solid var(--warn);padding:2px 0 2px 12px;font-size:13.5px;display:flex;gap:8px;align-items:baseline;margin-bottom:18px;color:var(--muted)}
+.notice b{color:var(--warn);white-space:nowrap}
+
+/* home */
+.hero{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,1fr);gap:28px;align-items:center;padding-block:26px 22px}
+@media (max-width:900px){.hero{grid-template-columns:minmax(0,1fr)}}
+.hero h2{font-size:clamp(38px,6vw,68px);font-weight:800;font-stretch:112%;line-height:1;letter-spacing:-.01em}
+.hero .sub{font-size:18px;color:var(--muted);max-width:52ch;margin:14px 0 22px}
+.hero .ctas{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.hero .ctasub{color:var(--muted);font-size:14px;margin-top:10px}
+.future{margin-top:22px;padding:14px;background:var(--evm);border:1px solid var(--evm-edge);border-radius:12px;max-width:560px}
+.future h4{margin:0 0 8px;font-family:var(--display);font-size:18px}
+.futrow{display:flex;flex-wrap:wrap;gap:10px;align-items:flex-end}
+.futrow label{display:flex;flex-direction:column;gap:3px;font-size:12.5px;color:var(--muted);min-width:0}
+.futrow select{min-width:120px}
+.future .small{margin:8px 0 0}
+.live{border-top:3px solid var(--ink);padding:12px 0 0}
+.live p{margin:0 0 4px;font-weight:600;font-family:var(--display);font-size:16px}
+.live svg{width:100%;height:auto;display:block}
+.livelegend{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:13.5px}
+.livelegend span{display:inline-flex;align-items:center;gap:6px}
+.sec{padding-block:20px;border-top:3px solid var(--ink);margin-top:10px}
+.sec > h3{font-size:24px;font-weight:700;margin-bottom:4px}
+.sec > .lede{color:var(--muted);margin:0 0 14px}
+.steps{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;margin-top:12px}
+@media (max-width:760px){.steps{grid-template-columns:minmax(0,1fr)}}
+.steps div{display:grid;grid-template-columns:36px minmax(0,1fr);gap:4px 12px}
+.steps b{grid-row:1 / 3;font-family:var(--display);font-size:38px;font-weight:800;line-height:1;color:var(--evm-edge)}
+.steps h4{margin:4px 0 0;font-family:var(--display);font-size:18px}
+.steps p{margin:0;color:var(--muted)}
+.scns{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px;margin-top:12px}
+.scn{border:1px solid var(--evm-edge);border-radius:4px;padding:14px;background:var(--panel);text-align:left;cursor:pointer;font-size:15.5px;font-weight:500;line-height:1.35;display:flex;gap:10px;align-items:flex-start}
+.scn:hover{border-color:var(--violet)}
+.scn i{width:10px;align-self:stretch;border-radius:5px;flex:none}
+.stgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:8px;margin-top:12px}
+.stbtn{border:1px solid var(--evm-edge);border-radius:4px;padding:10px 12px;background:var(--panel);text-align:left;cursor:pointer;display:flex;flex-direction:column;gap:2px}
+.stbtn:hover{border-color:var(--violet)}
+.stbtn b{font-family:var(--display);font-size:16.5px;font-weight:600}
+.stbtn span{font-size:12.5px;color:var(--muted)}
+.stbtn .bar{height:5px;margin-top:6px}
+
+/* app */
+.grid{display:grid;grid-template-columns:minmax(300px,370px) minmax(0,1fr);gap:18px;align-items:start}
+@media (max-width:920px){.grid{grid-template-columns:minmax(0,1fr)}}
+.rail{background:var(--evm);border:1px solid var(--evm-edge);border-radius:14px;box-shadow:inset 0 1px 0 #fff;position:sticky;top:calc(env(safe-area-inset-top,0px) + 10px);max-height:calc(100vh - 20px);display:flex;flex-direction:column;min-width:0}
+@media (max-width:920px){.rail{position:static;max-height:none}}
+.tabs{display:flex;flex-wrap:wrap;gap:2px;padding:6px 8px 0;border-bottom:1px solid var(--evm-edge)}
+.tabs button{border:0;background:transparent;padding:8px 9px;cursor:pointer;color:var(--muted);border-bottom:2px solid transparent;font-weight:500;font-size:14px}
+.tabs button[aria-selected="true"]{color:var(--ink);border-bottom:3px solid var(--evmblue);font-weight:600}
+.pane{padding:14px;overflow:auto;min-height:0}
+.pane h3{font-size:16px;font-weight:700;margin-bottom:4px}
+.hint{color:var(--muted);font-size:13px;margin:0 0 10px}
+.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.between{justify-content:space-between}
+.stack{display:flex;flex-direction:column;gap:10px}
+.sl{display:grid;grid-template-columns:24px minmax(0,1fr) auto 26px;gap:4px 8px;align-items:center;padding:8px 10px;margin-bottom:6px;background:var(--panel);border:1px solid var(--evm-edge);border-radius:4px}
+.sn{width:24px;height:24px;border-radius:3px;color:#fff;font-weight:700;font-size:12.5px;display:grid;place-items:center;text-shadow:0 0 2px rgba(0,0,0,.35)}
+.lamp{width:10px;height:10px;border-radius:50%;background:#C8CBD0;box-shadow:inset 0 1px 1px rgba(0,0,0,.25);flex:none}
+.lamp.on{background:var(--lamp);box-shadow:0 0 0 3px rgba(226,35,26,.18),0 0 8px rgba(226,35,26,.7)}
+.sw{display:inline-block;width:12px;height:12px;border-radius:3px;flex:none}
+.sl .nm{display:flex;flex-direction:column;min-width:0;line-height:1.25}
+.sl .nmt{font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.sl .seatc{font-size:12.5px;color:var(--muted)}
+.sl .val{display:flex;align-items:center;gap:6px}
+.sl .val input{width:66px;text-align:right;padding:2px 6px;border:1px solid var(--line);border-radius:6px;background:var(--sunk)}
+.sl .delta{font-size:12px;color:var(--muted);min-width:48px;text-align:right}
+.sl input[type=range]{grid-column:2 / 4;width:100%;accent-color:var(--c,var(--violet))}
+.lock{border:0;background:transparent;cursor:pointer;color:#A3A6B8;padding:3px;border-radius:5px;display:grid;place-items:center}
+.lock[aria-pressed="true"]{color:#fff;background:var(--evmblue)}
+.sumline{font-size:13px;color:var(--muted);margin-top:8px}
+.swingbox{background:var(--panel);border:1px solid var(--evm-edge);border-radius:4px;padding:12px}
+.swingbox .ends{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);gap:8px;align-items:end}
+.swingbox label{display:flex;flex-direction:column;gap:3px;font-size:12.5px;color:var(--muted);min-width:0}
+.swingbox select{width:100%}
+.swingbox input[type=range]{width:100%;margin-top:12px;accent-color:var(--evmblue)}
+.swingread{font-family:var(--display);font-size:17px;font-weight:600;text-align:center;margin-top:4px}
+.scale{display:flex;justify-content:space-between;font-size:12px;color:var(--muted)}
+.presets{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.presets button{text-align:left;justify-content:flex-start;padding:8px 10px;line-height:1.3}
+.mini{border-left:4px solid var(--evmblue);background:var(--panel);padding:8px 12px}
+.mini .v{font-family:var(--display);font-weight:600;font-size:16px}
+
+.main{display:flex;flex-direction:column;gap:18px;min-width:0}
+.card{background:var(--panel);border-top:3px solid var(--ink);padding:14px 0 6px;min-width:0}
+.card > h3{font-size:19px;font-weight:700}
+.headline{display:flex;flex-wrap:wrap;gap:6px 12px;align-items:center;margin-bottom:4px}
+.headline h2{font-size:32px;font-weight:800;font-stretch:108%;line-height:1.05}
+.tag{display:inline-block;font-size:13px;color:var(--muted)}
+.tag + .tag::before{content:"/";margin:0 8px 0 2px;color:var(--evm-edge)}
+.tag.warn{color:var(--warn);font-weight:600}
+.verdict{font-family:var(--display);font-size:19px;font-weight:600;margin:4px 0 12px}
+.verdict .lead{color:var(--ink);box-shadow:inset 0 -.42em 0 var(--violet-soft)}
+.chamber{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:20px;align-items:start}
+@media (max-width:1100px){.chamber{grid-template-columns:minmax(0,1fr)}}
+.hemi svg{width:100%;height:auto;display:block}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{padding:6px 6px;text-align:right;border-bottom:1px solid var(--line)}
+th{font-weight:600;color:var(--muted);font-size:12.5px}
+td:first-child,th:first-child{text-align:left}
+.tw{overflow-x:auto}
+.pname{display:flex;align-items:center;gap:7px;min-width:0}
+.pname span:last-child{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:210px}
+.up{color:var(--good)} .down{color:var(--bad)}
+.bar{height:7px;border-radius:4px;background:var(--sunk);overflow:hidden;min-width:60px;display:flex}
+.bar i{display:block;height:100%}
+.charts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px 22px;margin-top:10px}
+@media (max-width:760px){.charts{grid-template-columns:minmax(0,1fr)}}
+.charts figure{margin:0;min-width:0;border-top:1px solid var(--line);padding-top:10px}
+.charts figure.wide{grid-column:1 / -1}
+.charts figcaption{display:flex;justify-content:space-between;gap:8px;align-items:center;flex-wrap:wrap;font-family:var(--display);font-weight:600;font-size:16px;margin-bottom:2px}
+.charts .cap2{font-size:12.5px;color:var(--muted);margin:0 0 6px}
+.charts svg{width:100%;height:auto;display:block;overflow:visible}
+.mapwrap{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(0,1fr);gap:16px}
+@media (max-width:1100px){.mapwrap{grid-template-columns:minmax(0,1fr)}}
+.map{background:var(--tint);border-radius:10px;padding:8px}
+.map svg{width:100%;height:auto;display:block}
+.map path.seat{stroke:#fff;stroke-width:.4;cursor:pointer}
+.map path.seat:hover,.map path.seat.sel{stroke:var(--ink);stroke-width:1.2}
+.map path.st{fill:none;stroke:var(--ink);stroke-opacity:.35;stroke-width:.6;pointer-events:none}
+.legend{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:13px;margin-top:8px}
+.legend span{display:inline-flex;align-items:center;gap:5px}
+.waffle{display:grid;grid-template-columns:repeat(auto-fill,minmax(14px,1fr));gap:3px}
+.waffle i{aspect-ratio:1;border-radius:3px;cursor:pointer;max-width:100%}
+.waffle i.sel{outline:2px solid var(--ink)}
+.seatlist{max-height:440px;overflow:auto;border:1px solid var(--line);border-radius:8px}
+.seatlist table td{font-size:13px}
+.seatlist thead th{position:sticky;top:0;background:var(--panel)}
+.seatlist tr{cursor:pointer}
+.seatlist tr:hover td{background:var(--sunk)}
+.tip{position:fixed;pointer-events:none;background:var(--ink);color:#fff;padding:6px 9px;border-radius:7px;font-size:13px;z-index:30;max-width:260px;display:none}
+.detail .cand{display:grid;grid-template-columns:minmax(0,1fr) 70px 64px;gap:6px;align-items:center;font-size:14px;padding:3px 0}
+.chip{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);border-radius:999px;padding:3px 11px;font-size:13px;cursor:pointer;background:var(--panel)}
+.chip[aria-pressed="true"]{border-color:var(--violet);background:var(--violet-soft)}
+.mc{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px}
+.mcbox{border:1px solid var(--line);border-radius:10px;padding:10px}
+.mcbox b{font-family:var(--display);font-size:24px;display:block}
+.small{font-size:13px;color:var(--muted)}
+.hist svg{width:100%;height:auto;display:block}
+.modal{position:fixed;inset:0;background:rgba(20,18,40,.45);display:grid;place-items:center;z-index:40;padding:16px}
+.modal>div{background:var(--panel);border-radius:var(--r);padding:16px;max-width:min(900px,100%);max-height:90vh;overflow:auto;min-width:0}
+textarea{width:100%;min-height:90px;border:1px solid var(--line);border-radius:8px;background:var(--sunk);padding:8px;font-size:12.5px}
+.footer{margin-top:24px;color:var(--muted);font-size:13px;line-height:1.6;border-top:1px solid var(--line);padding-top:14px}
+input[type=color]{width:34px;height:26px;border:1px solid var(--line);border-radius:6px;padding:0;background:none}
+.ptab td{padding:4px}
+.loading{display:inline-flex;align-items:center;gap:10px;color:var(--muted);font-size:16px}
+.loading i{width:14px;height:14px;border-radius:50%;border:2px solid var(--violet-soft);border-top-color:var(--violet);animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.dock{display:none}
+@media (max-width:920px){
+  .dock{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:20;background:var(--panel);border-top:1px solid var(--line);box-shadow:0 -2px 10px rgba(30,25,70,.08);
+    padding:8px max(16px,env(safe-area-inset-right,0px)) calc(8px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));gap:12px;align-items:center;overflow-x:auto;white-space:nowrap;font-size:14px}
+  .dock span{display:inline-flex;align-items:center;gap:5px}
+  .dock b{font-family:var(--display);font-size:17px}
+  body.inapp{padding-bottom:calc(64px + env(safe-area-inset-bottom,0px))}
+}
+@media (prefers-reduced-motion: reduce){*{transition:none!important;animation:none!important}}
+</style>
+
+<div class="wrapw">
+<header class="top">
+  <button class="brand" id="brand" aria-label="Janadesh home"><svg class="mark" viewBox="0 0 512 512" aria-hidden="true"><rect width="512" height="512" rx="116" fill="#141414"/><circle cx="149.60" cy="360.00" r="16.15" fill="#fff"/><circle cx="180.76" cy="284.76" r="16.15" fill="#fff"/><circle cx="331.24" cy="284.76" r="16.15" fill="#fff"/><circle cx="362.40" cy="360.00" r="16.15" fill="#fff"/><circle cx="107.80" cy="360.00" r="16.15" fill="#fff"/><circle cx="127.66" cy="285.90" r="16.15" fill="#fff"/><circle cx="181.90" cy="231.66" r="16.15" fill="#fff"/><circle cx="256.00" cy="211.80" r="16.15" fill="#fff"/><circle cx="330.10" cy="231.66" r="16.15" fill="#fff"/><circle cx="384.34" cy="285.90" r="16.15" fill="#fff"/><circle cx="404.20" cy="360.00" r="16.15" fill="#fff"/><circle cx="66.00" cy="360.00" r="16.15" fill="#fff"/><circle cx="80.46" cy="287.29" r="16.15" fill="#fff"/><circle cx="121.65" cy="225.65" r="16.15" fill="#fff"/><circle cx="183.29" cy="184.46" r="16.15" fill="#fff"/><circle cx="256.00" cy="170.00" r="16.15" fill="#fff"/><circle cx="328.71" cy="184.46" r="16.15" fill="#fff"/><circle cx="390.35" cy="225.65" r="16.15" fill="#fff"/><circle cx="431.54" cy="287.29" r="16.15" fill="#fff"/><circle cx="446.00" cy="360.00" r="16.15" fill="#fff"/><rect x="237.95" y="265.00" width="36.10" height="111.15" rx="18.05" fill="#8E5BD0"/></svg><span><h1>Janadesh</h1><p data-i18n="brandTag"></p></span></button>
+  <div class="pick" id="appPick" hidden>
+    <div class="seg" role="group" aria-label="Election type">
+      <button id="kLS" aria-pressed="true" data-i18n="lokSabha"></button>
+      <button id="kAE" aria-pressed="false" data-i18n="assembly"></button>
+    </div>
+    <select id="selState" aria-label="State" hidden></select>
+    <select id="selYear" aria-label="Election year"></select>
+  </div>
+  <div class="pick">
+    <button class="btn small" id="homeBtn" hidden data-i18n="home"></button>
+    <button class="btn small" id="langBtn" lang="hi" data-i18n="langBtn"></button>
+  </div>
+</header>
+<div class="notice" role="note"><b data-i18n="simOnly"></b><span data-i18n="disclaimer"></span></div>
+
+<!-- HOME -->
+<div id="home">
+  <section class="hero">
+    <div>
+      <h2 data-i18n="heroTitle"></h2>
+      <p class="sub" data-i18n="heroSub"></p>
+      <div class="ctas"><button class="btn primary big" id="goLS" data-i18n="startLS"></button></div>
+      <p class="ctasub" data-i18n="startLSsub"></p>
+      <div class="future">
+        <h4 data-i18n="futTitle"></h4>
+        <div class="futrow">
+          <label><span data-i18n="futWhere"></span><select id="futWhere"></select></label>
+          <label><span data-i18n="futYear"></span><select id="futYear"></select></label>
+          <button class="btn primary" id="futGo" data-i18n="futGo"></button>
+        </div>
+        <p class="small" data-i18n="futHint"></p>
+      </div>
+    </div>
+    <div class="live"><p data-i18n="homeLive"></p><div id="liveHemi"><span class="loading"><i></i></span></div><div class="livelegend" id="liveLegend"></div></div>
+  </section>
+  <section class="sec">
+    <h3 data-i18n="howTitle"></h3>
+    <div class="steps">
+      <div><b>1</b><h4 data-i18n="step1"></h4><p data-i18n="step1b"></p></div>
+      <div><b>2</b><h4 data-i18n="step2"></h4><p data-i18n="step2b"></p></div>
+      <div><b>3</b><h4 data-i18n="step3"></h4><p data-i18n="step3b"></p></div>
+    </div>
+  </section>
+  <section class="sec">
+    <h3 data-i18n="tryTitle"></h3>
+    <div class="scns">
+      <button class="scn" data-scn="1"><i style="background:#1f77b4"></i><span data-i18n="scn1"></span></button>
+      <button class="scn" data-scn="2"><i style="background:#F28C28"></i><span data-i18n="scn2"></span></button>
+      <button class="scn" data-scn="3"><i style="background:#D7263D"></i><span data-i18n="scn3"></span></button>
+      <button class="scn" data-scn="4"><i style="background:#2EAD4B"></i><span data-i18n="scn4"></span></button>
+    </div>
+  </section>
+  <section class="sec">
+    <h3 data-i18n="pickState"></h3>
+    <p class="lede" data-i18n="pickStateSub"></p>
+    <div class="stgrid" id="stgrid"></div>
+  </section>
+  <p class="small" data-i18n="dataNote"></p>
+</div>
+
+<!-- APP -->
+<div id="app" hidden>
+<div class="grid">
+  <aside class="rail" aria-label="Controls">
+    <div class="tabs" role="tablist">
+      <button role="tab" data-tab="easy" data-i18n="tabEasy"></button>
+      <button role="tab" data-tab="votes" data-i18n="tabVotes"></button>
+      <button role="tab" data-tab="region" data-i18n="tabRegion"></button>
+      <button role="tab" data-tab="odds" data-i18n="tabOdds"></button>
+      <button role="tab" data-tab="parties" data-i18n="tabParties"></button>
+      <button role="tab" data-tab="save" data-i18n="tabSave"></button>
+    </div>
+    <div class="pane" id="pane"></div>
+  </aside>
+  <main class="main">
+    <section class="card" aria-label="Result">
+      <div class="headline"><h2 id="title"></h2><span id="badges"></span></div>
+      <div class="verdict" id="verdict"></div>
+      <div class="chamber">
+        <div class="hemi" id="hemi"></div>
+        <div class="tw"><table id="tally"></table></div>
+      </div>
+      <p class="small" id="baseNote"></p>
+    </section>
+    <section class="card" aria-label="Map">
+      <div class="row between" style="margin-bottom:8px">
+        <h3 style="font-size:19px" data-i18n="mapTitle"></h3>
+        <div class="seg" role="group" aria-label="Map shading">
+          <button id="shWin" aria-pressed="true" data-i18n="shWin"></button>
+          <button id="shMar" aria-pressed="false" data-i18n="shMar"></button>
+          <button id="shFlip" aria-pressed="false" data-i18n="shFlip"></button>
+        </div>
+      </div>
+      <div class="mapwrap">
+        <div><div class="map" id="map"></div><div class="legend" id="legend"></div></div>
+        <div class="stack">
+          <input class="inp" id="seatSearch" data-i18n-ph="findSeat" aria-label="Find a constituency">
+          <div class="seatlist"><table id="seatTable"></table></div>
+        </div>
+      </div>
+    </section>
+    <section class="card detail" id="detail" aria-label="Seat detail" hidden></section>
+    <section class="card" aria-label="Charts">
+      <h3 data-i18n="charts"></h3>
+      <div class="charts">
+        <figure><figcaption data-i18n="chVS"></figcaption><p class="cap2" data-i18n="chVSsub"></p><div id="chVS"></div></figure>
+        <figure><figcaption data-i18n="chDelta"></figcaption><p class="cap2" id="capDelta"></p><div id="chDelta"></div></figure>
+        <figure><figcaption><span data-i18n="chCurve"></span><select id="curveUnit" aria-label="Party for seat curve"></select></figcaption><p class="cap2" data-i18n="chCurveSub"></p><div id="chCurve"></div></figure>
+        <figure><figcaption data-i18n="chMargin"></figcaption><p class="cap2" data-i18n="chMarginSub"></p><div id="chMargin"></div></figure>
+        <figure class="wide"><figcaption id="capRegion"></figcaption><p class="cap2" id="cap2Region"></p><div id="chRegion"></div></figure>
+      </div>
+    </section>
+    <section class="card" aria-label="History">
+      <div class="row between"><h3 style="font-size:19px" id="histTitle"></h3>
+        <div class="seg" role="group" aria-label="History measure"><button id="hSeats" aria-pressed="true" data-i18n="hSeats"></button><button id="hVotes" aria-pressed="false" data-i18n="hVotes"></button></div></div>
+      <p class="small" style="margin:4px 0 8px" id="histSub"></p>
+      <div class="hist" id="hist"></div>
+    </section>
+  </main>
+</div>
+</div>
+<footer class="footer" data-i18n="footer"></footer>
+</div>
+<div class="tip" id="tip"></div>
+<div class="dock" id="dock" aria-live="polite" hidden></div>
+<div id="modalRoot"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js"></script>
+<!--EMBED-->
+<script>
+(() => {
+'use strict';
+const $ = s => document.querySelector(s);
+const store = {
+  get(k, d){ try{ const v = localStorage.getItem('janadesh:'+k); return v ? JSON.parse(v) : d; }catch(e){ return d; } },
+  set(k, v){ try{ localStorage.setItem('janadesh:'+k, JSON.stringify(v)); }catch(e){} }
+};
+const fmt1 = x => (Math.round(x*10)/10).toFixed(1);
+const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+// ---------- language ----------
+const I18N = {
+en: {
+  brandTag: 'Seat simulator for the Lok Sabha and every Vidhan Sabha',
+  futGroup: 'Future elections', pastGroup: 'Past results', futOpt1: '{y} (next election)', futOptN: '{y} ({k} elections ahead)',
+  badgeAhead: '{n} elections ahead', pTrend: 'Continue the trend to {y}',
+  trendDone: 'Carried the {a} to {b} swing forward to {y}, fading a little each election.', trendOnlyFuture: 'Pick a future year to use this',
+  futTitle: 'Simulate any future election', futWhere: 'Election', futYear: 'Year', futGo: 'Simulate',
+  futHint: 'Every future election starts from the latest real result. In Easy mode, "Continue the trend" carries the most recent swing forward.',
+  langBtn: 'हिंदी', home: 'Home',
+  simOnly: 'Simulation only.',
+  disclaimer: 'This does not show real results, exit polls or forecasts. Seats come from applying your vote shares to past constituency results.',
+  lokSabha: 'Lok Sabha', assembly: 'Assembly', vidhanSabha: 'Vidhan Sabha',
+  heroTitle: 'What if the vote moved?',
+  heroSub: 'Pick any Lok Sabha or Vidhan Sabha election since 1951, shift the vote, and see which seats change hands.',
+  startLS: 'Simulate Lok Sabha 2029', startLSsub: 'Starts from the 2024 result: 543 seats, 272 for a majority.',
+  openSim: 'Open the simulator',
+  homeLive: 'Lok Sabha 2024 as it stands',
+  pickState: 'Pick a state', pickStateSub: 'Each opens the next election, starting from the latest result.',
+  lastElection: 'Last election {y}, {n} seats',
+  howTitle: 'How it works',
+  step1: 'Choose an election', step1b: 'Lok Sabha or any state, any year with data, or the next one.',
+  step2: 'Move the vote', step2b: 'Drag one swing slider, tap a ready-made scenario, or set every party yourself.',
+  step3: 'Read the result', step3b: 'Seat totals, the constituency map, close contests, and odds from a thousand runs.',
+  tryTitle: 'Try a scenario',
+  scn1: 'Lok Sabha 2029: INDIA gains 4 points from NDA', scn2: 'Lok Sabha 2029: NDA gains 4 points from INDIA',
+  scn3: 'Uttar Pradesh next election: BJP and SP neck and neck', scn4: 'West Bengal next election: Trinamool wins back 5 points',
+  dataNote: 'Results data from the Election Commission of India via open datasets. For some recent assembly elections, smaller-party votes in each seat are estimated; winners are always the official results.',
+  // tabs
+  tabEasy: 'Easy', tabVotes: 'Vote share', tabRegion: 'Regions', tabOdds: 'Odds', tabParties: 'Parties', tabSave: 'Save',
+  // result
+  titleLS: 'Lok Sabha {y}', titleAE: '{s} Assembly {y}',
+  nextOpt: '{y} (simulate next)', reconOpt: ' (reconstructed seats)',
+  badgeProj: 'Projection from {y} result', badgeRecon: 'Reconstructed seats', badgePartial: 'Minor-party votes estimated', partialNote: 'Constituency winners and runners-up are the official results; votes of smaller parties in each seat are estimated.', badgeSeats: '{n} seats, {m} for majority',
+  verdictMaj: '{p} wins a majority with {n} seats{c}.',
+  verdictHung: 'Hung house: {p} is largest with {n}{c}, {s} short of a majority.',
+  chg: ' ({d} from {b})',
+  thParty: 'Party', thAlly: 'Alliance / party', thVotes: 'Votes', thSeats: 'Seats', thChange: 'Change from {y}', thSwing: 'Swing',
+  baseNote: '{f} of {n} constituencies change hands compared with the {y} result.',
+  methProp: 'Proportional swing: each party gains or loses in proportion to its existing vote in each seat.',
+  methUnif: 'Uniform swing: each party gains or loses the same number of points in every seat it contested.',
+  others: 'Others', seatsN: '{n} seats', needed: '{n} needed', loading: 'Loading election data',
+  loadFail: 'Could not load election data', loadFailSub: 'Reload the page. If it keeps happening, tell the person who shared it.',
+  // map
+  mapTitle: 'Map', shWin: 'Winner', shMar: 'Margin', shFlip: 'Changed', findSeat: 'Find a constituency',
+  thSeat: 'Seat', thWinner: 'Winner', thLead: 'Lead', gain: 'gain', setByYou: 'set by you',
+  legMar: 'Paler means a closer contest', legFlip: 'Grey means held by the same side', notOnMap: '{n} seats not on the map',
+  noMap: "No boundary map matches this election's constituencies, so seats are shown in ECI number order.",
+  stateMap: "Constituency boundaries for this year are not in the dataset, so each state shows the side winning most of its seats. States are drawn on today's borders. Tap a state to list its seats.",
+  noSeatsData: 'no seats in this election', mapFail: 'The map could not be drawn. The seat list beside it has every result.',
+  loadingMap: 'Loading map', tipLead: 'Lead {d} pts over {p}',
+  // detail
+  close: 'Close', simVote: 'Simulated vote', actual: 'Actual {y} result', reconstructed: ' (reconstructed)',
+  twoMember: 'two-member seat', setWinner: 'Set the winner yourself (overrides the swing for this seat):', useSwing: 'Use swing', winPct: '{n}% win',
+  // charts
+  charts: 'Charts', chVS: 'Votes and seats', chVSsub: 'Vote share (light) against share of seats won (solid).', chVSaxis: 'votes % / seats %',
+  chDelta: 'Seat change', chDeltaSub: 'Seats gained or lost against the {y} result.', chDeltaNone: 'No seats change hands yet. Move a slider to see gains and losses.',
+  chCurve: 'Seat curve', chCurveSub: 'Seats this side would win at each vote share, with everyone else scaled to fit.',
+  curveNow: 'Now {v}%, {n} seats', curveCross: 'Reaches {m} seats on its own at about {v}% of the vote.', curveNo: 'Does not reach {m} seats on its own between {a}% and {b}%.',
+  majLine: '{m} for majority',
+  chMargin: 'How close the seats are', chMarginSub: 'Winning margin in each constituency, in percentage points.', pts: 'pts',
+  chRegState: 'Seats by state', chRegDist: 'Seats by district', chRegSub: 'Simulated winners in the {n} {w} with the most seats.', states: 'states', districts: 'districts',
+  noRegion: 'This election has no regional breakdown in the data.',
+  // history
+  histSeats: 'Seat share over time, {w}', histVotes: 'Vote share over time, {w}', hSeats: 'Seats', hVotes: 'Votes',
+  histSeatsSub: 'Actual share of seats won in each election in the dataset.', histVotesSub: 'Actual vote share in each election in the dataset.',
+  // easy pane
+  easyTitle: 'Swing between two sides', easyHint: 'Move votes from one side to the other. Everyone else stays as in {y}.',
+  easyFrom: 'From', easyTo: 'To', easySwing: '{n} points from {a} to {b}', easyNone: 'No swing: the {y} result',
+  presets: 'Ready-made scenarios', pSame: 'Same as {y}', pRepeat: 'Repeat the last swing', pWave: 'Wave for {p}', pClose: 'Neck and neck',
+  pThird: 'Smaller parties rise', pAnti: 'Anti-incumbency: {p} loses 5',
+  easyMore: 'For full control, set every party in the Vote share tab.',
+  // votes pane
+  modeParty: 'Parties', modeAlly: 'Alliances', setVotes: 'Set vote %', setSeats: 'Set seats', prop: 'Proportional', unif: 'Uniform',
+  hintVotes: 'Type a share or drag a slider. Other parties shrink or grow to keep the total at 100%.',
+  hintSeats: 'Type the number of seats you want a party to win. The simulator finds the vote share that gets it there and rebalances the others.',
+  hintLock: "Tap the lock to freeze a party's share while you move the others.",
+  totalLine: 'Total {v}% of the vote, {n} seats, {m} for majority.',
+  reset: 'Reset to {y}', clearOv: 'Clear seat overrides ({n})', moreParties: 'Show {n} more parties', fewerParties: 'Show fewer parties',
+  transfer: 'Vote transfer between allies:', transferHint: 'Below 100% means some supporters of the partner who stood down do not vote for the alliance candidate.',
+  fixNat: 'Keep overall shares fixed when regional or reserved-seat swings apply',
+  lockOn: 'Locked. This share stays fixed while you move the others.', lockOff: 'Unlocked.', lockTitle: 'Lock this share',
+  seatsTop: '{p} tops out at {n} seats here, at {v}% of the vote.', seatsGot: '{p}: {n} seats needs about {v}% of the vote.',
+  seatsNear: 'Closest possible is {n} seats at {v}%. Seats jump in steps here.', setTo: 'Set to {v}%.',
+  noEarlier: 'No earlier election in the dataset to take a swing from.', repeated: 'Applied the {a} to {b} swing again.',
+  // region pane
+  regTitle: 'Regional swing', regHintLS: 'Add extra swing in one state on top of the national picture.',
+  regHintAE: 'Add extra swing in one district. Districts come from the 2008 constituency map, so older elections may have none.',
+  regUnits: 'Values are in percentage points.', side: 'Side', base: 'Base', now: 'Now', extra: 'Extra pts',
+  regSeats: '{n} seats in {r}. {a} regions adjusted.', clrReg: 'Clear all regional swings',
+  resTitle: 'Reserved seats', resHint: 'Extra swing applied only in SC- or ST-reserved constituencies.', scPts: 'SC pts', stPts: 'ST pts',
+  // odds pane
+  oddsTitle: 'Seat ranges and odds', oddsHint: 'Runs the scenario many times with random polling error at national, regional and seat level, then counts how often each side wins.',
+  errNat: 'National error', errReg: 'Regional error', errSeat: 'Seat-level error', ptsUnit: 'pts', runs: 'Runs', runN: 'Run {n} simulations', running: 'Running {n}%',
+  stale: 'Results below are from before your last change. Run again to update.', chanceMaj: 'chance of {m}+ seats',
+  seatsRange: 'Seats {a}–{b}, median {c}', hung: 'Hung house', noSide: 'no side reaches {m}', distTitle: 'Seat distribution across runs',
+  rangesNote: 'Ranges cover 90% of {n} runs. Seat win chances appear in the seat detail panel.',
+  // parties pane
+  partiesTitle: 'Parties and alliances', partiesHint: 'Rename parties, change colours, or move a party into a different alliance. Alliance changes take effect in the Alliances view.',
+  newAlly: 'New alliance name', add: 'Add', colour: 'Colour', alliance: 'Alliance', none: 'None', restore: 'Restore default names and colours',
+  allyAdded: '"{a}" added. Pick it in a party\'s alliance box.',
+  // save pane
+  saveTitle: 'Save and share', saveHint: 'Scenarios are saved in this browser. To share one, copy its code and send it; anyone can paste it into the box below.',
+  scName: 'Scenario name', save: 'Save', open: 'Open', del: 'Delete', noSaved: 'No saved scenarios yet.',
+  cpCode: 'Copy scenario code', cpCSV: 'Copy seat results (CSV)', mkImg: 'Make image', pasteCode: 'Paste a scenario code', openPasted: 'Open pasted scenario',
+  saved: 'Saved "{n}".', codeCopied: 'Scenario code copied.', csvCopied: 'Seat results copied as CSV.', badCode: 'That code could not be read. Copy it again from the sender and paste the whole thing.',
+  noElection: 'That election is not in this dataset.', scnOpened: 'Scenario opened.', copyThis: 'Copy this', copyBlocked: 'Your browser blocked automatic copying. Select the text and copy it.',
+  imgTitle: 'Result image', imgHint: 'Right-click or long-press the image to save or share it.', download: 'Download',
+  imgFoot: 'Simulation only. Not a real result or forecast. {m} seats needed for majority.',
+  footer: 'Data: Election Commission of India results via DataMeet and other open datasets on GitHub, plus Wikipedia statewide tables for elections without seat-level data. For recent assembly elections without full open seat-level data, every constituency winner and runner-up comes from the official results (via Wikipedia), and only smaller-party votes in each seat are estimated. 1951 and 1957 two-member seats are approximated. Maps: DataMeet boundaries (2008 delimitation). Independent simulation, not affiliated with the ECI.',
+},
+hi: {
+  brandTag: 'लोकसभा और हर विधानसभा के लिए सीट सिम्युलेटर',
+  futGroup: 'आने वाले चुनाव', pastGroup: 'पिछले नतीजे', futOpt1: '{y} (अगला चुनाव)', futOptN: '{y} ({k} चुनाव आगे)',
+  badgeAhead: '{n} चुनाव आगे', pTrend: '{y} तक रुझान जारी रखें',
+  trendDone: '{a} से {b} वाला स्विंग {y} तक आगे बढ़ाया, हर चुनाव में थोड़ा कम होते हुए।', trendOnlyFuture: 'इसके लिए आने वाला कोई साल चुनें',
+  futTitle: 'कोई भी आने वाला चुनाव सिम्युलेट करें', futWhere: 'चुनाव', futYear: 'साल', futGo: 'सिम्युलेट करें',
+  futHint: 'हर आने वाला चुनाव पिछले असली नतीजे से शुरू होता है। आसान मोड में "रुझान जारी रखें" हाल का स्विंग आगे बढ़ाता है।',
+  langBtn: 'English', home: 'होम',
+  simOnly: 'सिर्फ़ सिम्युलेशन।',
+  disclaimer: 'यह असली नतीजे, एग्ज़िट पोल या पूर्वानुमान नहीं है। सीटें पिछले चुनावों के क्षेत्रवार नतीजों पर आपके वोट प्रतिशत लगाकर निकाली जाती हैं।',
+  lokSabha: 'लोकसभा', assembly: 'विधानसभा', vidhanSabha: 'विधानसभा',
+  heroTitle: 'अगर वोट बदल जाए तो?',
+  heroSub: '1951 से अब तक का कोई भी लोकसभा या विधानसभा चुनाव चुनें, वोट बदलें और देखें कौन-सी सीटें किसके हाथ जाती हैं।',
+  startLS: 'लोकसभा 2029 का सिम्युलेशन करें', startLSsub: '2024 के नतीजे से शुरुआत: 543 सीटें, बहुमत के लिए 272।',
+  openSim: 'सिम्युलेटर खोलें',
+  homeLive: 'लोकसभा 2024 की मौजूदा स्थिति',
+  pickState: 'राज्य चुनें', pickStateSub: 'हर राज्य अगला चुनाव खोलता है, जो पिछले नतीजे से शुरू होता है।',
+  lastElection: 'पिछला चुनाव {y}, {n} सीटें',
+  howTitle: 'यह कैसे काम करता है',
+  step1: 'चुनाव चुनें', step1b: 'लोकसभा या कोई भी राज्य, डेटा वाला कोई भी साल, या अगला चुनाव।',
+  step2: 'वोट बदलें', step2b: 'एक स्विंग स्लाइडर खिसकाएँ, कोई तैयार परिदृश्य चुनें, या हर दल का वोट खुद तय करें।',
+  step3: 'नतीजा देखें', step3b: 'कुल सीटें, निर्वाचन-क्षेत्र का नक्शा, करीबी मुकाबले और हज़ार बार चलाने पर संभावनाएँ।',
+  tryTitle: 'कोई परिदृश्य आज़माएँ',
+  scn1: 'लोकसभा 2029: इंडिया गठबंधन को एनडीए से 4 अंक का फ़ायदा', scn2: 'लोकसभा 2029: एनडीए को इंडिया गठबंधन से 4 अंक का फ़ायदा',
+  scn3: 'उत्तर प्रदेश का अगला चुनाव: भाजपा और सपा में कांटे की टक्कर', scn4: 'पश्चिम बंगाल का अगला चुनाव: तृणमूल को 5 अंक वापस',
+  dataNote: 'नतीजों का डेटा खुले डेटासेट के ज़रिए भारत निर्वाचन आयोग से। कुछ हालिया विधानसभा चुनावों में हर सीट पर छोटे दलों के वोट अनुमानित हैं; विजेता हमेशा आधिकारिक नतीजे हैं।',
+  tabEasy: 'आसान', tabVotes: 'वोट प्रतिशत', tabRegion: 'क्षेत्र', tabOdds: 'संभावना', tabParties: 'दल', tabSave: 'सेव',
+  titleLS: 'लोकसभा {y}', titleAE: '{s} विधानसभा {y}',
+  nextOpt: '{y} (अगला चुनाव)', reconOpt: ' (पुनर्निर्मित सीटें)',
+  badgeProj: '{y} के नतीजे पर आधारित अनुमान', badgeRecon: 'पुनर्निर्मित सीटें', badgePartial: 'छोटे दलों के वोट अनुमानित', partialNote: 'हर सीट के विजेता और उपविजेता आधिकारिक नतीजे हैं; छोटे दलों के वोट अनुमानित हैं।', badgeSeats: '{n} सीटें, बहुमत के लिए {m}',
+  verdictMaj: '{p} को {n} सीटों{c} के साथ बहुमत।',
+  verdictHung: 'त्रिशंकु सदन: {p} {n} सीटों{c} के साथ सबसे बड़ा, बहुमत से {s} कम।',
+  chg: ' ({b} से {d})',
+  thParty: 'दल', thAlly: 'गठबंधन / दल', thVotes: 'वोट', thSeats: 'सीटें', thChange: '{y} से बदलाव', thSwing: 'स्विंग',
+  baseNote: '{y} के नतीजे की तुलना में {n} में से {f} सीटें बदलती हैं।',
+  methProp: 'आनुपातिक स्विंग: हर दल हर सीट पर अपने मौजूदा वोट के अनुपात में बढ़ता या घटता है।',
+  methUnif: 'समान स्विंग: हर दल अपनी लड़ी हर सीट पर उतने ही अंक बढ़ता या घटता है।',
+  others: 'अन्य', seatsN: '{n} सीटें', needed: '{n} चाहिए', loading: 'चुनाव डेटा लोड हो रहा है',
+  loadFail: 'चुनाव डेटा लोड नहीं हुआ', loadFailSub: 'पेज दोबारा लोड करें। बार-बार हो तो जिसने लिंक भेजा उसे बताएँ।',
+  mapTitle: 'नक्शा', shWin: 'विजेता', shMar: 'अंतर', shFlip: 'बदली सीटें', findSeat: 'सीट खोजें',
+  thSeat: 'सीट', thWinner: 'विजेता', thLead: 'बढ़त', gain: 'नई जीत', setByYou: 'आपने तय किया',
+  legMar: 'हल्का रंग यानी करीबी मुकाबला', legFlip: 'स्लेटी यानी वही पक्ष कायम', notOnMap: '{n} सीटें नक्शे पर नहीं',
+  noMap: 'इस चुनाव के निर्वाचन-क्षेत्रों से मेल खाता नक्शा नहीं है, इसलिए सीटें निर्वाचन आयोग के क्रम में दिखाई गई हैं।',
+  stateMap: 'इस साल की सीमाएँ डेटा में नहीं हैं, इसलिए हर राज्य उस पक्ष के रंग में है जो वहाँ सबसे ज़्यादा सीटें जीतता है। राज्य आज की सीमाओं पर बने हैं। किसी राज्य पर टैप करें तो उसकी सीटें दिखेंगी।',
+  noSeatsData: 'इस चुनाव में कोई सीट नहीं', mapFail: 'नक्शा नहीं बन सका। बगल की सूची में हर नतीजा है।',
+  loadingMap: 'नक्शा लोड हो रहा है', tipLead: '{p} पर {d} अंक की बढ़त',
+  close: 'बंद करें', simVote: 'सिम्युलेटेड वोट', actual: 'असल {y} नतीजा', reconstructed: ' (पुनर्निर्मित)',
+  twoMember: 'दो-सदस्यीय सीट', setWinner: 'विजेता खुद तय करें (इस सीट पर स्विंग की जगह लागू होगा):', useSwing: 'स्विंग से तय', winPct: '{n}% जीत',
+  charts: 'चार्ट', chVS: 'वोट और सीटें', chVSsub: 'वोट प्रतिशत (हल्का) बनाम जीती सीटों का हिस्सा (गहरा)।', chVSaxis: 'वोट % / सीट %',
+  chDelta: 'सीटों में बदलाव', chDeltaSub: '{y} के नतीजे के मुकाबले जीती या हारी सीटें।', chDeltaNone: 'अभी कोई सीट नहीं बदली। फ़ायदा-नुकसान देखने के लिए स्लाइडर खिसकाएँ।',
+  chCurve: 'सीट कर्व', chCurveSub: 'हर वोट प्रतिशत पर यह पक्ष कितनी सीटें जीतेगा, बाकी सबको उसी हिसाब से घटा-बढ़ाकर।',
+  curveNow: 'अभी {v}%, {n} सीटें', curveCross: 'करीब {v}% वोट पर अकेले {m} सीटें छू लेता है।', curveNo: '{a}% से {b}% के बीच अकेले {m} सीटों तक नहीं पहुँचता।',
+  majLine: 'बहुमत {m}',
+  chMargin: 'मुकाबला कितना करीबी', chMarginSub: 'हर सीट पर जीत का अंतर, प्रतिशत अंकों में।', pts: 'अंक',
+  chRegState: 'राज्यवार सीटें', chRegDist: 'ज़िलावार सीटें', chRegSub: 'सबसे ज़्यादा सीटों वाले {n} {w} में सिम्युलेटेड विजेता।', states: 'राज्यों', districts: 'ज़िलों',
+  noRegion: 'इस चुनाव के डेटा में क्षेत्रवार बँटवारा नहीं है।',
+  histSeats: 'समय के साथ सीटों का हिस्सा, {w}', histVotes: 'समय के साथ वोट प्रतिशत, {w}', hSeats: 'सीटें', hVotes: 'वोट',
+  histSeatsSub: 'डेटा के हर चुनाव में जीती सीटों का असल हिस्सा।', histVotesSub: 'डेटा के हर चुनाव में असल वोट प्रतिशत।',
+  easyTitle: 'दो पक्षों के बीच स्विंग', easyHint: 'एक पक्ष से दूसरे पक्ष की ओर वोट खिसकाएँ। बाकी सब {y} जैसे रहेंगे।',
+  easyFrom: 'से', easyTo: 'की ओर', easySwing: '{a} से {b} की ओर {n} अंक', easyNone: 'कोई स्विंग नहीं: {y} का नतीजा',
+  presets: 'तैयार परिदृश्य', pSame: '{y} जैसा', pRepeat: 'पिछला स्विंग दोहराएँ', pWave: '{p} की लहर', pClose: 'कांटे की टक्कर',
+  pThird: 'छोटे दलों का उभार', pAnti: 'सत्ता-विरोधी लहर: {p} को 5 का नुकसान',
+  easyMore: 'पूरे नियंत्रण के लिए वोट प्रतिशत टैब में हर दल का वोट तय करें।',
+  modeParty: 'दल', modeAlly: 'गठबंधन', setVotes: 'वोट % तय करें', setSeats: 'सीटें तय करें', prop: 'आनुपातिक', unif: 'समान',
+  hintVotes: 'प्रतिशत लिखें या स्लाइडर खिसकाएँ। कुल 100% रखने के लिए बाकी दल अपने-आप घटते-बढ़ते हैं।',
+  hintSeats: 'जितनी सीटें किसी दल को जितानी हैं, वह संख्या लिखें। सिम्युलेटर ज़रूरी वोट प्रतिशत ढूँढकर बाकी दलों को संतुलित कर देगा।',
+  hintLock: 'ताले पर टैप करें तो उस दल का प्रतिशत स्थिर रहेगा, जबकि आप बाकी को बदलेंगे।',
+  totalLine: 'कुल {v}% वोट, {n} सीटें, बहुमत के लिए {m}।',
+  reset: '{y} पर लौटें', clearOv: 'आपकी तय की गई सीटें हटाएँ ({n})', moreParties: '{n} और दल दिखाएँ', fewerParties: 'कम दल दिखाएँ',
+  transfer: 'सहयोगियों के बीच वोट ट्रांसफ़र:', transferHint: '100% से कम का मतलब है कि सीट छोड़ने वाले सहयोगी के कुछ समर्थक गठबंधन उम्मीदवार को वोट नहीं देते।',
+  fixNat: 'क्षेत्रीय या आरक्षित-सीट स्विंग लगाने पर भी कुल प्रतिशत स्थिर रखें',
+  lockOn: 'लॉक हो गया। बाकी बदलने पर भी यह प्रतिशत स्थिर रहेगा।', lockOff: 'अनलॉक हो गया।', lockTitle: 'यह प्रतिशत लॉक करें',
+  seatsTop: 'यहाँ {p} अधिकतम {n} सीटें, {v}% वोट पर, जीत सकता है।', seatsGot: '{p}: {n} सीटों के लिए करीब {v}% वोट चाहिए।',
+  seatsNear: 'सबसे करीब {v}% पर {n} सीटें हैं। यहाँ सीटें एक साथ कई बदलती हैं।', setTo: '{v}% पर तय किया।',
+  noEarlier: 'डेटा में इससे पहले का कोई चुनाव नहीं है।', repeated: '{a} से {b} वाला स्विंग फिर से लगाया।',
+  regTitle: 'क्षेत्रीय स्विंग', regHintLS: 'राष्ट्रीय तस्वीर के ऊपर किसी एक राज्य में अतिरिक्त स्विंग जोड़ें।',
+  regHintAE: 'किसी एक ज़िले में अतिरिक्त स्विंग जोड़ें। ज़िले 2008 के नक्शे से हैं, इसलिए पुराने चुनावों में न भी हों।',
+  regUnits: 'मान प्रतिशत अंकों में हैं।', side: 'पक्ष', base: 'आधार', now: 'अभी', extra: 'अतिरिक्त अंक',
+  regSeats: '{r} में {n} सीटें। {a} क्षेत्रों में बदलाव।', clrReg: 'सारे क्षेत्रीय स्विंग हटाएँ',
+  resTitle: 'आरक्षित सीटें', resHint: 'अतिरिक्त स्विंग सिर्फ़ अनुसूचित जाति या जनजाति के लिए आरक्षित सीटों पर।', scPts: 'SC अंक', stPts: 'ST अंक',
+  oddsTitle: 'सीटों का दायरा और संभावना', oddsHint: 'परिदृश्य को कई बार चलाता है, हर बार राष्ट्रीय, क्षेत्रीय और सीट स्तर पर अनुमान की गलती जोड़कर, फिर गिनता है कि कौन कितनी बार जीता।',
+  errNat: 'राष्ट्रीय गलती', errReg: 'क्षेत्रीय गलती', errSeat: 'सीट-स्तर गलती', ptsUnit: 'अंक', runs: 'कितनी बार', runN: '{n} सिम्युलेशन चलाएँ', running: 'चल रहा है {n}%',
+  stale: 'ये नतीजे आपके पिछले बदलाव से पहले के हैं। अपडेट करने के लिए फिर चलाएँ।', chanceMaj: '{m}+ सीटों की संभावना',
+  seatsRange: 'सीटें {a}–{b}, मध्य {c}', hung: 'त्रिशंकु सदन', noSide: 'कोई पक्ष {m} तक नहीं', distTitle: 'सभी रन में सीटों का बँटवारा',
+  rangesNote: 'दायरा {n} रन का 90% हिस्सा दिखाता है। हर सीट पर जीत की संभावना सीट विवरण में है।',
+  partiesTitle: 'दल और गठबंधन', partiesHint: 'दलों के नाम या रंग बदलें, या किसी दल को दूसरे गठबंधन में डालें। गठबंधन के बदलाव गठबंधन वाले व्यू में दिखेंगे।',
+  newAlly: 'नए गठबंधन का नाम', add: 'जोड़ें', colour: 'रंग', alliance: 'गठबंधन', none: 'कोई नहीं', restore: 'मूल नाम और रंग वापस लाएँ',
+  allyAdded: '"{a}" जुड़ गया। किसी दल के गठबंधन बॉक्स में इसे चुनें।',
+  saveTitle: 'सेव करें और शेयर करें', saveHint: 'परिदृश्य इसी ब्राउज़र में सेव होते हैं। शेयर करने के लिए कोड कॉपी करके भेजें; कोई भी नीचे के बॉक्स में पेस्ट कर सकता है।',
+  scName: 'परिदृश्य का नाम', save: 'सेव करें', open: 'खोलें', del: 'हटाएँ', noSaved: 'अभी कोई परिदृश्य सेव नहीं है।',
+  cpCode: 'परिदृश्य कोड कॉपी करें', cpCSV: 'सीटवार नतीजे कॉपी करें (CSV)', mkImg: 'तस्वीर बनाएँ', pasteCode: 'परिदृश्य कोड पेस्ट करें', openPasted: 'पेस्ट किया परिदृश्य खोलें',
+  saved: '"{n}" सेव हो गया।', codeCopied: 'परिदृश्य कोड कॉपी हो गया।', csvCopied: 'सीटवार नतीजे CSV में कॉपी हो गए।', badCode: 'यह कोड पढ़ा नहीं जा सका। भेजने वाले से दोबारा पूरा कोड कॉपी करके पेस्ट करें।',
+  noElection: 'यह चुनाव इस डेटा में नहीं है।', scnOpened: 'परिदृश्य खुल गया।', copyThis: 'इसे कॉपी करें', copyBlocked: 'ब्राउज़र ने अपने-आप कॉपी नहीं होने दिया। टेक्स्ट चुनकर कॉपी करें।',
+  imgTitle: 'नतीजे की तस्वीर', imgHint: 'सेव या शेयर करने के लिए तस्वीर पर राइट-क्लिक या देर तक दबाएँ।', download: 'डाउनलोड',
+  imgFoot: 'सिर्फ़ सिम्युलेशन। असली नतीजा या पूर्वानुमान नहीं। बहुमत के लिए {m} सीटें।',
+  footer: 'डेटा: भारत निर्वाचन आयोग के नतीजे, DataMeet और GitHub के अन्य खुले डेटासेट से, और जिन चुनावों का सीटवार डेटा नहीं मिला उनके लिए विकिपीडिया की राज्य-स्तरीय तालिकाएँ। जिन हालिया विधानसभा चुनावों का पूरा सीटवार खुला डेटा नहीं है, उनमें हर सीट के विजेता और उपविजेता आधिकारिक नतीजों (विकिपीडिया के ज़रिए) से हैं; सिर्फ़ छोटे दलों के वोट अनुमानित हैं। 1951 और 1957 की दो-सदस्यीय सीटें अनुमानित हैं। नक्शे: DataMeet सीमाएँ (2008 परिसीमन)। स्वतंत्र सिम्युलेशन, निर्वाचन आयोग से संबद्ध नहीं।',
+}};
+const HI_STATE = {
+  'Andaman & Nicobar Islands':'अंडमान और निकोबार', 'Andhra Pradesh':'आंध्र प्रदेश', 'Arunachal Pradesh':'अरुणाचल प्रदेश', 'Assam':'असम', 'Bihar':'बिहार',
+  'Chandigarh':'चंडीगढ़', 'Chhattisgarh':'छत्तीसगढ़', 'Dadra & Nagar Haveli and Daman & Diu':'दादरा नगर हवेली और दमन दीव', 'Dadra & Nagar Haveli':'दादरा और नगर हवेली',
+  'Daman & Diu':'दमन और दीव', 'Delhi':'दिल्ली', 'Goa':'गोवा', 'Gujarat':'गुजरात', 'Haryana':'हरियाणा', 'Himachal Pradesh':'हिमाचल प्रदेश',
+  'Jammu & Kashmir':'जम्मू और कश्मीर', 'Jharkhand':'झारखंड', 'Karnataka':'कर्नाटक', 'Kerala':'केरल', 'Ladakh':'लद्दाख', 'Lakshadweep':'लक्षद्वीप',
+  'Madhya Pradesh':'मध्य प्रदेश', 'Maharashtra':'महाराष्ट्र', 'Manipur':'मणिपुर', 'Meghalaya':'मेघालय', 'Mizoram':'मिज़ोरम', 'Nagaland':'नगालैंड',
+  'Odisha':'ओडिशा', 'Puducherry':'पुडुचेरी', 'Punjab':'पंजाब', 'Rajasthan':'राजस्थान', 'Sikkim':'सिक्किम', 'Tamil Nadu':'तमिलनाडु', 'Telangana':'तेलंगाना',
+  'Tripura':'त्रिपुरा', 'Uttar Pradesh':'उत्तर प्रदेश', 'Uttarakhand':'उत्तराखंड', 'West Bengal':'पश्चिम बंगाल',
+  'Ajmer':'अजमेर', 'Bhopal':'भोपाल', 'Bilaspur':'बिलासपुर', 'Bombay':'बंबई', 'Coorg':'कुर्ग', 'Hyderabad':'हैदराबाद', 'Kutch':'कच्छ', 'Madhya Bharat':'मध्य भारत',
+  'Madras':'मद्रास', 'Mysore':'मैसूर', 'Patiala and East Punjab States Union':'पेप्सू', 'Saurashtra':'सौराष्ट्र', 'Travancore Cochin':'त्रावणकोर-कोचीन',
+  'Vindhya Pradesh':'विंध्य प्रदेश', 'Goa, Daman & Diu':'गोवा, दमन और दीव',
+};
+const HI_PARTY = {
+  BJP:'भाजपा', INC:'कांग्रेस', AAP:'आम आदमी पार्टी', AITC:'तृणमूल कांग्रेस', SP:'समाजवादी पार्टी', BSP:'बसपा', DMK:'द्रमुक', AIADMK:'अन्नाद्रमुक',
+  TDP:'तेलुगु देशम', YSRCP:'वाईएसआर कांग्रेस', JDU:'जद (यू)', JDS:'जद (एस)', RJD:'राजद', SHS:'शिवसेना', SHS_SHINDE:'शिवसेना (शिंदे)', SSUBT:'शिवसेना (उबाठा)',
+  NCP:'राकांपा', NCPSP:'राकांपा (शरद पवार)', 'CPI(M)':'माकपा', CPI:'भाकपा', CPIML:'भाकपा (माले)', BJD:'बीजद', JMM:'झामुमो', BRS:'बीआरएस (टीआरएस)',
+  AIMIM:'एआईएमआईएम', IUML:'मुस्लिम लीग', SAD:'शिरोमणि अकाली दल', INLD:'इनेलो', JJP:'जजपा', AGP:'असम गण परिषद', AIUDF:'एआईयूडीएफ', BPF:'बीपीएफ',
+  NPP:'एनपीपी', NPF:'एनपीएफ', NDPP:'एनडीपीपी', MNF:'मिज़ो नेशनल फ़्रंट', ZPM:'ज़ोरम पीपल्स मूवमेंट', SKM:'सिक्किम क्रांतिकारी मोर्चा', SDF:'सिक्किम डेमोक्रेटिक फ़्रंट',
+  JKNC:'नेशनल कॉन्फ़्रेंस', JKPDP:'पीडीपी', LJP:'लोजपा', LJPRV:'लोजपा (रामविलास)', HAMS:'हम (सेक्युलर)', VIP:'वीआईपी', RLM:'रालोमो', RLD:'रालोद',
+  ADS:'अपना दल (एस)', SBSP:'सुभासपा', NISHAD:'निषाद पार्टी', AJSU:'आजसू', JVM:'झाविमो', MNS:'मनसे', VBA:'वंचित बहुजन आघाडी', KCM:'केरल कांग्रेस (एम)',
+  RSP:'आरएसपी', AIFB:'फ़ॉरवर्ड ब्लॉक', PMK:'पीएमके', DMDK:'डीएमडीके', MDMK:'एमडीएमके', VCK:'वीसीके', NTK:'नाम तमिलर काची', TVK:'तमिलगा वेत्री कड़गम',
+  AINRC:'एआईएनआरसी', JSP:'जनसेना', JSURAJ:'जन सुराज', TIPRA:'टिपरा मोथा', UDP:'यूडीपी', VPP:'वीपीपी', IND:'निर्दलीय', OTH:'अन्य', NOTA:'नोटा',
+  BJS:'भारतीय जनसंघ', JNP:'जनता पार्टी', JD:'जनता दल', SWA:'स्वतंत्र पार्टी', PSP:'प्रजा सोशलिस्ट पार्टी', SSP:'संयुक्त सोशलिस्ट पार्टी', SOC:'सोशलिस्ट पार्टी',
+  KMPP:'किसान मज़दूर प्रजा पार्टी', BLD:'भारतीय लोक दल', NCO:'कांग्रेस (ओ)', JNPS:'जनता पार्टी (सेक्युलर)', ICS:'कांग्रेस (समाजवादी)', INCU:'कांग्रेस (यू)',
+  BAP:'भारत आदिवासी पार्टी', RLTP:'रालोपा', JCCJ:'जनता कांग्रेस छत्तीसगढ़', ASPKR:'आज़ाद समाज पार्टी', 'TMC(M)':'तमिल मानिला कांग्रेस', AISF:'आईएसएफ़', AJUP:'एजेयूपी',
+};
+const HI_ALLY = { NDA:'एनडीए', INDIA:'इंडिया गठबंधन', UPA:'यूपीए', MGB:'महागठबंधन', Mahagathbandhan:'महागठबंधन', Mahayuti:'महायुति', MVA:'महा विकास आघाडी',
+  LDF:'एलडीएफ़', UDF:'यूडीएफ़', Left:'वाम मोर्चा', 'Left Front':'वाम मोर्चा', 'Left+INC':'वाम + कांग्रेस', 'SP+INC':'सपा + कांग्रेस', 'SP+':'सपा गठबंधन',
+  'DMK+':'द्रमुक गठबंधन', 'AIADMK+':'अन्नाद्रमुक गठबंधन', SPA:'एसपीए', Mahajot:'महाजोट', 'Sanyukta Morcha':'संयुक्त मोर्चा', 'National Front':'राष्ट्रीय मोर्चा',
+  'United Front':'संयुक्त मोर्चा', 'Third Front':'तीसरा मोर्चा', 'INC+':'कांग्रेस गठबंधन', 'Praja Kutami':'प्रजा कूटमी', MDA:'एमडीए', 'SAD+BSP':'अकाली + बसपा',
+  'AAP+':'आप गठबंधन', 'INLD+':'इनेलो गठबंधन', Opposition:'विपक्ष' };
+let LANG = 'en';
+try{ LANG = localStorage.getItem('janadesh:lang') === '"hi"' ? 'hi' : 'en'; }catch(e){}
+function t(k, v){ let s = (I18N[LANG] && I18N[LANG][k] != null) ? I18N[LANG][k] : (I18N.en[k] != null ? I18N.en[k] : k);
+  return v ? s.replace(/\{(\w+)\}/g, (m, x) => v[x] != null ? v[x] : '') : s; }
+function stName(s){ return LANG === 'hi' && HI_STATE[s] ? HI_STATE[s] : s; }
+function allyName(a){ return LANG === 'hi' && HI_ALLY[a] ? HI_ALLY[a] : a; }
+
+
+let INDEX = null, META = {}, BUNDLES = {}, MAPS = {};
+const S = {
+  kind:'LS', state:null, eid:null, next:false,
+  mode:'party', method:'prop', fixNational:true, transfer:100,
+  T:{}, locks:{}, regional:{}, reserved:{SC:{}, ST:{}}, overrides:{},
+  allyEdit:{}, partyEdit: store.get('partyEdit', {}),
+  ahead:0, shade:'win', sel:null, tab:'easy', mc:null, mcSig:{nat:2, reg:2, seat:4, n:1000},
+  swing:{a:null, b:null, pts:0}, inputMode:'votes', histMode:'seats',
+};
+let E = null, U = [], RES = null;
+
+// ---------- data ----------
+function fromEmbedded(u){
+  const el = document.getElementById('d:'+u); if(!el) return null;
+  const bin = atob(el.textContent.trim()); const a = new Uint8Array(bin.length);
+  for(let i=0;i<bin.length;i++) a[i] = bin.charCodeAt(i);
+  el.remove();
+  return JSON.parse(pako.ungzip(a, {to:'string'}));
+}
+async function getJSON(u){ const e = fromEmbedded(u); if(e) return e; const r = await fetch(u); if(!r.ok) throw new Error(u+' '+r.status); return r.json(); }
+async function bundle(file){ if(!BUNDLES[file]) BUNDLES[file] = await getJSON('data/'+file+'.json'); return BUNDLES[file]; }
+async function mapFor(name){ if(!MAPS[name]) MAPS[name] = await getJSON('maps/'+name+'.json'); return MAPS[name]; }
+
+function pName(c){ return (S.partyEdit[c] && S.partyEdit[c].n) || (LANG === 'hi' && HI_PARTY[c]) || (META[c] && META[c].n) || c; }
+function pColor(c){ return (S.partyEdit[c] && S.partyEdit[c].c) || (META[c] && META[c].c) || '#9aa0aa'; }
+function allyColor(name, members){ return members.length ? pColor(members[0]) : '#9aa0aa'; }
+
+function prepare(raw){
+  const P = raw.parties.length;
+  const seats = raw.seats.map((s, i) => {
+    const v = new Float64Array(P);
+    const flat = s[4];
+    for(let k=0;k<flat.length;k+=2) v[flat[k]] += flat[k+1];
+    v[P-1] += s[5];
+    let tot = 0; for(let k=0;k<P;k++) tot += v[k];
+    return {i, no:s[0], name:s[1], cat:s[2], r:s[3], v, tot, m:s[6]||1, m2:s[7]||null,
+            key: raw.mapkeys ? raw.mapkeys[i] : (s[0] + (raw.mapoff||0))};
+  });
+  return {raw, P, seats, parties:raw.parties, regions:raw.regions||[], N: seats.reduce((a,s)=>a+s.m,0)};
+}
+
+function alliancesOf(){
+  const a = Object.assign({}, E.raw.alliances, S.allyEdit);
+  for(const k in a) if(!a[k]) delete a[k];
+  return a;
+}
+
+function buildUnits(){
+  const P = E.P, codes = E.parties;
+  const totAll = E.seats.reduce((a,s)=>a+s.tot,0);
+  const pv = new Float64Array(P); E.seats.forEach(s => { for(let k=0;k<P;k++) pv[k]+=s.v[k]; });
+  const pseats = new Float64Array(P);
+  E.seats.forEach(s => { let b=-1,bi=-1; for(let k=0;k<P-1;k++) if(s.v[k]>b){b=s.v[k];bi=k;} if(bi>=0) pseats[bi]+=s.m; });
+  const ally = S.mode === 'alliance' ? alliancesOf() : {};
+  const groups = new Map();
+  for(let k=0;k<P;k++){
+    const c = codes[k];
+    let key = c, name = pName(c);
+    if(c !== 'OTH' && ally[c]){ key = 'A:'+ally[c]; name = allyName(ally[c]); }
+    if(!groups.has(key)) groups.set(key, {key, name, members:[], vote:0, seats:0});
+    const g = groups.get(key); g.members.push(k); g.vote += pv[k]; g.seats += pseats[k];
+  }
+  let list = [...groups.values()];
+  list.forEach(g => g.members.sort((a,b)=>pv[b]-pv[a]));
+  // small units fold into Others
+  list.sort((a,b)=>b.vote-a.vote);
+  const keep = [], oth = {key:'OTH', name:t('others'), members:[], vote:0, seats:0};
+  list.forEach(g => {
+    if(g.key === 'OTH'){ oth.members.push(...g.members); oth.vote += g.vote; oth.seats += g.seats; return; }
+    const share = g.vote/totAll;
+    if(g.seats > 0 || (keep.length < 14 && share >= 0.004)) keep.push(g);
+    else { oth.members.push(...g.members); oth.vote += g.vote; oth.seats += g.seats; }
+  });
+  keep.push(oth);
+  keep.forEach(g => {
+    g.base = 100*g.vote/totAll;
+    g.color = g.key === 'OTH' ? 'var(--muted)' : (g.key.startsWith('A:') ? allyColor(g.name, g.members.map(k=>codes[k])) : pColor(g.key));
+    g.hex = g.key === 'OTH' ? '#9aa0aa' : (g.key.startsWith('A:') ? allyColor(g.name, g.members.map(k=>codes[k])) : pColor(g.key));
+  });
+  U = keep;
+  // unit index per party
+  E.unitOf = new Int32Array(P);
+  U.forEach((g,ui) => g.members.forEach(k => E.unitOf[k] = ui));
+  // per-seat unit votes (alliance members merged, transfer applied to non-lead members)
+  const tr = S.transfer/100;
+  E.seats.forEach(s => {
+    const u = new Float64Array(U.length);
+    const lead = new Float64Array(U.length);
+    U.forEach((g,ui) => { let mx=0,sum=0; g.members.forEach(k=>{ sum+=s.v[k]; if(s.v[k]>mx) mx=s.v[k]; }); lead[ui]=mx;
+      u[ui] = g.key==='OTH' || !g.key.startsWith('A:') ? sum : mx + tr*(sum-mx); });
+    let t=0; for(let k=0;k<u.length;k++) t+=u[k];
+    s.u = u; s.ut = t || 1;
+    s.base = u.map(x => x/(t||1));
+  });
+  // recompute base share with merged votes
+  const totU = E.seats.reduce((a,s)=>a+s.ut,0);
+  U.forEach((g,ui) => { g.base = 100*E.seats.reduce((a,s)=>a+s.u[ui],0)/totU; });
+  // base seats by unit
+  const bs = winners(E.seats.map(s=>s.base), null);
+  U.forEach((g,ui)=> g.baseSeats = bs.counts[ui]);
+  E.baseWin = bs.win;
+}
+
+// ---------- engine ----------
+function winners(shares, overrides){
+  const counts = new Float64Array(U.length), win = [], second = [];
+  const othI = U.length-1;
+  E.seats.forEach((s, i) => {
+    const x = shares[i];
+    let order = [...x.keys()].sort((a,b)=>x[b]-x[a]);
+    // "Others" is a bundle of small parties; it can only win if it is genuinely a single party's lead
+    if(order[0] === othI && U[othI].members.length > 1){
+      const realTop = s.v.reduce((b,v,k)=> (k < E.P-1 && E.unitOf[k]===othI && v>b.v) ? {v,k} : b, {v:-1,k:-1});
+      const topShare = realTop.v / s.tot;
+      if(topShare < x[order[1]]) order = order.slice(1).concat(othI);
+    }
+    let w = order[0];
+    if(overrides && overrides[s.no] != null){ const ui = U.findIndex(g=>g.key===overrides[s.no]); if(ui>=0) w = ui; }
+    win[i] = w; second[i] = order[0] === w ? order[1] : order[0];
+    counts[w] += 1;
+    if(s.m > 1){
+      // two-member seat: the winning party's second candidate takes the second seat if it out-polled every rival
+      const r2 = order.find(k => k !== w);
+      let w2 = r2;
+      if(s.m2 && E.unitOf[s.m2[0]] === w){ const lv = s.v[s.m2[0]] || 1; if(x[w] * s.m2[1] / lv > x[r2]) w2 = w; }
+      counts[w2] += s.m-1;
+    }
+  });
+  return {counts, win, second};
+}
+
+function simulate(T, noise){
+  // T: target shares (percent) per unit; returns per-seat share arrays
+  const n = U.length, method = S.method;
+  const base = U.map(g=>g.base);
+  const reg = S.regional, res = S.reserved;
+  const regDelta = (r, ui) => { const o = reg[E.regions[r]]; return o && o[U[ui].key] ? o[U[ui].key]/100 : 0; };
+  let f = T.map((t,ui) => base[ui] > 0 ? t/base[ui] : 0);      // proportional factors
+  let d = T.map((t,ui) => (t-base[ui])/100);                    // uniform shifts
+  let out;
+  for(let pass=0; pass<5; pass++){
+    out = E.seats.map((s, i) => {
+      const x = new Float64Array(n);
+      let sum = 0;
+      for(let ui=0; ui<n; ui++){
+        const b = s.base[ui];
+        let y;
+        if(method === 'prop') y = b * f[ui];
+        else y = b > 0 ? Math.max(0.0005, b + d[ui]) : 0;
+        if(b > 0 || y > 0){
+          if(s.r >= 0) y += regDelta(s.r, ui);
+          if(s.cat === 'SC' && res.SC[U[ui].key]) y += res.SC[U[ui].key]/100;
+          if(s.cat === 'ST' && res.ST[U[ui].key]) y += res.ST[U[ui].key]/100;
+        }
+        if(noise) y = y + noise(i, ui, y);
+        if(b === 0 && T[ui] > 0 && base[ui] === 0) y = Math.max(y, T[ui]/100 * 0.8); // new party with no history: spread evenly
+        y = Math.max(0, y); x[ui] = y; sum += y;
+      }
+      if(sum > 0) for(let ui=0; ui<n; ui++) x[ui] /= sum;
+      return x;
+    });
+    if(!S.fixNational && !noise) break;
+    // recalibrate so national totals match the targets
+    const tot = E.seats.reduce((a,s)=>a+s.ut,0);
+    const cur = new Float64Array(n);
+    out.forEach((x,i)=>{ const w = E.seats[i].ut; for(let ui=0;ui<n;ui++) cur[ui]+=x[ui]*w; });
+    let err = 0;
+    for(let ui=0; ui<n; ui++){
+      const c = 100*cur[ui]/tot, t = T[ui];
+      err = Math.max(err, Math.abs(c-t));
+      if(c > 0){ f[ui] *= t/c; d[ui] += (t-c)/100; }
+    }
+    if(err < 0.02) break;
+  }
+  return out;
+}
+
+function targets(){ return U.map(g => S.T[g.key] != null ? S.T[g.key] : g.base); }
+
+function run(){
+  const T = targets();
+  const shares = simulate(T);
+  const w = winners(shares, S.overrides);
+  RES = {T, shares, ...w};
+  renderResult();
+}
+
+// ---------- Monte Carlo ----------
+function gauss(){ let u=0,v=0; while(!u)u=Math.random(); while(!v)v=Math.random(); return Math.sqrt(-2*Math.log(u))*Math.cos(2*Math.PI*v); }
+async function runMC(progress){
+  const N = S.mcSig.n, n = U.length, T0 = targets();
+  const counts = U.map(()=>[]);
+  const seatWins = E.seats.map(()=>new Float64Array(n));
+  const maj = Math.floor(E.N/2)+1;
+  const majHits = new Float64Array(n), largest = new Float64Array(n), hung = {v:0};
+  const R = E.regions.length;
+  for(let it=0; it<N; it++){
+    const T = T0.map(t => Math.max(0, t + gauss()*S.mcSig.nat*Math.sqrt(Math.max(t,0.5)/25)));
+    const st = T.reduce((a,b)=>a+b,0); for(let k=0;k<n;k++) T[k] = T[k]*100/st;
+    const rn = []; for(let r=0;r<Math.max(R,1);r++){ const a = new Float64Array(n); for(let k=0;k<n;k++) a[k]=gauss()*S.mcSig.reg/100; rn.push(a); }
+    const sn = S.mcSig.seat/100;
+    const shares = simulate(T, (i, ui, y) => {
+      const s = E.seats[i]; const r = s.r >= 0 ? s.r : 0;
+      return (rn[r][ui] + gauss()*sn) * Math.sqrt(Math.max(y,0.01)/0.25);
+    });
+    const w = winners(shares, S.overrides);
+    let best = 0;
+    for(let k=0;k<n;k++){ counts[k].push(w.counts[k]); if(w.counts[k] >= maj) majHits[k]++; if(w.counts[k] > w.counts[best]) best = k; }
+    largest[best]++;
+    if(!w.counts.some(c => c >= maj)) hung.v++;
+    w.win.forEach((u,i) => seatWins[i][u]++);
+    if(it % 25 === 24){ progress && progress((it+1)/N); await new Promise(r=>setTimeout(r,0)); }
+  }
+  const q = (arr,p) => { const a = [...arr].sort((x,y)=>x-y); return a[Math.min(a.length-1, Math.floor(p*a.length))]; };
+  S.mc = { n:N, units: U.map((g,k)=>({key:g.key, lo:q(counts[k],.05), med:q(counts[k],.5), hi:q(counts[k],.95), pMaj:majHits[k]/N, pLargest:largest[k]/N, all:counts[k]})),
+    hung: hung.v/N, seatP: seatWins.map(a=>Array.from(a, x=>x/N)), sig: JSON.stringify(sigOf()) };
+}
+function sigOf(){ return [S.eid, S.mode, S.method, targets().map(x=>+x.toFixed(2)), S.regional, S.reserved, S.overrides, S.transfer, S.allyEdit]; }
+
+// ---------- rendering ----------
+
+// ---------- rendering ----------
+function entry(){ return INDEX.elections.find(x=>x.id===S.eid); }
+function nextYear(ent, k){ k = k || S.ahead || 1; return ent.year + 5*k; }
+function renderResult(){
+  const maj = Math.floor(E.N/2)+1;
+  const order = U.map((g,k)=>k).sort((a,b)=>RES.counts[b]-RES.counts[a] || RES.T[b]-RES.T[a]);
+  const lead = order[0], ent = entry();
+  const yr = S.next ? nextYear(ent) : ent.label;
+  $('#title').textContent = S.kind === 'LS' ? t('titleLS', {y:yr}) : t('titleAE', {s:stName(ent.state), y:yr});
+  let badges = '';
+  if(S.next) badges += `<span class="tag">${esc(t('badgeProj', {y:ent.label}))}${S.ahead>1?', '+esc(t('badgeAhead',{n:S.ahead})):''}</span> `;
+  if(ent.approx) badges += `<span class="tag warn" title="${esc(E.raw.note||'')}">${esc(t('badgeRecon'))}</span> `;
+  else if(ent.partial) badges += `<span class="tag" title="${esc(t('partialNote'))}">${esc(t('badgePartial'))}</span> `;
+  badges += `<span class="tag">${esc(t('badgeSeats', {n:E.N, m:maj}))}</span>`;
+  $('#badges').innerHTML = badges;
+  const lc = RES.counts[lead], ld = lc - U[lead].baseSeats;
+  const chg = ld ? `<span class="small">${esc(t('chg', {d:(ld>0?'+':'')+ld, b:U[lead].baseSeats}))}</span>` : '';
+  const pn = `<span class="lead">${esc(U[lead].name)}</span>`;
+  $('#verdict').innerHTML = lc >= maj ? t('verdictMaj', {p:pn, n:lc, c:chg}) : t('verdictHung', {p:pn, n:lc, c:chg, s:maj-lc});
+  drawHemicycle($('#hemi'), order.map(k=>({n:RES.counts[k], c:U[k].hex})), E.N, maj, lc, t('needed', {n:maj}));
+  const rows = order.filter(k => RES.counts[k] > 0 || RES.T[k] >= 0.5 || U[k].baseSeats > 0).map(k => {
+    const g = U[k], ds = RES.counts[k] - g.baseSeats, dv = RES.T[k] - g.base;
+    const mc = S.mc && S.mc.sig === JSON.stringify(sigOf()) ? S.mc.units[k] : null;
+    return `<tr><td><span class="pname"><i class="sw" style="background:${g.hex}"></i><span title="${esc(g.name)}">${esc(g.name)}</span></span></td>
+      <td class="num">${fmt1(RES.T[k])}%</td>
+      <td class="num"><b>${RES.counts[k]}</b>${mc ? `<div class="small">${mc.lo}–${mc.hi}</div>` : ''}</td>
+      <td class="num" style="white-space:nowrap"><span class="small">${g.baseSeats} → ${RES.counts[k]}</span> <b class="${ds>0?'up':ds<0?'down':''}">${ds>0?'+':''}${ds}</b></td>
+      <td class="num small">${dv>=0?'+':''}${fmt1(dv)}</td></tr>`;
+  }).join('');
+  $('#tally').innerHTML = `<thead><tr><th>${esc(S.mode==='alliance'?t('thAlly'):t('thParty'))}</th><th>${esc(t('thVotes'))}</th><th>${esc(t('thSeats'))}</th><th>${esc(t('thChange',{y:ent.label}))}</th><th>${esc(t('thSwing'))}</th></tr></thead><tbody>${rows}</tbody>`;
+  const flips = RES.win.reduce((a,w,i)=>a + (w !== E.baseWin[i] ? 1 : 0), 0);
+  $('#baseNote').textContent = t('baseNote', {f:flips, n:E.seats.length, y:ent.label}) + ' ' + t(S.method==='prop' ? 'methProp' : 'methUnif');
+  $('#dock').innerHTML = order.filter(k=>RES.counts[k]>0).slice(0,5).map(k=>{ const d = RES.counts[k]-U[k].baseSeats; return `<span><i class="sw" style="background:${U[k].hex}"></i>${esc(shortName(U[k]))} <b class="num">${RES.counts[k]}</b>${d?`<small class="${d>0?'up':'down'}">${d>0?'+':''}${d}</small>`:''}</span>`; }).join('') + `<span class="small">${esc(t('needed',{n:maj}))}</span>`;
+  if(S.tab === 'votes' && $('#pane .sl')) syncVotes($('#pane'));
+  if(S.tab === 'easy' && $('#easyRes')) $('#easyRes').innerHTML = $('#verdict').innerHTML;
+  drawCharts(order, maj); drawMap(); drawSeatList(); if(S.sel != null) drawDetail();
+  if(S.tab === 'odds') renderPane();
+}
+function shortName(g){ if(g.key === 'OTH') return t('others'); if(g.key.startsWith('A:')) return g.name; return LANG==='hi' && HI_PARTY[g.key] && !(S.partyEdit[g.key]&&S.partyEdit[g.key].n) ? HI_PARTY[g.key] : g.key.replace('_SHINDE',''); }
+
+function drawHemicycle(el, groups, N, maj, center, sub){
+  const W = 520, H = 290, cx = W/2, cy = H - 18;
+  const rows = Math.max(4, Math.round(Math.sqrt(N/3.2)));
+  const R1 = 240, R0 = R1 * (N > 300 ? .34 : .40);
+  const radii = d3.range(rows).map(r => R0 + (R1-R0)*(rows===1?0:r/(rows-1)));
+  const sumR = d3.sum(radii);
+  const per = radii.map(r => Math.round(N*r/sumR)); per[rows-1] += N - d3.sum(per);
+  const dotR = Math.min(9, (R1-R0)/rows*0.42, Math.PI*R1/per[rows-1]*0.42);
+  const pts = [];
+  radii.forEach((r, ri) => { const n = per[ri]; for(let j=0;j<n;j++){ const a = Math.PI - (n===1?Math.PI/2:Math.PI*j/(n-1)); pts.push({a, r, x: cx + r*Math.cos(a), y: cy - r*Math.sin(a)}); } });
+  pts.sort((p,q)=> q.a - p.a || p.r - q.r);
+  const fills = []; groups.forEach(g => { for(let c=0;c<g.n;c++) fills.push(g.c); });
+  el.innerHTML = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Seat chart">
+    ${pts.map((p,i)=>`<circle cx="${p.x.toFixed(1)}" cy="${p.y.toFixed(1)}" r="${dotR.toFixed(2)}" fill="${fills[i]||'#ccc'}"/>`).join('')}
+    <line x1="${cx}" y1="${cy - R1 - 14}" x2="${cx}" y2="${cy - R0 + 18}" stroke="var(--ink)" stroke-width="1.4" stroke-dasharray="3 3"/>
+    <text x="${cx}" y="${cy - 2}" text-anchor="middle" font-family="var(--display)" font-size="40" font-weight="800" fill="var(--ink)">${center}</text>
+    <text x="${cx}" y="${cy - 46}" text-anchor="middle" font-size="12.5" fill="var(--muted)">${esc(sub)}</text></svg>`;
+}
+
+// ---------- map ----------
+let mapCache = {key:null};
+const STATE_ALIAS = {ajmer:'rajasthan', bhopal:'madhyapradesh', madhyabharat:'madhyapradesh', vindhyapradesh:'madhyapradesh',
+  bilaspur:'himachalpradesh', bombay:'maharashtra', coorg:'karnataka', mysore:'karnataka', hyderabad:'telangana', kutch:'gujarat',
+  saurashtra:'gujarat', madras:'tamilnadu', patialaandeastpunjabstatesunion:'punjab', travancorecochin:'kerala', goadamananddiu:'goa',
+  dadraandnagarhaveli:'dadraandnagarhavelianddamananddiu', damananddiu:'dadraandnagarhavelianddamananddiu', andamanandnicobarislands:'andamanandnicobar'};
+const stKey = n => { const k = String(n).toLowerCase().replace(/&/g,'and').replace(/[^a-z]/g,''); return STATE_ALIAS[k] || k; };
+function mapLegend(){
+  const ks = U.map((g,k)=>k).filter(k=>RES.counts[k]>0).sort((a,b)=>RES.counts[b]-RES.counts[a]);
+  $('#legend').innerHTML = ks.map(k=>`<span><i class="sw" style="background:${U[k].hex}"></i>${esc(U[k].name)} ${RES.counts[k]}</span>`).join('') +
+    (S.shade==='mar' ? `<span class="small">${esc(t('legMar'))}</span>` : S.shade==='flip' ? `<span class="small">${esc(t('legFlip'))}</span>` : '');
+}
+async function drawStateMap(el){
+  const topo = await mapFor('states');
+  const fc = topojson.feature(topo, topo.objects[Object.keys(topo.objects)[0]]);
+  const agg = new Map();
+  E.seats.forEach((s,i) => { if(s.r < 0) return; const k = stKey(E.regions[s.r]);
+    if(!agg.has(k)) agg.set(k, {n:0, c:new Map(), names:new Set()}); const a = agg.get(k);
+    a.n += s.m; a.names.add(E.regions[s.r]); a.c.set(RES.win[i], (a.c.get(RES.win[i])||0) + s.m); });
+  const W = 600, H = 680, path = d3.geoPath(d3.geoMercator().fitSize([W, H], fc));
+  const parts = fc.features.map(f => { const a = agg.get(stKey(f.properties.st));
+    if(!a) return `<path d="${path(f)}" fill="var(--sunk)" stroke="#fff" stroke-width=".6"><title>${esc(stName(f.properties.st))}: ${esc(t('noSeatsData'))}</title></path>`;
+    const sorted = [...a.c.entries()].sort((x,y)=>y[1]-x[1]), lead = sorted[0];
+    const op = S.shade === 'mar' ? Math.max(.3, lead[1]/a.n) : 1;
+    return `<path class="seat" data-st="${esc([...a.names][0])}" d="${path(f)}" fill="${U[lead[0]].hex}" fill-opacity="${op}"><title>${esc(stName(f.properties.st))} (${a.n}): ${esc(sorted.map(([u,v]) => `${U[u].name} ${v}`).join(', '))}</title></path>`; }).join('');
+  el.innerHTML = `<p class="small" style="margin:0 0 6px">${esc(t('stateMap'))}</p><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="State map">${parts}</svg>`;
+  el.querySelectorAll('path[data-st]').forEach(p => p.onclick = () => { $('#seatSearch').value = p.dataset.st; drawSeatList(); });
+  mapLegend();
+}
+async function drawMap(){
+  const el = $('#map');
+  const fillFor = i => { const w = RES.win[i]; return S.shade === 'flip' && w === E.baseWin[i] ? '#E3E4EC' : U[w].hex; };
+  const opac = i => { if(S.shade !== 'mar') return 1; const x = RES.shares[i]; return Math.max(.18, Math.min(1, .2 + (x[RES.win[i]] - x[RES.second[i]])*4)); };
+  const mapName = E.raw.map;
+  if(!mapName && S.kind === 'LS'){ try{ await drawStateMap(el); }catch(e){ console.error(e); el.innerHTML = `<p class="small">${esc(t('mapFail'))}</p>`; } return; }
+  if(!mapName){
+    el.innerHTML = `<p class="small" style="margin:0 0 6px">${esc(t('noMap'))}</p><div class="waffle">${E.seats.map((s,i)=>`<i data-i="${i}" class="${S.sel===i?'sel':''}" style="background:${fillFor(i)};opacity:${opac(i)}" title="${s.no}. ${esc(s.name)}"></i>`).join('')}</div>`;
+    el.querySelectorAll('i').forEach(n => n.onclick = () => selectSeat(+n.dataset.i));
+    mapLegend(); return;
+  }
+  const key = S.eid + '|' + mapName;
+  if(mapCache.key !== key){ try{
+    el.innerHTML = `<span class="loading"><i></i>${esc(t('loadingMap'))}</span>`;
+    const topo = await mapFor(mapName);
+    const fc = topojson.feature(topo, topo.objects[Object.keys(topo.objects)[0]]);
+    const byKey = new Map();
+    fc.features.forEach(f => byKey.set(String(f.properties.k != null ? f.properties.k : f.properties.n), f));
+    const feats = [];
+    E.seats.forEach((s,i) => { const f = byKey.get(String(s.key)); if(f) feats.push({f, i}); });
+    const W = 600, H = mapName === 'pc' ? 680 : 520;
+    const path = d3.geoPath(d3.geoMercator().fitSize([W, H], {type:'FeatureCollection', features: feats.map(x=>x.f)}));
+    let border = '';
+    if(mapName === 'pc'){ try{ const st = await mapFor('states'); border = path(topojson.mesh(st, st.objects[Object.keys(st.objects)[0]])); }catch(e){} }
+    el.innerHTML = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Constituency map">${feats.map(x=>`<path class="seat" data-i="${x.i}" d="${path(x.f)}"/>`).join('')}${border?`<path class="st" d="${border}"/>`:''}</svg>`;
+    const tip = $('#tip');
+    el.querySelectorAll('path.seat').forEach(p => {
+      const i = +p.dataset.i;
+      p.onclick = () => selectSeat(i);
+      p.onmousemove = ev => { const s = E.seats[i], w = RES.win[i], x = RES.shares[i];
+        tip.innerHTML = `<b>${esc(s.name)}</b>${s.cat!=='GEN'?' ('+s.cat+')':''}<br>${esc(U[w].name)} ${fmt1(100*x[w])}%<br>${esc(t('tipLead', {d:fmt1(100*(x[w]-x[RES.second[i]])), p:U[RES.second[i]].name}))}`;
+        tip.style.display='block'; tip.style.left = Math.min(ev.clientX+14, innerWidth-270)+'px'; tip.style.top = (ev.clientY+14)+'px'; };
+      p.onmouseleave = () => tip.style.display='none';
+    });
+    mapCache = {key, missing: E.seats.length - feats.length};
+  }catch(e){ console.error(e); el.innerHTML = `<p class="small">${esc(t('mapFail'))}</p>`; return; } }
+  el.querySelectorAll('path.seat').forEach(p => { const i = +p.dataset.i; p.style.fill = fillFor(i); p.setAttribute('fill-opacity', opac(i)); p.classList.toggle('sel', S.sel===i); });
+  mapLegend();
+  if(mapCache.missing > 0) $('#legend').insertAdjacentHTML('beforeend', `<span class="small">${esc(t('notOnMap',{n:mapCache.missing}))}</span>`);
+}
+function drawSeatList(){
+  const q = ($('#seatSearch').value||'').trim().toLowerCase();
+  const rows = E.seats.map((s,i)=>({s,i})).filter(o => !q || o.s.name.toLowerCase().includes(q) || (o.s.r>=0 && ((E.regions[o.s.r]||'').toLowerCase().includes(q) || stName(E.regions[o.s.r]||'').includes(q)))).slice(0, 600);
+  $('#seatTable').innerHTML = `<thead><tr><th>${esc(t('thSeat'))}</th><th>${esc(t('thWinner'))}</th><th>${esc(t('thLead'))}</th></tr></thead><tbody>${rows.map(({s,i}) => {
+    const w = RES.win[i], x = RES.shares[i], flip = w !== E.baseWin[i];
+    return `<tr data-i="${i}"><td>${s.no}. ${esc(s.name)}${s.cat!=='GEN'?` <span class="small">${s.cat}</span>`:''}${S.kind==='LS'&&s.r>=0?`<div class="small">${esc(stName(E.regions[s.r]))}</div>`:''}</td>
+      <td><span class="pname"><i class="sw" style="background:${U[w].hex}"></i><span>${esc(U[w].name)}</span></span>${flip?`<div class="small">${esc(t('gain'))}</div>`:''}${S.overrides[s.no]!=null?`<div class="small">${esc(t('setByYou'))}</div>`:''}</td>
+      <td class="num">${fmt1(100*(x[w]-x[RES.second[i]]))}</td></tr>`; }).join('')}</tbody>`;
+  $('#seatTable').querySelectorAll('tr[data-i]').forEach(tr => tr.onclick = () => selectSeat(+tr.dataset.i));
+}
+function selectSeat(i){ S.sel = i; drawDetail(); drawMap(); $('#detail').scrollIntoView({behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto':'smooth', block:'nearest'}); }
+function drawDetail(){
+  const el = $('#detail'), i = S.sel; if(i == null){ el.hidden = true; return; }
+  const s = E.seats[i]; el.hidden = false;
+  const x = RES.shares[i], ent = entry();
+  const ks = [...x.keys()].filter(k => x[k] > 0.003 || s.base[k] > 0.003).sort((a,b)=>x[b]-x[a]);
+  const baseParties = [...s.v.keys()].filter(k => s.v[k]>0 && E.parties[k]!=='OTH').sort((a,b)=>s.v[b]-s.v[a]).slice(0,6);
+  const mcP = S.mc && S.mc.sig === JSON.stringify(sigOf()) ? S.mc.seatP[i] : null;
+  el.innerHTML = `<div class="row between"><h3 style="font-size:20px">${s.no}. ${esc(s.name)} <span class="small">${s.cat}${s.r>=0?', '+esc(stName(E.regions[s.r])):''}${s.m>1?', '+esc(t('twoMember')):''}</span></h3><button class="btn small" id="closeDet">${esc(t('close'))}</button></div>
+    <div class="chamber" style="margin-top:10px">
+      <div><p class="small" style="margin:0 0 4px">${esc(t('simVote'))}</p>${ks.map(k=>`<div class="cand"><span class="pname"><i class="sw" style="background:${U[k].hex}"></i><span>${esc(U[k].name)}</span></span><div class="bar"><i style="width:${(100*x[k]/x[ks[0]]).toFixed(1)}%;background:${U[k].hex}"></i></div><span class="num" style="text-align:right">${fmt1(100*x[k])}%${mcP?`<div class="small">${esc(t('winPct',{n:Math.round(100*mcP[k])}))}</div>`:''}</span></div>`).join('')}</div>
+      <div><p class="small" style="margin:0 0 4px">${esc(t('actual',{y:ent.label}))}${ent.approx?esc(t('reconstructed')):''}</p>${baseParties.map(k=>`<div class="cand"><span class="pname"><i class="sw" style="background:${pColor(E.parties[k])}"></i><span>${esc(pName(E.parties[k]))}</span></span><span class="num small" style="text-align:right">${Math.round(s.v[k]).toLocaleString('en-IN')}</span><span class="num" style="text-align:right">${fmt1(100*s.v[k]/s.tot)}%</span></div>`).join('')}</div>
+    </div>
+    <p class="small" style="margin:12px 0 6px">${esc(t('setWinner'))}</p>
+    <div class="row">${[...U.keys()].filter(k=>U[k].key!=='OTH').slice(0,10).map(k=>`<button class="chip" data-k="${esc(U[k].key)}" aria-pressed="${S.overrides[s.no]===U[k].key}"><i class="sw" style="background:${U[k].hex}"></i>${esc(U[k].name)}</button>`).join('')}<button class="chip" data-k="" aria-pressed="${S.overrides[s.no]==null}">${esc(t('useSwing'))}</button></div>`;
+  $('#closeDet').onclick = () => { S.sel = null; el.hidden = true; drawMap(); };
+  el.querySelectorAll('.chip').forEach(c => c.onclick = () => { if(c.dataset.k) S.overrides[s.no] = c.dataset.k; else delete S.overrides[s.no]; run(); });
+}
+
+// ---------- charts ----------
+function svgText(x,y,tx,o={}){ return `<text x="${x}" y="${y}" font-size="${o.size||12}" fill="${o.fill||'var(--muted)'}" text-anchor="${o.anchor||'start'}" ${o.weight?`font-weight="${o.weight}"`:''}>${esc(tx)}</text>`; }
+function drawCharts(order, maj){
+  const ks = order.filter(k => RES.counts[k] > 0 || RES.T[k] >= 1).slice(0, 8);
+  { const W = 460, rowH = 30, H = ks.length*rowH + 24, L = 120, R = 70;
+    const mx = Math.max(10, ...ks.map(k => Math.max(RES.T[k], 100*RES.counts[k]/E.N)));
+    const x = v => L + (W-L-R) * v / mx;
+    let g = '';
+    ks.forEach((k,i) => { const y = i*rowH + 6, sp = 100*RES.counts[k]/E.N;
+      g += svgText(0, y+14, U[k].name.slice(0,17), {fill:'var(--ink)', size:12.5});
+      g += `<rect x="${L}" y="${y}" width="${Math.max(1,x(RES.T[k])-L)}" height="10" rx="3" fill="${U[k].hex}" fill-opacity=".3"/>`;
+      g += `<rect x="${L}" y="${y+12}" width="${Math.max(1,x(sp)-L)}" height="10" rx="3" fill="${U[k].hex}"/>`;
+      g += svgText(x(Math.max(RES.T[k],sp))+6, y+17, `${fmt1(RES.T[k])} / ${fmt1(sp)}%`, {size:11.5});
+    });
+    $('#chVS').innerHTML = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(t('chVS'))}">${g}${svgText(L, H-4, t('chVSaxis'), {size:11})}</svg>`;
+  }
+  { const items = U.map((g,k)=>({k, d: RES.counts[k]-g.baseSeats})).filter(o => o.d !== 0).sort((a,b)=>b.d-a.d).slice(0, 10);
+    $('#capDelta').textContent = t('chDeltaSub', {y:entry().label});
+    if(!items.length){ $('#chDelta').innerHTML = `<p class="small">${esc(t('chDeltaNone'))}</p>`; }
+    else { const W = 460, rowH = 26, H = items.length*rowH + 10, L = 112, TX = 350, mid = L + (TX-10-L)/2;
+      const mx = Math.max(...items.map(o=>Math.abs(o.d))), sc = v => (TX-10-L)/2 * 0.92 * v / mx;
+      let g = `<line x1="${mid}" x2="${mid}" y1="0" y2="${H}" stroke="var(--line)"/>`;
+      items.forEach((o,i) => { const y = i*rowH + 4, w = sc(o.d);
+        g += svgText(0, y+13, U[o.k].name.slice(0,17), {fill:'var(--ink)', size:12.5});
+        g += `<rect x="${w>=0?mid:mid+w}" y="${y+2}" width="${Math.abs(w)}" height="14" rx="3" fill="${U[o.k].hex}"/>`;
+        g += svgText(TX, y+13, `${U[o.k].baseSeats} → ${RES.counts[o.k]}`, {fill:'var(--ink)', size:12.5});
+        g += svgText(W, y+13, (o.d>0?'+':'')+o.d, {anchor:'end', fill: o.d>0?'var(--good)':'var(--bad)', weight:700, size:12.5});
+      });
+      $('#chDelta').innerHTML = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(t('chDelta'))}">${g}</svg>`;
+    }
+  }
+  { const bins = [[0,2,'0–2'],[2,5,'2–5'],[5,10,'5–10'],[10,20,'10–20'],[20,101,'20+']];
+    const top = order.slice(0,4), cnt = bins.map(() => new Map());
+    E.seats.forEach((s,i) => { const x = RES.shares[i], w = RES.win[i], m = 100*(x[w]-x[RES.second[i]]);
+      let b = bins.findIndex(r => m >= r[0] && m < r[1]); if(b < 0) b = 0; const key = top.includes(w) ? w : -1; cnt[b].set(key, (cnt[b].get(key)||0)+1); });
+    const W = 460, H = 200, L = 34, B = 24, bw = (W-L)/bins.length;
+    const mx = Math.max(...cnt.map(m => [...m.values()].reduce((a,b)=>a+b,0)), 1), y = v => (H-B-18) * v / mx;
+    let g = '';
+    [0, .5, 1].forEach(f => { const v = Math.round(mx*f), yy = H-B-y(v); g += `<line x1="${L}" x2="${W}" y1="${yy}" y2="${yy}" stroke="var(--line)"/>` + svgText(L-6, yy+4, v, {anchor:'end', size:11}); });
+    cnt.forEach((m,bi) => { let acc = 0; const x0 = L + bi*bw + bw*.15;
+      [...top, -1].forEach(k => { const v = m.get(k)||0; if(!v) return; const h = y(v); g += `<rect x="${x0}" y="${H-B-acc-h}" width="${bw*.7}" height="${h}" fill="${k>=0?U[k].hex:'#C9CCD6'}"><title>${k>=0?esc(U[k].name):esc(t('others'))}: ${v}</title></rect>`; acc += h; });
+      g += svgText(x0 + bw*.35, H-6, bins[bi][2]+' '+t('pts'), {anchor:'middle', size:11.5});
+      g += svgText(x0 + bw*.35, H-B-acc-5, [...m.values()].reduce((a,b)=>a+b,0), {anchor:'middle', fill:'var(--ink)', size:12, weight:600});
+    });
+    $('#chMargin').innerHTML = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(t('chMargin'))}">${g}</svg>`;
+  }
+  { const R = E.regions, isLS = S.kind === 'LS';
+    $('#capRegion').textContent = t(isLS ? 'chRegState' : 'chRegDist');
+    if(!R.length){ $('#chRegion').innerHTML = `<p class="small">${esc(t('noRegion'))}</p>`; $('#cap2Region').textContent = ''; }
+    else {
+      const agg = R.map(name => ({name, n:0, c:new Map()}));
+      E.seats.forEach((s,i) => { if(s.r < 0) return; const a = agg[s.r]; a.n += s.m; a.c.set(RES.win[i], (a.c.get(RES.win[i])||0) + s.m); });
+      const list = agg.filter(a=>a.n).sort((a,b)=>b.n-a.n).slice(0, 16);
+      $('#cap2Region').textContent = t('chRegSub', {n:list.length, w:t(isLS?'states':'districts')});
+      const W = 940, rowH = 24, L = 170, H = list.length*rowH + 6, mx = list[0].n; let g = '';
+      list.forEach((a,i) => { const y = i*rowH + 3; let x = L;
+        g += svgText(0, y+13, stName(a.name).slice(0,24), {fill:'var(--ink)', size:12.5});
+        order.forEach(k => { const v = a.c.get(k)||0; if(!v) return; const w = (W-L-40) * v / mx; g += `<rect x="${x}" y="${y}" width="${w}" height="16" fill="${U[k].hex}"><title>${esc(U[k].name)}: ${v}</title></rect>`; if(w > 22) g += `<text x="${x+w/2}" y="${y+12}" font-size="11" text-anchor="middle" fill="#fff">${v}</text>`; x += w; });
+        g += svgText(x+6, y+13, a.n, {size:11.5});
+      });
+      $('#chRegion').innerHTML = `<div class="tw"><svg viewBox="0 0 ${W} ${H}" style="min-width:520px" role="img" aria-label="${esc($('#capRegion').textContent)}">${g}</svg></div>`;
+    }
+  }
+  const sel = $('#curveUnit');
+  const opts = order.filter(k => U[k].key !== 'OTH').slice(0, 8);
+  if(!S.curveKey || !opts.some(k => U[k].key === S.curveKey)) S.curveKey = U[opts[0]].key;
+  sel.innerHTML = opts.map(k => `<option value="${esc(U[k].key)}" ${U[k].key===S.curveKey?'selected':''}>${esc(U[k].name)}</option>`).join('');
+  clearTimeout(drawCharts.t); drawCharts.t = setTimeout(drawCurve, 250);
+}
+function drawCurve(){
+  const ui = U.findIndex(g => g.key === S.curveKey); if(ui < 0) return;
+  const T0 = targets(), maj = Math.floor(E.N/2)+1;
+  const lo = Math.max(0, Math.floor(T0[ui]) - 12), hi = Math.min(95, Math.ceil(T0[ui]) + 12);
+  const pts = [];
+  for(let v = lo; v <= hi; v += 1){
+    const T = T0.slice(), rest = 100 - v, others = T0.reduce((a,x,k)=>k===ui?a:a+x,0);
+    for(let k=0;k<T.length;k++) T[k] = k===ui ? v : (others>0 ? T0[k]*rest/others : 0);
+    pts.push([v, winners(simulate(T), S.overrides).counts[ui]]);
+  }
+  const W = 460, H = 210, L = 40, B = 26, Rr = 10;
+  const x = d3.scaleLinear([lo, hi], [L, W-Rr]), y = d3.scaleLinear([0, Math.max(maj*1.15, d3.max(pts, p=>p[1]))], [H-B, 8]);
+  const hex = U[ui].hex;
+  let g = y.ticks(4).map(v => `<line x1="${L}" x2="${W-Rr}" y1="${y(v)}" y2="${y(v)}" stroke="var(--line)"/>${svgText(L-6, y(v)+4, v, {anchor:'end', size:11})}`).join('');
+  g += x.ticks(6).map(v => svgText(x(v), H-8, v+'%', {anchor:'middle', size:11})).join('');
+  g += `<line x1="${L}" x2="${W-Rr}" y1="${y(maj)}" y2="${y(maj)}" stroke="var(--violet)" stroke-dasharray="4 3"/>${svgText(W-Rr, y(maj)-5, t('majLine',{m:maj}), {anchor:'end', fill:'var(--violet)', size:11})}`;
+  g += `<path d="${d3.area().x(p=>x(p[0])).y0(H-B).y1(p=>y(p[1]))(pts)}" fill="${hex}" fill-opacity=".14"/><path d="${d3.line().x(p=>x(p[0])).y(p=>y(p[1]))(pts)}" fill="none" stroke="${hex}" stroke-width="2.4"/>`;
+  const cv = T0[ui], cs = RES.counts[ui], right = x(cv) > W - 150;
+  g += `<circle cx="${x(cv)}" cy="${y(cs)}" r="5.5" fill="#fff" stroke="${hex}" stroke-width="2.5"/>${svgText(right ? x(cv)-8 : x(cv)+8, y(cs)-9, t('curveNow',{v:fmt1(cv), n:cs}), {fill:'var(--ink)', size:12, weight:600, anchor:right?'end':'start'})}`;
+  const cross = pts.find(p => p[1] >= maj);
+  $('#chCurve').innerHTML = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(t('chCurve'))}">${g}</svg><p class="small" style="margin:4px 0 0">${esc(cross ? t('curveCross',{m:maj, v:cross[0]}) : t('curveNo',{m:maj, a:lo, b:hi}))}</p>`;
+}
+function mcHistogram(ks, maj){
+  if(!ks.length || !S.mc.units[ks[0]].all) return '';
+  const W = 330, H = 150, L = 8, B = 22, all = ks.flatMap(k => S.mc.units[k].all);
+  const lo = Math.min(...all), hi = Math.max(...all, maj), step = Math.max(1, Math.ceil((hi-lo+1)/30));
+  const x = d3.scaleLinear([lo, hi+1], [L, W-L]);
+  let mxc = 1; const hists = ks.map(k => { const h = new Map(); S.mc.units[k].all.forEach(v => { const b = lo + Math.floor((v-lo)/step)*step; h.set(b, (h.get(b)||0)+1); }); h.forEach(c => mxc = Math.max(mxc, c)); return h; });
+  const y = c => (H-B-14) * c / mxc;
+  let g = '';
+  hists.forEach((h,i) => h.forEach((c,b) => { g += `<rect x="${x(b)}" y="${H-B-y(c)}" width="${Math.max(1, x(b+step)-x(b)-1)}" height="${y(c)}" fill="${U[ks[i]].hex}" fill-opacity=".55"/>`; }));
+  g += `<line x1="${x(maj)}" x2="${x(maj)}" y1="0" y2="${H-B}" stroke="var(--violet)" stroke-dasharray="3 3"/>${svgText(x(maj)+4, 11, maj, {fill:'var(--violet)', size:11})}`;
+  g += svgText(L, H-6, lo, {size:11}) + svgText(W-L, H-6, hi, {anchor:'end', size:11});
+  return `<p class="small" style="margin:10px 0 2px">${esc(t('distTitle'))}</p><svg viewBox="0 0 ${W} ${H}" style="width:100%;height:auto" role="img" aria-label="${esc(t('distTitle'))}">${g}</svg>`;
+}
+
+// ---------- history ----------
+async function drawHistory(){
+  const ent = entry();
+  const list = (await bundle(ent.file)).slice().sort((a,b)=>a.year-b.year || a.label.localeCompare(b.label));
+  const votesMode = S.histMode === 'votes';
+  const tally = list.map(e => { const c = {}; let vt = 0;
+    e.seats.forEach(s => {
+      if(votesMode){ for(let k=0;k<s[4].length;k+=2){ const p = e.parties[s[4][k]]; c[p] = (c[p]||0) + s[4][k+1]; vt += s[4][k+1]; } vt += s[5]; }
+      else if(s[4].length){ const p = e.parties[s[4][0]]; c[p] = (c[p]||0) + (s[6]||1); } });
+    return {label:e.label, c, n: votesMode ? vt : e.seats.reduce((a,s)=>a+(s[6]||1),0)}; });
+  const where = ent.kind==='LS' ? t('lokSabha') : stName(ent.state);
+  $('#histTitle').textContent = t(votesMode ? 'histVotes' : 'histSeats', {w:where});
+  $('#histSub').textContent = t(votesMode ? 'histVotesSub' : 'histSeatsSub');
+  const totals = {}; tally.forEach(x => Object.entries(x.c).forEach(([p,v]) => totals[p] = Math.max(totals[p]||0, v/x.n)));
+  const top = Object.entries(totals).filter(([p])=>p!=='IND' && p!=='OTH').sort((a,b)=>b[1]-a[1]).slice(0,7).map(x=>x[0]);
+  const W = 900, H = 260, m = {l:36, r:120, t:10, b:28};
+  const x = d3.scalePoint(tally.map(z=>z.label), [m.l, W-m.r]);
+  const ymax = d3.max(tally, z => d3.max(top, p => (z.c[p]||0)/z.n*100)) || 100;
+  const y = d3.scaleLinear([0, Math.min(100, Math.ceil(ymax/10)*10)], [H-m.b, m.t]);
+  const lines = top.map(p => { const pts = tally.map(z => [x(z.label), y((z.c[p]||0)/z.n*100)]), last = pts[pts.length-1];
+    return `<path d="${d3.line()(pts)}" fill="none" stroke="${pColor(p)}" stroke-width="2.2"/>${pts.map(q=>`<circle cx="${q[0]}" cy="${q[1]}" r="2.6" fill="${pColor(p)}"/>`).join('')}<text x="${last[0]+8}" y="${last[1]+4}" font-size="12" fill="var(--ink)">${esc(pName(p).slice(0,16))}</text>`; }).join('');
+  const yt = y.ticks(4).map(v=>`<line x1="${m.l}" x2="${W-m.r}" y1="${y(v)}" y2="${y(v)}" stroke="var(--line)"/><text x="${m.l-6}" y="${y(v)+4}" text-anchor="end" font-size="11" fill="var(--muted)">${v}%</text>`).join('');
+  const step = Math.ceil(tally.length/14);
+  const xt = tally.map((z,i)=> i%step===0 || i===tally.length-1 ? `<text x="${x(z.label)}" y="${H-8}" text-anchor="middle" font-size="11" fill="var(--muted)">${esc(z.label)}</text>` : '').join('');
+  $('#hist').innerHTML = `<div class="tw"><svg viewBox="0 0 ${W} ${H}" style="min-width:560px" role="img" aria-label="${esc($('#histTitle').textContent)}">${yt}${lines}${xt}</svg></div>`;
+}
+
+// ---------- control panes ----------
+function renderPane(){
+  const p = $('#pane');
+  document.querySelectorAll('.tabs button').forEach(b => b.setAttribute('aria-selected', b.dataset.tab === S.tab));
+  ({easy:paneEasy, votes:paneVotes, region:paneRegion, odds:paneOdds, parties:paneParties, save:paneSave})[S.tab](p);
+}
+function computeTargets(ui, val, T){
+  T = T || targets(); val = Math.max(0, Math.min(100, val));
+  const locked = U.map((g,k) => k !== ui && S.locks[g.key]);
+  const lockedSum = T.reduce((a,x,k)=> a + (locked[k]?x:0), 0);
+  val = Math.min(val, 100 - lockedSum);
+  const free = U.map((g,k)=>k).filter(k => k !== ui && !locked[k]);
+  const freeSum = free.reduce((a,k)=>a+T[k],0), rest = 100 - lockedSum - val;
+  T[ui] = val;
+  free.forEach(k => T[k] = freeSum > 0 ? T[k]*rest/freeSum : rest/free.length);
+  return T;
+}
+function setTarget(ui, val){ const T = computeTargets(ui, val); U.forEach((g,k)=> S.T[g.key] = T[k]); }
+function setAll(T){ const s = T.reduce((a,b)=>a+b,0) || 1; U.forEach((g,k)=> S.T[g.key] = Math.max(0,T[k])*100/s); }
+const baseT = () => U.map(g=>g.base);
+
+// Easy tab: one swing slider between two sides + presets
+function easyPair(){
+  const real = U.map((g,k)=>k).filter(k=>U[k].key!=='OTH').sort((a,b)=>U[b].base-U[a].base);
+  let a = U.findIndex(g=>g.key===S.swing.a), b = U.findIndex(g=>g.key===S.swing.b);
+  if(a < 0 || U[a].key==='OTH') a = real[0];
+  if(b < 0 || b === a || U[b].key==='OTH') b = real.find(k=>k!==a);
+  S.swing.a = U[a].key; S.swing.b = U[b].key;
+  return [a, b, real];
+}
+function applySwing(){
+  const [a, b] = easyPair(), pts = S.swing.pts, T = baseT();
+  const mv = pts >= 0 ? Math.min(pts, T[a]) : -Math.min(-pts, T[b]);
+  T[a] -= mv; T[b] += mv; S.T = {}; setAll(T); run();
+}
+function paneEasy(p){
+  const [a, b, real] = easyPair(), ent = entry(), pts = S.swing.pts;
+  const opt = sel => real.map(k=>`<option value="${esc(U[k].key)}" ${U[k].key===sel?'selected':''}>${esc(U[k].name)}</option>`).join('');
+  const read = pts === 0 ? t('easyNone',{y:ent.label}) : (pts > 0 ? t('easySwing',{n:fmt1(pts), a:U[a].name, b:U[b].name}) : t('easySwing',{n:fmt1(-pts), a:U[b].name, b:U[a].name}));
+  const incumbent = U.map((g,k)=>k).filter(k=>U[k].key!=='OTH').sort((x,y)=>U[y].baseSeats-U[x].baseSeats)[0];
+  p.innerHTML = `<div class="stack">
+    <div class="row"><div class="seg" role="group" aria-label="Group by">
+      <button data-mode="party" aria-pressed="${S.mode==='party'}">${esc(t('modeParty'))}</button>
+      <button data-mode="alliance" aria-pressed="${S.mode==='alliance'}">${esc(t('modeAlly'))}</button></div></div>
+    <div class="swingbox">
+      <h3>${esc(t('easyTitle'))}</h3>
+      <p class="hint">${esc(t('easyHint',{y:ent.label}))}</p>
+      <div class="ends">
+        <label>${esc(t('easyFrom'))}<select id="swA">${opt(S.swing.a)}</select></label>
+        <button class="btn small" id="swap" aria-label="Swap sides">⇄</button>
+        <label>${esc(t('easyTo'))}<select id="swB">${opt(S.swing.b)}</select></label>
+      </div>
+      <input type="range" id="swR" min="-15" max="15" step="0.5" value="${pts}" aria-label="${esc(t('easyTitle'))}">
+      <div class="scale"><span>${esc(U[a].name)} +15</span><span>0</span><span>${esc(U[b].name)} +15</span></div>
+      <div class="swingread" id="swRead">${esc(read)}</div>
+    </div>
+    <div class="mini"><div class="v" id="easyRes">${$('#verdict').innerHTML}</div></div>
+    <div><h3>${esc(t('presets'))}</h3>
+    <div class="presets">
+      <button class="btn" data-pre="same">${esc(t('pSame',{y:ent.label}))}</button>
+      <button class="btn" data-pre="repeat">${esc(t('pRepeat'))}</button>
+      <button class="btn" data-pre="waveA">${esc(t('pWave',{p:U[a].name}))}</button>
+      <button class="btn" data-pre="waveB">${esc(t('pWave',{p:U[b].name}))}</button>
+      <button class="btn" data-pre="close">${esc(t('pClose'))}</button>
+      <button class="btn" data-pre="third">${esc(t('pThird'))}</button>
+      <button class="btn" data-pre="anti">${esc(t('pAnti',{p:U[incumbent].name}))}</button>
+      <button class="btn" data-pre="trend" ${S.next?'':'disabled'} title="${esc(S.next?'':t('trendOnlyFuture'))}">${esc(t('pTrend',{y:S.next?nextYear(ent):'…'}))}</button>
+    </div></div>
+    <p class="hint">${esc(t('easyMore'))}</p>
+  </div>`;
+  p.querySelectorAll('[data-mode]').forEach(x => x.onclick = () => { S.mode = x.dataset.mode; S.T = {}; S.locks = {}; S.overrides = {}; S.swing = {a:null,b:null,pts:0}; rebuild(); });
+  $('#swA').onchange = e => { S.swing.a = e.target.value; if(S.swing.a===S.swing.b) S.swing.b = null; applySwing(); renderPane(); };
+  $('#swB').onchange = e => { S.swing.b = e.target.value; if(S.swing.a===S.swing.b) S.swing.a = null; applySwing(); renderPane(); };
+  $('#swap').onclick = () => { const z = S.swing.a; S.swing.a = S.swing.b; S.swing.b = z; S.swing.pts = -S.swing.pts; applySwing(); renderPane(); };
+  $('#swR').oninput = e => { S.swing.pts = +e.target.value; const v = S.swing.pts;
+    $('#swRead').textContent = v === 0 ? t('easyNone',{y:ent.label}) : (v > 0 ? t('easySwing',{n:fmt1(v), a:U[a].name, b:U[b].name}) : t('easySwing',{n:fmt1(-v), a:U[b].name, b:U[a].name}));
+    applySwing(); };
+  p.querySelectorAll('[data-pre]').forEach(x => x.onclick = () => preset(x.dataset.pre, a, b, incumbent));
+}
+function preset(kind, a, b, inc){
+  S.swing.pts = 0;
+  let T = baseT();
+  if(kind === 'same'){ S.T = {}; S.regional = {}; S.reserved = {SC:{},ST:{}}; S.overrides = {}; run(); renderPane(); return; }
+  if(kind === 'repeat'){ repeatSwing(); return; }
+  if(kind === 'trend'){ let f = 0; for(let i=0;i<(S.ahead||1);i++) f += Math.pow(0.6, i); repeatSwing(f); return; }
+  if(kind === 'waveA') T = computeTargets(a, T[a] + 5, T);
+  if(kind === 'waveB') T = computeTargets(b, T[b] + 5, T);
+  if(kind === 'close'){ const avg = (T[a]+T[b])/2; T[a] = avg; T[b] = avg; }
+  if(kind === 'third'){ const take = Math.min(3, T[a]) + Math.min(3, T[b]); T[a] = Math.max(0,T[a]-3); T[b] = Math.max(0,T[b]-3);
+    const rest = U.map((g,k)=>k).filter(k=>k!==a && k!==b), rs = rest.reduce((s,k)=>s+T[k],0) || 1; rest.forEach(k => T[k] += take*T[k]/rs); }
+  if(kind === 'anti') T = computeTargets(inc, Math.max(0, T[inc] - 5), T);
+  S.T = {}; setAll(T); run(); renderPane();
+}
+
+function seatLabel(k){ const n = RES ? RES.counts[k] : U[k].baseSeats, d = RES ? RES.counts[k] - U[k].baseSeats : 0; return `${esc(t('seatsN',{n}))}${d ? ` <b class="${d>0?'up':'down'}">${d>0?'+':''}${d}</b>` : ''}`; }
+const LOCK_SVG = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="5" y="11" width="14" height="10" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg>';
+function paneVotes(p){
+  const T = targets(), tot = T.reduce((a,b)=>a+b,0), seatsMode = S.inputMode === 'seats', ent = entry();
+  p.innerHTML = `<div class="stack">
+      <div class="row"><div class="seg" role="group" aria-label="Group by">
+        <button data-mode="party" aria-pressed="${S.mode==='party'}">${esc(t('modeParty'))}</button>
+        <button data-mode="alliance" aria-pressed="${S.mode==='alliance'}">${esc(t('modeAlly'))}</button></div>
+        <div class="seg" role="group" aria-label="Set by">
+        <button data-in="votes" aria-pressed="${!seatsMode}">${esc(t('setVotes'))}</button>
+        <button data-in="seats" aria-pressed="${seatsMode}">${esc(t('setSeats'))}</button></div></div>
+      <div class="row"><div class="seg" role="group" aria-label="Swing method">
+        <button data-meth="prop" aria-pressed="${S.method==='prop'}">${esc(t('prop'))}</button>
+        <button data-meth="unif" aria-pressed="${S.method==='unif'}">${esc(t('unif'))}</button></div></div>
+      <p class="hint" style="margin:0">${esc(t(seatsMode?'hintSeats':'hintVotes'))} ${esc(t('hintLock'))}</p>
+      <div>${U.map((g,k)=>(!S.showAll && k >= 12 && k < U.length-1) ? '' : `<div class="sl" style="--c:${g.hex}" data-row="${k}">
+          <span class="sn num" style="background:${g.hex}">${k+1}</span>
+          <span class="nm"><span class="nmt" title="${esc(g.name)}">${esc(g.name)}</span><span class="seatc num">${seatLabel(k)}</span></span>
+          <span class="val"><i class="lamp" data-lamp="${k}" aria-hidden="true"></i><span class="delta num">${seatsMode ? fmt1(T[k])+'%' : (T[k]-g.base>=0?'+':'')+fmt1(T[k]-g.base)}</span>${seatsMode
+            ? `<input class="num" type="number" step="1" min="0" max="${E.N}" value="${RES ? RES.counts[k] : g.baseSeats}" data-seat="${k}" aria-label="${esc(g.name)} ${esc(t('thSeats'))}" ${g.key==='OTH'?'disabled':''}>`
+            : `<input class="num" type="number" step="0.1" min="0" max="100" value="${fmt1(T[k])}" data-k="${k}" aria-label="${esc(g.name)} ${esc(t('thVotes'))}">`}</span>
+          <button class="lock" data-lock="${esc(g.key)}" aria-pressed="${!!S.locks[g.key]}" aria-label="${esc(t('lockTitle'))}: ${esc(g.name)}" title="${esc(t('lockTitle'))}">${LOCK_SVG}</button>
+          <input type="range" min="0" max="${Math.min(100, Math.max(60, Math.ceil(g.base*2)))}" step="0.1" value="${T[k]}" data-k="${k}" aria-label="${esc(g.name)}">
+        </div>`).join('')}${U.length > 13 ? `<button class="btn small" id="more" style="margin-top:8px">${esc(S.showAll ? t('fewerParties') : t('moreParties',{n:U.length-13}))}</button>` : ''}</div>
+      <div class="sumline num">${esc(t('totalLine',{v:fmt1(tot), n:E.N, m:Math.floor(E.N/2)+1}))}</div>
+      <div class="row">
+        <button class="btn small" id="reset">${esc(t('reset',{y:ent.label}))}</button>
+        <button class="btn small" id="repeat">${esc(t('pRepeat'))}</button>
+        <button class="btn small" id="clearOv">${esc(t('clearOv',{n:Object.keys(S.overrides).length}))}</button>
+      </div>
+      ${S.mode==='alliance'?`<label class="stack" style="gap:2px"><span>${esc(t('transfer'))} <b class="num" id="trv">${S.transfer}%</b></span><input type="range" id="tr" min="40" max="100" step="5" value="${S.transfer}"><span class="hint">${esc(t('transferHint'))}</span></label>`:''}
+      <label class="row"><input type="checkbox" id="fixN" ${S.fixNational?'checked':''}> ${esc(t('fixNat'))}</label>
+    </div>`;
+  p.querySelectorAll('[data-mode]').forEach(b => b.onclick = () => { S.mode = b.dataset.mode; S.T = {}; S.locks = {}; S.overrides = {}; S.swing = {a:null,b:null,pts:0}; rebuild(); });
+  if(RES) lamps(p);
+  p.querySelectorAll('[data-in]').forEach(b => b.onclick = () => { S.inputMode = b.dataset.in; renderPane(); });
+  p.querySelectorAll('[data-meth]').forEach(b => b.onclick = () => { S.method = b.dataset.meth; renderPane(); run(); });
+  p.querySelectorAll('input[type=range][data-k]').forEach(r => r.oninput = () => { setTarget(+r.dataset.k, +r.value); run(); syncVotes(p); });
+  p.querySelectorAll('input[type=number][data-k]').forEach(r => r.onchange = () => { setTarget(+r.dataset.k, +r.value); run(); renderPane(); });
+  p.querySelectorAll('input[data-seat]').forEach(r => r.onchange = () => solveSeats(+r.dataset.seat, Math.round(+r.value)));
+  const mb = $('#more'); if(mb) mb.onclick = () => { S.showAll = !S.showAll; renderPane(); };
+  p.querySelectorAll('[data-lock]').forEach(b => b.onclick = () => { S.locks[b.dataset.lock] = !S.locks[b.dataset.lock]; renderPane(); toast(t(S.locks[b.dataset.lock] ? 'lockOn' : 'lockOff')); });
+  $('#reset').onclick = () => { S.T = {}; S.regional = {}; S.reserved = {SC:{},ST:{}}; S.overrides = {}; S.swing.pts = 0; run(); renderPane(); };
+  $('#repeat').onclick = repeatSwing;
+  $('#clearOv').onclick = () => { S.overrides = {}; run(); renderPane(); };
+  const tr = $('#tr'); if(tr) tr.oninput = () => { S.transfer = +tr.value; $('#trv').textContent = S.transfer+'%'; const T = targets(); buildUnits(); U.forEach((g,k)=>{ if(S.T[g.key]==null) S.T[g.key]=T[k]; }); run(); };
+  $('#fixN').onchange = e => { S.fixNational = e.target.checked; run(); };
+}
+function lamps(p){ let lead = 0; RES.counts.forEach((c,k)=>{ if(c > RES.counts[lead]) lead = k; }); p.querySelectorAll('.lamp').forEach(l => l.classList.toggle('on', +l.dataset.lamp === lead)); }
+function syncVotes(p){
+  const T = targets(), seatsMode = S.inputMode === 'seats';
+  p.querySelectorAll('.sl').forEach(row => { const k = +row.dataset.row;
+    const ni = row.querySelector('input[type=number]'); if(document.activeElement !== ni) ni.value = seatsMode ? RES.counts[k] : fmt1(T[k]);
+    const rg = row.querySelector('input[type=range]'); if(document.activeElement !== rg) rg.value = T[k];
+    const d = T[k]-U[k].base; row.querySelector('.delta').textContent = seatsMode ? fmt1(T[k])+'%' : (d>=0?'+':'')+fmt1(d);
+    row.querySelector('.seatc').innerHTML = seatLabel(k);
+  });
+  lamps(p);
+  const sl = p.querySelector('.sumline'); if(sl) sl.textContent = t('totalLine',{v:fmt1(T.reduce((a,b)=>a+b,0)), n:E.N, m:Math.floor(E.N/2)+1});
+}
+function solveSeats(k, want){
+  const save = Object.assign({}, S.T);
+  const seatsAt = v => { S.T = Object.assign({}, save); setTarget(k, v); return winners(simulate(targets()), S.overrides).counts[k]; };
+  const T0 = targets(), lockedSum = U.reduce((a,g,j)=> a + (j!==k && S.locks[g.key] ? T0[j] : 0), 0);
+  let lo = 0, hi = Math.max(0, 100 - lockedSum - 0.5);
+  const maxSeats = seatsAt(hi);
+  if(want >= maxSeats){ S.T = save; setTarget(k, hi); run(); renderPane(); toast(want > maxSeats ? t('seatsTop',{p:U[k].name, n:maxSeats, v:fmt1(hi)}) : t('setTo',{v:fmt1(hi)})); return; }
+  if(want <= 0){ S.T = save; setTarget(k, 0); run(); renderPane(); return; }
+  for(let it=0; it<22; it++){ const mid = (lo+hi)/2; if(seatsAt(mid) >= want) hi = mid; else lo = mid; }
+  S.T = save; setTarget(k, Math.round(hi*10)/10); run(); renderPane();
+  const got = RES.counts[k], v = fmt1(targets()[k]);
+  toast(got === want ? t('seatsGot',{p:U[k].name, n:want, v}) : t('seatsNear',{n:got, v}));
+}
+async function repeatSwing(factor){
+  factor = factor || 1;
+  const ent = entry();
+  const list = (await bundle(ent.file)).filter(e => e.year < ent.year).sort((a,b)=>b.year-a.year);
+  if(!list.length){ toast(t('noEarlier')); return; }
+  const prev = list[0];
+  const share = e => { const r = {}; let tot = 0; e.seats.forEach(s => { for(let k=0;k<s[4].length;k+=2){ const p = e.parties[s[4][k]]; r[p]=(r[p]||0)+s[4][k+1]; tot+=s[4][k+1]; } tot += s[5]; }); for(const p in r) r[p] = 100*r[p]/tot; return r; };
+  const a = share(prev), b = share(E.raw), T = baseT();
+  U.forEach((g,k) => { if(g.key==='OTH') return; const d = g.members.map(m=>E.parties[m]).reduce((s,c)=> s + ((b[c]||0) - (a[c]||0)), 0); T[k] = Math.max(0, g.base + d*factor); });
+  const oth = U.length-1; T[oth] = Math.max(0, 100 - T.reduce((s,v,k)=> k===oth? s : s+v, 0));
+  S.T = {}; setAll(T);
+  toast(factor === 1 ? t('repeated',{a:prev.label, b:ent.label}) : t('trendDone',{a:prev.label, b:ent.label, y:nextYear(ent)}));
+  run(); renderPane();
+}
+
+function paneRegion(p){
+  const regs = E.regions, isLS = S.kind === 'LS';
+  const units = U.filter(g=>g.key!=='OTH').slice(0,6);
+  const cur = S.regionSel && regs.includes(S.regionSel) ? S.regionSel : regs[0];
+  S.regionSel = cur;
+  const rs = (S.regional[cur] = S.regional[cur] || {});
+  let st = null;
+  if(regs.length){
+    const ri = regs.indexOf(cur), ids = E.seats.map((s,i)=>i).filter(i => E.seats[i].r === ri);
+    const tot = ids.reduce((a,i)=>a+E.seats[i].ut,0) || 1;
+    st = {ids, share: k => 100*ids.reduce((a,i)=>a+RES.shares[i][k]*E.seats[i].ut,0)/tot, base: k => 100*ids.reduce((a,i)=>a+E.seats[i].base[k]*E.seats[i].ut,0)/tot, seats: k => ids.reduce((a,i)=>a+(RES.win[i]===k?E.seats[i].m:0),0)};
+  }
+  const adjusted = Object.keys(S.regional).filter(r=>Object.values(S.regional[r]).some(v=>v)).length;
+  p.innerHTML = `<div class="stack">
+    <div><h3>${esc(t('regTitle'))}</h3><p class="hint">${esc(t(isLS?'regHintLS':'regHintAE'))} ${esc(t('regUnits'))}</p></div>
+    ${regs.length ? `<select id="regSel" aria-label="${esc(t('regTitle'))}">${regs.map(r=>`<option value="${esc(r)}" ${r===cur?'selected':''}>${esc(stName(r))}</option>`).join('')}</select>
+    <div class="tw"><table class="ptab"><thead><tr><th>${esc(S.mode==='alliance'?t('side'):t('thParty'))}</th><th>${esc(t('base'))}</th><th>${esc(t('now'))}</th><th>${esc(t('thSeats'))}</th><th>${esc(t('extra'))}</th></tr></thead><tbody>
+    ${units.map(g=>{ const k = U.indexOf(g); return `<tr><td><span class="pname"><i class="sw" style="background:${g.hex}"></i><span>${esc(g.name)}</span></span></td><td class="num">${fmt1(st.base(k))}</td><td class="num">${fmt1(st.share(k))}</td><td class="num">${st.seats(k)}</td><td><input class="inp num" style="width:68px" type="number" step="0.5" value="${rs[g.key]||0}" data-key="${esc(g.key)}" aria-label="${esc(t('extra'))} ${esc(g.name)}"></td></tr>`;}).join('')}
+    </tbody></table></div>
+    <p class="small">${esc(t('regSeats',{n:st.ids.length, r:stName(cur), a:adjusted}))}</p>
+    <button class="btn small" id="clrReg">${esc(t('clrReg'))}</button>` : `<p class="hint">${esc(t('noRegion'))}</p>`}
+    <div style="margin-top:6px"><h3>${esc(t('resTitle'))}</h3><p class="hint">${esc(t('resHint'))}</p>
+      <table class="ptab"><thead><tr><th></th><th>${esc(t('scPts'))}</th><th>${esc(t('stPts'))}</th></tr></thead><tbody>
+      ${units.map(g=>`<tr><td><span class="pname"><i class="sw" style="background:${g.hex}"></i><span>${esc(g.name)}</span></span></td><td><input class="inp num" style="width:64px" type="number" step="0.5" value="${S.reserved.SC[g.key]||0}" data-res="SC" data-key="${esc(g.key)}" aria-label="SC ${esc(g.name)}"></td><td><input class="inp num" style="width:64px" type="number" step="0.5" value="${S.reserved.ST[g.key]||0}" data-res="ST" data-key="${esc(g.key)}" aria-label="ST ${esc(g.name)}"></td></tr>`).join('')}
+      </tbody></table></div>
+  </div>`;
+  const sel = $('#regSel'); if(sel) sel.onchange = () => { S.regionSel = sel.value; renderPane(); };
+  p.querySelectorAll('input[data-key]:not([data-res])').forEach(i => i.onchange = () => { rs[i.dataset.key] = +i.value || 0; run(); renderPane(); });
+  p.querySelectorAll('input[data-res]').forEach(i => i.onchange = () => { S.reserved[i.dataset.res][i.dataset.key] = +i.value || 0; run(); });
+  const c = $('#clrReg'); if(c) c.onclick = () => { S.regional = {}; run(); renderPane(); };
+}
+function paneOdds(p){
+  const fresh = S.mc && S.mc.sig === JSON.stringify(sigOf()), maj = Math.floor(E.N/2)+1;
+  p.innerHTML = `<div class="stack">
+    <div><h3>${esc(t('oddsTitle'))}</h3><p class="hint">${esc(t('oddsHint'))}</p></div>
+    <label>${esc(t('errNat'))} <b class="num">${S.mcSig.nat}</b> ${esc(t('ptsUnit'))}<input type="range" id="sNat" min="0" max="6" step="0.5" value="${S.mcSig.nat}" style="width:100%"></label>
+    <label>${esc(t('errReg'))} <b class="num">${S.mcSig.reg}</b> ${esc(t('ptsUnit'))}<input type="range" id="sReg" min="0" max="6" step="0.5" value="${S.mcSig.reg}" style="width:100%"></label>
+    <label>${esc(t('errSeat'))} <b class="num">${S.mcSig.seat}</b> ${esc(t('ptsUnit'))}<input type="range" id="sSeat" min="0" max="10" step="0.5" value="${S.mcSig.seat}" style="width:100%"></label>
+    <label>${esc(t('runs'))} <select id="sN">${[200,500,1000,2000].map(n=>`<option ${n===S.mcSig.n?'selected':''}>${n}</option>`).join('')}</select></label>
+    <button class="btn primary" id="goMC">${esc(t('runN',{n:S.mcSig.n}))}</button>
+    <div id="mcOut">${S.mc ? mcHTML(fresh, maj) : ''}</div>
+  </div>`;
+  const bind = (id, key) => { const el = $(id); el.oninput = () => { S.mcSig[key] = +el.value; el.parentElement.querySelector('b').textContent = el.value; }; };
+  bind('#sNat','nat'); bind('#sReg','reg'); bind('#sSeat','seat');
+  $('#sN').onchange = e => { S.mcSig.n = +e.target.value; $('#goMC').textContent = t('runN',{n:S.mcSig.n}); };
+  $('#goMC').onclick = async () => { const b = $('#goMC'); b.disabled = true; await runMC(f => b.textContent = t('running',{n:Math.round(f*100)})); b.disabled = false; renderResult(); renderPane(); };
+}
+function mcHTML(fresh, maj){
+  const ks = U.map((g,k)=>k).filter(k=>S.mc.units[k] && S.mc.units[k].hi > 0).sort((a,b)=>S.mc.units[b].med - S.mc.units[a].med);
+  return `${fresh?'':`<p class="small" style="color:var(--warn)">${esc(t('stale'))}</p>`}
+    <div class="mc">${ks.slice(0,4).map(k=>{ const m = S.mc.units[k]; return `<div class="mcbox"><span class="pname"><i class="sw" style="background:${U[k].hex}"></i><span>${esc(U[k].name)}</span></span><b class="num">${Math.round(100*m.pMaj)}%</b><span class="small">${esc(t('chanceMaj',{m:maj}))}</span><div class="small num">${esc(t('seatsRange',{a:m.lo, b:m.hi, c:m.med}))}</div></div>`; }).join('')}
+      <div class="mcbox"><span>${esc(t('hung'))}</span><b class="num">${Math.round(100*S.mc.hung)}%</b><span class="small">${esc(t('noSide',{m:maj}))}</span></div></div>
+    ${mcHistogram(ks.slice(0,3), maj)}
+    <p class="small">${esc(t('rangesNote',{n:S.mc.n}))}</p>`;
+}
+function paneParties(p){
+  const codes = E.parties.filter(c=>c!=='OTH'), ally = alliancesOf(), names = [...new Set(Object.values(ally))];
+  p.innerHTML = `<div class="stack">
+    <div><h3>${esc(t('partiesTitle'))}</h3><p class="hint">${esc(t('partiesHint'))}</p></div>
+    <div class="row"><input class="inp" id="newAlly" placeholder="${esc(t('newAlly'))}" aria-label="${esc(t('newAlly'))}"><button class="btn small" id="addAlly">${esc(t('add'))}</button></div>
+    <datalist id="allyList">${names.map(n=>`<option value="${esc(n)}">`).join('')}</datalist>
+    <div class="tw"><table class="ptab"><thead><tr><th>${esc(t('thParty'))}</th><th>${esc(t('colour'))}</th><th>${esc(t('alliance'))}</th></tr></thead><tbody>
+    ${codes.slice(0,40).map(c=>`<tr><td><input class="inp" style="width:100%;min-width:110px" value="${esc(pName(c))}" data-name="${esc(c)}" aria-label="${esc(c)}"><div class="small">${esc(c)}</div></td>
+      <td><input type="color" value="${/^#[0-9a-f]{6}$/i.test(pColor(c))?pColor(c):'#9aa0aa'}" data-col="${esc(c)}" aria-label="${esc(t('colour'))} ${esc(c)}"></td>
+      <td><input class="inp" list="allyList" style="width:110px" value="${esc(ally[c]||'')}" data-ally="${esc(c)}" placeholder="${esc(t('none'))}" aria-label="${esc(t('alliance'))} ${esc(c)}"></td></tr>`).join('')}
+    </tbody></table></div>
+    <button class="btn small" id="resetParties">${esc(t('restore'))}</button>
+  </div>`;
+  p.querySelectorAll('[data-name]').forEach(i => i.onchange = () => { const c = i.dataset.name; S.partyEdit[c] = Object.assign({}, S.partyEdit[c], {n: i.value}); store.set('partyEdit', S.partyEdit); rebuild(true); });
+  p.querySelectorAll('[data-col]').forEach(i => i.onchange = () => { const c = i.dataset.col; S.partyEdit[c] = Object.assign({}, S.partyEdit[c], {c: i.value}); store.set('partyEdit', S.partyEdit); rebuild(true); });
+  p.querySelectorAll('[data-ally]').forEach(i => i.onchange = () => { S.allyEdit[i.dataset.ally] = i.value.trim(); if(S.mode==='alliance') S.T={}; rebuild(true); });
+  $('#addAlly').onclick = () => { const v = $('#newAlly').value.trim(); if(!v) return; $('#allyList').insertAdjacentHTML('beforeend', `<option value="${esc(v)}">`); toast(t('allyAdded',{a:v})); $('#newAlly').value=''; };
+  $('#resetParties').onclick = () => { S.partyEdit = {}; S.allyEdit = {}; store.set('partyEdit', {}); rebuild(true); };
+}
+function scenario(){ return {v:1, eid:S.eid, next:S.next, ahead:S.ahead, mode:S.mode, method:S.method, T:S.T, locks:S.locks, regional:S.regional, reserved:S.reserved, overrides:S.overrides, allyEdit:S.allyEdit, partyEdit:S.partyEdit, transfer:S.transfer, fixNational:S.fixNational}; }
+function paneSave(p){
+  const saved = store.get('scenarios', []);
+  p.innerHTML = `<div class="stack">
+    <div><h3>${esc(t('saveTitle'))}</h3><p class="hint">${esc(t('saveHint'))}</p></div>
+    <div class="row"><input class="inp" id="scName" placeholder="${esc(t('scName'))}" aria-label="${esc(t('scName'))}" style="flex:1"><button class="btn primary" id="scSave">${esc(t('save'))}</button></div>
+    ${saved.length ? `<table class="ptab"><tbody>${saved.map((s,i)=>`<tr><td>${esc(s.name)}<div class="small">${esc(s.when)}</div></td><td style="white-space:nowrap"><button class="btn small" data-load="${i}">${esc(t('open'))}</button> <button class="btn small" data-del="${i}">${esc(t('del'))}</button></td></tr>`).join('')}</tbody></table>` : `<p class="small">${esc(t('noSaved'))}</p>`}
+    <div class="row"><button class="btn small" id="cpCode">${esc(t('cpCode'))}</button><button class="btn small" id="cpCSV">${esc(t('cpCSV'))}</button><button class="btn small" id="img">${esc(t('mkImg'))}</button></div>
+    <label class="stack" style="gap:4px"><span>${esc(t('pasteCode'))}</span><textarea id="code" aria-label="${esc(t('pasteCode'))}"></textarea></label>
+    <button class="btn small" id="loadCode">${esc(t('openPasted'))}</button>
+  </div>`;
+  $('#scSave').onclick = () => { const n = $('#scName').value.trim() || $('#title').textContent; saved.unshift({name:n, when:new Date().toLocaleString(LANG==='hi'?'hi-IN':'en-IN'), s:scenario()}); store.set('scenarios', saved.slice(0,50)); toast(t('saved',{n})); renderPane(); };
+  p.querySelectorAll('[data-load]').forEach(b => b.onclick = () => applyScenario(saved[+b.dataset.load].s));
+  p.querySelectorAll('[data-del]').forEach(b => b.onclick = () => { saved.splice(+b.dataset.del,1); store.set('scenarios', saved); renderPane(); });
+  $('#cpCode').onclick = () => copy(btoa(unescape(encodeURIComponent(JSON.stringify(scenario())))), t('codeCopied'));
+  $('#cpCSV').onclick = () => copy(csv(), t('csvCopied'));
+  $('#img').onclick = makeImage;
+  $('#loadCode').onclick = () => { try{ applyScenario(JSON.parse(decodeURIComponent(escape(atob($('#code').value.trim()))))); }catch(e){ toast(t('badCode')); } };
+}
+function csv(){
+  const head = ['seat_no','seat','category','region','winner','winner_share','runner_up','lead_pts','changed'];
+  return head.join(',') + '\n' + E.seats.map((s,i)=>{ const w = RES.win[i], r = RES.second[i], x = RES.shares[i];
+    return [s.no, s.name, s.cat, s.r>=0?E.regions[s.r]:'', U[w].name, fmt1(100*x[w]), U[r].name, fmt1(100*(x[w]-x[r])), w!==E.baseWin[i]?'yes':'no'].map(v=>`"${String(v).replace(/"/g,'""')}"`).join(','); }).join('\n');
+}
+async function copy(text, msg){
+  try{ await navigator.clipboard.writeText(text); toast(msg); }
+  catch(e){ modal(`<h3>${esc(t('copyThis'))}</h3><p class="small">${esc(t('copyBlocked'))}</p><textarea style="min-height:200px">${esc(text)}</textarea><div class="row" style="margin-top:8px"><button class="btn" data-close>${esc(t('close'))}</button></div>`); const ta = document.querySelector('.modal textarea'); ta.focus(); ta.select(); }
+}
+async function applyScenario(s){
+  if(!s || !s.eid){ toast(t('badCode')); return; }
+  const ent = INDEX.elections.find(e=>e.id===s.eid); if(!ent){ toast(t('noElection')); return; }
+  Object.assign(S, {kind:ent.kind, state:ent.state, eid:s.eid, next:!!s.next, ahead:s.ahead||(s.next?1:0), mode:s.mode||'party', method:s.method||'prop', allyEdit:s.allyEdit||{}, transfer:s.transfer||100, fixNational:s.fixNational!==false});
+  if(s.partyEdit){ S.partyEdit = s.partyEdit; store.set('partyEdit', S.partyEdit); }
+  showApp(); await load(true);
+  Object.assign(S, {T:s.T||{}, locks:s.locks||{}, regional:s.regional||{}, reserved:s.reserved||{SC:{},ST:{}}, overrides:s.overrides||{}});
+  syncPickers(); renderPane(); run(); toast(t('scnOpened'));
+}
+const canDownload = !/claude/i.test(location.hostname);
+function makeImage(){
+  const W = 1200, H = 675, c = document.createElement('canvas'); c.width = W; c.height = H;
+  const g = c.getContext('2d'), cs = getComputedStyle(document.documentElement), col = n => cs.getPropertyValue(n).trim() || '#000';
+  g.fillStyle = '#fff'; g.fillRect(0,0,W,H);
+  g.fillStyle = col('--ink'); g.font = '700 40px "Anek Latin","Anek Devanagari", system-ui'; g.fillText($('#title').textContent, 48, 70);
+  g.font = '500 22px "Hind", system-ui'; g.fillStyle = col('--muted'); g.fillText($('#verdict').textContent, 48, 106);
+  const sc = 560/520;
+  $('#hemi svg').querySelectorAll('circle').forEach(ci => { g.fillStyle = ci.getAttribute('fill'); g.beginPath(); g.arc(40 + (+ci.getAttribute('cx'))*sc, 140 + (+ci.getAttribute('cy'))*sc, (+ci.getAttribute('r'))*sc, 0, Math.PI*2); g.fill(); });
+  const maj = Math.floor(E.N/2)+1, ord = U.map((x,k)=>k).sort((a,b)=>RES.counts[b]-RES.counts[a]).filter(k=>RES.counts[k]>0).slice(0,9);
+  g.fillStyle = col('--ink'); g.font = '800 64px "Anek Latin", system-ui'; g.textAlign = 'center'; g.fillText(String(RES.counts[ord[0]]), 40+260*sc, 140+272*sc); g.textAlign = 'left';
+  let y = 170; g.font = '600 24px "Hind", system-ui';
+  ord.forEach(k => { g.fillStyle = U[k].hex; g.fillRect(680, y-18, 18, 18); g.fillStyle = col('--ink'); g.fillText(U[k].name.slice(0,26), 712, y); g.textAlign='right'; g.fillText(String(RES.counts[k]), 1060, y); g.fillStyle = col('--muted'); g.fillText(fmt1(RES.T[k])+'%', 1150, y); g.textAlign='left'; y += 44; });
+  g.fillStyle = col('--warn'); g.font = '600 18px "Hind", system-ui'; g.fillText(t('imgFoot',{m:maj}), 48, H-36);
+  g.fillStyle = col('--violet'); g.fillRect(0, 0, 10, H);
+  const url = c.toDataURL('image/png');
+  modal(`<h3>${esc(t('imgTitle'))}</h3><p class="small">${esc(t('imgHint'))}</p><img src="${url}" alt="${esc(t('imgTitle'))}" style="width:100%;border:1px solid var(--line);border-radius:8px"><div class="row" style="margin-top:8px">${canDownload ? `<a class="btn" href="${url}" download="janadesh.png">${esc(t('download'))}</a>` : ''}<button class="btn" data-close>${esc(t('close'))}</button></div>`);
+}
+function modal(html){ const r = $('#modalRoot'); r.innerHTML = `<div class="modal" role="dialog" aria-modal="true"><div>${html}</div></div>`; r.querySelectorAll('[data-close]').forEach(b => b.onclick = () => r.innerHTML=''); r.firstChild.onclick = e => { if(e.target === r.firstChild) r.innerHTML=''; }; }
+let toastT; function toast(msg){ let el = document.getElementById('toast'); if(!el){ el = document.createElement('div'); el.id='toast'; el.setAttribute('role','status'); el.style.cssText='position:fixed;left:50%;transform:translateX(-50%);bottom:calc(76px + env(safe-area-inset-bottom,0px));background:var(--ink);color:#fff;padding:9px 14px;border-radius:9px;z-index:50;font-size:14px;max-width:90vw'; document.body.appendChild(el); } el.textContent = msg; el.hidden = false; clearTimeout(toastT); toastT = setTimeout(()=>el.hidden=true, 3400); }
+
+// ---------- pickers, loading ----------
+function statesList(){ return [...new Set(INDEX.elections.filter(e=>e.kind==='AE').map(e=>e.state))].sort(); }
+function electionsFor(){ return INDEX.elections.filter(e => S.kind==='LS' ? e.kind==='LS' : (e.kind==='AE' && e.state===S.state)).sort((a,b)=>b.year-a.year || b.label.localeCompare(a.label)); }
+function syncPickers(){
+  $('#kLS').setAttribute('aria-pressed', S.kind==='LS'); $('#kAE').setAttribute('aria-pressed', S.kind==='AE');
+  const ss = $('#selState'); ss.hidden = S.kind !== 'AE';
+  ss.innerHTML = statesList().map(s=>`<option value="${esc(s)}" ${s===S.state?'selected':''}>${esc(stName(s))}</option>`).join('');
+  const list = electionsFor(), latest = list[0];
+  $('#selYear').innerHTML = `<optgroup label="${esc(t('futGroup'))}">` + [1,2,3,4].map(k=>`<option value="next${k}:${latest.id}" ${S.next&&S.ahead===k?'selected':''}>${esc(t(k===1?'futOpt1':'futOptN',{y:nextYear(latest,k), k}))}</option>`).join('') + `</optgroup><optgroup label="${esc(t('pastGroup'))}">` + list.map(e=>`<option value="${e.id}" ${(!S.next && e.id===S.eid)?'selected':''}>${esc(e.label)}${e.approx?esc(t('reconOpt')):''}</option>`).join('') + '</optgroup>';
+}
+async function load(keepState){
+  E = prepare((await bundle(entry().file)).find(e=>e.id===S.eid));
+  if(!keepState){ S.T = {}; S.locks = {}; S.regional = {}; S.reserved = {SC:{},ST:{}}; S.overrides = {}; S.allyEdit = {}; S.sel = null; S.mc = null; S.swing = {a:null,b:null,pts:0}; }
+  mapCache = {key:null};
+  buildUnits();
+  $('#detail').hidden = true;
+  drawHistory();
+}
+function rebuild(keepT){
+  const old = keepT ? Object.assign({}, S.T) : {};
+  buildUnits();
+  if(keepT){ S.T = {}; U.forEach(g => { if(old[g.key] != null) S.T[g.key] = old[g.key]; }); const T = targets(), s = T.reduce((a,b)=>a+b,0); U.forEach((g,k)=> S.T[g.key] = T[k]*100/s); }
+  S.mc = null; mapCache = {key:null};
+  run(); renderPane(); drawHistory();
+}
+async function choose(kind, state, value){
+  S.kind = kind; if(state) S.state = state;
+  const list = electionsFor();
+  const m = value && value.match(/^next(\d*):(.+)$/);
+  if(m){ S.next = true; S.ahead = +m[1] || 1; S.eid = m[2]; }
+  else if(value){ S.next = false; S.ahead = 0; S.eid = value; }
+  else { S.next = true; S.ahead = 1; S.eid = list[0].id; }
+  syncPickers(); await load(false); run(); renderPane();
+  store.set('last', {kind:S.kind, state:S.state, eid:S.eid, next:S.next, ahead:S.ahead});
+}
+
+// ---------- views ----------
+function showHome(){ $('#home').hidden = false; $('#app').hidden = true; $('#appPick').hidden = true; $('#homeBtn').hidden = true; $('#dock').hidden = true; document.body.classList.remove('inapp'); window.scrollTo(0,0); }
+function showApp(){ $('#home').hidden = true; $('#app').hidden = false; $('#appPick').hidden = false; $('#homeBtn').hidden = false; $('#dock').hidden = false; document.body.classList.add('inapp'); window.scrollTo(0,0); }
+async function openSim(kind, state, value, preferAlly){ showApp(); $('#title').innerHTML = `<span class="loading"><i></i>${esc(t('loading'))}</span>`; await choose(kind, state, value);
+  if(preferAlly && S.mode !== 'alliance' && new Set(Object.values(E.raw.alliances||{})).size >= 2){ S.mode = 'alliance'; rebuild(); } }
+async function runScenario(n){
+  S.tab = 'easy';
+  if(n === 1 || n === 2){ S.mode = 'alliance'; await openSim('LS', null, 'next:ls-2024'); S.mode = 'alliance'; rebuild(); S.swing = n===1 ? {a:'A:NDA', b:'A:INDIA', pts:4} : {a:'A:INDIA', b:'A:NDA', pts:4}; applySwing(); renderPane(); }
+  if(n === 3){ S.mode = 'party'; const l = INDEX.elections.filter(e=>e.state==='Uttar Pradesh').sort((a,b)=>b.year-a.year)[0]; await openSim('AE', 'Uttar Pradesh', 'next:'+l.id);
+    const a = U.findIndex(g=>g.key==='BJP'), b = U.findIndex(g=>g.key==='SP'); if(a>=0 && b>=0){ S.swing = {a:'BJP', b:'SP', pts:0}; preset('close', a, b, a); } }
+  if(n === 4){ S.mode = 'party'; const l = INDEX.elections.filter(e=>e.state==='West Bengal').sort((a,b)=>b.year-a.year)[0]; await openSim('AE', 'West Bengal', 'next:'+l.id);
+    const a = U.findIndex(g=>g.key==='AITC'); if(a>=0){ S.swing = {a:'AITC', b:'BJP', pts:0}; preset('waveA', a, U.findIndex(g=>g.key==='BJP'), a); } }
+}
+async function renderHome(){
+  // live chamber: 2024 Lok Sabha by alliance
+  const ls = await bundle('ls'), e = ls.find(x=>x.id==='ls-2024');
+  const c = new Map();
+  e.seats.forEach(s => { if(!s[4].length) return; const p = e.parties[s[4][0]], k = e.alliances[p] || p; c.set(k, (c.get(k)||0)+1); });
+  const groups = [...c.entries()].sort((a,b)=>b[1]-a[1]).map(([k,n]) => ({k, n, c: k==='NDA' ? pColor('BJP') : k==='INDIA' ? pColor('INC') : pColor(k)}));
+  const main = groups.filter(g=>g.n>=5), oth = groups.filter(g=>g.n<5).reduce((a,g)=>a+g.n,0);
+  const shown = main.concat(oth ? [{k:'OTH', n:oth, c:'#B9BDC4'}] : []);
+  drawHemicycle($('#liveHemi'), shown, 543, 272, shown[0].n, t('needed',{n:272}));
+  $('#liveLegend').innerHTML = shown.map(g=>`<span><i class="sw" style="background:${g.c}"></i>${esc(g.k==='OTH'?t('others'):(HI_ALLY[g.k]&&LANG==='hi'?HI_ALLY[g.k]:(g.k.length<8?g.k:pName(g.k))))} <b class="num">${g.n}</b></span>`).join('');
+  // future builder
+  const fw = $('#futWhere'), prevW = fw.value || 'LS';
+  const lat = new Map(); INDEX.elections.forEach(x => { const key = x.kind==='LS' ? 'LS' : x.state; const l = lat.get(key); if(!l || x.year > l.year) lat.set(key, x); });
+  fw.innerHTML = `<option value="LS">${esc(t('lokSabha'))}</option>` + statesList().sort((a,b)=>stName(a).localeCompare(stName(b), LANG==='hi'?'hi':'en')).map(st=>`<option value="${esc(st)}">${esc(stName(st))} ${esc(t('vidhanSabha'))}</option>`).join('');
+  fw.value = prevW;
+  const fillYears = () => { const l = lat.get(fw.value); $('#futYear').innerHTML = [1,2,3,4].map(k=>`<option value="${k}">${nextYear(l,k)}</option>`).join(''); };
+  fillYears(); fw.onchange = fillYears;
+  $('#futGo').onclick = () => { const l = lat.get(fw.value), k = +$('#futYear').value; S.tab = 'easy';
+    if(l.kind === 'LS'){ S.mode = 'alliance'; openSim('LS', null, `next${k}:${l.id}`); } else { S.mode = 'party'; openSim('AE', l.state, `next${k}:${l.id}`, true); } };
+  // states grid
+  const latest = new Map(); INDEX.elections.filter(x=>x.kind==='AE').forEach(x => { const l = latest.get(x.state); if(!l || x.year > l.year) latest.set(x.state, x); });
+  $('#stgrid').innerHTML = [...latest.values()].sort((a,b)=>stName(a.state).localeCompare(stName(b.state), LANG==='hi'?'hi':'en')).map(x => {
+    const tot = x.top.reduce((a,b)=>a+b[1],0) || 1;
+    return `<button class="stbtn" data-st="${esc(x.state)}" data-id="${x.id}"><b>${esc(stName(x.state))}</b><span>${esc(t('lastElection',{y:x.label, n:x.seats}))}</span><span class="bar">${x.top.map(([p,n])=>`<i style="width:${100*n/x.seats}%;background:${pColor(p)}"></i>`).join('')}</span></button>`; }).join('');
+  $('#stgrid').querySelectorAll('.stbtn').forEach(b => b.onclick = () => { S.tab = 'easy'; S.mode = 'party'; openSim('AE', b.dataset.st, 'next:'+b.dataset.id, true); });
+}
+function applyLang(){
+  document.documentElement.lang = LANG === 'hi' ? 'hi' : 'en';
+  document.querySelectorAll('[data-i18n]').forEach(el => el.textContent = t(el.dataset.i18n));
+  document.querySelectorAll('[data-i18n-ph]').forEach(el => el.placeholder = t(el.dataset.i18nPh));
+  $('#langBtn').setAttribute('lang', LANG === 'hi' ? 'en' : 'hi');
+}
+
+async function boot(){
+  applyLang();
+  $('#langBtn').onclick = () => { LANG = LANG === 'hi' ? 'en' : 'hi'; store.set('lang', LANG); applyLang();
+    if(INDEX) renderHome();
+    if(E){ syncPickers(); rebuild(true); } };
+  $('#brand').onclick = showHome; $('#homeBtn').onclick = showHome;
+  INDEX = await getJSON('data/index.json'); META = INDEX.parties;
+  S.state = 'Uttar Pradesh';
+  $('#goLS').onclick = () => { S.tab = 'easy'; S.mode = 'alliance'; openSim('LS', null, 'next:ls-2024'); };
+  document.querySelectorAll('[data-scn]').forEach(b => b.onclick = () => runScenario(+b.dataset.scn));
+  $('#kLS').onclick = () => choose('LS');
+  $('#kAE').onclick = () => choose('AE', S.state || 'Uttar Pradesh');
+  $('#selState').onchange = e => choose('AE', e.target.value);
+  $('#selYear').onchange = e => choose(S.kind, S.state, e.target.value);
+  document.querySelectorAll('.tabs button').forEach(b => b.onclick = () => { S.tab = b.dataset.tab; renderPane(); });
+  [['#shWin','win'],['#shMar','mar'],['#shFlip','flip']].forEach(([id,v]) => $(id).onclick = () => { S.shade = v; ['#shWin','#shMar','#shFlip'].forEach(x=>$(x).setAttribute('aria-pressed', x===id)); drawMap(); });
+  $('#seatSearch').oninput = drawSeatList;
+  $('#hSeats').onclick = () => { S.histMode='seats'; $('#hSeats').setAttribute('aria-pressed',true); $('#hVotes').setAttribute('aria-pressed',false); drawHistory(); };
+  $('#hVotes').onclick = () => { S.histMode='votes'; $('#hVotes').setAttribute('aria-pressed',true); $('#hSeats').setAttribute('aria-pressed',false); drawHistory(); };
+  $('#curveUnit').onchange = e => { S.curveKey = e.target.value; drawCurve(); };
+  await renderHome();
+}
+boot().catch(err => { console.error(err); $('#liveHemi').innerHTML = `<p><b>${esc(t('loadFail'))}</b><br><span class="small">${esc(t('loadFailSub'))}</span></p>`; });
+})();
+</script>
