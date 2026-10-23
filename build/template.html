@@ -135,6 +135,7 @@ select,.inp{background:var(--panel);border:1px solid var(--line);border-radius:8
 .swingbox{background:var(--panel);border:1px solid var(--evm-edge);border-radius:4px;padding:12px}
 .swingbox .ends{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);gap:8px;align-items:end}
 .swingbox label{display:flex;flex-direction:column;gap:3px;font-size:12.5px;color:var(--muted);min-width:0}
+.swingbox label.row{flex-direction:row;align-items:center;gap:8px;font-size:14px;color:var(--ink)}
 .swingbox select{width:100%}
 .swingbox input[type=range]{width:100%;margin-top:12px;accent-color:var(--evmblue)}
 .swingread{font-family:var(--display);font-size:17px;font-weight:600;text-align:center;margin-top:4px}
@@ -607,7 +608,7 @@ function renderResult(){
   if(S.tab === 'easy' && $('#easyRes')) $('#easyRes').innerHTML = $('#verdict').innerHTML;
   drawCharts(order, maj); drawMap(); drawSeatList(); if(S.sel != null) drawDetail();
   if(S.tab === 'odds') renderPane();
-  renderBanner(); toolsTouch();
+  renderBanner(); realBadge(); toolsTouch();
 }
 function shortName(g){ if(g.key === 'OTH') return t('others'); if(g.key.startsWith('A:')) return g.name; return LANG==='hi' && HI_PARTY[g.key] && !(S.partyEdit[g.key]&&S.partyEdit[g.key].n) ? HI_PARTY[g.key] : g.key.replace('_SHINDE',''); }
 
@@ -972,7 +973,10 @@ function paneVotes(p){
         <button data-in="seats" aria-pressed="${seatsMode}">${esc(t('setSeats'))}</button></div></div>
       <div class="row"><div class="seg" role="group" aria-label="Swing method">
         <button data-meth="prop" aria-pressed="${S.method==='prop'}">${esc(t('prop'))}</button>
-        <button data-meth="unif" aria-pressed="${S.method==='unif'}">${esc(t('unif'))}</button></div></div>
+        <button data-meth="unif" aria-pressed="${S.method==='unif'}">${esc(t('unif'))}</button>
+        <button data-meth="core" aria-pressed="${S.method==='core'}" title="${esc(t('coreHint'))}">${esc(t('coreM'))}</button></div>
+        ${S.method==='core' ? `<div class="seg" role="group" aria-label="${esc(t('waveLbl'))}"><button data-wave="none" aria-pressed="${(S.wave||'none')==='none'}">${esc(t('waveNone'))}</button><button data-wave="mild" aria-pressed="${S.wave==='mild'}">${esc(t('waveMild'))}</button><button data-wave="strong" aria-pressed="${S.wave==='strong'}">${esc(t('waveStrong'))}</button></div>` : ''}</div>
+      ${S.method==='core' ? `<p class="hint" style="margin:0">${esc(t('coreHint'))}</p>` : ''}
       <p class="hint" style="margin:0">${esc(t(seatsMode?'hintSeats':'hintVotes'))} ${esc(t('hintLock'))}</p>
       <div>${U.map((g,k)=>(!S.showAll && k >= 12 && k < U.length-1) ? '' : `<div class="sl" style="--c:${g.hex}" data-row="${k}">
           <span class="sn num" style="background:${g.hex}">${k+1}</span>
@@ -995,7 +999,8 @@ function paneVotes(p){
   p.querySelectorAll('[data-mode]').forEach(b => b.onclick = () => { S.mode = b.dataset.mode; S.T = {}; S.locks = {}; S.overrides = {}; S.swing = {a:null,b:null,pts:0}; rebuild(); });
   if(RES) lamps(p);
   p.querySelectorAll('[data-in]').forEach(b => b.onclick = () => { S.inputMode = b.dataset.in; renderPane(); });
-  p.querySelectorAll('[data-meth]').forEach(b => b.onclick = () => { S.method = b.dataset.meth; renderPane(); run(); });
+  p.querySelectorAll('[data-meth]').forEach(b => b.onclick = () => { S.method = b.dataset.meth; if(S.method === 'core') E.core = coreShares(); renderPane(); run(); });
+  p.querySelectorAll('[data-wave]').forEach(b => b.onclick = () => { S.wave = b.dataset.wave; renderPane(); run(); });
   p.querySelectorAll('input[type=range][data-k]').forEach(r => r.oninput = () => { setTarget(+r.dataset.k, +r.value); run(); syncVotes(p); });
   p.querySelectorAll('input[type=number][data-k]').forEach(r => r.onchange = () => { setTarget(+r.dataset.k, +r.value); run(); renderPane(); });
   p.querySelectorAll('input[data-seat]').forEach(r => r.onchange = () => solveSeats(+r.dataset.seat, Math.round(+r.value)));
@@ -1121,7 +1126,7 @@ function paneParties(p){
   $('#addAlly').onclick = () => { const v = $('#newAlly').value.trim(); if(!v) return; $('#allyList').insertAdjacentHTML('beforeend', `<option value="${esc(v)}">`); toast(t('allyAdded',{a:v})); $('#newAlly').value=''; };
   $('#resetParties').onclick = () => { S.partyEdit = {}; S.allyEdit = {}; store.set('partyEdit', {}); rebuild(true); };
 }
-function scenario(){ return {v:1, eid:S.eid, next:S.next, ahead:S.ahead, mode:S.mode, method:S.method, T:S.T, locks:S.locks, regional:S.regional, reserved:S.reserved, overrides:S.overrides, allyEdit:S.allyEdit, partyEdit:S.partyEdit, transfer:S.transfer, fixNational:S.fixNational, swing:S.swing, lab:S.lab}; }
+function scenario(){ return {v:1, eid:S.eid, next:S.next, ahead:S.ahead, mode:S.mode, method:S.method, T:S.T, locks:S.locks, regional:S.regional, reserved:S.reserved, overrides:S.overrides, allyEdit:S.allyEdit, partyEdit:S.partyEdit, transfer:S.transfer, fixNational:S.fixNational, swing:S.swing, lab:S.lab, wave:S.wave, real:S.real}; }
 function paneSave(p){
   const saved = store.get('scenarios', []);
   p.innerHTML = `<div class="stack">
@@ -1153,7 +1158,7 @@ async function copy(text, msg){
 async function applyScenario(s){
   if(!s || !s.eid){ toast(t('badCode')); return; }
   const ent = INDEX.elections.find(e=>e.id===s.eid); if(!ent){ toast(t('noElection')); return; }
-  Object.assign(S, {kind:ent.kind, state:ent.state, eid:s.eid, next:!!s.next, ahead:s.ahead||(s.next?1:0), mode:s.mode||'party', method:s.method||'prop', allyEdit:s.allyEdit||{}, transfer:s.transfer||100, fixNational:s.fixNational!==false, lab:s.lab||null});
+  Object.assign(S, {kind:ent.kind, state:ent.state, eid:s.eid, next:!!s.next, ahead:s.ahead||(s.next?1:0), mode:s.mode||'party', method:s.method||'prop', allyEdit:s.allyEdit||{}, transfer:s.transfer||100, fixNational:s.fixNational!==false, lab:s.lab||null, wave:s.wave||'none', real:s.real||null});
   if(s.partyEdit){ S.partyEdit = s.partyEdit; store.set('partyEdit', S.partyEdit); }
   showApp(); await load(true);
   Object.assign(S, {T:s.T||{}, locks:s.locks||{}, regional:s.regional||{}, reserved:s.reserved||{SC:{},ST:{}}, overrides:s.overrides||{}, swing:s.swing||{a:null,b:null,pts:0}});
@@ -1175,6 +1180,7 @@ function syncPickers(){
 }
 async function load(keepState){
   E = prepare((await bundle(entry().file)).find(e=>e.id===S.eid));
+  E.prev = await loadPrev(E.raw);
   if(!keepState){ S.pollScn = null; S.whatIf = null; S.lab = null; S.T = {}; S.locks = {}; S.regional = {}; S.reserved = {SC:{},ST:{}}; S.overrides = {}; S.allyEdit = {}; S.sel = null; S.mc = null; S.swing = {a:null,b:null,pts:0}; }
   mapCache = {key:null}; resetZoom();
   buildUnits(); E.names = null; loadNames();

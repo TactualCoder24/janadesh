@@ -23,6 +23,9 @@ A seat simulator for India's Lok Sabha (1951 to 2024, plus a 2029 projection mod
 - Rename and recolour parties, move parties between alliances, create new alliances
 - Save scenarios in the browser, share them as a code, copy seat results as CSV, export a result image
 - "Repeat last swing" preset and a seats-over-time history chart
+- What-if lab: a new party, a party split, turnout shifts and a sitting-member penalty; voting systems compared, One Nation One Election, a delimitation scenario, the Rajya Sabha and the presidential electoral college
+- Smarter model: a Core + swing method with a wave setting, a wave tracker for every past election, a momentum baseline (weighted last four elections), realistic mode, and signals from assembly results, by-elections and city corporations
+- Analysis tools: flip targets, closest contests, records, head-to-head, incumbency patterns, representation, chief ministers, by-elections since 2014 (by Lok Sabha term), city bodies, party family tree, alliance timeline and a history page for every seat
 
 ## Deploy on GitHub Pages
 
@@ -66,7 +69,7 @@ Data pipeline (needs Python with pandas, numpy, scipy, openpyxl, beautifulsoup4,
 2. `python build/build.py` (rows), `build2.py` (elections), `build3.py` (map keys) write `source/data/` and `source/maps/`.
 3. `python build/apply_overrides.py` applies the official constituency results in `build/seat_overrides/`; `python build/fix_others.py` repairs CPI(M) votes polluted by the old "Others" mapping (both are idempotent repairs on the packed files).
 4. `python build/make_names.py` writes `source/names/` (add Wikipedia names first with `python build/fetch_wiki_names.py`); `python build/fetch_polls.py` writes `source/data/polls.json`.
-5. `python build/fix_independents.py` keeps independents out of alliances (run by make_dist). Reference data: `python build/fetch_cms.py` (chief ministers), `python build/fetch_bypolls.py` (by-elections), `python build/fetch_population.py` (Census 2011), `python build/fetch_rs.py` (Rajya Sabha members and terms), `source/ref/lineage.json` (party splits and mergers, hand-written).
+5. `python build/fix_independents.py` keeps independents out of alliances (run by make_dist). Reference data: `python build/fetch_cms.py` (chief ministers), `python build/fetch_bypolls.py` (by-elections), `python build/fetch_local.py` (city corporation results), `python build/fetch_population.py` (Census 2011), `python build/fetch_rs.py` (Rajya Sabha members and terms), `source/ref/lineage.json` (party splits and mergers, hand-written).
 6. `python build/make_dist.py` rebuilds the page, the search index, `source/data/stats.json` and the open data downloads in `data/` (JSON and CSV per election, `all-seats.csv`).
 
 Data fixes go into `build/seat_overrides/` and are checked against official party tallies before release.

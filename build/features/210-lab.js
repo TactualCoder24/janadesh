@@ -17,7 +17,7 @@ addI18n('hi', {
   labPen: 'मौजूदा सदस्य का जुर्माना', labPenHint: 'सत्ता-विरोधी लहर सिर्फ़ वहाँ जहाँ वह चुभती है: सीट पर क़ाबिज़ दल उसी सीट पर अंक खोता है, पूरे राज्य में नहीं।', labPenOn: 'लागू करें', labPenPts: 'हर सीट के क़ाबिज़ दल के खोए अंक: {v}',
   labBanner: 'अगर-मगर लैब चालू: {list}। असली नतीजे से तुलना।', labBNew: 'नया दल {n}, {v}% पर', labBSplit: '{p} टूटता है (उसके {v}% मतदाता {n} में जाते हैं)', labBTurn: 'मतदान में बदलाव', labBPen: 'मौजूदा सदस्य का जुर्माना {v} अंक',
 });
-function labState(){ if(!S.lab) S.lab = {np: {on: false, name: '', share: 10, color: '#00A6A6', from: {}, spread: 40}, sp: {on: false, key: '', share: 30, name: '', spread: 30}, to: {p: {}, r: {}}, pen: {on: false, pts: 5}}; return S.lab; }
+function labState(){ if(!S.lab) S.lab = {mom: {on: false}, np: {on: false, name: '', share: 10, color: '#00A6A6', from: {}, spread: 40}, sp: {on: false, key: '', share: 30, name: '', spread: 30}, to: {p: {}, r: {}}, pen: {on: false, pts: 5}}; return S.lab; }
 function labChanged(){ S.T = {}; S.locks = {}; S.swing = {a: null, b: null, pts: 0}; S.mc = null; S.pollScn = null; S.whatIf = null; rebuild(); }
 function labUnits(){ return U.map((g, k) => ({g, k})).filter(o => o.g.key !== 'OTH' && !o.g.labKind); }
 function paneLab(p){
@@ -42,6 +42,10 @@ function paneLab(p){
       ${top.slice(0, 6).map(o => `<label class="stack" style="gap:2px"><span id="toP${esc(o.g.key)}L">${esc(t('labTOParty', {p: o.g.name, v: (L.to.p[o.g.key] || 0)}))}</span><input type="range" min="-50" max="50" step="1" value="${L.to.p[o.g.key] || 0}" data-top="${esc(o.g.key)}" style="--c:${o.g.hex}"></label>`).join('')}
       ${regs.length ? `<div class="row" style="margin-top:8px"><select id="toReg" style="flex:1;min-width:0"><option value="">${esc(t('labTOPick'))}</option>${regs.map(r => `<option value="${esc(r)}">${esc(stName(r))}</option>`).join('')}</select><input class="inp num" type="number" id="toRegV" min="-50" max="50" step="1" value="-10" style="width:70px"><button class="btn small" id="toRegAdd">${esc(t('labTOAdd'))}</button></div>
       <div class="row" style="margin-top:6px">${Object.entries(L.to.r).filter(([, v]) => v).map(([r, v]) => `<button class="chip" data-torm="${esc(r)}">${esc(t('labTOReg', {r: stName(r), v}))} ×</button>`).join('')}</div>` : ''}</div>
+    <div class="swingbox"><label class="row"><input type="checkbox" id="momOn" ${L.mom && L.mom.on ? 'checked' : ''}> <b>${esc(t('labMom'))}</b></label><p class="hint" style="margin:4px 0 0">${esc(t('labMomHint'))}</p></div>
+    <div class="swingbox"><label class="row"><input type="checkbox" id="realOn" ${S.real && S.real.on ? 'checked' : ''}> <b>${esc(t('realTitle'))}</b></label><p class="hint" style="margin:4px 0 8px">${esc(t('realHint'))}</p>
+      <label class="stack" style="gap:2px"><span id="realML">${esc(t('realMonths', {v: S.real && S.real.months != null ? S.real.months : 24}))}</span><input type="range" id="realM" min="0" max="60" step="1" value="${S.real && S.real.months != null ? S.real.months : 24}"></label>
+      <div class="seg" role="group" aria-label="${esc(t('realWave'))}" style="margin-top:6px"><button data-rwave="none" aria-pressed="${(S.wave || 'none') === 'none'}">${esc(t('waveNone'))}</button><button data-rwave="mild" aria-pressed="${S.wave === 'mild'}">${esc(t('waveMild'))}</button><button data-rwave="strong" aria-pressed="${S.wave === 'strong'}">${esc(t('waveStrong'))}</button></div></div>
     <div class="swingbox"><label class="row"><input type="checkbox" id="penOn" ${L.pen.on ? 'checked' : ''}> <b>${esc(t('labPen'))}</b></label><p class="hint" style="margin:4px 0 8px">${esc(t('labPenHint'))}</p>
       ${sl('penPts', 0, 20, 0.5, L.pen.pts, esc(t('labPenPts', {v: fmt1(L.pen.pts)})))}</div>
     <button class="btn small" id="labReset">${esc(t('labReset'))}</button></div>`;
@@ -63,6 +67,11 @@ function paneLab(p){
     r.onchange = () => { L.to.p[r.dataset.top] = +r.value; labChanged(); }; });
   on('toRegAdd', 'onclick', () => { const r = $('#toReg').value, v = +$('#toRegV').value; if(!r) return; L.to.r[r] = v; labChanged(); });
   p.querySelectorAll('[data-torm]').forEach(b => b.onclick = () => { delete L.to.r[b.dataset.torm]; labChanged(); });
+  on('momOn', 'onchange', e => { L.mom = L.mom || {}; L.mom.on = e.target.checked; labChanged(); });
+  on('realOn', 'onchange', e => { S.real = S.real || {on: false, months: 24}; S.real.on = e.target.checked; run(); renderPane(); });
+  on('realM', 'oninput', e => { $('#realML').textContent = t('realMonths', {v: e.target.value}); });
+  on('realM', 'onchange', e => { S.real = S.real || {on: false, months: 24}; S.real.months = +e.target.value; run(); });
+  p.querySelectorAll('[data-rwave]').forEach(b => b.onclick = () => { S.wave = b.dataset.rwave; run(); renderPane(); });
   on('penOn', 'onchange', e => { L.pen.on = e.target.checked; labChanged(); });
   slide('penPts', 'pts', L.pen, v => t('labPenPts', {v: fmt1(v)}), () => L.pen.on);
   on('labReset', 'onclick', () => { S.lab = null; labChanged(); });
@@ -73,6 +82,7 @@ function renderLabBanner(){
   if(L.np && L.np.on) bits.push(t('labBNew', {n: L.np.name || t('labNewName'), v: fmt1(S.labInfo && S.labInfo.np ? S.labInfo.np.got : L.np.share)}));
   if(L.sp && L.sp.on){ const g = U.find(x => x.key === L.sp.key); bits.push(t('labBSplit', {p: g ? g.name : L.sp.key, v: L.sp.share, n: L.sp.name || t('labFaction')})); }
   if(labTurnoutOn(L)) bits.push(t('labBTurn'));
+  if(L.mom && L.mom.on) bits.push(t('labBMom'));
   if(L.pen && L.pen.on) bits.push(t('labBPen', {v: fmt1(L.pen.pts)}));
   el.hidden = false; el.textContent = t('labBanner', {list: bits.join('; ')}); return true;
 }

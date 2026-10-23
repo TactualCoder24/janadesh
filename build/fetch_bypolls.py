@@ -11,7 +11,9 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import parties as P
 HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(HERE)
 CACHE = os.path.join(ROOT, 'dl', 'wiki'); os.makedirs(CACHE, exist_ok=True)
-SINCE = '2024-06-04'   # the Lok Sabha result
+SINCE = '2024-06-04'   # the 18th Lok Sabha result
+FROM = '2014-05-16'    # the 16th Lok Sabha result: how far back the history goes
+TERMS = [('2014-05-16', 16), ('2019-05-23', 17), ('2024-06-04', 18)]
 MONTHS = {m: i + 1 for i, m in enumerate(['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'])}
 STATE = {'Jammu & Kashmir': 'Jammu & Kashmir', 'Jammu and Kashmir': 'Jammu & Kashmir', 'Odisha': 'Odisha', 'Orissa': 'Odisha', 'NCT of Delhi': 'Delhi', 'Puducherry': 'Puducherry', 'Pondicherry': 'Puducherry', 'Keralam': 'Kerala'}
 REASON = re.compile(r'^(Died|Death|Resign|Disqualif|Elected|Vacat|Expel|Convict|Appoint|Join|Cancel|Nominat|Contested|Unseated|Seat vacated|Unknown|Removed|Withdrew|Sentenced)', re.I)
@@ -60,7 +62,7 @@ def iso(s):
     return f'{m.group(3)}-{MONTHS[m.group(2)]:02d}-{int(m.group(1)):02d}' if m and m.group(2) in MONTHS else None
 
 def code(name):
-    if not name or name in ('–', '—', '-') or re.match(r'^(Vacant|None|N/?A)', name, re.I): return ''
+    if not name or name in ('–', '—', '-') or re.match(r'^(Vacant|None|N/?A)', name, re.I): return ''
     return P.norm(name)
 
 def is_party(c):
@@ -107,21 +109,71 @@ def parse_ls(html):
             if d: out.append({'date': d, 'kind': 'LS', 'state': STATE.get(st, st), 'seat': seat, 'prev': pm, 'prevParty': code(pp), 'reason': cause, 'winner': wm, 'winParty': code(wp)})
     return out
 
+_LSST = None
+def ls_state(seat):
+    """The older Lok Sabha by-election tables have no state column: take it from the seat name in the Lok Sabha data (only when the name is unique)."""
+    global _LSST
+    if _LSST is None:
+        _LSST = {}
+        for e in sorted(json.load(open(os.path.join(ROOT, 'source', 'data', 'ls.json'), encoding='utf-8')), key=lambda e: e['year']):
+            cur = {}
+            for st in e['seats']:
+                r = e['regions'][st[3]] if st[3] >= 0 else ''
+                cur.setdefault(key(st[1]), set()).add(STATE.get(r, r))
+            _LSST.update(cur)   # the latest election that has the seat wins, so old state names are replaced
+    v = _LSST.get(key(seat), set())
+    return next(iter(v)) if len(v) == 1 else ''
+
+def key(n): return re.sub(r'[^a-z0-9]+', '', re.sub(r'\(.*?\)', '', str(n).lower()))
+
+def parse_old(html):
+    """The yearly pages up to 2023 list one table per state with the columns Date, Constituency, MLA/MP before election, Party before election (twice: a colour cell, then the name), Elected MLA/MP, Party after election."""
+    soup = BeautifulSoup(html, 'lxml'); out = []
+    for t in soup.find_all('table'):
+        g = grid(t)
+        if len(g) < 2: continue
+        hdr = [(c or '').strip().lower() for c in g[0]]
+        if 'constituency' not in hdr or not any('before election' in c for c in hdr) or not any(c.startswith('elected') for c in hdr): continue
+        ix = lambda pred: [i for i, c in enumerate(hdr) if pred(c)]
+        di, ci = ix(lambda c: c == 'date'), ix(lambda c: c == 'constituency')
+        pm, pp = ix(lambda c: c in ('mla before election', 'mp before election')), ix(lambda c: c == 'party before election')
+        wm, wp = ix(lambda c: c in ('elected mla', 'elected mp')), ix(lambda c: c == 'party after election')
+        si = ix(lambda c: c in ('state/ut', 'state', 'state / ut'))
+        if not (di and ci and pm and wm and pp and wp): continue
+        kind = 'LS' if 'mp before election' in hdr else 'AE'
+        st = state_of(t) if kind == 'AE' else ''
+        for row in g[1:]:
+            if len(row) < max(di + ci + pm + wm + pp + wp) + 1: continue
+            d = iso(row[di[0]])
+            if not d: continue
+            seat = re.sub(r'\s*\((SC|ST)\)\s*$', '', row[ci[0]]).strip()
+            if not seat: continue
+            state = (STATE.get(row[si[0]], row[si[0]]) if si else ls_state(seat)) if kind == 'LS' else st
+            prevParty = next((code(row[i]) for i in reversed(pp) if row[i] and not re.match(r'^[\s\d]*$', row[i])), '')
+            winParty = next((code(row[i]) for i in reversed(wp) if row[i] and not re.match(r'^[\s\d]*$', row[i])), '')
+            out.append({'date': d, 'kind': kind, 'state': state, 'seat': seat, 'prev': row[pm[0]], 'prevParty': prevParty, 'reason': '', 'winner': row[wm[0]], 'winParty': winParty})
+    return out
+
 def main():
     items = []
     try: items += parse_ls(fetch('By-elections to the 18th Lok Sabha'))
     except Exception as e: print('LS failed', e)
-    for y in (2024, 2025, 2026):
-        try: items += parse_assembly(fetch(f'{y} elections in India'), y)
+    for y in range(2014, 2027):
+        try:
+            h = fetch(f'{y} elections in India')
+            items += parse_assembly(h, y) if y >= 2024 else []
+            items += parse_old(h)
         except Exception as e: print(y, 'failed', e)
-    items = [i for i in items if i['date'] >= SINCE]
+    items = [i for i in items if i['date'] >= FROM]
     seen = set(); uniq = []
     for i in sorted(items, key=lambda x: (x['date'], x['state'], x['seat'])):
         k = (i['date'], i['state'], i['seat'])
         if k not in seen: seen.add(k); uniq.append(i)
+    term = lambda d: [n for f, n in TERMS if d >= f][-1]
     for i in uniq:
+        i['term'] = term(i['date'])
         i['changed'] = bool(i['prevParty'] and i['winParty'] and i['prevParty'] != i['winParty'])
-    json.dump({'v': 1, 'since': SINCE, 'source': 'Wikipedia, By-elections to the 18th Lok Sabha and the by-election tables of the 2024, 2025 and 2026 elections in India', 'items': uniq},
+    json.dump({'v': 2, 'since': SINCE, 'from': FROM, 'source': 'Wikipedia, By-elections to the 18th Lok Sabha and the by-election tables of the 2014 to 2026 elections in India', 'items': uniq},
               open(os.path.join(ROOT, 'source', 'ref', 'bypolls.json'), 'w', encoding='utf-8'), separators=(',', ':'), ensure_ascii=False)
     print('by-elections:', len(uniq), '; LS', sum(1 for i in uniq if i['kind'] == 'LS'), '; changed hands', sum(1 for i in uniq if i['changed']))
     for i in uniq[:6] + uniq[-4:]: print(' ', i['date'], i['kind'], i['state'], '|', i['seat'], '|', i['prevParty'], '->', i['winParty'], '|', i['winner'])

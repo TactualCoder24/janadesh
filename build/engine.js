@@ -68,18 +68,47 @@ function buildUnits(){
     s.base = u.map(x => x/(t||1));
   });
   // the real result (before any what-if from the lab): base seats and base winners always describe this
+  E.hist = histShares();
   const bs = winners(E.seats.map(s=>s.base), null);
   labApply(bs.win);
   const totU = E.seats.reduce((a,s)=>a+s.ut,0);
   U.forEach((g,ui) => { g.base = 100*E.seats.reduce((a,s)=>a+s.u[ui],0)/totU; });
   U.forEach((g,ui)=> g.baseSeats = bs.counts[ui]);
   E.baseWin = bs.win;
+  E.core = S.method === 'core' ? coreShares() : null;
+}
+
+// ---------- earlier elections, seat by seat ----------
+async function loadPrev(raw){
+  const list = (await bundle(entry().file)).slice().sort((a, b) => a.year - b.year || a.label.localeCompare(b.label)), i = list.findIndex(x => x.id === raw.id);
+  return list.slice(Math.max(0, i - 3), Math.max(0, i)).reverse().map(p => ({raw: p, idx: new Map(p.seats.map((s, j) => [seatKey(p, s), j]))}));
+}
+function histShares(){
+  const prev = E.prev || [], n = U.length, pc = E.parties;
+  const keys = E.raw.seats.map(s => seatKey(E.raw, s));
+  return E.seats.map((s, i) => prev.map(p => {
+    const j = p.idx.get(keys[i]); if(j == null) return null;
+    const ps = p.raw.seats[j], v = new Float64Array(n); let tot = 0;
+    for(let k = 0; k < ps[4].length; k += 2){ const c = pc.indexOf(p.raw.parties[ps[4][k]]), ui = c >= 0 ? E.unitOf[c] : n - 1; v[ui] += ps[4][k + 1]; tot += ps[4][k + 1]; }
+    v[n - 1] += ps[5] || 0; tot += ps[5] || 0;
+    if(!(tot > 0)) return null;
+    for(let k = 0; k < n; k++) v[k] /= tot;
+    return v;
+  }));
+}
+const MOM_W = [0.5, 0.25, 0.15, 0.10];
+// core vote of a party in a seat: its floor over the last elections (a share of it, so a core is never the whole vote)
+function coreShares(){
+  const H = E.hist || [], n = U.length;
+  return E.seats.map((s, i) => { const c = new Float64Array(n), hs = (H[i] || []).filter(Boolean);
+    for(let u = 0; u < n; u++){ let m = s.base[u]; hs.forEach(h => { if(h[u] < m) m = h[u]; }); c[u] = (hs.length ? 0.85 : 0.5) * m; }
+    return c; });
 }
 
 // ---------- what-if lab: reshapes each seat's vote shares before any swing (new party, split, turnout, sitting-member penalty) ----------
 const hash01 = x => { const v = Math.sin(x * 12.9898 + 78.233) * 43758.5453; return v - Math.floor(v); };
 function labTurnoutOn(L){ return !!(L && L.to && (Object.values(L.to.p || {}).some(v => v) || Object.values(L.to.r || {}).some(v => v))); }
-function labActive(){ const L = S.lab; return !!(L && ((L.np && L.np.on) || (L.sp && L.sp.on) || (L.pen && L.pen.on) || labTurnoutOn(L))); }
+function labActive(){ const L = S.lab; return !!(L && ((L.np && L.np.on) || (L.sp && L.sp.on) || (L.pen && L.pen.on) || (L.mom && L.mom.on) || labTurnoutOn(L))); }
 function labExtraUnits(){
   const L = S.lab, out = []; if(!L) return out;
   if(L.sp && L.sp.on && L.sp.key) out.push({key:'SPLIT:' + L.sp.key, name:L.sp.name || (t('labFaction')), members:[], vote:0, seats:0, labKind:'split', parent:L.sp.key});
@@ -95,6 +124,13 @@ function labColor(g, list){
 function labApply(origWin){
   const L = S.lab; if(!L || !labActive()) { S.labInfo = null; return; }
   const n = U.length, idx = k => U.findIndex(g => g.key === k), seats = E.seats, info = {};
+  // 0. momentum baseline: a weighted average of the last elections instead of only the latest
+  if(L.mom && L.mom.on && E.hist){
+    seats.forEach((s, i) => { const hs = E.hist[i] || [], w = [MOM_W[0]], parts = [s.base]; hs.forEach((h, k) => { if(h){ w.push(MOM_W[k + 1]); parts.push(h); } });
+      const ws = w.reduce((a, b) => a + b, 0), tot = s.u.reduce((a, b) => a + b, 0); if(parts.length < 2 || !(tot > 0)) return;
+      for(let u = 0; u < n; u++){ let v = 0; parts.forEach((pt, k) => v += w[k] * pt[u]); s.u[u] = v / ws * tot; } });
+    info.mom = true;
+  }
   // 1. turnout: scale the votes of a party's voters everywhere, or of every voter in a state or district
   if(labTurnoutOn(L)){
     const fu = U.map(g => Math.max(0, 1 + ((L.to.p || {})[g.key] || 0) / 100));
@@ -166,10 +202,19 @@ function simulate(T, noise){
   const base = U.map(g=>g.base);
   const reg = S.regional, res = S.reserved;
   const regDelta = (r, ui) => { const o = reg[E.regions[r]]; return o && o[U[ui].key] ? o[U[ui].key]/100 : 0; };
+  // core and swing voters: a swing first moves the swing pool, the core only moves with a wave
+  const core = method === 'core' ? (E.core || (E.core = coreShares())) : null, wv = {none: 0, mild: .4, strong: 1}[S.wave || 'none'];
+  let Cn = null, te = null, fc = null, fs = null;
+  if(core){ Cn = new Float64Array(n); const tw = E.seats.reduce((a, s) => a + s.ut, 0); E.seats.forEach((s, i) => { for(let u = 0; u < n; u++) Cn[u] += core[i][u] * s.ut; }); for(let u = 0; u < n; u++) Cn[u] = 100 * Cn[u] / tw; te = T.slice(); fc = new Float64Array(n); fs = new Float64Array(n); }
+  const coreFactors = () => { for(let u = 0; u < n; u++){ const B = base[u], C = Math.min(Cn[u], B), Sp = B - C, Tu = te[u];
+      if(Tu >= B){ const den = Sp + wv * C; if(den > 1e-9){ const dl = (Tu - B) / den; fs[u] = 1 + dl; fc[u] = 1 + wv * dl; } else { fs[u] = fc[u] = B > 0 ? Tu / B : 1; } }
+      else if(Tu >= C){ fc[u] = 1; fs[u] = Sp > 1e-9 ? (Tu - C) / Sp : 1; }
+      else { fs[u] = 0; fc[u] = C > 0 ? Math.max(Tu / C, 1 - wv) : 1; } } };
   let f = T.map((t,ui) => base[ui] > 0 ? t/base[ui] : 0);      // proportional factors
   let d = T.map((t,ui) => (t-base[ui])/100);                    // uniform shifts
   let out;
   for(let pass=0; pass<5; pass++){
+    if(core) coreFactors();
     out = E.seats.map((s, i) => {
       const x = new Float64Array(n);
       let sum = 0;
@@ -177,6 +222,7 @@ function simulate(T, noise){
         const b = s.base[ui];
         let y;
         if(method === 'prop') y = b * f[ui];
+        else if(core){ const c0 = core[i][ui]; y = c0 * fc[ui] + (b - c0) * fs[ui]; }
         else y = b > 0 ? Math.max(0.0005, b + d[ui]) : 0;
         if(b > 0 || y > 0){
           if(s.r >= 0) y += regDelta(s.r, ui);
@@ -199,7 +245,7 @@ function simulate(T, noise){
     for(let ui=0; ui<n; ui++){
       const c = 100*cur[ui]/tot, t = T[ui];
       err = Math.max(err, Math.abs(c-t));
-      if(c > 0){ f[ui] *= t/c; d[ui] += (t-c)/100; }
+      if(c > 0){ f[ui] *= t/c; d[ui] += (t-c)/100; if(te) te[ui] = Math.max(0, te[ui] * t / c); }
     }
     if(err < 0.02) break;
   }
@@ -209,7 +255,8 @@ function simulate(T, noise){
 function targets(){ return U.map(g => S.T[g.key] != null ? S.T[g.key] : g.base); }
 
 function run(){
-  const T = targets();
+  S.realHit = null;
+  const T = realisticClamp(targets());
   const shares = simulate(T);
   const w = winners(shares, S.overrides);
   RES = {T, shares, ...w};

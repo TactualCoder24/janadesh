@@ -135,6 +135,7 @@ select,.inp{background:var(--panel);border:1px solid var(--line);border-radius:8
 .swingbox{background:var(--panel);border:1px solid var(--evm-edge);border-radius:4px;padding:12px}
 .swingbox .ends{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);gap:8px;align-items:end}
 .swingbox label{display:flex;flex-direction:column;gap:3px;font-size:12.5px;color:var(--muted);min-width:0}
+.swingbox label.row{flex-direction:row;align-items:center;gap:8px;font-size:14px;color:var(--ink)}
 .swingbox select{width:100%}
 .swingbox input[type=range]{width:100%;margin-top:12px;accent-color:var(--evmblue)}
 .swingread{font-family:var(--display);font-size:17px;font-weight:600;text-align:center;margin-top:4px}
@@ -885,18 +886,47 @@ function buildUnits(){
     s.base = u.map(x => x/(t||1));
   });
   // the real result (before any what-if from the lab): base seats and base winners always describe this
+  E.hist = histShares();
   const bs = winners(E.seats.map(s=>s.base), null);
   labApply(bs.win);
   const totU = E.seats.reduce((a,s)=>a+s.ut,0);
   U.forEach((g,ui) => { g.base = 100*E.seats.reduce((a,s)=>a+s.u[ui],0)/totU; });
   U.forEach((g,ui)=> g.baseSeats = bs.counts[ui]);
   E.baseWin = bs.win;
+  E.core = S.method === 'core' ? coreShares() : null;
+}
+
+// ---------- earlier elections, seat by seat ----------
+async function loadPrev(raw){
+  const list = (await bundle(entry().file)).slice().sort((a, b) => a.year - b.year || a.label.localeCompare(b.label)), i = list.findIndex(x => x.id === raw.id);
+  return list.slice(Math.max(0, i - 3), Math.max(0, i)).reverse().map(p => ({raw: p, idx: new Map(p.seats.map((s, j) => [seatKey(p, s), j]))}));
+}
+function histShares(){
+  const prev = E.prev || [], n = U.length, pc = E.parties;
+  const keys = E.raw.seats.map(s => seatKey(E.raw, s));
+  return E.seats.map((s, i) => prev.map(p => {
+    const j = p.idx.get(keys[i]); if(j == null) return null;
+    const ps = p.raw.seats[j], v = new Float64Array(n); let tot = 0;
+    for(let k = 0; k < ps[4].length; k += 2){ const c = pc.indexOf(p.raw.parties[ps[4][k]]), ui = c >= 0 ? E.unitOf[c] : n - 1; v[ui] += ps[4][k + 1]; tot += ps[4][k + 1]; }
+    v[n - 1] += ps[5] || 0; tot += ps[5] || 0;
+    if(!(tot > 0)) return null;
+    for(let k = 0; k < n; k++) v[k] /= tot;
+    return v;
+  }));
+}
+const MOM_W = [0.5, 0.25, 0.15, 0.10];
+// core vote of a party in a seat: its floor over the last elections (a share of it, so a core is never the whole vote)
+function coreShares(){
+  const H = E.hist || [], n = U.length;
+  return E.seats.map((s, i) => { const c = new Float64Array(n), hs = (H[i] || []).filter(Boolean);
+    for(let u = 0; u < n; u++){ let m = s.base[u]; hs.forEach(h => { if(h[u] < m) m = h[u]; }); c[u] = (hs.length ? 0.85 : 0.5) * m; }
+    return c; });
 }
 
 // ---------- what-if lab: reshapes each seat's vote shares before any swing (new party, split, turnout, sitting-member penalty) ----------
 const hash01 = x => { const v = Math.sin(x * 12.9898 + 78.233) * 43758.5453; return v - Math.floor(v); };
 function labTurnoutOn(L){ return !!(L && L.to && (Object.values(L.to.p || {}).some(v => v) || Object.values(L.to.r || {}).some(v => v))); }
-function labActive(){ const L = S.lab; return !!(L && ((L.np && L.np.on) || (L.sp && L.sp.on) || (L.pen && L.pen.on) || labTurnoutOn(L))); }
+function labActive(){ const L = S.lab; return !!(L && ((L.np && L.np.on) || (L.sp && L.sp.on) || (L.pen && L.pen.on) || (L.mom && L.mom.on) || labTurnoutOn(L))); }
 function labExtraUnits(){
   const L = S.lab, out = []; if(!L) return out;
   if(L.sp && L.sp.on && L.sp.key) out.push({key:'SPLIT:' + L.sp.key, name:L.sp.name || (t('labFaction')), members:[], vote:0, seats:0, labKind:'split', parent:L.sp.key});
@@ -912,6 +942,13 @@ function labColor(g, list){
 function labApply(origWin){
   const L = S.lab; if(!L || !labActive()) { S.labInfo = null; return; }
   const n = U.length, idx = k => U.findIndex(g => g.key === k), seats = E.seats, info = {};
+  // 0. momentum baseline: a weighted average of the last elections instead of only the latest
+  if(L.mom && L.mom.on && E.hist){
+    seats.forEach((s, i) => { const hs = E.hist[i] || [], w = [MOM_W[0]], parts = [s.base]; hs.forEach((h, k) => { if(h){ w.push(MOM_W[k + 1]); parts.push(h); } });
+      const ws = w.reduce((a, b) => a + b, 0), tot = s.u.reduce((a, b) => a + b, 0); if(parts.length < 2 || !(tot > 0)) return;
+      for(let u = 0; u < n; u++){ let v = 0; parts.forEach((pt, k) => v += w[k] * pt[u]); s.u[u] = v / ws * tot; } });
+    info.mom = true;
+  }
   // 1. turnout: scale the votes of a party's voters everywhere, or of every voter in a state or district
   if(labTurnoutOn(L)){
     const fu = U.map(g => Math.max(0, 1 + ((L.to.p || {})[g.key] || 0) / 100));
@@ -983,10 +1020,19 @@ function simulate(T, noise){
   const base = U.map(g=>g.base);
   const reg = S.regional, res = S.reserved;
   const regDelta = (r, ui) => { const o = reg[E.regions[r]]; return o && o[U[ui].key] ? o[U[ui].key]/100 : 0; };
+  // core and swing voters: a swing first moves the swing pool, the core only moves with a wave
+  const core = method === 'core' ? (E.core || (E.core = coreShares())) : null, wv = {none: 0, mild: .4, strong: 1}[S.wave || 'none'];
+  let Cn = null, te = null, fc = null, fs = null;
+  if(core){ Cn = new Float64Array(n); const tw = E.seats.reduce((a, s) => a + s.ut, 0); E.seats.forEach((s, i) => { for(let u = 0; u < n; u++) Cn[u] += core[i][u] * s.ut; }); for(let u = 0; u < n; u++) Cn[u] = 100 * Cn[u] / tw; te = T.slice(); fc = new Float64Array(n); fs = new Float64Array(n); }
+  const coreFactors = () => { for(let u = 0; u < n; u++){ const B = base[u], C = Math.min(Cn[u], B), Sp = B - C, Tu = te[u];
+      if(Tu >= B){ const den = Sp + wv * C; if(den > 1e-9){ const dl = (Tu - B) / den; fs[u] = 1 + dl; fc[u] = 1 + wv * dl; } else { fs[u] = fc[u] = B > 0 ? Tu / B : 1; } }
+      else if(Tu >= C){ fc[u] = 1; fs[u] = Sp > 1e-9 ? (Tu - C) / Sp : 1; }
+      else { fs[u] = 0; fc[u] = C > 0 ? Math.max(Tu / C, 1 - wv) : 1; } } };
   let f = T.map((t,ui) => base[ui] > 0 ? t/base[ui] : 0);      // proportional factors
   let d = T.map((t,ui) => (t-base[ui])/100);                    // uniform shifts
   let out;
   for(let pass=0; pass<5; pass++){
+    if(core) coreFactors();
     out = E.seats.map((s, i) => {
       const x = new Float64Array(n);
       let sum = 0;
@@ -994,6 +1040,7 @@ function simulate(T, noise){
         const b = s.base[ui];
         let y;
         if(method === 'prop') y = b * f[ui];
+        else if(core){ const c0 = core[i][ui]; y = c0 * fc[ui] + (b - c0) * fs[ui]; }
         else y = b > 0 ? Math.max(0.0005, b + d[ui]) : 0;
         if(b > 0 || y > 0){
           if(s.r >= 0) y += regDelta(s.r, ui);
@@ -1016,7 +1063,7 @@ function simulate(T, noise){
     for(let ui=0; ui<n; ui++){
       const c = 100*cur[ui]/tot, t = T[ui];
       err = Math.max(err, Math.abs(c-t));
-      if(c > 0){ f[ui] *= t/c; d[ui] += (t-c)/100; }
+      if(c > 0){ f[ui] *= t/c; d[ui] += (t-c)/100; if(te) te[ui] = Math.max(0, te[ui] * t / c); }
     }
     if(err < 0.02) break;
   }
@@ -1026,7 +1073,8 @@ function simulate(T, noise){
 function targets(){ return U.map(g => S.T[g.key] != null ? S.T[g.key] : g.base); }
 
 function run(){
-  const T = targets();
+  S.realHit = null;
+  const T = realisticClamp(targets());
   const shares = simulate(T);
   const w = winners(shares, S.overrides);
   RES = {T, shares, ...w};
@@ -1104,7 +1152,7 @@ function renderResult(){
   if(S.tab === 'easy' && $('#easyRes')) $('#easyRes').innerHTML = $('#verdict').innerHTML;
   drawCharts(order, maj); drawMap(); drawSeatList(); if(S.sel != null) drawDetail();
   if(S.tab === 'odds') renderPane();
-  renderBanner(); toolsTouch();
+  renderBanner(); realBadge(); toolsTouch();
 }
 function shortName(g){ if(g.key === 'OTH') return t('others'); if(g.key.startsWith('A:')) return g.name; return LANG==='hi' && HI_PARTY[g.key] && !(S.partyEdit[g.key]&&S.partyEdit[g.key].n) ? HI_PARTY[g.key] : g.key.replace('_SHINDE',''); }
 
@@ -1469,7 +1517,10 @@ function paneVotes(p){
         <button data-in="seats" aria-pressed="${seatsMode}">${esc(t('setSeats'))}</button></div></div>
       <div class="row"><div class="seg" role="group" aria-label="Swing method">
         <button data-meth="prop" aria-pressed="${S.method==='prop'}">${esc(t('prop'))}</button>
-        <button data-meth="unif" aria-pressed="${S.method==='unif'}">${esc(t('unif'))}</button></div></div>
+        <button data-meth="unif" aria-pressed="${S.method==='unif'}">${esc(t('unif'))}</button>
+        <button data-meth="core" aria-pressed="${S.method==='core'}" title="${esc(t('coreHint'))}">${esc(t('coreM'))}</button></div>
+        ${S.method==='core' ? `<div class="seg" role="group" aria-label="${esc(t('waveLbl'))}"><button data-wave="none" aria-pressed="${(S.wave||'none')==='none'}">${esc(t('waveNone'))}</button><button data-wave="mild" aria-pressed="${S.wave==='mild'}">${esc(t('waveMild'))}</button><button data-wave="strong" aria-pressed="${S.wave==='strong'}">${esc(t('waveStrong'))}</button></div>` : ''}</div>
+      ${S.method==='core' ? `<p class="hint" style="margin:0">${esc(t('coreHint'))}</p>` : ''}
       <p class="hint" style="margin:0">${esc(t(seatsMode?'hintSeats':'hintVotes'))} ${esc(t('hintLock'))}</p>
       <div>${U.map((g,k)=>(!S.showAll && k >= 12 && k < U.length-1) ? '' : `<div class="sl" style="--c:${g.hex}" data-row="${k}">
           <span class="sn num" style="background:${g.hex}">${k+1}</span>
@@ -1492,7 +1543,8 @@ function paneVotes(p){
   p.querySelectorAll('[data-mode]').forEach(b => b.onclick = () => { S.mode = b.dataset.mode; S.T = {}; S.locks = {}; S.overrides = {}; S.swing = {a:null,b:null,pts:0}; rebuild(); });
   if(RES) lamps(p);
   p.querySelectorAll('[data-in]').forEach(b => b.onclick = () => { S.inputMode = b.dataset.in; renderPane(); });
-  p.querySelectorAll('[data-meth]').forEach(b => b.onclick = () => { S.method = b.dataset.meth; renderPane(); run(); });
+  p.querySelectorAll('[data-meth]').forEach(b => b.onclick = () => { S.method = b.dataset.meth; if(S.method === 'core') E.core = coreShares(); renderPane(); run(); });
+  p.querySelectorAll('[data-wave]').forEach(b => b.onclick = () => { S.wave = b.dataset.wave; renderPane(); run(); });
   p.querySelectorAll('input[type=range][data-k]').forEach(r => r.oninput = () => { setTarget(+r.dataset.k, +r.value); run(); syncVotes(p); });
   p.querySelectorAll('input[type=number][data-k]').forEach(r => r.onchange = () => { setTarget(+r.dataset.k, +r.value); run(); renderPane(); });
   p.querySelectorAll('input[data-seat]').forEach(r => r.onchange = () => solveSeats(+r.dataset.seat, Math.round(+r.value)));
@@ -1618,7 +1670,7 @@ function paneParties(p){
   $('#addAlly').onclick = () => { const v = $('#newAlly').value.trim(); if(!v) return; $('#allyList').insertAdjacentHTML('beforeend', `<option value="${esc(v)}">`); toast(t('allyAdded',{a:v})); $('#newAlly').value=''; };
   $('#resetParties').onclick = () => { S.partyEdit = {}; S.allyEdit = {}; store.set('partyEdit', {}); rebuild(true); };
 }
-function scenario(){ return {v:1, eid:S.eid, next:S.next, ahead:S.ahead, mode:S.mode, method:S.method, T:S.T, locks:S.locks, regional:S.regional, reserved:S.reserved, overrides:S.overrides, allyEdit:S.allyEdit, partyEdit:S.partyEdit, transfer:S.transfer, fixNational:S.fixNational, swing:S.swing, lab:S.lab}; }
+function scenario(){ return {v:1, eid:S.eid, next:S.next, ahead:S.ahead, mode:S.mode, method:S.method, T:S.T, locks:S.locks, regional:S.regional, reserved:S.reserved, overrides:S.overrides, allyEdit:S.allyEdit, partyEdit:S.partyEdit, transfer:S.transfer, fixNational:S.fixNational, swing:S.swing, lab:S.lab, wave:S.wave, real:S.real}; }
 function paneSave(p){
   const saved = store.get('scenarios', []);
   p.innerHTML = `<div class="stack">
@@ -1650,7 +1702,7 @@ async function copy(text, msg){
 async function applyScenario(s){
   if(!s || !s.eid){ toast(t('badCode')); return; }
   const ent = INDEX.elections.find(e=>e.id===s.eid); if(!ent){ toast(t('noElection')); return; }
-  Object.assign(S, {kind:ent.kind, state:ent.state, eid:s.eid, next:!!s.next, ahead:s.ahead||(s.next?1:0), mode:s.mode||'party', method:s.method||'prop', allyEdit:s.allyEdit||{}, transfer:s.transfer||100, fixNational:s.fixNational!==false, lab:s.lab||null});
+  Object.assign(S, {kind:ent.kind, state:ent.state, eid:s.eid, next:!!s.next, ahead:s.ahead||(s.next?1:0), mode:s.mode||'party', method:s.method||'prop', allyEdit:s.allyEdit||{}, transfer:s.transfer||100, fixNational:s.fixNational!==false, lab:s.lab||null, wave:s.wave||'none', real:s.real||null});
   if(s.partyEdit){ S.partyEdit = s.partyEdit; store.set('partyEdit', S.partyEdit); }
   showApp(); await load(true);
   Object.assign(S, {T:s.T||{}, locks:s.locks||{}, regional:s.regional||{}, reserved:s.reserved||{SC:{},ST:{}}, overrides:s.overrides||{}, swing:s.swing||{a:null,b:null,pts:0}});
@@ -1672,6 +1724,7 @@ function syncPickers(){
 }
 async function load(keepState){
   E = prepare((await bundle(entry().file)).find(e=>e.id===S.eid));
+  E.prev = await loadPrev(E.raw);
   if(!keepState){ S.pollScn = null; S.whatIf = null; S.lab = null; S.T = {}; S.locks = {}; S.regional = {}; S.reserved = {SC:{},ST:{}}; S.overrides = {}; S.allyEdit = {}; S.sel = null; S.mc = null; S.swing = {a:null,b:null,pts:0}; }
   mapCache = {key:null}; resetZoom();
   buildUnits(); E.names = null; loadNames();
@@ -2857,7 +2910,8 @@ PAGES.set('glossary', async box => {
 
 // ---------- Changelog (#58) ----------
 const CHANGES = [
-  ['2026-10-24', 'feature', 'What-if lab, voting systems, One Nation One Election, delimitation and Rajya Sabha', 'अगर-मगर लैब, मतदान प्रणालियाँ, एक देश एक चुनाव, परिसीमन और राज्यसभा', 'A new party, a party split, turnout shifts and a sitting-member penalty; the same votes counted under proportional and runoff systems; one national swing across every assembly; the Lok Sabha enlarged to 800 or more seats; and the Rajya Sabha with the electoral college for President.', 'एक नया दल, दल की टूट, मतदान में बदलाव और मौजूदा सदस्य का जुर्माना; वही वोट अनुपातिक और रनऑफ़ प्रणालियों में गिने हुए; हर विधानसभा में एक राष्ट्रीय स्विंग; 800 या ज़्यादा सीटों वाली लोकसभा; और राज्यसभा तथा राष्ट्रपति का निर्वाचक-मंडल।'],
+  ['2026-10-23', 'feature', 'A smarter model: core voters, waves, momentum and early signals', 'ज़्यादा समझदार मॉडल: कोर मतदाता, लहरें, गति और शुरुआती संकेत', 'A new Core + swing method moves the swing voters first and the core only in a wave; a wave tracker scores every past election; a momentum baseline averages the last four results in each seat; realistic mode stops swings that have never happened; and a signals tool reads the latest assembly results, 543 by-elections since 2014 and the big city corporations as hints for the next Lok Sabha.', 'नया कोर + स्विंग तरीक़ा पहले स्विंग वाले मतदाताओं को खिसकाता है और कोर को सिर्फ़ लहर में; लहर ट्रैकर हर पुराने चुनाव को अंक देता है; गति वाली शुरुआत हर सीट के पिछले चार नतीजों का औसत लेती है; यथार्थवादी मोड वे स्विंग रोकता है जो कभी हुए ही नहीं; और संकेत वाला औज़ार ताज़ा विधानसभा नतीजे, 2014 से 543 उप-चुनाव और बड़े नगर निगमों को अगली लोकसभा के संकेत की तरह पढ़ता है।'],
+  ['2026-10-23', 'feature', 'What-if lab, voting systems, One Nation One Election, delimitation and Rajya Sabha', 'अगर-मगर लैब, मतदान प्रणालियाँ, एक देश एक चुनाव, परिसीमन और राज्यसभा', 'A new party, a party split, turnout shifts and a sitting-member penalty; the same votes counted under proportional and runoff systems; one national swing across every assembly; the Lok Sabha enlarged to 800 or more seats; and the Rajya Sabha with the electoral college for President.', 'एक नया दल, दल की टूट, मतदान में बदलाव और मौजूदा सदस्य का जुर्माना; वही वोट अनुपातिक और रनऑफ़ प्रणालियों में गिने हुए; हर विधानसभा में एक राष्ट्रीय स्विंग; 800 या ज़्यादा सीटों वाली लोकसभा; और राज्यसभा तथा राष्ट्रपति का निर्वाचक-मंडल।'],
   ['2026-10-23', 'feature', 'Chief ministers and by-elections', 'मुख्यमंत्री और उप-चुनाव', 'The chief ministers of every state with their terms, parties and the election they came in under; and the by-elections since the 2024 Lok Sabha result with a party scoreboard.', 'हर राज्य के मुख्यमंत्री, उनके कार्यकाल, दल और वह चुनाव जिसमें वे आए; और 2024 की लोकसभा के बाद के उप-चुनाव, दलों के स्कोरबोर्ड के साथ।'],
   ['2026-10-23', 'feature', 'How constituencies changed', 'चुनाव क्षेत्र कैसे बदले', 'The history of delimitation since 1951, Lok Sabha seats by state in every election, new and renamed seats with their area, and a map of new seats.', '1951 से परिसीमन का इतिहास, हर चुनाव में राज्यवार लोकसभा सीटें, नई और नाम बदली सीटें क्षेत्रफल के साथ, और नई सीटों का नक्शा।'],
   ['2026-10-23', 'feature', 'Alliance timeline with old alliance names and splits', 'पुराने गठबंधन नामों और टूट के साथ गठबंधन समयरेखा', 'National Front, United Front, NDA, UPA and INDIA by election, the biggest alliances of each election, and markers for the splits, mergers and foundings of each party.', 'हर चुनाव में राष्ट्रीय मोर्चा, संयुक्त मोर्चा, एनडीए, यूपीए और इंडिया, हर चुनाव के सबसे बड़े गठबंधन, और हर दल की टूट, विलय और स्थापना के निशान।'],
@@ -3137,7 +3191,7 @@ function barSvg(pts, o){
   const W = 760, H = 190, L = 36, B = 26, T = 18, n = pts.length, bw = (W - L - 8) / Math.max(n, 1), mx = Math.max(o.min || 0, ...pts.map(p => p.v));
   const y = v => H - B - (H - B - T) * v / mx;
   let g = [0, .5, 1].map(f => `<line x1="${L}" x2="${W}" y1="${y(mx * f)}" y2="${y(mx * f)}" stroke="var(--line)"/>${svgText(L - 6, y(mx * f) + 4, o.fmt(mx * f), {anchor: 'end', size: 11})}`).join('');
-  pts.forEach((p, i) => { const cx = L + i * bw + bw / 2; g += `<rect x="${cx - bw * .34}" y="${y(p.v)}" width="${bw * .68}" height="${H - B - y(p.v)}" rx="2" fill="${o.color}" fill-opacity="${p.off ? .45 : .9}"><title>${esc(p.l)}: ${o.fmt(p.v)}${p.off ? ' *' : ''}</title></rect>`;
+  pts.forEach((p, i) => { const cx = L + i * bw + bw / 2; g += `<rect x="${cx - bw * .34}" y="${y(p.v)}" width="${bw * .68}" height="${H - B - y(p.v)}" rx="2" fill="${p.c || o.color}" fill-opacity="${p.off ? .45 : .9}"><title>${esc(p.l)}: ${o.fmt(p.v)}${p.off ? ' *' : ''}</title></rect>`;
     if(bw > 26 || i % 2 === 0) g += svgText(cx, y(p.v) - 4, o.fmt(p.v), {anchor: 'middle', size: 10.5, fill: 'var(--ink)', weight: 600});
     if(n <= 22 || i % 2 === 0 || i === n - 1) g += svgText(cx, H - 9, p.l, {anchor: 'middle', size: 10.5}); });
   return `<div class="tw"><svg viewBox="0 0 ${W} ${H}" style="min-width:520px" role="img" aria-label="${esc(o.label)}">${g}</svg></div>`;
@@ -3563,24 +3617,27 @@ registerTool({id: 'cms', label: 'toolCM', sub: 'cmSub', key: () => S.eid + '|' +
 // ======== feature: 200-bypolls.js ========
 // Bypoll tracker (#24): by-elections since the 2024 Lok Sabha result, with a party scoreboard and what they may suggest.
 addI18n('en', {
-  toolBy: 'By-elections', bySub: 'Seats that fell vacant after the 2024 Lok Sabha election and were filled by by-election: who held them, who won them, and which changed hands. From Wikipedia; it may miss a few.', byScope: 'Where', byAllIndia: 'All of India', byOnlyChanged: 'Only seats that changed hands',
-  bySummary: '{n} by-elections since {d}: {c} changed hands ({p}%), {h} were held by the party that had the seat.', byBoard: 'Scoreboard', byDef: 'Held before', byHeld: 'Held', byLost: 'Lost', byGained: 'Gained', byNet: 'Net', byNow: 'Hold now',
+  toolBy: 'By-elections', bySub: 'Seats filled by by-election since 2014, in the 16th, 17th and 18th Lok Sabha terms: who held the seat, who won it, and which changed hands. Older ones show the winner only, without vote counts. From Wikipedia; it may miss a few.', byScope: 'Where', byAllIndia: 'All of India', byOnlyChanged: 'Only seats that changed hands',
+  bySummary: '{n} by-elections {d}: {c} changed hands ({p}%), {h} were held by the party that had the seat.', byBoard: 'Scoreboard', byDef: 'Held before', byHeld: 'Held', byLost: 'Lost', byGained: 'Gained', byNet: 'Net', byNow: 'Hold now',
   byRead: 'What they suggest', bySugg1: '{p} gained {g} seats and lost {l}, a net {n} compared with the seats it held before these by-elections.', byCaution: 'Read with care: a by-election fills one vacant seat, the party in power often wins them, and turnout and local reasons matter. They are a weak signal for the next general election, and a stronger one only when the same pattern repeats across many states.',
   thBefore: 'Before', thAfter: 'After', thDate: 'Date', byNone: 'No by-elections in this selection.', byReason: 'Reason', byLS: 'Lok Sabha',
+  byTerm: 'Period', byT18: 'Since June 2024 (18th Lok Sabha)', byT17: '2019 to 2024 (17th)', byT16: '2014 to 2019 (16th)', byTAll: 'All since 2014', byD18: 'since June 2024', byD17: 'from 2019 to 2024', byD16: 'from 2014 to 2019', byDAll: 'since 2014',
 });
 addI18n('hi', {
-  toolBy: 'उप-चुनाव', bySub: 'वे सीटें जो 2024 के लोकसभा चुनाव के बाद ख़ाली हुईं और उप-चुनाव में भरी गईं: किसके पास थीं, कौन जीता और कौन-सी सीट हाथ बदल गई। विकिपीडिया से; कुछ छूट सकती हैं।', byScope: 'कहाँ', byAllIndia: 'पूरा भारत', byOnlyChanged: 'सिर्फ़ हाथ बदलने वाली सीटें',
-  bySummary: '{d} से {n} उप-चुनाव: {c} सीटों ने हाथ बदला ({p}%), {h} उसी दल के पास रहीं जिसके पास थीं।', byBoard: 'स्कोरबोर्ड', byDef: 'पहले के पास', byHeld: 'बचाईं', byLost: 'गँवाईं', byGained: 'जीतीं', byNet: 'शुद्ध', byNow: 'अब के पास',
+  toolBy: 'उप-चुनाव', bySub: '2014 से उप-चुनाव में भरी गई सीटें, 16वीं, 17वीं और 18वीं लोकसभा के दौर में: सीट किसके पास थी, कौन जीता और कौन-सी सीट हाथ बदल गई। पुराने उप-चुनावों में सिर्फ़ विजेता है, वोट-संख्या नहीं। विकिपीडिया से; कुछ छूट सकती हैं।', byScope: 'कहाँ', byAllIndia: 'पूरा भारत', byOnlyChanged: 'सिर्फ़ हाथ बदलने वाली सीटें',
+  bySummary: '{d} {n} उप-चुनाव: {c} सीटों ने हाथ बदला ({p}%), {h} उसी दल के पास रहीं जिसके पास थीं।', byBoard: 'स्कोरबोर्ड', byDef: 'पहले के पास', byHeld: 'बचाईं', byLost: 'गँवाईं', byGained: 'जीतीं', byNet: 'शुद्ध', byNow: 'अब के पास',
   byRead: 'ये क्या इशारा करते हैं', bySugg1: '{p} ने {g} सीटें जीतीं और {l} गँवाईं, यानी इन उप-चुनावों से पहले अपनी सीटों के मुक़ाबले शुद्ध {n}।', byCaution: 'सावधानी से पढ़ें: उप-चुनाव एक ख़ाली सीट भरता है, सत्ताधारी दल अक्सर उन्हें जीतता है, और मतदान तथा स्थानीय कारण मायने रखते हैं। अगले आम चुनाव के लिए यह कमज़ोर संकेत है, और मज़बूत तभी जब कई राज्यों में वही रुझान दोहराए।',
   thBefore: 'पहले', thAfter: 'बाद में', thDate: 'तारीख़', byNone: 'इस चयन में कोई उप-चुनाव नहीं।', byReason: 'कारण', byLS: 'लोकसभा',
+  byTerm: 'अवधि', byT18: 'जून 2024 से (18वीं लोकसभा)', byT17: '2019 से 2024 (17वीं)', byT16: '2014 से 2019 (16वीं)', byTAll: '2014 से अब तक सब', byD18: 'जून 2024 से', byD17: '2019 से 2024 के बीच', byD16: '2014 से 2019 के बीच', byDAll: '2014 से',
 });
 let BYP = null;
 async function bypollData(){ if(!BYP){ try{ BYP = await getJSON('ref/bypolls.json'); }catch(e){ BYP = {items: [], since: ''}; } } return BYP; }
-registerTool({id: 'bypolls', label: 'toolBy', sub: 'bySub', key: () => S.eid + '|' + S.kind + '|' + (S.byScope || '') + '|' + (S.byChanged ? 1 : 0), async render(body, stale){
+registerTool({id: 'bypolls', label: 'toolBy', sub: 'bySub', key: () => S.eid + '|' + S.kind + '|' + (S.byScope || '') + '|' + (S.byTerm != null ? S.byTerm : '-') + '|' + (S.byChanged ? 1 : 0), async render(body, stale){
   const d = await bypollData(); if(stale()) return;
   const states = [...new Set(d.items.map(i => i.state))].sort();
   const scope = S.byScope != null ? S.byScope : (S.kind === 'AE' && states.includes(S.state) ? S.state : '');
-  let items = d.items.filter(i => !scope || i.state === scope);
+  const term = S.byTerm != null ? S.byTerm : (scope ? '' : '18');
+  let items = d.items.filter(i => (!scope || i.state === scope) && (!term || String(i.term) === term));
   const all = items;
   if(S.byChanged) items = items.filter(i => i.changed);
   const n = all.length, ch = all.filter(i => i.changed).length, held = all.filter(i => i.prevParty && i.winParty && !i.changed).length;
@@ -3590,15 +3647,17 @@ registerTool({id: 'bypolls', label: 'toolBy', sub: 'bySub', key: () => S.eid + '
   const top = board.slice().sort((a, b) => b.net - a.net)[0], bot = board.slice().sort((a, b) => a.net - b.net)[0];
   const fmtNet = v => (v > 0 ? '+' : '') + v;
   const short = x => x.reason ? x.reason.replace(/\s+on\s.*$/i, '').replace(/^Elected to .*$/i, 'Elected to Lok Sabha/other house').slice(0, 34) : '';
-  body.innerHTML = `<div class="tools-row"><label>${esc(t('byScope'))} <select id="byScope"><option value="">${esc(t('byAllIndia'))}</option>${states.map(s => `<option value="${esc(s)}" ${s === scope ? 'selected' : ''}>${esc(stName(s))}</option>`).join('')}</select></label>
+  body.innerHTML = `<div class="tools-row"><label>${esc(t('byTerm'))} <select id="byTerm">${[['18', 'byT18'], ['17', 'byT17'], ['16', 'byT16'], ['', 'byTAll']].map(o => `<option value="${o[0]}" ${o[0] === term ? 'selected' : ''}>${esc(t(o[1]))}</option>`).join('')}</select></label>
+      <label>${esc(t('byScope'))} <select id="byScope"><option value="">${esc(t('byAllIndia'))}</option>${states.map(s => `<option value="${esc(s)}" ${s === scope ? 'selected' : ''}>${esc(stName(s))}</option>`).join('')}</select></label>
       <label><input type="checkbox" id="byCh" ${S.byChanged ? 'checked' : ''}> ${esc(t('byOnlyChanged'))}</label></div>
-    ${n ? `<p style="font-family:var(--display);font-weight:600;margin:0 0 8px">${esc(t('bySummary', {n, d: new Date(d.since).toLocaleDateString(LANG === 'hi' ? 'hi-IN' : 'en-IN', {month: 'long', year: 'numeric'}), c: ch, p: Math.round(100 * ch / n), h: held}))}</p>
+    ${n ? `<p style="font-family:var(--display);font-weight:600;margin:0 0 8px">${esc(t('bySummary', {n, d: t(term ? 'byD' + term : 'byDAll'), c: ch, p: Math.round(100 * ch / n), h: held}))}</p>
     <div class="tools-cols"><div><h4>${esc(t('byBoard'))}</h4><table class="tbl"><thead><tr><th>${esc(t('thParty2'))}</th><th>${esc(t('byDef'))}</th><th>${esc(t('byLost'))}</th><th>${esc(t('byGained'))}</th><th>${esc(t('byNet'))}</th><th>${esc(t('byNow'))}</th></tr></thead><tbody>
       ${board.map(b => `<tr><td>${pcell(b.p)}</td><td class="num">${b.def}</td><td class="num">${b.lost}</td><td class="num">${b.gained}</td><td class="num ${b.net > 0 ? 'up' : b.net < 0 ? 'down' : ''}"><b>${fmtNet(b.net)}</b></td><td class="num">${b.now}</td></tr>`).join('')}</tbody></table></div>
       <div><h4>${esc(t('byRead'))}</h4>${top && top.net !== 0 ? `<p>${esc(t('bySugg1', {p: pName(top.p), g: top.gained, l: top.lost, n: fmtNet(top.net)}))}</p>` : ''}${bot && bot !== top && bot.net < 0 ? `<p>${esc(t('bySugg1', {p: pName(bot.p), g: bot.gained, l: bot.lost, n: fmtNet(bot.net)}))}</p>` : ''}<p class="small">${esc(t('byCaution'))}</p></div></div>` : `<p class="small">${esc(t('byNone'))}</p>`}
     ${items.length ? `<h4 style="margin-top:12px">${esc(t('toolBy'))}</h4><div class="seatlist" style="max-height:420px"><table class="tbl"><thead><tr><th>${esc(t('thDate'))}</th><th>${esc(t('thSeatN'))}</th><th>${esc(t('thBefore'))}</th><th>${esc(t('thAfter'))}</th><th>${esc(t('byReason'))}</th></tr></thead><tbody>
       ${items.slice().reverse().map(i => `<tr><td class="num" style="white-space:nowrap">${esc(i.date)}</td><td><b>${esc(i.seat)}</b>${i.kind === 'LS' ? ` <span class="pill">${esc(t('byLS'))}</span>` : ''}<div class="small">${esc(stName(i.state))}</div></td><td>${i.prevParty ? pcell(i.prevParty) : ''}<div class="small">${esc(i.prev)}</div></td><td>${i.winParty ? pcell(i.winParty) : ''}<div class="small">${esc(i.winner)}${i.changed ? ' ▲' : ''}</div></td><td class="small">${esc(short(i))}</td></tr>`).join('')}</tbody></table></div>` : ''}`;
   alignTables(body);
+  $('#byTerm').onchange = e => { S.byTerm = e.target.value; toolKeyShown = null; toolsTouch(true); };
   $('#byScope').onchange = e => { S.byScope = e.target.value; toolKeyShown = null; toolsTouch(true); };
   $('#byCh').onchange = e => { S.byChanged = e.target.checked; toolKeyShown = null; toolsTouch(true); };
 }});
@@ -3624,7 +3683,7 @@ addI18n('hi', {
   labPen: 'मौजूदा सदस्य का जुर्माना', labPenHint: 'सत्ता-विरोधी लहर सिर्फ़ वहाँ जहाँ वह चुभती है: सीट पर क़ाबिज़ दल उसी सीट पर अंक खोता है, पूरे राज्य में नहीं।', labPenOn: 'लागू करें', labPenPts: 'हर सीट के क़ाबिज़ दल के खोए अंक: {v}',
   labBanner: 'अगर-मगर लैब चालू: {list}। असली नतीजे से तुलना।', labBNew: 'नया दल {n}, {v}% पर', labBSplit: '{p} टूटता है (उसके {v}% मतदाता {n} में जाते हैं)', labBTurn: 'मतदान में बदलाव', labBPen: 'मौजूदा सदस्य का जुर्माना {v} अंक',
 });
-function labState(){ if(!S.lab) S.lab = {np: {on: false, name: '', share: 10, color: '#00A6A6', from: {}, spread: 40}, sp: {on: false, key: '', share: 30, name: '', spread: 30}, to: {p: {}, r: {}}, pen: {on: false, pts: 5}}; return S.lab; }
+function labState(){ if(!S.lab) S.lab = {mom: {on: false}, np: {on: false, name: '', share: 10, color: '#00A6A6', from: {}, spread: 40}, sp: {on: false, key: '', share: 30, name: '', spread: 30}, to: {p: {}, r: {}}, pen: {on: false, pts: 5}}; return S.lab; }
 function labChanged(){ S.T = {}; S.locks = {}; S.swing = {a: null, b: null, pts: 0}; S.mc = null; S.pollScn = null; S.whatIf = null; rebuild(); }
 function labUnits(){ return U.map((g, k) => ({g, k})).filter(o => o.g.key !== 'OTH' && !o.g.labKind); }
 function paneLab(p){
@@ -3649,6 +3708,10 @@ function paneLab(p){
       ${top.slice(0, 6).map(o => `<label class="stack" style="gap:2px"><span id="toP${esc(o.g.key)}L">${esc(t('labTOParty', {p: o.g.name, v: (L.to.p[o.g.key] || 0)}))}</span><input type="range" min="-50" max="50" step="1" value="${L.to.p[o.g.key] || 0}" data-top="${esc(o.g.key)}" style="--c:${o.g.hex}"></label>`).join('')}
       ${regs.length ? `<div class="row" style="margin-top:8px"><select id="toReg" style="flex:1;min-width:0"><option value="">${esc(t('labTOPick'))}</option>${regs.map(r => `<option value="${esc(r)}">${esc(stName(r))}</option>`).join('')}</select><input class="inp num" type="number" id="toRegV" min="-50" max="50" step="1" value="-10" style="width:70px"><button class="btn small" id="toRegAdd">${esc(t('labTOAdd'))}</button></div>
       <div class="row" style="margin-top:6px">${Object.entries(L.to.r).filter(([, v]) => v).map(([r, v]) => `<button class="chip" data-torm="${esc(r)}">${esc(t('labTOReg', {r: stName(r), v}))} ×</button>`).join('')}</div>` : ''}</div>
+    <div class="swingbox"><label class="row"><input type="checkbox" id="momOn" ${L.mom && L.mom.on ? 'checked' : ''}> <b>${esc(t('labMom'))}</b></label><p class="hint" style="margin:4px 0 0">${esc(t('labMomHint'))}</p></div>
+    <div class="swingbox"><label class="row"><input type="checkbox" id="realOn" ${S.real && S.real.on ? 'checked' : ''}> <b>${esc(t('realTitle'))}</b></label><p class="hint" style="margin:4px 0 8px">${esc(t('realHint'))}</p>
+      <label class="stack" style="gap:2px"><span id="realML">${esc(t('realMonths', {v: S.real && S.real.months != null ? S.real.months : 24}))}</span><input type="range" id="realM" min="0" max="60" step="1" value="${S.real && S.real.months != null ? S.real.months : 24}"></label>
+      <div class="seg" role="group" aria-label="${esc(t('realWave'))}" style="margin-top:6px"><button data-rwave="none" aria-pressed="${(S.wave || 'none') === 'none'}">${esc(t('waveNone'))}</button><button data-rwave="mild" aria-pressed="${S.wave === 'mild'}">${esc(t('waveMild'))}</button><button data-rwave="strong" aria-pressed="${S.wave === 'strong'}">${esc(t('waveStrong'))}</button></div></div>
     <div class="swingbox"><label class="row"><input type="checkbox" id="penOn" ${L.pen.on ? 'checked' : ''}> <b>${esc(t('labPen'))}</b></label><p class="hint" style="margin:4px 0 8px">${esc(t('labPenHint'))}</p>
       ${sl('penPts', 0, 20, 0.5, L.pen.pts, esc(t('labPenPts', {v: fmt1(L.pen.pts)})))}</div>
     <button class="btn small" id="labReset">${esc(t('labReset'))}</button></div>`;
@@ -3670,6 +3733,11 @@ function paneLab(p){
     r.onchange = () => { L.to.p[r.dataset.top] = +r.value; labChanged(); }; });
   on('toRegAdd', 'onclick', () => { const r = $('#toReg').value, v = +$('#toRegV').value; if(!r) return; L.to.r[r] = v; labChanged(); });
   p.querySelectorAll('[data-torm]').forEach(b => b.onclick = () => { delete L.to.r[b.dataset.torm]; labChanged(); });
+  on('momOn', 'onchange', e => { L.mom = L.mom || {}; L.mom.on = e.target.checked; labChanged(); });
+  on('realOn', 'onchange', e => { S.real = S.real || {on: false, months: 24}; S.real.on = e.target.checked; run(); renderPane(); });
+  on('realM', 'oninput', e => { $('#realML').textContent = t('realMonths', {v: e.target.value}); });
+  on('realM', 'onchange', e => { S.real = S.real || {on: false, months: 24}; S.real.months = +e.target.value; run(); });
+  p.querySelectorAll('[data-rwave]').forEach(b => b.onclick = () => { S.wave = b.dataset.rwave; run(); renderPane(); });
   on('penOn', 'onchange', e => { L.pen.on = e.target.checked; labChanged(); });
   slide('penPts', 'pts', L.pen, v => t('labPenPts', {v: fmt1(v)}), () => L.pen.on);
   on('labReset', 'onclick', () => { S.lab = null; labChanged(); });
@@ -3680,6 +3748,7 @@ function renderLabBanner(){
   if(L.np && L.np.on) bits.push(t('labBNew', {n: L.np.name || t('labNewName'), v: fmt1(S.labInfo && S.labInfo.np ? S.labInfo.np.got : L.np.share)}));
   if(L.sp && L.sp.on){ const g = U.find(x => x.key === L.sp.key); bits.push(t('labBSplit', {p: g ? g.name : L.sp.key, v: L.sp.share, n: L.sp.name || t('labFaction')})); }
   if(labTurnoutOn(L)) bits.push(t('labBTurn'));
+  if(L.mom && L.mom.on) bits.push(t('labBMom'));
   if(L.pen && L.pen.on) bits.push(t('labBPen', {v: fmt1(L.pen.pts)}));
   el.hidden = false; el.textContent = t('labBanner', {list: bits.join('; ')}); return true;
 }
@@ -3947,6 +4016,163 @@ PAGES.set('rajyasabha', async box => {
   }
   draw();
 });
+
+
+// ======== feature: 260-model.js ========
+// Phase 4b, the smarter model: wave tracker (#67), realistic mode (#70), signals from other elections (#69). Core and swing voters (#66) and the momentum baseline (#68) live in engine.js.
+addI18n('en', {
+  coreM: 'Core + swing', coreHint: 'Each party\'s core is its floor in the last three elections in that seat. A swing first moves the swing voters; the core only moves with a wave. Seats that have moved a lot before swing more.', waveLbl: 'Wave', waveNone: 'No wave', waveMild: 'Mild wave', waveStrong: 'Strong wave',
+  toolWave: 'Wave tracker', waveSub: 'How big and how even the biggest swing was at every election in the data: the vote share the biggest gainer added, times the share of seats where it rose. Strong is 8 points or more, mild 4 to 8. Only parties that already had at least 1.5% before count, so new parties and splits do not show up as waves.', waveScore: 'Wave score', waveGainer: 'Biggest gainer', waveUni: '{p}% of seats up', waveStrongT: 'Strong wave', waveMildT: 'Mild wave', waveNoneT: 'No wave', waveNeedPrev: 'This is the first election in the data, so there is nothing to compare with.',
+  waveName1977: 'Janata wave', waveName1984: 'Rajiv Gandhi sympathy wave', waveName2014: 'Modi wave', waveName2019: 'Modi wave',
+  realTitle: 'Realistic mode', realHint: 'Limits how far votes can move, given the months left before the election and whether a wave is on, so a slider cannot give something that has never happened. Without it you only get a warning.', realOn: 'Keep swings realistic', realMonths: 'Months until the election: {v}', realWave: 'Wave',
+  realBeyond: 'Beyond anything seen: {p} moves {x} points; the biggest move between two elections here is {m} points.', realLimit: 'Above the realistic limit of {a} points: {p} moves {x}.', realClamped: 'Realistic mode held {p} to {a} points.',
+  toolSig: 'Signals from other elections', sigSub: 'The latest assembly results as early hints for the next Lok Sabha. Each state\'s assembly vote has a habit of differing from its Lok Sabha vote, measured from past elections held close together, so a state\'s assembly vote is translated before it is read as a hint.', sigState: 'State', sigAsm: 'Latest assembly', sigLS: 'Lok Sabha {y}', sigGap: 'Usual assembly-minus-Lok Sabha gap', sigImp: 'Hint for the next Lok Sabha (change from {y})', sigNat: 'Weighted across states, the hints point to BJP {a} points and Congress {b} points compared with {y}.', sigApply: 'Use this as the swing', sigNote: 'Where a state has no past pair of elections close together the gap is taken as zero. By-elections point the same way as the scoreboard in "By-elections". Local body results are not used because comparable data is not available in one place.', sigPts: 'pts', sigNoLS: 'The assembly-to-Lok Sabha translation is only shown for the Lok Sabha. For this state:', sigStByp: 'By-elections in {s} since 2014: {n}, of which {c} changed hands. Most were won by {p} ({w}).', sigStNone: 'No by-elections or city body results for {s} in the data.', sigStLocal: '{c}, {y}: {r}.',
+  labMom: 'Momentum baseline', labMomHint: 'Start from a weighted average of the last four elections in each seat (latest counts most) instead of only the latest, so places where a party keeps winning lean its way.', labMomOn: 'Use the weighted average', labBMom: 'momentum baseline',
+});
+addI18n('hi', {
+  coreM: 'कोर + स्विंग', coreHint: 'हर दल का कोर उस सीट पर पिछले तीन चुनावों में उसका न्यूनतम हिस्सा है। स्विंग पहले स्विंग वाले मतदाताओं को खिसकाता है; कोर सिर्फ़ लहर के साथ खिसकता है। जो सीटें पहले ज़्यादा खिसकी हैं वे ज़्यादा स्विंग करती हैं।', waveLbl: 'लहर', waveNone: 'लहर नहीं', waveMild: 'हल्की लहर', waveStrong: 'तेज़ लहर',
+  toolWave: 'लहर ट्रैकर', waveSub: 'आँकड़ों के हर चुनाव में सबसे बड़ा स्विंग कितना बड़ा और कितना एक-सा था: सबसे ज़्यादा बढ़ने वाले दल का जुड़ा वोट हिस्सा, गुणा उन सीटों का हिस्सा जहाँ वह बढ़ा। 8 अंक या ज़्यादा तेज़, 4 से 8 हल्की। सिर्फ़ वे दल गिने जाते हैं जिनके पास पहले से कम से कम 1.5% वोट था, इसलिए नए दल और टूट लहर की तरह नहीं दिखते।', waveScore: 'लहर का अंक', waveGainer: 'सबसे ज़्यादा बढ़ने वाला', waveUni: '{p}% सीटों पर बढ़त', waveStrongT: 'तेज़ लहर', waveMildT: 'हल्की लहर', waveNoneT: 'लहर नहीं', waveNeedPrev: 'यह आँकड़ों का पहला चुनाव है, इसलिए तुलना के लिए कुछ नहीं है।',
+  waveName1977: 'जनता लहर', waveName1984: 'राजीव गांधी सहानुभूति लहर', waveName2014: 'मोदी लहर', waveName2019: 'मोदी लहर',
+  realTitle: 'यथार्थवादी मोड', realHint: 'चुनाव में बचे महीनों और लहर के होने न होने को देखकर वोट कितना खिसक सकता है यह सीमित करता है, ताकि स्लाइडर ऐसा नतीजा न दे जो कभी हुआ ही नहीं। इसके बिना सिर्फ़ चेतावनी मिलती है।', realOn: 'स्विंग यथार्थवादी रखें', realMonths: 'चुनाव में बचे महीने: {v}', realWave: 'लहर',
+  realBeyond: 'अब तक देखे गए से बाहर: {p} {x} अंक खिसकता है; यहाँ दो चुनावों के बीच सबसे बड़ा खिसकाव {m} अंक का है।', realLimit: '{a} अंक की यथार्थवादी सीमा से ऊपर: {p} {x} खिसकता है।', realClamped: 'यथार्थवादी मोड ने {p} को {a} अंक तक रोका।',
+  toolSig: 'दूसरे चुनावों के संकेत', sigSub: 'ताज़ा विधानसभा नतीजे अगली लोकसभा के शुरुआती संकेत की तरह। हर राज्य का विधानसभा वोट अक्सर उसके लोकसभा वोट से अलग होता है, जिसे पास-पास हुए पिछले चुनावों से नापा गया है; इसलिए संकेत पढ़ने से पहले राज्य के विधानसभा वोट का अनुवाद किया जाता है।', sigState: 'राज्य', sigAsm: 'ताज़ा विधानसभा', sigLS: 'लोकसभा {y}', sigGap: 'आम तौर पर विधानसभा-घटा-लोकसभा अंतर', sigImp: 'अगली लोकसभा का संकेत ({y} से बदलाव)', sigNat: 'राज्यों के भार से जोड़कर, संकेत {y} की तुलना में भाजपा के लिए {a} अंक और कांग्रेस के लिए {b} अंक की ओर इशारा करते हैं।', sigApply: 'इसे स्विंग की तरह इस्तेमाल करें', sigNote: 'जिस राज्य में पास-पास हुए चुनावों की पुरानी जोड़ी नहीं है वहाँ अंतर शून्य लिया गया है। उप-चुनाव "उप-चुनाव" के स्कोरबोर्ड वाली दिशा में ही इशारा करते हैं। स्थानीय निकाय के नतीजे इस्तेमाल नहीं हुए क्योंकि तुलनीय आँकड़े एक जगह उपलब्ध नहीं हैं।', sigPts: 'अंक', sigNoLS: 'विधानसभा से लोकसभा का अनुवाद सिर्फ़ लोकसभा के लिए दिखता है। इस राज्य के लिए:', sigStByp: '2014 से {s} में उप-चुनाव: {n}, जिनमें {c} ने हाथ बदला। ज़्यादातर {p} ने जीते ({w})।', sigStNone: '{s} के लिए आँकड़ों में कोई उप-चुनाव या शहरी निकाय का नतीजा नहीं।', sigStLocal: '{c}, {y}: {r}।',
+  labMom: 'गति पर आधारित शुरुआत', labMomHint: 'हर सीट पर सिर्फ़ ताज़ा चुनाव की जगह पिछले चार चुनावों के भारित औसत से शुरू करें (ताज़ा का वज़न सबसे ज़्यादा), ताकि जहाँ कोई दल लगातार जीतता रहा वहाँ उसी की ओर झुकाव रहे।', labMomOn: 'भारित औसत इस्तेमाल करें', labBMom: 'गति पर आधारित शुरुआत',
+});
+// ---------- history of national swings (from stats.json), shared by the wave tracker and realistic mode ----------
+async function swingStats(kind, state){
+  const els = INDEX.elections.filter(e => kind === 'LS' ? e.kind === 'LS' : (e.kind === 'AE' && e.state === state)).sort((a, b) => a.year - b.year || a.label.localeCompare(b.label)), st = await statsData(), maxes = [];
+  for(let i = 1; i < els.length; i++){ const a = st[els[i - 1].id], b = st[els[i].id]; if(!a || !b) continue; const am = new Map(a.votes); let m = 0; b.votes.forEach(([p, v]) => { if(am.has(p) && (v >= 3 || am.get(p) >= 3)) m = Math.max(m, Math.abs(v - am.get(p))); }); if(m) maxes.push(m); }
+  const sorted = maxes.slice().sort((x, y) => x - y);
+  return {max: sorted.length ? sorted[sorted.length - 1] : 12, typical: sorted.length ? sorted[Math.floor(sorted.length / 2)] : 5, n: sorted.length};
+}
+const SWS = new Map(), SWS_WAIT = new Set();
+function swingStatsNow(){
+  const key = S.kind + '|' + S.state; if(SWS.has(key)) return SWS.get(key);
+  if(!SWS_WAIT.has(key)){ SWS_WAIT.add(key); swingStats(S.kind, S.state).then(r => { SWS.set(key, r); if(E && key === S.kind + '|' + S.state){ if(S.real && S.real.on) run(); else realBadge(); } }); }
+  return null;
+}
+function realAllow(hs){
+  const w = S.wave || 'none', base = w === 'strong' ? hs.max : w === 'mild' ? (hs.typical * 1.6 + hs.max) / 2 : hs.typical * 1.6, months = S.real && S.real.months != null ? S.real.months : 24;
+  return base * (0.35 + 0.65 * Math.min(1, months / 60));
+}
+function realisticClamp(T){
+  if(!S.real || !S.real.on) return T; const hs = swingStatsNow(); if(!hs) return T;
+  const allow = realAllow(hs), B = U.map(g => g.base), out = T.slice(); let hit = null;
+  U.forEach((g, k) => { if(g.key === 'OTH' || B[k] < 3) return; const d = T[k] - B[k]; if(Math.abs(d) > allow){ out[k] = B[k] + Math.sign(d) * allow; hit = hit || {p: g.name, a: allow}; } });
+  if(!hit) return T; const tot = out.reduce((a, b) => a + b, 0); S.realHit = hit; return out.map(v => 100 * v / tot);
+}
+function realBadge(){
+  const el = $('#badges'); if(!el || !RES || !E) return; el.querySelectorAll('.realtag').forEach(x => x.remove());
+  const hs = swingStatsNow(); if(!hs) return; const T = RES.T, B = U.map(g => g.base); let worst = null;
+  U.forEach((g, k) => { if(g.key === 'OTH' || B[k] < 3) return; const d = Math.abs(T[k] - B[k]); if(!worst || d > worst.d) worst = {d, g}; });
+  if(!worst) return; let msg = '';
+  if(S.real && S.real.on){ const a = realAllow(hs); if(S.realHit) msg = t('realClamped', {p: S.realHit.p, a: fmt1(a)}); else if(worst.d > a) msg = t('realLimit', {a: fmt1(a), p: worst.g.name, x: fmt1(worst.d)}); }
+  if(!msg && worst.d > hs.max + 0.05) msg = t('realBeyond', {p: worst.g.name, x: fmt1(worst.d), m: fmt1(hs.max)});
+  if(msg) el.insertAdjacentHTML('beforeend', ` <span class="tag warn realtag" title="${esc(msg)}">⚠ ${esc(msg)}</span>`);
+}
+// ---------- wave tracker ----------
+registerTool({id: 'waves', label: 'toolWave', sub: 'waveSub', async render(body, stale){
+  const list = await history(); if(stale()) return;
+  if(list.length < 2){ body.innerHTML = `<p class="small">${esc(t('waveNeedPrev'))}</p>`; return; }
+  const agg = e => { const v = {}; let tot = 0; e.seats.forEach(s => { const f = s[4]; for(let k = 0; k < f.length; k += 2){ const p = e.parties[f[k]]; v[p] = (v[p] || 0) + f[k + 1]; tot += f[k + 1]; } tot += s[5] || 0; }); return {v, tot}; };
+  const seatShare = (e, s, p) => { let v = 0, tot = s[5] || 0; for(let k = 0; k < s[4].length; k += 2){ if(e.parties[s[4][k]] === p) v += s[4][k + 1]; tot += s[4][k + 1]; } return tot > 0 && v > 0 ? v / tot : null; };
+  const rows = [];
+  for(let i = 1; i < list.length; i++){ const a = list[i - 1], b = list[i], A = agg(a), B = agg(b);
+    const gain = Object.keys(B.v).filter(p => !SKIP_P.has(p) && 100 * B.v[p] / B.tot >= 3 && 100 * (A.v[p] || 0) / A.tot >= 1.5).map(p => ({p, d: 100 * B.v[p] / B.tot - 100 * (A.v[p] || 0) / A.tot})).sort((x, y) => y.d - x.d)[0]; if(!gain) continue;
+    const prev = new Map(a.seats.map(s => [seatKey(a, s), s])); let up = 0, n = 0;
+    b.seats.forEach(s => { const ps = prev.get(seatKey(b, s)); if(!ps) return; const x1 = seatShare(a, ps, gain.p), x2 = seatShare(b, s, gain.p); if(x1 != null && x2 != null){ n++; if(x2 > x1) up++; } });
+    const uni = n >= 20 ? up / n : null, score = uni == null ? gain.d : gain.d * uni; rows.push({e: b, p: gain.p, d: gain.d, uni, score, n}); }
+  const nameOf = e => S.kind === 'LS' && ['1977', '1984', '2014', '2019'].includes(e.label) ? t('waveName' + e.label) : '';
+  const cls = r => r.score >= 8 ? ['waveStrongT', 'var(--bad)'] : r.score >= 4 ? ['waveMildT', 'var(--warn)'] : ['waveNoneT', 'var(--muted)'];
+  body.innerHTML = `${barSvg(rows.map(r => ({l: r.e.label, v: Math.max(0, r.score), c: pColor(r.p)})), {color: 'var(--violet)', fmt: v => fmt1(v), label: t('toolWave'), min: 8})}
+    <div class="seatlist" style="max-height:380px;margin-top:6px"><table class="tbl"><thead><tr><th>${esc(t('thElection'))}</th><th>${esc(t('waveGainer'))}</th><th>${esc(t('waveScore'))}</th><th></th></tr></thead><tbody>
+    ${rows.slice().reverse().map(r => { const c = cls(r); return `<tr><td><b>${esc(r.e.label)}</b></td><td>${pcell(r.p)}<div class="small">+${fmt1(r.d)} ${LANG === 'hi' ? 'अंक' : 'pts'}${r.uni != null ? ' · ' + esc(t('waveUni', {p: Math.round(100 * r.uni)})) : ''}</div></td><td class="num"><b>${fmt1(r.score)}</b></td><td style="color:${c[1]}"><b>${esc(t(c[0]))}</b>${nameOf(r.e) ? `<div class="small" style="color:var(--muted)">${esc(nameOf(r.e))}</div>` : ''}</td></tr>`; }).join('')}</tbody></table></div>`;
+  alignTables(body);
+}});
+// ---------- signals from other elections (Lok Sabha only) ----------
+registerTool({id: 'signals', label: 'toolSig', sub: 'sigSub', async render(body, stale){
+  if(S.kind !== 'LS'){
+    const by = await bypollData(), lb = await localData(); if(stale()) return;
+    const mine = by.items.filter(i => i.state === S.state), won = {}; mine.forEach(i => { if(i.winParty) won[i.winParty] = (won[i.winParty] || 0) + 1; });
+    const topW = Object.entries(won).sort((a, b) => b[1] - a[1])[0], lc = lb.items.filter(it => it.state === S.state);
+    body.innerHTML = `<p class="small">${esc(t('sigNoLS'))}</p>` + (mine.length ? `<p>${esc(t('sigStByp', {s: stName(S.state), n: mine.length, c: mine.filter(i => i.changed).length, p: topW ? pName(topW[0]) : '', w: topW ? topW[1] : 0}))}</p>` : '')
+      + lc.map(it => { const e = it.elections[0]; return `<p>${esc(t('sigStLocal', {c: it.city, y: e.year, r: e.parties.filter(p => p.seats > 0).slice(0, 4).map(p => pName(p.p) + ' ' + p.seats).join(', ')}))}</p>`; }).join('')
+      + (!mine.length && !lc.length ? `<p class="small">${esc(t('sigStNone', {s: stName(S.state)}))}</p>` : '');
+    return;
+  }
+  const ix = INDEX.elections, ls = await bundle('ls'), lsList = ls.slice().sort((a, b) => a.year - b.year), lsCur = lsList[lsList.length - 1];
+  const latest = new Map(); ix.filter(e => e.kind === 'AE').forEach(e => { const l = latest.get(e.state); if(!l || e.year > l.year || (e.year === l.year && e.label > l.label)) latest.set(e.state, e); });
+  const stateShare = (raw, code, region) => { let v = 0, tot = 0; raw.seats.forEach(s => { if(region != null && raw.regions[s[3]] !== region) return; for(let k = 0; k < s[4].length; k += 2){ if(raw.parties[s[4][k]] === code) v += s[4][k + 1]; tot += s[4][k + 1]; } tot += s[5] || 0; }); return tot > 0 ? 100 * v / tot : null; };
+  const rows = [], tw = {BJP: 0, INC: 0}, sw = {BJP: 0, INC: 0}; let wtot = 0;
+  for(const [st, ent] of latest){ const reg = lsCur.regions.find(r => nameKey(r) === nameKey(st)); if(!reg) continue; const asm = (await bundle(ent.file)).find(e => e.id === ent.id); if(stale()) return;
+    const w = lsCur.seats.filter(s => lsCur.regions[s[3]] === reg).reduce((a, s) => a + s[4].reduce((x, y, k) => x + (k % 2 ? y : 0), 0), 0), r = {st, ent, w, codes: {}};
+    for(const code of ['BJP', 'INC']){ const a = stateShare(asm, code), l = stateShare(lsCur, code, reg); if(a == null || l == null){ continue; }
+      // usual gap: assembly share minus Lok Sabha share for assemblies held within a year of a Lok Sabha election
+      const asmList = (await bundle(ent.file)).filter(e => e.year < ent.year), gaps = [];
+      asmList.forEach(ae => { const nl = lsList.find(l2 => Math.abs(l2.year - ae.year) <= 1 && l2.year < lsCur.year); if(!nl) return; const x = stateShare(ae, code), y = stateShare(nl, code, nl.regions.find(rr => nameKey(rr) === nameKey(st))); if(x != null && y != null) gaps.push(x - y); });
+      const gap = gaps.length ? gaps.reduce((p, q) => p + q, 0) / gaps.length : 0, imp = a - gap; r.codes[code] = {a, l, gap, imp, n: gaps.length}; }
+    if(r.codes.BJP && r.codes.INC){ rows.push(r); wtot += w; ['BJP', 'INC'].forEach(c => { sw[c] += w * (r.codes[c].imp - r.codes[c].l); }); } }
+  const nat = {BJP: wtot ? sw.BJP / wtot : 0, INC: wtot ? sw.INC / wtot : 0};
+  const by = await bypollData(), lb = await localData(); if(stale()) return;
+  const curBy = by.items.filter(i => i.term === 18), tally = c => ({g: curBy.filter(i => i.winParty === c && i.prevParty !== c).length, l: curBy.filter(i => i.prevParty === c && i.winParty !== c).length});
+  const tb = tally('BJP'), tc = tally('INC'), lg = localGroups(lb.items), leads = c => lg.filter(it => localLeader(it) === c).length;
+  const others = `<h4 style="margin:12px 0 4px">${esc(t('sigOther'))}</h4>${curBy.length ? `<p class="small" style="margin:0 0 4px">${esc(t('sigBy', {n: curBy.length, a: tb.g, b: tb.l, c: tc.g, d: tc.l}))}</p>` : ''}${lg.length ? `<p class="small" style="margin:0">${esc(t('sigLocal', {a: leads('BJP'), b: leads('INC'), m: lg.length}))}</p>` : ''}`;
+  body.innerHTML = `<p style="font-family:var(--display);font-weight:600;margin:0 0 6px">${esc(t('sigNat', {a: (nat.BJP > 0 ? '+' : '') + fmt1(nat.BJP), b: (nat.INC > 0 ? '+' : '') + fmt1(nat.INC), y: lsCur.label}))} <button class="btn small" id="sigGo">${esc(t('sigApply'))}</button></p>
+    <div class="seatlist" style="max-height:420px"><table class="tbl"><thead><tr><th>${esc(t('sigState'))}</th><th>${esc(t('sigAsm'))} BJP / INC</th><th>${esc(t('sigLS', {y: lsCur.label}))} BJP / INC</th><th>${esc(t('sigGap'))}</th><th>${esc(t('sigImp', {y: lsCur.label}))}</th></tr></thead><tbody>
+    ${rows.sort((a, b) => b.w - a.w).map(r => { const B = r.codes.BJP, C = r.codes.INC, fm = v => (v > 0 ? '+' : '') + fmt1(v); return `<tr><td>${esc(stName(r.st))}<div class="small">${esc(r.ent.label)}</div></td><td class="num">${fmt1(B.a)} / ${fmt1(C.a)}</td><td class="num">${fmt1(B.l)} / ${fmt1(C.l)}</td><td class="num small">${fm(B.gap)} / ${fm(C.gap)}</td><td class="num"><b>${fm(B.imp - B.l)} / ${fm(C.imp - C.l)}</b></td></tr>`; }).join('')}</tbody></table></div>
+    <p class="small" style="margin:6px 0 0">${esc(t('sigNote'))}</p>${others}`;
+  alignTables(body);
+  $('#sigGo').onclick = () => { const a = U.findIndex(g => g.key === 'A:NDA'), b = U.findIndex(g => g.key === 'A:INDIA'); const pts = Math.max(-15, Math.min(15, Math.round(((nat.INC - nat.BJP) / 2) * 2) / 2));
+    if(S.mode !== 'alliance' || a < 0 || b < 0){ S.mode = 'alliance'; S.T = {}; rebuild(); }
+    S.swing = {a: 'A:NDA', b: 'A:INDIA', pts}; S.tab = 'easy'; applySwing(); renderPane(); toast(t('sigApply') + ': ' + (pts > 0 ? '+' : '') + pts); };
+}});
+
+
+// ======== feature: 270-local.js ========
+// City bodies (#72): seats won by each party in the big city corporations, as a lighter hint of urban party strength; also feeds "Signals from other elections".
+addI18n('en', {
+  toolLocal: 'City bodies', localSub: 'Who won the big city corporations at their last two elections: Delhi, Mumbai, Pune, Hyderabad, Kolkata, Bengaluru, the Gujarat corporations and the heads of Uttar Pradesh\'s urban bodies. From Wikipedia.',
+  localLead: '{p} won the most seats in {n} of {m} of these bodies at their latest elections.', localSeats: '{n} seats, {m} for a majority', localBefore: 'Before', localOthers: 'Others', localYear: 'Election', localNo: 'No city results could be loaded.', localGuj: 'Gujarat: {n} corporations', localEach: 'Each corporation',
+  localNote: 'City elections are fought on local issues and often go differently from the Lok Sabha and the assembly in the same place: Delhi\'s corporation chose the AAP in 2022 and the BJP won all seven Lok Sabha seats in 2024. Only the top parties in each infobox are listed, so small parties and independents may be missing, and Bengaluru\'s last election was in 2015.',
+  sigOther: 'Other signals', sigBy: 'By-elections in this Lok Sabha term ({n}): the BJP gained {a} seats and lost {b}; the Congress gained {c} and lost {d}. They show who won the seat, not the vote share, so they are not added to the swing above.',
+  sigLocal: 'City bodies: the BJP won the most seats in {a} of {m} at their latest elections; the Congress in {b}. A lighter hint than assembly results, see "City bodies".',
+});
+addI18n('hi', {
+  toolLocal: 'शहरी निकाय', localSub: 'बड़े नगर निगमों के पिछले दो चुनावों में कौन जीता: दिल्ली, मुंबई, पुणे, हैदराबाद, कोलकाता, बेंगलुरु, गुजरात के निगम और उत्तर प्रदेश के शहरी निकायों के प्रमुख। विकिपीडिया से।',
+  localLead: '{m} निकायों में से {n} में ताज़ा चुनाव में {p} को सबसे ज़्यादा सीटें मिलीं।', localSeats: '{n} सीटें, बहुमत के लिए {m}', localBefore: 'पहले', localOthers: 'अन्य', localYear: 'चुनाव', localNo: 'शहरी नतीजे लोड नहीं हो सके।', localGuj: 'गुजरात: {n} निगम', localEach: 'हर निगम',
+  localNote: 'शहरी चुनाव स्थानीय मुद्दों पर लड़े जाते हैं और अक्सर उसी जगह के लोकसभा और विधानसभा नतीजों से अलग जाते हैं: दिल्ली के निगम ने 2022 में आप को चुना और 2024 में भाजपा ने सातों लोकसभा सीटें जीतीं। हर इन्फ़ोबॉक्स में सिर्फ़ शीर्ष दल हैं, इसलिए छोटे दल और निर्दलीय छूट सकते हैं, और बेंगलुरु का आख़िरी चुनाव 2015 में हुआ था।',
+  sigOther: 'दूसरे संकेत', sigBy: 'इस लोकसभा के दौर के उप-चुनाव ({n}): भाजपा ने {a} सीटें जीतीं और {b} गँवाईं; कांग्रेस ने {c} जीतीं और {d} गँवाईं। ये बताते हैं कि सीट किसने जीती, वोट हिस्सा नहीं, इसलिए ऊपर के स्विंग में नहीं जोड़े गए।',
+  sigLocal: 'शहरी निकाय: ताज़ा चुनावों में {m} में से {a} में भाजपा को सबसे ज़्यादा सीटें मिलीं; कांग्रेस को {b} में। यह विधानसभा नतीजों से हल्का संकेत है, "शहरी निकाय" देखें।',
+});
+let LOCAL = null;
+async function localData(){ if(!LOCAL){ try{ LOCAL = await getJSON('ref/localbodies.json'); }catch(e){ LOCAL = {items: []}; } } return LOCAL; }
+// the 15 Gujarat corporations count as one entry (their seats added up), so that they do not outvote the big cities
+function localGroups(items){
+  const out = [], guj = items.filter(it => it.state === 'Gujarat');
+  items.forEach(it => { if(it.state !== 'Gujarat') out.push({city: it.city, state: it.state, elections: it.elections, members: null}); });
+  if(guj.length){ const m = new Map(); let total = 0; guj.forEach(it => { const e = it.elections[0]; total += e.total; e.parties.forEach(p => m.set(p.p, (m.get(p.p) || 0) + p.seats)); });
+    out.splice(Math.min(out.length, 4), 0, {city: t('localGuj', {n: guj.length}), state: 'Gujarat', elections: [{year: guj[0].elections[0].year, total, parties: [...m.entries()].map(([p, seats]) => ({p, seats})).sort((a, b) => b.seats - a.seats)}], members: guj}); }
+  return out;
+}
+const localLeader = it => { const p = it.elections[0].parties.filter(x => x.p !== 'OTH' && x.p !== 'IND').slice().sort((a, b) => b.seats - a.seats)[0]; return p ? p.p : null; };
+registerTool({id: 'local', label: 'toolLocal', sub: 'localSub', async render(body, stale){
+  const d = await localData(); if(stale()) return;
+  const items = localGroups(d.items);
+  if(!items.length){ body.innerHTML = `<p class="small">${esc(t('localNo'))}</p>`; return; }
+  const cnt = {}; items.forEach(it => { const l = localLeader(it); if(l) cnt[l] = (cnt[l] || 0) + 1; });
+  const top = Object.entries(cnt).sort((a, b) => b[1] - a[1])[0];
+  const bar = e => { const rest = e.total - e.parties.reduce((a, p) => a + p.seats, 0); const segs = e.parties.filter(p => p.seats > 0).map(p => ({p: p.p, n: p.seats, c: pColor(p.p)})); if(rest > 0) segs.push({p: 'OTH', n: rest, c: '#9aa0aa'});
+    return `<div class="lbar" role="img" aria-label="${esc(segs.map(s => pName(s.p) + ' ' + s.n).join(', '))}" style="position:relative;display:flex;height:16px;border-radius:4px;overflow:hidden;background:var(--line)">${segs.map(s => `<i style="width:${100 * s.n / e.total}%;background:${s.c}" title="${esc(pName(s.p))}: ${s.n}"></i>`).join('')}<b style="position:absolute;left:50%;top:-2px;bottom:-2px;width:2px;background:var(--ink);opacity:.55" title="${esc(t('localSeats', {n: e.total, m: Math.floor(e.total / 2) + 1}))}"></b></div>`; };
+  const legend = e => e.parties.filter(p => p.seats > 0).map(p => `<span class="lg"><i class="sw" style="background:${pColor(p.p)};display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:4px"></i>${esc(pName(p.p))} <b>${p.seats}</b></span>`).join(' ');
+  body.innerHTML = `<p style="font-family:var(--display);font-weight:600;margin:0 0 8px">${esc(t('localLead', {p: top ? pName(top[0]) : '', n: top ? top[1] : 0, m: items.length}))}</p>
+    <div class="seatlist" style="max-height:480px">${items.map(it => { const e = it.elections[0], pv = it.elections[1];
+      return `<div class="lrow" style="padding:8px 0;border-bottom:1px solid var(--line)"><div style="display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap"><b>${esc(it.city)}</b><span class="small">${esc(stName(it.state))} · ${esc(String(e.year))} · ${esc(t('localSeats', {n: e.total, m: Math.floor(e.total / 2) + 1}))}</span></div>
+        ${bar(e)}<div class="small lgd" style="margin-top:3px;display:flex;gap:10px;flex-wrap:wrap">${legend(e)}</div>
+        ${pv ? `<div class="small" style="margin-top:2px;color:var(--muted)">${esc(t('localBefore'))} (${esc(String(pv.year))}): ${pv.parties.filter(p => p.seats > 0).slice(0, 4).map(p => esc(pName(p.p)) + ' ' + p.seats).join(' · ')}</div>` : ''}
+        ${it.members ? `<details style="margin-top:4px"><summary class="small">${esc(t('localEach'))}</summary>${it.members.map(m => { const me = m.elections[0]; return `<div style="margin:6px 0 2px"><span class="small"><b>${esc(m.city.replace(' (corporation)', ''))}</b> · ${esc(t('localSeats', {n: me.total, m: Math.floor(me.total / 2) + 1}))}</span>${bar(me)}<div class="small lgd" style="display:flex;gap:10px;flex-wrap:wrap">${legend(me)}</div></div>`; }).join('')}</details>` : ''}</div>`; }).join('')}</div>
+    <p class="small" style="margin:8px 0 0">${esc(t('localNote'))}</p>`;
+  body.querySelectorAll('.lbar i').forEach(i => { i.style.height = '100%'; });
+}});
 
 
 async function boot(){

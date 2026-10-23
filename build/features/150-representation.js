@@ -15,7 +15,7 @@ function barSvg(pts, o){
   const W = 760, H = 190, L = 36, B = 26, T = 18, n = pts.length, bw = (W - L - 8) / Math.max(n, 1), mx = Math.max(o.min || 0, ...pts.map(p => p.v));
   const y = v => H - B - (H - B - T) * v / mx;
   let g = [0, .5, 1].map(f => `<line x1="${L}" x2="${W}" y1="${y(mx * f)}" y2="${y(mx * f)}" stroke="var(--line)"/>${svgText(L - 6, y(mx * f) + 4, o.fmt(mx * f), {anchor: 'end', size: 11})}`).join('');
-  pts.forEach((p, i) => { const cx = L + i * bw + bw / 2; g += `<rect x="${cx - bw * .34}" y="${y(p.v)}" width="${bw * .68}" height="${H - B - y(p.v)}" rx="2" fill="${o.color}" fill-opacity="${p.off ? .45 : .9}"><title>${esc(p.l)}: ${o.fmt(p.v)}${p.off ? ' *' : ''}</title></rect>`;
+  pts.forEach((p, i) => { const cx = L + i * bw + bw / 2; g += `<rect x="${cx - bw * .34}" y="${y(p.v)}" width="${bw * .68}" height="${H - B - y(p.v)}" rx="2" fill="${p.c || o.color}" fill-opacity="${p.off ? .45 : .9}"><title>${esc(p.l)}: ${o.fmt(p.v)}${p.off ? ' *' : ''}</title></rect>`;
     if(bw > 26 || i % 2 === 0) g += svgText(cx, y(p.v) - 4, o.fmt(p.v), {anchor: 'middle', size: 10.5, fill: 'var(--ink)', weight: 600});
     if(n <= 22 || i % 2 === 0 || i === n - 1) g += svgText(cx, H - 9, p.l, {anchor: 'middle', size: 10.5}); });
   return `<div class="tw"><svg viewBox="0 0 ${W} ${H}" style="min-width:520px" role="img" aria-label="${esc(o.label)}">${g}</svg></div>`;
