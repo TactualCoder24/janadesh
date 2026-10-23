@@ -243,3 +243,4 @@ function t(k, v){ let s = (I18N[LANG] && I18N[LANG][k] != null) ? I18N[LANG][k] 
   return v ? s.replace(/\{(\w+)\}/g, (m, x) => v[x] != null ? v[x] : '') : s; }
 function stName(s){ return LANG === 'hi' && HI_STATE[s] ? HI_STATE[s] : s; }
 function allyName(a){ return LANG === 'hi' && HI_ALLY[a] ? HI_ALLY[a] : a; }
+function addI18n(lang, obj){ for(const k in obj){ if(I18N[lang][k] != null) console.warn('i18n key collision: ' + k); I18N[lang][k] = obj[k]; } }

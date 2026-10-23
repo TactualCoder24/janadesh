@@ -27,7 +27,7 @@ A seat simulator for India's Lok Sabha (1951 to 2024, plus a 2029 projection mod
 ## Deploy on GitHub Pages
 
 1. Create a new public repository on GitHub (for example `janadesh`).
-2. Upload `index.html` (it already contains all data and maps, so it is the only file the site needs).
+2. Upload `index.html` and the `source/` folder (the page loads each state's data from `source/data/` and maps from `source/maps/` only when they are needed).
 3. In the repository, open Settings, then Pages. Set Source to "Deploy from a branch", branch `main`, folder `/ (root)`, and save.
 4. After a minute the site is live at `https://<your-username>.github.io/janadesh/`.
 
@@ -40,19 +40,35 @@ gh repo create janadesh --public --source . --push
 gh api -X POST repos/{owner}/janadesh/pages -f "source[branch]=main" -f "source[path]=/"
 ```
 
-`index.html` is fully self-contained, so you can also just double-click it to open it locally. The `source/` folder has the unbundled page plus separate data files; `build/make_dist.py` bundles them back into one file.
+The page needs its data files, so serve the folder with any static host (or run `python -m http.server` in it and open http://localhost:8000). For a single offline file run `python build/make_dist.py --single`, which writes `janadesh-single.html` with every data file embedded.
 
 ## Data
 
 - Constituency results: Election Commission of India, via DataMeet `india-election-data`, `gitcheckoutnikhil/india-elections-data`, `data-analytics.github.io`, `spfrantz/vidhan-sabha-2017-scraper`, `spfrantz/vidhan-sabha-2018`, `azadecon/assembly_elections_2023`.
-- Elections marked "Reconstructed seats" (for example Maharashtra 2014–2024, Haryana 2014–2024, Delhi 2015–2025, Bihar 2015–2025, Gujarat 2012–2022, West Bengal and Assam 2026) use exact statewide seats and vote shares from Wikipedia, with constituency figures rebuilt from the nearest election that has seat-level data. Seat totals match the real result; individual seats are approximate.
+- 39 recent assembly elections without open seat-level data (for example Maharashtra 2014–2024, Haryana 2014–2024, Delhi 2015–2025, Bihar 2015–2025, Gujarat 2012–2022, West Bengal and Assam 2026) use the official winner and runner-up of every constituency from Wikipedia (`build/seat_overrides/`); the votes of smaller parties in each seat are estimated, and statewide seat totals are checked against the official tallies.
+- Winner and runner-up names (and the winner's sex and age where the source has them) are in `source/names/`, matched to every seat.
+- Exit-poll projections for the poll presets are read from the Wikipedia exit-poll tables (`source/data/polls.json`, built by `build/fetch_polls.py`).
 - 1951 and 1957 Lok Sabha two-member seats are approximated from electorate size.
 - Maps: DataMeet boundary files (2008 delimitation).
 
-## Rebuilding the data
+## Rebuilding
 
-The `build/` folder holds the scripts: `build.py`, `build2.py`, `build3.py` produce `data/` and `maps/`; `assemble.py` builds the page from `template.html`, `i18n.js` and `engine.js`; `make_dist.py` embeds the data into the single `index.html`. They expect the source repositories cloned under a `dl/` folder; paths are set at the top of each script.
+```bash
+python build/make_dist.py            # page: template + i18n + engine + features -> index.html, then derived data (home summary, search index)
+python build/make_dist.py --single   # also janadesh-single.html with all data embedded
+```
 
+`build/template.html` is the page, `build/i18n.js` the English and Hindi strings, `build/engine.js` the swing engine and `build/features/*.js` the features (mobile layout, map zoom, share, analysis tools, search, polls). `assemble.py` joins them. Features add their own strings with `addI18n('en', {...})` and `addI18n('hi', {...})`; a clash with an existing key logs a warning in the browser console.
+
+Data pipeline (needs Python with pandas, numpy, scipy, openpyxl, beautifulsoup4, lxml):
+
+1. `python build/fetch_sources.py` downloads the raw result files into `dl/` (not committed).
+2. `python build/build.py` (rows), `build2.py` (elections), `build3.py` (map keys) write `source/data/` and `source/maps/`.
+3. `python build/apply_overrides.py` applies the official constituency results in `build/seat_overrides/`; `python build/fix_others.py` repairs CPI(M) votes polluted by the old "Others" mapping (both are idempotent repairs on the packed files).
+4. `python build/make_names.py` writes `source/names/` (add Wikipedia names first with `python build/fetch_wiki_names.py`); `python build/fetch_polls.py` writes `source/data/polls.json`.
+5. `python build/make_dist.py` rebuilds the page and the search index.
+
+Data fixes go into `build/seat_overrides/` and are checked against official party tallies before release.
 
 ## Logo
 
