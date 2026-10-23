@@ -453,6 +453,7 @@ pre.code{background:var(--sunk);border-radius:8px;padding:10px 12px;overflow:aut
       <button role="tab" data-tab="region" data-i18n="tabRegion"></button>
       <button role="tab" data-tab="odds" data-i18n="tabOdds"></button>
       <button role="tab" data-tab="parties" data-i18n="tabParties"></button>
+      <button role="tab" data-tab="lab" data-i18n="tabLab"></button>
       <button role="tab" data-tab="save" data-i18n="tabSave"></button>
     </div>
     <div class="pane" id="pane"></div>
@@ -865,7 +866,7 @@ async function drawHistory(){
 function renderPane(){
   const p = $('#pane');
   document.querySelectorAll('.tabs button').forEach(b => b.setAttribute('aria-selected', b.dataset.tab === S.tab));
-  ({easy:paneEasy, votes:paneVotes, region:paneRegion, odds:paneOdds, parties:paneParties, save:paneSave})[S.tab](p);
+  ({easy:paneEasy, votes:paneVotes, region:paneRegion, odds:paneOdds, parties:paneParties, lab:paneLab, save:paneSave})[S.tab](p);
 }
 function computeTargets(ui, val, T){
   T = T || targets(); val = Math.max(0, Math.min(100, val));
@@ -1120,7 +1121,7 @@ function paneParties(p){
   $('#addAlly').onclick = () => { const v = $('#newAlly').value.trim(); if(!v) return; $('#allyList').insertAdjacentHTML('beforeend', `<option value="${esc(v)}">`); toast(t('allyAdded',{a:v})); $('#newAlly').value=''; };
   $('#resetParties').onclick = () => { S.partyEdit = {}; S.allyEdit = {}; store.set('partyEdit', {}); rebuild(true); };
 }
-function scenario(){ return {v:1, eid:S.eid, next:S.next, ahead:S.ahead, mode:S.mode, method:S.method, T:S.T, locks:S.locks, regional:S.regional, reserved:S.reserved, overrides:S.overrides, allyEdit:S.allyEdit, partyEdit:S.partyEdit, transfer:S.transfer, fixNational:S.fixNational, swing:S.swing}; }
+function scenario(){ return {v:1, eid:S.eid, next:S.next, ahead:S.ahead, mode:S.mode, method:S.method, T:S.T, locks:S.locks, regional:S.regional, reserved:S.reserved, overrides:S.overrides, allyEdit:S.allyEdit, partyEdit:S.partyEdit, transfer:S.transfer, fixNational:S.fixNational, swing:S.swing, lab:S.lab}; }
 function paneSave(p){
   const saved = store.get('scenarios', []);
   p.innerHTML = `<div class="stack">
@@ -1152,7 +1153,7 @@ async function copy(text, msg){
 async function applyScenario(s){
   if(!s || !s.eid){ toast(t('badCode')); return; }
   const ent = INDEX.elections.find(e=>e.id===s.eid); if(!ent){ toast(t('noElection')); return; }
-  Object.assign(S, {kind:ent.kind, state:ent.state, eid:s.eid, next:!!s.next, ahead:s.ahead||(s.next?1:0), mode:s.mode||'party', method:s.method||'prop', allyEdit:s.allyEdit||{}, transfer:s.transfer||100, fixNational:s.fixNational!==false});
+  Object.assign(S, {kind:ent.kind, state:ent.state, eid:s.eid, next:!!s.next, ahead:s.ahead||(s.next?1:0), mode:s.mode||'party', method:s.method||'prop', allyEdit:s.allyEdit||{}, transfer:s.transfer||100, fixNational:s.fixNational!==false, lab:s.lab||null});
   if(s.partyEdit){ S.partyEdit = s.partyEdit; store.set('partyEdit', S.partyEdit); }
   showApp(); await load(true);
   Object.assign(S, {T:s.T||{}, locks:s.locks||{}, regional:s.regional||{}, reserved:s.reserved||{SC:{},ST:{}}, overrides:s.overrides||{}, swing:s.swing||{a:null,b:null,pts:0}});
@@ -1174,7 +1175,7 @@ function syncPickers(){
 }
 async function load(keepState){
   E = prepare((await bundle(entry().file)).find(e=>e.id===S.eid));
-  if(!keepState){ S.pollScn = null; S.whatIf = null; S.T = {}; S.locks = {}; S.regional = {}; S.reserved = {SC:{},ST:{}}; S.overrides = {}; S.allyEdit = {}; S.sel = null; S.mc = null; S.swing = {a:null,b:null,pts:0}; }
+  if(!keepState){ S.pollScn = null; S.whatIf = null; S.lab = null; S.T = {}; S.locks = {}; S.regional = {}; S.reserved = {SC:{},ST:{}}; S.overrides = {}; S.allyEdit = {}; S.sel = null; S.mc = null; S.swing = {a:null,b:null,pts:0}; }
   mapCache = {key:null}; resetZoom();
   buildUnits(); E.names = null; loadNames();
   $('#detail').hidden = true;

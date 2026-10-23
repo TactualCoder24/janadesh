@@ -44,11 +44,13 @@ function buildUnits(){
     if(g.seats > 0 || (keep.length < 14 && share >= 0.004)) keep.push(g);
     else { oth.members.push(...g.members); oth.vote += g.vote; oth.seats += g.seats; }
   });
+  labExtraUnits().forEach(g => keep.push(g));
   keep.push(oth);
   keep.forEach(g => {
     g.base = 100*g.vote/totAll;
     g.color = g.key === 'OTH' ? 'var(--muted)' : (g.key.startsWith('A:') ? allyColor(g.name, g.members.map(k=>codes[k])) : pColor(g.key));
     g.hex = g.key === 'OTH' ? '#9aa0aa' : (g.key.startsWith('A:') ? allyColor(g.name, g.members.map(k=>codes[k])) : pColor(g.key));
+    if(g.labKind) g.color = g.hex = labColor(g, keep);
   });
   U = keep;
   // unit index per party
@@ -65,13 +67,69 @@ function buildUnits(){
     s.u = u; s.ut = t || 1;
     s.base = u.map(x => x/(t||1));
   });
-  // recompute base share with merged votes
+  // the real result (before any what-if from the lab): base seats and base winners always describe this
+  const bs = winners(E.seats.map(s=>s.base), null);
+  labApply(bs.win);
   const totU = E.seats.reduce((a,s)=>a+s.ut,0);
   U.forEach((g,ui) => { g.base = 100*E.seats.reduce((a,s)=>a+s.u[ui],0)/totU; });
-  // base seats by unit
-  const bs = winners(E.seats.map(s=>s.base), null);
   U.forEach((g,ui)=> g.baseSeats = bs.counts[ui]);
   E.baseWin = bs.win;
+}
+
+// ---------- what-if lab: reshapes each seat's vote shares before any swing (new party, split, turnout, sitting-member penalty) ----------
+const hash01 = x => { const v = Math.sin(x * 12.9898 + 78.233) * 43758.5453; return v - Math.floor(v); };
+function labTurnoutOn(L){ return !!(L && L.to && (Object.values(L.to.p || {}).some(v => v) || Object.values(L.to.r || {}).some(v => v))); }
+function labActive(){ const L = S.lab; return !!(L && ((L.np && L.np.on) || (L.sp && L.sp.on) || (L.pen && L.pen.on) || labTurnoutOn(L))); }
+function labExtraUnits(){
+  const L = S.lab, out = []; if(!L) return out;
+  if(L.sp && L.sp.on && L.sp.key) out.push({key:'SPLIT:' + L.sp.key, name:L.sp.name || (t('labFaction')), members:[], vote:0, seats:0, labKind:'split', parent:L.sp.key});
+  if(L.np && L.np.on) out.push({key:'NEW:party', name:L.np.name || t('labNewName'), members:[], vote:0, seats:0, labKind:'new', hexOwn:L.np.color || '#00A6A6'});
+  return out;
+}
+function mixHex(a, b, f){ const pa = a.replace('#',''), pb = b.replace('#',''); const r = i => Math.round(parseInt(pa.substr(i,2),16)*(1-f) + parseInt(pb.substr(i,2),16)*f).toString(16).padStart(2,'0'); return '#' + r(0) + r(2) + r(4); }
+function labColor(g, list){
+  if(g.labKind === 'new') return g.hexOwn;
+  const par = list.find(x => x.key === g.parent); const ph = par && /^#[0-9a-f]{6}$/i.test(par.hex) ? par.hex : '#8A8F98';
+  return (S.lab.sp && S.lab.sp.color) || mixHex(ph, '#8E5BD0', .55);
+}
+function labApply(origWin){
+  const L = S.lab; if(!L || !labActive()) { S.labInfo = null; return; }
+  const n = U.length, idx = k => U.findIndex(g => g.key === k), seats = E.seats, info = {};
+  // 1. turnout: scale the votes of a party's voters everywhere, or of every voter in a state or district
+  if(labTurnoutOn(L)){
+    const fu = U.map(g => Math.max(0, 1 + ((L.to.p || {})[g.key] || 0) / 100));
+    seats.forEach(s => { const rn = s.r >= 0 ? E.regions[s.r] : null, fr = Math.max(0, 1 + (((L.to.r || {})[rn]) || 0) / 100); for(let k = 0; k < n; k++) s.u[k] *= fu[k] * fr; });
+  }
+  // 2. split a party: a share of its voters goes to a new faction, a little differently in every seat
+  if(L.sp && L.sp.on){
+    const a = idx(L.sp.key), b = idx('SPLIT:' + L.sp.key);
+    if(a >= 0 && b >= 0){ const f = Math.max(0, Math.min(1, (L.sp.share || 0) / 100)), v = (L.sp.spread || 0) / 100;
+      seats.forEach(s => { const fi = Math.max(0, Math.min(1, f * (1 + v * (hash01(s.no * 31 + 7) - .5) * 2))), m = s.u[a] * fi; s.u[a] -= m; s.u[b] += m; }); }
+  }
+  // 3. a new party: it takes a fraction of each chosen party's voters (the weights say how much of whose), with local variation
+  if(L.np && L.np.on){
+    const nk = U.findIndex(g => g.labKind === 'new');
+    if(nk >= 0){
+      const w = new Float64Array(n), src = Object.entries(L.np.from || {}).filter(([, wt]) => wt > 0);
+      if(src.length) src.forEach(([k, wt]) => { const j = idx(k); if(j >= 0 && j !== nk) w[j] = wt; }); else for(let k = 0; k < n; k++) if(k !== nk) w[k] = 1;
+      const v = (L.np.spread == null ? 40 : L.np.spread) / 100, gi = seats.map(s => 1 + v * (hash01(s.no * 17 + 3) - .5) * 2);
+      const totalV = seats.reduce((a, s) => a + s.u.reduce((x, y) => x + y, 0), 0), want = Math.max(0, Math.min(60, L.np.share || 0)) / 100 * totalV;
+      const taken = lam => { let tot = 0; seats.forEach((s, i) => { for(let k = 0; k < n; k++) if(w[k]) tot += Math.min(1, lam * w[k] * gi[i]) * s.u[k]; }); return tot; };
+      let lo = 0, hi = 1; while(taken(hi) < want && hi < 1e4) hi *= 2;
+      for(let it = 0; it < 40; it++){ const mid = (lo + hi) / 2; if(taken(mid) < want) lo = mid; else hi = mid; }
+      const lam = (lo + hi) / 2, gotV = taken(lam);
+      seats.forEach((s, i) => { let got = 0; for(let k = 0; k < n; k++) if(w[k]){ const f = Math.min(1, lam * w[k] * gi[i]), m = s.u[k] * f; s.u[k] -= m; got += m; } s.u[nk] += got; });
+      info.np = {asked: L.np.share || 0, got: 100 * gotV / totalV};
+    }
+  }
+  // 4. sitting-member penalty: the party that holds a seat loses points there, not everywhere
+  if(L.pen && L.pen.on && L.pen.pts > 0){
+    seats.forEach((s, i) => { const w0 = origWin[i], tot = s.u.reduce((a, b) => a + b, 0); if(!(tot > 0) || s.u[w0] == null) return;
+      const cut = Math.min(s.u[w0], L.pen.pts / 100 * tot), rest = tot - s.u[w0]; if(rest <= 0) return;
+      s.u[w0] -= cut; for(let k = 0; k < n; k++) if(k !== w0) s.u[k] += cut * s.u[k] / rest; });
+  }
+  seats.forEach(s => { let t0 = 0; for(let k = 0; k < n; k++) t0 += s.u[k]; s.ut = t0 || 1; s.base = s.u.map(x => x / s.ut); });
+  S.labInfo = info;
 }
 
 // ---------- engine ----------

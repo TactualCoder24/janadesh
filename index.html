@@ -453,6 +453,7 @@ pre.code{background:var(--sunk);border-radius:8px;padding:10px 12px;overflow:aut
       <button role="tab" data-tab="region" data-i18n="tabRegion"></button>
       <button role="tab" data-tab="odds" data-i18n="tabOdds"></button>
       <button role="tab" data-tab="parties" data-i18n="tabParties"></button>
+      <button role="tab" data-tab="lab" data-i18n="tabLab"></button>
       <button role="tab" data-tab="save" data-i18n="tabSave"></button>
     </div>
     <div class="pane" id="pane"></div>
@@ -860,11 +861,13 @@ function buildUnits(){
     if(g.seats > 0 || (keep.length < 14 && share >= 0.004)) keep.push(g);
     else { oth.members.push(...g.members); oth.vote += g.vote; oth.seats += g.seats; }
   });
+  labExtraUnits().forEach(g => keep.push(g));
   keep.push(oth);
   keep.forEach(g => {
     g.base = 100*g.vote/totAll;
     g.color = g.key === 'OTH' ? 'var(--muted)' : (g.key.startsWith('A:') ? allyColor(g.name, g.members.map(k=>codes[k])) : pColor(g.key));
     g.hex = g.key === 'OTH' ? '#9aa0aa' : (g.key.startsWith('A:') ? allyColor(g.name, g.members.map(k=>codes[k])) : pColor(g.key));
+    if(g.labKind) g.color = g.hex = labColor(g, keep);
   });
   U = keep;
   // unit index per party
@@ -881,13 +884,69 @@ function buildUnits(){
     s.u = u; s.ut = t || 1;
     s.base = u.map(x => x/(t||1));
   });
-  // recompute base share with merged votes
+  // the real result (before any what-if from the lab): base seats and base winners always describe this
+  const bs = winners(E.seats.map(s=>s.base), null);
+  labApply(bs.win);
   const totU = E.seats.reduce((a,s)=>a+s.ut,0);
   U.forEach((g,ui) => { g.base = 100*E.seats.reduce((a,s)=>a+s.u[ui],0)/totU; });
-  // base seats by unit
-  const bs = winners(E.seats.map(s=>s.base), null);
   U.forEach((g,ui)=> g.baseSeats = bs.counts[ui]);
   E.baseWin = bs.win;
+}
+
+// ---------- what-if lab: reshapes each seat's vote shares before any swing (new party, split, turnout, sitting-member penalty) ----------
+const hash01 = x => { const v = Math.sin(x * 12.9898 + 78.233) * 43758.5453; return v - Math.floor(v); };
+function labTurnoutOn(L){ return !!(L && L.to && (Object.values(L.to.p || {}).some(v => v) || Object.values(L.to.r || {}).some(v => v))); }
+function labActive(){ const L = S.lab; return !!(L && ((L.np && L.np.on) || (L.sp && L.sp.on) || (L.pen && L.pen.on) || labTurnoutOn(L))); }
+function labExtraUnits(){
+  const L = S.lab, out = []; if(!L) return out;
+  if(L.sp && L.sp.on && L.sp.key) out.push({key:'SPLIT:' + L.sp.key, name:L.sp.name || (t('labFaction')), members:[], vote:0, seats:0, labKind:'split', parent:L.sp.key});
+  if(L.np && L.np.on) out.push({key:'NEW:party', name:L.np.name || t('labNewName'), members:[], vote:0, seats:0, labKind:'new', hexOwn:L.np.color || '#00A6A6'});
+  return out;
+}
+function mixHex(a, b, f){ const pa = a.replace('#',''), pb = b.replace('#',''); const r = i => Math.round(parseInt(pa.substr(i,2),16)*(1-f) + parseInt(pb.substr(i,2),16)*f).toString(16).padStart(2,'0'); return '#' + r(0) + r(2) + r(4); }
+function labColor(g, list){
+  if(g.labKind === 'new') return g.hexOwn;
+  const par = list.find(x => x.key === g.parent); const ph = par && /^#[0-9a-f]{6}$/i.test(par.hex) ? par.hex : '#8A8F98';
+  return (S.lab.sp && S.lab.sp.color) || mixHex(ph, '#8E5BD0', .55);
+}
+function labApply(origWin){
+  const L = S.lab; if(!L || !labActive()) { S.labInfo = null; return; }
+  const n = U.length, idx = k => U.findIndex(g => g.key === k), seats = E.seats, info = {};
+  // 1. turnout: scale the votes of a party's voters everywhere, or of every voter in a state or district
+  if(labTurnoutOn(L)){
+    const fu = U.map(g => Math.max(0, 1 + ((L.to.p || {})[g.key] || 0) / 100));
+    seats.forEach(s => { const rn = s.r >= 0 ? E.regions[s.r] : null, fr = Math.max(0, 1 + (((L.to.r || {})[rn]) || 0) / 100); for(let k = 0; k < n; k++) s.u[k] *= fu[k] * fr; });
+  }
+  // 2. split a party: a share of its voters goes to a new faction, a little differently in every seat
+  if(L.sp && L.sp.on){
+    const a = idx(L.sp.key), b = idx('SPLIT:' + L.sp.key);
+    if(a >= 0 && b >= 0){ const f = Math.max(0, Math.min(1, (L.sp.share || 0) / 100)), v = (L.sp.spread || 0) / 100;
+      seats.forEach(s => { const fi = Math.max(0, Math.min(1, f * (1 + v * (hash01(s.no * 31 + 7) - .5) * 2))), m = s.u[a] * fi; s.u[a] -= m; s.u[b] += m; }); }
+  }
+  // 3. a new party: it takes a fraction of each chosen party's voters (the weights say how much of whose), with local variation
+  if(L.np && L.np.on){
+    const nk = U.findIndex(g => g.labKind === 'new');
+    if(nk >= 0){
+      const w = new Float64Array(n), src = Object.entries(L.np.from || {}).filter(([, wt]) => wt > 0);
+      if(src.length) src.forEach(([k, wt]) => { const j = idx(k); if(j >= 0 && j !== nk) w[j] = wt; }); else for(let k = 0; k < n; k++) if(k !== nk) w[k] = 1;
+      const v = (L.np.spread == null ? 40 : L.np.spread) / 100, gi = seats.map(s => 1 + v * (hash01(s.no * 17 + 3) - .5) * 2);
+      const totalV = seats.reduce((a, s) => a + s.u.reduce((x, y) => x + y, 0), 0), want = Math.max(0, Math.min(60, L.np.share || 0)) / 100 * totalV;
+      const taken = lam => { let tot = 0; seats.forEach((s, i) => { for(let k = 0; k < n; k++) if(w[k]) tot += Math.min(1, lam * w[k] * gi[i]) * s.u[k]; }); return tot; };
+      let lo = 0, hi = 1; while(taken(hi) < want && hi < 1e4) hi *= 2;
+      for(let it = 0; it < 40; it++){ const mid = (lo + hi) / 2; if(taken(mid) < want) lo = mid; else hi = mid; }
+      const lam = (lo + hi) / 2, gotV = taken(lam);
+      seats.forEach((s, i) => { let got = 0; for(let k = 0; k < n; k++) if(w[k]){ const f = Math.min(1, lam * w[k] * gi[i]), m = s.u[k] * f; s.u[k] -= m; got += m; } s.u[nk] += got; });
+      info.np = {asked: L.np.share || 0, got: 100 * gotV / totalV};
+    }
+  }
+  // 4. sitting-member penalty: the party that holds a seat loses points there, not everywhere
+  if(L.pen && L.pen.on && L.pen.pts > 0){
+    seats.forEach((s, i) => { const w0 = origWin[i], tot = s.u.reduce((a, b) => a + b, 0); if(!(tot > 0) || s.u[w0] == null) return;
+      const cut = Math.min(s.u[w0], L.pen.pts / 100 * tot), rest = tot - s.u[w0]; if(rest <= 0) return;
+      s.u[w0] -= cut; for(let k = 0; k < n; k++) if(k !== w0) s.u[k] += cut * s.u[k] / rest; });
+  }
+  seats.forEach(s => { let t0 = 0; for(let k = 0; k < n; k++) t0 += s.u[k]; s.ut = t0 || 1; s.base = s.u.map(x => x / s.ut); });
+  S.labInfo = info;
 }
 
 // ---------- engine ----------
@@ -1304,7 +1363,7 @@ async function drawHistory(){
 function renderPane(){
   const p = $('#pane');
   document.querySelectorAll('.tabs button').forEach(b => b.setAttribute('aria-selected', b.dataset.tab === S.tab));
-  ({easy:paneEasy, votes:paneVotes, region:paneRegion, odds:paneOdds, parties:paneParties, save:paneSave})[S.tab](p);
+  ({easy:paneEasy, votes:paneVotes, region:paneRegion, odds:paneOdds, parties:paneParties, lab:paneLab, save:paneSave})[S.tab](p);
 }
 function computeTargets(ui, val, T){
   T = T || targets(); val = Math.max(0, Math.min(100, val));
@@ -1559,7 +1618,7 @@ function paneParties(p){
   $('#addAlly').onclick = () => { const v = $('#newAlly').value.trim(); if(!v) return; $('#allyList').insertAdjacentHTML('beforeend', `<option value="${esc(v)}">`); toast(t('allyAdded',{a:v})); $('#newAlly').value=''; };
   $('#resetParties').onclick = () => { S.partyEdit = {}; S.allyEdit = {}; store.set('partyEdit', {}); rebuild(true); };
 }
-function scenario(){ return {v:1, eid:S.eid, next:S.next, ahead:S.ahead, mode:S.mode, method:S.method, T:S.T, locks:S.locks, regional:S.regional, reserved:S.reserved, overrides:S.overrides, allyEdit:S.allyEdit, partyEdit:S.partyEdit, transfer:S.transfer, fixNational:S.fixNational, swing:S.swing}; }
+function scenario(){ return {v:1, eid:S.eid, next:S.next, ahead:S.ahead, mode:S.mode, method:S.method, T:S.T, locks:S.locks, regional:S.regional, reserved:S.reserved, overrides:S.overrides, allyEdit:S.allyEdit, partyEdit:S.partyEdit, transfer:S.transfer, fixNational:S.fixNational, swing:S.swing, lab:S.lab}; }
 function paneSave(p){
   const saved = store.get('scenarios', []);
   p.innerHTML = `<div class="stack">
@@ -1591,7 +1650,7 @@ async function copy(text, msg){
 async function applyScenario(s){
   if(!s || !s.eid){ toast(t('badCode')); return; }
   const ent = INDEX.elections.find(e=>e.id===s.eid); if(!ent){ toast(t('noElection')); return; }
-  Object.assign(S, {kind:ent.kind, state:ent.state, eid:s.eid, next:!!s.next, ahead:s.ahead||(s.next?1:0), mode:s.mode||'party', method:s.method||'prop', allyEdit:s.allyEdit||{}, transfer:s.transfer||100, fixNational:s.fixNational!==false});
+  Object.assign(S, {kind:ent.kind, state:ent.state, eid:s.eid, next:!!s.next, ahead:s.ahead||(s.next?1:0), mode:s.mode||'party', method:s.method||'prop', allyEdit:s.allyEdit||{}, transfer:s.transfer||100, fixNational:s.fixNational!==false, lab:s.lab||null});
   if(s.partyEdit){ S.partyEdit = s.partyEdit; store.set('partyEdit', S.partyEdit); }
   showApp(); await load(true);
   Object.assign(S, {T:s.T||{}, locks:s.locks||{}, regional:s.regional||{}, reserved:s.reserved||{SC:{},ST:{}}, overrides:s.overrides||{}, swing:s.swing||{a:null,b:null,pts:0}});
@@ -1613,7 +1672,7 @@ function syncPickers(){
 }
 async function load(keepState){
   E = prepare((await bundle(entry().file)).find(e=>e.id===S.eid));
-  if(!keepState){ S.pollScn = null; S.whatIf = null; S.T = {}; S.locks = {}; S.regional = {}; S.reserved = {SC:{},ST:{}}; S.overrides = {}; S.allyEdit = {}; S.sel = null; S.mc = null; S.swing = {a:null,b:null,pts:0}; }
+  if(!keepState){ S.pollScn = null; S.whatIf = null; S.lab = null; S.T = {}; S.locks = {}; S.regional = {}; S.reserved = {SC:{},ST:{}}; S.overrides = {}; S.allyEdit = {}; S.sel = null; S.mc = null; S.swing = {a:null,b:null,pts:0}; }
   mapCache = {key:null}; resetZoom();
   buildUnits(); E.names = null; loadNames();
   $('#detail').hidden = true;
@@ -2672,7 +2731,7 @@ function renderBanner(){
   const el = $('#scnBanner'); if(!el) return;
   if(renderWhatIfBanner()) return;
   const sc = S.pollScn;
-  if(!sc || sc.set.base !== S.eid || sc.sig !== pollSig()){ el.hidden = true; return; }
+  if(!sc || sc.set.base !== S.eid || sc.sig !== pollSig()){ if(!renderLabBanner()) el.hidden = true; return; }
   const sim = {}; Object.entries(sc.set.units).forEach(([l, u]) => { const ui = U.findIndex(g => g.key === (sc.set.mode === 'alliance' ? 'A:' + u : u)); sim[l] = ui >= 0 ? RES.counts[ui] : 0; });
   el.hidden = false;
   el.innerHTML = esc(t('pollBanner', {by: sc.poll.by, title: stName(sc.set.title), p: seatsText(sc.set, sc.poll.seats), s: seatsText(sc.set, sim), a: actualText(sc.set)})) + ` <a href="${esc(sc.set.source)}" target="_blank" rel="noopener">↗</a>`;
@@ -2798,7 +2857,7 @@ PAGES.set('glossary', async box => {
 
 // ---------- Changelog (#58) ----------
 const CHANGES = [
-  ['2026-10-23', 'feature', 'Chief ministers and by-elections', 'मुख्यमंत्री और उप-चुनाव', 'Every state's chief ministers with their terms, parties and the election they came in under; and the by-elections since the 2024 Lok Sabha result with a party scoreboard.', 'हर राज्य के मुख्यमंत्री, उनके कार्यकाल, दल और वह चुनाव जिसमें वे आए; और 2024 की लोकसभा के बाद के उप-चुनाव, दलों के स्कोरबोर्ड के साथ।'],
+  ['2026-10-23', 'feature', 'Chief ministers and by-elections', 'मुख्यमंत्री और उप-चुनाव', 'The chief ministers of every state with their terms, parties and the election they came in under; and the by-elections since the 2024 Lok Sabha result with a party scoreboard.', 'हर राज्य के मुख्यमंत्री, उनके कार्यकाल, दल और वह चुनाव जिसमें वे आए; और 2024 की लोकसभा के बाद के उप-चुनाव, दलों के स्कोरबोर्ड के साथ।'],
   ['2026-10-23', 'feature', 'How constituencies changed', 'चुनाव क्षेत्र कैसे बदले', 'The history of delimitation since 1951, Lok Sabha seats by state in every election, new and renamed seats with their area, and a map of new seats.', '1951 से परिसीमन का इतिहास, हर चुनाव में राज्यवार लोकसभा सीटें, नई और नाम बदली सीटें क्षेत्रफल के साथ, और नई सीटों का नक्शा।'],
   ['2026-10-23', 'feature', 'Alliance timeline with old alliance names and splits', 'पुराने गठबंधन नामों और टूट के साथ गठबंधन समयरेखा', 'National Front, United Front, NDA, UPA and INDIA by election, the biggest alliances of each election, and markers for the splits, mergers and foundings of each party.', 'हर चुनाव में राष्ट्रीय मोर्चा, संयुक्त मोर्चा, एनडीए, यूपीए और इंडिया, हर चुनाव के सबसे बड़े गठबंधन, और हर दल की टूट, विलय और स्थापना के निशान।'],
   ['2026-10-23', 'fix', 'Independents no longer counted in the NDA', 'निर्दलीय अब एनडीए में नहीं गिने जाते', 'Seven independents were counted as NDA in Lok Sabha 2024. They now stand alone, in their own colour: NDA 293, INDIA 234, independents 7.', 'लोकसभा 2024 में सात निर्दलीय एनडीए में गिने गए थे। अब वे अपने रंग में अलग हैं: एनडीए 293, इंडिया 234, निर्दलीय 7।'],
@@ -3542,6 +3601,87 @@ registerTool({id: 'bypolls', label: 'toolBy', sub: 'bySub', key: () => S.eid + '
   $('#byScope').onchange = e => { S.byScope = e.target.value; toolKeyShown = null; toolsTouch(true); };
   $('#byCh').onchange = e => { S.byChanged = e.target.checked; toolKeyShown = null; toolsTouch(true); };
 }});
+
+
+// ======== feature: 210-lab.js ========
+// What-if lab: new party (#59), party split (#60), turnout (#61), sitting-member penalty (#62). The engine reshapes each seat's vote shares (see labApply in engine.js).
+addI18n('en', {
+  tabLab: 'Lab', labTitle: 'What-if lab', labHint: 'These change who votes for whom in every seat first; the Easy and Vote share tabs then swing from there. Seat counts are compared with the real result. Changing anything here resets the vote-share sliders.', labReset: 'Reset the lab',
+  labNewName: 'New party', labFaction: 'New faction', labNP: 'A new party', labNPHint: 'It takes a fraction of the chosen parties\' voters in every seat, so it is strongest where they are strongest.', labName: 'Name', labColour: 'Colour', labShare: 'Vote share nationwide: {v}%', labFrom: 'Takes votes from (tick; none ticked means everyone in proportion)', labWeight: 'weight', labSpread: 'Local variation: {v}%',
+  labNPgot: 'The chosen parties do not have enough votes: the new party reaches {v}%.',
+  labSplit: 'Split a party', labSplitHint: 'A share of its voters goes to a new faction, a little differently in every seat (as with Shiv Sena and NCP).', labSplitWho: 'Party', labSplitShare: 'Voters going to the faction: {v}%', labFactionName: 'Faction name',
+  labTurnout: 'Turnout', labTurnoutHint: 'Voters of a party staying home (or coming out more), or a whole state or district turning out less or more. Votes are rescaled, not the other parties\' shares.', labTOParty: 'Change in {p} voters turning out: {v}%', labTORegion: 'State or district', labTOAdd: 'Add', labTOReg: '{r}: {v}%', labTOPick: 'Pick…',
+  labPen: 'Sitting-member penalty', labPenHint: 'Anti-incumbency only where it bites: the party that holds a seat loses points in that seat, not across the whole state.', labPenOn: 'Apply', labPenPts: 'Points lost by the holder of each seat: {v}',
+  labBanner: 'What-if lab on: {list}. Compared with the real result.', labBNew: 'new party {n} at {v}%', labBSplit: '{p} splits ({v}% of its voters go to {n})', labBTurn: 'turnout changes', labBPen: 'sitting-member penalty {v} points',
+});
+addI18n('hi', {
+  tabLab: 'लैब', labTitle: 'अगर-मगर लैब', labHint: 'ये पहले हर सीट में तय करते हैं कि कौन किसे वोट देता है; फिर आसान और वोट हिस्सा टैब वहीं से स्विंग लगाते हैं। सीटों की गिनती असली नतीजे से मिलाई जाती है। यहाँ कुछ भी बदलने से वोट-हिस्से के स्लाइडर फिर शुरुआती जगह पर आ जाते हैं।', labReset: 'लैब रीसेट करें',
+  labNewName: 'नया दल', labFaction: 'नया धड़ा', labNP: 'नया दल', labNPHint: 'यह चुने हुए दलों के मतदाताओं का एक अंश हर सीट पर ले जाता है, इसलिए वहीं सबसे मज़बूत होता है जहाँ वे मज़बूत हैं।', labName: 'नाम', labColour: 'रंग', labShare: 'देशभर में वोट हिस्सा: {v}%', labFrom: 'किनसे वोट लेता है (टिक करें; कुछ न चुनें तो सबसे अनुपात में)', labWeight: 'भार', labSpread: 'स्थानीय अंतर: {v}%',
+  labNPgot: 'चुने हुए दलों के पास इतने वोट नहीं हैं: नया दल {v}% तक पहुँचता है।',
+  labSplit: 'किसी दल को तोड़ें', labSplitHint: 'उसके मतदाताओं का एक हिस्सा नए धड़े में जाता है, हर सीट पर थोड़ा अलग (जैसे शिवसेना और राकांपा में)।', labSplitWho: 'दल', labSplitShare: 'धड़े में जाने वाले मतदाता: {v}%', labFactionName: 'धड़े का नाम',
+  labTurnout: 'मतदान', labTurnoutHint: 'किसी दल के मतदाताओं का घर बैठना (या ज़्यादा निकलना), या पूरे राज्य या ज़िले का कम-ज़्यादा वोट डालना। वोट पैमाने पर बदलते हैं, दूसरे दलों के हिस्से नहीं।', labTOParty: '{p} के मतदाताओं के निकलने में बदलाव: {v}%', labTORegion: 'राज्य या ज़िला', labTOAdd: 'जोड़ें', labTOReg: '{r}: {v}%', labTOPick: 'चुनें…',
+  labPen: 'मौजूदा सदस्य का जुर्माना', labPenHint: 'सत्ता-विरोधी लहर सिर्फ़ वहाँ जहाँ वह चुभती है: सीट पर क़ाबिज़ दल उसी सीट पर अंक खोता है, पूरे राज्य में नहीं।', labPenOn: 'लागू करें', labPenPts: 'हर सीट के क़ाबिज़ दल के खोए अंक: {v}',
+  labBanner: 'अगर-मगर लैब चालू: {list}। असली नतीजे से तुलना।', labBNew: 'नया दल {n}, {v}% पर', labBSplit: '{p} टूटता है (उसके {v}% मतदाता {n} में जाते हैं)', labBTurn: 'मतदान में बदलाव', labBPen: 'मौजूदा सदस्य का जुर्माना {v} अंक',
+});
+function labState(){ if(!S.lab) S.lab = {np: {on: false, name: '', share: 10, color: '#00A6A6', from: {}, spread: 40}, sp: {on: false, key: '', share: 30, name: '', spread: 30}, to: {p: {}, r: {}}, pen: {on: false, pts: 5}}; return S.lab; }
+function labChanged(){ S.T = {}; S.locks = {}; S.swing = {a: null, b: null, pts: 0}; S.mc = null; S.pollScn = null; S.whatIf = null; rebuild(); }
+function labUnits(){ return U.map((g, k) => ({g, k})).filter(o => o.g.key !== 'OTH' && !o.g.labKind); }
+function paneLab(p){
+  const L = labState(), us = labUnits(), top = us.slice(0, 8), regs = E.regions || [];
+  if(!L.sp.key || !us.some(o => o.g.key === L.sp.key)) L.sp.key = us.length ? us[0].g.key : '';
+  const sl = (id, min, max, step, val, lbl) => `<label class="stack" style="gap:2px"><span id="${id}L">${lbl}</span><input type="range" id="${id}" min="${min}" max="${max}" step="${step}" value="${val}"></label>`;
+  p.innerHTML = `<div class="stack">
+    <div><h3>${esc(t('labTitle'))}</h3><p class="hint">${esc(t('labHint'))}</p></div>
+    <div class="swingbox"><label class="row"><input type="checkbox" id="npOn" ${L.np.on ? 'checked' : ''}> <b>${esc(t('labNP'))}</b></label><p class="hint" style="margin:4px 0 8px">${esc(t('labNPHint'))}</p>
+      <div class="row"><input class="inp" id="npName" placeholder="${esc(t('labName'))}" value="${esc(L.np.name || '')}" style="flex:1;min-width:120px" aria-label="${esc(t('labName'))}"><input type="color" id="npCol" value="${esc(L.np.color || '#00A6A6')}" aria-label="${esc(t('labColour'))}"></div>
+      ${sl('npShare', 0, 40, 0.5, L.np.share, esc(t('labShare', {v: fmt1(L.np.share)})))}
+      <p class="hint" style="margin:6px 0 2px">${esc(t('labFrom'))}</p>
+      ${top.map(o => { const w = L.np.from[o.g.key]; return `<div class="row" style="margin:2px 0"><label class="row" style="flex:1;gap:6px;min-width:0"><input type="checkbox" data-from="${esc(o.g.key)}" ${w ? 'checked' : ''}><i class="sw" style="background:${o.g.hex}"></i><span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${esc(o.g.name)}</span></label><input class="inp num" type="number" min="0.5" max="5" step="0.5" value="${w || 1}" data-fromw="${esc(o.g.key)}" style="width:62px" aria-label="${esc(t('labWeight'))}" ${w ? '' : 'disabled'}></div>`; }).join('')}
+      ${sl('npSpread', 0, 100, 5, L.np.spread == null ? 40 : L.np.spread, esc(t('labSpread', {v: L.np.spread == null ? 40 : L.np.spread})))}
+      ${L.np.on && S.labInfo && S.labInfo.np && S.labInfo.np.got < S.labInfo.np.asked - 0.3 ? `<p class="hint" style="color:var(--warn)">${esc(t('labNPgot', {v: fmt1(S.labInfo.np.got)}))}</p>` : ''}</div>
+    <div class="swingbox"><label class="row"><input type="checkbox" id="spOn" ${L.sp.on ? 'checked' : ''}> <b>${esc(t('labSplit'))}</b></label><p class="hint" style="margin:4px 0 8px">${esc(t('labSplitHint'))}</p>
+      <label class="stack" style="gap:2px"><span>${esc(t('labSplitWho'))}</span><select id="spKey">${us.map(o => `<option value="${esc(o.g.key)}" ${o.g.key === L.sp.key ? 'selected' : ''}>${esc(o.g.name)}</option>`).join('')}</select></label>
+      <input class="inp" id="spName" placeholder="${esc(t('labFactionName'))}" value="${esc(L.sp.name || '')}" style="width:100%;margin-top:6px" aria-label="${esc(t('labFactionName'))}">
+      ${sl('spShare', 0, 100, 1, L.sp.share, esc(t('labSplitShare', {v: L.sp.share})))}
+      ${sl('spSpread', 0, 100, 5, L.sp.spread || 0, esc(t('labSpread', {v: L.sp.spread || 0})))}</div>
+    <div class="swingbox"><b>${esc(t('labTurnout'))}</b><p class="hint" style="margin:4px 0 8px">${esc(t('labTurnoutHint'))}</p>
+      ${top.slice(0, 6).map(o => `<label class="stack" style="gap:2px"><span id="toP${esc(o.g.key)}L">${esc(t('labTOParty', {p: o.g.name, v: (L.to.p[o.g.key] || 0)}))}</span><input type="range" min="-50" max="50" step="1" value="${L.to.p[o.g.key] || 0}" data-top="${esc(o.g.key)}" style="--c:${o.g.hex}"></label>`).join('')}
+      ${regs.length ? `<div class="row" style="margin-top:8px"><select id="toReg" style="flex:1;min-width:0"><option value="">${esc(t('labTOPick'))}</option>${regs.map(r => `<option value="${esc(r)}">${esc(stName(r))}</option>`).join('')}</select><input class="inp num" type="number" id="toRegV" min="-50" max="50" step="1" value="-10" style="width:70px"><button class="btn small" id="toRegAdd">${esc(t('labTOAdd'))}</button></div>
+      <div class="row" style="margin-top:6px">${Object.entries(L.to.r).filter(([, v]) => v).map(([r, v]) => `<button class="chip" data-torm="${esc(r)}">${esc(t('labTOReg', {r: stName(r), v}))} ×</button>`).join('')}</div>` : ''}</div>
+    <div class="swingbox"><label class="row"><input type="checkbox" id="penOn" ${L.pen.on ? 'checked' : ''}> <b>${esc(t('labPen'))}</b></label><p class="hint" style="margin:4px 0 8px">${esc(t('labPenHint'))}</p>
+      ${sl('penPts', 0, 20, 0.5, L.pen.pts, esc(t('labPenPts', {v: fmt1(L.pen.pts)})))}</div>
+    <button class="btn small" id="labReset">${esc(t('labReset'))}</button></div>`;
+  const on = (id, ev, fn) => { const el = $('#' + id); if(el) el[ev] = fn; };
+  on('npOn', 'onchange', e => { L.np.on = e.target.checked; labChanged(); });
+  on('npName', 'onchange', e => { L.np.name = e.target.value.trim(); if(L.np.on) labChanged(); });
+  on('npCol', 'onchange', e => { L.np.color = e.target.value; if(L.np.on) labChanged(); });
+  const slide = (id, key, obj, labFn, apply) => { const el = $('#' + id); if(!el) return; el.oninput = () => { obj[key] = +el.value; $('#' + id + 'L').textContent = labFn(+el.value); }; el.onchange = () => { obj[key] = +el.value; if(apply()) labChanged(); }; };
+  slide('npShare', 'share', L.np, v => t('labShare', {v: fmt1(v)}), () => L.np.on);
+  slide('npSpread', 'spread', L.np, v => t('labSpread', {v}), () => L.np.on);
+  p.querySelectorAll('[data-from]').forEach(c => c.onchange = () => { const k = c.dataset.from; if(c.checked) L.np.from[k] = +(p.querySelector(`[data-fromw="${CSS.escape(k)}"]`).value) || 1; else delete L.np.from[k]; if(L.np.on) labChanged(); else renderPane(); });
+  p.querySelectorAll('[data-fromw]').forEach(c => c.onchange = () => { const k = c.dataset.fromw; if(L.np.from[k]){ L.np.from[k] = +c.value || 1; if(L.np.on) labChanged(); } });
+  on('spOn', 'onchange', e => { L.sp.on = e.target.checked; labChanged(); });
+  on('spKey', 'onchange', e => { L.sp.key = e.target.value; if(L.sp.on) labChanged(); });
+  on('spName', 'onchange', e => { L.sp.name = e.target.value.trim(); if(L.sp.on) labChanged(); });
+  slide('spShare', 'share', L.sp, v => t('labSplitShare', {v}), () => L.sp.on);
+  slide('spSpread', 'spread', L.sp, v => t('labSpread', {v}), () => L.sp.on);
+  p.querySelectorAll('[data-top]').forEach(r => { r.oninput = () => { $('#toP' + CSS.escape(r.dataset.top) + 'L') ; const k = r.dataset.top, g = U.find(x => x.key === k); r.parentElement.querySelector('span').textContent = t('labTOParty', {p: g ? g.name : k, v: +r.value}); };
+    r.onchange = () => { L.to.p[r.dataset.top] = +r.value; labChanged(); }; });
+  on('toRegAdd', 'onclick', () => { const r = $('#toReg').value, v = +$('#toRegV').value; if(!r) return; L.to.r[r] = v; labChanged(); });
+  p.querySelectorAll('[data-torm]').forEach(b => b.onclick = () => { delete L.to.r[b.dataset.torm]; labChanged(); });
+  on('penOn', 'onchange', e => { L.pen.on = e.target.checked; labChanged(); });
+  slide('penPts', 'pts', L.pen, v => t('labPenPts', {v: fmt1(v)}), () => L.pen.on);
+  on('labReset', 'onclick', () => { S.lab = null; labChanged(); });
+}
+function renderLabBanner(){
+  const el = $('#scnBanner'), L = S.lab; if(!el || !L || !labActive()) return false;
+  const bits = [];
+  if(L.np && L.np.on) bits.push(t('labBNew', {n: L.np.name || t('labNewName'), v: fmt1(S.labInfo && S.labInfo.np ? S.labInfo.np.got : L.np.share)}));
+  if(L.sp && L.sp.on){ const g = U.find(x => x.key === L.sp.key); bits.push(t('labBSplit', {p: g ? g.name : L.sp.key, v: L.sp.share, n: L.sp.name || t('labFaction')})); }
+  if(labTurnoutOn(L)) bits.push(t('labBTurn'));
+  if(L.pen && L.pen.on) bits.push(t('labBPen', {v: fmt1(L.pen.pts)}));
+  el.hidden = false; el.textContent = t('labBanner', {list: bits.join('; ')}); return true;
+}
 
 
 async function boot(){

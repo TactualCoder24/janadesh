@@ -63,7 +63,7 @@ function renderBanner(){
   const el = $('#scnBanner'); if(!el) return;
   if(renderWhatIfBanner()) return;
   const sc = S.pollScn;
-  if(!sc || sc.set.base !== S.eid || sc.sig !== pollSig()){ el.hidden = true; return; }
+  if(!sc || sc.set.base !== S.eid || sc.sig !== pollSig()){ if(!renderLabBanner()) el.hidden = true; return; }
   const sim = {}; Object.entries(sc.set.units).forEach(([l, u]) => { const ui = U.findIndex(g => g.key === (sc.set.mode === 'alliance' ? 'A:' + u : u)); sim[l] = ui >= 0 ? RES.counts[ui] : 0; });
   el.hidden = false;
   el.innerHTML = esc(t('pollBanner', {by: sc.poll.by, title: stName(sc.set.title), p: seatsText(sc.set, sc.poll.seats), s: seatsText(sc.set, sim), a: actualText(sc.set)})) + ` <a href="${esc(sc.set.source)}" target="_blank" rel="noopener">↗</a>`;
