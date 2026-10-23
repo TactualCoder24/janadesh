@@ -209,7 +209,49 @@ input[type=color]{width:34px;height:26px;border:1px solid var(--line);border-rad
 .loading{display:inline-flex;align-items:center;gap:10px;color:var(--muted);font-size:16px}
 .loading i{width:14px;height:14px;border-radius:50%;border:2px solid var(--violet-soft);border-top-color:var(--violet);animation:spin .8s linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
+/* story mode */
+.story{position:fixed;inset:0;z-index:60;background:rgba(10,8,20,.92);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;padding:10px}
+.story[hidden]{display:none}
+.story-stage{position:relative;height:min(calc(100vh - 70px),calc((100vw - 20px) * 16 / 9));aspect-ratio:9/16;max-width:100%}
+.story canvas{width:100%;height:100%;border-radius:14px;display:block;background:#fff}
+.story-tap{position:absolute;top:60px;bottom:0;left:0;width:34%;cursor:w-resize}
+.story-tap.right{left:34%;width:66%;cursor:e-resize}
+.story-bar{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
+.story-load{color:#fff}
+.storythumbs{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:8px}
+.storythumbs img{width:100%;border:1px solid var(--line);border-radius:8px}
+/* content pages */
+.footlinks{display:flex;flex-wrap:wrap;gap:6px 18px;margin-top:22px;font-size:14px}
+.footlinks a{color:var(--violet);text-decoration:none;font-weight:500}
+.footlinks a:hover{text-decoration:underline}
+.page{max-width:820px}
+.page h2{font-size:clamp(28px,5vw,40px);font-weight:800;margin:10px 0 4px}
+.page h3{font-size:20px;margin:26px 0 6px}
+.page h4{margin:0 0 2px;font-family:var(--display);font-size:16px}
+.page p,.page li{max-width:72ch}
+.page .lede{color:var(--muted)}
+.gl{padding:10px 0;border-bottom:1px solid var(--line)}
+.gl p{margin:2px 0 0}
+.chg{margin:8px 0 14px}
+.chg p{margin:3px 0 0;color:var(--muted)}
+pre.code{background:var(--sunk);border-radius:8px;padding:10px 12px;overflow:auto;font-size:13px}
+.ptimeline{display:flex;flex-wrap:wrap;gap:4px}
+.pbox{min-width:46px;padding:4px 6px;border-radius:6px;color:#fff;text-align:center;font-size:11px;line-height:1.25;text-shadow:0 0 2px rgba(0,0,0,.4)}
+.pbox b{display:block;font-size:12px}
+.ptimeline.mini{flex-wrap:nowrap;gap:2px}
+.ptimeline.mini i{display:block;width:14px;height:14px;border-radius:3px}
+.tbl tr.cur td{background:var(--violet-soft)}
+.evmark{position:absolute;top:-1px;right:0;font-size:10px;line-height:1;background:var(--panel);border-radius:4px;padding:0 2px;cursor:help}
 /* analysis tools */
+.mmgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px 12px}
+.mm{margin:0;min-width:0}
+.mm figcaption{font-family:var(--display);font-size:15px}
+.mm svg{width:100%;height:auto;display:block;background:var(--tint);border-radius:8px}
+.mm p{margin:2px 0 0;font-size:12px}
+.achip{display:inline-block;border-radius:6px;padding:1px 5px;font-size:11px;line-height:1.5;white-space:nowrap}
+.facts{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+.fact{border:1px solid var(--evm-edge);border-left:5px solid var(--violet);border-radius:8px;padding:12px 14px;background:var(--panel);display:flex;flex-direction:column;justify-content:space-between;gap:10px}
+.fact p{margin:0;font-family:var(--display);font-size:16.5px;font-weight:600;line-height:1.35}
 .tbl{width:100%}
 .tbl td,.tbl th{padding:5px 6px}
 .tbl tr.click{cursor:pointer}
@@ -379,6 +421,11 @@ input[type=color]{width:34px;height:26px;border:1px solid var(--line);border-rad
       <button class="scn" data-scn="4"><i style="background:#2EAD4B"></i><span data-i18n="scn4"></span></button>
     </div>
   </section>
+  <section class="sec" id="whatifSec">
+    <h3 data-i18n="wiTitle"></h3>
+    <p class="lede" data-i18n="wiLede"></p>
+    <div class="scns" id="wiGrid"></div>
+  </section>
   <section class="sec" id="pollSec" hidden>
     <h3 data-i18n="pollTitle"></h3>
     <p class="lede" data-i18n="pollLede"></p>
@@ -394,6 +441,7 @@ input[type=color]{width:34px;height:26px;border:1px solid var(--line);border-rad
 
 <!-- APP -->
 <div id="seatview" hidden></div>
+<div id="pageview" hidden></div>
 <div id="app" hidden>
 <div class="dock" id="dock" aria-live="polite"></div>
 <div class="grid">
@@ -411,7 +459,7 @@ input[type=color]{width:34px;height:26px;border:1px solid var(--line);border-rad
   </aside>
   <main class="main">
     <section class="card" id="cardResult" aria-label="Result">
-      <div class="headline"><h2 id="title"></h2><span id="badges"></span><button class="btn small" id="shareBtn" data-i18n="share" style="margin-left:auto"></button></div>
+      <div class="headline"><h2 id="title"></h2><span id="badges"></span><button class="btn small" id="storyBtn" data-i18n="storyBtn" style="margin-left:auto"></button><button class="btn small" id="shareBtn" data-i18n="share"></button></div>
       <div class="verdict" id="verdict"></div>
       <div class="mini" id="scnBanner" hidden style="margin-bottom:10px;font-size:13.5px"></div>
       <div class="chamber">
@@ -462,9 +510,11 @@ input[type=color]{width:34px;height:26px;border:1px solid var(--line);border-rad
   </main>
 </div>
 </div>
+<nav class="footlinks" id="footlinks" aria-label="More"><a href="#/how" data-i18n="footHow"></a><a href="#/glossary" data-i18n="footGlossary"></a><a href="#/boundaries" data-i18n="footBounds"></a><a href="#/tree" data-i18n="footTree"></a><a href="#/data" data-i18n="footData"></a><a href="#/changelog" data-i18n="footChangelog"></a></nav>
 <footer class="footer" data-i18n="footer"></footer>
 </div>
 <div class="tip" id="tip"></div>
+<div class="story" id="story" hidden></div>
 <div class="sheet-scrim" id="sheetScrim"></div>
 <nav class="tabbar" id="tabbar" aria-label="Sections" hidden>
   <button data-pt="result" aria-selected="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 18a8 8 0 0 1 16 0"/><circle cx="7.5" cy="14" r="1"/><circle cx="12" cy="10.5" r="1"/><circle cx="16.5" cy="14" r="1"/></svg><span data-i18n="ptResult"></span></button>
@@ -590,7 +640,7 @@ function mapLegend(){
   const ks = U.map((g,k)=>k).filter(k=>RES.counts[k]>0).sort((a,b)=>RES.counts[b]-RES.counts[a]);
   $('#legend').innerHTML = ks.map(k=>`<span><i class="sw" style="background:${U[k].hex}"></i>${esc(U[k].name)} ${RES.counts[k]}</span>`).join('') +
     (S.shade==='mar' ? `<span class="small">${esc(t('legMar'))}</span>` : S.shade==='flip' ? `<span class="small">${esc(t('legFlip'))}</span>` : '');
-  if(S.shade === 'share' || S.shade === 'swing') $('#legend').innerHTML = shadeLegend();
+  if(S.shade === 'share' || S.shade === 'swing' || S.shade === 'new') $('#legend').innerHTML = shadeLegend();
 }
 async function drawStateMap(el){
   const topo = await mapFor('states');
@@ -880,9 +930,10 @@ function paneEasy(p){
       <button class="btn" data-pre="trend" ${S.next?'':'disabled'} title="${esc(S.next?'':t('trendOnlyFuture'))}">${esc(t('pTrend',{y:S.next?nextYear(ent):'…'}))}</button>
     </div></div>
     ${pollEasyBlock()}
+    ${whatifEasyBlock()}
     <p class="hint">${esc(t('easyMore'))}</p>
   </div>`;
-  pollEasyBind();
+  pollEasyBind(); whatifEasyBind();
   p.querySelectorAll('[data-mode]').forEach(x => x.onclick = () => { S.mode = x.dataset.mode; S.T = {}; S.locks = {}; S.overrides = {}; S.swing = {a:null,b:null,pts:0}; rebuild(); });
   $('#swA').onchange = e => { S.swing.a = e.target.value; if(S.swing.a===S.swing.b) S.swing.b = null; applySwing(); renderPane(); };
   $('#swB').onchange = e => { S.swing.b = e.target.value; if(S.swing.a===S.swing.b) S.swing.a = null; applySwing(); renderPane(); };
@@ -1123,7 +1174,7 @@ function syncPickers(){
 }
 async function load(keepState){
   E = prepare((await bundle(entry().file)).find(e=>e.id===S.eid));
-  if(!keepState){ S.pollScn = null; S.T = {}; S.locks = {}; S.regional = {}; S.reserved = {SC:{},ST:{}}; S.overrides = {}; S.allyEdit = {}; S.sel = null; S.mc = null; S.swing = {a:null,b:null,pts:0}; }
+  if(!keepState){ S.pollScn = null; S.whatIf = null; S.T = {}; S.locks = {}; S.regional = {}; S.reserved = {SC:{},ST:{}}; S.overrides = {}; S.allyEdit = {}; S.sel = null; S.mc = null; S.swing = {a:null,b:null,pts:0}; }
   mapCache = {key:null}; resetZoom();
   buildUnits(); E.names = null; loadNames();
   $('#detail').hidden = true;
@@ -1148,8 +1199,8 @@ async function choose(kind, state, value){
 }
 
 // ---------- views ----------
-function showHome(){ $('#seatview').hidden = true; document.title = 'Janadesh'; if(location.hash.startsWith('#/seat/')) history.replaceState(null, '', location.pathname); $('#home').hidden = false; $('#app').hidden = true; $('#appPick').hidden = true; $('#homeBtn').hidden = true; $('#tabbar').hidden = true; closeSheet(); document.body.classList.remove('inapp'); window.scrollTo(0,0); }
-function showApp(){ $('#seatview').hidden = true; $('#home').hidden = true; $('#app').hidden = false; $('#appPick').hidden = false; $('#homeBtn').hidden = false; $('#tabbar').hidden = false; document.body.classList.add('inapp'); setPTab('result'); window.scrollTo(0,0); }
+function showHome(){ $('#seatview').hidden = true; $('#pageview').hidden = true; document.title = 'Janadesh'; if(location.hash.startsWith('#/seat/')) history.replaceState(null, '', location.pathname); $('#home').hidden = false; $('#app').hidden = true; $('#appPick').hidden = true; $('#homeBtn').hidden = true; $('#tabbar').hidden = true; closeSheet(); document.body.classList.remove('inapp'); window.scrollTo(0,0); }
+function showApp(){ $('#seatview').hidden = true; $('#pageview').hidden = true; $('#home').hidden = true; $('#app').hidden = false; $('#appPick').hidden = false; $('#homeBtn').hidden = false; $('#tabbar').hidden = false; document.body.classList.add('inapp'); setPTab('result'); window.scrollTo(0,0); }
 async function openSim(kind, state, value, preferAlly){ showApp(); $('#title').innerHTML = `<span class="loading"><i></i>${esc(t('loading'))}</span>`; await choose(kind, state, value);
   if(preferAlly && S.mode !== 'alliance' && new Set(Object.values(E.raw.alliances||{})).size >= 2){ S.mode = 'alliance'; rebuild(); } }
 async function runScenario(n){
@@ -1170,7 +1221,7 @@ async function renderHome(){
   const main = groups.filter(g=>g.n>=5), oth = groups.filter(g=>g.n<5).reduce((a,g)=>a+g.n,0);
   const shown = main.concat(oth ? [{k:'OTH', n:oth, c:'#B9BDC4'}] : []);
   drawHemicycle($('#liveHemi'), shown, 543, 272, shown[0].n, t('needed',{n:272}));
-  $('#liveLegend').innerHTML = shown.map(g=>`<span><i class="sw" style="background:${g.c}"></i>${esc(g.k==='OTH'?t('others'):(HI_ALLY[g.k]&&LANG==='hi'?HI_ALLY[g.k]:(g.k.length<8?g.k:pName(g.k))))} <b class="num">${g.n}</b></span>`).join('');
+  $('#liveLegend').innerHTML = shown.map(g=>`<span><i class="sw" style="background:${g.c}"></i>${esc(g.k==='OTH'?t('others'):(HI_ALLY[g.k]&&LANG==='hi'?HI_ALLY[g.k]:(g.k.length<8&&g.k!=='IND'?g.k:pName(g.k))))} <b class="num">${g.n}</b></span>`).join('');
   // future builder
   const fw = $('#futWhere'), prevW = fw.value || 'LS';
   const lat = new Map(); INDEX.elections.forEach(x => { const key = x.kind==='LS' ? 'LS' : x.state; const l = lat.get(key); if(!l || x.year > l.year) lat.set(key, x); });
@@ -1185,7 +1236,7 @@ async function renderHome(){
   $('#stgrid').innerHTML = [...latest.values()].sort((a,b)=>stName(a.state).localeCompare(stName(b.state), LANG==='hi'?'hi':'en')).map(x => {
     const tot = x.top.reduce((a,b)=>a+b[1],0) || 1;
     return `<button class="stbtn" data-st="${esc(x.state)}" data-id="${x.id}"><b>${esc(stName(x.state))}</b><span>${esc(t('lastElection',{y:x.label, n:x.seats}))}</span><span class="bar">${x.top.map(([p,n])=>`<i style="width:${100*n/x.seats}%;background:${pColor(p)}"></i>`).join('')}</span></button>`; }).join('');
-  renderPollHome();
+  renderPollHome(); renderWhatIfHome();
   $('#stgrid').querySelectorAll('.stbtn').forEach(b => b.onclick = () => { S.tab = 'easy'; S.mode = 'party'; openSim('AE', b.dataset.st, 'next:'+b.dataset.id, true); });
 }
 function applyLang(){

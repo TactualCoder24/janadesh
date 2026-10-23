@@ -9,17 +9,20 @@ function shadeUnit(){
   return ui;
 }
 function seatFill(i){
+  if(S.shade === 'new'){ const m = newMaskCache && newMaskCache.key === S.eid ? newMaskCache : null; return m && m.isNew[i] ? '#7B3FBF' : '#E3E4EC'; }
   if(S.shade === 'share') return U[shadeUnit()].hex;
   if(S.shade === 'swing'){ const th = thenShare && thenShare.vals[i]; if(th == null || isNaN(th)) return GREY; return RES.shares[i][shadeUnit()] - th >= 0 ? GREEN : RED; }
   const w = RES.win[i]; return S.shade === 'flip' && w === E.baseWin[i] ? '#E3E4EC' : U[w].hex;
 }
 function seatOpacity(i){
+  if(S.shade === 'new') return 1;
   if(S.shade === 'share') return .1 + .9 * Math.min(1, RES.shares[i][shadeUnit()] / shareMax);
   if(S.shade === 'swing'){ const th = thenShare && thenShare.vals[i]; if(th == null || isNaN(th)) return 1; return .18 + .82 * Math.min(1, Math.abs(RES.shares[i][shadeUnit()] - th) / .15); }
   if(S.shade !== 'mar') return 1; const x = RES.shares[i]; return Math.max(.18, Math.min(1, .2 + (x[RES.win[i]] - x[RES.second[i]]) * 4));
 }
 function seatKey(raw, s){ return (raw.kind === 'LS' && s[3] >= 0 ? (raw.regions[s[3]] || '') + '|' : '') + nameKey(s[1]); }
 async function shadeData(){
+  if(S.shade === 'new'){ await newSeatMask(); }
   if(S.shade === 'share'){ const ui = shadeUnit(); shareMax = Math.max(.25, ...RES.shares.map(x => x[ui])); }
   if(S.shade === 'swing'){
     const list = await histList(), ent = entry(), earlier = list.filter(e => e.year < ent.year || (e.year === ent.year && e.label < ent.label));
@@ -45,6 +48,7 @@ function syncShadeUI(){
   if(S.shade === 'swing' && thenShare){ const c = $('#shCmp'), s2 = thenShare.ids.map(x => x[0]).join(); if(c.dataset.sig !== s2){ c.innerHTML = thenShare.ids.map(([id, lb]) => `<option value="${id}">${esc(lb)}</option>`).join(''); c.dataset.sig = s2; } c.value = S.cmpId; }
 }
 function shadeLegend(){
+  if(S.shade === 'new'){ const m = newMaskCache && newMaskCache.key === S.eid ? newMaskCache : null; return `<span><i class="sw" style="background:#7B3FBF"></i>${esc(m ? t('legNew', {y: m.label}) : t('newFirst'))}</span>`; }
   const ui = shadeUnit(), g = U[ui];
   if(S.shade === 'share') return `<span><i class="sw" style="background:${g.hex}"></i>${esc(t('legShare', {p: g.name, n: Math.round(shareMax * 100)}))}</span>`;
   return `<span class="small">${esc(thenShare ? t('legSwing', {p: g.name, y: thenShare.label}) : t('swingNone'))}</span>`;
@@ -57,7 +61,7 @@ function setShade(v){
 function initShades(){
   const seg = $('#cardMap .maphead .seg');
   [['shWin', 'win'], ['shMar', 'mar'], ['shFlip', 'flip']].forEach(([id, v]) => { const b = $('#' + id); b.dataset.sh = v; });
-  seg.insertAdjacentHTML('beforeend', `<button id="shShare" data-sh="share" aria-pressed="false" data-i18n="shShare"></button><button id="shSwing" data-sh="swing" aria-pressed="false" data-i18n="shSwing"></button>`);
+  seg.insertAdjacentHTML('beforeend', `<button id="shShare" data-sh="share" aria-pressed="false" data-i18n="shShare"></button><button id="shSwing" data-sh="swing" aria-pressed="false" data-i18n="shSwing"></button><button id="shNew" data-sh="new" aria-pressed="false" data-i18n="shNew"></button>`);
   seg.querySelectorAll('button').forEach(b => b.onclick = () => setShade(b.dataset.sh));
   $('#cardMap .maphead').insertAdjacentHTML('afterend', `<div class="tools-row" id="shExtra" hidden><label><span data-i18n="shParty"></span> <select id="shParty" aria-label="Party"></select></label><label id="shCmpWrap" hidden><span data-i18n="shSince"></span> <select id="shCmp" aria-label="Compare with"></select></label></div>`);
   $('#shParty').onchange = e => { S.shadeParty = e.target.value; drawMap(); };

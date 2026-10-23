@@ -209,7 +209,49 @@ input[type=color]{width:34px;height:26px;border:1px solid var(--line);border-rad
 .loading{display:inline-flex;align-items:center;gap:10px;color:var(--muted);font-size:16px}
 .loading i{width:14px;height:14px;border-radius:50%;border:2px solid var(--violet-soft);border-top-color:var(--violet);animation:spin .8s linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
+/* story mode */
+.story{position:fixed;inset:0;z-index:60;background:rgba(10,8,20,.92);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;padding:10px}
+.story[hidden]{display:none}
+.story-stage{position:relative;height:min(calc(100vh - 70px),calc((100vw - 20px) * 16 / 9));aspect-ratio:9/16;max-width:100%}
+.story canvas{width:100%;height:100%;border-radius:14px;display:block;background:#fff}
+.story-tap{position:absolute;top:60px;bottom:0;left:0;width:34%;cursor:w-resize}
+.story-tap.right{left:34%;width:66%;cursor:e-resize}
+.story-bar{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
+.story-load{color:#fff}
+.storythumbs{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:8px}
+.storythumbs img{width:100%;border:1px solid var(--line);border-radius:8px}
+/* content pages */
+.footlinks{display:flex;flex-wrap:wrap;gap:6px 18px;margin-top:22px;font-size:14px}
+.footlinks a{color:var(--violet);text-decoration:none;font-weight:500}
+.footlinks a:hover{text-decoration:underline}
+.page{max-width:820px}
+.page h2{font-size:clamp(28px,5vw,40px);font-weight:800;margin:10px 0 4px}
+.page h3{font-size:20px;margin:26px 0 6px}
+.page h4{margin:0 0 2px;font-family:var(--display);font-size:16px}
+.page p,.page li{max-width:72ch}
+.page .lede{color:var(--muted)}
+.gl{padding:10px 0;border-bottom:1px solid var(--line)}
+.gl p{margin:2px 0 0}
+.chg{margin:8px 0 14px}
+.chg p{margin:3px 0 0;color:var(--muted)}
+pre.code{background:var(--sunk);border-radius:8px;padding:10px 12px;overflow:auto;font-size:13px}
+.ptimeline{display:flex;flex-wrap:wrap;gap:4px}
+.pbox{min-width:46px;padding:4px 6px;border-radius:6px;color:#fff;text-align:center;font-size:11px;line-height:1.25;text-shadow:0 0 2px rgba(0,0,0,.4)}
+.pbox b{display:block;font-size:12px}
+.ptimeline.mini{flex-wrap:nowrap;gap:2px}
+.ptimeline.mini i{display:block;width:14px;height:14px;border-radius:3px}
+.tbl tr.cur td{background:var(--violet-soft)}
+.evmark{position:absolute;top:-1px;right:0;font-size:10px;line-height:1;background:var(--panel);border-radius:4px;padding:0 2px;cursor:help}
 /* analysis tools */
+.mmgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px 12px}
+.mm{margin:0;min-width:0}
+.mm figcaption{font-family:var(--display);font-size:15px}
+.mm svg{width:100%;height:auto;display:block;background:var(--tint);border-radius:8px}
+.mm p{margin:2px 0 0;font-size:12px}
+.achip{display:inline-block;border-radius:6px;padding:1px 5px;font-size:11px;line-height:1.5;white-space:nowrap}
+.facts{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+.fact{border:1px solid var(--evm-edge);border-left:5px solid var(--violet);border-radius:8px;padding:12px 14px;background:var(--panel);display:flex;flex-direction:column;justify-content:space-between;gap:10px}
+.fact p{margin:0;font-family:var(--display);font-size:16.5px;font-weight:600;line-height:1.35}
 .tbl{width:100%}
 .tbl td,.tbl th{padding:5px 6px}
 .tbl tr.click{cursor:pointer}
@@ -379,6 +421,11 @@ input[type=color]{width:34px;height:26px;border:1px solid var(--line);border-rad
       <button class="scn" data-scn="4"><i style="background:#2EAD4B"></i><span data-i18n="scn4"></span></button>
     </div>
   </section>
+  <section class="sec" id="whatifSec">
+    <h3 data-i18n="wiTitle"></h3>
+    <p class="lede" data-i18n="wiLede"></p>
+    <div class="scns" id="wiGrid"></div>
+  </section>
   <section class="sec" id="pollSec" hidden>
     <h3 data-i18n="pollTitle"></h3>
     <p class="lede" data-i18n="pollLede"></p>
@@ -394,6 +441,7 @@ input[type=color]{width:34px;height:26px;border:1px solid var(--line);border-rad
 
 <!-- APP -->
 <div id="seatview" hidden></div>
+<div id="pageview" hidden></div>
 <div id="app" hidden>
 <div class="dock" id="dock" aria-live="polite"></div>
 <div class="grid">
@@ -411,7 +459,7 @@ input[type=color]{width:34px;height:26px;border:1px solid var(--line);border-rad
   </aside>
   <main class="main">
     <section class="card" id="cardResult" aria-label="Result">
-      <div class="headline"><h2 id="title"></h2><span id="badges"></span><button class="btn small" id="shareBtn" data-i18n="share" style="margin-left:auto"></button></div>
+      <div class="headline"><h2 id="title"></h2><span id="badges"></span><button class="btn small" id="storyBtn" data-i18n="storyBtn" style="margin-left:auto"></button><button class="btn small" id="shareBtn" data-i18n="share"></button></div>
       <div class="verdict" id="verdict"></div>
       <div class="mini" id="scnBanner" hidden style="margin-bottom:10px;font-size:13.5px"></div>
       <div class="chamber">
@@ -462,9 +510,11 @@ input[type=color]{width:34px;height:26px;border:1px solid var(--line);border-rad
   </main>
 </div>
 </div>
+<nav class="footlinks" id="footlinks" aria-label="More"><a href="#/how" data-i18n="footHow"></a><a href="#/glossary" data-i18n="footGlossary"></a><a href="#/boundaries" data-i18n="footBounds"></a><a href="#/tree" data-i18n="footTree"></a><a href="#/data" data-i18n="footData"></a><a href="#/changelog" data-i18n="footChangelog"></a></nav>
 <footer class="footer" data-i18n="footer"></footer>
 </div>
 <div class="tip" id="tip"></div>
+<div class="story" id="story" hidden></div>
 <div class="sheet-scrim" id="sheetScrim"></div>
 <nav class="tabbar" id="tabbar" aria-label="Sections" hidden>
   <button data-pt="result" aria-selected="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 18a8 8 0 0 1 16 0"/><circle cx="7.5" cy="14" r="1"/><circle cx="12" cy="10.5" r="1"/><circle cx="16.5" cy="14" r="1"/></svg><span data-i18n="ptResult"></span></button>
@@ -1029,7 +1079,7 @@ function mapLegend(){
   const ks = U.map((g,k)=>k).filter(k=>RES.counts[k]>0).sort((a,b)=>RES.counts[b]-RES.counts[a]);
   $('#legend').innerHTML = ks.map(k=>`<span><i class="sw" style="background:${U[k].hex}"></i>${esc(U[k].name)} ${RES.counts[k]}</span>`).join('') +
     (S.shade==='mar' ? `<span class="small">${esc(t('legMar'))}</span>` : S.shade==='flip' ? `<span class="small">${esc(t('legFlip'))}</span>` : '');
-  if(S.shade === 'share' || S.shade === 'swing') $('#legend').innerHTML = shadeLegend();
+  if(S.shade === 'share' || S.shade === 'swing' || S.shade === 'new') $('#legend').innerHTML = shadeLegend();
 }
 async function drawStateMap(el){
   const topo = await mapFor('states');
@@ -1319,9 +1369,10 @@ function paneEasy(p){
       <button class="btn" data-pre="trend" ${S.next?'':'disabled'} title="${esc(S.next?'':t('trendOnlyFuture'))}">${esc(t('pTrend',{y:S.next?nextYear(ent):'…'}))}</button>
     </div></div>
     ${pollEasyBlock()}
+    ${whatifEasyBlock()}
     <p class="hint">${esc(t('easyMore'))}</p>
   </div>`;
-  pollEasyBind();
+  pollEasyBind(); whatifEasyBind();
   p.querySelectorAll('[data-mode]').forEach(x => x.onclick = () => { S.mode = x.dataset.mode; S.T = {}; S.locks = {}; S.overrides = {}; S.swing = {a:null,b:null,pts:0}; rebuild(); });
   $('#swA').onchange = e => { S.swing.a = e.target.value; if(S.swing.a===S.swing.b) S.swing.b = null; applySwing(); renderPane(); };
   $('#swB').onchange = e => { S.swing.b = e.target.value; if(S.swing.a===S.swing.b) S.swing.a = null; applySwing(); renderPane(); };
@@ -1562,7 +1613,7 @@ function syncPickers(){
 }
 async function load(keepState){
   E = prepare((await bundle(entry().file)).find(e=>e.id===S.eid));
-  if(!keepState){ S.pollScn = null; S.T = {}; S.locks = {}; S.regional = {}; S.reserved = {SC:{},ST:{}}; S.overrides = {}; S.allyEdit = {}; S.sel = null; S.mc = null; S.swing = {a:null,b:null,pts:0}; }
+  if(!keepState){ S.pollScn = null; S.whatIf = null; S.T = {}; S.locks = {}; S.regional = {}; S.reserved = {SC:{},ST:{}}; S.overrides = {}; S.allyEdit = {}; S.sel = null; S.mc = null; S.swing = {a:null,b:null,pts:0}; }
   mapCache = {key:null}; resetZoom();
   buildUnits(); E.names = null; loadNames();
   $('#detail').hidden = true;
@@ -1587,8 +1638,8 @@ async function choose(kind, state, value){
 }
 
 // ---------- views ----------
-function showHome(){ $('#seatview').hidden = true; document.title = 'Janadesh'; if(location.hash.startsWith('#/seat/')) history.replaceState(null, '', location.pathname); $('#home').hidden = false; $('#app').hidden = true; $('#appPick').hidden = true; $('#homeBtn').hidden = true; $('#tabbar').hidden = true; closeSheet(); document.body.classList.remove('inapp'); window.scrollTo(0,0); }
-function showApp(){ $('#seatview').hidden = true; $('#home').hidden = true; $('#app').hidden = false; $('#appPick').hidden = false; $('#homeBtn').hidden = false; $('#tabbar').hidden = false; document.body.classList.add('inapp'); setPTab('result'); window.scrollTo(0,0); }
+function showHome(){ $('#seatview').hidden = true; $('#pageview').hidden = true; document.title = 'Janadesh'; if(location.hash.startsWith('#/seat/')) history.replaceState(null, '', location.pathname); $('#home').hidden = false; $('#app').hidden = true; $('#appPick').hidden = true; $('#homeBtn').hidden = true; $('#tabbar').hidden = true; closeSheet(); document.body.classList.remove('inapp'); window.scrollTo(0,0); }
+function showApp(){ $('#seatview').hidden = true; $('#pageview').hidden = true; $('#home').hidden = true; $('#app').hidden = false; $('#appPick').hidden = false; $('#homeBtn').hidden = false; $('#tabbar').hidden = false; document.body.classList.add('inapp'); setPTab('result'); window.scrollTo(0,0); }
 async function openSim(kind, state, value, preferAlly){ showApp(); $('#title').innerHTML = `<span class="loading"><i></i>${esc(t('loading'))}</span>`; await choose(kind, state, value);
   if(preferAlly && S.mode !== 'alliance' && new Set(Object.values(E.raw.alliances||{})).size >= 2){ S.mode = 'alliance'; rebuild(); } }
 async function runScenario(n){
@@ -1609,7 +1660,7 @@ async function renderHome(){
   const main = groups.filter(g=>g.n>=5), oth = groups.filter(g=>g.n<5).reduce((a,g)=>a+g.n,0);
   const shown = main.concat(oth ? [{k:'OTH', n:oth, c:'#B9BDC4'}] : []);
   drawHemicycle($('#liveHemi'), shown, 543, 272, shown[0].n, t('needed',{n:272}));
-  $('#liveLegend').innerHTML = shown.map(g=>`<span><i class="sw" style="background:${g.c}"></i>${esc(g.k==='OTH'?t('others'):(HI_ALLY[g.k]&&LANG==='hi'?HI_ALLY[g.k]:(g.k.length<8?g.k:pName(g.k))))} <b class="num">${g.n}</b></span>`).join('');
+  $('#liveLegend').innerHTML = shown.map(g=>`<span><i class="sw" style="background:${g.c}"></i>${esc(g.k==='OTH'?t('others'):(HI_ALLY[g.k]&&LANG==='hi'?HI_ALLY[g.k]:(g.k.length<8&&g.k!=='IND'?g.k:pName(g.k))))} <b class="num">${g.n}</b></span>`).join('');
   // future builder
   const fw = $('#futWhere'), prevW = fw.value || 'LS';
   const lat = new Map(); INDEX.elections.forEach(x => { const key = x.kind==='LS' ? 'LS' : x.state; const l = lat.get(key); if(!l || x.year > l.year) lat.set(key, x); });
@@ -1624,7 +1675,7 @@ async function renderHome(){
   $('#stgrid').innerHTML = [...latest.values()].sort((a,b)=>stName(a.state).localeCompare(stName(b.state), LANG==='hi'?'hi':'en')).map(x => {
     const tot = x.top.reduce((a,b)=>a+b[1],0) || 1;
     return `<button class="stbtn" data-st="${esc(x.state)}" data-id="${x.id}"><b>${esc(stName(x.state))}</b><span>${esc(t('lastElection',{y:x.label, n:x.seats}))}</span><span class="bar">${x.top.map(([p,n])=>`<i style="width:${100*n/x.seats}%;background:${pColor(p)}"></i>`).join('')}</span></button>`; }).join('');
-  renderPollHome();
+  renderPollHome(); renderWhatIfHome();
   $('#stgrid').querySelectorAll('.stbtn').forEach(b => b.onclick = () => { S.tab = 'easy'; S.mode = 'party'; openSim('AE', b.dataset.st, 'next:'+b.dataset.id, true); });
 }
 function applyLang(){
@@ -1636,7 +1687,7 @@ function applyLang(){
 }
 
 
-// ======== feature: 05-analytics.js ========
+// ======== feature: 005-analytics.js ========
 // Simple analytics: Vercel Web Analytics (cookie-free, no personal data). Loads only on Vercel-hosted domains.
 // Turn it on once under the project's Analytics tab on vercel.com. Custom events (feature usage) need a plan that includes them; page views work on all plans.
 const ANALYTICS = /\.vercel\.app$/.test(location.hostname) || /(^|\.)janadesh\./.test(location.hostname);
@@ -1652,7 +1703,7 @@ runMC = withTrack(runMC, 'monte_carlo');
 makeImage = withTrack(makeImage, 'share_image');
 
 
-// ======== feature: 10-mobile.js ========
+// ======== feature: 010-mobile.js ========
 // Phone layout: tab bar (Result / Map / Controls / Seats), compact tally on top, controls in a pull-up sheet, swipe between tabs.
 addI18n('en', {
   ptResult: 'Result', ptMap: 'Map', ptControls: 'Controls', ptSeats: 'Seats',
@@ -1707,7 +1758,7 @@ function renderDock(order, maj){
 })();
 
 
-// ======== feature: 11-mapzoom.js ========
+// ======== feature: 011-mapzoom.js ========
 // Pinch / drag / button zoom for the seat map.
 const MZ = {k:1, x:0, y:0, max:10};
 function mzBox(){ return $('#mapz').getBoundingClientRect(); }
@@ -1757,7 +1808,7 @@ function zoomToSeat(i){
 })();
 
 
-// ======== feature: 20-report.js ========
+// ======== feature: 020-report.js ========
 // Report wrong data: a prefilled GitHub issue for the open seat.
 addI18n('en', {reportData: 'Report wrong data', reportHint: 'Spotted a mistake in this seat? It opens a prefilled issue on GitHub.'});
 addI18n('hi', {reportData: 'गलत आँकड़ा बताएँ', reportHint: 'इस सीट में कोई गलती दिखी? यह GitHub पर पहले से भरा हुआ इश्यू खोलता है।'});
@@ -1773,7 +1824,7 @@ function reportLink(i){
 }
 
 
-// ======== feature: 30-share.js ========
+// ======== feature: 030-share.js ========
 // Share: link to the exact scenario, image (map + tally), WhatsApp text, Twitter thread. Other features add entries to SHARE_ACTIONS.
 addI18n('en', {
   share: 'Share', shareTitle: 'Share this scenario', shareHint: 'The link opens exactly what you see: the election, swings, alliances and seat overrides.',
@@ -1951,7 +2002,7 @@ function openShare(){
 $('#shareBtn').onclick = openShare;
 
 
-// ======== feature: 40-tools.js ========
+// ======== feature: 040-tools.js ========
 // Analysis card: a registry of small tools that read the open election and the current simulation.
 addI18n('en', {toolsTitle: 'Analysis', toolsAll: 'All seats', toolsNoData: 'Not enough data for this view.', thSeatN: 'Seat', thLeadPts: 'Lead', thNeeds: 'Swing needed', thGap: 'Gap', thWon: 'Won', thRun: 'Runner-up'});
 addI18n('hi', {toolsTitle: 'विश्लेषण', toolsAll: 'सभी सीटें', toolsNoData: 'इस दृश्य के लिए पर्याप्त आँकड़े नहीं हैं।', thSeatN: 'सीट', thLeadPts: 'बढ़त', thNeeds: 'ज़रूरी स्विंग', thGap: 'अंतर', thWon: 'विजेता', thRun: 'उपविजेता'});
@@ -1961,7 +2012,7 @@ let toolTimer = null, toolKeyShown = null, toolRun = 0;
 function curTool(){ return TOOLS.find(x => x.id === S.tool) || TOOLS[0]; }
 function toolsSetup(){
   const sel = $('#toolSel'); if(!sel) return;
-  S.tool = store.get('tool', 'flip');
+  S.tool = store.get('tool', 'facts');
   sel.innerHTML = TOOLS.map(x => `<option value="${x.id}">${esc(t(x.label))}</option>`).join('');
   sel.value = curTool() ? curTool().id : '';
   sel.onchange = () => { S.tool = sel.value; store.set('tool', S.tool); toolKeyShown = null; toolsTouch(true); };
@@ -2024,7 +2075,100 @@ registerTool({id: 'flip', label: 'toolFlip', sub: 'flipSub', live: true, key: si
 }});
 
 
-// ======== feature: 50-analysis.js ========
+// ======== feature: 041-facts.js ========
+// "Did you know" cards (#18): facts generated from the real result of the open election. makeFacts() is also used by Story mode.
+addI18n('en', {
+  toolFacts: 'Did you know?', factsSub: 'Facts picked out of the real result of this election. Tap a card to see the seat; share the ones you like.', factSee: 'Show seat', factShare: 'Share', factCopied: 'Fact copied',
+  fxClose: '{seat} was decided by just {n} votes: {w} beat {r}.', fxBig: '{seat} had the biggest margin: {w} won by {n} votes.', fxUnder1k: '{n} seats were decided by fewer than 1,000 votes.',
+  fxLowShare: '{seat} was won with only {x}% of the votes, the lowest winning share: {w}.', fxHighShare: '{w} won {seat} with {x}% of the votes, the highest winning share.',
+  fxSeatsVotes: '{p} won {s}% of the seats with {v}% of the votes.', fxVotesNoSeats: '{p} got {v}% of the votes but won only {n} seats.', fxRunner: '{p} finished second in {n} seats but won only {m}.',
+  fxSweep: '{p} won all {n} seats in {r}.', fxInd: '{n} independents won seats.', fxOne: '{n} parties won exactly one seat.', fxTight: 'In {n} seats the top two were within one point of each other.',
+  fxGain: '{p} gained the most vote share since {y}: +{x} points.', fxLoss: '{p} lost the most vote share since {y}: {x} points.', fxSeatGain: '{p} gained the most seats since {y}: {a} → {b}.',
+  fxWomen: '{n} women won seats ({x}% of seats).', fxUnopp: '{seat} was won unopposed by {w}.', fxRes: 'Of {n} seats reserved for {c}, {p} won {m}.', fxPartyRes: '{p} won {m} of the {n} {c} seats.',
+  factWho: '{name} ({party})',
+});
+addI18n('hi', {
+  toolFacts: 'क्या आप जानते हैं?', factsSub: 'इस चुनाव के असली नतीजे से चुने गए तथ्य। सीट देखने के लिए कार्ड पर टैप करें; जो पसंद आए उसे शेयर करें।', factSee: 'सीट देखें', factShare: 'शेयर करें', factCopied: 'तथ्य कॉपी हो गया',
+  fxClose: '{seat} सिर्फ़ {n} वोट से तय हुई: {w} ने {r} को हराया।', fxBig: 'सबसे बड़ा अंतर {seat} में रहा: {w} {n} वोट से जीते।', fxUnder1k: '{n} सीटें 1,000 से कम वोट के अंतर से तय हुईं।',
+  fxLowShare: '{seat} सिर्फ़ {x}% वोट से जीती गई, सबसे कम जीत का हिस्सा: {w}।', fxHighShare: '{w} ने {seat} {x}% वोट से जीती, जीत का सबसे ऊँचा हिस्सा।',
+  fxSeatsVotes: '{p} ने {v}% वोट पर {s}% सीटें जीतीं।', fxVotesNoSeats: '{p} को {v}% वोट मिले पर सिर्फ़ {n} सीटें मिलीं।', fxRunner: '{p} {n} सीटों पर दूसरे नंबर पर रहा पर जीता सिर्फ़ {m}।',
+  fxSweep: '{p} ने {r} की सभी {n} सीटें जीतीं।', fxInd: '{n} निर्दलीय जीते।', fxOne: '{n} दलों ने ठीक एक सीट जीती।', fxTight: '{n} सीटों पर पहले दो दलों में एक अंक से भी कम का फ़र्क़ रहा।',
+  fxGain: '{y} के बाद {p} का वोट हिस्सा सबसे ज़्यादा बढ़ा: +{x} अंक।', fxLoss: '{y} के बाद {p} का वोट हिस्सा सबसे ज़्यादा घटा: {x} अंक।', fxSeatGain: '{y} के बाद {p} की सीटें सबसे ज़्यादा बढ़ीं: {a} → {b}।',
+  fxWomen: '{n} महिलाएँ जीतीं (सीटों का {x}%)।', fxUnopp: '{seat} सीट {w} ने निर्विरोध जीती।', fxRes: '{c} के लिए आरक्षित {n} सीटों में से {p} ने {m} जीतीं।', fxPartyRes: '{p} ने {n} {c} सीटों में से {m} जीतीं।',
+  factWho: '{name} ({party})',
+});
+function seatPlace(i){ const s = E.seats[i]; return s.name + (S.kind === 'LS' && s.r >= 0 ? ', ' + stName(E.regions[s.r]) : ''); }
+function whoAt(i, which, code){ const n = E.names && E.names[i] && E.names[i][which]; return n ? t('factWho', {name: n, party: pName(code)}) : pName(code); }
+async function makeFacts(){
+  await namesFor(entry().file).then(n => { E.names = (n && n[S.eid]) || E.names || null; });
+  const e = E.raw, ent = entry(), P = e.parties, F = [], N = E.N, seats = E.seats;
+  const top2 = seats.map((s, i) => { const a = []; for(let k = 0; k < E.P - 1; k++) if(s.v[k] > 0) a.push([k, s.v[k]]); a.sort((x, y) => y[1] - x[1]); return a; });
+  const win = i => top2[i][0] && P[top2[i][0][0]];
+  const gaps = seats.map((s, i) => ({i, m: top2[i].length > 1 ? top2[i][0][1] - top2[i][1][1] : -1, tot: s.tot})).filter(o => o.m >= 0 && o.tot > 0);
+  const add = (id, w, text, seat) => F.push({id, w, text, seat});
+  // closest and biggest
+  const cl = gaps.slice().sort((a, b) => a.m - b.m)[0];
+  if(cl) add('close', 10, t('fxClose', {seat: seatPlace(cl.i), n: fmtN(cl.m), w: whoAt(cl.i, 0, win(cl.i)), r: whoAt(cl.i, 1, P[top2[cl.i][1][0]])}), cl.i);
+  const bg = gaps.slice().sort((a, b) => b.m - a.m)[0];
+  if(bg && bg.m > 0) add('big', 7, t('fxBig', {seat: seatPlace(bg.i), n: fmtN(bg.m), w: whoAt(bg.i, 0, win(bg.i))}), bg.i);
+  const u1k = gaps.filter(o => o.m < 1000).length; if(u1k >= 2) add('u1k', 8, t('fxUnder1k', {n: u1k}));
+  const sh = gaps.map(o => ({i: o.i, x: 100 * top2[o.i][0][1] / o.tot})).sort((a, b) => a.x - b.x);
+  if(sh.length){ add('low', 6, t('fxLowShare', {seat: seatPlace(sh[0].i), x: fmt1(sh[0].x), w: whoAt(sh[0].i, 0, win(sh[0].i))}), sh[0].i); const hi = sh[sh.length - 1]; add('high', 5, t('fxHighShare', {seat: seatPlace(hi.i), x: fmt1(hi.x), w: whoAt(hi.i, 0, win(hi.i))}), hi.i); }
+  const tight = gaps.filter(o => 100 * o.m / o.tot < 1).length; if(tight >= 3) add('tight', 4, t('fxTight', {n: tight}));
+  const unopp = seats.map((s, i) => i).filter(i => seats[i].tot <= 0 && e.seats[i][4].length);
+  unopp.slice(0, 2).forEach(i => add('unopp', 9, t('fxUnopp', {seat: seatPlace(i), w: whoAt(i, 0, P[e.seats[i][4][0]])}), i));
+  // parties
+  const won = new Map(), second = new Map(), votes = new Map(); let tv = 0;
+  seats.forEach((s, i) => { const m = s.m; if(top2[i][0]) won.set(top2[i][0][0], (won.get(top2[i][0][0]) || 0) + m); if(top2[i][1]) second.set(top2[i][1][0], (second.get(top2[i][1][0]) || 0) + 1);
+    for(let k = 0; k < E.P - 1; k++){ votes.set(k, (votes.get(k) || 0) + s.v[k]); } tv += s.tot; });
+  const real = k => !SKIP_P.has(P[k]);
+  const stat = [...votes.keys()].filter(real).map(k => ({k, v: 100 * votes.get(k) / tv, s: 100 * (won.get(k) || 0) / N, n: won.get(k) || 0, sec: second.get(k) || 0})).filter(o => o.v >= 3);
+  const bonus = stat.slice().sort((a, b) => (b.s - b.v) - (a.s - a.v))[0];
+  if(bonus && bonus.s - bonus.v > 4) add('bonus', 9, t('fxSeatsVotes', {p: pName(P[bonus.k]), s: fmt1(bonus.s), v: fmt1(bonus.v)}));
+  const unlucky = stat.slice().sort((a, b) => (a.s - a.v) - (b.s - b.v))[0];
+  if(unlucky && unlucky.v - unlucky.s > 3 && unlucky.k !== (bonus && bonus.k)) add('unlucky', 8, t('fxVotesNoSeats', {p: pName(P[unlucky.k]), v: fmt1(unlucky.v), n: unlucky.n}));
+  const rn = stat.slice().sort((a, b) => b.sec - a.sec).find(o => o.sec >= 8 && o.sec > 2 * o.n);
+  if(rn) add('runner', 6, t('fxRunner', {p: pName(P[rn.k]), n: rn.sec, m: rn.n}));
+  const ind = seats.filter((s, i) => P[(top2[i][0] || [0])[0]] === 'IND').length; if(ind) add('ind', 3, t('fxInd', {n: ind}));
+  const ones = [...won.entries()].filter(([k, n]) => n === 1 && real(k)).length; if(ones >= 3) add('one', 3, t('fxOne', {n: ones}));
+  // sweeps by region
+  if(E.regions.length){
+    const per = E.regions.map(() => ({n: 0, c: new Map()}));
+    seats.forEach((s, i) => { if(s.r < 0 || !top2[i][0]) return; const a = per[s.r]; a.n++; const k = top2[i][0][0]; a.c.set(k, (a.c.get(k) || 0) + 1); });
+    const sw = per.map((a, r) => ({r, n: a.n, top: [...a.c.entries()].sort((x, y) => y[1] - x[1])[0]})).filter(o => o.n >= 4 && o.top && o.top[1] === o.n && real(o.top[0])).sort((a, b) => b.n - a.n)[0];
+    if(sw) add('sweep', 7, t('fxSweep', {p: pName(P[sw.top[0]]), n: sw.n, r: stName(E.regions[sw.r])}));
+  }
+  // reserved seats
+  ['SC', 'ST'].forEach(c => { const idx = seats.map((s, i) => i).filter(i => seats[i].cat === c); if(idx.length >= 10){ const cnt = new Map(); idx.forEach(i => { const k = top2[i][0] && top2[i][0][0]; if(k != null) cnt.set(k, (cnt.get(k) || 0) + 1); });
+    const best = [...cnt.entries()].sort((a, b) => b[1] - a[1])[0]; if(best) add('res' + c, 4, t('fxRes', {n: idx.length, c, p: pName(P[best[0]]), m: best[1]})); } });
+  // women (only where most seats have a recorded sex)
+  if(E.names){ let known = 0, w = 0; E.names.forEach(r => { if(r && r[2]){ known++; if(r[2] === 'F') w++; } }); if(known > 0.7 * N && w) add('women', 8, t('fxWomen', {n: w, x: fmt1(100 * w / known)})); }
+  // versus the previous election
+  try{
+    const list = await history(), idx = list.findIndex(x => x.id === ent.id);
+    if(idx > 0){ const pv = list[idx - 1], cnt = {}, vs = {}; let pt = 0;
+      pv.seats.forEach(s => { if(s[4].length){ const p = pv.parties[s[4][0]]; cnt[p] = (cnt[p] || 0) + (s[6] || 1); } for(let k = 0; k < s[4].length; k += 2){ const p = pv.parties[s[4][k]]; vs[p] = (vs[p] || 0) + s[4][k + 1]; pt += s[4][k + 1]; } pt += s[5] || 0; });
+      const diffs = stat.map(o => { const c = P[o.k]; return {c, dv: o.v - 100 * (vs[c] || 0) / pt, ds: o.n - (cnt[c] || 0), a: cnt[c] || 0, b: o.n}; }).filter(o => vs[o.c] > 0);
+      const g = diffs.slice().sort((a, b) => b.dv - a.dv)[0], l = diffs.slice().sort((a, b) => a.dv - b.dv)[0], sg = diffs.slice().sort((a, b) => b.ds - a.ds)[0];
+      if(g && g.dv > 1.5) add('gain', 8, t('fxGain', {p: pName(g.c), y: pv.label, x: fmt1(g.dv)}));
+      if(l && l.dv < -1.5) add('loss', 7, t('fxLoss', {p: pName(l.c), y: pv.label, x: fmt1(l.dv)}));
+      if(sg && sg.ds >= 3) add('sgain', 8, t('fxSeatGain', {p: pName(sg.c), y: pv.label, a: sg.a, b: sg.b}));
+    }
+  }catch(err){ console.error(err); }
+  return F.sort((a, b) => b.w - a.w);
+}
+registerTool({id: 'facts', label: 'toolFacts', sub: 'factsSub', async render(body, stale){
+  const F = await makeFacts(); if(stale()) return;
+  const ent = entry();
+  body.innerHTML = `<div class="facts">${F.map((f, i) => `<div class="fact"><p>${esc(f.text)}</p><div class="row">${f.seat != null ? `<button class="btn small" data-see="${i}">${esc(t('factSee'))}</button>` : ''}<button class="btn small" data-fs="${i}">${esc(t('factShare'))}</button></div></div>`).join('')}</div>`;
+  body.querySelectorAll('[data-see]').forEach(b => b.onclick = () => selectSeat(F[+b.dataset.see].seat));
+  body.querySelectorAll('[data-fs]').forEach(b => b.onclick = () => { const f = F[+b.dataset.fs], txt = `${f.text}\n— ${$('#title').textContent} · Janadesh`, url = location.origin + location.pathname;
+    if(navigator.share) navigator.share({text: txt, url}).catch(() => {}); else copy(txt + '\n' + url, t('factCopied')); });
+}});
+TOOLS.unshift(TOOLS.pop());
+
+
+// ======== feature: 050-analysis.js ========
 // Phase 2 analysis tools. They use the real results of the open election's state or Lok Sabha history (not the simulation), except where noted.
 addI18n('en', {
   thYear: 'Year', thMargin: 'Margin', thMarginPct: 'Margin %', thSeatsN: 'Seats', thContested: 'Contested', thStrike: 'Strike rate', thAvgShare: 'Avg vote where contested', thFights: 'Fights', thLost: 'Deposits lost', thLostPct: 'Lost %',
@@ -2221,7 +2365,7 @@ registerTool({id: 'compare', label: 'cmpTitle', sub: 'cmpSub', async render(body
 }});
 
 
-// ======== feature: 55-coalition.js ========
+// ======== feature: 055-coalition.js ========
 // Coalition builder (#11): group parties (drag them, or tap) and see whether they reach the majority mark.
 addI18n('en', {
   toolCoal: 'Coalition builder', coalSub: 'Drag parties into the government bloc (or tap them) and see whether the seats reach the majority mark. Uses the seats in the current scenario.',
@@ -2272,7 +2416,7 @@ registerTool({id: 'coalition', label: 'toolCoal', sub: 'coalSub', live: true, ke
 }});
 
 
-// ======== feature: 60-mapmodes.js ========
+// ======== feature: 060-mapmodes.js ========
 // Extra map shadings: one party's vote share (stronghold map, #15) and its swing since an earlier election (swing map, #10).
 addI18n('en', {shShare: 'Party share', shSwing: 'Swing since', shParty: 'Party', shSince: 'Since', legShare: 'Darker = higher vote share for {p} (top seat {n}%)', legSwing: 'Green: {p} vote share up. Red: down. Compared with {y}. Grey: seat not matched.', swingNone: 'No earlier election to compare with.'});
 addI18n('hi', {shShare: 'दल का हिस्सा', shSwing: 'स्विंग', shParty: 'दल', shSince: 'से', legShare: 'गहरा = {p} का वोट हिस्सा ज़्यादा (सबसे ऊँची सीट {n}%)', legSwing: 'हरा: {p} का वोट हिस्सा बढ़ा। लाल: घटा। {y} की तुलना में। स्लेटी: सीट मेल नहीं खाई।', swingNone: 'तुलना के लिए कोई पहले का चुनाव नहीं है।'});
@@ -2284,17 +2428,20 @@ function shadeUnit(){
   return ui;
 }
 function seatFill(i){
+  if(S.shade === 'new'){ const m = newMaskCache && newMaskCache.key === S.eid ? newMaskCache : null; return m && m.isNew[i] ? '#7B3FBF' : '#E3E4EC'; }
   if(S.shade === 'share') return U[shadeUnit()].hex;
   if(S.shade === 'swing'){ const th = thenShare && thenShare.vals[i]; if(th == null || isNaN(th)) return GREY; return RES.shares[i][shadeUnit()] - th >= 0 ? GREEN : RED; }
   const w = RES.win[i]; return S.shade === 'flip' && w === E.baseWin[i] ? '#E3E4EC' : U[w].hex;
 }
 function seatOpacity(i){
+  if(S.shade === 'new') return 1;
   if(S.shade === 'share') return .1 + .9 * Math.min(1, RES.shares[i][shadeUnit()] / shareMax);
   if(S.shade === 'swing'){ const th = thenShare && thenShare.vals[i]; if(th == null || isNaN(th)) return 1; return .18 + .82 * Math.min(1, Math.abs(RES.shares[i][shadeUnit()] - th) / .15); }
   if(S.shade !== 'mar') return 1; const x = RES.shares[i]; return Math.max(.18, Math.min(1, .2 + (x[RES.win[i]] - x[RES.second[i]]) * 4));
 }
 function seatKey(raw, s){ return (raw.kind === 'LS' && s[3] >= 0 ? (raw.regions[s[3]] || '') + '|' : '') + nameKey(s[1]); }
 async function shadeData(){
+  if(S.shade === 'new'){ await newSeatMask(); }
   if(S.shade === 'share'){ const ui = shadeUnit(); shareMax = Math.max(.25, ...RES.shares.map(x => x[ui])); }
   if(S.shade === 'swing'){
     const list = await histList(), ent = entry(), earlier = list.filter(e => e.year < ent.year || (e.year === ent.year && e.label < ent.label));
@@ -2320,6 +2467,7 @@ function syncShadeUI(){
   if(S.shade === 'swing' && thenShare){ const c = $('#shCmp'), s2 = thenShare.ids.map(x => x[0]).join(); if(c.dataset.sig !== s2){ c.innerHTML = thenShare.ids.map(([id, lb]) => `<option value="${id}">${esc(lb)}</option>`).join(''); c.dataset.sig = s2; } c.value = S.cmpId; }
 }
 function shadeLegend(){
+  if(S.shade === 'new'){ const m = newMaskCache && newMaskCache.key === S.eid ? newMaskCache : null; return `<span><i class="sw" style="background:#7B3FBF"></i>${esc(m ? t('legNew', {y: m.label}) : t('newFirst'))}</span>`; }
   const ui = shadeUnit(), g = U[ui];
   if(S.shade === 'share') return `<span><i class="sw" style="background:${g.hex}"></i>${esc(t('legShare', {p: g.name, n: Math.round(shareMax * 100)}))}</span>`;
   return `<span class="small">${esc(thenShare ? t('legSwing', {p: g.name, y: thenShare.label}) : t('swingNone'))}</span>`;
@@ -2332,7 +2480,7 @@ function setShade(v){
 function initShades(){
   const seg = $('#cardMap .maphead .seg');
   [['shWin', 'win'], ['shMar', 'mar'], ['shFlip', 'flip']].forEach(([id, v]) => { const b = $('#' + id); b.dataset.sh = v; });
-  seg.insertAdjacentHTML('beforeend', `<button id="shShare" data-sh="share" aria-pressed="false" data-i18n="shShare"></button><button id="shSwing" data-sh="swing" aria-pressed="false" data-i18n="shSwing"></button>`);
+  seg.insertAdjacentHTML('beforeend', `<button id="shShare" data-sh="share" aria-pressed="false" data-i18n="shShare"></button><button id="shSwing" data-sh="swing" aria-pressed="false" data-i18n="shSwing"></button><button id="shNew" data-sh="new" aria-pressed="false" data-i18n="shNew"></button>`);
   seg.querySelectorAll('button').forEach(b => b.onclick = () => setShade(b.dataset.sh));
   $('#cardMap .maphead').insertAdjacentHTML('afterend', `<div class="tools-row" id="shExtra" hidden><label><span data-i18n="shParty"></span> <select id="shParty" aria-label="Party"></select></label><label id="shCmpWrap" hidden><span data-i18n="shSince"></span> <select id="shCmp" aria-label="Compare with"></select></label></div>`);
   $('#shParty').onchange = e => { S.shadeParty = e.target.value; drawMap(); };
@@ -2341,7 +2489,7 @@ function initShades(){
 }
 
 
-// ======== feature: 70-search.js ========
+// ======== feature: 070-search.js ========
 // Search any constituency (or MP / MLA by name) and open its history page: #/seat/<ls|ae>/<state>/<seat>.
 addI18n('en', {
   search: 'Search', searchTitle: 'Find a constituency or MP / MLA', searchPh: 'Seat or member name, e.g. Varanasi or Shalimar Bagh', searchNone: 'No match. Try the first few letters of the seat name.', searchLoading: 'Loading the index…',
@@ -2388,7 +2536,7 @@ function openSearch(initial){
   let tm; inp.oninput = () => { clearTimeout(tm); tm = setTimeout(paint, 90); };
   if(initial) paint();
 }
-function showSeatView(){ $('#home').hidden = true; $('#app').hidden = true; $('#appPick').hidden = true; $('#tabbar').hidden = true; closeSheet(); $('#homeBtn').hidden = false; $('#seatview').hidden = false; document.body.classList.remove('inapp'); window.scrollTo(0, 0); }
+function showSeatView(){ $('#pageview').hidden = true; $('#home').hidden = true; $('#app').hidden = true; $('#appPick').hidden = true; $('#tabbar').hidden = true; closeSheet(); $('#homeBtn').hidden = false; $('#seatview').hidden = false; document.body.classList.remove('inapp'); window.scrollTo(0, 0); }
 async function openSeatPage(kind, stateSlug, seatSlug){
   showSeatView();
   const box = $('#seatview'); box.innerHTML = `<span class="loading"><i></i>${esc(t('loading'))}</span>`;
@@ -2422,6 +2570,7 @@ async function openSeatPage(kind, stateSlug, seatSlug){
   const cand = (e, nm, i, p) => { const n = nm ? nm[i] : null; return `<div>${n ? `<b>${esc(n)}</b>` : ''}<div class="small">${p ? `<span class="pname"><i class="sw" style="background:${pColor(p)}"></i><span>${esc(pName(p))}</span></span>` : ''}</div></div>`; };
   box.innerHTML = `<div class="row" style="margin:6px 0 10px"><button class="btn small" id="sbk">← ${esc(t('seatBack'))}</button></div>
     <div class="headline"><h2 style="font-size:34px">${esc(it[0])}</h2><span class="tag">${esc(t(kind === 'ls' ? 'lokSabhaSeat' : 'assemblySeat'))}</span><span class="tag">${esc(stName(it[1]))}</span>${cat !== 'GEN' ? `<span class="tag">${esc(t('seatCat', {c: cat}))}</span>` : ''}</div>
+    ${rows.length && rows[rows.length - 1].e.label !== list[0].label ? `<p class="small" style="margin:6px 0 0">${esc(t('seatNewSince', {y: rows[rows.length - 1].e.label}))}</p>` : ''}
     <div class="row" style="margin:8px 0 14px"><button class="btn primary" id="sSim">${esc(t('seatSim', {w: t(kind === 'ls' ? 'lokSabhaSeat' : 'assemblySeat')}))}</button><button class="btn" id="sLink">${esc(t('seatShareLink'))}</button></div>
     ${rows.length > 1 ? `<section class="card"><h3 style="font-size:17px">${esc(t('seatShare'))}</h3><div class="tw"><svg viewBox="0 0 ${W} ${H}" style="min-width:520px" role="img" aria-label="${esc(t('seatShare'))}">${g}</svg></div></section>` : ''}
     <section class="card"><h3 style="font-size:17px">${esc(t('seatHistory'))}</h3><div class="tw"><table class="tbl"><thead><tr><th>${esc(t('thYear'))}</th><th style="text-align:left">${esc(t('thWinnerN'))}</th><th>${esc(t('thVotesN'))}</th><th>${esc(t('thMargin'))}</th><th style="text-align:left">${esc(t('thRunnerN'))}</th></tr></thead><tbody>
@@ -2434,10 +2583,12 @@ async function openSeatPage(kind, stateSlug, seatSlug){
   document.title = `${it[0]} (${t(kind === 'ls' ? 'lokSabhaSeat' : 'assemblySeat')}, ${stName(it[1])}) | Janadesh`;
 }
 async function route(){
-  const h = location.hash, m = h.match(/^#\/seat\/(ls|ae)\/([^/]+)\/([^/]+)$/);
+  const h = location.hash;
+  if(await routePages(h)) return;
+  const m = h.match(/^#\/seat\/(ls|ae)\/([^/]+)\/([^/]+)$/);
   if(m){ await openSeatPage(m[1], m[2], m[3]); return; }
   document.title = 'Janadesh';
-  if(!$('#seatview').hidden){ $('#seatview').hidden = true; showHome(); }
+  if(!$('#seatview').hidden || !$('#pageview').hidden){ $('#seatview').hidden = true; $('#pageview').hidden = true; showHome(); }
 }
 window.addEventListener('hashchange', () => { if(INDEX) route(); });
 
@@ -2455,7 +2606,7 @@ function nameLines(i){
 }
 
 
-// ======== feature: 80-polls.js ========
+// ======== feature: 080-polls.js ========
 // Poll presets: what the exit polls projected, loaded as ready-made scenarios. Seat projections come from the cited Wikipedia exit-poll tables.
 addI18n('en', {
   pollTitle: 'What the exit polls said', pollLede: 'Load a published exit poll as a scenario and see what vote shares it needs, then compare with the real result.',
@@ -2519,6 +2670,7 @@ async function applyPoll(set, poll){
 const pollSig = () => JSON.stringify(Object.entries(S.T).map(([k, v]) => [k, Math.round(v * 10) / 10]));
 function renderBanner(){
   const el = $('#scnBanner'); if(!el) return;
+  if(renderWhatIfBanner()) return;
   const sc = S.pollScn;
   if(!sc || sc.set.base !== S.eid || sc.sig !== pollSig()){ el.hidden = true; return; }
   const sim = {}; Object.entries(sc.set.units).forEach(([l, u]) => { const ui = U.findIndex(g => g.key === (sc.set.mode === 'alliance' ? 'A:' + u : u)); sim[l] = ui >= 0 ? RES.counts[ui] : 0; });
@@ -2531,6 +2683,865 @@ function pollEasyBlock(){
   return `<div><h3>${esc(t('pollEasy', {title: stName(set.title)}))}</h3><p class="hint">${esc(t('pollEasyHint'))}</p><button class="btn" id="pollOpen">${esc(t('pollApply'))} …</button></div>`;
 }
 function pollEasyBind(){ const b = $('#pollOpen'); if(b) b.onclick = () => openPolls(POLLS.sets.find(s => s.base === S.eid)); }
+
+
+// ======== feature: 090-pages.js ========
+// Content pages: #/how (how it works), #/glossary, #/changelog, #/data (open data). Other features add pages with PAGES.set(name, async render).
+addI18n('en', {
+  footHow: 'How it works', footGlossary: 'Glossary', footChangelog: 'Changelog', footData: 'Open data', footTree: 'Party family tree', footBack: 'Back to the simulator',
+  howTitle2: 'How Janadesh works', glossTitle: 'Glossary', glossSub: 'Plain-language meanings of the terms used in Janadesh.', glossFind: 'Find a term', changeTitle: 'Changelog', changeSub: 'Every feature and data fix, newest first.',
+  dataTitle: 'Open data', dataSub: 'Download the constituency results behind Janadesh, free to use. Static files at fixed links, no sign-up and no server.',
+  tagFeature: 'New', tagFix: 'Data fix', tagData: 'Data', tagSite: 'Site',
+});
+addI18n('hi', {
+  footHow: 'यह कैसे काम करता है', footGlossary: 'शब्दावली', footChangelog: 'बदलावों की सूची', footData: 'खुला डेटा', footTree: 'दलों का वंश-वृक्ष', footBack: 'सिम्युलेटर पर वापस',
+  howTitle2: 'जनादेश कैसे काम करता है', glossTitle: 'शब्दावली', glossSub: 'जनादेश में इस्तेमाल होने वाले शब्दों के सरल अर्थ।', glossFind: 'कोई शब्द खोजें', changeTitle: 'बदलावों की सूची', changeSub: 'हर नई सुविधा और आँकड़ों का सुधार, सबसे नया ऊपर।',
+  dataTitle: 'खुला डेटा', dataSub: 'जनादेश के पीछे के चुनाव-क्षेत्र वाले नतीजे डाउनलोड करें, मुफ़्त इस्तेमाल के लिए। तय लिंक पर स्थिर फ़ाइलें, न साइन-अप, न सर्वर।',
+  tagFeature: 'नया', tagFix: 'आँकड़ा सुधार', tagData: 'डेटा', tagSite: 'साइट',
+});
+const PAGES = new Map();
+function showPageView(){ $('#home').hidden = true; $('#app').hidden = true; $('#seatview').hidden = true; $('#appPick').hidden = true; $('#tabbar').hidden = true; closeSheet(); $('#homeBtn').hidden = false; $('#pageview').hidden = false; document.body.classList.remove('inapp'); window.scrollTo(0, 0); }
+async function routePages(h){
+  const m = h.match(/^#\/([a-z-]+)$/); if(!m || !PAGES.has(m[1])) return false;
+  showPageView(); const box = $('#pageview'); box.innerHTML = `<span class="loading"><i></i>${esc(t('loading'))}</span>`;
+  await PAGES.get(m[1])(box);
+  box.insertAdjacentHTML('beforeend', `<p style="margin-top:28px"><button class="btn" id="pgBack">← ${esc(t('footBack'))}</button></p>`);
+  $('#pgBack').onclick = () => { location.hash = ''; };
+  return true;
+}
+const L2 = (en, hi) => LANG === 'hi' ? hi : en;
+
+// ---------- How it works (#26) ----------
+const HOW = {
+  en: [
+    ['What this is', 'Janadesh is a seat simulator. You move vote shares and it shows which constituencies would change hands. It is a thought experiment built on real past results. It is not an exit poll, a prediction or a forecast.'],
+    ['The starting point', 'Every simulation begins with a real election, constituency by constituency: the votes each party got in each seat. For a future election the starting point is the latest real result of that state or of the Lok Sabha.'],
+    ['Uniform swing', 'A swing moves vote share between parties. In uniform swing every seat gets the same shift in percentage points. If a party goes from 30% to 33% nationally, it gains 3 points in every seat (a seat where it had 1% simply cannot lose more than it has). Simple, and good for small moves.'],
+    ['Proportional swing', 'In proportional swing every party\'s share in every seat is multiplied by the same factor. A party going from 30% to 33% nationally is multiplied by 1.1, so 40% becomes 44% and 10% becomes 11%. Strong areas move more than weak ones. After the multiplication each seat is scaled back to 100%. This is the default.'],
+    ['Staying true to the national numbers', 'After the swing is applied the national vote shares of all parties are recalculated and corrected a few times, so that the totals match the shares you chose. You can switch this off.'],
+    ['Alliances and vote transfer', 'In alliance view the votes of partners in each seat are added together. The transfer slider says how much of a partner\'s vote actually goes to the alliance: at 100% all of it, at 70% only 70% of the junior partner\'s votes. Edit alliances in the Parties tab and test what would have happened with different partners.'],
+    ['Local adjustments', 'You can shift a state or district, shift reserved (SC and ST) seats, force the winner of a seat, or ask the tool to find the vote share a party needs for a seat total ("solve for seats").'],
+    ['Odds', 'The Odds tab runs the simulation hundreds of times with random errors: one national error, one regional error and one error for each seat. The spread of results gives a seat range and the chances of a majority or a hung house. The error sizes are yours to choose.'],
+    ['Future elections', 'Future elections start from the latest result. "Continue the trend" carries the most recent swing forward, fading a little each election. These are scenarios, not projections.'],
+    ['Reconstructed data', 'For 39 recent assembly elections without open seat-level data, the official winner and runner-up of every constituency come from Wikipedia and the votes of smaller parties are estimated. Seat totals are checked against the official party tallies. Such elections carry a label.'],
+    ['What it cannot do', 'It does not know about candidates, local issues, turnout, new parties with no history, or boundary changes. A scenario that has never happened in real life will still give an answer, so read extreme results with care.'],
+  ],
+  hi: [
+    ['यह क्या है', 'जनादेश एक सीट-सिम्युलेटर है। आप वोट हिस्से खिसकाते हैं और यह दिखाता है कि कौन-से चुनाव क्षेत्र हाथ बदलेंगे। यह असली पुराने नतीजों पर बना एक सोच-प्रयोग है। यह एग्ज़िट पोल, भविष्यवाणी या पूर्वानुमान नहीं है।'],
+    ['शुरुआती बिंदु', 'हर सिम्युलेशन किसी असली चुनाव से शुरू होता है, चुनाव क्षेत्र दर चुनाव क्षेत्र: हर सीट में हर दल को कितने वोट मिले। आगे के चुनाव के लिए शुरुआती बिंदु उस राज्य या लोकसभा का सबसे ताज़ा असली नतीजा होता है।'],
+    ['एकसमान स्विंग', 'स्विंग का मतलब दलों के बीच वोट हिस्सा खिसकना है। एकसमान स्विंग में हर सीट पर प्रतिशत अंकों में एक जैसा बदलाव लगता है। अगर कोई दल देशभर में 30% से 33% पर जाता है, तो वह हर सीट पर 3 अंक बढ़ता है (जिस सीट पर उसके पास 1% है, वहाँ वह उससे ज़्यादा घट नहीं सकता)। सरल और छोटे बदलावों के लिए ठीक।'],
+    ['अनुपातिक स्विंग', 'अनुपातिक स्विंग में हर सीट पर हर दल का हिस्सा एक ही गुणक से बढ़ता है। देशभर में 30% से 33% पर जाने वाले दल का गुणक 1.1 है, यानी 40% का 44% और 10% का 11%। मज़बूत इलाक़े ज़्यादा खिसकते हैं, कमज़ोर कम। गुणा करने के बाद हर सीट को फिर 100% पर लाया जाता है। यही डिफ़ॉल्ट है।'],
+    ['राष्ट्रीय आँकड़ों से मेल', 'स्विंग लगाने के बाद सभी दलों के राष्ट्रीय वोट हिस्से फिर से निकाले जाते हैं और कई बार सुधारे जाते हैं ताकि कुल योग आपके चुने हिस्सों से मेल खाएँ। इसे बंद भी किया जा सकता है।'],
+    ['गठबंधन और वोट ट्रांसफ़र', 'गठबंधन दृश्य में हर सीट पर साझेदारों के वोट जोड़े जाते हैं। ट्रांसफ़र स्लाइडर बताता है कि साझेदार का कितना वोट सचमुच गठबंधन को जाता है: 100% पर पूरा, 70% पर छोटे साझेदार के सिर्फ़ 70% वोट। दल टैब में गठबंधन बदलकर देखें कि अलग साझेदारों के साथ क्या होता।'],
+    ['स्थानीय बदलाव', 'आप किसी राज्य या ज़िले को खिसका सकते हैं, आरक्षित (अनुसूचित जाति और जनजाति) सीटों को खिसका सकते हैं, किसी सीट का विजेता तय कर सकते हैं, या टूल से पूछ सकते हैं कि किसी सीट-संख्या के लिए दल को कितना वोट चाहिए ("सीटों के लिए हल करें")।'],
+    ['संभावनाएँ', 'संभावना टैब सिम्युलेशन को सैकड़ों बार चलाता है और हर बार यादृच्छिक त्रुटि जोड़ता है: एक राष्ट्रीय, एक क्षेत्रीय और हर सीट की अपनी। नतीजों के फैलाव से सीटों की रेंज और बहुमत या त्रिशंकु सदन की संभावना निकलती है। त्रुटि का आकार आप तय करते हैं।'],
+    ['आगे के चुनाव', 'आगे के चुनाव ताज़ा नतीजे से शुरू होते हैं। "रुझान जारी रखें" सबसे हाल के स्विंग को आगे ले जाता है, हर चुनाव में थोड़ा घटाते हुए। ये परिदृश्य हैं, पूर्वानुमान नहीं।'],
+    ['पुनर्निर्मित आँकड़े', 'जिन 39 हाल के विधानसभा चुनावों के सीट-स्तर के खुले आँकड़े नहीं हैं, उनमें हर चुनाव क्षेत्र का आधिकारिक विजेता और उपविजेता विकिपीडिया से लिया गया है और छोटे दलों के वोट अनुमानित हैं। सीटों का योग आधिकारिक दलवार गिनती से मिलाया गया है। ऐसे चुनावों पर लेबल लगा होता है।'],
+    ['यह क्या नहीं कर सकता', 'इसे उम्मीदवारों, स्थानीय मुद्दों, मतदान प्रतिशत, बिना इतिहास वाले नए दलों या सीमाओं के बदलाव का पता नहीं होता। जो परिदृश्य असल में कभी हुआ ही नहीं, उसका भी जवाब आ जाता है, इसलिए चरम नतीजों को सावधानी से पढ़ें।'],
+  ],
+};
+const SOURCES = [
+  ['Election Commission of India results, via DataMeet india-election-data', 'https://github.com/datameet/india-election-data'],
+  ['ECI statistical reports 1951-2004, via gitcheckoutnikhil/india-elections-data', 'https://github.com/gitcheckoutnikhil/india-elections-data'],
+  ['data-analytics.github.io: ECI results 2009-2024', 'https://github.com/data-analytics/data-analytics.github.io'],
+  ['spfrantz/vidhan-sabha-2017-scraper and vidhan-sabha-2018', 'https://github.com/spfrantz'],
+  ['azadecon/assembly_elections_2023', 'https://github.com/azadecon/assembly_elections_2023'],
+  ['Wikipedia: constituency tables and exit-poll tables of each election page (official winners for 39 assembly elections, names, exit polls)', 'https://en.wikipedia.org/'],
+  ['DataMeet constituency boundary files (2008 delimitation)', 'https://github.com/datameet/maps'],
+];
+PAGES.set('how', async box => {
+  box.innerHTML = `<article class="page"><h2>${esc(t('howTitle2'))}</h2><p class="lede">${esc(t('disclaimer'))}</p>
+    ${HOW[LANG].map(([h, p], i) => `<h3>${i + 1}. ${esc(h)}</h3><p>${esc(p)}</p>`).join('')}
+    <h3>${esc(L2('Data sources', 'आँकड़ों के स्रोत'))}</h3><ul>${SOURCES.map(([n, u]) => `<li><a href="${u}" target="_blank" rel="noopener">${esc(n)}</a></li>`).join('')}</ul>
+    <p class="small">${esc(L2('Janadesh is independent and not affiliated with the Election Commission of India.', 'जनादेश स्वतंत्र है और भारत निर्वाचन आयोग से जुड़ा नहीं है।'))}</p></article>`;
+});
+
+// ---------- Glossary (#57) ----------
+const GLOSS = [
+  ['First past the post', 'पहले नंबर पर जीत (फ़र्स्ट पास्ट द पोस्ट)', 'The candidate with the most votes in a constituency wins, even without a majority of the votes. India uses this for the Lok Sabha and state assemblies, which is why a party\'s share of seats can differ a lot from its share of votes.', 'चुनाव क्षेत्र में सबसे ज़्यादा वोट पाने वाला उम्मीदवार जीतता है, भले ही उसे आधे से कम वोट मिले हों। भारत में लोकसभा और विधानसभाओं में यही व्यवस्था है, इसीलिए किसी दल का सीट-हिस्सा उसके वोट-हिस्से से काफ़ी अलग हो सकता है।'],
+  ['Vote share', 'वोट हिस्सा', 'The percentage of all votes polled that a party or candidate received.', 'डाले गए कुल वोटों में से किसी दल या उम्मीदवार को मिले वोटों का प्रतिशत।'],
+  ['Seat share', 'सीट हिस्सा', 'The percentage of all seats a party won. Compare it with vote share to see how well a party turns votes into seats.', 'किसी दल की जीती हुई सीटों का कुल सीटों में प्रतिशत। इसे वोट हिस्से से मिलाकर देखें कि दल वोट को सीट में कितना बदल पाता है।'],
+  ['Swing', 'स्विंग', 'The change in a party\'s vote share between two elections, in percentage points.', 'दो चुनावों के बीच किसी दल के वोट हिस्से में हुआ बदलाव, प्रतिशत अंकों में।'],
+  ['Uniform swing', 'एकसमान स्विंग', 'Every constituency gets the same change in percentage points.', 'हर चुनाव क्षेत्र पर प्रतिशत अंकों में एक जैसा बदलाव लगता है।'],
+  ['Proportional swing', 'अनुपातिक स्विंग', 'Every party\'s share is multiplied by the same factor, so strong areas move more than weak ones.', 'हर दल का हिस्सा एक ही गुणक से बढ़ता या घटता है, इसलिए मज़बूत इलाक़े ज़्यादा खिसकते हैं।'],
+  ['Majority mark', 'बहुमत का आँकड़ा', 'More than half the seats: 272 of 543 in the Lok Sabha, and half plus one in an assembly.', 'आधे से ज़्यादा सीटें: लोकसभा में 543 में से 272, और विधानसभा में आधा और एक।'],
+  ['Hung house', 'त्रिशंकु सदन', 'A result where no party or alliance has a majority on its own.', 'ऐसा नतीजा जिसमें किसी दल या गठबंधन के पास अपने दम पर बहुमत न हो।'],
+  ['Alliance (coalition)', 'गठबंधन', 'Parties that contest together or govern together, such as the NDA or the INDIA bloc.', 'वे दल जो साथ चुनाव लड़ते या साथ सरकार चलाते हैं, जैसे एनडीए या इंडिया गठबंधन।'],
+  ['Vote transfer', 'वोट ट्रांसफ़र', 'How much of one ally\'s vote moves to its partner in a seat where the partner stands. It is never a full 100% in real life.', 'जिस सीट पर साझेदार लड़ रहा हो वहाँ एक सहयोगी का कितना वोट उसके साझेदार को जाता है। असल में यह कभी पूरा 100% नहीं होता।'],
+  ['Reserved seat (SC / ST)', 'आरक्षित सीट (अनुसूचित जाति / जनजाति)', 'A constituency where only candidates from Scheduled Castes or Scheduled Tribes can stand. Every voter in it still votes.', 'ऐसा चुनाव क्षेत्र जहाँ सिर्फ़ अनुसूचित जाति या जनजाति के उम्मीदवार खड़े हो सकते हैं। उसके सभी मतदाता फिर भी वोट देते हैं।'],
+  ['NOTA', 'नोटा', 'None of the above. A button on the voting machine to reject all candidates. It does not change who wins.', 'इनमें से कोई नहीं। सभी उम्मीदवारों को नकारने का बटन। इससे यह तय नहीं होता कि कौन जीतेगा।'],
+  ['Delimitation', 'परिसीमन', 'Redrawing constituency boundaries, and the number of seats per state, after a census. The latest one used in Janadesh maps is from 2008.', 'जनगणना के बाद चुनाव क्षेत्रों की सीमाएँ और हर राज्य की सीटें फिर से तय करना। जनादेश के नक्शों में 2008 वाला परिसीमन है।'],
+  ['Anti-defection law', 'दल-बदल विरोधी क़ानून', 'The Tenth Schedule of the Constitution: a member who leaves their party or defies its whip can lose their seat.', 'संविधान की दसवीं अनुसूची: जो सदस्य अपनी पार्टी छोड़े या व्हिप न माने, उसकी सदस्यता जा सकती है।'],
+  ['Anti-incumbency', 'सत्ता-विरोधी लहर', 'Voters\' tendency to vote against the party that has been in power.', 'सत्ताधारी दल के ख़िलाफ़ वोट देने का मतदाताओं का रुझान।'],
+  ['Incumbent', 'मौजूदा सदस्य / सत्तारूढ़', 'The sitting member of a seat, or the party in government.', 'किसी सीट का वर्तमान सदस्य, या सत्ता में बैठी पार्टी।'],
+  ['Margin', 'जीत का अंतर', 'The difference in votes between the winner and the runner-up.', 'विजेता और उपविजेता के वोटों का अंतर।'],
+  ['Strike rate', 'स्ट्राइक रेट', 'Seats won divided by seats contested. It matters in seat-sharing talks between allies.', 'जीती गई सीटें भाग लड़ी गई सीटें। सहयोगियों के बीच सीट-बँटवारे की बातचीत में यह अहम होता है।'],
+  ['Deposit', 'ज़मानत राशि', 'Money a candidate pays to stand. It is lost if the candidate gets less than one sixth of the valid votes in the seat.', 'चुनाव लड़ने के लिए उम्मीदवार जो रकम जमा करता है। अगर उसे सीट के वैध वोटों का छठा हिस्सा भी न मिले तो रकम ज़ब्त हो जाती है।'],
+  ['Bellwether seat', 'बेलवेदर सीट', 'A seat that tends to vote for the party that goes on to win the election overall.', 'ऐसी सीट जो अक्सर उसी दल को चुनती है जो पूरा चुनाव जीतता है।'],
+  ['By-election', 'उप-चुनाव', 'An election held for a single seat that has fallen vacant between general elections.', 'आम चुनावों के बीच किसी एक ख़ाली हुई सीट के लिए होने वाला चुनाव।'],
+  ['Exit poll', 'एग्ज़िट पोल', 'A survey of voters as they leave the polling booth, published after voting ends. It is different from an opinion poll, which is taken before the vote.', 'मतदान केंद्र से निकलते मतदाताओं का सर्वे, जो मतदान ख़त्म होने के बाद छपता है। ओपिनियन पोल से अलग, जो वोटिंग से पहले होता है।'],
+  ['Opinion poll', 'ओपिनियन पोल', 'A survey of voters\' intentions taken before the election.', 'चुनाव से पहले मतदाताओं की मंशा का सर्वे।'],
+  ['Lok Sabha', 'लोकसभा', 'The lower house of Parliament, with 543 elected seats.', 'संसद का निचला सदन, जिसमें 543 निर्वाचित सीटें हैं।'],
+  ['Vidhan Sabha', 'विधानसभा', 'The legislative assembly of a state or union territory.', 'किसी राज्य या केंद्रशासित प्रदेश की विधायिका।'],
+  ['Rajya Sabha', 'राज्यसभा', 'The upper house of Parliament, elected by state assembly members rather than directly by voters.', 'संसद का ऊपरी सदन, जिसे मतदाता सीधे नहीं बल्कि राज्यों के विधायक चुनते हैं।'],
+  ['Two-member constituency', 'दो-सदस्यीय चुनाव क्षेत्र', 'A seat that sent two members, used in the first elections to give representation to SC and ST communities.', 'ऐसी सीट जिससे दो सदस्य चुने जाते थे, जो शुरुआती चुनावों में अनुसूचित जाति और जनजाति को प्रतिनिधित्व देने के लिए थी।'],
+  ['Monte Carlo simulation', 'मोंटे कार्लो सिम्युलेशन', 'Running the same calculation many times with random errors to see the range of likely results.', 'एक ही गणना को यादृच्छिक त्रुटियों के साथ कई बार चलाना ताकि संभावित नतीजों की रेंज दिखे।'],
+  ['Split-ticket voting', 'अलग-अलग चुनावों में अलग वोट', 'Voting for different parties in different elections, for example one party for the state and another for the Lok Sabha.', 'अलग-अलग चुनावों में अलग दलों को वोट देना, जैसे राज्य में एक दल और लोकसभा में दूसरा।'],
+  ['Model Code of Conduct', 'आदर्श आचार संहिता', 'Rules for parties and governments from the day an election is announced until results.', 'चुनाव की घोषणा से नतीजों तक दलों और सरकारों के लिए नियम।'],
+  ['EVM and VVPAT', 'ईवीएम और वीवीपैट', 'The electronic voting machine, and the paper slip machine that lets a voter see their vote.', 'इलेक्ट्रॉनिक वोटिंग मशीन, और काग़ज़ की पर्ची वाली मशीन जिससे मतदाता अपना वोट देख सकता है।'],
+];
+PAGES.set('glossary', async box => {
+  const draw = q => { const n = nameKey(q || ''); return GLOSS.filter(g => !n || nameKey(g[0] + g[1] + g[2] + g[3]).includes(n)).map(g => `<div class="gl"><h4>${esc(L2(g[0], g[1]))}${LANG === 'hi' ? ` <span class="small">${esc(g[0])}</span>` : ''}</h4><p>${esc(L2(g[2], g[3]))}</p></div>`).join('') || `<p class="small">${esc(t('searchNone'))}</p>`; };
+  box.innerHTML = `<article class="page"><h2>${esc(t('glossTitle'))}</h2><p class="lede">${esc(t('glossSub'))}</p><input class="inp" id="glq" type="search" placeholder="${esc(t('glossFind'))}" aria-label="${esc(t('glossFind'))}" style="width:100%;max-width:420px;margin-bottom:12px"><div id="glist">${draw('')}</div></article>`;
+  $('#glq').oninput = e => { $('#glist').innerHTML = draw(e.target.value); };
+});
+
+// ---------- Changelog (#58) ----------
+const CHANGES = [
+  ['2026-10-23', 'feature', 'Chief ministers and by-elections', 'मुख्यमंत्री और उप-चुनाव', 'Every state's chief ministers with their terms, parties and the election they came in under; and the by-elections since the 2024 Lok Sabha result with a party scoreboard.', 'हर राज्य के मुख्यमंत्री, उनके कार्यकाल, दल और वह चुनाव जिसमें वे आए; और 2024 की लोकसभा के बाद के उप-चुनाव, दलों के स्कोरबोर्ड के साथ।'],
+  ['2026-10-23', 'feature', 'How constituencies changed', 'चुनाव क्षेत्र कैसे बदले', 'The history of delimitation since 1951, Lok Sabha seats by state in every election, new and renamed seats with their area, and a map of new seats.', '1951 से परिसीमन का इतिहास, हर चुनाव में राज्यवार लोकसभा सीटें, नई और नाम बदली सीटें क्षेत्रफल के साथ, और नई सीटों का नक्शा।'],
+  ['2026-10-23', 'feature', 'Alliance timeline with old alliance names and splits', 'पुराने गठबंधन नामों और टूट के साथ गठबंधन समयरेखा', 'National Front, United Front, NDA, UPA and INDIA by election, the biggest alliances of each election, and markers for the splits, mergers and foundings of each party.', 'हर चुनाव में राष्ट्रीय मोर्चा, संयुक्त मोर्चा, एनडीए, यूपीए और इंडिया, हर चुनाव के सबसे बड़े गठबंधन, और हर दल की टूट, विलय और स्थापना के निशान।'],
+  ['2026-10-23', 'fix', 'Independents no longer counted in the NDA', 'निर्दलीय अब एनडीए में नहीं गिने जाते', 'Seven independents were counted as NDA in Lok Sabha 2024. They now stand alone, in their own colour: NDA 293, INDIA 234, independents 7.', 'लोकसभा 2024 में सात निर्दलीय एनडीए में गिने गए थे। अब वे अपने रंग में अलग हैं: एनडीए 293, इंडिया 234, निर्दलीय 7।'],
+  ['2026-10-23', 'feature', 'Party family tree', 'दलों का वंश-वृक्ष', 'How parties split and merged, from the Congress and Janata families to the Shiv Sena and NCP splits.', 'दल कैसे टूटे और जुड़े, कांग्रेस और जनता परिवार से लेकर शिवसेना और एनसीपी के बँटवारे तक।'],
+  ['2026-10-23', 'feature', 'Story mode', 'स्टोरी मोड', 'Swipe through any election in about ten cards with the map changing, and record it as a video for Reels and Shorts.', 'किसी भी चुनाव को लगभग दस कार्डों में स्वाइप करें, नक्शा बदलता दिखे, और रील्स-शॉर्ट्स के लिए वीडियो रिकॉर्ड करें।'],
+  ['2026-10-23', 'feature', 'Did you know cards, famous what-ifs, alliance timeline, small-multiple maps, incumbency patterns, representation', 'क्या आप जानते हैं कार्ड, मशहूर अगर-मगर, गठबंधन समयरेखा, छोटे नक्शों की क़तार, सत्ता के पैटर्न, प्रतिनिधित्व', 'New analysis views for every election, and one-click what-if scenarios.', 'हर चुनाव के लिए नए विश्लेषण, और एक क्लिक पर अगर-मगर परिदृश्य।'],
+  ['2026-10-23', 'feature', 'Open data, glossary, how it works, changelog', 'खुला डेटा, शब्दावली, यह कैसे काम करता है, बदलावों की सूची', 'New pages. Every election is downloadable as CSV and JSON at a fixed link.', 'नए पन्ने। हर चुनाव CSV और JSON में तय लिंक पर डाउनलोड हो सकता है।'],
+  ['2026-10-23', 'feature', 'Mobile layout', 'मोबाइल लेआउट', 'Tab bar, compact seat tally, pull-up controls, big sliders, swipe between tabs, pinch-zoom map, tablet layout.', 'टैब बार, छोटा सीट-टैली, ऊपर खींचने वाले नियंत्रण, बड़े स्लाइडर, टैब के बीच स्वाइप, पिंच-ज़ूम नक्शा, टैबलेट लेआउट।'],
+  ['2026-10-23', 'feature', 'Faster loading', 'तेज़ लोडिंग', 'Each state\'s data and maps load only when opened.', 'हर राज्य का डेटा और नक्शे खोलने पर ही लोड होते हैं।'],
+  ['2026-10-23', 'feature', 'Share link, image, WhatsApp text, Twitter thread', 'शेयर लिंक, तस्वीर, व्हाट्सऐप संदेश, ट्विटर थ्रेड', 'Share the exact scenario, or a map and tally image in 16:9 and 9:16.', 'ठीक वही परिदृश्य शेयर करें, या 16:9 और 9:16 में नक्शे और तालिका की तस्वीर।'],
+  ['2026-10-23', 'feature', 'Search and a history page for every seat', 'खोज और हर सीट का इतिहास पन्ना', 'Find any constituency or member by name and see every election it has voted in.', 'नाम से कोई भी चुनाव क्षेत्र या सदस्य खोजें और देखें उसने किन-किन चुनावों में वोट दिया।'],
+  ['2026-10-23', 'feature', 'Analysis tools and exit-poll presets', 'विश्लेषण टूल और एग्ज़िट पोल प्रीसेट', 'Flip targets, closest contests, seat records, strike rate, head-to-head, deposits lost, party journey, compare two elections, coalition builder, and 14 sets of exit polls.', 'पलट सकने वाली सीटें, कांटे के मुक़ाबले, सीट रिकॉर्ड, स्ट्राइक रेट, आमने-सामने, ज़मानत ज़ब्त, पार्टी का सफ़र, दो चुनावों की तुलना, गठबंधन बनाएँ, और 14 एग्ज़िट पोल सेट।'],
+  ['2026-10-23', 'data', 'Names on every seat', 'हर सीट पर नाम', 'Winner and runner-up names for every seat, from the raw results and Wikipedia.', 'हर सीट के विजेता और उपविजेता के नाम, मूल नतीजों और विकिपीडिया से।'],
+  ['2026-10-23', 'fix', 'Delhi 2025 corrected, and 38 other elections', 'दिल्ली 2025 सही किया गया, और 38 अन्य चुनाव', 'Shalimar Bagh and 30 other Delhi 2025 seats had been shuffled. The official winners and runners-up of every seat are now applied to 39 assembly elections, and party totals match the official tallies.', 'शालीमार बाग़ और दिल्ली 2025 की 30 अन्य सीटें आपस में उलझ गई थीं। 39 विधानसभा चुनावों में हर सीट के आधिकारिक विजेता और उपविजेता अब लगाए गए हैं, और दलवार योग आधिकारिक गिनती से मेल खाते हैं।'],
+  ['2026-10-23', 'fix', 'CPI(M) votes repaired', 'सीपीआई(एम) के वोट सुधारे गए', 'Votes of many small parties had been counted as CPI(M) in Lok Sabha 2014 to 2024 and several assemblies. CPI(M) now shows 52 seats contested in 2024, not 494. The 2029 Lok Sabha projection moved a little as a result.', 'लोकसभा 2014 से 2024 और कई विधानसभाओं में कई छोटे दलों के वोट सीपीआई(एम) में गिन लिए गए थे। अब 2024 में सीपीआई(एम) की 52 लड़ी सीटें दिखती हैं, 494 नहीं। इससे 2029 की लोकसभा परियोजना थोड़ी बदली।'],
+  ['2026-10-21', 'site', 'Link previews', 'लिंक प्रीव्यू', 'Preview image and tags for WhatsApp, Twitter and Facebook, and a Janadesh watermark on exported images.', 'व्हाट्सऐप, ट्विटर और फ़ेसबुक के लिए प्रीव्यू तस्वीर और टैग, और निर्यात की गई तस्वीरों पर जनादेश का वॉटरमार्क।'],
+  ['2026-10-21', 'feature', 'Janadesh launches', 'जनादेश की शुरुआत', 'Lok Sabha 1951 to 2024 and every state assembly at constituency level, swing and alliance simulation, odds, maps, Hindi and English.', 'लोकसभा 1951 से 2024 और हर राज्य की विधानसभा चुनाव-क्षेत्र स्तर पर, स्विंग और गठबंधन सिम्युलेशन, संभावनाएँ, नक्शे, हिंदी और अंग्रेज़ी।'],
+];
+PAGES.set('changelog', async box => {
+  const tag = {feature: 'tagFeature', fix: 'tagFix', data: 'tagData', site: 'tagSite'};
+  const byDate = new Map(); CHANGES.forEach(c => { if(!byDate.has(c[0])) byDate.set(c[0], []); byDate.get(c[0]).push(c); });
+  box.innerHTML = `<article class="page"><h2>${esc(t('changeTitle'))}</h2><p class="lede">${esc(t('changeSub'))}</p>${[...byDate.entries()].map(([d, list]) => `<h3>${esc(new Date(d).toLocaleDateString(LANG === 'hi' ? 'hi-IN' : 'en-IN', {day: 'numeric', month: 'long', year: 'numeric'}))}</h3>
+    ${list.map(c => `<div class="chg"><span class="pill">${esc(t(tag[c[1]]))}</span> <b>${esc(L2(c[2], c[3]))}</b><p>${esc(L2(c[4], c[5]))}</p></div>`).join('')}`).join('')}</article>`;
+});
+
+// ---------- Open data (#27) ----------
+addI18n('en', {dataAll: 'All seats, every election (CSV)', dataPick: 'Pick an election', dataCols: 'Columns', dataApi: 'Use it like an API', dataSources: 'Sources and credit', dataLic: 'The official results are public data of the Election Commission of India. The compilation here (name matching, repairs, reconstructed seats) is free to use with credit to Janadesh. Please also credit the sources listed on the How it works page.', dataFlag: 'Seats marked "official winners" have the real winner and runner-up but estimated smaller-party votes.', dataJson: 'JSON', dataCsv: 'CSV'});
+addI18n('hi', {dataAll: 'सभी सीटें, हर चुनाव (CSV)', dataPick: 'चुनाव चुनें', dataCols: 'कॉलम', dataApi: 'एपीआई की तरह इस्तेमाल करें', dataSources: 'स्रोत और श्रेय', dataLic: 'आधिकारिक नतीजे भारत निर्वाचन आयोग का सार्वजनिक डेटा हैं। यहाँ का संकलन (नाम मिलान, सुधार, पुनर्निर्मित सीटें) जनादेश को श्रेय देकर मुफ़्त इस्तेमाल के लिए है। कृपया "यह कैसे काम करता है" पन्ने पर दिए स्रोतों को भी श्रेय दें।', dataFlag: '"आधिकारिक विजेता" वाली सीटों में विजेता और उपविजेता असली हैं पर छोटे दलों के वोट अनुमानित हैं।', dataJson: 'JSON', dataCsv: 'CSV'});
+const DATA_COLS = [['election_id', 'e.g. ls-2024, ae-delhi-2025', 'जैसे ls-2024, ae-delhi-2025'], ['kind', 'LS (Lok Sabha) or AE (assembly)', 'LS (लोकसभा) या AE (विधानसभा)'], ['state', 'State, or India for the Lok Sabha', 'राज्य, या लोकसभा के लिए India'], ['year, label', 'Election year and label (for two elections in one year, e.g. "2005 (Feb)")', 'चुनाव का साल और लेबल (एक साल में दो चुनाव हों तो जैसे "2005 (Feb)")'],
+  ['seat_no, seat_name, category', 'Constituency number, name, and GEN / SC / ST', 'चुनाव क्षेत्र का नंबर, नाम, और GEN / SC / ST'], ['region', 'State (Lok Sabha) or district (assembly), where known', 'राज्य (लोकसभा) या ज़िला (विधानसभा), जहाँ पता हो'], ['total_votes', 'Valid votes counted for the listed candidates plus others', 'सूचीबद्ध उम्मीदवारों और अन्य के गिने गए वैध वोट'],
+  ['winner_party, winner_name, winner_votes', 'Winner; the name is blank where no candidate-level source exists', 'विजेता; जहाँ उम्मीदवार-स्तर का स्रोत नहीं वहाँ नाम ख़ाली'], ['runner_up_party, runner_up_name, runner_up_votes', 'Runner-up', 'उपविजेता'], ['margin, margin_pct', 'Votes and percentage points between winner and runner-up', 'विजेता और उपविजेता के बीच वोट और प्रतिशत अंक'], ['status', 'official, official_winners_only (smaller-party votes estimated), or reconstructed', 'official, official_winners_only (छोटे दलों के वोट अनुमानित), या reconstructed']];
+PAGES.set('data', async box => {
+  let idx = null; try{ const r = await fetch('data/index.json'); idx = await r.json(); }catch(e){}
+  const els = idx ? idx.elections : [];
+  box.innerHTML = `<article class="page"><h2>${esc(t('dataTitle'))}</h2><p class="lede">${esc(t('dataSub'))}</p>
+    <p><a class="btn primary" href="data/all-seats.csv" download>${esc(t('dataAll'))}</a></p>
+    <h3>${esc(t('dataPick'))}</h3>
+    <div class="tools-row"><select id="dsel" aria-label="${esc(t('dataPick'))}">${els.map(e => `<option value="${e.id}">${esc(e.title)}</option>`).join('')}</select><span id="dlinks"></span></div>
+    <p class="small">${esc(t('dataFlag'))}</p>
+    <h3>${esc(t('dataApi'))}</h3><pre class="code" id="dapi"></pre>
+    <h3>${esc(t('dataCols'))}</h3><table class="tbl"><tbody>${DATA_COLS.map(c => `<tr><td style="white-space:nowrap"><code>${esc(c[0])}</code></td><td>${esc(L2(c[1], c[2]))}</td></tr>`).join('')}</tbody></table>
+    <h3>${esc(t('dataSources'))}</h3><p>${esc(t('dataLic'))}</p></article>`;
+  const show = () => { const e = els.find(x => x.id === $('#dsel').value); if(!e) return; const base = location.origin + location.pathname.replace(/[^/]*$/, '');
+    $('#dlinks').innerHTML = `<a class="btn small" href="${e.json}" download>${esc(t('dataJson'))}</a> <a class="btn small" href="${e.csv}" download>${esc(t('dataCsv'))}</a>`;
+    $('#dapi').textContent = `curl ${base}${e.json}\ncurl ${base}data/index.json`; };
+  if(els.length){ $('#dsel').onchange = show; show(); }
+});
+
+
+// ======== feature: 110-whatifs.js ========
+// Famous what-ifs (#19): one-click scenarios built on the alliance editor and vote-share controls.
+addI18n('en', {
+  wiTitle: 'Famous what-ifs', wiLede: 'One click: change who allied with whom, or take away a wave, and see how the seats move. Hypotheticals on real constituency results, not forecasts.',
+  wiBanner: 'What-if: {title}. {desc} Seats in the real result: {a}. In this what-if: {s}.', wiEasy: 'What-ifs for this election', wiEasyHint: 'Try a famous alternative.', wiGo: 'Try it', wiMissing: 'This what-if needs a party that is not in this election.',
+});
+addI18n('hi', {
+  wiTitle: 'मशहूर अगर-मगर', wiLede: 'एक क्लिक: किसने किसके साथ गठबंधन किया यह बदलें, या कोई लहर हटा दें, और देखें सीटें कैसे खिसकती हैं। असली चुनाव-क्षेत्र नतीजों पर काल्पनिक परिदृश्य, पूर्वानुमान नहीं।',
+  wiBanner: 'अगर-मगर: {title}। {desc} असली नतीजे में सीटें: {a}। इस परिदृश्य में: {s}।', wiEasy: 'इस चुनाव के अगर-मगर', wiEasyHint: 'कोई मशहूर विकल्प आज़माएँ।', wiGo: 'आज़माएँ', wiMissing: 'इस अगर-मगर को ऐसा दल चाहिए जो इस चुनाव में नहीं है।',
+});
+const WHATIFS = [
+  {id: 'bsp-india-2024', base: 'ls-2024', ally: {BSP: 'INDIA'}, en: ['BSP joins INDIA (Lok Sabha 2024)', 'The BSP\'s votes are added to the INDIA bloc in every seat where it stood.'], hi: ['बसपा इंडिया गठबंधन में (लोकसभा 2024)', 'जहाँ बसपा लड़ी वहाँ उसके वोट इंडिया गठबंधन में जोड़ दिए गए हैं।']},
+  {id: 'no-wave-2014', base: 'ls-2014', share: {party: 'BJP', from: 'ls-2009'}, en: ['No Modi wave (Lok Sabha 2014)', 'The BJP gets only its 2009 national vote share; every other party gains in proportion.'], hi: ['मोदी लहर नहीं (लोकसभा 2014)', 'भाजपा को सिर्फ़ 2009 वाला राष्ट्रीय वोट हिस्सा मिलता है; बाक़ी दल अनुपात में बढ़ते हैं।']},
+  {id: 'aap-inc-delhi-2025', base: 'ae-delhi-2025', ally: {AAP: 'AAP+INC', INC: 'AAP+INC'}, en: ['Congress and AAP ally in Delhi 2025', 'AAP and Congress votes are added together in every seat.'], hi: ['दिल्ली 2025 में कांग्रेस और आप साथ', 'हर सीट पर आप और कांग्रेस के वोट जोड़े गए हैं।']},
+  {id: 'aap-inc-haryana-2024', base: 'ae-haryana-2024', ally: {AAP: 'INDIA'}, en: ['AAP joins Congress in Haryana 2024', 'AAP votes are added to the INDIA bloc (Congress) in every seat.'], hi: ['हरियाणा 2024 में आप कांग्रेस के साथ', 'हर सीट पर आप के वोट इंडिया गठबंधन (कांग्रेस) में जोड़े गए हैं।']},
+  {id: 'bsp-sp-up-2022', base: 'ae-uttar-pradesh-2022', ally: {BSP: 'SP+'}, en: ['BSP joins SP in Uttar Pradesh 2022', 'The BSP\'s votes are added to the SP-led alliance in every seat.'], hi: ['उत्तर प्रदेश 2022 में बसपा सपा के साथ', 'हर सीट पर बसपा के वोट सपा-नीत गठबंधन में जोड़े गए हैं।']},
+  {id: 'united-sena-2024', base: 'ae-maharashtra-2024', ally: {SHS_SHINDE: 'United Sena', SSUBT: 'United Sena'}, en: ['Shiv Sena never splits (Maharashtra 2024)', 'The Shinde Sena and Uddhav Sena votes are counted as one party.'], hi: ['शिवसेना टूटती नहीं (महाराष्ट्र 2024)', 'शिंदे सेना और उद्धव सेना के वोट एक दल की तरह गिने गए हैं।']},
+  {id: 'ljp-nda-bihar-2020', base: 'ae-bihar-2020', ally: {LJP: 'NDA'}, en: ['LJP stays in the NDA (Bihar 2020)', 'The LJP\'s votes are added to the NDA in every seat instead of a separate run.'], hi: ['लोजपा एनडीए में रहती (बिहार 2020)', 'अलग लड़ने के बजाय हर सीट पर लोजपा के वोट एनडीए में जोड़े गए हैं।']},
+  {id: 'jds-bjp-karnataka-2023', base: 'ae-karnataka-2023', ally: {JDS: 'BJP+JDS', BJP: 'BJP+JDS'}, en: ['BJP and JD(S) ally in Karnataka 2023', 'BJP and JD(S) votes are added together in every seat.'], hi: ['कर्नाटक 2023 में भाजपा और जद(एस) साथ', 'हर सीट पर भाजपा और जद(एस) के वोट जोड़े गए हैं।']},
+  {id: 'sad-bjp-punjab-2022', base: 'ae-punjab-2022', ally: {SAD: 'SAD+BJP', BJP: 'SAD+BJP'}, en: ['Akali Dal and BJP together in Punjab 2022', 'SAD and BJP votes are added together in every seat.'], hi: ['पंजाब 2022 में अकाली दल और भाजपा साथ', 'हर सीट पर अकाली दल और भाजपा के वोट जोड़े गए हैं।']},
+  {id: 'tmc-inc-wb-2021', base: 'ae-west-bengal-2021', ally: {AITC: 'AITC+INC', INC: 'AITC+INC'}, en: ['TMC and Congress together in West Bengal 2021', 'TMC and Congress votes are added together in every seat.'], hi: ['पश्चिम बंगाल 2021 में तृणमूल और कांग्रेस साथ', 'हर सीट पर तृणमूल और कांग्रेस के वोट जोड़े गए हैं।']},
+  {id: 'ajsu-nda-jharkhand-2019', base: 'ae-jharkhand-2019', ally: {AJSU: 'NDA'}, en: ['AJSU stays in the NDA (Jharkhand 2019)', 'The AJSU\'s votes are added to the NDA in every seat instead of a separate run.'], hi: ['आजसू एनडीए में रहती (झारखंड 2019)', 'अलग लड़ने के बजाय हर सीट पर आजसू के वोट एनडीए में जोड़े गए हैं।']},
+  {id: 'aap-inc-gujarat-2022', base: 'ae-gujarat-2022', ally: {AAP: 'INC+AAP', INC: 'INC+AAP'}, en: ['Congress and AAP ally in Gujarat 2022', 'Congress and AAP votes are added together in every seat.'], hi: ['गुजरात 2022 में कांग्रेस और आप साथ', 'हर सीट पर कांग्रेस और आप के वोट जोड़े गए हैं।']},
+];
+function wiText(w){ return L2(w.en[0], w.hi[0]); }
+function wiSig(){ return JSON.stringify([Object.entries(S.T).map(([k, v]) => [k, Math.round(v * 10) / 10]), S.allyEdit, S.mode]); }
+async function partyShareIn(eid, code){
+  const ent = INDEX.elections.find(e => e.id === eid), e = (await bundle(ent.file)).find(x => x.id === eid); let v = 0, tot = 0;
+  e.seats.forEach(s => { for(let k = 0; k < s[4].length; k += 2){ if(e.parties[s[4][k]] === code) v += s[4][k + 1]; tot += s[4][k + 1]; } tot += s[5] || 0; });
+  return 100 * v / tot;
+}
+async function applyWhatIf(w){
+  const base = INDEX.elections.find(e => e.id === w.base); if(!base) return;
+  track('whatif', {id: w.id});
+  S.tab = 'easy';
+  await openSim(base.kind, base.state, w.base);
+  const codes = Object.keys(w.ally || {}).concat(w.share ? [w.share.party] : []);
+  if(codes.some(c => !E.parties.includes(c))){ toast(t('wiMissing')); }
+  const actualCount = new Map(); E.raw.seats.forEach(r => { if(!r[4].length) return; const p = E.raw.parties[r[4][0]], k = (E.raw.alliances || {})[p] || p; actualCount.set(k, (actualCount.get(k) || 0) + (r[6] || 1)); });
+  const actualTxt = [...actualCount.entries()].sort((x, y) => y[1] - x[1]).slice(0, 3).map(([k, n]) => `${allyName(k) === k ? (LANG === 'hi' && HI_PARTY[k] ? HI_PARTY[k] : k) : allyName(k)} ${n}`).join(', ');
+  S.T = {}; S.locks = {}; S.overrides = {}; S.regional = {}; S.swing = {a: null, b: null, pts: 0}; S.transfer = 100;
+  if(w.ally){ S.mode = 'alliance'; S.allyEdit = Object.assign({}, w.ally); rebuild(); }
+  else { S.mode = 'party'; S.allyEdit = {}; rebuild(); }
+  if(w.share){ const ui = U.findIndex(g => g.key === w.share.party); if(ui >= 0){ const share = await partyShareIn(w.share.from, w.share.party); setAll(computeTargets(ui, share, baseT())); } }
+  S.pollScn = null; S.whatIf = {w, sig: '', actual: actualTxt};
+  run(); S.whatIf.sig = wiSig(); renderPane(); renderResult();
+}
+function renderWhatIfBanner(){
+  const el = $('#scnBanner'), sc = S.whatIf; if(!el || !sc || sc.w.base !== S.eid || sc.sig !== wiSig()) return false;
+  const ord = U.map((g, k) => k).filter(k => U[k].key !== 'OTH').sort((a, b) => Math.max(RES.counts[b], U[b].baseSeats) - Math.max(RES.counts[a], U[a].baseSeats)).slice(0, 3);
+  const actual = sc.actual;
+  const sim = ord.map(k => `${shortName(U[k])} ${RES.counts[k]}`).join(', ');
+  el.hidden = false;
+  el.innerHTML = esc(t('wiBanner', {title: wiText(sc.w), desc: L2(sc.w.en[1], sc.w.hi[1]), a: actual, s: sim}));
+  return true;
+}
+function renderWhatIfHome(){
+  const g = $('#wiGrid'); if(!g) return;
+  g.innerHTML = WHATIFS.map((w, i) => `<button class="scn" data-wi="${i}"><i style="background:#0F8B8D"></i><span><b>${esc(wiText(w))}</b><br><span class="small">${esc(L2(w.en[1], w.hi[1]))}</span></span></button>`).join('');
+  g.querySelectorAll('[data-wi]').forEach(b => b.onclick = () => applyWhatIf(WHATIFS[+b.dataset.wi]));
+}
+function whatifEasyBlock(){
+  if(S.next) return ''; const list = WHATIFS.filter(w => w.base === S.eid); if(!list.length) return '';
+  return `<div><h3>${esc(t('wiEasy'))}</h3><p class="hint">${esc(t('wiEasyHint'))}</p>${list.map(w => `<button class="btn" data-wie="${w.id}" style="width:100%;text-align:left;margin-bottom:6px">${esc(wiText(w))}</button>`).join('')}</div>`;
+}
+function whatifEasyBind(){ document.querySelectorAll('[data-wie]').forEach(b => b.onclick = () => applyWhatIf(WHATIFS.find(w => w.id === b.dataset.wie))); }
+
+
+// ======== feature: 120-timeline.js ========
+// Alliance timeline (#21): who allied with whom in each election, read from the alliances recorded in the data,
+// with the name of each alliance era and the splits, mergers and foundings of each party (from source/ref/lineage.json).
+addI18n('en', {toolAlly: 'Alliance timeline', allySub: 'Which alliance each party was recorded in, election by election, with the biggest alliances of each election on top. ✂ split · ⊕ merger · ★ founded marks the first election after such an event. A dashed outline marks a change of alliance. Older elections may have no alliance data, and their labels are only as good as the source.', allySwitch: 'changed alliance', allyAlone: 'not in an alliance', allyNone: 'No alliance information is recorded for this election history.', allyBiggest: 'Biggest alliances (seats)', allyEras: 'Alliance names over the years',
+  eraLS: '1977 Janata Party · 1980 and 1984 the Congress alone · 1989 and 1991 National Front, with the Left Front and the BJP outside it · 1996 United Front · 1998 and 1999 the NDA (BJP) against the Congress and allies · 2004 and 2009 the UPA (Congress) against the NDA · 2014 and 2019 NDA against UPA · 2024 NDA against the INDIA bloc (formed in 2023).'});
+addI18n('hi', {toolAlly: 'गठबंधन समयरेखा', allySub: 'हर चुनाव में कौन-सा दल किस गठबंधन में दर्ज था, हर चुनाव के सबसे बड़े गठबंधन ऊपर। ✂ टूट · ⊕ विलय · ★ स्थापना ऐसी घटना के बाद का पहला चुनाव बताता है। बिंदीदार किनारा गठबंधन बदलने का संकेत है। पुराने चुनावों के गठबंधन आँकड़े न हों तो ख़ाली दिखेगा, और उनके नाम स्रोत जितने ही सही हैं।', allySwitch: 'गठबंधन बदला', allyAlone: 'किसी गठबंधन में नहीं', allyNone: 'इस चुनावी इतिहास के लिए गठबंधन की जानकारी दर्ज नहीं है।', allyBiggest: 'सबसे बड़े गठबंधन (सीटें)', allyEras: 'सालों में गठबंधनों के नाम',
+  eraLS: '1977 जनता पार्टी · 1980 और 1984 में कांग्रेस अकेली · 1989 और 1991 राष्ट्रीय मोर्चा, वाम मोर्चा और भाजपा बाहर से · 1996 संयुक्त मोर्चा · 1998 और 1999 में एनडीए (भाजपा) बनाम कांग्रेस और सहयोगी · 2004 और 2009 में यूपीए (कांग्रेस) बनाम एनडीए · 2014 और 2019 में एनडीए बनाम यूपीए · 2024 में एनडीए बनाम इंडिया गठबंधन (2023 में बना)।'});
+const ALLY_ABBR = {'National Front': 'NF', 'United Front': 'UF', 'Left Front': 'LF', 'Third Front': '3F', 'Janata': 'Janata', 'Sanyukta Morcha': 'SM'};
+const allyShort = a => { const n = allyName(a); return ALLY_ABBR[a] || (n.length > 8 ? (n.split(/[\s+]+/).length > 1 ? n.split(/[\s+]+/).map(w => w[0]).join('').toUpperCase().slice(0, 5) + (a.endsWith('+') ? '+' : '') : n.slice(0, 7)) : n); };
+registerTool({id: 'alliances', label: 'toolAlly', sub: 'allySub', async render(body, stale){
+  const lin = await lineageData().catch(() => ({events: []}));
+  const list = (await history()).filter(e => Object.keys(e.alliances || {}).length); if(stale()) return;
+  if(list.length < 2){ body.innerHTML = `<p class="small">${esc(t('allyNone'))}</p>`; return; }
+  const seats = {}, appear = {};
+  list.forEach(e => { e.seats.forEach(s => { if(s[4].length){ const p = e.parties[s[4][0]]; seats[p] = (seats[p] || 0) + (s[6] || 1); } }); Object.keys(e.alliances).forEach(p => appear[p] = (appear[p] || 0) + 1); });
+  const rows = Object.keys(appear).filter(p => appear[p] >= 2 && !SKIP_P.has(p)).sort((a, b) => (seats[b] || 0) - (seats[a] || 0) || appear[b] - appear[a]).slice(0, 24);
+  const seatsIn = (e, p) => { const i = e.parties.indexOf(p); let n = 0; if(i < 0) return 0; e.seats.forEach(s => { if(s[4].length && s[4][0] === i) n += s[6] || 1; }); return n; };
+  const colour = (e, a) => { const mem = Object.entries(e.alliances).filter(([, v]) => v === a).map(([p]) => p).sort((x, y) => seatsIn(e, y) - seatsIn(e, x)); return pColor(mem[0]); };
+  // biggest alliances per election, by seats won by their members
+  const big = list.map(e => { const m = new Map(); e.seats.forEach(s => { if(!s[4].length) return; const p = e.parties[s[4][0]], a = e.alliances[p]; if(a) m.set(a, (m.get(a) || 0) + (s[6] || 1)); }); return [...m.entries()].sort((x, y) => y[1] - x[1]).slice(0, 3); });
+  // events by party code -> glyph in the first election at or after the event year
+  const marks = new Map();
+  (lin.events || []).forEach(ev => (ev.codes || []).forEach(c => { const j = list.findIndex((e, k) => e.year >= ev.year && (k === 0 || list[k - 1].year < ev.year)); if(j < 0 || list[j].year - ev.year > 12) return; const k = c + '|' + j; if(!marks.has(k)) marks.set(k, []); marks.get(k).push(ev); }));
+  const head = list.map(e => `<th style="text-align:center;font-size:11.5px;min-width:60px">${esc(e.label)}</th>`).join('');
+  const bigRow = list.map((e, j) => `<td style="text-align:center;padding:3px 2px;vertical-align:top">${big[j].map(([a, n]) => `<div class="achip" style="background:${colour(e, a)}22;border:1.5px solid ${colour(e, a)}" title="${esc(allyName(a))} ${n}">${esc(allyShort(a))} <b>${n}</b></div>`).join('')}</td>`).join('');
+  const cells = p => list.map((e, j) => {
+    const a = e.alliances[p], present = e.parties.includes(p), prev = j ? list[j - 1].alliances[p] : undefined, changed = j && prev !== a && (prev || a);
+    const mk = (marks.get(p + '|' + j) || []), glyph = mk.length ? `<span class="evmark" title="${esc(mk.map(ev => ev.year + ' · ' + L2(ev.en, ev.hi)).join('\n'))}">${mk.map(ev => EV_GLYPH[ev.kind]).filter((x, i, arr) => arr.indexOf(x) === i).join('')}</span>` : '';
+    if(!a) return `<td style="text-align:center;padding:2px;position:relative">${present ? `<span class="small" title="${esc(t('allyAlone'))}">–</span>` : ''}${glyph}</td>`;
+    const c = colour(e, a);
+    return `<td style="padding:2px;position:relative"><span class="achip" style="background:${c}22;border:1.5px ${changed ? 'dashed' : 'solid'} ${c};color:var(--ink)" title="${esc(allyName(a))}${changed ? ' · ' + esc(t('allySwitch')) : ''}">${esc(allyShort(a))}</span>${glyph}</td>`;
+  }).join('');
+  body.innerHTML = `${S.kind === 'LS' ? `<p class="small" style="margin:0 0 8px"><b>${esc(t('allyEras'))}:</b> ${esc(t('eraLS'))}</p>` : ''}
+    <div class="tw"><table class="tbl" style="min-width:${150 + list.length * 62}px"><thead><tr><th style="text-align:left;position:sticky;left:0;background:var(--panel)">${esc(t('thParty2'))}</th>${head}</tr></thead><tbody>
+    <tr style="background:var(--sunk)"><td style="text-align:left;position:sticky;left:0;background:var(--sunk);font-size:12px;font-weight:600">${esc(t('allyBiggest'))}</td>${bigRow}</tr>
+    ${rows.map(p => `<tr><td style="text-align:left;position:sticky;left:0;background:var(--panel);white-space:nowrap">${pcell(p)}</td>${cells(p)}</tr>`).join('')}</tbody></table></div>`;
+}});
+
+
+// ======== feature: 130-multiples.js ========
+// Small-multiple maps (#22): one party's vote share, seat by seat, in every election on one screen.
+addI18n('en', {toolMulti: 'Party maps over time', multiSub: 'One party\'s vote share in every constituency, election by election. A darker seat means a higher share; the shading uses one scale across all years. Older elections without a constituency map show state shares, or a seat grid.', multiParty: 'Party', multiLine: '{n} seats won · {v}% of votes', multiScale: 'Darkest = {n}% of the votes in the seat'});
+addI18n('hi', {toolMulti: 'समय के साथ दल के नक्शे', multiSub: 'हर चुनाव में हर चुनाव क्षेत्र में एक दल का वोट हिस्सा। जितनी गहरी सीट, उतना ज़्यादा हिस्सा; सभी सालों के लिए एक ही पैमाना है। जिन पुराने चुनावों का चुनाव-क्षेत्र नक्शा नहीं, उनमें राज्यवार हिस्सा या सीटों की ग्रिड दिखती है।', multiParty: 'दल', multiLine: '{n} सीटें जीतीं · {v}% वोट', multiScale: 'सबसे गहरा = सीट के {n}% वोट'});
+const MMG = {};
+async function miniGeo(name){
+  if(MMG[name]) return MMG[name];
+  const topo = await mapFor(name), fc = topojson.feature(topo, topo.objects[Object.keys(topo.objects)[0]]), W = 600, H = (name === 'pc' || name === 'states') ? 680 : 520;
+  const path = d3.geoPath(d3.geoMercator().fitSize([W, H], fc)), feats = new Map(), all = [];
+  fc.features.forEach(f => { const d = path(f); if(!d) return; all.push(d); feats.set(String(name === 'states' ? stKey(f.properties.st) : (f.properties.k != null ? f.properties.k : f.properties.n)), d); });
+  return MMG[name] = {W, H, feats, all: all.join('')};
+}
+function partyShareSeats(e, code){
+  const pi = e.parties.indexOf(code);
+  return e.seats.map(s => { let v = 0, tot = s[5] || 0; for(let k = 0; k < s[4].length; k += 2){ if(s[4][k] === pi) v += s[4][k + 1]; tot += s[4][k + 1]; } return tot > 0 ? v / tot : null; });
+}
+registerTool({id: 'multiples', label: 'toolMulti', sub: 'multiSub', async render(body, stale){
+  const list = await history(); if(stale()) return;
+  const seatsWon = {}, present = {}; list.forEach(e => { const w = {}; e.seats.forEach(s => { if(s[4].length){ const p = e.parties[s[4][0]]; w[p] = (w[p] || 0) + (s[6] || 1); } }); e.parties.forEach(p => { present[p] = (present[p] || 0) + 1; }); Object.entries(w).forEach(([p, n]) => seatsWon[p] = (seatsWon[p] || 0) + n); });
+  const opts = Object.keys(seatsWon).filter(p => !SKIP_P.has(p) && present[p] >= 3).sort((a, b) => seatsWon[b] - seatsWon[a]).slice(0, 30);
+  if(!opts.length){ body.innerHTML = `<p class="small">${esc(t('toolsNoData'))}</p>`; return; }
+  let P = S.mmParty; if(!opts.includes(P)) P = opts[0]; S.mmParty = P;
+  const shares = list.map(e => partyShareSeats(e, P));
+  const maxS = Math.max(.25, ...shares.map(a => Math.max(0, ...a.filter(x => x != null))));
+  const cards = [];
+  for(const [j, e] of list.entries()){
+    const sh = shares[j], pi = e.parties.indexOf(P); let won = 0, vp = 0, tv = 0;
+    e.seats.forEach((s, i) => { if(s[4].length && s[4][0] === pi) won += s[6] || 1; for(let k = 0; k < s[4].length; k += 2){ if(s[4][k] === pi) vp += s[4][k + 1]; tv += s[4][k + 1]; } tv += s[5] || 0; });
+    if(pi < 0 || vp === 0){ continue; }
+    const op = x => .08 + .92 * Math.min(1, x / maxS), hex = pColor(P);
+    let svg = '';
+    try{
+      if(e.map && e.map !== 'states'){
+        const geo = await miniGeo(e.map); if(stale()) return;
+        svg = `<svg viewBox="0 0 ${geo.W} ${geo.H}"><path d="${geo.all}" fill="#EEF0F2"/>${e.seats.map((s, i) => { const k = String(e.mapkeys ? e.mapkeys[i] : (s[0] + (e.mapoff || 0))), d = geo.feats.get(k); return d && sh[i] != null ? `<path d="${d}" fill="${hex}" fill-opacity="${op(sh[i]).toFixed(2)}"/>` : ''; }).join('')}</svg>`;
+      } else if(e.kind === 'LS'){
+        const geo = await miniGeo('states'); if(stale()) return;
+        const agg = new Map(); e.seats.forEach((s, i) => { if(s[3] < 0 || sh[i] == null) return; const k = stKey(e.regions[s[3]]), a = agg.get(k) || {v: 0, t: 0}; let tot = s[5] || 0; for(let q = 1; q < s[4].length; q += 2) tot += s[4][q]; a.v += sh[i] * tot; a.t += tot; agg.set(k, a); });
+        svg = `<svg viewBox="0 0 ${geo.W} ${geo.H}"><path d="${geo.all}" fill="#EEF0F2"/>${[...agg.entries()].map(([k, a]) => { const d = geo.feats.get(k); return d && a.t ? `<path d="${d}" fill="${hex}" fill-opacity="${op(a.v / a.t).toFixed(2)}"/>` : ''; }).join('')}</svg>`;
+      }
+    }catch(err){ svg = ''; }
+    if(!svg){ const n = e.seats.length, cols = Math.ceil(Math.sqrt(n * 1.4)), cell = 600 / cols, rows = Math.ceil(n / cols);
+      svg = `<svg viewBox="0 0 600 ${Math.max(200, rows * cell)}">${e.seats.map((s, i) => sh[i] != null ? `<rect x="${(i % cols) * cell}" y="${Math.floor(i / cols) * cell}" width="${cell - 1.5}" height="${cell - 1.5}" fill="${hex}" fill-opacity="${op(sh[i]).toFixed(2)}"/>` : '').join('')}</svg>`; }
+    cards.push(`<figure class="mm"><figcaption><b>${esc(e.label)}</b></figcaption>${svg}<p class="small">${esc(t('multiLine', {n: won, v: fmt1(100 * vp / tv)}))}</p></figure>`);
+  }
+  body.innerHTML = `<div class="tools-row"><label>${esc(t('multiParty'))} <select id="mmParty">${opts.map(p => `<option value="${esc(p)}" ${p === P ? 'selected' : ''}>${esc(pName(p))}</option>`).join('')}</select></label><span class="small"><i class="sw" style="background:${pColor(P)}"></i> ${esc(t('multiScale', {n: Math.round(maxS * 100)}))}</span></div><div class="mmgrid">${cards.join('')}</div>`;
+  $('#mmParty').onchange = e => { S.mmParty = e.target.value; toolKeyShown = null; toolsTouch(true); };
+}});
+
+
+// ======== feature: 140-patterns.js ========
+// Incumbency patterns (#23): how often the largest party was the same at the next election, by state, with "break the pattern" scenarios.
+addI18n('en', {
+  toolPat: 'Incumbency patterns', patSub: 'How often the party with the most seats was the same as at the previous election. The pattern label looks at the last seven elections. The largest party stands in for the party in power.',
+  patTimeline: 'Largest party, election by election', patRate: 'The same party led again in {a} of {b} elections ({p}%); in the last {rt} elections, {rs}.', patStreak: 'Current streak: {n} in a row for {p}.', patRevolving: 'Revolving door', patSticky: 'Same party keeps winning', patMixed: 'Mixed',
+  patBreak: 'Break the pattern', patAgain: '{p} wins again', patFlip: 'Smallest swing that hands the lead to {p}', patFlipDone: '{r} overtakes {p} at a swing of {n} points.', patNoFlip: 'No swing up to 15 points hands the lead over.', patAll: 'Every state', patElections: 'Elections', patSame: 'Same party again', patPattern: 'Pattern', patLast: 'Last winners',
+});
+addI18n('hi', {
+  toolPat: 'सत्ता के पैटर्न', patSub: 'सबसे ज़्यादा सीटों वाला दल पिछले चुनाव जैसा ही कितनी बार रहा। सत्ता में बैठे दल की जगह सबसे बड़े दल को लिया गया है।',
+  patTimeline: 'सबसे बड़ा दल, चुनाव दर चुनाव', patRate: '{b} में से {a} चुनावों में वही दल फिर आगे रहा ({p}%); पिछले {rt} चुनावों में {rs} बार।', patStreak: 'मौजूदा सिलसिला: {p} का लगातार {n} बार।', patRevolving: 'हर बार बदलाव', patSticky: 'वही दल जीतता रहता है', patMixed: 'मिला-जुला',
+  patBreak: 'पैटर्न तोड़ें', patAgain: '{p} फिर जीते', patFlip: '{p} को बढ़त दिलाने वाला सबसे छोटा स्विंग', patFlipDone: '{n} अंक के स्विंग पर {r} {p} से आगे निकल जाता है।', patNoFlip: '15 अंक तक के किसी स्विंग से बढ़त नहीं पलटती।', patAll: 'हर राज्य', patElections: 'चुनाव', patSame: 'वही दल फिर', patPattern: 'पैटर्न', patLast: 'पिछले विजेता',
+});
+let STATS = null;
+async function statsData(){ if(!STATS) STATS = await getJSON('data/stats.json'); return STATS; }
+function patternOf(seq){
+  const trans = seq.length - 1; if(trans < 1) return null;
+  let same = 0; for(let i = 1; i < seq.length; i++) if(seq[i].lead === seq[i - 1].lead) same++;
+  let streak = 1; for(let i = seq.length - 1; i > 0 && seq[i].lead === seq[i - 1].lead; i--) streak++;
+  const rate = same / trans, rc = seq.slice(-7), rt = rc.length - 1; let rs = 0; for(let i = 1; i < rc.length; i++) if(rc[i].lead === rc[i - 1].lead) rs++;
+  const rr = rt >= 4 ? rs / rt : rate, kt = rt >= 4 ? rt : trans;
+  return {same, trans, rate, streak, rs, rt, kind: kt >= 4 && rr <= 0.34 ? 'rev' : (kt >= 4 && rr >= 0.67 ? 'sticky' : 'mixed')};
+}
+function patLabel(k){ return t(k === 'rev' ? 'patRevolving' : k === 'sticky' ? 'patSticky' : 'patMixed'); }
+const patKey = () => S.eid + '|' + S.kind + '|' + (U.length ? U.map(g => g.baseSeats).join() : '');
+registerTool({id: 'patterns', label: 'toolPat', sub: 'patSub', key: patKey, async render(body, stale){
+  const st = await statsData(); if(stale()) return;
+  const groups = new Map();
+  INDEX.elections.forEach(e => { const k = e.kind === 'LS' ? 'LS' : e.state; if(!groups.has(k)) groups.set(k, []); const s = st[e.id]; if(s && s.lead) groups.get(k).push({e, lead: s.lead[0], n: s.lead[1], tot: s.n}); });
+  groups.forEach(a => a.sort((x, y) => x.e.year - y.e.year || x.e.label.localeCompare(y.e.label)));
+  const key = S.kind === 'LS' ? 'LS' : S.state, seq = groups.get(key) || [], pat = patternOf(seq);
+  const incumbent = U.map((g, k) => k).filter(k => U[k].key !== 'OTH').sort((a, b) => U[b].baseSeats - U[a].baseSeats);
+  const inc = incumbent[0], riv = incumbent[1];
+  const rows = [...groups.entries()].map(([k, a]) => ({k, a, p: patternOf(a)})).filter(o => o.p).sort((x, y) => x.p.rate - y.p.rate || y.p.trans - x.p.trans);
+  const box = x => `<div class="pbox" title="${esc(x.e.label)}: ${esc(pName(x.lead))} ${x.n}" style="background:${pColor(x.lead)}"><b>${esc(x.e.label.slice(-4))}</b><span>${esc(shortCode(x.lead))}</span></div>`;
+  function shortCode(c){ return LANG === 'hi' && HI_PARTY[c] ? HI_PARTY[c] : c.replace('_SHINDE', '').slice(0, 7); }
+  body.innerHTML = `<h4>${esc(t('patTimeline'))}: ${esc(key === 'LS' ? t('lokSabha') : stName(key))}</h4>
+    <div class="ptimeline">${seq.map(box).join('')}</div>
+    ${pat ? `<p style="margin:8px 0 2px;font-family:var(--display);font-weight:600">${esc(t('patRate', {a: pat.same, b: pat.trans, p: Math.round(100 * pat.rate), rt: pat.rt, rs: pat.rs}))} <span class="pill">${esc(patLabel(pat.kind))}</span></p>${pat.streak > 1 ? `<p class="small" style="margin:0">${esc(t('patStreak', {n: pat.streak, p: pName(seq[seq.length - 1].lead)}))}</p>` : ''}` : ''}
+    ${inc != null && riv != null ? `<h4 style="margin:14px 0 6px">${esc(t('patBreak'))}</h4><div class="row"><button class="btn small" id="patAgain">${esc(t('patAgain', {p: U[inc].name}))}</button><button class="btn small" id="patFlip">${esc(t('patFlip', {p: U[riv].name}))}</button></div>` : ''}
+    <h4 style="margin:16px 0 4px">${esc(t('patAll'))}</h4>
+    <div class="seatlist" style="max-height:420px"><table class="tbl"><thead><tr><th>${esc(t('thRegion'))}</th><th>${esc(t('patElections'))}</th><th>${esc(t('patSame'))}</th><th>${esc(t('patPattern'))}</th><th>${esc(t('patLast'))}</th></tr></thead><tbody>
+    ${rows.map(o => `<tr class="click${o.k === key ? ' cur' : ''}" data-k="${esc(o.k)}"><td>${esc(o.k === 'LS' ? t('lokSabha') : stName(o.k))}</td><td class="num">${o.p.trans + 1}</td><td class="num"><b>${o.p.same}/${o.p.trans}</b><div class="meter"><i style="width:${100 * o.p.rate}%;background:var(--violet)"></i></div></td><td>${esc(patLabel(o.p.kind))}</td><td><div class="ptimeline mini">${o.a.slice(-6).map(x => `<i title="${esc(x.e.label)}: ${esc(pName(x.lead))}" style="background:${pColor(x.lead)}"></i>`).join('')}</div></td></tr>`).join('')}</tbody></table></div>`;
+  alignTables(body);
+  body.querySelectorAll('tr[data-k]').forEach(tr => tr.onclick = () => { const k = tr.dataset.k, l = groups.get(k), last = l[l.length - 1].e; S.tab = 'easy'; if(k === 'LS') openSim('LS', null, 'next:' + last.id); else openSim('AE', k, 'next:' + last.id, true); });
+  const ag = $('#patAgain'); if(ag) ag.onclick = () => { S.swing = {a: null, b: null, pts: 0}; S.T = {}; run(); renderPane(); toast(t('patAgain', {p: U[inc].name})); };
+  const fl = $('#patFlip'); if(fl) fl.onclick = () => {
+    const base = baseT(); let found = null;
+    for(let pts = 0; pts <= 15; pts += 0.5){ const T = base.slice(), mv = Math.min(pts, T[inc]); T[inc] -= mv; T[riv] += mv; const save = S.T; S.T = {}; setAll(T); const c = winners(simulate(targets()), S.overrides).counts; S.T = save; if(c[riv] > c[inc]){ found = pts; break; } }
+    if(found == null){ toast(t('patNoFlip')); return; }
+    S.swing = {a: U[inc].key, b: U[riv].key, pts: found}; applySwing(); renderPane(); toast(t('patFlipDone', {r: U[riv].name, p: U[inc].name, n: fmt1(found)}));
+  };
+}});
+
+
+// ======== feature: 150-representation.js ========
+// Representation (#25): women among winners, average age of winners, and party performance in reserved (SC / ST) seats.
+addI18n('en', {
+  toolRep: 'Representation', repSub: 'Women among the winners over time, the average age of winners, and how parties did in the seats reserved for Scheduled Castes and Tribes.',
+  repWomen: 'Women among winners', repWomenNote: 'From the candidate data where it records sex; Lok Sabha 2009 to 2024 use the counts listed by Wikipedia. Elections without sex data are left out.', repAge: 'Average age of winners', repAgeNote: 'Only elections where the source recorded ages.',
+  repReserved: 'Reserved seats', repSC: 'SC seats', repST: 'ST seats', repReal: 'Real result', repScn: 'Scenario', repNoRes: 'No reserved-seat information for this election.', repWomenN: '{n} women ({p}%)', repYrs: '{n} yrs',
+  repSeatsOf: '{a} of {b}', repNoData: 'No sex data recorded for this election history.',
+});
+addI18n('hi', {
+  toolRep: 'प्रतिनिधित्व', repSub: 'समय के साथ विजेताओं में महिलाएँ, विजेताओं की औसत उम्र, और अनुसूचित जाति-जनजाति के लिए आरक्षित सीटों पर दलों का प्रदर्शन।',
+  repWomen: 'विजेताओं में महिलाएँ', repWomenNote: 'उम्मीदवार-आँकड़ों से, जहाँ लिंग दर्ज है; लोकसभा 2009 से 2024 के लिए विकिपीडिया की सूचीबद्ध गिनती ली गई है। जिन चुनावों में लिंग दर्ज नहीं, वे छोड़े गए हैं।', repAge: 'विजेताओं की औसत उम्र', repAgeNote: 'सिर्फ़ वे चुनाव जिनमें स्रोत ने उम्र दर्ज की।',
+  repReserved: 'आरक्षित सीटें', repSC: 'अनुसूचित जाति की सीटें', repST: 'अनुसूचित जनजाति की सीटें', repReal: 'असली नतीजा', repScn: 'परिदृश्य', repNoRes: 'इस चुनाव के लिए आरक्षित सीटों की जानकारी नहीं है।', repWomenN: '{n} महिलाएँ ({p}%)', repYrs: '{n} वर्ष',
+  repSeatsOf: '{b} में से {a}', repNoData: 'इस चुनावी इतिहास के लिए लिंग का आँकड़ा दर्ज नहीं है।',
+});
+function barSvg(pts, o){
+  const W = 760, H = 190, L = 36, B = 26, T = 18, n = pts.length, bw = (W - L - 8) / Math.max(n, 1), mx = Math.max(o.min || 0, ...pts.map(p => p.v));
+  const y = v => H - B - (H - B - T) * v / mx;
+  let g = [0, .5, 1].map(f => `<line x1="${L}" x2="${W}" y1="${y(mx * f)}" y2="${y(mx * f)}" stroke="var(--line)"/>${svgText(L - 6, y(mx * f) + 4, o.fmt(mx * f), {anchor: 'end', size: 11})}`).join('');
+  pts.forEach((p, i) => { const cx = L + i * bw + bw / 2; g += `<rect x="${cx - bw * .34}" y="${y(p.v)}" width="${bw * .68}" height="${H - B - y(p.v)}" rx="2" fill="${o.color}" fill-opacity="${p.off ? .45 : .9}"><title>${esc(p.l)}: ${o.fmt(p.v)}${p.off ? ' *' : ''}</title></rect>`;
+    if(bw > 26 || i % 2 === 0) g += svgText(cx, y(p.v) - 4, o.fmt(p.v), {anchor: 'middle', size: 10.5, fill: 'var(--ink)', weight: 600});
+    if(n <= 22 || i % 2 === 0 || i === n - 1) g += svgText(cx, H - 9, p.l, {anchor: 'middle', size: 10.5}); });
+  return `<div class="tw"><svg viewBox="0 0 ${W} ${H}" style="min-width:520px" role="img" aria-label="${esc(o.label)}">${g}</svg></div>`;
+}
+registerTool({id: 'representation', label: 'toolRep', sub: 'repSub', live: true, key: simKey, async render(body, stale){
+  const st = await statsData(); if(stale()) return;
+  const els = INDEX.elections.filter(e => S.kind === 'LS' ? e.kind === 'LS' : (e.kind === 'AE' && e.state === S.state)).sort((a, b) => a.year - b.year || a.label.localeCompare(b.label));
+  const wp = els.map(e => { const s = st[e.id]; if(!s) return null; if(s.wOff != null) return {l: e.label, v: 100 * s.wOff / s.n, n: s.wOff, off: true}; return s.women[0] > 0.7 * s.n ? {l: e.label, v: 100 * s.women[1] / s.women[0], n: s.women[1]} : null; }).filter(Boolean);
+  const ap = els.map(e => { const s = st[e.id]; return s && s.age[0] > 0.5 * s.n ? {l: e.label, v: s.age[1] / s.age[0]} : null; }).filter(Boolean);
+  // reserved seats: real result vs the scenario
+  const cats = ['SC', 'ST'].map(c => { const idx = E.seats.map((s, i) => i).filter(i => E.seats[i].cat === c); if(!idx.length) return null;
+    const cnt = (win) => { const m = new Map(); idx.forEach(i => { const k = win[i]; m.set(k, (m.get(k) || 0) + 1); }); return m; }, a = cnt(E.baseWin), b = cnt(RES.win);
+    const keys = U.map((g, k) => k).filter(k => U[k].key !== 'OTH' && ((a.get(k) || 0) + (b.get(k) || 0)) > 0).sort((x, y) => (b.get(y) || 0) - (b.get(x) || 0) || (a.get(y) || 0) - (a.get(x) || 0)).slice(0, 7);
+    return {c, n: idx.length, keys, a, b}; }).filter(Boolean);
+  body.innerHTML = `<h4>${esc(t('repWomen'))}</h4>${wp.length ? barSvg(wp, {color: 'var(--violet)', fmt: v => fmt1(v) + '%', label: t('repWomen'), min: 20}) + `<p class="small" style="margin:2px 0 12px">${esc(t('repWomenNote'))} ${wp.some(p => p.off) ? '* ' : ''}</p>` : `<p class="small">${esc(t('repNoData'))}</p>`}
+    ${ap.length >= 3 ? `<h4>${esc(t('repAge'))}</h4>${barSvg(ap, {color: '#0F8B8D', fmt: v => Math.round(v) + '', label: t('repAge'), min: 60})}<p class="small" style="margin:2px 0 12px">${esc(t('repAgeNote'))}</p>` : ''}
+    <h4>${esc(t('repReserved'))}</h4>${cats.length ? `<div class="tools-cols">${cats.map(c => `<div><p class="small" style="margin:0 0 4px"><b>${esc(t(c.c === 'SC' ? 'repSC' : 'repST'))}</b> · ${c.n}</p><table class="tbl"><thead><tr><th>${esc(S.mode === 'alliance' ? t('thAlly') : t('thParty'))}</th><th>${esc(t('repReal'))}</th><th>${esc(t('repScn'))}</th></tr></thead><tbody>
+      ${c.keys.map(k => { const x = c.a.get(k) || 0, y = c.b.get(k) || 0; return `<tr><td><span class="pname"><i class="sw" style="background:${U[k].hex}"></i><span>${esc(shortName(U[k]))}</span></span></td><td class="num">${x}</td><td class="num"><b>${y}</b>${y !== x ? ` <small class="${y > x ? 'up' : 'down'}">${y > x ? '+' : ''}${y - x}</small>` : ''}</td></tr>`; }).join('')}</tbody></table></div>`).join('')}</div>` : `<p class="small">${esc(t('repNoRes'))}</p>`}`;
+}});
+
+
+// ======== feature: 160-story.js ========
+// Story mode (#20): the real result of the open election in about ten full-screen cards (9:16), map changing from card to card.
+// Everything is drawn on one canvas, so it can be shown, saved as images, or recorded as a video for Reels and Shorts.
+addI18n('en', {
+  storyBtn: 'Story', storyTitle: 'Story of {t}', storyIntro: '{n} seats · {m} for a majority', storyWon: '{p} won {n} seats', storyLead: '{p} led with {n} seats, {s} short of a majority', storyMajLine: 'Majority mark: {m}',
+  storyMapT: 'Who won where', storyVotes: 'Votes and seats', storyVotesSub: 'Light bar: share of votes. Solid bar: share of seats.', storyChanges: 'Gainers and losers since {y}', storyHands: '{n} seats changed hands', storyHandsSub: 'The colour is the new winner. Compared with {y}.',
+  storyFact: 'Did you know?', storyOutro: 'Now move the vote yourself', storyImages: 'Save images', storyRecord: 'Record video', storyRecording: 'Recording {n} of {m}…', storyVideoNote: 'Saves a WebM video. Most editors and phone apps take it; if one does not, convert it to MP4.', storyPause: 'Pause', storyPlay: 'Play', storyClose: 'Close', storyImgs: 'Story cards', storyLoading: 'Preparing the story…', storySaved: 'Video saved', storyNoRec: 'Video recording is not supported in this browser.',
+});
+addI18n('hi', {
+  storyBtn: 'स्टोरी', storyTitle: '{t} की कहानी', storyIntro: '{n} सीटें · बहुमत के लिए {m}', storyWon: '{p} ने {n} सीटें जीतीं', storyLead: '{p} {n} सीटों के साथ आगे रहा, बहुमत से {s} कम', storyMajLine: 'बहुमत का आँकड़ा: {m}',
+  storyMapT: 'कहाँ कौन जीता', storyVotes: 'वोट और सीटें', storyVotesSub: 'हल्की पट्टी: वोट का हिस्सा। गहरी पट्टी: सीटों का हिस्सा।', storyChanges: '{y} के बाद बढ़त और नुक़सान', storyHands: '{n} सीटों ने हाथ बदला', storyHandsSub: 'रंग नए विजेता का है। {y} से तुलना।',
+  storyFact: 'क्या आप जानते हैं?', storyOutro: 'अब वोट खुद खिसकाकर देखें', storyImages: 'तस्वीरें सेव करें', storyRecord: 'वीडियो रिकॉर्ड करें', storyRecording: '{m} में से {n} रिकॉर्ड हो रहा है…', storyVideoNote: 'WebM वीडियो सेव होता है। ज़्यादातर एडिटर और फ़ोन ऐप इसे लेते हैं; न ले तो MP4 में बदल लें।', storyPause: 'रोकें', storyPlay: 'चलाएँ', storyClose: 'बंद करें', storyImgs: 'स्टोरी कार्ड', storyLoading: 'स्टोरी तैयार हो रही है…', storySaved: 'वीडियो सेव हो गया', storyNoRec: 'इस ब्राउज़र में वीडियो रिकॉर्डिंग समर्थित नहीं है।',
+});
+const SW = 1080, SH = 1920, STY = {on: false, cards: [], idx: 0, t0: 0, playing: true, raf: 0, rec: null, dur: 5200, data: null};
+const FONT_D = '"Anek Latin","Anek Devanagari",system-ui,sans-serif', FONT_B = '"Hind",system-ui,sans-serif';
+const ease = x => x < 0 ? 0 : x > 1 ? 1 : 1 - Math.pow(1 - x, 3);
+async function storyGeo(e){
+  const hasMap = e.map && e.map !== 'states', name = hasMap ? e.map : (e.kind === 'LS' ? 'states' : null);
+  if(!name) return null;
+  const geo = await miniGeo(name);
+  if(!geo.p2d){ geo.p2d = new Map(); geo.feats.forEach((d, k) => geo.p2d.set(k, new Path2D(d))); }
+  if(!geo.bounds){ const topo = await mapFor(name), fc = topojson.feature(topo, topo.objects[Object.keys(topo.objects)[0]]), path = d3.geoPath(d3.geoMercator().fitSize([geo.W, geo.H], fc)); geo.bounds = new Map();
+    fc.features.forEach(f => geo.bounds.set(String(name === 'states' ? stKey(f.properties.st) : (f.properties.k != null ? f.properties.k : f.properties.n)), path.bounds(f))); }
+  return {geo, mode: hasMap ? 'seats' : 'states', name};
+}
+async function storyData(){
+  const ent = entry(), e = E.raw, P = e.parties, N = E.N, maj = Math.floor(N / 2) + 1;
+  // the real winners, grouped into the units on screen (not the simulator's merged-vote counterfactual)
+  const win = e.seats.map(s => s[4].length ? E.unitOf[s[4][0]] : -1), cnt = new Array(U.length).fill(0);
+  e.seats.forEach((s, i) => { if(win[i] >= 0) cnt[win[i]] += s[6] || 1; });
+  const order = U.map((g, k) => k).filter(k => cnt[k] > 0).sort((a, b) => cnt[b] - cnt[a]);
+  const sg = await storyGeo(e).catch(() => null);
+  const keyOf = i => String(e.mapkeys ? e.mapkeys[i] : (e.seats[i][0] + (e.mapoff || 0)));
+  const curWin = e.seats.map(s => s[4].length ? P[s[4][0]] : null);
+  // previous election, for changes and the gainers / losers card
+  let prev = null, changed = null, deltas = null;
+  try{
+    const list = await history(), ix = list.findIndex(x => x.id === ent.id);
+    if(ix > 0){ prev = list[ix - 1]; const pw = new Map(); prev.seats.forEach(s => { if(s[4].length) pw.set(seatKey(prev, s), prev.parties[s[4][0]]); });
+      let matched = 0; changed = e.seats.map((s, i) => { const p = pw.get(seatKey(e, s)); if(p == null || !curWin[i]) return null; matched++; return p !== curWin[i]; });
+      if(matched < 0.6 * e.seats.length) changed = null;
+      const c0 = new Map(), c1 = new Map(); prev.seats.forEach(s => { if(s[4].length) c0.set(prev.parties[s[4][0]], (c0.get(prev.parties[s[4][0]]) || 0) + (s[6] || 1)); });
+      e.seats.forEach((s, i) => { if(curWin[i]) c1.set(curWin[i], (c1.get(curWin[i]) || 0) + (s[6] || 1)); });
+      deltas = [...new Set([...c0.keys(), ...c1.keys()])].filter(p => !SKIP_P.has(p)).map(p => ({p, a: c0.get(p) || 0, b: c1.get(p) || 0, d: (c1.get(p) || 0) - (c0.get(p) || 0)}));
+    }
+  }catch(err){ console.error(err); }
+  const facts = await makeFacts();
+  // dots for the hemicycle in seat order, left to right
+  const tmp = document.createElement('div'); drawHemicycle(tmp, order.map(k => ({n: cnt[k], c: U[k].hex})), N, maj, 0, '');
+  const dots = [...tmp.querySelectorAll('circle')].map(c => ({x: +c.getAttribute('cx'), y: +c.getAttribute('cy'), r: +c.getAttribute('r'), c: c.getAttribute('fill')}));
+  const tot = {}; let tv = 0; E.seats.forEach(s => { tv += s.tot; });
+  return {ent, e, P, N, maj, order, win, cnt, sg, keyOf, curWin, prev, changed, deltas, facts, dots, title: t(ent.kind === 'LS' ? 'titleLS' : 'titleAE', {y: ent.label, s: stName(ent.state)})};
+}
+// ---- drawing helpers ----
+function sText(g, txt, x, y, o = {}){ g.font = `${o.w || 700} ${o.s || 48}px ${o.f || FONT_D}`; g.fillStyle = o.c || '#141414'; g.textAlign = o.a || 'left'; g.textBaseline = 'alphabetic'; g.fillText(txt, x, y); }
+function sWrap(g, txt, x, y, maxW, lh, o = {}){ g.font = `${o.w || 700} ${o.s || 48}px ${o.f || FONT_D}`; g.fillStyle = o.c || '#141414'; g.textAlign = o.a || 'left';
+  const words = String(txt).split(/\s+/); let line = '', yy = y; for(const w of words){ const tt = line ? line + ' ' + w : w; if(g.measureText(tt).width > maxW && line){ g.fillText(line, x, yy); yy += lh; line = w; } else line = tt; } g.fillText(line, x, yy); return yy + lh; }
+function sFrame(g, D, bg, dark, n, i, p){
+  g.fillStyle = bg; g.fillRect(0, 0, SW, SH);
+  // progress bars like stories
+  const gap = 8, bw = (SW - 80 - gap * (n - 1)) / n;
+  for(let k = 0; k < n; k++){ g.fillStyle = dark ? 'rgba(255,255,255,.28)' : 'rgba(20,20,20,.16)'; g.beginPath(); g.roundRect(40 + k * (bw + gap), 34, bw, 8, 4); g.fill();
+    const f = k < i ? 1 : k === i ? p : 0; if(f > 0){ g.fillStyle = dark ? '#fff' : '#141414'; g.beginPath(); g.roundRect(40 + k * (bw + gap), 34, bw * f, 8, 4); g.fill(); } }
+  sText(g, 'JANADESH  जनादेश', 48, 98, {s: 30, w: 800, c: dark ? '#B79BEA' : '#4A2577'});
+  sText(g, D.title, SW - 48, 98, {s: 28, w: 600, a: 'right', f: FONT_B, c: dark ? 'rgba(255,255,255,.7)' : '#5D6068'});
+}
+function sMap(g, D, box, fillFor, o = {}){
+  const sg = D.sg; if(!sg){ return false; }
+  const {geo, mode} = sg, k0 = Math.min(box.w / geo.W, box.h / geo.H);
+  g.save(); g.beginPath(); g.rect(box.x, box.y, box.w, box.h); g.clip();
+  let k = k0, tx = box.x + (box.w - geo.W * k0) / 2, ty = box.y + (box.h - geo.H * k0) / 2;
+  if(o.zoom && o.focus){ const b = geo.bounds.get(o.focus); if(b){ const bw = b[1][0] - b[0][0], bh = b[1][1] - b[0][1], kz = Math.min(box.w / Math.max(bw * 5, 60), box.h / Math.max(bh * 5, 60), 7), kk = k0 + (Math.max(k0, kz) - k0) * o.zoom, cx = (b[0][0] + b[1][0]) / 2, cy = (b[0][1] + b[1][1]) / 2;
+    k = kk; tx = box.x + box.w / 2 - cx * kk; ty = box.y + box.h / 2 - cy * kk; } }
+  g.translate(tx, ty); g.scale(k, k);
+  g.fillStyle = '#EEF0F2'; geo.p2d.forEach(pp => g.fill(pp));
+  g.lineWidth = .35 * (k0 / k); g.strokeStyle = '#fff';
+  if(mode === 'seats'){ D.e.seats.forEach((s, i) => { const pp = geo.p2d.get(D.keyOf(i)); if(!pp) return; const f = fillFor(i); if(!f) return; g.globalAlpha = f.a == null ? 1 : f.a; g.fillStyle = f.c; g.fill(pp); g.globalAlpha = 1; g.stroke(pp); }); }
+  else { const agg = new Map(); D.e.seats.forEach((s, i) => { if(s[3] < 0) return; const key = stKey(D.e.regions[s[3]]), f = fillFor(i); if(!f) return; const a = agg.get(key) || new Map(); a.set(f.c, (a.get(f.c) || 0) + 1); agg.set(key, a); });
+    agg.forEach((a, key) => { const pp = geo.p2d.get(key); if(!pp) return; g.fillStyle = [...a.entries()].sort((x, y) => y[1] - x[1])[0][0]; g.fill(pp); g.stroke(pp); }); }
+  if(o.after) o.after(g, {k, tx, ty, geo});
+  g.restore(); return true;
+}
+function sWaffle(g, D, box, fillFor, hi){
+  const n = D.e.seats.length, cols = Math.ceil(Math.sqrt(n * box.w / box.h)), cell = box.w / cols, rows = Math.ceil(n / cols), oy = box.y + Math.max(0, (box.h - rows * cell) / 2);
+  D.e.seats.forEach((s, i) => { const f = fillFor(i); g.fillStyle = f ? f.c : '#EEF0F2'; g.globalAlpha = f && f.a != null ? f.a : 1; g.beginPath(); g.roundRect(box.x + (i % cols) * cell + 1.5, oy + Math.floor(i / cols) * cell + 1.5, cell - 3, cell - 3, 3); g.fill(); g.globalAlpha = 1;
+    if(hi === i){ g.strokeStyle = '#141414'; g.lineWidth = 5; g.stroke(); } });
+}
+const unitOfSeat = (D, i) => Math.max(0, D.win[i]);
+function legend(g, D, y, items){
+  let x = 56; g.textBaseline = 'alphabetic';
+  items.forEach(([c, label]) => { g.fillStyle = c; g.beginPath(); g.roundRect(x, y - 26, 30, 30, 6); g.fill(); sText(g, label, x + 42, y, {s: 34, w: 600, f: FONT_B}); x += 60 + g.measureText(label).width + 22; if(x > SW - 200){ x = 56; y += 52; } });
+}
+function storyCards(D){
+  const C = [], n0 = () => C.length;
+  const top = D.order.slice(0, 5), lead = D.order[0], lc = D.cnt[lead];
+  const mapBox = {x: 40, y: 250, w: SW - 80, h: 1250};
+  // 1 intro
+  C.push({dark: true, bg: '#141414', draw(g, p){
+    sText(g, D.title, SW / 2, 330, {s: 112, c: '#fff', a: 'center', w: 800}); sText(g, t('storyIntro', {n: D.N, m: D.maj}), SW / 2, 410, {s: 44, c: 'rgba(255,255,255,.75)', a: 'center', f: FONT_B, w: 500});
+    const sc = 1.9, ox = (SW - 520 * sc) / 2, oy = 560, show = Math.floor(D.dots.length * ease(p / .8));
+    D.dots.forEach((d, i) => { g.fillStyle = i < show ? d.c : 'rgba(255,255,255,.14)'; g.beginPath(); g.arc(ox + d.x * sc, oy + d.y * sc, d.r * sc, 0, 7); g.fill(); });
+    sText(g, t('storyIntro', {n: D.N, m: D.maj}).split(' · ')[1] || '', SW / 2, oy + 290 * sc - 40, {s: 40, c: 'rgba(255,255,255,.8)', a: 'center', f: FONT_B, w: 500});
+    sText(g, '←  →', SW / 2, SH - 90, {s: 40, c: 'rgba(255,255,255,.5)', a: 'center'});
+  }});
+  // 2 winner
+  C.push({bg: '#fff', draw(g, p){
+    const col = U[lead].hex, cnt = Math.round(lc * ease(p / .6));
+    g.fillStyle = col; g.fillRect(0, 160, SW, 640); g.globalAlpha = .12; g.fillStyle = '#000'; g.fillRect(0, 160, SW, 640); g.globalAlpha = 1;
+    sText(g, String(cnt), SW / 2, 560, {s: 360, c: '#fff', a: 'center', w: 800});
+    sWrap(g, lc >= D.maj ? t('storyWon', {p: U[lead].name, n: lc}) : t('storyLead', {p: U[lead].name, n: lc, s: D.maj - lc}), SW / 2, 650, SW - 140, 64, {s: 54, c: '#fff', a: 'center'});
+    // seat bar
+    const bx = 56, bw = SW - 112, by = 940; let x = bx;
+    g.fillStyle = '#EEF0F2'; g.beginPath(); g.roundRect(bx, by, bw, 80, 14); g.fill();
+    g.save(); g.beginPath(); g.roundRect(bx, by, bw, 80, 14); g.clip(); D.order.forEach(k => { const w = bw * D.cnt[k] / D.N * ease(p / .9); g.fillStyle = U[k].hex; g.fillRect(x, by, w, 80); x += w; }); g.restore();
+    const mx = bx + bw * (D.maj - .5) / D.N; g.fillStyle = '#141414'; g.fillRect(mx - 2, by - 18, 4, 116); sText(g, t('storyMajLine', {m: D.maj}), mx, by + 150, {s: 36, a: 'center', f: FONT_B, w: 600});
+    top.forEach((k, i) => { const y = 1230 + i * 120; g.fillStyle = U[k].hex; g.beginPath(); g.roundRect(56, y - 44, 56, 56, 12); g.fill(); sText(g, shortName(U[k]), 136, y, {s: 56, w: 600}); sText(g, String(Math.round(D.cnt[k] * ease((p - i * .05) / .6))), SW - 56, y, {s: 66, a: 'right', w: 800}); });
+  }});
+  // 3 map: who won where
+  C.push({bg: '#fff', draw(g, p){
+    sText(g, t('storyMapT'), 56, 190, {s: 74, w: 800});
+    const nShow = Math.floor(D.e.seats.length * ease(p / .85)), fill = i => i < nShow ? {c: U[unitOfSeat(D, i)].hex} : null;
+    if(!sMap(g, D, mapBox, fill)) sWaffle(g, D, mapBox, fill);
+    legend(g, D, 1580, top.slice(0, 4).map(k => [U[k].hex, shortName(U[k]) + ' ' + D.cnt[k]]));
+  }});
+  // 4 votes vs seats
+  C.push({bg: '#fff', draw(g, p){
+    sText(g, t('storyVotes'), 56, 190, {s: 74, w: 800}); sText(g, t('storyVotesSub'), 56, 250, {s: 34, c: '#5D6068', f: FONT_B, w: 500});
+    const mx = Math.max(...top.map(k => Math.max(U[k].base, 100 * D.cnt[k] / D.N)), 10), bw = SW - 112 - 300;
+    top.forEach((k, i) => { const y = 380 + i * 230, f = ease((p - i * .06) / .5), vw = bw * U[k].base / mx * f, sw2 = bw * (100 * D.cnt[k] / D.N) / mx * f;
+      sText(g, shortName(U[k]), 56, y, {s: 56, w: 700}); g.fillStyle = U[k].hex; g.globalAlpha = .3; g.beginPath(); g.roundRect(56, y + 24, Math.max(6, vw), 46, 10); g.fill(); g.globalAlpha = 1;
+      g.fillStyle = U[k].hex; g.beginPath(); g.roundRect(56, y + 82, Math.max(6, sw2), 46, 10); g.fill();
+      sText(g, fmt1(U[k].base) + '% ' + '·', 56 + Math.max(6, vw) + 16, y + 62, {s: 34, f: FONT_B, w: 600, c: '#5D6068'}); sText(g, fmt1(100 * D.cnt[k] / D.N) + '% (' + D.cnt[k] + ')', 56 + Math.max(6, sw2) + 16, y + 120, {s: 38, w: 800}); });
+  }});
+  // 5 gainers and losers
+  if(D.deltas){ const g1 = D.deltas.filter(x => x.d > 0).sort((a, b) => b.d - a.d).slice(0, 3), l1 = D.deltas.filter(x => x.d < 0).sort((a, b) => a.d - b.d).slice(0, 3);
+    if(g1.length || l1.length) C.push({bg: '#fff', draw(g, p){
+      sWrap(g, t('storyChanges', {y: D.prev.label}), 56, 190, SW - 112, 84, {s: 74, w: 800});
+      const rows = g1.concat(l1), mx = Math.max(...rows.map(r => Math.abs(r.d)), 1);
+      rows.forEach((r, i) => { const y = 500 + i * 200 + (i >= g1.length ? 60 : 0), w = (SW - 112 - 200) * Math.abs(r.d) / mx * ease((p - i * .05) / .5), up = r.d > 0;
+        sText(g, pName(r.p), 56, y, {s: 52, w: 700}); g.fillStyle = up ? '#16794A' : '#B4372B'; g.beginPath(); g.roundRect(56, y + 24, Math.max(8, w), 56, 12); g.fill();
+        sText(g, (up ? '+' : '') + r.d, 56 + Math.max(8, w) + 20, y + 70, {s: 54, w: 800, c: up ? '#16794A' : '#B4372B'}); sText(g, r.a + ' → ' + r.b, SW - 56, y, {s: 40, a: 'right', f: FONT_B, w: 600, c: '#5D6068'}); });
+    }}); }
+  // 6 what changed hands
+  if(D.changed){ const cnt = D.changed.filter(Boolean).length;
+    C.push({bg: '#fff', draw(g, p){
+      sText(g, t('storyHands', {n: cnt}), 56, 190, {s: 74, w: 800}); sText(g, t('storyHandsSub', {y: D.prev.label}), 56, 250, {s: 34, c: '#5D6068', f: FONT_B, w: 500});
+      const fill = i => D.changed[i] ? {c: pColor(D.curWin[i]), a: ease((p - .1) / .5)} : (D.curWin[i] ? {c: '#E3E5E9'} : null);
+      if(!sMap(g, D, mapBox, fill)) sWaffle(g, D, mapBox, fill);
+      const by = {}; D.changed.forEach((c, i) => { if(c) by[D.curWin[i]] = (by[D.curWin[i]] || 0) + 1; });
+      legend(g, D, 1580, Object.entries(by).sort((a, b) => b[1] - a[1]).slice(0, 4).map(([c, n]) => [pColor(c), shortCode2(c) + ' +' + n]));
+    }}); }
+  // 7, 8: closest and biggest, zoomed on the seat
+  ['close', 'big'].forEach(id => { const f = D.facts.find(x => x.id === id); if(!f || f.seat == null) return; const i = f.seat;
+    C.push({bg: '#fff', draw(g, p){
+      sText(g, t('storyFact'), 56, 190, {s: 74, w: 800});
+      const zoom = ease((p - .1) / .6), focus = D.keyOf(i), win = unitOfSeat(D, i);
+      const fill = j => j === i ? {c: U[win].hex} : (D.curWin[j] ? {c: '#E8EAEE'} : null);
+      const after = (g2, m) => { const b = m.geo.bounds.get(focus); if(!b) return; const cx = (b[0][0] + b[1][0]) / 2, cy = (b[0][1] + b[1][1]) / 2, r = Math.max(8 / m.k * 3, Math.max(b[1][0] - b[0][0], b[1][1] - b[0][1]) / 2) * (1.2 + .3 * Math.sin(p * 18));
+        g2.strokeStyle = '#141414'; g2.lineWidth = 3 / m.k * m.geo.W / 600; g2.beginPath(); g2.arc(cx, cy, r, 0, 7); g2.stroke(); };
+      const ok = sMap(g, D, {x: 40, y: 280, w: SW - 80, h: 900}, fill, {zoom, focus, after}); if(!ok) sWaffle(g, D, {x: 40, y: 280, w: SW - 80, h: 900}, fill, i);
+      sWrap(g, f.text, 56, 1290, SW - 112, 78, {s: 56, w: 700});
+    }}); });
+  // up to two more facts
+  D.facts.filter(f => !['close', 'big'].includes(f.id)).slice(0, 2).forEach(f => { C.push({bg: '#F3EFFA', draw(g, p){
+    sText(g, t('storyFact'), 56, 190, {s: 74, w: 800, c: '#4A2577'}); const a = ease(p / .4); g.globalAlpha = a;
+    sWrap(g, f.text, 70, 620 - 30 * (1 - a), SW - 140, 104, {s: 78, w: 800}); g.globalAlpha = 1;
+  }}); });
+  // outro
+  C.push({dark: true, bg: '#141414', draw(g, p){
+    sText(g, t('storyOutro'), SW / 2, 760, {s: 96, c: '#fff', a: 'center', w: 800}); sText(g, 'janadesh-smoky.vercel.app', SW / 2, 900, {s: 54, c: '#B79BEA', a: 'center', f: FONT_B, w: 600});
+    const sc = 1.7, ox = (SW - 520 * sc) / 2; D.dots.forEach(d => { g.fillStyle = d.c; g.beginPath(); g.arc(ox + d.x * sc, 1080 + d.y * sc, d.r * sc, 0, 7); g.fill(); });
+    sText(g, t('disclaimer').split('.')[0] + '.', SW / 2, SH - 100, {s: 34, c: 'rgba(255,255,255,.6)', a: 'center', f: FONT_B, w: 500});
+  }});
+  return C;
+}
+const shortCode2 = c => LANG === 'hi' && HI_PARTY[c] ? HI_PARTY[c] : c.replace('_SHINDE', '');
+// ---- player ----
+function storyDraw(now){
+  const cv = $('#storyCv'), g = cv.getContext('2d'), n = STY.cards.length, c = STY.cards[STY.idx]; if(!c) return;
+  const dur = STY.rec ? STY.recDur : STY.dur, p = Math.min(1, (now - STY.t0) / dur);
+  sFrame(g, STY.data, c.bg, c.dark, n, STY.idx, p); c.draw(g, p);
+  return p;
+}
+function storyLoop(now){
+  if(!STY.on) return;
+  const p = storyDraw(now);
+  if(STY.playing || STY.rec){ if(p >= 1){ if(STY.idx < STY.cards.length - 1){ STY.idx++; STY.t0 = now; } else if(STY.rec){ stopRecording(); } else { STY.playing = false; paintStoryUI(); } } }
+  STY.raf = requestAnimationFrame(storyLoop);
+}
+function storyGo(i){ STY.idx = Math.max(0, Math.min(STY.cards.length - 1, i)); STY.t0 = performance.now(); }
+function paintStoryUI(){ const b = $('#storyPlay'); if(b) b.textContent = STY.playing ? t('storyPause') : t('storyPlay'); }
+function closeStory(){ STY.on = false; cancelAnimationFrame(STY.raf); if(STY.rec) try{ STY.rec.recorder.stop(); }catch(e){} STY.rec = null; $('#story').hidden = true; document.body.style.overflow = ''; document.removeEventListener('keydown', storyKey); }
+function storyKey(ev){ if(ev.key === 'Escape') closeStory(); else if(ev.key === 'ArrowRight' || ev.key === ' '){ ev.preventDefault(); storyGo(STY.idx + 1); } else if(ev.key === 'ArrowLeft') storyGo(STY.idx - 1); }
+async function openStory(){
+  const box = $('#story'); box.hidden = false; document.body.style.overflow = 'hidden'; STY.on = true;
+  box.innerHTML = `<div class="story-load"><span class="loading"><i></i>${esc(t('storyLoading'))}</span></div>`;
+  try{ await Promise.all(['800 40px "Anek Latin"', '600 24px "Hind"', '700 30px "Anek Devanagari"'].map(f => document.fonts.load(f, 'Aअ'))); }catch(e){}
+  let D; try{ D = await storyData(); }catch(err){ console.error(err); closeStory(); return; }
+  if(!STY.on) return;
+  STY.data = D; STY.cards = storyCards(D); STY.idx = 0; STY.playing = true; STY.t0 = performance.now(); track('story_open');
+  box.innerHTML = `<div class="story-stage"><canvas id="storyCv" width="${SW}" height="${SH}" aria-label="${esc(t('storyTitle', {t: D.title}))}"></canvas>
+    <div class="story-tap" id="stPrev" aria-label="Previous"></div><div class="story-tap right" id="stNext" aria-label="Next"></div></div>
+    <div class="story-bar"><button class="btn small" id="storyPlay"></button><button class="btn small" id="storyImgs">${esc(t('storyImages'))}</button><button class="btn small" id="storyRec">${esc(t('storyRecord'))}</button><button class="btn small" id="storyX">${esc(t('storyClose'))}</button></div>`;
+  paintStoryUI();
+  $('#stPrev').onclick = () => storyGo(STY.idx - 1); $('#stNext').onclick = () => storyGo(STY.idx + 1);
+  $('#storyPlay').onclick = () => { STY.playing = !STY.playing; if(STY.playing && STY.idx === STY.cards.length - 1) storyGo(0); STY.t0 = performance.now(); paintStoryUI(); };
+  $('#storyX').onclick = closeStory; $('#storyImgs').onclick = storyImages; $('#storyRec').onclick = startRecording;
+  let sx = 0; const st = $('#storyCv'); st.addEventListener('touchstart', e => { sx = e.touches[0].clientX; }, {passive: true}); st.addEventListener('touchend', e => { const dx = e.changedTouches[0].clientX - sx; if(Math.abs(dx) > 50) storyGo(STY.idx + (dx < 0 ? 1 : -1)); }, {passive: true});
+  document.addEventListener('keydown', storyKey);
+  STY.raf = requestAnimationFrame(storyLoop);
+}
+function renderFrame(i, canvas){ const g = canvas.getContext('2d'), c = STY.cards[i]; sFrame(g, STY.data, c.bg, c.dark, STY.cards.length, i, 1); c.draw(g, 1); }
+function storyImages(){
+  STY.playing = false; paintStoryUI();
+  const imgs = STY.cards.map((c, i) => { const cv = document.createElement('canvas'); cv.width = SW; cv.height = SH; renderFrame(i, cv); return cv.toDataURL('image/png'); });
+  modal(`<h3>${esc(t('storyImgs'))}</h3><div class="storythumbs">${imgs.map((u, i) => `<a href="${u}" download="janadesh-story-${i + 1}.png"><img src="${u}" alt="${i + 1}" loading="lazy"></a>`).join('')}</div><div class="row" style="margin-top:8px"><button class="btn" data-close>${esc(t('close'))}</button></div>`);
+}
+function startRecording(){
+  if(!window.MediaRecorder || !$('#storyCv').captureStream){ toast(t('storyNoRec')); return; }
+  const cv = $('#storyCv'), mime = ['video/webm;codecs=vp9', 'video/webm;codecs=vp8', 'video/webm'].find(m => MediaRecorder.isTypeSupported(m));
+  if(!mime){ toast(t('storyNoRec')); return; }
+  const chunks = [], recorder = new MediaRecorder(cv.captureStream(30), {mimeType: mime, videoBitsPerSecond: 6e6});
+  recorder.ondataavailable = e => { if(e.data.size) chunks.push(e.data); };
+  recorder.onstop = () => { const blob = new Blob(chunks, {type: 'video/webm'}), a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'janadesh-story.webm'; document.body.appendChild(a); a.click(); a.remove(); STY.rec = null; STY.playing = false; paintStoryUI(); $('#storyRec').textContent = t('storyRecord'); toast(t('storySaved')); STY.lastBlob = blob; };
+  STY.rec = {recorder}; STY.recDur = 4200; STY.idx = 0; STY.t0 = performance.now(); STY.playing = true;
+  recorder.start(250);
+  const tick = setInterval(() => { if(!STY.rec){ clearInterval(tick); return; } $('#storyRec').textContent = t('storyRecording', {n: STY.idx + 1, m: STY.cards.length}); }, 300);
+}
+function stopRecording(){ if(STY.rec) STY.rec.recorder.stop(); }
+$('#storyBtn').onclick = openStory;
+
+
+// ======== feature: 170-tree.js ========
+// Party family tree (#56): splits, mergers and foundings, as a timeline diagram (page #/tree). Data: source/ref/lineage.json.
+addI18n('en', {treeTitle: 'Party family tree', treeSub: 'How today\'s parties split off from, or merged into, older ones. Simplified; each event is a split, a merger or a founding.', treeEvents: 'What happened, year by year', treeNow: 'today', evSplit: 'Split', evMerge: 'Merger', evFormed: 'Founded', treeNote: 'Hover or tap a marker for the event. Colours are the party colours used in the simulator.'});
+addI18n('hi', {treeTitle: 'दलों का वंश-वृक्ष', treeSub: 'आज के दल पुराने दलों से कैसे टूटे या उनमें कैसे मिले। सरलीकृत; हर घटना एक टूट, विलय या स्थापना है।', treeEvents: 'साल दर साल क्या हुआ', treeNow: 'आज', evSplit: 'टूट', evMerge: 'विलय', evFormed: 'स्थापना', treeNote: 'घटना देखने के लिए मार्कर पर होवर या टैप करें। रंग सिम्युलेटर के दलों के रंग हैं।'});
+let LIN = null;
+async function lineageData(){ if(!LIN) LIN = await getJSON('ref/lineage.json'); return LIN; }
+const EV_GLYPH = {split: '✂', merge: '⊕', formed: '★'};
+PAGES.set('tree', async box => {
+  const D = await lineageData();
+  const Y0 = 1950, Y1 = 2028, PX = 12, L = 14, W = L + (Y1 - Y0) * PX + 30, RH = 28, rows = Math.max(...D.nodes.map(n => n.row)) + 2, H = rows * RH + 40;
+  const X = y => L + (Math.min(y, Y1) - Y0) * PX, Yr = r => 30 + r * RH + RH / 2 + 8, node = id => D.nodes.find(n => n.id === id);
+  const fam = ['#EEF0FA', '#FFF3E6', '#FDECEC', '#EEF7EE', '#EAF3F8', '#FFF6DD', '#F2EEF8'];
+  const colour = n => n.code ? pColor(n.code) : '#8A8F98';
+  let g = D.families.map((f, i) => `<rect x="0" y="${30 + f.from * RH}" width="${W}" height="${(f.to - f.from) * RH}" fill="${fam[i % fam.length]}"/>${svgText(W - 8, 30 + f.from * RH + 13, L2(f.en, f.hi), {size: 11.5, weight: 700, fill: 'var(--muted)', anchor: 'end'})}`).join('');
+  for(let y = 1950; y <= 2020; y += 10) g += `<line x1="${X(y)}" x2="${X(y)}" y1="22" y2="${H - 8}" stroke="var(--line)"/>${svgText(X(y), 16, String(y), {anchor: 'middle', size: 11})}`;
+  g += svgText(X(2026), 16, t('treeNow'), {anchor: 'middle', size: 11});
+  D.events.forEach(ev => { const x = X(ev.year), pairs = ev.links || (ev.parents.length ? ev.parents.flatMap(a => ev.children.map(b => [a, b])) : []);
+    pairs.forEach(([a, b]) => { g += `<path d="M${x},${Yr(node(a).row)} V${Yr(node(b).row)}" stroke="#141414" stroke-opacity=".55" stroke-width="1.6" stroke-dasharray="${ev.kind === 'merge' ? '0' : '3 2'}"/>`; }); });
+  D.nodes.forEach(n => { const x0 = X(n.from), x1 = n.to ? X(n.to + .8) : X(2027), y = Yr(n.row);
+    g += `<line x1="${x0}" x2="${Math.max(x1, x0 + 6)}" y1="${y}" y2="${y}" stroke="${colour(n)}" stroke-width="9" stroke-linecap="round"/>`;
+    g += svgText(x0 + (x0 > 600 ? -4 : 4), y - 8, L2(n.n, n.h), {size: 11.5, weight: 600, fill: 'var(--ink)', anchor: x0 > 700 ? 'end' : 'start'}); });
+  D.events.forEach(ev => ev.children.concat(ev.kind === 'merge' ? [] : ev.parents.slice(0, 0)).forEach(id => { const n = node(id), x = X(ev.year), y = Yr(n.row);
+    g += `<g><title>${esc(ev.year + ' · ' + L2(ev.en, ev.hi))}</title><circle cx="${x}" cy="${y}" r="7.5" fill="#fff" stroke="#141414" stroke-width="1.6"/>${svgText(x, y + 4, EV_GLYPH[ev.kind], {anchor: 'middle', size: 10.5, fill: '#141414'})}</g>`; }));
+  const kindName = k => t(k === 'split' ? 'evSplit' : k === 'merge' ? 'evMerge' : 'evFormed');
+  box.innerHTML = `<article class="page" style="max-width:none"><h2>${esc(t('treeTitle'))}</h2><p class="lede">${esc(t('treeSub'))}</p>
+    <p class="small">✂ ${esc(t('evSplit'))} · ⊕ ${esc(t('evMerge'))} · ★ ${esc(t('evFormed'))}. ${esc(t('treeNote'))}</p>
+    <div class="tw"><svg viewBox="0 0 ${W} ${H}" style="min-width:${W}px;max-width:100%" role="img" aria-label="${esc(t('treeTitle'))}">${g}</svg></div>
+    <h3>${esc(t('treeEvents'))}</h3>${D.events.map(ev => `<div class="chg"><span class="pill">${esc(ev.year)}</span> <span class="pill" style="background:var(--sunk);color:var(--ink)">${EV_GLYPH[ev.kind]} ${esc(kindName(ev.kind))}</span><p style="color:var(--ink)">${esc(L2(ev.en, ev.hi))}</p></div>`).join('')}
+    <p class="small">${esc(D.note)}</p></article>`;
+});
+
+
+// ======== feature: 180-boundaries.js ========
+// How constituencies changed: delimitation history (#/boundaries), a "new and renamed seats" tool with approximate areas, and a "new seats" map shading.
+// Seats are matched by name across elections (Lok Sabha: name within the state), so a renamed seat shows as one new and one gone.
+addI18n('en', {
+  footBounds: 'How constituencies changed', boundsTitle: 'How constituencies changed', boundsSub: 'Constituencies have been redrawn, renamed, created and abolished several times since 1951. Here is what happened, and how many seats each state had.',
+  boundsTimeline: 'What changed and when', boundsLS: 'Lok Sabha seats by state, election by election', boundsLSNote: 'A highlighted number means the state\'s seat count changed from the previous election. Madras, Bombay, Hyderabad, Mysore, Travancore-Cochin, Madhya Bharat, Vindhya Pradesh, Bhopal, Ajmer, Kutch, Saurashtra, Coorg, Bilaspur and PEPSU (Patiala and East Punjab States Union) were states before the 1956 reorganisation.', boundsAE: 'Assembly seats, whenever the count changed', boundsMaps: 'Maps: only the boundaries drawn after the 2002 Delimitation Commission (in force from 2008) are available as open data, so older constituencies cannot be drawn and the area of a seat is known only for those.',
+  toolNew: 'New and renamed seats', newSub: 'Seats whose name did not exist at the previous election of this state (or the Lok Sabha), seats no longer in use, and likely renames. Areas come from the 2008-delimitation map.',
+  newSummary: '{n} of {N} seats have a name that was not used at the {y} election; {g} names from {y} are no longer in use.', newNone: 'Every seat name here was also used at the {y} election: no seat was created or renamed.', newFirst: 'This is the first election in the data for this state, so there is nothing to compare with.',
+  newList: 'New seats', newGone: 'No longer in use', newArea: 'Area (km²)', newRename: 'Same number as', newShow: 'Show', newDelim: 'Boundaries were redrawn between these elections: {d}', thSeatNo: 'No.', shNew: 'New seats', legNew: 'Violet: the seat name was not used at the {y} election. Grey: unchanged name. Only 2008-delimitation boundaries are drawn.',
+  seatFirst: 'First election in the data under this name: {y}.', seatNewSince: 'A seat created or renamed at the {y} election; earlier history belongs to differently named seats.',
+});
+addI18n('hi', {
+  footBounds: 'चुनाव क्षेत्र कैसे बदले', boundsTitle: 'चुनाव क्षेत्र कैसे बदले', boundsSub: '1951 से अब तक चुनाव क्षेत्र कई बार नए सिरे से बने, उनके नाम बदले, नए बने और कुछ ख़त्म हुए। यहाँ बताया गया है क्या हुआ, और हर राज्य के पास कितनी सीटें थीं।',
+  boundsTimeline: 'क्या कब बदला', boundsLS: 'राज्य के हिसाब से लोकसभा सीटें, चुनाव दर चुनाव', boundsLSNote: 'रंग वाला अंक बताता है कि पिछले चुनाव से राज्य की सीटों की संख्या बदली। मद्रास, बंबई, हैदराबाद, मैसूर, त्रावणकोर-कोचीन, मध्य भारत, विंध्य प्रदेश, भोपाल, अजमेर, कच्छ, सौराष्ट्र, कूर्ग, बिलासपुर और पेप्सू (पटियाला और पूर्वी पंजाब रियासत संघ) 1956 के पुनर्गठन से पहले राज्य थे।', boundsAE: 'विधानसभा सीटें, जब-जब संख्या बदली', boundsMaps: 'नक्शे: 2002 के परिसीमन आयोग (2008 से लागू) के बाद वाली सीमाएँ ही खुले डेटा में उपलब्ध हैं, इसलिए पुराने चुनाव क्षेत्र नहीं दिखाए जा सकते और सीट का क्षेत्रफल सिर्फ़ उन्हीं का पता है।',
+  toolNew: 'नई और नाम बदली सीटें', newSub: 'वे सीटें जिनका नाम इस राज्य (या लोकसभा) के पिछले चुनाव में नहीं था, जो सीटें अब इस्तेमाल में नहीं, और संभावित नाम-बदल। क्षेत्रफल 2008 के परिसीमन वाले नक्शे से है।',
+  newSummary: '{N} में से {n} सीटों का नाम {y} के चुनाव में इस्तेमाल नहीं हुआ था; {y} के {g} नाम अब इस्तेमाल में नहीं हैं।', newNone: 'यहाँ हर सीट का नाम {y} के चुनाव में भी था: कोई सीट नई नहीं बनी, न नाम बदला।', newFirst: 'इस राज्य का यह आँकड़ों में पहला चुनाव है, इसलिए तुलना के लिए कुछ नहीं है।',
+  newList: 'नई सीटें', newGone: 'अब इस्तेमाल में नहीं', newArea: 'क्षेत्रफल (वर्ग किमी)', newRename: 'वही नंबर जो', newShow: 'दिखाएँ', newDelim: 'इन चुनावों के बीच सीमाएँ नए सिरे से खींची गईं: {d}', thSeatNo: 'क्र.', shNew: 'नई सीटें', legNew: 'बैंगनी: सीट का नाम {y} के चुनाव में इस्तेमाल नहीं हुआ था। स्लेटी: नाम वही। सिर्फ़ 2008 के परिसीमन वाली सीमाएँ दिखती हैं।',
+  seatFirst: 'आँकड़ों में इस नाम से पहला चुनाव: {y}।', seatNewSince: '{y} के चुनाव में बनी या नाम बदली सीट; उससे पहले का इतिहास अलग नाम वाली सीटों का है।',
+});
+// effective_from is the first election held under the change
+const DELIMS = [
+  {y: 1951, en: ['1951 to 52: the first elections', 'The first elections are held under the Delimitation of Parliamentary and Assembly Constituencies Order, 1951. Many constituencies send two members, so that Scheduled Caste and Scheduled Tribe candidates can be elected. The Lok Sabha has 489 seats.'], hi: ['1951-52: पहले चुनाव', 'पहले चुनाव परिसीमन आदेश 1951 के तहत होते हैं। कई चुनाव क्षेत्रों से दो सदस्य चुने जाते हैं ताकि अनुसूचित जाति और जनजाति के उम्मीदवार चुने जा सकें। लोकसभा में 489 सीटें हैं।']},
+  {y: 1957, en: ['1952 to 57: first Delimitation Commission, and states redrawn', 'The 1952 Commission raises the Lok Sabha from 489 to 494 seats (3,280 assembly seats). The States Reorganisation Act of 1956 redraws state borders on language lines, so constituencies in many states are redrawn for 1957.'], hi: ['1952-57: पहला परिसीमन आयोग, और राज्यों का पुनर्गठन', '1952 का आयोग लोकसभा को 489 से बढ़ाकर 494 सीटें करता है (विधानसभा की 3,280 सीटें)। 1956 का राज्य पुनर्गठन अधिनियम राज्यों की सीमाएँ भाषा के आधार पर बदलता है, इसलिए 1957 के लिए कई राज्यों के चुनाव क्षेत्र नए सिरे से बनते हैं।']},
+  {y: 1962, en: ['1961 to 62: two-member seats abolished', 'The Two-Member Constituencies (Abolition) Act, 1961 ends two-member constituencies. From the 1962 election every seat has one member.'], hi: ['1961-62: दो-सदस्यीय सीटें ख़त्म', 'दो-सदस्यीय निर्वाचन क्षेत्र (उन्मूलन) अधिनियम 1961 दो-सदस्यीय चुनाव क्षेत्र ख़त्म करता है। 1962 के चुनाव से हर सीट पर एक सदस्य।']},
+  {y: 1967, en: ['1963 to 67: second Delimitation Commission', 'The 1963 Commission, the first after the 1956 reorganisation, raises the Lok Sabha from 494 to 522 seats and the assemblies to 3,771 seats, based on the 1961 census. In 1966 Punjab is split, creating Haryana and Chandigarh and moving some areas to Himachal Pradesh.'], hi: ['1963-67: दूसरा परिसीमन आयोग', '1963 का आयोग, जो 1956 के पुनर्गठन के बाद पहला है, 1961 की जनगणना के आधार पर लोकसभा को 494 से 522 और विधानसभाओं को 3,771 सीटों तक ले जाता है। 1966 में पंजाब बँटता है, हरियाणा और चंडीगढ़ बनते हैं और कुछ इलाक़े हिमाचल प्रदेश में जाते हैं।']},
+  {y: 1977, en: ['1973 to 77: third Commission, based on the 1971 census', 'The 1973 Commission raises the Lok Sabha from 522 to 542 seats, with a 543rd for Sikkim after it joins India in 1975 (Sikkim also gets 32 assembly seats), and assemblies to 3,997 seats. The 42nd Amendment in 1976 then freezes the number of seats per state until the 2001 census.'], hi: ['1973-77: तीसरा आयोग, 1971 की जनगणना पर आधारित', '1973 का आयोग लोकसभा को 522 से 542 सीटों तक ले जाता है, और 1975 में भारत में शामिल होने वाले सिक्किम के लिए 543वीं सीट (साथ में 32 विधानसभा सीटें), और विधानसभाओं को 3,997 सीटों तक। 1976 का 42वाँ संशोधन फिर 2001 की जनगणना तक हर राज्य की सीटें जमा देता है।']},
+  {y: 2000, en: ['2000: three new states', 'Chhattisgarh (from Madhya Pradesh), Jharkhand (from Bihar) and Uttarakhand (from Uttar Pradesh) are created. Their assemblies are carved out of the old ones, and the Lok Sabha seats move to the new states after the 2002 delimitation, so Uttar Pradesh falls from 85 to 80 seats, Bihar from 54 to 40 and Madhya Pradesh from 40 to 29.'], hi: ['2000: तीन नए राज्य', 'छत्तीसगढ़ (मध्य प्रदेश से), झारखंड (बिहार से) और उत्तराखंड (उत्तर प्रदेश से) बनते हैं। उनकी विधानसभाएँ पुरानी विधानसभाओं से काटकर बनती हैं, और 2002 के परिसीमन के बाद लोकसभा सीटें नए राज्यों में जाती हैं, इसलिए उत्तर प्रदेश 85 से 80, बिहार 54 से 40 और मध्य प्रदेश 40 से 29 सीटों पर आ जाता है।']},
+  {y: 2009, en: ['2002 to 2009: the fourth Commission, in force from 2008', 'Based on the 2001 census, the 2002 Commission keeps 543 Lok Sabha seats and their split between states, but redraws almost every constituency and raises assembly seats to 4,123. The orders take effect on 19 February 2008; Karnataka votes on the new boundaries in May 2008 and the whole Lok Sabha in 2009. Jharkhand is left out until after 2026, and Assam, Arunachal Pradesh, Manipur and Nagaland are put off for security reasons.'], hi: ['2002-2009: चौथा आयोग, 2008 से लागू', '2001 की जनगणना के आधार पर 2002 का आयोग लोकसभा की 543 सीटें और राज्यों में उनका बँटवारा वही रखता है, पर लगभग हर चुनाव क्षेत्र नए सिरे से बनाता है और विधानसभा सीटें 4,123 करता है। आदेश 19 फ़रवरी 2008 से लागू होते हैं; कर्नाटक मई 2008 में नई सीमाओं पर वोट डालता है और पूरी लोकसभा 2009 में। झारखंड 2026 के बाद तक छोड़ा गया, और असम, अरुणाचल प्रदेश, मणिपुर और नागालैंड सुरक्षा कारणों से टाले गए।']},
+  {y: 2014, en: ['2014: Telangana is formed', 'Andhra Pradesh is split. Andhra Pradesh keeps 175 assembly seats and Telangana gets 119; the 25 and 17 Lok Sabha seats go with them.'], hi: ['2014: तेलंगाना बना', 'आंध्र प्रदेश बँटता है। आंध्र प्रदेश के पास 175 विधानसभा सीटें रहती हैं और तेलंगाना को 119 मिलती हैं; लोकसभा की 25 और 17 सीटें उनके साथ जाती हैं।']},
+  {y: 2024, en: ['2019 to 2024: Jammu and Kashmir, Ladakh and Assam', 'In 2019 Jammu and Kashmir is reorganised and Ladakh becomes a separate Union Territory. A 2022 delimitation gives Jammu and Kashmir 90 assembly seats, and the 2024 election is the first under them. Assam\'s 2008 order was withdrawn in 2020 and its constituencies were redrawn in 2023 (still 126 seats); the 2026 election uses them.'], hi: ['2019-2024: जम्मू-कश्मीर, लद्दाख और असम', '2019 में जम्मू-कश्मीर का पुनर्गठन होता है और लद्दाख अलग केंद्रशासित प्रदेश बनता है। 2022 का परिसीमन जम्मू-कश्मीर को 90 विधानसभा सीटें देता है, और 2024 का चुनाव उन पर पहला है। असम का 2008 वाला आदेश 2020 में वापस लिया गया और 2023 में उसके चुनाव क्षेत्र नए सिरे से बने (अब भी 126 सीटें); 2026 का चुनाव उन पर हुआ।']},
+  {y: 2027, en: ['Next: the freeze and the 2026 Bill', 'The 84th Amendment (2001) keeps the number of seats frozen until the first census after 2026. A Delimitation Bill introduced on 16 April 2026 proposed raising the Lok Sabha to 850 seats (815 for states, 35 for Union Territories); Wikipedia lists it as rejected in committee in the Lok Sabha at the time of writing, so nothing has changed yet.'], hi: ['आगे: रोक और 2026 का विधेयक', '84वाँ संशोधन (2001) सीटों की संख्या 2026 के बाद की पहली जनगणना तक रोके रखता है। 16 अप्रैल 2026 को पेश परिसीमन विधेयक में लोकसभा को 850 सीटों तक (राज्यों के लिए 815, केंद्रशासित प्रदेशों के लिए 35) ले जाने का प्रस्ताव था; विकिपीडिया के अनुसार लिखते समय लोकसभा में वह समिति में ख़ारिज हुआ दर्ज है, इसलिए अभी कुछ नहीं बदला।']},
+];
+// ---- helpers: names that are new, gone, or possibly renamed ----
+const seatNameKey = (e, s) => (e.kind === 'LS' && s[3] >= 0 ? (e.regions[s[3]] || '') + '|' : '') + nameKey(s[1]);
+async function prevElection(){ const list = await history(), i = list.findIndex(x => x.id === entry().id); return i > 0 ? {prev: list[i - 1], cur: list[i], list, i} : null; }
+function compareNames(cur, prev){
+  const pset = new Map(prev.seats.map((s, i) => [seatNameKey(prev, s), i])), cset = new Map(cur.seats.map((s, i) => [seatNameKey(cur, s), i]));
+  const isNew = cur.seats.map(s => !pset.has(seatNameKey(cur, s)));
+  const gone = prev.seats.map((s, i) => i).filter(i => !cset.has(seatNameKey(prev, prev.seats[i])));
+  return {isNew, gone, newIdx: isNew.map((b, i) => b ? i : -1).filter(i => i >= 0)};
+}
+const AREA = {};
+async function seatAreas(name){
+  if(AREA[name]) return AREA[name];
+  const topo = await mapFor(name), fc = topojson.feature(topo, topo.objects[Object.keys(topo.objects)[0]]), m = new Map();
+  fc.features.forEach(f => m.set(String(f.properties.k != null ? f.properties.k : f.properties.n), d3.geoArea(f) * 6371.0088 * 6371.0088));
+  return AREA[name] = m;
+}
+let newMaskCache = null;
+async function newSeatMask(){
+  const pe = await prevElection(); if(!pe) return null;
+  const key = entry().id; if(newMaskCache && newMaskCache.key === key) return newMaskCache;
+  const c = compareNames(pe.cur, pe.prev); return newMaskCache = {key, isNew: c.isNew, label: pe.prev.label, n: c.newIdx.length};
+}
+// ---- the tool ----
+registerTool({id: 'newseats', label: 'toolNew', sub: 'newSub', async render(body, stale){
+  const pe = await prevElection(); if(stale()) return;
+  if(!pe){ body.innerHTML = `<p class="small">${esc(t('newFirst'))}</p>`; return; }
+  const {prev, cur} = pe, c = compareNames(cur, prev), N = cur.seats.length;
+  const delims = DELIMS.filter(d => d.y > prev.year && d.y <= cur.year + (cur.year >= 2024 ? 0 : 0)).map(d => L2(d.en[0], d.hi[0]));
+  const area = cur.map && cur.map !== 'states' ? await seatAreas(cur.map).catch(() => null) : null; if(stale()) return;
+  const pbyNo = new Map(prev.seats.map(s => [s[0], s]));
+  const rows = c.newIdx.map(i => { const s = cur.seats[i], k = String(cur.mapkeys ? cur.mapkeys[i] : (s[0] + (cur.mapoff || 0))), ps = cur.kind === 'AE' ? pbyNo.get(s[0]) : null,
+    ren = ps && seatNameKey(prev, ps) !== seatNameKey(cur, s) && c.gone.some(g => prev.seats[g] === ps) ? ps[1] : '';
+    return {i, s, a: area ? area.get(k) : null, ren}; });
+  const ptot = rows.reduce((a, r) => a + (r.a || 0), 0);
+  body.innerHTML = `<p style="font-family:var(--display);font-weight:600;margin:0 0 6px">${esc(c.newIdx.length ? t('newSummary', {n: c.newIdx.length, N, y: prev.label, g: c.gone.length}) : t('newNone', {y: prev.label}))}</p>
+    ${delims.length && c.newIdx.length > 0.2 * N ? `<p class="small">${esc(t('newDelim', {d: delims.join('; ')}))}</p>` : ''}
+    ${rows.length ? `<h4>${esc(t('newList'))}</h4><div class="seatlist" style="max-height:380px"><table class="tbl"><thead><tr><th>${esc(t('thSeatNo'))}</th><th>${esc(t('thSeatN'))}</th><th>${esc(t('newArea'))}</th><th>${esc(t('newRename'))}</th><th></th></tr></thead><tbody>
+      ${rows.slice(0, 400).map(r => `<tr><td class="num">${r.s[0]}</td><td>${esc(r.s[1])}${cur.kind === 'LS' && r.s[3] >= 0 ? ` <span class="small">${esc(stName(cur.regions[r.s[3]]))}</span>` : ''}</td><td class="num">${r.a ? fmtN(r.a) : ''}</td><td>${esc(r.ren)}</td><td><button class="btn small" data-sh="${r.i}">${esc(t('newShow'))}</button></td></tr>`).join('')}</tbody></table></div>` : ''}
+    ${c.gone.length ? `<h4 style="margin-top:12px">${esc(t('newGone'))}</h4><div class="row">${c.gone.slice(0, 120).map(g => `<span class="chip">${esc(prev.seats[g][1])}</span>`).join('')}${c.gone.length > 120 ? `<span class="small">+${c.gone.length - 120}</span>` : ''}</div>` : ''}
+    <p class="small" style="margin-top:8px">${esc(t('boundsMaps'))} <a href="#/boundaries">${esc(t('footBounds'))} →</a></p>`;
+  alignTables(body);
+  body.querySelectorAll('[data-sh]').forEach(b => b.onclick = () => { const i = +b.dataset.sh; if(E.seats[i] && nameKey(E.seats[i].name) === nameKey(cur.seats[i][1])){ setShade('new'); selectSeat(i); if(typeof zoomToSeat === 'function') setTimeout(() => zoomToSeat(i), 400); } });
+}});
+// ---- the page ----
+PAGES.set('boundaries', async box => {
+  const ls = await bundle('ls'); const els = ls.slice().sort((a, b) => a.year - b.year);
+  const states = new Map(); els.forEach((e, j) => e.seats.forEach(s => { if(s[3] < 0) return; const st = e.regions[s[3]], a = states.get(st) || new Array(els.length).fill(0); a[j] += s[6] || 1; states.set(st, a); }));
+  const lsRows = [...states.entries()].sort((a, b) => Math.max(...b[1]) - Math.max(...a[1]));
+  const ae = new Map(); INDEX.elections.filter(e => e.kind === 'AE').sort((a, b) => a.year - b.year || a.label.localeCompare(b.label)).forEach(e => { const a = ae.get(e.state) || []; if(!a.length || a[a.length - 1].n !== e.seats) a.push({y: e.label, n: e.seats}); ae.set(e.state, a); });
+  box.innerHTML = `<article class="page" style="max-width:1100px"><h2>${esc(t('boundsTitle'))}</h2><p class="lede">${esc(t('boundsSub'))}</p>
+    <h3>${esc(t('boundsTimeline'))}</h3>${DELIMS.map(d => `<div class="chg"><span class="pill">${esc(d.y === 2027 ? '2026+' : d.y)}</span> <b>${esc(L2(d.en[0], d.hi[0]))}</b><p>${esc(L2(d.en[1], d.hi[1]))}</p></div>`).join('')}
+    <h3>${esc(t('boundsLS'))}</h3><p class="small">${esc(t('boundsLSNote'))}</p>
+    <div class="tw"><table class="tbl" style="min-width:${150 + els.length * 46}px"><thead><tr><th style="text-align:left;position:sticky;left:0;background:var(--panel)">${esc(t('thRegion'))}</th>${els.map(e => `<th style="font-size:11px">${esc(e.label)}</th>`).join('')}</tr></thead><tbody>
+    ${lsRows.map(([st, a]) => `<tr><td style="text-align:left;position:sticky;left:0;background:var(--panel);white-space:nowrap">${esc(stName(st))}</td>${a.map((n, j) => `<td class="num" style="${j && n !== a[j - 1] ? 'background:var(--violet-soft);font-weight:700' : ''}">${n || ''}</td>`).join('')}</tr>`).join('')}
+    <tr style="font-weight:700"><td style="text-align:left;position:sticky;left:0;background:var(--panel)">${esc(L2('Total', 'कुल'))}</td>${els.map((e, j) => `<td class="num">${lsRows.reduce((s, r) => s + r[1][j], 0)}</td>`).join('')}</tr></tbody></table></div>
+    <h3>${esc(t('boundsAE'))}</h3>${[...ae.entries()].sort((a, b) => stName(a[0]).localeCompare(stName(b[0]), LANG === 'hi' ? 'hi' : 'en')).map(([st, a]) => `<p style="margin:4px 0"><b>${esc(stName(st))}:</b> ${a.map(x => `<span class="chip" style="cursor:default">${esc(x.y)}: ${x.n}</span>`).join(' ')}</p>`).join('')}
+    <p class="small" style="margin-top:14px">${esc(t('boundsMaps'))}</p></article>`;
+});
+
+
+// ======== feature: 190-cms.js ========
+// Chief Minister history (#55): every state's chief ministers, their terms and parties, linked to the election of the assembly they served under.
+addI18n('en', {toolCM: 'Chief ministers', cmSub: 'Every chief minister of this state, with the party and term, and the assembly election they came in under. Names and dates from Wikipedia.', cmNone: 'Pick a state assembly to see its chief ministers.', cmTimeline: 'Terms and elections', cmTable: 'Chief ministers', cmCameIn: 'Came in with the {y} election', cmMid: 'Took over during the {y} assembly', cmTerm: 'Term', cmPartyH: 'Party', cmBy: 'Election', cmIncumbent: 'present', cmLongest: 'Longest single term: {n} ({y} years)', cmCount: '{n} chief ministers since {y}', cmSource: 'Source: Wikipedia, List of chief ministers of {s}.'});
+addI18n('hi', {toolCM: 'मुख्यमंत्री', cmSub: 'इस राज्य के हर मुख्यमंत्री, दल और कार्यकाल के साथ, और वह चुनाव जिसकी विधानसभा में वे आए। नाम और तारीख़ें विकिपीडिया से।', cmNone: 'मुख्यमंत्री देखने के लिए किसी राज्य की विधानसभा चुनें।', cmTimeline: 'कार्यकाल और चुनाव', cmTable: 'मुख्यमंत्री', cmCameIn: '{y} के चुनाव के साथ आए', cmMid: '{y} की विधानसभा के दौरान कमान संभाली', cmTerm: 'कार्यकाल', cmPartyH: 'दल', cmBy: 'चुनाव', cmIncumbent: 'वर्तमान', cmLongest: 'सबसे लंबा एक कार्यकाल: {n} ({y} साल)', cmCount: '{y} से {n} मुख्यमंत्री', cmSource: 'स्रोत: विकिपीडिया, {s} के मुख्यमंत्रियों की सूची।'});
+let CMS = null;
+async function cmData(){ if(!CMS){ try{ CMS = await getJSON('ref/cms.json'); }catch(e){ CMS = {states: {}}; } } return CMS; }
+function partyCodeFromName(nm){
+  if(!nm) return null; const k = nameKey(nm); if(partyCodeFromName.map === undefined){ const m = new Map(); Object.entries(META).forEach(([c, v]) => m.set(nameKey(v.n), c)); partyCodeFromName.map = m; }
+  const m = partyCodeFromName.map; if(m.has(k)) return m.get(k);
+  for(const [kk, c] of m) if(kk.length > 6 && (k.startsWith(kk) || kk.startsWith(k))) return c;
+  const ab = nm.match(/\(([A-Z()]{2,8})\)/); return ab && META[ab[1]] ? ab[1] : null;
+}
+const cmColor = nm => { const c = partyCodeFromName(nm); return c ? pColor(c) : '#9aa0aa'; };
+const cmShort = nm => { const c = partyCodeFromName(nm); return c ? shortCode2(c) : (nm || '').split(' ').map(w => w[0]).join('').slice(0, 5); };
+registerTool({id: 'cms', label: 'toolCM', sub: 'cmSub', key: () => S.eid + '|' + S.kind, async render(body, stale){
+  if(S.kind !== 'AE'){ body.innerHTML = `<p class="small">${esc(t('cmNone'))}</p>`; return; }
+  const d = await cmData(); if(stale()) return;
+  const terms = (d.states || {})[S.state];
+  if(!terms || !terms.length){ body.innerHTML = `<p class="small">${esc(t('toolsNoData'))}</p>`; return; }
+  const els = INDEX.elections.filter(e => e.kind === 'AE' && e.state === S.state).sort((a, b) => a.year - b.year || a.label.localeCompare(b.label));
+  const Y0 = Math.min(1950, +terms[0].from.slice(0, 4)), Y1 = new Date().getFullYear() + 1, W = 900, L = 6, R = 6, px = (W - L - R) / (Y1 - Y0), X = y => L + (y - Y0) * px;
+  const yrOf = s => +s.slice(0, 4) + (+s.slice(5, 7) - 1) / 12;
+  const lanes = []; // keep overlapping terms (interim, back-to-back same month) on separate rows
+  const bars = terms.map(c => { const a = yrOf(c.from), b = c.to ? yrOf(c.to) : Y1 - 0.5; let r = 0; while(lanes[r] && lanes[r] > a + .02) r++; lanes[r] = b; return {c, a, b, r}; });
+  const rows = Math.max(...bars.map(b => b.r)) + 1, H = 30 + rows * 24 + 20;
+  let g = '';
+  for(let y = Math.ceil(Y0 / 10) * 10; y <= Y1; y += 10) g += `<line x1="${X(y)}" x2="${X(y)}" y1="22" y2="${H - 16}" stroke="var(--line)"/>${svgText(X(y), 14, String(y), {anchor: 'middle', size: 11})}`;
+  bars.forEach(o => { const x0 = X(o.a), w = Math.max(3, X(o.b) - x0), y = 28 + o.r * 24, col = cmColor(o.c.party);
+    g += `<g><title>${esc(o.c.name)} · ${esc(o.c.party)} · ${o.c.from} → ${o.c.to || t('cmIncumbent')}</title><rect x="${x0}" y="${y}" width="${w}" height="19" rx="4" fill="${col}"/>${w > 46 ? `<text x="${x0 + 4}" y="${y + 13.5}" font-size="11" fill="#fff" style="paint-order:stroke;stroke:rgba(0,0,0,.35);stroke-width:2px">${esc(o.c.name.split(' ').slice(-1)[0].slice(0, Math.floor(w / 6.5)))}</text>` : ''}</g>`; });
+  els.forEach(e => { const x = X(e.year + .4); g += `<line x1="${x}" x2="${x}" y1="24" y2="${H - 16}" stroke="#141414" stroke-opacity=".5" stroke-dasharray="2 3"/><circle cx="${x}" cy="${H - 12}" r="3" fill="#141414"><title>${esc(e.label)}</title></circle>`; });
+  // link each term to the election it came in under
+  const elFor = c => { const y = c.asm || +c.from.slice(0, 4); const cand = els.filter(e => e.year <= y); return cand.length ? cand[cand.length - 1] : null; };
+  const rowsT = terms.slice().reverse().map(c => { const e = elFor(c), sy = +c.from.slice(0, 4), fresh = e && sy - e.year <= 1 && !terms.some(o => o !== c && o.from < c.from && o.from >= (e.year + '-01-01') && o.asm === c.asm && o.name !== c.name && false);
+    const firstOfAsm = e && terms.filter(o => elFor(o) === e).sort((a, b) => a.from.localeCompare(b.from))[0] === c;
+    const yrs = ((c.to ? new Date(c.to) : new Date()) - new Date(c.from)) / 31557600000;
+    return `<tr><td><b>${esc(c.name)}</b></td><td><span class="pname"><i class="sw" style="background:${cmColor(c.party)}"></i><span>${esc(c.party || '')}</span></span></td><td class="num" style="white-space:nowrap">${esc(c.from.slice(0, 4))}–${c.to ? esc(c.to.slice(0, 4)) : esc(t('cmIncumbent'))}<div class="small">${fmt1(yrs)} ${LANG === 'hi' ? 'साल' : 'yrs'}</div></td><td class="small">${e ? esc(firstOfAsm ? t('cmCameIn', {y: e.label}) : t('cmMid', {y: e.label})) : ''}</td></tr>`; }).join('');
+  const long = terms.slice().sort((a, b) => ((b.to ? new Date(b.to) : new Date()) - new Date(b.from)) - ((a.to ? new Date(a.to) : new Date()) - new Date(a.from)))[0];
+  body.innerHTML = `<p style="font-family:var(--display);font-weight:600;margin:0 0 4px">${esc(t('cmCount', {n: new Set(terms.map(c => c.name)).size, y: terms[0].from.slice(0, 4)}))} · ${esc(t('cmLongest', {n: long.name, y: fmt1(((long.to ? new Date(long.to) : new Date()) - new Date(long.from)) / 31557600000)}))}</p>
+    <h4>${esc(t('cmTimeline'))}</h4><div class="tw"><svg viewBox="0 0 ${W} ${H}" style="min-width:560px" role="img" aria-label="${esc(t('cmTimeline'))}">${g}</svg></div>
+    <h4 style="margin-top:10px">${esc(t('cmTable'))}</h4><div class="seatlist" style="max-height:420px"><table class="tbl"><thead><tr><th>${esc(t('cmTable'))}</th><th>${esc(t('cmPartyH'))}</th><th>${esc(t('cmTerm'))}</th><th>${esc(t('cmBy'))}</th></tr></thead><tbody>${rowsT}</tbody></table></div>
+    <p class="small" style="margin-top:6px">${esc(t('cmSource', {s: stName(S.state)}))}</p>`;
+  alignTables(body);
+}});
+
+
+// ======== feature: 200-bypolls.js ========
+// Bypoll tracker (#24): by-elections since the 2024 Lok Sabha result, with a party scoreboard and what they may suggest.
+addI18n('en', {
+  toolBy: 'By-elections', bySub: 'Seats that fell vacant after the 2024 Lok Sabha election and were filled by by-election: who held them, who won them, and which changed hands. From Wikipedia; it may miss a few.', byScope: 'Where', byAllIndia: 'All of India', byOnlyChanged: 'Only seats that changed hands',
+  bySummary: '{n} by-elections since {d}: {c} changed hands ({p}%), {h} were held by the party that had the seat.', byBoard: 'Scoreboard', byDef: 'Held before', byHeld: 'Held', byLost: 'Lost', byGained: 'Gained', byNet: 'Net', byNow: 'Hold now',
+  byRead: 'What they suggest', bySugg1: '{p} gained {g} seats and lost {l}, a net {n} compared with the seats it held before these by-elections.', byCaution: 'Read with care: a by-election fills one vacant seat, the party in power often wins them, and turnout and local reasons matter. They are a weak signal for the next general election, and a stronger one only when the same pattern repeats across many states.',
+  thBefore: 'Before', thAfter: 'After', thDate: 'Date', byNone: 'No by-elections in this selection.', byReason: 'Reason', byLS: 'Lok Sabha',
+});
+addI18n('hi', {
+  toolBy: 'उप-चुनाव', bySub: 'वे सीटें जो 2024 के लोकसभा चुनाव के बाद ख़ाली हुईं और उप-चुनाव में भरी गईं: किसके पास थीं, कौन जीता और कौन-सी सीट हाथ बदल गई। विकिपीडिया से; कुछ छूट सकती हैं।', byScope: 'कहाँ', byAllIndia: 'पूरा भारत', byOnlyChanged: 'सिर्फ़ हाथ बदलने वाली सीटें',
+  bySummary: '{d} से {n} उप-चुनाव: {c} सीटों ने हाथ बदला ({p}%), {h} उसी दल के पास रहीं जिसके पास थीं।', byBoard: 'स्कोरबोर्ड', byDef: 'पहले के पास', byHeld: 'बचाईं', byLost: 'गँवाईं', byGained: 'जीतीं', byNet: 'शुद्ध', byNow: 'अब के पास',
+  byRead: 'ये क्या इशारा करते हैं', bySugg1: '{p} ने {g} सीटें जीतीं और {l} गँवाईं, यानी इन उप-चुनावों से पहले अपनी सीटों के मुक़ाबले शुद्ध {n}।', byCaution: 'सावधानी से पढ़ें: उप-चुनाव एक ख़ाली सीट भरता है, सत्ताधारी दल अक्सर उन्हें जीतता है, और मतदान तथा स्थानीय कारण मायने रखते हैं। अगले आम चुनाव के लिए यह कमज़ोर संकेत है, और मज़बूत तभी जब कई राज्यों में वही रुझान दोहराए।',
+  thBefore: 'पहले', thAfter: 'बाद में', thDate: 'तारीख़', byNone: 'इस चयन में कोई उप-चुनाव नहीं।', byReason: 'कारण', byLS: 'लोकसभा',
+});
+let BYP = null;
+async function bypollData(){ if(!BYP){ try{ BYP = await getJSON('ref/bypolls.json'); }catch(e){ BYP = {items: [], since: ''}; } } return BYP; }
+registerTool({id: 'bypolls', label: 'toolBy', sub: 'bySub', key: () => S.eid + '|' + S.kind + '|' + (S.byScope || '') + '|' + (S.byChanged ? 1 : 0), async render(body, stale){
+  const d = await bypollData(); if(stale()) return;
+  const states = [...new Set(d.items.map(i => i.state))].sort();
+  const scope = S.byScope != null ? S.byScope : (S.kind === 'AE' && states.includes(S.state) ? S.state : '');
+  let items = d.items.filter(i => !scope || i.state === scope);
+  const all = items;
+  if(S.byChanged) items = items.filter(i => i.changed);
+  const n = all.length, ch = all.filter(i => i.changed).length, held = all.filter(i => i.prevParty && i.winParty && !i.changed).length;
+  const parties = new Map(); const get = p => { if(!parties.has(p)) parties.set(p, {def: 0, held: 0, lost: 0, gained: 0}); return parties.get(p); };
+  all.forEach(i => { if(i.prevParty){ const a = get(i.prevParty); a.def++; if(i.winParty === i.prevParty) a.held++; else a.lost++; } if(i.winParty && i.winParty !== i.prevParty) get(i.winParty).gained++; });
+  const board = [...parties.entries()].map(([p, a]) => ({p, ...a, net: a.gained - a.lost, now: a.def - a.lost + a.gained})).sort((x, y) => y.now - x.now || y.def - x.def).slice(0, 10);
+  const top = board.slice().sort((a, b) => b.net - a.net)[0], bot = board.slice().sort((a, b) => a.net - b.net)[0];
+  const fmtNet = v => (v > 0 ? '+' : '') + v;
+  const short = x => x.reason ? x.reason.replace(/\s+on\s.*$/i, '').replace(/^Elected to .*$/i, 'Elected to Lok Sabha/other house').slice(0, 34) : '';
+  body.innerHTML = `<div class="tools-row"><label>${esc(t('byScope'))} <select id="byScope"><option value="">${esc(t('byAllIndia'))}</option>${states.map(s => `<option value="${esc(s)}" ${s === scope ? 'selected' : ''}>${esc(stName(s))}</option>`).join('')}</select></label>
+      <label><input type="checkbox" id="byCh" ${S.byChanged ? 'checked' : ''}> ${esc(t('byOnlyChanged'))}</label></div>
+    ${n ? `<p style="font-family:var(--display);font-weight:600;margin:0 0 8px">${esc(t('bySummary', {n, d: new Date(d.since).toLocaleDateString(LANG === 'hi' ? 'hi-IN' : 'en-IN', {month: 'long', year: 'numeric'}), c: ch, p: Math.round(100 * ch / n), h: held}))}</p>
+    <div class="tools-cols"><div><h4>${esc(t('byBoard'))}</h4><table class="tbl"><thead><tr><th>${esc(t('thParty2'))}</th><th>${esc(t('byDef'))}</th><th>${esc(t('byLost'))}</th><th>${esc(t('byGained'))}</th><th>${esc(t('byNet'))}</th><th>${esc(t('byNow'))}</th></tr></thead><tbody>
+      ${board.map(b => `<tr><td>${pcell(b.p)}</td><td class="num">${b.def}</td><td class="num">${b.lost}</td><td class="num">${b.gained}</td><td class="num ${b.net > 0 ? 'up' : b.net < 0 ? 'down' : ''}"><b>${fmtNet(b.net)}</b></td><td class="num">${b.now}</td></tr>`).join('')}</tbody></table></div>
+      <div><h4>${esc(t('byRead'))}</h4>${top && top.net !== 0 ? `<p>${esc(t('bySugg1', {p: pName(top.p), g: top.gained, l: top.lost, n: fmtNet(top.net)}))}</p>` : ''}${bot && bot !== top && bot.net < 0 ? `<p>${esc(t('bySugg1', {p: pName(bot.p), g: bot.gained, l: bot.lost, n: fmtNet(bot.net)}))}</p>` : ''}<p class="small">${esc(t('byCaution'))}</p></div></div>` : `<p class="small">${esc(t('byNone'))}</p>`}
+    ${items.length ? `<h4 style="margin-top:12px">${esc(t('toolBy'))}</h4><div class="seatlist" style="max-height:420px"><table class="tbl"><thead><tr><th>${esc(t('thDate'))}</th><th>${esc(t('thSeatN'))}</th><th>${esc(t('thBefore'))}</th><th>${esc(t('thAfter'))}</th><th>${esc(t('byReason'))}</th></tr></thead><tbody>
+      ${items.slice().reverse().map(i => `<tr><td class="num" style="white-space:nowrap">${esc(i.date)}</td><td><b>${esc(i.seat)}</b>${i.kind === 'LS' ? ` <span class="pill">${esc(t('byLS'))}</span>` : ''}<div class="small">${esc(stName(i.state))}</div></td><td>${i.prevParty ? pcell(i.prevParty) : ''}<div class="small">${esc(i.prev)}</div></td><td>${i.winParty ? pcell(i.winParty) : ''}<div class="small">${esc(i.winner)}${i.changed ? ' ▲' : ''}</div></td><td class="small">${esc(short(i))}</td></tr>`).join('')}</tbody></table></div>` : ''}`;
+  alignTables(body);
+  $('#byScope').onchange = e => { S.byScope = e.target.value; toolKeyShown = null; toolsTouch(true); };
+  $('#byCh').onchange = e => { S.byChanged = e.target.checked; toolKeyShown = null; toolsTouch(true); };
+}});
 
 
 async function boot(){

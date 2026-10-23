@@ -61,6 +61,7 @@ async function applyPoll(set, poll){
 const pollSig = () => JSON.stringify(Object.entries(S.T).map(([k, v]) => [k, Math.round(v * 10) / 10]));
 function renderBanner(){
   const el = $('#scnBanner'); if(!el) return;
+  if(renderWhatIfBanner()) return;
   const sc = S.pollScn;
   if(!sc || sc.set.base !== S.eid || sc.sig !== pollSig()){ el.hidden = true; return; }
   const sim = {}; Object.entries(sc.set.units).forEach(([l, u]) => { const ui = U.findIndex(g => g.key === (sc.set.mode === 'alliance' ? 'A:' + u : u)); sim[l] = ui >= 0 ? RES.counts[ui] : 0; });

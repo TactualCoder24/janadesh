@@ -44,7 +44,7 @@ function openSearch(initial){
   let tm; inp.oninput = () => { clearTimeout(tm); tm = setTimeout(paint, 90); };
   if(initial) paint();
 }
-function showSeatView(){ $('#home').hidden = true; $('#app').hidden = true; $('#appPick').hidden = true; $('#tabbar').hidden = true; closeSheet(); $('#homeBtn').hidden = false; $('#seatview').hidden = false; document.body.classList.remove('inapp'); window.scrollTo(0, 0); }
+function showSeatView(){ $('#pageview').hidden = true; $('#home').hidden = true; $('#app').hidden = true; $('#appPick').hidden = true; $('#tabbar').hidden = true; closeSheet(); $('#homeBtn').hidden = false; $('#seatview').hidden = false; document.body.classList.remove('inapp'); window.scrollTo(0, 0); }
 async function openSeatPage(kind, stateSlug, seatSlug){
   showSeatView();
   const box = $('#seatview'); box.innerHTML = `<span class="loading"><i></i>${esc(t('loading'))}</span>`;
@@ -78,6 +78,7 @@ async function openSeatPage(kind, stateSlug, seatSlug){
   const cand = (e, nm, i, p) => { const n = nm ? nm[i] : null; return `<div>${n ? `<b>${esc(n)}</b>` : ''}<div class="small">${p ? `<span class="pname"><i class="sw" style="background:${pColor(p)}"></i><span>${esc(pName(p))}</span></span>` : ''}</div></div>`; };
   box.innerHTML = `<div class="row" style="margin:6px 0 10px"><button class="btn small" id="sbk">← ${esc(t('seatBack'))}</button></div>
     <div class="headline"><h2 style="font-size:34px">${esc(it[0])}</h2><span class="tag">${esc(t(kind === 'ls' ? 'lokSabhaSeat' : 'assemblySeat'))}</span><span class="tag">${esc(stName(it[1]))}</span>${cat !== 'GEN' ? `<span class="tag">${esc(t('seatCat', {c: cat}))}</span>` : ''}</div>
+    ${rows.length && rows[rows.length - 1].e.label !== list[0].label ? `<p class="small" style="margin:6px 0 0">${esc(t('seatNewSince', {y: rows[rows.length - 1].e.label}))}</p>` : ''}
     <div class="row" style="margin:8px 0 14px"><button class="btn primary" id="sSim">${esc(t('seatSim', {w: t(kind === 'ls' ? 'lokSabhaSeat' : 'assemblySeat')}))}</button><button class="btn" id="sLink">${esc(t('seatShareLink'))}</button></div>
     ${rows.length > 1 ? `<section class="card"><h3 style="font-size:17px">${esc(t('seatShare'))}</h3><div class="tw"><svg viewBox="0 0 ${W} ${H}" style="min-width:520px" role="img" aria-label="${esc(t('seatShare'))}">${g}</svg></div></section>` : ''}
     <section class="card"><h3 style="font-size:17px">${esc(t('seatHistory'))}</h3><div class="tw"><table class="tbl"><thead><tr><th>${esc(t('thYear'))}</th><th style="text-align:left">${esc(t('thWinnerN'))}</th><th>${esc(t('thVotesN'))}</th><th>${esc(t('thMargin'))}</th><th style="text-align:left">${esc(t('thRunnerN'))}</th></tr></thead><tbody>
@@ -90,10 +91,12 @@ async function openSeatPage(kind, stateSlug, seatSlug){
   document.title = `${it[0]} (${t(kind === 'ls' ? 'lokSabhaSeat' : 'assemblySeat')}, ${stName(it[1])}) | Janadesh`;
 }
 async function route(){
-  const h = location.hash, m = h.match(/^#\/seat\/(ls|ae)\/([^/]+)\/([^/]+)$/);
+  const h = location.hash;
+  if(await routePages(h)) return;
+  const m = h.match(/^#\/seat\/(ls|ae)\/([^/]+)\/([^/]+)$/);
   if(m){ await openSeatPage(m[1], m[2], m[3]); return; }
   document.title = 'Janadesh';
-  if(!$('#seatview').hidden){ $('#seatview').hidden = true; showHome(); }
+  if(!$('#seatview').hidden || !$('#pageview').hidden){ $('#seatview').hidden = true; $('#pageview').hidden = true; showHome(); }
 }
 window.addEventListener('hashchange', () => { if(INDEX) route(); });
 

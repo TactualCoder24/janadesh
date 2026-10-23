@@ -66,7 +66,8 @@ Data pipeline (needs Python with pandas, numpy, scipy, openpyxl, beautifulsoup4,
 2. `python build/build.py` (rows), `build2.py` (elections), `build3.py` (map keys) write `source/data/` and `source/maps/`.
 3. `python build/apply_overrides.py` applies the official constituency results in `build/seat_overrides/`; `python build/fix_others.py` repairs CPI(M) votes polluted by the old "Others" mapping (both are idempotent repairs on the packed files).
 4. `python build/make_names.py` writes `source/names/` (add Wikipedia names first with `python build/fetch_wiki_names.py`); `python build/fetch_polls.py` writes `source/data/polls.json`.
-5. `python build/make_dist.py` rebuilds the page and the search index.
+5. `python build/fix_independents.py` keeps independents out of alliances (run by make_dist). Reference data: `python build/fetch_cms.py` (chief ministers), `python build/fetch_bypolls.py` (by-elections), `source/ref/lineage.json` (party splits and mergers, hand-written).
+6. `python build/make_dist.py` rebuilds the page, the search index, `source/data/stats.json` and the open data downloads in `data/` (JSON and CSV per election, `all-seats.csv`).
 
 Data fixes go into `build/seat_overrides/` and are checked against official party tallies before release.
 

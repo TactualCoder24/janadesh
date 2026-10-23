@@ -7,7 +7,7 @@ let toolTimer = null, toolKeyShown = null, toolRun = 0;
 function curTool(){ return TOOLS.find(x => x.id === S.tool) || TOOLS[0]; }
 function toolsSetup(){
   const sel = $('#toolSel'); if(!sel) return;
-  S.tool = store.get('tool', 'flip');
+  S.tool = store.get('tool', 'facts');
   sel.innerHTML = TOOLS.map(x => `<option value="${x.id}">${esc(t(x.label))}</option>`).join('');
   sel.value = curTool() ? curTool().id : '';
   sel.onchange = () => { S.tool = sel.value; store.set('tool', S.tool); toolKeyShown = null; toolsTouch(true); };
