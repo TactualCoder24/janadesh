@@ -4100,6 +4100,7 @@ registerTool({id: 'signals', label: 'toolSig', sub: 'sigSub', async render(body,
       + (!mine.length && !lc.length ? `<p class="small">${esc(t('sigStNone', {s: stName(S.state)}))}</p>` : '');
     return;
   }
+  body.innerHTML = `<p class="small">${esc(t('loading'))}…</p>`;
   const ix = INDEX.elections, ls = await bundle('ls'), lsList = ls.slice().sort((a, b) => a.year - b.year), lsCur = lsList[lsList.length - 1];
   const latest = new Map(); ix.filter(e => e.kind === 'AE').forEach(e => { const l = latest.get(e.state); if(!l || e.year > l.year || (e.year === l.year && e.label > l.label)) latest.set(e.state, e); });
   const stateShare = (raw, code, region) => { let v = 0, tot = 0; raw.seats.forEach(s => { if(region != null && raw.regions[s[3]] !== region) return; for(let k = 0; k < s[4].length; k += 2){ if(raw.parties[s[4][k]] === code) v += s[4][k + 1]; tot += s[4][k + 1]; } tot += s[5] || 0; }); return tot > 0 ? 100 * v / tot : null; };
