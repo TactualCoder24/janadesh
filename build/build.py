@@ -46,10 +46,10 @@ def push(df, kind, source):
     df = df.copy()
     df['kind'] = kind
     df['source'] = source
-    for c in ['cat', 'alliance', 'electors', 'region', 'label']:
+    for c in ['cat', 'alliance', 'electors', 'region', 'label', 'cand', 'sex', 'age']:
         if c not in df.columns:
             df[c] = None
-    ROWS.append(df[['kind', 'state', 'year', 'label', 'seat', 'name', 'cat', 'party', 'votes', 'alliance', 'electors', 'region', 'source']])
+    ROWS.append(df[['kind', 'state', 'year', 'label', 'seat', 'name', 'cat', 'party', 'votes', 'alliance', 'electors', 'region', 'source', 'cand', 'sex', 'age']])
 
 # ---------------- Lok Sabha ----------------
 def load_ls():
@@ -70,7 +70,7 @@ def load_ls():
     df = pd.DataFrame(dict(state=q.state, year=q.YEAR.astype(int), label=None, seat=q.seat,
         name=q.PC.astype(str).str.strip().str.title(), cat=q.CATEGORY.fillna('GEN'), party=q.PARTY.map(P.norm),
         votes=pd.to_numeric(q.VOTES, errors='coerce'), alliance=q.COALITION, electors=pd.to_numeric(q.ELECTORS, errors='coerce'),
-        region=q.state))
+        region=q.state, cand=q.NAME, sex=q.SEX, age=pd.to_numeric(q.AGE, errors='coerce')))
     # category per seat: derive from name suffix '(SC)' if missing
     push(df, 'LS', 'DataMeet / gitcheckoutnikhil india-elections-data (ECI statistical reports)')
 
@@ -87,7 +87,7 @@ def load_ls():
     df = pd.DataFrame(dict(state=p.state, year=p.YEAR.astype(int), label=None, seat=p.seat,
         name=p.PC_NAME.astype(str).str.strip().str.title(), cat=p.Category, party=p.PARTY_CODE.fillna(p.PARTY).map(P.norm),
         votes=pd.to_numeric(p.VOTES, errors='coerce'), alliance=al, electors=None, region=p.state,
-        pcno=p.PC_NO.astype(int)))
+        pcno=p.PC_NO.astype(int), cand=p.CANDIDATE))
     df['electors'] = None
     push(df, 'LS', 'data-analytics.github.io (ECI results 2009-2024)')
     # keep state PC numbers for map join (2009+): store mapping
@@ -104,7 +104,7 @@ def load_datameet_ae():
     a['year'] = yr.str.extract(r'(\d{4})')[0].astype(int)
     df = pd.DataFrame(dict(state=a.state, year=a.year, label=a.label, seat=pd.to_numeric(a.AC_NO, errors='coerce'),
         name=a.AC_NAME.astype(str).str.strip().str.title(), cat=a.AC_TYPE, party=a.PARTY.map(P.norm),
-        votes=pd.to_numeric(a.VOTES, errors='coerce')))
+        votes=pd.to_numeric(a.VOTES, errors='coerce'), cand=a.NAME, sex=a.SEX, age=pd.to_numeric(a.AGE, errors='coerce')))
     push(df, 'AE', 'DataMeet india-election-data (ECI results)')
 
 def load_da_ae():
@@ -124,7 +124,8 @@ def load_da_ae():
         df = pd.DataFrame(dict(state=st, year=pd.to_numeric(d.YEAR).astype(int), label=None,
             seat=pd.to_numeric(d.AC_NO, errors='coerce'), name=d.AC_NAME.astype(str).str.strip().str.title(),
             cat=cat if cat is not None else None, party=d.PARTY.map(P.norm), votes=pd.to_numeric(d.VOTES, errors='coerce'),
-            region=d['District'] if 'District' in d.columns else None))
+            region=d['District'] if 'District' in d.columns else None, cand=d['NAME'] if 'NAME' in d.columns else None,
+            sex=d['SEX'] if 'SEX' in d.columns else None, age=pd.to_numeric(d['AGE'], errors='coerce') if 'AGE' in d.columns else None))
         push(df, 'AE', 'data-analytics.github.io (ECI results)')
 
 def load_2017():
@@ -134,14 +135,14 @@ def load_2017():
         yr = 2016 if 'assam' in f else 2017
         df = pd.DataFrame(dict(state=fix_state(st), year=yr, label=None, seat=d.const_num,
             name=d.const_name.astype(str).str.split(' - ').str[-1].str.strip().str.title(), party=d.party.map(P.norm),
-            votes=pd.to_numeric(d.votes, errors='coerce')))
+            votes=pd.to_numeric(d.votes, errors='coerce'), cand=d.candidate))
         push(df, 'AE', 'spfrantz/vidhan-sabha-2017-scraper (ECI results)')
 
 def load_2018():
     d = pd.read_csv(f'{DL}/vidhan-sabha-2018/vs2018_results.csv')
     df = pd.DataFrame(dict(state=d.state.map(fix_state), year=2018, label=None, seat=d.const_id,
         name=d.const_name.astype(str).str.split(' - ').str[-1].str.strip().str.title(), party=d.party.map(P.norm),
-        votes=pd.to_numeric(d.votes, errors='coerce')))
+        votes=pd.to_numeric(d.votes, errors='coerce'), cand=d.candidate))
     push(df, 'AE', 'spfrantz/vidhan-sabha-2018 (ECI results)')
     return df
 
@@ -158,7 +159,7 @@ def load_2023(names2018):
         d['seat'] = pd.to_numeric(d.constituency, errors='coerce')
         df = pd.DataFrame(dict(state=st, year=2023, label=None, seat=d.seat,
             name=[nm.get((st, s), f'AC {s}') for s in d.seat], party=d.party.map(P.norm),
-            votes=pd.to_numeric(d.total_votes, errors='coerce')))
+            votes=pd.to_numeric(d.total_votes, errors='coerce'), cand=d.candidate))
         push(df, 'AE', 'azadecon/assembly_elections_2023 (ECI results)')
 
 
