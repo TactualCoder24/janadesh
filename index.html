@@ -511,7 +511,7 @@ pre.code{background:var(--sunk);border-radius:8px;padding:10px 12px;overflow:aut
   </main>
 </div>
 </div>
-<nav class="footlinks" id="footlinks" aria-label="More"><a href="#/how" data-i18n="footHow"></a><a href="#/glossary" data-i18n="footGlossary"></a><a href="#/boundaries" data-i18n="footBounds"></a><a href="#/tree" data-i18n="footTree"></a><a href="#/data" data-i18n="footData"></a><a href="#/changelog" data-i18n="footChangelog"></a></nav>
+<nav class="footlinks" id="footlinks" aria-label="More"><a href="#/how" data-i18n="footHow"></a><a href="#/glossary" data-i18n="footGlossary"></a><a href="#/rajyasabha" data-i18n="footRS"></a><a href="#/delimitation" data-i18n="footDelim"></a><a href="#/onoe" data-i18n="footOnoe"></a><a href="#/boundaries" data-i18n="footBounds"></a><a href="#/tree" data-i18n="footTree"></a><a href="#/data" data-i18n="footData"></a><a href="#/changelog" data-i18n="footChangelog"></a></nav>
 <footer class="footer" data-i18n="footer"></footer>
 </div>
 <div class="tip" id="tip"></div>
@@ -2857,6 +2857,7 @@ PAGES.set('glossary', async box => {
 
 // ---------- Changelog (#58) ----------
 const CHANGES = [
+  ['2026-10-24', 'feature', 'What-if lab, voting systems, One Nation One Election, delimitation and Rajya Sabha', 'अगर-मगर लैब, मतदान प्रणालियाँ, एक देश एक चुनाव, परिसीमन और राज्यसभा', 'A new party, a party split, turnout shifts and a sitting-member penalty; the same votes counted under proportional and runoff systems; one national swing across every assembly; the Lok Sabha enlarged to 800 or more seats; and the Rajya Sabha with the electoral college for President.', 'एक नया दल, दल की टूट, मतदान में बदलाव और मौजूदा सदस्य का जुर्माना; वही वोट अनुपातिक और रनऑफ़ प्रणालियों में गिने हुए; हर विधानसभा में एक राष्ट्रीय स्विंग; 800 या ज़्यादा सीटों वाली लोकसभा; और राज्यसभा तथा राष्ट्रपति का निर्वाचक-मंडल।'],
   ['2026-10-23', 'feature', 'Chief ministers and by-elections', 'मुख्यमंत्री और उप-चुनाव', 'The chief ministers of every state with their terms, parties and the election they came in under; and the by-elections since the 2024 Lok Sabha result with a party scoreboard.', 'हर राज्य के मुख्यमंत्री, उनके कार्यकाल, दल और वह चुनाव जिसमें वे आए; और 2024 की लोकसभा के बाद के उप-चुनाव, दलों के स्कोरबोर्ड के साथ।'],
   ['2026-10-23', 'feature', 'How constituencies changed', 'चुनाव क्षेत्र कैसे बदले', 'The history of delimitation since 1951, Lok Sabha seats by state in every election, new and renamed seats with their area, and a map of new seats.', '1951 से परिसीमन का इतिहास, हर चुनाव में राज्यवार लोकसभा सीटें, नई और नाम बदली सीटें क्षेत्रफल के साथ, और नई सीटों का नक्शा।'],
   ['2026-10-23', 'feature', 'Alliance timeline with old alliance names and splits', 'पुराने गठबंधन नामों और टूट के साथ गठबंधन समयरेखा', 'National Front, United Front, NDA, UPA and INDIA by election, the biggest alliances of each election, and markers for the splits, mergers and foundings of each party.', 'हर चुनाव में राष्ट्रीय मोर्चा, संयुक्त मोर्चा, एनडीए, यूपीए और इंडिया, हर चुनाव के सबसे बड़े गठबंधन, और हर दल की टूट, विलय और स्थापना के निशान।'],
@@ -3682,6 +3683,270 @@ function renderLabBanner(){
   if(L.pen && L.pen.on) bits.push(t('labBPen', {v: fmt1(L.pen.pts)}));
   el.hidden = false; el.textContent = t('labBanner', {list: bits.join('; ')}); return true;
 }
+
+
+// ======== feature: 220-votesys.js ========
+// Different voting systems (#31): the same votes in the current scenario, counted four ways.
+addI18n('en', {
+  toolVS: 'Voting systems', vsSub: 'The votes in the current scenario, counted under other systems: proportional representation (nationwide, or by state) and a two-round runoff. How far seats are from vote shares is shown as the Gallagher index (0 is perfectly proportional).',
+  vsFPTP: 'First past the post (now)', vsPRnat: 'Proportional, nationwide', vsPRreg: 'Proportional, by {w}', vsRun: 'Two-round runoff', vsMethod: 'Method', vsDhondt: "D'Hondt", vsSL: 'Sainte-Laguë', vsHare: 'Largest remainder (Hare)', vsThr: 'Threshold', vsThrN: '{n}% of votes', vsLoyal: 'Allies\' voters who back their ally in the runoff: {v}%',
+  vsGall: 'Gallagher index', vsStateW: 'state', vsDistW: 'district', vsNoteRun: 'Round one: a candidate with more than half the votes wins. Otherwise the top two meet in a runoff; voters of an eliminated party mostly back a finalist from their own alliance, the rest split between the finalists in proportion to their first-round votes.', vsNoteOthers: '"Others" (all small parties together) are left out of the proportional counts and the runoff finals.', vsVotes: 'Votes %', vsGainLoss: 'vs now',
+  vsNoteNat: 'Nationwide: all {n} seats shared out by national vote share.', vsNoteReg: 'By {w}: each {w} shares out its own seats by the vote share inside it.',
+});
+addI18n('hi', {
+  toolVS: 'मतदान प्रणालियाँ', vsSub: 'मौजूदा परिदृश्य के वोट, दूसरी प्रणालियों में गिने हुए: अनुपातिक प्रतिनिधित्व (देशभर में, या राज्यवार) और दो-चरण का रनऑफ़। सीटें वोट हिस्से से कितनी दूर हैं यह गैलाघर इंडेक्स से दिखता है (0 यानी पूरा अनुपातिक)।',
+  vsFPTP: 'पहले नंबर पर जीत (अभी)', vsPRnat: 'अनुपातिक, देशभर में', vsPRreg: 'अनुपातिक, {w} के हिसाब से', vsRun: 'दो-चरण रनऑफ़', vsMethod: 'तरीक़ा', vsDhondt: 'डी\'हॉन्ट', vsSL: 'सैंट-लैग्यू', vsHare: 'सबसे बड़ा शेष (हेयर)', vsThr: 'न्यूनतम सीमा', vsThrN: '{n}% वोट', vsLoyal: 'रनऑफ़ में अपने सहयोगी को वोट देने वाले सहयोगी-दल के मतदाता: {v}%',
+  vsGall: 'गैलाघर इंडेक्स', vsStateW: 'राज्य', vsDistW: 'ज़िले', vsNoteRun: 'पहला चरण: आधे से ज़्यादा वोट पाने वाला उम्मीदवार जीतता है। वरना पहले दो के बीच रनऑफ़; बाहर हुए दल के मतदाता ज़्यादातर अपने गठबंधन के फ़ाइनलिस्ट को वोट देते हैं, बाक़ी पहले चरण के वोटों के अनुपात में दोनों फ़ाइनलिस्टों में बँटते हैं।', vsNoteOthers: '"अन्य" (सभी छोटे दल मिलाकर) अनुपातिक गिनती और रनऑफ़ के फ़ाइनल से बाहर रखे गए हैं।', vsVotes: 'वोट %', vsGainLoss: 'अभी के मुक़ाबले',
+  vsNoteNat: 'देशभर में: सभी {n} सीटें राष्ट्रीय वोट हिस्से के हिसाब से बँटती हैं।', vsNoteReg: '{w} के हिसाब से: हर {w} अपनी सीटें अपने भीतर के वोट हिस्से से बाँटता है।',
+});
+function allocate(shares, seats, method, thr){
+  // shares: array of percentages (null/0 = out); returns seats per index
+  const out = new Array(shares.length).fill(0), ok = shares.map(v => v != null && v >= thr && v > 0);
+  const live = shares.map((v, i) => ok[i] ? v : 0), tot = live.reduce((a, b) => a + b, 0); if(!tot || seats <= 0) return out;
+  if(method === 'hare'){ const q = tot / seats; let used = 0; const rem = live.map((v, i) => { const n = Math.floor(v / q); out[i] = n; used += n; return {i, r: v / q - n}; }); rem.sort((a, b) => b.r - a.r); for(let k = 0; k < seats - used; k++) out[rem[k % rem.length].i]++; return out; }
+  for(let s2 = 0; s2 < seats; s2++){ let best = -1, bv = -1; live.forEach((v, i) => { if(!v) return; const d = method === 'sl' ? 2 * out[i] + 1 : out[i] + 1, q = v / d; if(q > bv){ bv = q; best = i; } }); out[best]++; }
+  return out;
+}
+function gallagher(votes, seats, N){ let s = 0; votes.forEach((v, i) => { const d = v - 100 * seats[i] / N; s += d * d; }); return Math.sqrt(s / 2); }
+registerTool({id: 'votesys', label: 'toolVS', sub: 'vsSub', live: true, key: () => simKey() + '|' + (S.vsMethod || '') + (S.vsThr || '') + (S.vsLoyal || ''), render(body){
+  const method = S.vsMethod || 'dhondt', thr = S.vsThr != null ? +S.vsThr : 0, loyal = S.vsLoyal != null ? +S.vsLoyal : 70, N = E.N, n = U.length, oth = n - 1;
+  const live = U.map((g, k) => k).filter(k => k !== oth && !U[k].labKind || (U[k].labKind && true)).filter(k => k !== oth);
+  const T = RES.T.slice();
+  // nationwide PR
+  const natSeats = new Array(n).fill(0); allocate(T.map((v, k) => k === oth ? 0 : v), N, method, thr).forEach((c, k) => natSeats[k] = c);
+  // PR by state (Lok Sabha) or district (assembly); seats without a region are counted with the whole
+  const regSeats = new Array(n).fill(0), byR = new Map();
+  E.seats.forEach((s, i) => { const r = s.r >= 0 ? s.r : -1, a = byR.get(r) || {m: 0, w: new Float64Array(n), t: 0}; a.m += s.m; a.t += s.ut; for(let k = 0; k < n; k++) a.w[k] += RES.shares[i][k] * s.ut; byR.set(r, a); });
+  byR.forEach(a => { const sh = Array.from(a.w, (w, k) => k === oth ? 0 : 100 * w / a.t); allocate(sh, a.m, method, thr).forEach((c, k) => regSeats[k] += c); });
+  // runoff
+  const allyOf = k => { const g = U[k]; if(g.key.startsWith('A:')) return g.key; const al = alliancesOf()[g.members.length ? E.parties[g.members[0]] : '']; return al ? 'A:' + al : null; };
+  const runSeats = new Array(n).fill(0); let seatsRun = 0;
+  E.seats.forEach((s, i) => { const x = RES.shares[i], ord = [...x.keys()].filter(k => k !== oth).sort((a, b) => x[b] - x[a]); if(!ord.length) return; const m = s.m;
+    if(x[ord[0]] > .5){ runSeats[ord[0]] += m; return; }
+    const A = ord[0], B = ord[1]; if(B == null){ runSeats[A] += m; return; }
+    let va = x[A], vb = x[B];
+    ord.slice(2).concat([oth]).forEach(k => { const v = x[k]; if(!v) return; const fa = allyOf(k) && allyOf(k) === allyOf(A), fb = allyOf(k) && allyOf(k) === allyOf(B);
+      let toA, toB; const base = va + vb || 1;
+      if(fa && !fb){ toA = loyal / 100 + (1 - loyal / 100) * va / base; toB = 1 - toA; } else if(fb && !fa){ toB = loyal / 100 + (1 - loyal / 100) * vb / base; toA = 1 - toB; } else { toA = va / base; toB = vb / base; }
+      va += v * toA * (k === oth ? .7 : 1); vb += v * toB * (k === oth ? .7 : 1); });
+    runSeats[va >= vb ? A : B] += m; });
+  const cols = [['vsFPTP', RES.counts], ['vsPRnat', natSeats], ['vsPRreg', regSeats], ['vsRun', runSeats]];
+  const regW = t(S.kind === 'LS' ? 'vsStateW' : 'vsDistW');
+  const order = U.map((g, k) => k).filter(k => cols.some(c => c[1][k] > 0) || T[k] >= 1).sort((a, b) => RES.counts[b] - RES.counts[a] || T[b] - T[a]).slice(0, 14);
+  const votesForG = T.filter((v, k) => k !== oth), gal = cols.map(c => gallagher(T.map((v, k) => v), c[1], N));
+  const tot = cols.map(c => c[1].reduce((a, b) => a + b, 0));
+  body.innerHTML = `<div class="tools-row"><label>${esc(t('vsMethod'))} <select id="vsM">${[['dhondt', 'vsDhondt'], ['sl', 'vsSL'], ['hare', 'vsHare']].map(([v, l]) => `<option value="${v}" ${v === method ? 'selected' : ''}>${esc(t(l))}</option>`).join('')}</select></label>
+    <label>${esc(t('vsThr'))} <select id="vsT">${[0, 1, 3, 5].map(v => `<option value="${v}" ${v === thr ? 'selected' : ''}>${esc(t('vsThrN', {n: v}))}</option>`).join('')}</select></label>
+    <label style="min-width:200px">${esc(t('vsLoyal', {v: loyal}))} <input type="range" id="vsL" min="0" max="100" step="5" value="${loyal}"></label></div>
+    <div class="seatlist" style="max-height:480px"><table class="tbl"><thead><tr><th>${esc(S.mode === 'alliance' ? t('thAlly') : t('thParty'))}</th><th>${esc(t('vsVotes'))}</th>${cols.map(c => `<th>${esc(t(c[0], {w: regW}))}</th>`).join('')}</tr></thead><tbody>
+    ${order.map(k => `<tr><td><span class="pname"><i class="sw" style="background:${U[k].hex}"></i><span>${esc(k === oth ? t('others') : U[k].name)}</span></span></td><td class="num">${fmt1(T[k])}</td>${cols.map((c, j) => { const v = c[1][k], d = v - RES.counts[k]; return `<td class="num"><b>${v}</b>${j && d ? ` <small class="${d > 0 ? 'up' : 'down'}">${d > 0 ? '+' : ''}${d}</small>` : ''}</td>`; }).join('')}</tr>`).join('')}
+    <tr style="background:var(--sunk)"><td><b>${esc(t('vsGall'))}</b></td><td></td>${gal.map(v => `<td class="num"><b>${fmt1(v)}</b></td>`).join('')}</tr></tbody></table></div>
+    <p class="small" style="margin:6px 0 0">${esc(t('vsNoteNat', {n: N}))} ${esc(t('vsNoteReg', {w: regW}))} ${esc(t('vsNoteOthers'))}</p><p class="small" style="margin:2px 0 0">${esc(t('vsNoteRun'))}</p>`;
+  $('#vsM').onchange = e => { S.vsMethod = e.target.value; toolKeyShown = null; toolsTouch(true); };
+  $('#vsT').onchange = e => { S.vsThr = +e.target.value; toolKeyShown = null; toolsTouch(true); };
+  $('#vsL').onchange = e => { S.vsLoyal = +e.target.value; toolKeyShown = null; toolsTouch(true); };
+  alignTables(body);
+}});
+
+
+// ======== feature: 230-onoe.js ========
+// One Nation One Election (#29): one national swing between two sides applied to the Lok Sabha and every assembly at once (page #/onoe).
+addI18n('en', {
+  footOnoe: 'One Nation One Election', onoeTitle: 'One Nation One Election', onoeSub: 'Imagine the Lok Sabha and every assembly voting on the same day, with the whole country swinging the same way. Move votes from one side to the other and see who would rule where. Each state starts from its latest assembly result.', onoeNote: 'The sides come from the 2024 Lok Sabha alliances: a party that was in neither is counted as "others". The same number of points is moved in every state, which real voters would not do: it is a thought experiment, not a forecast.',
+  onoeSideA: 'Side that gains', onoeSideB: 'Side that loses', onoeSwing: 'Swing: {v} points', onoeRun: 'Counting…', onoeLS: 'Lok Sabha', onoeRules: '{s} would rule {n} of {m} states and territories', onoeNowRules: 'today: {n}', onoeTable: 'State by state', onoeNow: 'Largest party today', onoeThen: 'With the swing', onoeHung: 'No majority', onoeSeats: 'Seats', onoeLSres: 'Lok Sabha with this swing', onoeOthers: 'Others', onoeMapT: 'Who would rule where', onoeMajOf: '{a} / {b} / {o}',
+});
+addI18n('hi', {
+  footOnoe: 'एक देश एक चुनाव', onoeTitle: 'एक देश एक चुनाव', onoeSub: 'सोचिए लोकसभा और हर विधानसभा एक ही दिन वोट डालें, और पूरा देश एक ही तरफ़ खिसके। वोट एक पक्ष से दूसरे को खिसकाइए और देखिए कहाँ कौन राज करता। हर राज्य अपने सबसे ताज़ा विधानसभा नतीजे से शुरू होता है।', onoeNote: 'पक्ष 2024 की लोकसभा के गठबंधनों से लिए गए हैं: जो दल दोनों में नहीं था वह "अन्य" गिना गया। हर राज्य में बराबर अंक खिसकाए गए हैं, जो असली मतदाता नहीं करेंगे: यह सोच-प्रयोग है, पूर्वानुमान नहीं।',
+  onoeSideA: 'जो पक्ष बढ़ता है', onoeSideB: 'जो पक्ष घटता है', onoeSwing: 'स्विंग: {v} अंक', onoeRun: 'गिनती हो रही है…', onoeLS: 'लोकसभा', onoeRules: '{m} राज्यों और केंद्रशासित प्रदेशों में से {n} में {s} का राज होता', onoeNowRules: 'आज: {n}', onoeTable: 'राज्य दर राज्य', onoeNow: 'आज सबसे बड़ा दल', onoeThen: 'स्विंग के साथ', onoeHung: 'बहुमत नहीं', onoeSeats: 'सीटें', onoeLSres: 'इस स्विंग के साथ लोकसभा', onoeOthers: 'अन्य', onoeMapT: 'कहाँ कौन राज करता', onoeMajOf: '{a} / {b} / {o}',
+});
+// run one election through the engine without touching what is on screen
+function silentRun(raw, mode, pts, sideOf, A, B){
+  const keep = {E, U, RES, T: S.T, mode: S.mode, lab: S.lab, ally: S.allyEdit, reg: S.regional, res: S.reserved, ov: S.overrides, lk: S.locks, tr: S.transfer};
+  try{
+    S.mode = 'party'; S.lab = null; S.allyEdit = {}; S.regional = {}; S.reserved = {SC: {}, ST: {}}; S.overrides = {}; S.locks = {}; S.transfer = 100;
+    E = prepare(raw); buildUnits();
+    const T0 = U.map(g => g.base); let sa = 0, sb = 0; U.forEach((g, k) => { const sd = g.key === 'OTH' ? null : sideOf(g.key); if(sd === A) sa += T0[k]; else if(sd === B) sb += T0[k]; });
+    const ga = sa > 0 ? (sa + pts) / sa : 1, gb = sb > 0 ? Math.max(0, sb - pts) / sb : 1, T = T0.map((v, k) => { const sd = U[k].key === 'OTH' ? null : sideOf(U[k].key); return sd === A ? v * Math.max(0, ga) : sd === B ? v * gb : v; });
+    const tot = T.reduce((a, b) => a + b, 0); const Tn = T.map(v => 100 * v / tot);
+    S.T = {}; U.forEach((g, k) => S.T[g.key] = Tn[k]);
+    const w = winners(simulate(Tn), {}), bySide = {A: 0, B: 0, O: 0}, N = E.N;
+    U.forEach((g, k) => { const sd = g.key === 'OTH' ? null : sideOf(g.key); bySide[sd === A ? 'A' : sd === B ? 'B' : 'O'] += w.counts[k]; });
+    const lead = U.map((g, k) => k).sort((x, y) => w.counts[y] - w.counts[x])[0];
+    return {bySide, N, leadKey: U[lead].key};
+  } finally { E = keep.E; U = keep.U; RES = keep.RES; S.T = keep.T; S.mode = keep.mode; S.lab = keep.lab; S.allyEdit = keep.ally; S.regional = keep.reg; S.reserved = keep.res; S.overrides = keep.ov; S.locks = keep.lk; S.transfer = keep.tr; }
+}
+PAGES.set('onoe', async box => {
+  const ix = INDEX.elections, files = new Map();
+  const latest = new Map(); ix.filter(e => e.kind === 'AE').forEach(e => { const l = latest.get(e.state); if(!l || e.year > l.year || (e.year === l.year && e.label > l.label)) latest.set(e.state, e); });
+  const lsEnt = ix.filter(e => e.kind === 'LS').sort((a, b) => b.year - a.year)[0];
+  box.innerHTML = `<article class="page" style="max-width:1100px"><h2>${esc(t('onoeTitle'))}</h2><p class="lede">${esc(t('onoeSub'))}</p><p class="small">${esc(t('onoeNote'))}</p><div id="onoeBody"><span class="loading"><i></i>${esc(t('onoeRun'))}</span></div></article>`;
+  const ls = await bundle('ls'), lsRaw = ls.find(e => e.id === lsEnt.id), alli = lsRaw.alliances || {};
+  const raws = []; for(const [st, ent] of latest){ const b = await bundle(ent.file); raws.push({st, ent, raw: b.find(e => e.id === ent.id)}); }
+  const sides = [...new Set(Object.values(alli))].filter(a => lsRaw.seats.some(s => s[4].length && alli[lsRaw.parties[s[4][0]]] === a)).sort((a, b) => lsRaw.seats.filter(s => s[4].length && alli[lsRaw.parties[s[4][0]]] === b).length - lsRaw.seats.filter(s => s[4].length && alli[lsRaw.parties[s[4][0]]] === a).length).slice(0, 2);
+  const state = {A: sides[0] || 'NDA', B: sides[1] || 'INDIA', pts: S.onoePts != null ? S.onoePts : 3};
+  const geoP = mapFor('states').catch(() => null);
+  const sideCol = k => k === 'A' ? pColor('BJP') : k === 'B' ? pColor('INC') : '#9aa0aa';
+  async function draw(){
+    const sideOf = code => alli[code] || null, res = [], A = state.A, B = state.B;
+    const lsRes = silentRun(lsRaw, 'party', state.pts, sideOf, A, B);
+    raws.forEach(o => { const now = silentRun(o.raw, 'party', 0, sideOf, A, B), then = silentRun(o.raw, 'party', state.pts, sideOf, A, B); res.push({st: o.st, ent: o.ent, now, then}); });
+    const verdict = r => { const m = Math.floor(r.N / 2) + 1; return r.bySide.A >= m ? 'A' : r.bySide.B >= m ? 'B' : (r.bySide.A + r.bySide.B + r.bySide.O ? 'H' : 'H'); };
+    const cnt = (f) => { const c = {A: 0, B: 0, H: 0}; res.forEach(r => c[verdict(f(r))]++); return c; };
+    const cn = cnt(r => r.now), ct = cnt(r => r.then), M = res.length;
+    const geo = await geoP; let mapSvg = '';
+    if(geo){ const fc = topojson.feature(geo, geo.objects[Object.keys(geo.objects)[0]]), W = 600, H = 680, path = d3.geoPath(d3.geoMercator().fitSize([W, H], fc)), byKey = new Map(res.map(r => [stKey(r.st), r]));
+      mapSvg = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(t('onoeMapT'))}">${fc.features.map(f => { const r = byKey.get(stKey(f.properties.st)), v = r ? verdict(r.then) : null;
+        return `<path d="${path(f)}" fill="${r ? (v === 'H' ? '#D9DCE2' : sideCol(v)) : '#F2F3F5'}" stroke="#fff" stroke-width=".6"><title>${esc(stName(f.properties.st))}${r ? ': ' + (v === 'H' ? t('onoeHung') : v === 'A' ? allyName(A) : allyName(B)) : ''}</title></path>`; }).join('')}</svg>`; }
+    const lsM = Math.floor(lsRes.N / 2) + 1;
+    $('#onoeBody').innerHTML = `<div class="tools-row"><label>${esc(t('onoeSideA'))} <select id="oA">${sides.map(s => `<option ${s === A ? 'selected' : ''}>${esc(s)}</option>`).join('')}</select></label>
+      <label>${esc(t('onoeSideB'))} <select id="oB">${sides.map(s => `<option ${s === B ? 'selected' : ''}>${esc(s)}</option>`).join('')}</select></label>
+      <label style="flex:1;min-width:220px"><span id="oPL">${esc(t('onoeSwing', {v: (state.pts > 0 ? '+' : '') + state.pts}))}</span> <input type="range" id="oP" min="-12" max="12" step="0.5" value="${state.pts}" style="width:100%"></label></div>
+      <div class="tools-cols"><div><div class="map" style="max-width:520px">${mapSvg}</div>
+        <p class="small" style="margin:4px 0"><i class="sw" style="background:${sideCol('A')}"></i> ${esc(allyName(A))} &nbsp; <i class="sw" style="background:${sideCol('B')}"></i> ${esc(allyName(B))} &nbsp; <i class="sw" style="background:#D9DCE2"></i> ${esc(t('onoeHung'))}</p></div>
+        <div><p style="font-family:var(--display);font-size:20px;font-weight:700;margin:0">${esc(t('onoeRules', {s: allyName(A), n: ct.A, m: M}))}</p><p class="small" style="margin:0 0 8px">${esc(allyName(B))}: ${ct.B} · ${esc(t('onoeHung'))}: ${ct.H} · ${esc(t('onoeNowRules', {n: allyName(A) + ' ' + cn.A + ', ' + allyName(B) + ' ' + cn.B}))}</p>
+          <h4>${esc(t('onoeLSres'))}</h4><p style="margin:0;font-family:var(--display);font-weight:600">${esc(allyName(A))} ${lsRes.bySide.A} · ${esc(allyName(B))} ${lsRes.bySide.B} · ${esc(t('onoeOthers'))} ${lsRes.bySide.O} <span class="small">(${lsM} ${LANG === 'hi' ? 'चाहिए' : 'needed'})</span></p></div></div>
+      <h3>${esc(t('onoeTable'))}</h3><div class="seatlist" style="max-height:480px"><table class="tbl"><thead><tr><th>${esc(t('thRegion'))}</th><th>${esc(t('onoeNow'))}</th><th>${esc(allyName(A))} / ${esc(allyName(B))} / ${esc(t('onoeOthers'))}</th><th>${esc(t('onoeThen'))}</th></tr></thead><tbody>
+      ${res.sort((a, b) => stName(a.st).localeCompare(stName(b.st), LANG === 'hi' ? 'hi' : 'en')).map(r => { const v = verdict(r.then), vn = verdict(r.now), b = r.then.bySide; return `<tr><td>${esc(stName(r.st))}<div class="small">${esc(r.ent.label)}</div></td><td>${vn === 'H' ? esc(t('onoeHung')) : `<span class="pname"><i class="sw" style="background:${sideCol(vn)}"></i><span>${esc(allyName(vn === 'A' ? A : B))}</span></span>`}</td><td class="num">${b.A} / ${b.B} / ${b.O}</td><td>${v === 'H' ? esc(t('onoeHung')) : `<span class="pname"><i class="sw" style="background:${sideCol(v)}"></i><span><b>${esc(allyName(v === 'A' ? A : B))}</b></span></span>`}${v !== vn ? ' ◀' : ''}</td></tr>`; }).join('')}</tbody></table></div>`;
+    $('#oA').onchange = e => { state.A = e.target.value; if(state.A === state.B) state.B = sides.find(s => s !== state.A); draw(); };
+    $('#oB').onchange = e => { state.B = e.target.value; if(state.A === state.B) state.A = sides.find(s => s !== state.B); draw(); };
+    $('#oP').oninput = e => { $('#oPL').textContent = t('onoeSwing', {v: (+e.target.value > 0 ? '+' : '') + e.target.value}); };
+    $('#oP').onchange = e => { state.pts = +e.target.value; S.onoePts = state.pts; draw(); };
+    alignTables($('#onoeBody'));
+  }
+  await draw();
+});
+
+
+// ======== feature: 240-delimitation.js ========
+// Delimitation scenario (#30): the Lok Sabha enlarged and redrawn, by pro-rata growth or by 2011 population, and what it does to each state's weight and to the NDA / INDIA tally (page #/delimitation).
+addI18n('en', {
+  footDelim: 'Delimitation scenario', delimTitle: 'Delimitation scenario', delimSub: 'The Lok Sabha has had 543 seats since the 1970s. If it grew to 800 or more, how many seats would each state get, and who would gain? Each state keeps the same political mix it had in the 2024 result; only the number of seats changes.', delimNote: 'A thought experiment. New seats are assumed to vote like the existing ones in the same state, and the real exercise would also redraw boundaries inside each state. The 2026 Delimitation Bill proposed 850 seats; Wikipedia lists it as not passed.',
+  delimTotal: 'Lok Sabha seats: {n}', delimMethod: 'How seats are shared', delimPro: 'Pro rata: every state grows by the same share', delimPop: 'By population (Census 2011)', delimSouth: 'Five southern states', delimHeart: 'Hindi belt (UP, Bihar, MP, Rajasthan, Jharkhand, Chhattisgarh, Uttarakhand, Haryana, Himachal, Delhi)', delimShare: '{a} → {b} seats, {c}% → {d}% of the House',
+  delimSides: '2024 mix, new House', delimOld: 'Now', delimNew: 'New', delimChg: 'Change', delimPer: 'People per MP now → new (lakh)', delimMaj: 'Majority mark would be {m}', delimSeatsBy: 'Seats by state',
+});
+addI18n('hi', {
+  footDelim: 'परिसीमन परिदृश्य', delimTitle: 'परिसीमन परिदृश्य', delimSub: 'लोकसभा में 1970 के दशक से 543 सीटें हैं। अगर वह 800 या ज़्यादा हो जाए, तो हर राज्य को कितनी सीटें मिलेंगी और किसे फ़ायदा होगा? हर राज्य का राजनीतिक मिज़ाज वही माना गया है जो 2024 के नतीजे में था; सिर्फ़ सीटों की संख्या बदलती है।', delimNote: 'यह सोच-प्रयोग है। नई सीटें उसी राज्य की मौजूदा सीटों की तरह वोट करेंगी, यह माना गया है, और असली प्रक्रिया में हर राज्य के भीतर सीमाएँ भी नए सिरे से खिंचतीं। परिसीमन विधेयक 2026 में 850 सीटों का प्रस्ताव था; विकिपीडिया के अनुसार वह पारित नहीं हुआ।',
+  delimTotal: 'लोकसभा सीटें: {n}', delimMethod: 'सीटें कैसे बँटें', delimPro: 'अनुपात में: हर राज्य बराबर हिस्से से बढ़े', delimPop: 'आबादी के हिसाब से (जनगणना 2011)', delimSouth: 'पाँच दक्षिणी राज्य', delimHeart: 'हिंदी पट्टी (उप्र, बिहार, मप्र, राजस्थान, झारखंड, छत्तीसगढ़, उत्तराखंड, हरियाणा, हिमाचल, दिल्ली)', delimShare: '{a} → {b} सीटें, सदन का {c}% → {d}%',
+  delimSides: '2024 का मिज़ाज, नया सदन', delimOld: 'अभी', delimNew: 'नई', delimChg: 'बदलाव', delimPer: 'प्रति सांसद आबादी अभी → नई (लाख)', delimMaj: 'बहुमत का आँकड़ा {m} होता', delimSeatsBy: 'राज्यवार सीटें',
+});
+function apportion(total, weights, minEach){
+  const n = weights.length, sum = weights.reduce((a, b) => a + b, 0), out = new Array(n).fill(0);
+  const q = weights.map(w => w / sum * total); let used = 0;
+  q.forEach((v, i) => { out[i] = Math.max(minEach, Math.floor(v)); used += out[i]; });
+  const rem = q.map((v, i) => ({i, r: v - Math.floor(v)})).sort((a, b) => b.r - a.r);
+  for(let k = 0; used < total && k < 10 * n; k++){ out[rem[k % n].i]++; used++; }
+  for(let k = n - 1; used > total && k >= 0; k--){ if(out[rem[k % n].i] > minEach){ out[rem[k % n].i]--; used--; } }
+  return out;
+}
+PAGES.set('delimitation', async box => {
+  box.innerHTML = `<article class="page" style="max-width:1100px"><h2>${esc(t('delimTitle'))}</h2><p class="lede">${esc(t('delimSub'))}</p><p class="small">${esc(t('delimNote'))}</p><div id="dlBody"><span class="loading"><i></i>${esc(t('loading'))}</span></div></article>`;
+  const ls = await bundle('ls'), e = ls.slice().sort((a, b) => b.year - a.year)[0], pop = (await getJSON('ref/population.json')).pop, alli = e.alliances || {};
+  const st = e.regions.map((name, r) => ({name, r, seats: 0, sides: {}}));
+  e.seats.forEach(s => { if(s[3] < 0) return; const a = st[s[3]], m = s[6] || 1; a.seats += m; if(!s[4].length) return; const p = e.parties[s[4][0]], k = alli[p] || (p === 'IND' ? 'IND' : 'OTH'); a.sides[k] = (a.sides[k] || 0) + m; });
+  const sideNames = [...new Set(Object.values(alli))].filter(a => st.some(x => x.sides[a])).sort((a, b) => st.reduce((s, x) => s + (x.sides[b] || 0), 0) - st.reduce((s, x) => s + (x.sides[a] || 0), 0)).slice(0, 2).concat(['OTH']);
+  const sideOf = k => sideNames.includes(k) ? k : 'OTH';
+  const south = ['Andhra Pradesh', 'Telangana', 'Karnataka', 'Tamil Nadu', 'Kerala'], heart = ['Uttar Pradesh', 'Bihar', 'Madhya Pradesh', 'Rajasthan', 'Jharkhand', 'Chhattisgarh', 'Uttarakhand', 'Haryana', 'Himachal Pradesh', 'Delhi'];
+  const state = {total: S.dlTotal || 850, method: S.dlMethod || 'pro'}, N0 = st.reduce((a, b) => a + b.seats, 0);
+  function draw(){
+    const w = state.method === 'pop' ? st.map(x => pop[x.name] || 1) : st.map(x => x.seats), nw = apportion(state.total, w, 1);
+    const rows = st.map((x, i) => { const f = nw[i] / x.seats, sides = {}; Object.entries(x.sides).forEach(([k, v]) => { const sk = sideOf(k); sides[sk] = (sides[sk] || 0) + v * f; });
+      // round the state's side counts to its new seat total
+      const ks = Object.keys(sides), sub = apportion(nw[i], ks.map(k => sides[k]), 0), fin = {}; ks.forEach((k, j) => fin[k] = sub[j]);
+      return {x, old: x.seats, nw: nw[i], sides: x.sides, fin, per0: (pop[x.name] || 0) / x.seats / 1e5, per1: (pop[x.name] || 0) / nw[i] / 1e5}; }).sort((a, b) => b.nw - a.nw);
+    const tot = {}, tot0 = {}; rows.forEach(r => { Object.entries(r.fin).forEach(([k, v]) => tot[k] = (tot[k] || 0) + v); Object.entries(r.sides).forEach(([k, v]) => { const sk = sideOf(k); tot0[sk] = (tot0[sk] || 0) + v; }); });
+    const sum = (list, f) => rows.filter(r => list.includes(r.x.name)).reduce((a, r) => a + f(r), 0), grp = (list, label) => `<p style="margin:0 0 4px"><b>${esc(label)}:</b> ${esc(t('delimShare', {a: sum(list, r => r.old), b: sum(list, r => r.nw), c: fmt1(100 * sum(list, r => r.old) / N0), d: fmt1(100 * sum(list, r => r.nw) / state.total)}))}</p>`;
+    const mx = Math.max(...rows.map(r => r.nw));
+    $('#dlBody').innerHTML = `<div class="tools-row"><label style="flex:1;min-width:240px"><span id="dlTL">${esc(t('delimTotal', {n: state.total}))}</span> <input type="range" id="dlT" min="543" max="1000" step="1" value="${state.total}" style="width:100%"></label>
+      <label>${esc(t('delimMethod'))} <select id="dlM"><option value="pro" ${state.method === 'pro' ? 'selected' : ''}>${esc(t('delimPro'))}</option><option value="pop" ${state.method === 'pop' ? 'selected' : ''}>${esc(t('delimPop'))}</option></select></label></div>
+      <div class="tools-cols"><div>${grp(south, t('delimSouth'))}${grp(heart, t('delimHeart'))}<p class="small" style="margin:4px 0">${esc(t('delimMaj', {m: Math.floor(state.total / 2) + 1}))}</p></div>
+        <div><h4>${esc(t('delimSides'))}</h4><p style="margin:0;font-family:var(--display);font-size:19px;font-weight:700">${sideNames.map(k => `<span class="pname" style="display:inline-flex"><i class="sw" style="background:${k === 'OTH' ? '#9aa0aa' : pColor(k === 'NDA' ? 'BJP' : k === 'INDIA' ? 'INC' : k)}"></i>${esc(k === 'OTH' ? t('onoeOthers') : allyName(k))} ${tot0[k] || 0} → <b>${tot[k] || 0}</b></span>`).join(' &nbsp; ')}</p></div></div>
+      <h3>${esc(t('delimSeatsBy'))}</h3><div class="seatlist" style="max-height:520px"><table class="tbl"><thead><tr><th>${esc(t('thRegion'))}</th><th>${esc(t('delimOld'))}</th><th>${esc(t('delimNew'))}</th><th>${esc(t('delimChg'))}</th><th></th><th>${esc(t('delimPer'))}</th><th>${sideNames.map(k => esc(k === 'OTH' ? t('onoeOthers') : allyName(k))).join(' / ')}</th></tr></thead><tbody>
+      ${rows.map(r => `<tr><td>${esc(stName(r.x.name))}</td><td class="num">${r.old}</td><td class="num"><b>${r.nw}</b></td><td class="num ${r.nw > r.old ? 'up' : r.nw < r.old ? 'down' : ''}">${r.nw > r.old ? '+' : ''}${r.nw - r.old}</td><td style="min-width:90px"><div class="meter"><i style="width:${100 * r.nw / mx}%;background:var(--violet)"></i></div></td><td class="num">${fmt1(r.per0)} → ${fmt1(r.per1)}</td><td class="num small">${sideNames.map(k => `${(Object.entries(r.sides).filter(([kk]) => sideOf(kk) === k).reduce((a, [, v]) => a + v, 0))}→${r.fin[k] || 0}`).join(' / ')}</td></tr>`).join('')}</tbody></table></div>`;
+    $('#dlT').oninput = ev => { $('#dlTL').textContent = t('delimTotal', {n: ev.target.value}); };
+    $('#dlT').onchange = ev => { state.total = +ev.target.value; S.dlTotal = state.total; draw(); };
+    $('#dlM').onchange = ev => { state.method = ev.target.value; S.dlMethod = state.method; draw(); };
+    alignTables($('#dlBody'));
+  }
+  draw();
+});
+
+
+// ======== feature: 250-presidency.js ========
+// Rajya Sabha projection and the Presidential electoral college (#28), page #/rajyasabha.
+// Rajya Sabha seats retire in batches; each batch is refilled by the state assembly of the day (here: its latest result, plus an optional national swing).
+// Electoral college: elected MPs (Lok Sabha and Rajya Sabha) and MLAs, with the 1971-census vote value per MLA.
+addI18n('en', {
+  footRS: 'Rajya Sabha and President', rsTitle: 'Rajya Sabha and the Presidency', rsSub: 'The Rajya Sabha is elected by the state assemblies, a third of it every two years. This page refills every seat whose term ends by the year you pick, using each state\'s latest assembly result, and then counts the votes of the electoral college that elects the President.',
+  rsNote: 'Simplified. A batch of seats goes to the sides in proportion to their MLAs (Droop quota, parties voting as blocs). Sides follow the Wikipedia Rajya Sabha party table; parties outside it follow the 2024 Lok Sabha alliances. Nine small states with one seat each, and any seat shown as vacant, are not tracked by term. A swing moves the same points in every assembly and in the Lok Sabha.',
+  rsSwing: 'Swing {a} to {b}: {v} points', rsYear: 'Seats ending by', rsNom: 'Nominated members side with', rsNomGov: 'the NDA (the government)', rsNomNone: 'nobody (leave out)', rsNow: 'Rajya Sabha now', rsProj: 'Rajya Sabha after the batches ending by {y}', rsMaj: 'Majority of {n}: {m}', rsElectoral: 'The electoral college for President', rsVotes: '{s}: {v} votes, {p}% of {t}', rsNeed: 'Majority needs {m}. {s} {r} {n} {w}.', rsShort: 'is short by', rsAhead: 'is ahead by', rsMP: 'MP vote value: {v}', rsLS: 'Lok Sabha', rsRS: 'Rajya Sabha', rsMLA: 'MLAs', rsByState: 'Rajya Sabha seats and MLAs by state', rsSeatsNow: 'RS now', rsSeatsThen: 'RS projected', rsMLAs: 'MLAs', rsVal: 'Vote value', rsOthers: 'Others', rsLine: 'NDA {a} · INDIA {b} · others {c}', rsWiki: 'As listed on Wikipedia: NDA {a} · INDIA {b} · others {c}. This page tracks 221 of the 233 elected seats by term and counts the 12 nominated members as you choose, so its totals differ a little.',
+});
+addI18n('hi', {
+  footRS: 'राज्यसभा और राष्ट्रपति', rsTitle: 'राज्यसभा और राष्ट्रपति पद', rsSub: 'राज्यसभा को राज्यों की विधानसभाएँ चुनती हैं, हर दो साल में एक तिहाई। यह पन्ना चुने हुए साल तक जिन सीटों का कार्यकाल ख़त्म होता है उन्हें हर राज्य के ताज़ा विधानसभा नतीजे से भरता है, और फिर राष्ट्रपति को चुनने वाले निर्वाचक-मंडल के वोट गिनता है।',
+  rsNote: 'सरलीकृत। सीटों का एक जत्था पक्षों को उनके विधायकों के अनुपात में मिलता है (ड्रूप कोटा, दल गुट की तरह वोट करते हैं)। पक्ष विकिपीडिया की राज्यसभा दल-तालिका से लिए गए हैं; उससे बाहर के दल 2024 की लोकसभा के गठबंधनों के साथ हैं। एक-एक सीट वाले नौ छोटे राज्य, और ख़ाली दिखाई गई सीटें, कार्यकाल के हिसाब से नहीं गिनी गईं। स्विंग हर विधानसभा और लोकसभा में बराबर अंक खिसकाता है।',
+  rsSwing: '{a} से {b} की ओर स्विंग: {v} अंक', rsYear: 'इस साल तक ख़त्म होने वाली सीटें', rsNom: 'मनोनीत सदस्य किसके साथ', rsNomGov: 'एनडीए (सरकार)', rsNomNone: 'किसी के नहीं (छोड़ दें)', rsNow: 'अभी राज्यसभा', rsProj: '{y} तक के जत्थों के बाद राज्यसभा', rsMaj: '{n} में बहुमत: {m}', rsElectoral: 'राष्ट्रपति का निर्वाचक-मंडल', rsVotes: '{s}: {v} वोट, {t} में से {p}%', rsNeed: 'बहुमत के लिए {m} चाहिए। {s} {n} {r} {w}।', rsShort: 'से पीछे है', rsAhead: 'से आगे है', rsMP: 'सांसद के वोट का मूल्य: {v}', rsLS: 'लोकसभा', rsRS: 'राज्यसभा', rsMLA: 'विधायक', rsByState: 'राज्यवार राज्यसभा सीटें और विधायक', rsSeatsNow: 'राज्यसभा अभी', rsSeatsThen: 'राज्यसभा अनुमानित', rsMLAs: 'विधायक', rsVal: 'वोट मूल्य', rsOthers: 'अन्य', rsLine: 'एनडीए {a} · इंडिया {b} · अन्य {c}', rsWiki: 'विकिपीडिया की सूची के अनुसार: एनडीए {a} · इंडिया {b} · अन्य {c}। यह पन्ना 233 निर्वाचित सीटों में से 221 को कार्यकाल के हिसाब से गिनता है और 12 मनोनीत सदस्यों को आपके चुनाव के अनुसार, इसलिए योग थोड़े अलग हैं।',
+});
+// value of one MLA's vote (1971-census formula); the 2022 totals add up to the official 543,231. Jammu and Kashmir: 87-seat value rescaled to 90 seats.
+const MLA_VALUE = {'Andhra Pradesh': 159, 'Arunachal Pradesh': 8, 'Assam': 116, 'Bihar': 173, 'Chhattisgarh': 129, 'Delhi': 58, 'Goa': 20, 'Gujarat': 147, 'Haryana': 112, 'Himachal Pradesh': 51, 'Jammu & Kashmir': 70, 'Jharkhand': 176, 'Karnataka': 131, 'Kerala': 152, 'Madhya Pradesh': 131, 'Maharashtra': 175, 'Manipur': 18, 'Meghalaya': 17, 'Mizoram': 8, 'Nagaland': 9, 'Odisha': 149, 'Puducherry': 16, 'Punjab': 116, 'Rajasthan': 129, 'Sikkim': 7, 'Tamil Nadu': 176, 'Telangana': 132, 'Tripura': 26, 'Uttar Pradesh': 208, 'Uttarakhand': 64, 'West Bengal': 151};
+const RS_STATE = {'Jammu and Kashmir': 'Jammu & Kashmir'};
+function droop(n, v){ // seats for a batch of n, by side votes v = {side: MLAs}
+  const tot = Object.values(v).reduce((a, b) => a + b, 0), out = {}; if(!tot || n <= 0) return out;
+  const q = Math.floor(tot / (n + 1)) + 1; let used = 0; const rem = [];
+  Object.entries(v).forEach(([k, x]) => { const s = Math.floor(x / q); out[k] = s; used += s; rem.push([k, x - s * q]); });
+  rem.sort((a, b) => b[1] - a[1]); for(let i = 0; used < n; i++, used++) out[rem[i % rem.length][0]]++;
+  return out;
+}
+PAGES.set('rajyasabha', async box => {
+  box.innerHTML = `<article class="page" style="max-width:1100px"><h2>${esc(t('rsTitle'))}</h2><p class="lede">${esc(t('rsSub'))}</p><p class="small">${esc(t('rsNote'))}</p><div id="rsBody"><span class="loading"><i></i>${esc(t('onoeRun'))}</span></div></article>`;
+  const RS = await getJSON('ref/rajyasabha.json'), ix = INDEX.elections, ls = await bundle('ls'), lsEnt = ix.filter(e => e.kind === 'LS').sort((a, b) => b.year - a.year)[0], lsRaw = ls.find(e => e.id === lsEnt.id), alli = lsRaw.alliances || {};
+  const latest = new Map(); ix.filter(e => e.kind === 'AE').forEach(e => { const l = latest.get(e.state); if(!l || e.year > l.year || (e.year === l.year && e.label > l.label)) latest.set(e.state, e); });
+  const raws = []; for(const [st, ent] of latest){ const b = await bundle(ent.file); raws.push({st, ent, raw: b.find(e => e.id === ent.id)}); }
+  const sideCode = c => RS.sideOf[c] || (alli[c] === 'NDA' ? 'NDA' : alli[c] === 'INDIA' ? 'INDIA' : 'OTH');
+  const sideOf = c => { const s = sideCode(c); return s === 'NDA' ? 'NDA' : s === 'INDIA' ? 'INDIA' : null; };
+  const state = {pts: S.rsPts != null ? S.rsPts : 0, year: S.rsYear || 2032, nom: S.rsNom || 'gov'};
+  const sk = k => k === 'NDA' ? 'A' : k === 'INDIA' ? 'B' : 'O';
+  const colr = k => k === 'NDA' ? pColor('BJP') : k === 'INDIA' ? pColor('INC') : '#9aa0aa';
+  function draw(){
+    const asm = new Map(); raws.forEach(o => { const r = silentRun(o.raw, 'party', state.pts, sideOf, 'NDA', 'INDIA'); asm.set(o.st, {NDA: r.bySide.A, INDIA: r.bySide.B, OTH: r.bySide.O, n: r.N}); });
+    const lsR = silentRun(lsRaw, 'party', state.pts, sideOf, 'NDA', 'INDIA'), lsSide = {NDA: lsR.bySide.A, INDIA: lsR.bySide.B, OTH: lsR.bySide.O};
+    const lead = st => { const a = asm.get(st); return a ? ['NDA', 'INDIA', 'OTH'].sort((x, y) => a[y] - a[x])[0] : 'OTH'; };
+    // Rajya Sabha now and projected
+    const now = {NDA: 0, INDIA: 0, OTH: 0}, proj = {NDA: 0, INDIA: 0, OTH: 0}, byState = [], cut = state.year + '-12-31';
+    Object.entries(RS.states).forEach(([sn, mem]) => { const st = RS_STATE[sn] || sn, a = asm.get(st); const cn = {NDA: 0, INDIA: 0, OTH: 0}, cp = {NDA: 0, INDIA: 0, OTH: 0}, batches = new Map();
+      mem.forEach(m => { const sd = sideCode(m.p); cn[sd]++; if(m.end <= cut && a){ const b = batches.get(m.end) || 0; batches.set(m.end, b + 1); } else cp[sd]++; });
+      batches.forEach(nn => { const g = droop(nn, {NDA: a.NDA, INDIA: a.INDIA, OTH: a.OTH}); Object.entries(g).forEach(([k, v]) => cp[k] += v); });
+      Object.keys(cn).forEach(k => { now[k] += cn[k]; proj[k] += cp[k]; }); byState.push({st, cn, cp, n: mem.length}); });
+    const small = ['Arunachal Pradesh', 'Goa', 'Manipur', 'Meghalaya', 'Mizoram', 'Nagaland', 'Sikkim', 'Tripura', 'Puducherry'];
+    small.forEach(st => { const l = lead(st); now[l]++; proj[l]++; byState.push({st, cn: {NDA: l === 'NDA' ? 1 : 0, INDIA: l === 'INDIA' ? 1 : 0, OTH: l === 'OTH' ? 1 : 0}, cp: {NDA: l === 'NDA' ? 1 : 0, INDIA: l === 'INDIA' ? 1 : 0, OTH: l === 'OTH' ? 1 : 0}, n: 1}); });
+    const nomN = RS.nominated.length, nomNow = state.nom === 'gov' ? {NDA: nomN} : {}; if(state.nom === 'gov'){ now.NDA += nomN; proj.NDA += nomN; }
+    const rsTotNow = now.NDA + now.INDIA + now.OTH, rsTot = proj.NDA + proj.INDIA + proj.OTH, rsMaj = Math.floor(rsTot / 2) + 1;
+    // electoral college: elected MPs and MLAs; nominated members do not vote
+    const mpsRS = {NDA: proj.NDA - (state.nom === 'gov' ? nomN : 0), INDIA: proj.INDIA, OTH: proj.OTH}, totalMLAvalue = [...asm.entries()].reduce((a, [st, x]) => a + (MLA_VALUE[st] || 0) * x.n, 0), mpTotal = 543 + (rsTot - (state.nom === 'gov' ? nomN : 0));
+    const mpv = Math.round(totalMLAvalue / mpTotal), val = {NDA: 0, INDIA: 0, OTH: 0}, parts = {NDA: {ls: lsSide.NDA * mpv, rs: mpsRS.NDA * mpv, mla: 0}, INDIA: {ls: lsSide.INDIA * mpv, rs: mpsRS.INDIA * mpv, mla: 0}, OTH: {ls: lsSide.OTH * mpv, rs: mpsRS.OTH * mpv, mla: 0}};
+    asm.forEach((x, st) => ['NDA', 'INDIA', 'OTH'].forEach(k => parts[k].mla += x[k] * (MLA_VALUE[st] || 0)));
+    ['NDA', 'INDIA', 'OTH'].forEach(k => val[k] = parts[k].ls + parts[k].rs + parts[k].mla);
+    const total = val.NDA + val.INDIA + val.OTH, need = Math.floor(total / 2) + 1, gap = val.NDA - need;
+    const bar = (k, w) => `<i style="width:${100 * w}%;background:${colr(k)}"></i>`;
+    const stack = (obj, tot, maj) => `<div class="bar" style="height:20px;position:relative">${['NDA', 'OTH', 'INDIA'].map(k => bar(k, obj[k] / tot)).join('')}<u style="position:absolute;top:-3px;bottom:-3px;left:${100 * (maj - .5) / tot}%;width:2px;background:var(--ink)"></u></div>`;
+    const nm = k => k === 'NDA' ? 'NDA' : k === 'INDIA' ? (LANG === 'hi' ? 'इंडिया' : 'INDIA') : t('rsOthers');
+    $('#rsBody').innerHTML = `<div class="tools-row"><label style="flex:1;min-width:230px"><span id="rsPL">${esc(t('rsSwing', {a: 'NDA', b: LANG === 'hi' ? 'इंडिया' : 'INDIA', v: (state.pts > 0 ? '+' : '') + state.pts}))}</span> <input type="range" id="rsP" min="-8" max="8" step="0.5" value="${state.pts}" style="width:100%"></label>
+      <label>${esc(t('rsYear'))} <select id="rsY">${[2026, 2027, 2028, 2029, 2030, 2031, 2032].map(y => `<option ${y === state.year ? 'selected' : ''}>${y}</option>`).join('')}</select></label>
+      <label>${esc(t('rsNom'))} <select id="rsN"><option value="gov" ${state.nom === 'gov' ? 'selected' : ''}>${esc(t('rsNomGov'))}</option><option value="none" ${state.nom === 'none' ? 'selected' : ''}>${esc(t('rsNomNone'))}</option></select></label></div>
+      <div class="tools-cols"><div><h3>${esc(t('rsNow'))}</h3>${stack(now, rsTotNow, Math.floor(rsTotNow / 2) + 1)}<p style="margin:4px 0;font-family:var(--display);font-weight:600">${esc(t('rsLine', {a: now.NDA, b: now.INDIA, c: now.OTH}))}</p><p class="small" style="margin:0 0 6px">${esc(t('rsWiki', {a: RS.summary.NDA, b: RS.summary.INDIA, c: RS.summary.OTH}))}</p>
+        <h3>${esc(t('rsProj', {y: state.year}))}</h3>${stack(proj, rsTot, rsMaj)}<p style="margin:4px 0;font-family:var(--display);font-size:19px;font-weight:700">${esc(t('rsLine', {a: proj.NDA, b: proj.INDIA, c: proj.OTH}))}</p><p class="small" style="margin:0">${esc(t('rsMaj', {n: rsTot, m: rsMaj}))}</p></div>
+        <div><h3>${esc(t('rsElectoral'))}</h3>${stack(val, total, need)}
+          <p style="margin:6px 0 2px;font-family:var(--display);font-size:19px;font-weight:700">${esc(t('rsVotes', {s: 'NDA', v: fmtN(val.NDA), p: fmt1(100 * val.NDA / total), t: fmtN(total)}))}</p>
+          <p style="margin:0;color:${gap >= 0 ? 'var(--good)' : 'var(--bad)'};font-weight:600">${esc(t('rsNeed', {m: fmtN(need), s: 'NDA', r: gap >= 0 ? t('rsAhead') : t('rsShort'), n: fmtN(Math.abs(gap)), w: LANG === 'hi' ? 'वोट' : 'votes'}))}</p>
+          <p class="small" style="margin:6px 0 0">${['NDA', 'INDIA', 'OTH'].map(k => `${esc(nm(k))}: ${esc(t('rsLS'))} ${fmtN(parts[k].ls)} · ${esc(t('rsRS'))} ${fmtN(parts[k].rs)} · ${esc(t('rsMLA'))} ${fmtN(parts[k].mla)}`).join('<br>')}<br>${esc(t('rsMP', {v: mpv}))}</p></div></div>
+      <h3>${esc(t('rsByState'))}</h3><div class="seatlist" style="max-height:460px"><table class="tbl"><thead><tr><th>${esc(t('thRegion'))}</th><th>${esc(t('rsSeatsNow'))} (NDA / INDIA / ${esc(t('rsOthers'))})</th><th>${esc(t('rsSeatsThen'))}</th><th>${esc(t('rsMLAs'))} (NDA / INDIA / ${esc(t('rsOthers'))})</th><th>${esc(t('rsVal'))}</th></tr></thead><tbody>
+      ${byState.sort((a, b) => b.n - a.n).map(r => { const a = asm.get(r.st) || {NDA: 0, INDIA: 0, OTH: 0}; return `<tr><td>${esc(stName(r.st))}</td><td class="num">${r.cn.NDA} / ${r.cn.INDIA} / ${r.cn.OTH}</td><td class="num"><b>${r.cp.NDA} / ${r.cp.INDIA} / ${r.cp.OTH}</b></td><td class="num">${a.NDA} / ${a.INDIA} / ${a.OTH}</td><td class="num">${MLA_VALUE[r.st] || ''}</td></tr>`; }).join('')}</tbody></table></div>`;
+    $('#rsP').oninput = e => { $('#rsPL').textContent = t('rsSwing', {a: 'NDA', b: LANG === 'hi' ? 'इंडिया' : 'INDIA', v: (+e.target.value > 0 ? '+' : '') + e.target.value}); };
+    $('#rsP').onchange = e => { state.pts = +e.target.value; S.rsPts = state.pts; draw(); };
+    $('#rsY').onchange = e => { state.year = +e.target.value; S.rsYear = state.year; draw(); };
+    $('#rsN').onchange = e => { state.nom = e.target.value; S.rsNom = state.nom; draw(); };
+    alignTables($('#rsBody'));
+  }
+  draw();
+});
 
 
 async function boot(){

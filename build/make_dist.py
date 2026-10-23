@@ -11,11 +11,28 @@ ROOT = os.path.dirname(HERE)
 SITE = os.path.join(ROOT, 'source')
 
 def run(script):
-    r = subprocess.run([sys.executable, os.path.join(HERE, script)], capture_output=True, text=True)
+    r = subprocess.run([sys.executable, os.path.join(HERE, script)], capture_output=True, text=True, encoding='utf-8', errors='replace')
     print(r.stdout.strip()); 
     if r.returncode: print(r.stderr); sys.exit(r.returncode)
 
 run('assemble.py')
+
+def syntax_check():
+    """Fail the build if the page's script does not parse (one stray apostrophe in a string takes the whole site down)."""
+    import shutil, tempfile
+    node = shutil.which('node')
+    if not node:
+        print('warning: node not found, skipping the JavaScript syntax check'); return
+    html = open(os.path.join(ROOT, 'index.html'), encoding='utf-8').read()
+    i = html.index("(() => {" + chr(10) + "'use strict';"); j = html.index('</script>', i)
+    with tempfile.NamedTemporaryFile('w', suffix='.js', delete=False, encoding='utf-8') as f:
+        f.write(html[i:j]); tmp = f.name
+    r = subprocess.run([node, '--check', tmp], capture_output=True, text=True, encoding='utf-8', errors='replace')
+    os.unlink(tmp)
+    if r.returncode:
+        print('JAVASCRIPT SYNTAX ERROR in the built page:' + chr(10) + r.stderr); sys.exit(1)
+    print('syntax check ok')
+syntax_check()
 for extra in ['fix_independents.py', 'derive_home.py', 'make_search.py', 'derive_stats.py', 'make_opendata.py']:
     if os.path.exists(os.path.join(HERE, extra)): run(extra)
 
