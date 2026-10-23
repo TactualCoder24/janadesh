@@ -1,0 +1,295 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,1,Mekliganj,GEN,Koch Bihar,178627,AITC,Arghya Roy Pradhan (Bilu),74823,AIFB,Paresh Chandra Adhikary,68186,6637,3.72
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,2,Mathabhanga,GEN,Koch Bihar,198405,AITC,Binay Krishna Barman,96383,CPI(M),Khagen Chandra Barman,64465,31918,16.09
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,3,Cooch Behar Uttar,GEN,Koch Bihar,221122,AIFB,Nagendra Nath Roy,97629,AITC,Parimal Barman,85336,12293,5.56
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,4,Cooch Behar Dakshin,GEN,Koch Bihar,176684,AITC,Mihir Goswami,82849,AIFB,Debasis Banik,64654,18195,10.3
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,5,Sitalkuchi,GEN,Koch Bihar,227971,AITC,Hiten Barman,101647,CPI(M),Namadipti Adhikary,86164,15483,6.79
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,6,Sitai,GEN,Koch Bihar,215750,AITC,Jagadish Chandra Barma Basunia,103410,INC,Keshab Chandra Ray,78159,25251,11.7
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,7,Dinhata,GEN,Koch Bihar,221018,AITC,Udayan Guha,100732,AIFB,Akshay Thakur,78939,21793,9.86
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,8,Natabari,GEN,Koch Bihar,198024,AITC,Rabindra Nath Ghosh,93257,CPI(M),Tamser Ali,77100,16157,8.16
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,9,Tufanganj,GEN,Koch Bihar,189904,AITC,Fazal Karim Miah,85052,INC,Shyamal Choudhury,69782,15270,8.04
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,10,Kumargram,GEN,Jalpaiguri,202532,AITC,James Kujur,77668,RSP,Manoj Kumar Oraon,71515,6153,3.04
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,11,Kalchini,GEN,Jalpaiguri,172832,AITC,Wilson Champramary,62061,BJP,Bishal Lama,60550,1511,0.87
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,12,Alipurduars,GEN,Jalpaiguri,200466,AITC,Sourav Chakraborty(Ghutish),89695,INC,Biswa Ranjan Sarkar,77737,11958,5.97
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,13,Falakata,GEN,Jalpaiguri,194128,AITC,Anil Adhikari,86647,CPI(M),Kshitish Chandra Ray,69808,16839,8.67
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,14,Madarihat,GEN,Jalpaiguri,147233,BJP,Manoj Tigga,66989,AITC,Padam Lama,44951,22038,14.97
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,15,Dhupguri,GEN,Jalpaiguri,205472,AITC,Mitali Roy,90781,CPI(M),Mamata Roy,71517,19264,9.38
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,16,Maynaguri,GEN,Jalpaiguri,206360,AITC,Ananta Deb Adhikari,100837,RSP,Chhaya Dey (Roy),65930,34907,16.92
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,17,Jalpaiguri,GEN,Jalpaiguri,204833,INC,Sukhbilas Barma,94553,AITC,Dharttimohan Roy,89396,5157,2.52
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,18,Rajganj,GEN,Jalpaiguri,191006,AITC,Khageswar Roy,89785,CPI(M),Satyendra Nath Mondal,75108,14677,7.68
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,19,Dabgram-Fulbari,GEN,Jalpaiguri,219442,AITC,Goutam Deb,105769,CPI(M),Dilip Singh,81958,23811,10.85
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,20,Mal,GEN,Jalpaiguri,187393,AITC,Bulu Chik Baraik,84877,CPI(M),Augustus Kerketta,66415,18462,9.85
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,21,Nagrakata,GEN,Jalpaiguri,170346,AITC,Sukra Munda,57306,INC,Joseph Munda,54078,3228,1.89
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,22,Kalimpong,GEN,Darjiling,134621,GJM,Sarita Rai,67693,IND,Harka Bahadur Chettri,56262,11431,8.49
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,23,Darjeeling,GEN,Darjiling,153557,GJM,Amar Singh Rai,95386,AITC,Sarda Rai Subba,45473,49913,32.5
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,24,Kurseong,GEN,Darjiling,156547,GJM,Rohit Sharma,86947,AITC,Shanta Chhetri,53221,33726,21.54
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,25,Matigara-Naxalbari,GEN,Darjiling,206070,INC,Sankar Malakar,86441,AITC,Amar Sinha,67814,18627,9.04
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,26,Siliguri,GEN,Darjiling,165473,CPI(M),Asok Bhattacharya,78054,AITC,Bhaichung Bhutia,63982,14072,8.5
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,27,Phansidewa,GEN,Darjiling,178651,INC,Sunil Chandra Tirkey,73158,AITC,Carolus Lakra,66084,7074,3.96
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,28,Chopra,GEN,Uttar Dinajpur,175235,AITC,Hamidul Rahaman,74390,CPI(M),Akramul Hoque,57530,16860,9.62
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,29,Islampur,GEN,Uttar Dinajpur,147461,INC,Kanaia Lal Agarwal,65559,AITC,Abdul Karim Chowdhary,57841,7718,5.23
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,30,Goalpokhar,GEN,Uttar Dinajpur,146166,AITC,Md Gulam Rabbani,64869,INC,Afjal Hosen,57121,7748,5.3
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,31,Chakulia,GEN,Uttar Dinajpur,148887,AIFB,Ali Imran Ramz,64185,BJP,Ashim Kumar Mridha,36656,27529,18.49
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,32,Karandighi,GEN,Uttar Dinajpur,181114,AITC,Manodeb Sinha,54599,AIFB,Gokul Roy,51367,3232,1.78
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,33,Hemtabad,GEN,Uttar Dinajpur,195299,CPI(M),Debendra Nath Roy,80419,AITC,Sabita Kshetry,67283,13136,6.73
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,34,Kaliaganj,GEN,Uttar Dinajpur,211109,INC,Pramatha Nath Ray,112868,AITC,Basanta Roy,66266,46602,22.07
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,35,Raiganj,GEN,Uttar Dinajpur,147183,INC,Mohit Sengupta,87983,AITC,Purnendu Dey (Bablu),36736,51247,34.82
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,36,Itahar,GEN,Uttar Dinajpur,167604,AITC,Amal Acharjee,88507,CPI,Srikumar Mukherjee,69387,19120,11.41
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,37,Kushmandi,GEN,Dakshin Dinajpur *,159556,RSP,Narmada Chandra Roy,68965,AITC,Rekha Roy,65436,3529,2.21
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,38,Kumarganj,GEN,Dakshin Dinajpur *,151552,AITC,Toraf Hossain Mandal,64501,CPI(M),Mafuja Khatun,61005,3496,2.31
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,39,Balurghat,GEN,Dakshin Dinajpur *,138146,RSP,Biswanath Choudhury,60590,AITC,Chakravorti Shankar,59140,1450,1.05
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,40,Tapan,GEN,Dakshin Dinajpur *,165387,AITC,Bachchu Hansda,72511,RSP,Urow Raghu,68110,4401,2.66
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,41,Gangarampur,GEN,Dakshin Dinajpur *,170946,INC,Goutam Das,80401,AITC,Satyendra Nath Roy,69668,10733,6.28
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,42,Harirampur,GEN,Dakshin Dinajpur *,165168,CPI(M),Rafikul Islam,71447,AITC,Biplab Mitra,66943,4504,2.73
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,43,Habibpur,GEN,Maldah,180614,CPI(M),Khagen Murmu,64095,AITC,Amal Kisku,61583,2512,1.39
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,44,Gazole,GEN,Maldah,194837,CPI(M),Dipali Biswas,85949,AITC,Sushil Chandra Roy,65347,20602,10.57
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,45,Chanchal,GEN,Maldah,169828,INC,Asif Mehbub,92590,AITC,Soumitra Ray,40222,52368,30.84
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,46,Harischandrapur,GEN,Maldah,170302,INC,Alam Mostaque,60047,AITC,Tajmul Hossain,42190,17857,10.49
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,47,Malatipur,GEN,Maldah,153633,INC,Alberuni Zulkarnain,50643,RSP,Abdur Rahim Boxi,48043,2600,1.69
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,48,Ratua,GEN,Maldah,184067,INC,Samar Mukherjee,96587,AITC,Shehnaz Quadery,53312,43275,23.51
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,49,Manickchak,GEN,Maldah,170648,INC,Md. Mottakin Alam,78472,AITC,Sabitri Mitra,65869,12603,7.39
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,50,Maldaha,GEN,Maldah,180280,INC,Bhupendra Nath Halder,88243,AITC,Dulal Sarkar (Babla),54934,33309,18.48
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,51,Englishbazar,GEN,Maldah,202902,IND,Nihar Ranjan Ghosh,107183,AITC,Krishnendu Narayan Choudhury,67456,39727,19.58
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,52,Mothabari,GEN,Maldah,131564,INC,Yeasmin Sabina,69089,AITC,Md. Najrul Islam,30915,38174,29.02
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,53,Sujapur,GEN,Maldah,163954,INC,Isha Khan Choudhury,97332,AITC,Abu Nasar Khan Choudhury,50252,47080,28.72
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,54,Baishnabnagar,GEN,Maldah,181202,BJP,Swadhin Kumar Sarkar,70185,INC,Azizul Haque,65688,4497,2.48
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,55,Farakka,GEN,Murshidabad,161358,INC,Mainul Haque,83314,AITC,Md. Mustafa,55147,28167,17.46
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,56,Samserganj,GEN,Murshidabad,155698,AITC,Amirul Islam,48381,CPI(M),Touab Ali,46601,1780,1.14
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,57,Suti,GEN,Murshidabad,185821,INC,Humayun Reza,84017,AITC,Emani Biswas,80067,3950,2.13
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,58,Jangipur,GEN,Murshidabad,176735,AITC,Jakir Hossain,66869,CPI(M),Somnath Singha Ray,46236,20633,11.67
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,59,Raghunathganj,GEN,Murshidabad,163686,INC,Akhruzzaman,78497,AITC,Abul Kasem Molla,54711,23786,14.53
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,60,Sagardighi,GEN,Murshidabad,168896,AITC,Subrata Saha,44817,INC,Aminul Islam,39603,5214,3.09
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,61,Lalgola,GEN,Murshidabad,163353,INC,Abu Hena,100110,AITC,Chand Mohammad,46635,53475,32.74
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,62,Bhagawangola,GEN,Murshidabad,190568,CPI(M),Mahasin Ali,105037,AITC,Abu Sufian Sarkar,68732,36305,19.05
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,63,Raninagar,GEN,Murshidabad,188367,INC,Firoza Begam,111132,AITC,Dr. Humayun Kabir,62750,48382,25.68
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,64,Murshidabad,GEN,Murshidabad,198184,INC,Shaoni Singha Roy,94579,AITC,Ashim Krishna Bhatta,69440,25139,12.68
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,65,Nabagram,GEN,Murshidabad,178478,CPI(M),Kanai Chandra Mondal,99545,AITC,Dilip Saha,61102,38443,21.54
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,66,Khargram,GEN,Murshidabad,159990,INC,Ashis Marjit,88913,AITC,Madhab Chandra Marjit,55740,33173,20.73
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,67,Burwan,GEN,Murshidabad,148260,INC,Protima Rajak,55906,AITC,Shasthi Charan Mal,40904,15002,10.12
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,68,Kandi,GEN,Murshidabad,157089,INC,Apurba Sarkar (David),81723,AITC,Dr. Santanu Sen,60943,20780,13.23
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,69,Bharatpur,GEN,Murshidabad,161426,INC,Kamalesh Chatterjee (Gopal),59789,AITC,Khadem A Dastegir (Khadu),48772,11017,6.82
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,70,Rejinagar,GEN,Murshidabad,182843,INC,Rabiul Alam Chowdhury,79770,IND,Humayun Kabir,74210,5560,3.04
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,71,Beldanga,GEN,Murshidabad,173821,INC,Seikh Safiujjaman,87017,AITC,Golam Kibria Mia,56736,30281,17.42
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,72,Baharampur,GEN,Murshidabad,184664,INC,Manoj Chakraborty,127762,AITC,Dr. Sujata Banerjee,35489,92273,49.97
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,73,Hariharpara,GEN,Murshidabad,188132,AITC,Niamot Sheikh,71502,INC,Alamgir Mir (Palash),66499,5003,2.66
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,74,Nowda,GEN,Murshidabad,177926,INC,Abu Taher Khan,62639,AITC,Masud Karim,43377,19262,10.83
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,75,Domkal,GEN,Murshidabad,194382,CPI(M),Anisur Rahaman Sarkar,71703,AITC,Soumik Hossain,64813,6890,3.54
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,76,Jalangi,GEN,Murshidabad,189081,CPI(M),Abdur Razzak Mandal,96250,AITC,Alok Das,70983,25267,13.36
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,77,Karimpur,GEN,Nadia,199657,AITC,Mahua Moitra,90989,CPI(M),Samarendranath Ghosh,75000,15989,8.01
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,78,Tehatta,GEN,Nadia,197616,AITC,Gouri Sankar Dutta,97611,CPI(M),Ranjit Kumar Mandal,80215,17396,8.8
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,79,Palashipara,GEN,Nadia,180570,AITC,Tapas Kumar Saha,82127,CPI(M),S.M.Sadi,76568,5559,3.08
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,80,Kaliganj,GEN,Nadia,184137,INC,Hasanuzzaman Sk,85125,AITC,Ahamed Nasiruddin (Lal),83898,1227,0.67
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,81,Nakashipara,GEN,Nadia,187514,AITC,Kallol Khan,88032,CPI(M),Tanmay Ganguli,81782,6250,3.33
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,82,Chapra,GEN,Nadia,185501,AITC,Rukbanur Rahman,89556,CPI(M),Shamsul Islam Mollah,76093,13463,7.26
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,83,Krishnanagar Uttar,GEN,Nadia,184563,AITC,Abani Mohan Joardar,82864,INC,Asim Kumar Saha,69949,12915,7.0
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,84,Nabadwip,GEN,Nadia,192633,AITC,Pundarikakshya Saha,102228,CPI(M),Sumit Biswas,66432,35796,18.58
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,85,Krishnanagar Dakshin,GEN,Nadia,174526,AITC,Ujjal Biswas,80711,CPI(M),Meghlal Sheikh,67897,12814,7.34
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,86,Santipur,GEN,Nadia,198179,INC,Arindam Bhattacharya,103566,AITC,Ajoy Dey,84078,19488,9.83
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,87,Ranaghat Uttar Paschim,GEN,Nadia,208757,INC,Sankar Singha,109607,AITC,Parthasarathi Chatterjee (Babu),86187,23420,11.22
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,88,Krishnaganj,GEN,Nadia,211597,AITC,Satyajit Biswas,114626,CPI(M),Mrinal Biswas(Mini),70698,43928,20.76
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,89,Ranaghat Uttar Purba,GEN,Nadia,192033,AITC,Samir Kumar Poddar,93215,CPI(M),Babusona Sarkar,78243,14972,7.8
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,90,Ranaghat Dakshin,GEN,Nadia,215575,CPI(M),Rama Biswas,104159,AITC,Abir Ranjan Biswas,86906,17253,8.0
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,91,Chakdaha,GEN,Nadia,187147,AITC,Kar Ratna Ghosh,94241,CPI(M),Biswanath Gupta,70588,23653,12.64
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,92,Kalyani,GEN,Nadia,186937,AITC,Dr. Ramendra Nath Biswas,95795,CPI(M),Alakesh Das,69700,26095,13.96
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,93,Haringhata,GEN,Nadia,189406,AITC,Nilima Nag (Mallick),94530,CPI(M),Ajoy Das,73181,21349,11.27
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,94,Bagdah,GEN,North 24 Parganas,204221,INC,Dulal Chandra Bar,102026,AITC,Upendra Nath Biswas,89790,12236,5.99
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,95,Bongaon Uttar,GEN,North 24 Parganas,187214,AITC,Biswajit Das,95822,AIFB,Sushanta Bowali,62630,33192,17.73
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,96,Bongaon Dakshin,GEN,North 24 Parganas,186263,AITC,Surajit Kumar Biswas,92379,CPI(M),Ramendranath Audhya,65475,26904,14.44
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,97,Gaighata,GEN,North 24 Parganas,191362,AITC,Pulin Bihari Ray,93812,CPI,Kapil Krishna Thakur,64240,29572,15.45
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,98,Swarupnagar,SC,North 24 Parganas,191245,AITC,Bina Mandal,93807,CPI(M),Dhiman Sarkar,81866,11941,6.24
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,99,Baduria,GEN,North 24 Parganas,194496,INC,Abdur Rahim Quazi,98408,AITC,Amir Ali,76163,22245,11.44
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,100,Habra,GEN,North 24 Parganas,185001,AITC,Jyoti Priya Mallick,101590,CPI(M),Ashis Kantha Mukherjee,55643,45947,24.84
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,101,Ashoknagar,GEN,North 24 Parganas,194383,AITC,Dhiman Roy,98042,CPI(M),Satyasebi Kar,75143,22899,11.78
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,102,Amdanga,GEN,North 24 Parganas,190587,AITC,Rafiqur Rahaman,96193,CPI(M),Abdus Sattar,73228,22965,12.05
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,103,Bijpur,GEN,North 24 Parganas,123292,AITC,Subhranshu Roy,76842,CPI(M),Dr. Rabindra Nath Mukherjee,28888,47954,38.89
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,104,Naihati,GEN,North 24 Parganas,143938,AITC,Partha Bhowmick,74057,CPI(M),Gargi Chatterjee,45429,28628,19.89
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,105,Bhatpara,GEN,North 24 Parganas,106562,AITC,Arjun Singh,59253,IND,Jitendra Shaw (Jitu),30318,28935,27.15
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,106,Jagatdal,GEN,North 24 Parganas,162853,AITC,Parash Dutta,76712,AIFB,Haripada Biswas,49667,27045,16.61
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,107,Noapara,GEN,North 24 Parganas,185957,INC,Madhusudan Ghose,79548,AITC,Manju Basu,78453,1095,0.59
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,108,Barrackpur,GEN,North 24 Parganas,141711,AITC,Silbhadra Datta,58109,CPI(M),Debasish Bhowmick,50790,7319,5.16
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,109,Khardaha,GEN,North 24 Parganas,165387,AITC,Amit Mitra,83688,CPI(M),Asim Kumar Dasgupta,62488,21200,12.82
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,110,Dum Dum Uttar,GEN,North 24 Parganas,194736,CPI(M),Tanmoy Bhattacharya,91959,AITC,Chandrima Bhattacharya,85410,6549,3.36
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,111,Panihati,GEN,North 24 Parganas,161697,AITC,Nirmal Ghosh,73545,INC,Sanmoy Bandyopadhyay,70515,3030,1.87
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,112,Kamarhati,GEN,North 24 Parganas,135320,CPI(M),Manash Mukherjee,62194,AITC,Madan Mitra,57996,4198,3.1
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,113,Baranagar,GEN,North 24 Parganas,152739,AITC,Tapas Roy,76531,RSP,Sukumar Ghosh,60431,16100,10.54
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,114,Dum Dum,GEN,North 24 Parganas,171056,AITC,Bratya Basu,81579,CPI(M),Palash Das,72263,9316,5.45
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,115,Rajarhat New Town,GEN,North 24 Parganas,196558,AITC,Sabya Sachi Dutta,90671,CPI(M),Narendra Nath Chatterjee (Balai),81478,9193,4.68
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,116,Bidhannagar,GEN,North 24 Parganas,151048,AITC,Sujit Bose,66130,INC,Arunava Ghosh,59142,6988,4.63
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,117,Rajarhat Gopalpur,GEN,North 24 Parganas,160534,AITC,Purnendu Basu,72793,CPI(M),Nepaldeb Bhattacharjee,65919,6874,4.28
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,118,Madhyamgram,GEN,North 24 Parganas,204772,AITC,Rathin Ghosh,110271,INC,Tapas Majumder,74467,35804,17.48
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,119,Barasat,GEN,North 24 Parganas,202039,AITC,Chiranjeet Chakrabarti,99667,AIFB,Chattopadhyay Sanjib,74668,24999,12.37
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,120,Deganga,GEN,North 24 Parganas,189920,AITC,Rahima Mondal,97412,AIFB,Md. Hasanoor Jaman Chowdhury,71422,25990,13.68
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,121,Haroa,GEN,North 24 Parganas,197881,AITC,Islam Sk.Nurul (Haji),113001,CPI(M),Imtiaz Hossain,70594,42407,21.43
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,122,Minakhan,SC,North 24 Parganas,181383,AITC,Usha Rani Mondal,103210,CPI(M),Dinabandhu Mondal,60612,42598,23.49
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,123,Sandeshkhali,ST,North 24 Parganas,184567,AITC,Sukumar Mahata,96556,CPI(M),Nirapada Sardar,58366,38190,20.69
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,124,Basirhat Dakshin,GEN,North 24 Parganas,214690,AITC,Dipendu Biswas (Mithu),88085,BJP,Samik Bhattacharya,64027,24058,11.21
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,125,Basirhat Uttar,GEN,North 24 Parganas,211242,CPI(M),Rafikul Islam Mondal,97828,AITC,A.T.M. Abdullah (Rony),97336,492,0.23
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,126,Hingalganj,SC,North 24 Parganas,176917,AITC,Debes Mandal,94753,CPI,Anandamay Mandal,64449,30304,17.13
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,127,Gosaba,GEN,South 24 Parganas,176469,AITC,Jayanta Naskar,90716,RSP,Uttam Kumar Saha,71045,19671,11.15
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,128,Basanti,GEN,South 24 Parganas,177020,AITC,Gobinda Chandra Naskar,90522,RSP,Subhas Naskar,73915,16607,9.38
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,129,Kultali,GEN,South 24 Parganas,196307,CPI(M),Ram Sankar Halder,73932,AITC,Gopal Majhi,62212,11720,5.97
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,130,Patharpratima,GEN,South 24 Parganas,210234,AITC,Samir Kumar Jana,107595,INC,Phanibhushan Giri,93802,13793,6.56
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,131,Kakdwip,GEN,South 24 Parganas,193923,AITC,Manturam Pakhira,104750,INC,Rafik Uddin Molla,79831,24919,12.85
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,132,Sagar,GEN,South 24 Parganas,216334,AITC,Bankim Chandra Hazra,112812,CPI(M),Asim Kumar Mandal,94741,18071,8.35
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,133,Kulpi,GEN,South 24 Parganas,167955,AITC,Jogaranjan Halder,84036,CPI(M),Rejaul Haque Khan,72581,11455,6.82
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,134,Raidighi,GEN,South 24 Parganas,215930,AITC,Debasree Roy,101161,CPI(M),Kanti Ganguly,99932,1229,0.57
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,135,Mandirbazar,GEN,South 24 Parganas,177481,AITC,Halder Joydeb,94339,CPI(M),Dr. Sarat Chandra Haldar,69400,24939,14.05
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,136,Jaynagar,GEN,South 24 Parganas,176721,AITC,Biswanath Das,64582,INC,Sujit Patwari,49531,15051,8.52
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,137,Baruipur Purba,GEN,South 24 Parganas,189940,AITC,Nirmal Chandra Mondal,92313,CPI(M),Sujoy Mistry,71951,20362,10.72
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,138,Canning Paschim,GEN,South 24 Parganas,188056,AITC,Shyamal Mondal,93498,INC,Arnab Roy,74772,18726,9.96
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,139,Canning Purba,GEN,South 24 Parganas,190335,AITC,Saokat Molla,115264,CPI(M),Ajijer Rahaman Molla,60230,55034,28.91
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,140,Baruipur Paschim,GEN,South 24 Parganas,180387,AITC,Biman Banerjee,99945,CPI(M),Safiuddin Khan,63413,36532,20.25
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,141,Magrahat Purba,GEN,South 24 Parganas,182253,AITC,Namita Saha,89486,CPI(M),Chandan Saha,79926,9560,5.25
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,142,Magrahat Paschim,GEN,South 24 Parganas,170650,AITC,Gias Uddin Molla,87482,INC,Khalid Ebadullah,71593,15889,9.31
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,143,Diamond Harbour,GEN,South 24 Parganas,197237,AITC,Dipak Kumar Halder,96833,CPI(M),Dr. Abul Hasnat,81796,15037,7.62
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,144,Falta,GEN,South 24 Parganas,186370,AITC,Tamonash Ghosh,94381,CPI(M),Bidhan Parui,70801,23580,12.65
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,145,Satgachia,GEN,South 24 Parganas,205895,AITC,Sonali Guha (Bose),100171,CPI(M),Paramita Ghosh,82899,17272,8.39
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,146,Bishnupur,GEN,South 24 Parganas,202191,AITC,Dilip Mondal,107129,CPI(M),Aloke Sardar,76499,30630,15.15
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,147,Sonarpur Dakshin,GEN,South 24 Parganas,200861,AITC,Jiban Mukhopadhyay,97455,CPI,Tarit Chakraborty,82426,15029,7.48
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,148,Bhangore,GEN,South 24 Parganas,203504,AITC,Abdur Razzak Molla,102087,CPI(M),Abdur Rasid Gazi,83963,18124,8.91
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,149,Kasba,GEN,South 24 Parganas,193373,AITC,Ahmed Javed Khan,91679,CPI(M),Shatarup Ghosh,79795,11884,6.15
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,150,Jadavpur,GEN,South 24 Parganas,199924,CPI(M),Sujan Chakraborty,98977,AITC,Manish Gupta,84035,14942,7.47
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,151,Sonarpur Uttar,GEN,South 24 Parganas,199663,AITC,Firdousi Begum,101939,CPI(M),Jyotirmoyee Sikdar,77059,24880,12.46
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,152,Tollygunge,GEN,South 24 Parganas,190174,AITC,Aroop Biswas,90603,CPI(M),Madhuja Sen Roy,80707,9896,5.2
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,153,Behala Purba,GEN,South 24 Parganas,200203,AITC,Sovan Chatterjee,96621,IND,Professor Ambikesh Mahapatra,72327,24294,12.13
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,154,Behala Paschim,GEN,South 24 Parganas,217942,AITC,Partha Chatterjee,102114,CPI(M),Kaustav Chatterjee,93218,8896,4.08
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,155,Maheshtala,GEN,South 24 Parganas,192683,AITC,Kasturi Das,93675,CPI(M),Samik Lahiri,81223,12452,6.46
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,156,Budge Budge,GEN,South 24 Parganas,187635,AITC,Ashok Kumar Deb,84058,INC,Sk. Mujibar Rahaman,76899,7159,3.82
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,157,Metiaburuz,GEN,South 24 Parganas,157533,AITC,Abdul Khaleque Molla,79749,CPI(M),Monirul Islam,61773,17976,11.41
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,158,Kolkata Port,GEN,Kolkata,135886,AITC,Firhad Hakim,73459,INC,Rakesh Singh,46911,26548,19.54
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,159,Bhabanipur,GEN,Kolkata,134994,AITC,Mamata Banerjee,65520,INC,Deepa Dasmunshi,40219,25301,18.74
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,160,Rashbehari,GEN,Kolkata,133985,AITC,Sobhandeb Chattopadhyay,60857,INC,Ashutosh Chatterjee,46304,14553,10.86
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,161,Ballygunge,GEN,Kolkata,150508,AITC,Subrata Mukherjee,70083,INC,Krishna Debnath,54858,15225,10.12
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,162,Chowrangee,GEN,Kolkata,114374,AITC,Nayna Bandyopadhyay,55119,INC,Somendranath Mitra,41903,13216,11.56
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,163,Entally,GEN,Kolkata,143615,AITC,Swarna Kamal Saha,75841,CPI(M),Debesh Das,47853,27988,19.49
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,164,Beleghata,GEN,Kolkata,157460,AITC,Paresh Paul,84843,CPI(M),Rajib Biswas,58664,26179,16.63
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,165,Jorasanko,GEN,Kolkata,102256,AITC,Smita Bakshi,44766,BJP,Rahul(Biswajit)Sinha,38476,6290,6.15
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,166,Shyampukur,GEN,Kolkata,114116,AITC,Shashi Panja,53507,AIFB,Piyali Pal,40352,13155,11.53
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,167,Maniktala,GEN,Kolkata,141446,AITC,Sadhan Pande,73157,CPI(M),Rajib Majumder,47846,25311,17.89
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,168,Kashipur-Belgachia,GEN,Kolkata,140745,AITC,Mala Saha,72264,CPI(M),Kaninika Bose (Ghosh),46454,25810,18.34
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,169,Bally,GEN,Haora,110594,AITC,Baishali Dalmiya,52702,CPI(M),Saumendranath Bera,37299,15403,13.93
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,170,Howrah Uttar,GEN,Haora,133576,AITC,Laxmi Ratan Shukla,61917,INC,Santosh Kumar Pathak,34958,26959,20.18
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,171,Howrah Madhya,GEN,Haora,171741,AITC,Arup Roy (Apu),91800,JDU,Amitabha Dutta,38806,52994,30.86
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,172,Shibpur,GEN,Haora,166707,AITC,Jatu Lahiri,88076,AIFB,Jagannath Bhattacharyya,61062,27014,16.2
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,173,Howrah Dakshin,GEN,Haora,192222,AITC,Brajamohan Majumder,93689,CPI(M),Arindam Basu (Babu),77495,16194,8.42
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,174,Sankrail,GEN,Haora,190679,AITC,Sital Kumar Sardar,86212,CPI(M),Samir Malick,71455,14757,7.74
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,175,Panchla,GEN,Haora,189016,AITC,Gulsan Mullick,101126,AIFB,Doli Roy,69199,31927,16.89
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,176,Uluberia Purba,GEN,Haora,168742,AITC,Haider Aziz Safwi,72192,CPI(M),Sabiruddin Molla,55923,16269,9.64
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,177,Uluberia Uttar,GEN,Haora,163056,AITC,Dr. Nirmal Maji,79390,INC,Amiya Kumar Mondal,65208,14182,8.7
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,178,Uluberia Dakshin,GEN,Haora,175031,AITC,Pulak Roy,95902,AIFB,Md.Nasiruddin,60558,35344,20.19
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,179,Shyampur,GEN,Haora,202107,AITC,Kalipada Mandal,108619,INC,Amitabha Chakraborty,82033,26586,13.15
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,180,Bagnan,GEN,Haora,178616,AITC,Arunava Sen(Raja),97834,CPI(M),Mina Mukherjee Ghosh,67637,30197,16.91
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,181,Amta,GEN,Haora,187681,INC,Asit Mitra,89149,AITC,Tushar Kanti Sil,84645,4504,2.4
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,182,Udaynarayanpur,GEN,Haora,179960,AITC,Samir Kumar Panja,94828,INC,Karar Saroj Ranjan,71070,23758,13.2
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,183,Jagatballavpur,GEN,Haora,209867,AITC,Md. Abdul Ghani,103348,CPI(M),Baidyanath Basu,78667,24681,11.76
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,184,Domjur,GEN,Haora,216847,AITC,Rajib Banerjee,148768,IND,Protima Dutta W/O - Late Tapan Kumar Dutta,41067,107701,49.67
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,185,Uttarpara,GEN,Hugli,184711,AITC,Prabir Kumar Ghosal,84918,CPI(M),Prof. Dr.Srutinath Praharaj,72918,12000,6.5
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,186,Sreerampur,GEN,Hugli,168331,AITC,Dr. Sudipta Roy,74995,INC,Subhankar Sarkar,65088,9907,5.89
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,187,Champdani,GEN,Hugli,180660,INC,Abdul Mannan,81330,AITC,Muzaffar Khan,74048,7282,4.03
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,188,Singur,GEN,Hugli,192346,AITC,Rabindranath Bhattacharya,96212,CPI(M),Rabin Deb,75885,20327,10.57
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,189,Chandannagore,GEN,Hugli,165052,AITC,Indranil Sen,75727,CPI(M),Goutam Sarkar,73613,2114,1.28
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,190,Chunchura,GEN,Hugli,235935,AITC,Asit Mazumder (Tapan),118501,AIFB,Dr. Pranab Kumar Ghosh,88817,29684,12.58
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,191,Balagarh,GEN,Hugli,199808,AITC,Ashim Kumar Majhi,96472,CPI(M),Panchu Gopal Mondal,78635,17837,8.93
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,192,Pandua,GEN,Hugli,206702,CPI(M),Sk. Amjad Hossain,91489,AITC,Saiyad Rahim Nabi,90097,1392,0.67
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,193,Saptagram,GEN,Hugli,177388,AITC,Tapan Dasgupta,88208,INC,Dilip Nath,69641,18567,10.47
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,194,Chanditala,GEN,Hugli,186995,AITC,Swati Khandoker,91874,CPI(M),Azim Ali Md. Sk,77698,14176,7.58
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,195,Jangipara,GEN,Hugli,192689,AITC,Snehasis Chakraborty,99324,CPI(M),Pobitra Singha Roy,75719,23605,12.25
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,196,Haripal,GEN,Hugli,204872,AITC,Becharam Manna,110899,CPI(M),Jogiyananda Mishra,79424,31475,15.36
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,197,Dhanekhali,GEN,Hugli,214041,AITC,Asima Patra,125298,AIFB,Pradip Majumdar,66654,58644,27.4
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,198,Tarakeswar,GEN,Hugli,188293,AITC,Rachhpal Singh,97588,NCP,Surajit Ghosh,69898,27690,14.71
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,199,Pursurah,GEN,Hugli,202368,AITC,Dr. M. Nuruzzaman,105275,INC,Pratim Singha Roy,76148,29127,14.39
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,200,Arambagh,GEN,Hugli,195962,AITC,Krishna Chandra Santra,107579,CPI(M),Asit Malik,71122,36457,18.6
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,201,Goghat,GEN,Hugli,194039,AITC,Manas Majumdar,102958,AIFB,Biswanath Karak,72072,30886,15.92
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,202,Khanakul,GEN,Hugli,194142,AITC,Iqbal Ahmed,106878,CPI(M),Islam Ali Khan,63391,43487,22.4
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,203,Tamluk,GEN,Purba Medinapur,211016,CPI,Ashok Kumar Dinda,95432,AITC,Nirbed Ray,94912,520,0.25
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,204,Panskura Purba,GEN,Purba Medinapur,180695,CPI(M),Sk Ibrahim Ali,85334,AITC,Biplab Roy Chowdhury,80567,4767,2.64
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,205,Panskura Paschim,GEN,Purba Medinapur,207041,AITC,Phiroja Bibi,92427,CPI,Chittaranjan Dasthakur,89282,3145,1.52
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,206,Moyna,GEN,Purba Medinapur,199773,AITC,Sangram Kumar Dolai,100980,INC,Manik Bhowmik,88856,12124,6.07
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,207,Nandakumar,GEN,Purba Medinapur,202757,AITC,Sukumar De,98549,IND,Siraj Khan,87683,10866,5.36
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,208,Mahisadal,GEN,Purba Medinapur,195121,AITC,Dr.Sudarsan Ghosh Dastidar,94827,IND,Dr. Subrata Maiti,78118,16709,8.56
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,209,Haldia,GEN,Purba Medinapur,199598,CPI(M),Tapasi Mondal,101330,AITC,Madhurima Mandal,79837,21493,10.77
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,210,Nandigram,GEN,Purba Medinapur,200274,AITC,Adhikari Suvendu,134623,CPI,Abdul Kabir Sekh,53393,81230,40.56
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,211,Chandipur,GEN,Purba Medinapur,196387,AITC,Amiyakanti Bhattacharjee,95982,CPI(M),Mangal Chand Pradhan,86328,9654,4.92
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,212,Patashpur,GEN,Purba Medinapur,188888,AITC,Jyotirmoy Kar,103567,CPI,Makhanlal Nayak,73679,29888,15.82
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,213,Kanthi Uttar,GEN,Purba Medinapur,205429,AITC,Banasri Maity,103783,CPI(M),Chakradhar Maikap,85207,18576,9.04
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,214,Bhagabanpur,GEN,Purba Medinapur,204078,AITC,Ardhendu Maity,111201,INC,Hemangshu Shekhar Mahapatra,79258,31943,15.65
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,215,Khejuri,GEN,Purba Medinapur,188341,AITC,Ranajit Mondal,103699,IND,Asim Kumar Mandal,61214,42485,22.56
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,216,Kanthi Dakshin,GEN,Purba Medinapur,171492,AITC,Adhikari Dibyendu,93359,CPI,Uttam Pradhan,59469,33890,19.76
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,217,Ramnagar,GEN,Purba Medinapur,200399,AITC,Akhil Giri,107081,CPI(M),Tapas Sinha,78828,28253,14.1
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,218,Egra,GEN,Purba Medinapur,217883,AITC,Das Samares,113334,DSP,Shaikh Mahmud Hossain,87378,25956,11.91
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,219,Dantan,GEN,Paschim Medinapur,177176,AITC,Bikram Chandra Pradhan,95641,CPI,Sisir Kumar Patra,66381,29260,16.51
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,220,Nayagram,GEN,Paschim Medinapur,171555,AITC,Dulal Murmu,98395,BJP,Bakul Murmu,55140,43255,25.21
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,221,Gopiballavpur,GEN,Paschim Medinapur,177114,AITC,Churamani Mahata,100323,CPI(M),Pulin Bihari Baske,50765,49558,27.98
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,222,Jhargram,GEN,Paschim Medinapur,175959,AITC,Sukumar Hansda,99233,JPN,Chunibala Hansda,44005,55228,31.39
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,223,Keshiary,GEN,Paschim Medinapur,191219,AITC,Paresh Murmu,104890,CPI(M),Biram Mandi,64141,40749,21.31
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,224,Kharagpur Sadar,GEN,Paschim Medinapur,153994,BJP,Dilip Kumar Ghosh,61446,INC,Gyan Singh Sohanpal,55137,6309,4.1
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,225,Narayangarh,GEN,Paschim Medinapur,199279,AITC,Prodyut Kumar Ghosh,99311,CPI(M),Surjyakanta Mishra,85722,13589,6.82
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,226,Sabang,GEN,Paschim Medinapur,212903,INC,Manas Ranjan Bhunia,126987,AITC,Nirmal Ghosh,77820,49167,23.09
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,227,Pingla,GEN,Paschim Medinapur,205141,AITC,Saumen Kumar Mahapatra,104416,DSP,Prabodh Chandra Sinha,80198,24218,11.81
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,228,Kharagpur,GEN,Paschim Medinapur,174336,AITC,Dinen Roy,85630,CPI(M),Sk Sajahan Ali,66531,19099,10.96
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,229,Debra,GEN,Paschim Medinapur,186733,AITC,Selima Khatun (Bibi),90773,CPI(M),Jahangir Karim Sk,78865,11908,6.38
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,230,Daspur,GEN,Paschim Medinapur,212992,AITC,Mamata Bhunia,113603,CPI(M),Swapan Santra,84864,28739,13.49
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,231,Ghatal,GEN,Paschim Medinapur,214081,AITC,Shankar Dolai,107682,CPI(M),Kamal Chandra Dolui,88203,19479,9.1
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,232,Chandrakona,GEN,Paschim Medinapur,222405,AITC,Chhaya Dolai,117172,CPI(M),Santinath Bodhuk,78791,38381,17.26
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,233,Garbeta,GEN,Paschim Medinapur,184368,AITC,Ashis Chakraborty (Nanti),110501,CPI(M),Sorforaj Khan,49344,61157,33.17
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,234,Salboni,GEN,Paschim Medinapur,220931,AITC,Srikanta Mahata,120485,CPI(M),Shyam Sundar Pandey,67583,52902,23.95
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,235,Keshpur,GEN,Paschim Medinapur,201080,AITC,Seuli Saha,146579,CPI(M),Rameswar Doloi,45428,101151,50.3
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,236,Medinipur,GEN,Paschim Medinapur,209023,AITC,Mrigendra Nath Maiti,106774,CPI,Santosh Rana,73787,32987,15.78
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,237,Binpur,GEN,Paschim Medinapur,168797,AITC,Khagendranath Hembram,95804,CPI(M),Dibakar Hansda,46481,49323,29.22
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,238,Bandwan,GEN,Puruliya,214130,AITC,Rajib Lochan Saren,104323,CPI(M),Besra Susanta,84016,20307,9.48
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,239,Balarampur,GEN,Puruliya,171716,AITC,Shantiram Mahato,82086,INC,Jagadish Mahato,71882,10204,5.94
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,240,Baghmundi,GEN,Puruliya,186074,INC,Nepal Mahata,88707,AITC,Samir Mahato,80120,8587,4.61
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,241,Joypur,GEN,Puruliya,176514,AITC,Shaktipada Mahato,85026,AIFB,Dhirendra Nath Mahato,76263,8763,4.96
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,242,Purulia,GEN,Puruliya,179554,INC,Sudip Kumar Mukherjee,81365,AITC,Dibyajyoti Prasad Singh Deo,76454,4911,2.74
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,243,Manbazar,GEN,Puruliya,189654,AITC,Sandhya Rani Tudu,93642,CPI(M),Ipil Murmu,83967,9675,5.1
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,244,Kashipur,GEN,Puruliya,176868,AITC,Swapan Kumar Beltharia,87483,CPI(M),Sudin Kisku,67905,19578,11.07
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,245,Para,GEN,Puruliya,173527,AITC,Umapada Bauri,84337,CPI(M),Dinanath Bauri,70459,13878,8.0
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,246,Raghunathpur,GEN,Puruliya,187732,AITC,Purna Chandra Bauri,83688,CPI(M),Satyanarayan Bauri,67546,16142,8.6
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,247,Saltora,GEN,Bankura,179137,AITC,Swapan Bouri,84979,CPI(M),Sasthi Charan Bouri,72456,12523,6.99
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,248,Chhatna,GEN,Bankura,171360,RSP,Dhirendra Nath Layek,73648,AITC,Subhasis Batabyal,71231,2417,1.41
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,249,Ranibandh,GEN,Bankura,189460,AITC,Jyotsna Mandi,92181,CPI(M),Deblina Hembram,68868,23313,12.3
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,250,Raipur,GEN,Bankura,174107,AITC,Birendra Nath Tudu,89841,CPI(M),Dilip Kumar Hansda,63119,26722,15.35
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,251,Taldangra,GEN,Bankura,180192,AITC,Samir Chakraborty,87236,CPI(M),Amiya Patra,73567,13669,7.59
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,252,Bankura,GEN,Bankura,192050,INC,Daripa Shampa,83486,AITC,Minati Misra,82457,1029,0.54
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,253,Barjora,GEN,Bankura,195849,CPI(M),Sujit Chakraborty,86873,AITC,Soham Chakraborty,86257,616,0.31
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,254,Onda,GEN,Bankura,193529,AITC,Arup Kumar Khan,80603,AIFB,Manik Mukherjee,69755,10848,5.61
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,255,Bishnupur,GEN,Bankura,169969,INC,Tushar Kanti Bhattacharya,76641,AITC,Shyamaprasad Mukherjee,75750,891,0.52
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,256,Kotulpur,GEN,Bankura,198242,AITC,Shyamal Santra,98901,INC,Akshay Santra,77653,21248,10.72
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,257,Indas,GEN,Bankura,193535,AITC,Gurupada Mete,94940,CPI(M),Dilip Kumar Malik,76103,18837,9.73
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,258,Sonamukhi,GEN,Bankura,182224,CPI(M),Ajit Ray,86125,AITC,Dipali Saha,77406,8719,4.78
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,259,Khandaghosh,GEN,Barddhaman,193853,AITC,Nabin Chandra Bag,90151,CPI(M),Asima Roy,86949,3202,1.65
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,260,Bardhaman Dakshin,GEN,Barddhaman,190702,AITC,Rabiranjan Chattopadhyay,91882,CPI(M),Ainul Haque,62444,29438,15.44
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,261,Raina,GEN,Barddhaman,202787,AITC,Nepal Ghorui,94323,CPI(M),Khan Basudeb,93875,448,0.22
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,262,Jamalpur,GEN,Barddhaman,189370,CPI(M),Samar Hazra,85491,AITC,Ujjal Pramanick,84068,1423,0.75
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,263,Monteswar,GEN,Barddhaman,188285,AITC,Sajal Panja,84134,CPI(M),Chaudhuri Md. Hedayatullah,83428,706,0.37
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,264,Kalna,GEN,Barddhaman,190764,AITC,Kundu Biswajit,97430,CPI(M),Sukul Chandra Sikdar,72169,25261,13.24
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,265,Memari,GEN,Barddhaman,201387,AITC,Begum Nargis,94406,CPI(M),Debashis Ghosh,85523,8883,4.41
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,266,Bardhaman Uttar,GEN,Barddhaman,213532,AITC,Nisith Kumar Malik,102886,CPI(M),Aparna Saha,91381,11505,5.39
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,267,Bhatar,GEN,Barddhaman,195372,AITC,Subhash Mondal,92544,CPI(M),Bamacharan Banerjee,86264,6280,3.21
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,268,Purbasthali Dakshin,GEN,Barddhaman,195627,AITC,Swapan Debnath,104398,INC,Abhijit Bhattacharyya,66732,37666,19.25
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,269,Purbasthali Uttar,GEN,Barddhaman,193386,CPI(M),Pradip Kumar Saha,84549,AITC,Tapan Chatterjee,81721,2828,1.46
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,270,Katwa,GEN,Barddhaman,202110,AITC,Rabindranath Chatterjee,91489,INC,Shyama Majumdar,90578,911,0.45
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,271,Ketugram,GEN,Barddhaman,189185,AITC,Sekh Sahonawez,89441,CPI(M),Abul Kadar Syed,80712,8729,4.61
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,272,Mangalkot,GEN,Barddhaman,193576,AITC,Chowdhury Siddiqullah,89812,CPI(M),Choudhury Sahajahan,77938,11874,6.13
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,273,Ausgram,GEN,Barddhaman,193082,AITC,Abhedananda Thander,90450,CPI(M),Basudev Mete,84198,6252,3.24
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,274,Galsi,GEN,Barddhaman,201070,AITC,Alok Kumar Majhi,95203,AIFB,Nandalal Pondit,84432,10771,5.36
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,275,Pandabeswar,GEN,Barddhaman,149672,AITC,Kumar Jitendra Tewari,68600,CPI(M),Gouranga Chatterjee,63130,5470,3.65
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,276,Durgapur Purba,GEN,Barddhaman,186739,CPI(M),Santosh Debray,84200,AITC,Pradip Mazumdar,75069,9131,4.89
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,277,Durgapur Paschim,GEN,Barddhaman,195496,INC,Bishwanath Parial,108533,AITC,Apurba Mukherjee,63709,44824,22.93
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,278,Raniganj,GEN,Barddhaman,174499,CPI(M),Runu Dutta,74995,AITC,Bano Nargis,62610,12385,7.1
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,279,Jamuria,GEN,Barddhaman,152275,CPI(M),Jahanara Khan,67214,AITC,V. Sivadasan (Dasu),59457,7757,5.09
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,280,Asansol Dakshin,GEN,Barddhaman,181643,AITC,Tapas Banerjee,71515,CPI(M),Hemant Prabhakar,57232,14283,7.86
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,281,Asansol Uttar,GEN,Barddhaman,180871,AITC,Moloy Ghatak,84715,BJP,Nirmal Karmakar,60818,23897,13.21
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,282,Kulti,GEN,Barddhaman,166115,AITC,Ujjal Chatterjee,68952,BJP,Ajay Kumar Poddar,49464,19488,11.73
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,283,Barbani,GEN,Barddhaman,161615,AITC,Bidhan Upadhyay,77464,CPI(M),Shipra Mukherjee,53415,24049,14.88
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,284,Dubrajpur,GEN,Birbhum,178700,AITC,Chandra Naresh Bauri,94309,AIFB,Bijoy Bagdi,54415,39894,22.32
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,285,Suri,GEN,Birbhum,193052,AITC,Asok Kumar Chattopadhyay,94036,CPI(M),Dr. Ram Chandra Dome,62228,31808,16.48
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,286,Bolpur,GEN,Birbhum,201949,AITC,Chandranath Sinha,113258,RSP,Tapan Hore,63231,50027,24.77
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,287,Nanoor,GEN,Birbhum,204122,CPI(M),Shyamali Pradhan,104374,AITC,Gadadhar Hazra,78644,25730,12.61
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,288,Labpur,GEN,Birbhum,189476,AITC,Islam Monirul,101138,CPI(M),Syed Mahfuzul Karim (Mahfuz),70825,30313,16.0
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,289,Sainthia,GEN,Birbhum,195564,AITC,Nilabati Saha,103376,CPI(M),Dhiren Bagdi,64765,38611,19.74
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,290,Mayureswar,GEN,Birbhum,180637,AITC,Abhijit Roy,89210,CPI(M),Arup Bag,50440,38770,21.46
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,291,Rampurhat,GEN,Birbhum,191545,AITC,Asish Banerjee,85435,INC,Syed Siraj Jimmi,64236,21199,11.07
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,292,Hansan,GEN,Birbhum,183073,INC,Miltan Rasid,92619,AITC,Asit Kumar Mal,76465,16154,8.82
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,293,Nalhati,GEN,Birbhum,182459,AITC,Moinuddin Shams,83412,AIFB,Dipak Chatterjee,73084,10328,5.66
+ae-west-bengal-2016,AE,West Bengal,2016,2016,official,294,Murarai,GEN,Birbhum,197546,AITC,Abdur Rahaman (Liton),94661,INC,Ali Mortuza Khan,94381,280,0.14

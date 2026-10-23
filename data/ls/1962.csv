@@ -1,0 +1,495 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ls-1962,LS,India,1962,1962,official,1,Adilabad,GEN,Andhra Pradesh,210032,INC,G. Narayan Reddy,129068,IND,V.G. Dora Sami,39983,89085,42.41
+ls-1962,LS,India,1962,1962,official,2,Adoni,GEN,Andhra Pradesh,240004,INC,Pendekanti Venkatasubbaiah,136513,SWA,Nayakanti Sankara Reddy,103491,33022,13.76
+ls-1962,LS,India,1962,1962,official,3,Amalapuram,GEN,Andhra Pradesh,325773,INC,Bayya Suryanarayana Murthy,151439,CPI,Keneti Mohana Rao,138869,12570,3.86
+ls-1962,LS,India,1962,1962,official,4,Anakapalli,GEN,Andhra Pradesh,255307,INC,Missula Suryanarayanamurthy,96895,SWA,Villuri Venkataramana,80885,16010,6.27
+ls-1962,LS,India,1962,1962,official,5,Anantapur,GEN,Andhra Pradesh,290409,INC,Osman Ali Khan,120826,CPI,I. Sadasivan,95958,24868,8.56
+ls-1962,LS,India,1962,1962,official,6,Cheepurupalli,GEN,Andhra Pradesh,260106,INC,Ravu Venkata Gopalakrishna Ranga Rao,135315,SWA,Kerri Narayanarao,110351,24964,9.6
+ls-1962,LS,India,1962,1962,official,7,Chittoor,GEN,Andhra Pradesh,287214,INC,Madabhusi Ananthasayanam Ayyangar,130026,SWA,C.V.L. Narayan,106062,23964,8.34
+ls-1962,LS,India,1962,1962,official,8,Cuddapah,GEN,Andhra Pradesh,360955,CPI,Yeddula Eswara Reddy,158877,INC,Vuntukuru Rami Reddy,138010,20867,5.78
+ls-1962,LS,India,1962,1962,official,9,Eluru,GEN,Andhra Pradesh,335961,CPI,Viramachaneni Vimaladevi,159379,INC,Kumari Mothey Vedakumari,157910,1469,0.44
+ls-1962,LS,India,1962,1962,official,10,Gadwal,GEN,Andhra Pradesh,259503,INC,Janumpally Rameshwar Rao,116150,IND,D.K. Satya Reddy,100316,15834,6.1
+ls-1962,LS,India,1962,1962,official,11,Gudivada,GEN,Andhra Pradesh,380787,INC,Manganti Ankineedu,186452,CPI,Yarlagadda Venkatakrishnarao,169718,16734,4.39
+ls-1962,LS,India,1962,1962,official,12,Guntur,GEN,Andhra Pradesh,355564,INC,Kotha Raghu Ramaiah,204533,IND,Sastla Venkata Lakshminarasimham,104591,99942,28.11
+ls-1962,LS,India,1962,1962,official,13,Hindupur,GEN,Andhra Pradesh,250973,INC,K.V. Ramakrishna Reddy,89521,IND,Erukalappa,60479,29042,11.57
+ls-1962,LS,India,1962,1962,official,14,Hyderabad,GEN,Andhra Pradesh,171631,INC,Gopal S. Melkote,96447,IND,Abdul Wahed Owasi,53378,43069,25.09
+ls-1962,LS,India,1962,1962,official,15,Kakinada,GEN,Andhra Pradesh,316290,INC,Mosalikanti Thirumala Rao,143575,CPI,Chelikani Venkata Rama Rao,124891,18684,5.91
+ls-1962,LS,India,1962,1962,official,16,Karimnagar,GEN,Andhra Pradesh,237421,INC,Juvvadi Ramapathi Rao,120472,IND,Gurram Madhava Reddy,53069,67403,28.39
+ls-1962,LS,India,1962,1962,official,17,Kavali,GEN,Andhra Pradesh,321496,INC,Bezwada Gopala Reddy,167031,SWA,Bezwada Ramachandra Reddy,139068,27963,8.7
+ls-1962,LS,India,1962,1962,official,18,Khammam,GEN,Andhra Pradesh,329081,INC,T. Lakshikantamma,163806,CPI,T.B. Vittal Rao,151746,12060,3.66
+ls-1962,LS,India,1962,1962,official,19,Kurnool,GEN,Andhra Pradesh,286002,INC,Yasoda Reddy,121999,IND,Mukkamala Venkatasubba Reddy,85085,36914,12.91
+ls-1962,LS,India,1962,1962,official,20,Mahabubabad,GEN,Andhra Pradesh,277969,INC,Etikala Madhusudhan Rao,126100,CPI,Teegala Satyanarayana Rao,112524,13576,4.88
+ls-1962,LS,India,1962,1962,official,21,Mahabubnagar,GEN,Andhra Pradesh,191012,INC,J.B. Mutyal Rao,117573,IND,K.R. Veeraswamy,51253,66320,34.72
+ls-1962,LS,India,1962,1962,official,22,Markapur,GEN,Andhra Pradesh,299620,CPI,Gujjula Yellamanda Reddy,146909,INC,Chegireddy Balireddy,120082,26827,8.95
+ls-1962,LS,India,1962,1962,official,23,Masulipatnam,GEN,Andhra Pradesh,348302,IND,Mandali Venkataswamy,153720,INC,Mandali Venkata Krishnarao,149508,4212,1.21
+ls-1962,LS,India,1962,1962,official,24,Medak,GEN,Andhra Pradesh,194870,INC,P. Hanumantha Rao,88098,IND,Molgu Jagannathreddy,68966,19132,9.82
+ls-1962,LS,India,1962,1962,official,25,Miryalguda,GEN,Andhra Pradesh,278793,CPI,Laxmi Dass,140884,INC,Vaddapalli Kasiram,114319,26565,9.53
+ls-1962,LS,India,1962,1962,official,26,Nalgonda,GEN,Andhra Pradesh,284894,CPI,Ravi Narayana Reddy,159145,INC,Kanchinepalli Pedda Venkatarama Rao,125749,33396,11.72
+ls-1962,LS,India,1962,1962,official,27,Narasapur,GEN,Andhra Pradesh,363473,INC,Datla Balaramaraju,181878,CPI,Uddaraju Ramam,167209,14669,4.04
+ls-1962,LS,India,1962,1962,official,28,Narsipatnam,GEN,Andhra Pradesh,192986,INC,Matcharasa Matcharaju,73518,SWA,Karam Bapanna Dora,72171,1347,0.7
+ls-1962,LS,India,1962,1962,official,29,Nellore,GEN,Andhra Pradesh,336089,INC,B. Anjanappa,165206,SWA,Meriga Ramakrishnaiah,93301,71905,21.39
+ls-1962,LS,India,1962,1962,official,30,Nizamabad,GEN,Andhra Pradesh,234011,INC,H.C. Heda,106570,IND,M. Narayana Reddy,79550,27020,11.55
+ls-1962,LS,India,1962,1962,official,31,Ongole,GEN,Andhra Pradesh,320319,CPI,Madala Narayanaswamy,127120,INC,T.S. Paulus,124777,2343,0.73
+ls-1962,LS,India,1962,1962,official,32,Parvathipuram,GEN,Andhra Pradesh,223878,INC,Biddika Satyanarayana,131625,SWA,Viswasarayai Narsimha Rao,92253,39372,17.59
+ls-1962,LS,India,1962,1962,official,33,Peddapalli,GEN,Andhra Pradesh,215101,INC,M.R. Krishna,149561,CPI,Palanivelu,65540,84021,39.06
+ls-1962,LS,India,1962,1962,official,34,Rajahmundry,GEN,Andhra Pradesh,318487,INC,Datla Satyanarayana Raju,175602,IND,Nalla Reddi Naidu,52228,123374,38.74
+ls-1962,LS,India,1962,1962,official,35,Rajampet,GEN,Andhra Pradesh,292769,SWA,C.L. Narasimha Reddy,155017,INC,T.N. Viswanatha Reddy,137752,17265,5.9
+ls-1962,LS,India,1962,1962,official,36,Secunderabad,GEN,Andhra Pradesh,191970,INC,Ahmed Mohiuddin,92459,IND,V. Ramachandra Rao,67889,24570,12.8
+ls-1962,LS,India,1962,1962,official,37,Srikakulam,GEN,Andhra Pradesh,263343,INC,Boddipalli Rajagopala Row,112172,SWA,Suggu Srinivasa Reddy,80357,31815,12.08
+ls-1962,LS,India,1962,1962,official,38,Tenali,GEN,Andhra Pradesh,355537,CPI,Kolla Venkaiah,143396,INC,Nadimpalli Venkatalakshmi Narasimha Rao,119469,23927,6.73
+ls-1962,LS,India,1962,1962,official,39,Tirupati,GEN,Andhra Pradesh,222030,INC,C. Dass,119539,SWA,C.V. Siddaiah Murthy,102491,17048,7.68
+ls-1962,LS,India,1962,1962,official,40,Vicarabad,GEN,Andhra Pradesh,208107,INC,Sangam Lakshimi Bai,123193,SWA,Ramuloo,44093,79100,38.01
+ls-1962,LS,India,1962,1962,official,41,Vijayawada,GEN,Andhra Pradesh,348802,INC,K.L.Rao,177794,CPI,Nanduri Durga Mallikharjuna Prasada Rao,154811,22983,6.59
+ls-1962,LS,India,1962,1962,official,42,Visakhapatnam,GEN,Andhra Pradesh,227704,INC,Vijaya Ananada,159423,SWA,Maddi Pattabhirama Reddy,68281,91142,40.03
+ls-1962,LS,India,1962,1962,official,43,Warangal,GEN,Andhra Pradesh,243446,INC,Bakar Ali Mirza,113308,CPI,S. Ramanatham,112572,736,0.3
+ls-1962,LS,India,1962,1962,official,44,Autonomous District,GEN,Assam,148551,HLC,Gilbert G. Swell,91850,INC,Jetlie E. Tariang,56701,35149,23.66
+ls-1962,LS,India,1962,1962,official,45,Barpeta,GEN,Assam,221598,INC,Renuka Devi Barkataki,86691,PSP,Biswa Goswami,64100,22591,10.19
+ls-1962,LS,India,1962,1962,official,46,Cachar,GEN,Assam,196100,INC,Jyotsna Chanda,72086,IND,Sena,55646,16440,8.38
+ls-1962,LS,India,1962,1962,official,47,Darrang,GEN,Assam,202548,INC,Bijoy Chandra Bhagabati,137990,PSP,Prasanta Barua,42194,95796,47.3
+ls-1962,LS,India,1962,1962,official,48,Dhubri,GEN,Assam,209435,INC,Mau Ghysuddin Ahammad,89407,IND,Williamson Sangma,61891,27516,13.14
+ls-1962,LS,India,1962,1962,official,49,Dibrugarh,GEN,Assam,172985,INC,Jogendra Nath Hazarika,98687,SOC,Ajit Kumar Sarma,41857,56830,32.85
+ls-1962,LS,India,1962,1962,official,50,Gauhati,GEN,Assam,268162,PSP,Hem Borua,133812,INC,Tirtha Nath Sarmah,101750,32062,11.96
+ls-1962,LS,India,1962,1962,official,51,Goalpara,GEN,Assam,218280,INC,Dharani Dhor Basumotari,94209,CPI,Bishnu Prasad Rabha,63775,30434,13.94
+ls-1962,LS,India,1962,1962,official,52,Jorhat,GEN,Assam,185615,PSP,Rajendra Nath Baruah,78091,INC,Mofida Ahmed,77184,907,0.49
+ls-1962,LS,India,1962,1962,official,53,Karimganj,GEN,Assam,224582,INC,Nihar Ranjan Laskar,112584,IND,Mukteswar Choudhury,62059,50525,22.5
+ls-1962,LS,India,1962,1962,official,54,Nowgong,GEN,Assam,239138,INC,Liladhar Kotoki,97942,IND,Sukdev Goswami,72967,24975,10.44
+ls-1962,LS,India,1962,1962,official,55,Sibsagar,GEN,Assam,208317,INC,Prafulla Chandra Baruah,101746,CPI,Bhadrakrishna Goswami,47282,54464,26.14
+ls-1962,LS,India,1962,1962,official,56,Aurangabad,GEN,Bihar,164706,SWA,Lalita Rajya Laxmi,64552,INC,Ramesh Prasad Singh,54791,9761,5.93
+ls-1962,LS,India,1962,1962,official,57,Bagaha,GEN,Bihar,182194,INC,Kamal Nath Tewari,99684,SWA,Shattrumardan Shahi,82510,17174,9.43
+ls-1962,LS,India,1962,1962,official,58,Banka,GEN,Bihar,158567,INC,Shakuntala Devi,87359,SWA,Kazi S.A. Matin,49965,37394,23.58
+ls-1962,LS,India,1962,1962,official,59,Barh,GEN,Bihar,185787,INC,Tarkeshwari Sinha,103802,SWA,Nand Kishore Prasad Singh,65581,38221,20.57
+ls-1962,LS,India,1962,1962,official,60,Begusarai,GEN,Bihar,208012,INC,Mathura Prasad Mishra,105883,CPI,Akhtar Hasmi,51163,54720,26.31
+ls-1962,LS,India,1962,1962,official,61,Bettiah,GEN,Bihar,141707,INC,Bhola Raut,79043,SWA,Shio Prasad,37253,41790,29.49
+ls-1962,LS,India,1962,1962,official,62,Bhagalpur,GEN,Bihar,203756,INC,Bhagwat Jha Azad,100657,CPI,Chhabi Nath Singh,39528,61129,30.0
+ls-1962,LS,India,1962,1962,official,63,Bikramganj,GEN,Bihar,227180,INC,Ram Subhag Singh,98649,PSP,Sheopujan Singh,87985,10664,4.69
+ls-1962,LS,India,1962,1962,official,64,Buxar,GEN,Bihar,227391,INC,Anant Prasad Sharma,97962,IND,Kamal Singh,92446,5516,2.43
+ls-1962,LS,India,1962,1962,official,65,Chapra,GEN,Bihar,221420,INC,Ramsekhar Prasad Singh,85952,PSP,Rajendra Singh,64748,21204,9.58
+ls-1962,LS,India,1962,1962,official,66,Chatra,GEN,Bihar,140828,SWA,Vijaya Raje,88066,INC,Tribhuwan Nath,52762,35304,25.07
+ls-1962,LS,India,1962,1962,official,67,Darbhanga,GEN,Bihar,193341,INC,Shree Narayan Das,106979,SWA,Harish Chandra Mishra,46642,60337,31.21
+ls-1962,LS,India,1962,1962,official,68,Dhanbad,GEN,Bihar,198805,INC,P. R. Chakravarti,75170,SWA,Satchidanand Trigunait,50964,24206,12.18
+ls-1962,LS,India,1962,1962,official,69,Dumka,GEN,Bihar,133643,INC,Satya Chandra Besra,50430,JP,Debi Soren,49345,1085,0.81
+ls-1962,LS,India,1962,1962,official,70,Gaya,GEN,Bihar,160806,INC,Brajeshwar Prasad,69933,SWA,K. Brijkishore Pd. Singh,51135,18798,11.69
+ls-1962,LS,India,1962,1962,official,71,Giridih,GEN,Bihar,124309,SWA,Thakur Bateshwar Singh,50469,INC,Chapalendu Bhattacharya,47011,3458,2.78
+ls-1962,LS,India,1962,1962,official,72,Godda,GEN,Bihar,184004,INC,Prabhudayal Himmatsingka,78558,JP,Mohan Singh Oberoi,58973,19585,10.64
+ls-1962,LS,India,1962,1962,official,73,Gopalganj,GEN,Bihar,198590,INC,Dwaika Nath Tiwari,96753,PSP,Siya Bihari Saran,58136,38617,19.45
+ls-1962,LS,India,1962,1962,official,74,Hajipur,GEN,Bihar,250637,INC,Rajeshwar Patel,104351,SOC,Achhaibat Rai,82501,21850,8.72
+ls-1962,LS,India,1962,1962,official,75,Hazaribagh,GEN,Bihar,121273,SWA,Basant Narain Singh,81029,INC,Mohammad Alimuddin Ansari,34418,46611,38.43
+ls-1962,LS,India,1962,1962,official,76,Jahanabad,GEN,Bihar,221449,INC,Satyabhama Devi,73893,CPI,Chandra Shekhar Singh,39064,34829,15.73
+ls-1962,LS,India,1962,1962,official,77,Jainagar,GEN,Bihar,205781,INC,Yamuna Prasad Mandal,101002,CPI,Bhogendra Jha,71810,29192,14.19
+ls-1962,LS,India,1962,1962,official,78,Jamshedpur,GEN,Bihar,174488,CPI,Udaikar Mishra,75000,INC,N. C. Mukherjee,55195,19805,11.35
+ls-1962,LS,India,1962,1962,official,79,Jamui,GEN,Bihar,204865,INC,Nayantara Das,101440,PSP,Rameshwar Prasad Verma,55644,45796,22.35
+ls-1962,LS,India,1962,1962,official,80,Katihar,GEN,Bihar,181609,PSP,Priya Gupta,82531,INC,Bhola Nath Biswas,64994,17537,9.66
+ls-1962,LS,India,1962,1962,official,81,Kesaria,GEN,Bihar,165370,INC,Bhishma Prasad Yadava,88307,SWA,Raghunandan Pd. Narain Sinha,38769,49538,29.96
+ls-1962,LS,India,1962,1962,official,82,Khagaria,GEN,Bihar,220033,INC,Jiyalal Mandal,118385,SWA,Bidaya Nand,57316,61069,27.75
+ls-1962,LS,India,1962,1962,official,83,Kishanganj,GEN,Bihar,180963,INC,Mohammad Tahir,64522,SWA,Bokai Mandal,49967,14555,8.04
+ls-1962,LS,India,1962,1962,official,84,Lohardaga,GEN,Bihar,131722,SWA,David Munzni,58174,INC,Kartick Oraon,41804,16370,12.43
+ls-1962,LS,India,1962,1962,official,85,Madhubani,GEN,Bihar,199301,PSP,Yogendra Jha,67832,INC,Anirudh Sinha,65920,1912,0.96
+ls-1962,LS,India,1962,1962,official,86,Maharajganj,GEN,Bihar,164537,INC,Krishnakanta Singh,73670,PSP,Yamuna Prasad Singh,60143,13527,8.22
+ls-1962,LS,India,1962,1962,official,87,Mahua,GEN,Bihar,213073,INC,Chandramani Lal Choudhary,85825,PSP,Satyadeo,75863,9962,4.68
+ls-1962,LS,India,1962,1962,official,88,Monghyr,GEN,Bihar,193402,INC,Banarsi Prasad Sinha,91861,PSP,Rameshar Yadav,41960,49901,25.8
+ls-1962,LS,India,1962,1962,official,89,Motihari,GEN,Bihar,176141,INC,Bibhuti Mishra,99170,SWA,Abdul Rahman,40178,58992,33.49
+ls-1962,LS,India,1962,1962,official,90,Muzaffarpur,GEN,Bihar,211774,INC,Digvijoy Narain Singh,92393,PSP,Kanti Kumar Sinha,42393,50000,23.61
+ls-1962,LS,India,1962,1962,official,91,Nalanda,GEN,Bihar,220425,INC,Sidheshwar Prasad,95883,CPI,Vijay Kumar Yadav,58969,36914,16.75
+ls-1962,LS,India,1962,1962,official,92,Nawada,GEN,Bihar,193032,INC,Ramdhani Das,99106,BJS,Akloo Manjhi,27712,71394,36.99
+ls-1962,LS,India,1962,1962,official,93,Palamu,GEN,Bihar,140145,SWA,Shashank Manjari,82170,INC,Gajendra Prasad Sinha,37561,44609,31.83
+ls-1962,LS,India,1962,1962,official,94,Patna,GEN,Bihar,226536,INC,Ramdulari Devi,101687,CPI,Ramavatar Shashtri,76605,25082,11.07
+ls-1962,LS,India,1962,1962,official,95,Pupri,GEN,Bihar,222657,INC,Sashiranjan Prasad Sah,74653,PSP,Hari Kishore Singh,55881,18772,8.43
+ls-1962,LS,India,1962,1962,official,96,Purnea,GEN,Bihar,213997,INC,Phani Gopal Sen Gupta,117705,SWA,Bisheshwar Narain Sharma,47914,69791,32.61
+ls-1962,LS,India,1962,1962,official,97,Rajmahal,GEN,Bihar,141377,JP,Iswar Marandi,74666,INC,Paika Murmu,55990,18676,13.21
+ls-1962,LS,India,1962,1962,official,98,Ranchi East,GEN,Bihar,133959,SWA,Prashanta Kumar Ghosh,43256,INC,Ibrahim Ansari,38233,5023,3.75
+ls-1962,LS,India,1962,1962,official,99,Ranchi West,GEN,Bihar,196570,JP,Jaipal Singh,103310,SWA,Joseph Tigga,52432,50878,25.88
+ls-1962,LS,India,1962,1962,official,100,Rosera,GEN,Bihar,177997,INC,Rameshwar Sahu,122921,SOC,Kedar Paswan,55076,67845,38.12
+ls-1962,LS,India,1962,1962,official,101,Saharsa,GEN,Bihar,197161,SOC,Bhupendra Narayan Mandal,97038,INC,Lalit Narayan Mishra,81905,15133,7.68
+ls-1962,LS,India,1962,1962,official,102,Samastipur,GEN,Bihar,198896,INC,Satya Naryan Sinha,82522,PSP,Rajendra Mahto,60972,21550,10.83
+ls-1962,LS,India,1962,1962,official,103,Sasaram,GEN,Bihar,252531,INC,Jagjivan Ram,137060,SWA,Rameshwar Agnibhoj,83065,53995,21.38
+ls-1962,LS,India,1962,1962,official,104,Shahabad,GEN,Bihar,217628,INC,Bali Ram Bhagat,133373,SWA,Dipnarain Singh,49046,84327,38.75
+ls-1962,LS,India,1962,1962,official,105,Singhbhum,GEN,Bihar,125343,JP,Haricharan Soy,53269,INC,Lakho Bodra,35631,17638,14.07
+ls-1962,LS,India,1962,1962,official,106,Sitamarhi,GEN,Bihar,238273,INC,Nagindra Pd. Yadab,90910,PSP,Yugal Kishore Singh,57395,33515,14.07
+ls-1962,LS,India,1962,1962,official,107,Siwan,GEN,Bihar,191902,INC,Md. Yusuf,78030,BJS,Nagendra Nath Pathak,42301,35729,18.62
+ls-1962,LS,India,1962,1962,official,108,Sonbarsa,GEN,Bihar,186351,INC,Tulmohan Ram,92622,CPI,Rishideo Keshva,34399,58223,31.24
+ls-1962,LS,India,1962,1962,official,109,Chandni Chowk,GEN,Delhi,139058,INC,Sham Nath,69508,BJS,Amrit Lal Jindal,40560,28948,20.82
+ls-1962,LS,India,1962,1962,official,110,Delhi Sadar,GEN,Delhi,162016,INC,Shiv Charan Gupta,78340,BJS,Bhai Mahavir,54806,23534,14.53
+ls-1962,LS,India,1962,1962,official,111,Karol Bagh,GEN,Delhi,212828,INC,Nawal Prabhakar,115813,BJS,Shiv Narain,60285,55528,26.09
+ls-1962,LS,India,1962,1962,official,112,New Delhi,GEN,Delhi,169912,INC,Mehr Chand Khanna,96264,BJS,Balraj Madhok,64669,31595,18.59
+ls-1962,LS,India,1962,1962,official,113,Outer Delhi,GEN,Delhi,210335,INC,Braham Prakash,93249,BJS,Trilok Chand Sharma,71696,21553,10.25
+ls-1962,LS,India,1962,1962,official,114,Ahmedabad,GEN,Gujarat,255169,NJP,Indulal Kanaiyalal Yagnik,134323,INC,Shamprasad Rupshanker Vasavda,112731,21592,8.46
+ls-1962,LS,India,1962,1962,official,115,Amreli,GEN,Gujarat,213900,INC,Jayaben Vajubhai Shah,139459,PSP,Mathuradas Harjivandas Maheta,74441,65018,30.4
+ls-1962,LS,India,1962,1962,official,116,Anand,GEN,Gujarat,315503,SWA,Kumar Narendrasinh Ranjitsinh Mahida,169116,INC,Maniben Vallabhbhai Patel,146387,22729,7.2
+ls-1962,LS,India,1962,1962,official,117,Banaskantha,GEN,Gujarat,202556,INC,Joharaben Akabarbhai Chavada,115931,SWA,Kanhaiyalal Bhabhutbhai Mehta,60975,54956,27.13
+ls-1962,LS,India,1962,1962,official,118,Bhavnagar,GEN,Gujarat,201098,PSP,Jashvantrai Nanubhai Mehta,98099,INC,Jadavji Keshavji Modi,88225,9874,4.91
+ls-1962,LS,India,1962,1962,official,119,Broach,GEN,Gujarat,280661,INC,Chhotubhai Makanbhai Patel,130060,SWA,Lilavati Kanhaiyalal Munshi,102023,28037,9.99
+ls-1962,LS,India,1962,1962,official,120,Bulsar,GEN,Gujarat,295719,INC,Nanubhai Nichhabhai Patel,149689,PSP,Narottambhai Bhulabhai Patel,146030,3659,1.24
+ls-1962,LS,India,1962,1962,official,121,Dohad,GEN,Gujarat,233560,SWA,Hirabhai Kunverbhai Baria,107348,INC,Narsibhai Kanjibhai Hathila,102935,4413,1.89
+ls-1962,LS,India,1962,1962,official,122,Jamnagar,GEN,Gujarat,171104,INC,Manubhai Mansukhlal Shah,122628,SWA,Maganlal Bhagwanji Joshi,48476,74152,43.34
+ls-1962,LS,India,1962,1962,official,123,Junagadh,GEN,Gujarat,206427,INC,Chittaranjan Rugnath Raja,123288,IND,Venibhai Purusotam Arya,55598,67690,32.79
+ls-1962,LS,India,1962,1962,official,124,Kaira,GEN,Gujarat,271376,SWA,Pravinsinh Natversinh Solanki,134112,INC,Thakorshri Fatehsinhji Ratansinhji Dabhi,121499,12613,4.65
+ls-1962,LS,India,1962,1962,official,125,Kutch,GEN,Gujarat,243047,SWA,M. K. S. Himatsinhji Vijarajji,145947,INC,Bhawanji Arjan Khimji,84189,61758,25.41
+ls-1962,LS,India,1962,1962,official,126,Mandvi,GEN,Gujarat,259693,INC,Chhaganbhai Madaribhai Kedaria,135651,SWA,Abrahim Dongersing Chaudhari,74120,61531,23.69
+ls-1962,LS,India,1962,1962,official,127,Mehsana,GEN,Gujarat,302324,INC,Mansinh Prithviraj Patel,154631,SWA,Ramchandra Jamnadas Amin,147693,6938,2.29
+ls-1962,LS,India,1962,1962,official,128,Panchmahals,GEN,Gujarat,189726,INC,Dahyabhai Jivanji Naik,85380,SWA,Pratapsinh Hirabhai Patel,69147,16233,8.56
+ls-1962,LS,India,1962,1962,official,129,Patan,GEN,Gujarat,217521,INC,Purushottamdas Ranchhoddas Patel,125797,SWA,Kantiprasad Jayshanker Yagnik,57784,68013,31.27
+ls-1962,LS,India,1962,1962,official,130,Rajkot,GEN,Gujarat,185253,INC,Uchharangrai Navalshanker Dhebar,102344,IND,Narottam Laxmichand Shah,61311,41033,22.15
+ls-1962,LS,India,1962,1962,official,131,Sabarkantha,GEN,Gujarat,252158,INC,Gulzarilal Bulakhidas Nanda,129468,SWA,Pashabhai Chhotabhai Patel,104859,24609,9.76
+ls-1962,LS,India,1962,1962,official,132,Sabarmati,GEN,Gujarat,259581,INC,Muldas Bhudardas Vaishya,128242,SWA,Gulabray Hiralal Maraya,84031,44211,17.03
+ls-1962,LS,India,1962,1962,official,133,Surat,GEN,Gujarat,240559,INC,Morarji Ranchhodji Desai,165225,IND,Jaswantsinh Dansinh Chauhan,66194,99031,41.17
+ls-1962,LS,India,1962,1962,official,134,Surendranagar,GEN,Gujarat,226230,INC,Ghanshyambhai Chhotalal Oza,123006,IND,Bhanumatiben Dahyabhai Patel,80955,42051,18.59
+ls-1962,LS,India,1962,1962,official,135,Vadodara,GEN,Gujarat,259393,INC,Shrimant Maharaja Fatehsinhrao Pratapsinhrao Gaekwad,189562,IND,Mithabhai Jorabhai Patel,45590,143972,55.5
+ls-1962,LS,India,1962,1962,official,136,Chamba,GEN,Himachal Pradesh,50927,INC,Chattar Singh,32324,SWA,M. R. Masani,10449,21875,42.95
+ls-1962,LS,India,1962,1962,official,137,Mahasu,GEN,Himachal Pradesh,63768,INC,Virbhadra Singh,49011,IND,Jai Bihari Lal,14757,34254,53.72
+ls-1962,LS,India,1962,1962,official,138,Mandi,GEN,Himachal Pradesh,73714,INC,Lalit Sen,46856,SWA,Ambika Kumari,20600,26256,35.62
+ls-1962,LS,India,1962,1962,official,139,Sirmur,GEN,Himachal Pradesh,54499,INC,Partap Singh,38558,REP,Anokhi Ram,15941,22617,41.5
+ls-1962,LS,India,1962,1962,official,140,Ambalapuzha,GEN,Kerala,329107,CPI,P. K. Vasudevan Nair,170170,PSP,Baby John,158937,11233,3.41
+ls-1962,LS,India,1962,1962,official,141,Badagara,GEN,Kerala,335723,IND,A. V. Raghavan,204315,PSP,K. B. Menon,131408,72907,21.72
+ls-1962,LS,India,1962,1962,official,142,Chirayinkil,GEN,Kerala,304635,CPI,M. K. Kumaran,168927,INC,Shahul Hameed,135708,33219,10.9
+ls-1962,LS,India,1962,1962,official,143,Ernakulam,GEN,Kerala,356879,INC,A. M. Thomas,181105,CPI,M. M. Abdul Khader,157706,23399,6.56
+ls-1962,LS,India,1962,1962,official,144,Kasaragod,GEN,Kerala,303027,CPI,A. K. Gopalan,188384,PSP,K. R. Karanth,105021,83363,27.51
+ls-1962,LS,India,1962,1962,official,145,Kollam,GEN,Kerala,333799,RSP,Sreekantan Nair,199377,INC,Sarojani,134422,64955,19.46
+ls-1962,LS,India,1962,1962,official,146,Kottayam,GEN,Kerala,290336,INC,Mathew Maniyangadan,177811,CPI,George,112525,65286,22.49
+ls-1962,LS,India,1962,1962,official,147,Kozhikode,GEN,Kerala,306957,ML,C. H. Muhammed Koya,104277,CPI,H. Manjunatha Rao,103514,763,0.25
+ls-1962,LS,India,1962,1962,official,148,Manjeri,GEN,Kerala,240229,ML,Muhammad Ismail Sahib,97290,CPI,Muhammad Kunju,92962,4328,1.8
+ls-1962,LS,India,1962,1962,official,149,Mavelikara,GEN,Kerala,300871,INC,Achuthan,149244,CPI,Kodiyan,141956,7288,2.42
+ls-1962,LS,India,1962,1962,official,150,Mukundapuram,GEN,Kerala,360491,INC,Govinda Menon Panampilli,195038,CPI,Narayankutty Menon Thekkechalil,156587,38451,10.67
+ls-1962,LS,India,1962,1962,official,151,Muvattupuzha,GEN,Kerala,290822,INC,Cherian,157735,CPI,Jacob,133087,24648,8.48
+ls-1962,LS,India,1962,1962,official,152,Palakkad,GEN,Kerala,200691,CPI,Kunhan Patinjara Veetilpadi,131688,INC,V. Eacharan,59353,72335,36.04
+ls-1962,LS,India,1962,1962,official,153,Ponnani,GEN,Kerala,256433,CPI,Imbichi Bava Ezhukudikkal,128288,INC,K. S. Achuthan,70489,57799,22.54
+ls-1962,LS,India,1962,1962,official,154,Tellicherry,GEN,Kerala,368722,IND,S. K. Pottekkatt,216836,INC,K. T. Sukumaran,151886,64950,17.61
+ls-1962,LS,India,1962,1962,official,155,Thiruvalla,GEN,Kerala,303647,INC,G. Ravindra Varma,184054,CPI,P. T. Punnoose,109990,74064,24.39
+ls-1962,LS,India,1962,1962,official,156,Thiruvananthapuram,GEN,Kerala,322643,IND,Nataraja Pillai,161713,PSP,Krishna Pillai,151255,10458,3.24
+ls-1962,LS,India,1962,1962,official,157,Thrissur,GEN,Kerala,323971,CPI,Krishna Warriar,164899,INC,Seetha Raman,159072,5827,1.8
+ls-1962,LS,India,1962,1962,official,158,Balaghat,GEN,Madhya Pradesh,175366,PSP,Bholaram Ramaji,69786,INC,Shankarlal Rajaram Tiwari,66894,2892,1.65
+ls-1962,LS,India,1962,1962,official,159,Baloda Bazar,GEN,Madhya Pradesh,128764,INC,Minimata,68063,PSP,Itwari,35057,33006,25.63
+ls-1962,LS,India,1962,1962,official,160,Bastar,GEN,Madhya Pradesh,187656,IND,Lakhmu Bhawani,87557,INC,Boda Dada,24057,63500,33.84
+ls-1962,LS,India,1962,1962,official,161,Bhind,GEN,Madhya Pradesh,227622,INC,Suraj Prasad Alias Surya Prashad,75730,PSP,Atam Das,72943,2787,1.22
+ls-1962,LS,India,1962,1962,official,162,Bhopal,GEN,Madhya Pradesh,227292,INC,Maimoona Sultan,83204,HMS,Om Parkash,63898,19306,8.49
+ls-1962,LS,India,1962,1962,official,163,Bilaspur,GEN,Madhya Pradesh,153765,IND,Satya Prakash,54845,BJS,Jamuna Prasad,52674,2171,1.41
+ls-1962,LS,India,1962,1962,official,164,Chhindwara,GEN,Madhya Pradesh,169158,INC,Bhikulal Lachhmichand,81726,BJS,Sanatkumar Navgopal Mukharjee,52011,29715,17.57
+ls-1962,LS,India,1962,1962,official,165,Damoh,GEN,Madhya Pradesh,187113,INC,Sahodra Bai,77710,BJS,Raja Ram,49735,27975,14.95
+ls-1962,LS,India,1962,1962,official,166,Dewas,GEN,Madhya Pradesh,229503,BJS,Hukumchand,106706,INC,Kanhaiyalal,99557,7149,3.11
+ls-1962,LS,India,1962,1962,official,167,Durg,GEN,Madhya Pradesh,212181,INC,Mohanlal Bakliwal,88539,PSP,Vishwanath Yadava Tamasker,59671,28868,13.61
+ls-1962,LS,India,1962,1962,official,168,Guna,GEN,Madhya Pradesh,213679,INC,Ramsahai Shivprasad Pande,100135,HMS,Vishnupant Ghanshyam Deshpande,80409,19726,9.23
+ls-1962,LS,India,1962,1962,official,169,Gwalior,GEN,Madhya Pradesh,228154,INC,Vijaya Raje Scindia,173171,BJS,Manik Chandra,24351,148820,65.23
+ls-1962,LS,India,1962,1962,official,170,Hoshangabad,GEN,Madhya Pradesh,174191,PSP,Hari Vishnu Kamath,72649,INC,Raghunath Singh Kiledar,53878,18771,10.78
+ls-1962,LS,India,1962,1962,official,171,Indore,GEN,Madhya Pradesh,229546,IND,Homi Daji,95682,INC,Ramsinghbhai Karansingh,89389,6293,2.74
+ls-1962,LS,India,1962,1962,official,172,Jabalpur,GEN,Madhya Pradesh,195895,INC,Govind Das,105185,BJS,Jagannath Prasad Dwivedi,49403,55782,28.48
+ls-1962,LS,India,1962,1962,official,173,Janjgir,GEN,Madhya Pradesh,147108,INC,Amarsingh,79822,BJS,Baliharsingh,48551,31271,21.26
+ls-1962,LS,India,1962,1962,official,174,Jhabua,GEN,Madhya Pradesh,155224,INC,Jamunadevi,68024,BJS,Gattu,45640,22384,14.42
+ls-1962,LS,India,1962,1962,official,175,Khajuraho,GEN,Madhya Pradesh,193432,INC,Ram Sahai,89722,BJS,R. D. Mishra,73092,16630,8.6
+ls-1962,LS,India,1962,1962,official,176,Khandwa,GEN,Madhya Pradesh,229722,INC,Maheshdutta,105889,BJS,Krishnarao,56753,49136,21.39
+ls-1962,LS,India,1962,1962,official,177,Khargone,GEN,Madhya Pradesh,198290,BJS,Ramchandra Bade,105386,INC,Kanhaiyalal Khadiwala,69472,35914,18.11
+ls-1962,LS,India,1962,1962,official,178,Mahasamund,GEN,Madhya Pradesh,157995,INC,Vidya Charan Shukla,56664,PSP,Khoob Chand Baghel,53872,2792,1.77
+ls-1962,LS,India,1962,1962,official,179,Mandla,GEN,Madhya Pradesh,114763,INC,Mangru Ganu Uike,47789,RRP,Gangaram,26962,20827,18.15
+ls-1962,LS,India,1962,1962,official,180,Mandsaur,GEN,Madhya Pradesh,231826,BJS,Umashanker,117850,INC,Raghubirsingh,106995,10855,4.68
+ls-1962,LS,India,1962,1962,official,181,Raigarh,GEN,Madhya Pradesh,183038,RRP,Raja Vijaya Bhusan Singh Deo,56991,INC,Chandrachud Prasad Singh Deo,47874,9117,4.98
+ls-1962,LS,India,1962,1962,official,182,Raipur,GEN,Madhya Pradesh,238795,INC,Keshar Kumari Devi,93807,BJS,Prayag Singh,78416,15391,6.45
+ls-1962,LS,India,1962,1962,official,183,Rajgarh,GEN,Madhya Pradesh,170303,IND,Bhanuprakash Singh,77355,INC,Liladhar Joshi,51269,26086,15.32
+ls-1962,LS,India,1962,1962,official,184,Rajnandgaon,GEN,Madhya Pradesh,169886,INC,Birendra Bahadur Singh,76012,PSP,Shyamnarayan Kashmiri,52044,23968,14.11
+ls-1962,LS,India,1962,1962,official,185,Rewa,GEN,Madhya Pradesh,200228,INC,Shiv Dutta,56616,SOC,Achhelal Singh,42441,14175,7.08
+ls-1962,LS,India,1962,1962,official,186,Sagar,GEN,Madhya Pradesh,189214,INC,Jawala Prasad Jhumaklal,92387,BJS,Vachaspati Sharma Premraj Sharma,58382,34005,17.97
+ls-1962,LS,India,1962,1962,official,187,Sarguja,GEN,Madhya Pradesh,120838,INC,Babunath Singh,43505,BJS,Asan Ram,22228,21277,17.61
+ls-1962,LS,India,1962,1962,official,188,Seoni,GEN,Madhya Pradesh,151731,INC,Narayanrao Maniram Wadiwa,63909,PSP,Kunwar Murawat Shah,47244,16665,10.98
+ls-1962,LS,India,1962,1962,official,189,Shahdol,GEN,Madhya Pradesh,134079,SOC,Buddhu Singh,53218,INC,Jhalkan Kumari,49551,3667,2.73
+ls-1962,LS,India,1962,1962,official,190,Shivpuri,GEN,Madhya Pradesh,178019,INC,Vedehi Charan,76181,HMS,Brij Narain,66242,9939,5.58
+ls-1962,LS,India,1962,1962,official,191,Sidhi,GEN,Madhya Pradesh,160530,INC,Anand Chandra,46625,SOC,Rama Kant Singh,38596,8029,5.0
+ls-1962,LS,India,1962,1962,official,192,Tikamgarh,GEN,Madhya Pradesh,221561,PSP,Kure Mate,97647,IND,Kammoda,66359,31288,14.12
+ls-1962,LS,India,1962,1962,official,193,Ujjain,GEN,Madhya Pradesh,217950,INC,Radhelal Vyas,84976,IND,Mahendra Bhatnagar,56305,28671,13.15
+ls-1962,LS,India,1962,1962,official,194,Aruppukkottai,GEN,Madras,339839,AIFB,U. Muthu Ramalinga Thevar,175772,INC,Arumugasami,155919,19853,5.84
+ls-1962,LS,India,1962,1962,official,195,Chengalpattu,GEN,Madras,320098,INC,O. V. Alagesan,169988,IND,S. Krishnaswamy,150110,19878,6.21
+ls-1962,LS,India,1962,1962,official,196,Chennai North,GEN,Madras,324285,INC,P. Srinivasan,122160,ML,Abdus Samad,113311,8849,2.73
+ls-1962,LS,India,1962,1962,official,197,Chennai South,GEN,Madras,339625,DMK,K. Manoharan,151917,INC,C. R. Ramaswamy,89771,62146,18.3
+ls-1962,LS,India,1962,1962,official,198,Chidambaram,GEN,Madras,315338,INC,R. Kangagosabai,140731,DMK,R. Thillaivaillalan,136671,4060,1.29
+ls-1962,LS,India,1962,1962,official,199,Coimbatore,GEN,Madras,386626,INC,P. R. Ramakrishnan,151019,CPI,Parvathi Krishnan,108458,42561,11.01
+ls-1962,LS,India,1962,1962,official,200,Cuddalore,GEN,Madras,312968,DMK,T. Ramabadra Naidu,160811,INC,T.D. Muthukumaraswami Naidu,125424,35387,11.31
+ls-1962,LS,India,1962,1962,official,201,Dindigul,GEN,Madras,320574,INC,T. S. Soundaram Ramachandram,138574,DMK,M. S. Abdul Khader,84921,53653,16.74
+ls-1962,LS,India,1962,1962,official,202,Erode,GEN,Madras,342567,INC,Paramasiva Gounder,156739,DMK,Narayanan,117561,39178,11.44
+ls-1962,LS,India,1962,1962,official,203,Gobichettipalayam,GEN,Madras,287307,INC,P. G. Karuthiruman,142993,IND,K. M. Ramasami Gounder,71558,71435,24.86
+ls-1962,LS,India,1962,1962,official,204,Karur,GEN,Madras,286846,INC,R. Ramanathan Chettiar,139385,SWA,P. Ponnambala Gounder,100229,39156,13.65
+ls-1962,LS,India,1962,1962,official,205,Koilpatti,GEN,Madras,313249,INC,S. C. Balakrishnan,150175,SWA,Velu Kudumban,93843,56332,17.98
+ls-1962,LS,India,1962,1962,official,206,Krishnagiri,GEN,Madras,261380,DMK,K. Rajaram,127508,INC,C. R. Narasimhan,118907,8601,3.29
+ls-1962,LS,India,1962,1962,official,207,Kumbakonam,GEN,Madras,329154,INC,C. R. Pattabiraman,155389,DMK,T. K. Srinivasan,144490,10899,3.31
+ls-1962,LS,India,1962,1962,official,208,Madurai,GEN,Madras,355419,INC,N. M. R. Subbaraman,140574,CPI,K. T. K. Tangamani,123386,17188,4.84
+ls-1962,LS,India,1962,1962,official,209,Mayuram,GEN,Madras,326487,INC,Maragatham,149330,DMK,Subirravelu,106059,43271,13.25
+ls-1962,LS,India,1962,1962,official,210,Melur,GEN,Madras,298339,INC,P. Maruthaiah,155629,SWA,V. S. Sivaprakasam,142710,12919,4.33
+ls-1962,LS,India,1962,1962,official,211,Nagapattinam,GEN,Madras,351089,INC,Gopalsamy Thenkondar,161421,CPI,C. Kandasamy Thevar,129004,32417,9.23
+ls-1962,LS,India,1962,1962,official,212,Nagercoil,GEN,Madras,278896,INC,A. Nesamony,157208,IND,P. Vivekananda,81587,75621,27.11
+ls-1962,LS,India,1962,1962,official,213,Namakkal,GEN,Madras,270598,INC,V. K. Ramaswamy,118603,DMK,M. P. Vadivelu,109652,8951,3.31
+ls-1962,LS,India,1962,1962,official,214,Nilgiris,GEN,Madras,311056,INC,Akkamma Devi,163420,CPI,M. E. Madhanan,75299,88121,28.33
+ls-1962,LS,India,1962,1962,official,215,Perambalur,GEN,Madras,338001,DMK,Era Sezhiyan,188926,INC,M. Palaniyandi,133536,55390,16.39
+ls-1962,LS,India,1962,1962,official,216,Periyakulam,GEN,Madras,303116,INC,Malaichamy Thevar,146829,IND,Muthaih,143930,2899,0.96
+ls-1962,LS,India,1962,1962,official,217,Pollachi,GEN,Madras,312991,INC,C. Subramaniam,176512,SWA,R. M. Ramasami,76415,100097,31.98
+ls-1962,LS,India,1962,1962,official,218,Pudukkottai,GEN,Madras,298179,CPI,R. Umanath,134162,INC,L. Alagusundaram Chettiar,103944,30218,10.13
+ls-1962,LS,India,1962,1962,official,219,Ramanathapuram,GEN,Madras,353453,INC,N. Arunachalam,145396,SWA,Salivateeswaran,114513,30883,8.74
+ls-1962,LS,India,1962,1962,official,220,Salem,GEN,Madras,298991,INC,S. V. Ramaswamy,147525,DMK,K. Rajagopal,135787,11738,3.93
+ls-1962,LS,India,1962,1962,official,221,Sriperumbudur,GEN,Madras,300094,DMK,P. Sivasankaran,157733,INC,K. Munuswamy,142361,15372,5.12
+ls-1962,LS,India,1962,1962,official,222,Tenkasi,GEN,Madras,322934,INC,M. P. Swamy,165169,CPI,S. A. Muruganandam,93729,71440,22.12
+ls-1962,LS,India,1962,1962,official,223,Thanjavur,GEN,Madras,328556,INC,Vairava Thevar,143185,PSP,Vallatharasu,115112,28073,8.54
+ls-1962,LS,India,1962,1962,official,224,Thiruvallur,GEN,Madras,328361,INC,V. Govindaswamy Naidu,157343,DMK,M. Gopal,143908,13435,4.09
+ls-1962,LS,India,1962,1962,official,225,Thiruvannamalai,GEN,Madras,288356,DMK,Dharmalingam,141254,INC,G. Neelakantan,137528,3726,1.29
+ls-1962,LS,India,1962,1962,official,226,Tindivanam,GEN,Madras,273719,INC,R. Venkatasubba Reddiar,132330,SWA,K. Ramamoorthi Goundar,118033,14297,5.22
+ls-1962,LS,India,1962,1962,official,227,Tiruchendur,GEN,Madras,0,INC,T. T. Krishnamachari,0,,,,0,
+ls-1962,LS,India,1962,1962,official,228,Tiruchengode,GEN,Madras,251005,INC,P. Subbarayan,109799,DMK,S. Kandappan,97635,12164,4.85
+ls-1962,LS,India,1962,1962,official,229,Tiruchirappalli,GEN,Madras,327834,CPI,K. Anada Nambiar,156706,INC,M. K. M. Abdul Salam,147332,9374,2.86
+ls-1962,LS,India,1962,1962,official,230,Tirukoilur,GEN,Madras,251930,INC,L. Elaya Perumal,134815,DMK,C. Govindaraju,117115,17700,7.03
+ls-1962,LS,India,1962,1962,official,231,Tirunelveli,GEN,Madras,318371,INC,Muthiah,151822,SWA,Mariadas Ruthnasamy,129803,22019,6.92
+ls-1962,LS,India,1962,1962,official,232,Tiruppattur,GEN,Madras,294524,DMK,R. Muthu Gounder,151938,INC,Duraiswami Goundan,118303,33635,11.42
+ls-1962,LS,India,1962,1962,official,233,Vandavasi,GEN,Madras,281913,INC,Jayaraman,111053,REP,M. Krishnasami,100256,10797,3.83
+ls-1962,LS,India,1962,1962,official,234,Vellore,GEN,Madras,279968,INC,Abdull Wahid,114872,REP,N. Sivaraj,90906,23966,8.56
+ls-1962,LS,India,1962,1962,official,235,Ahmednagar,GEN,Maharashtra,212280,INC,Motilal Kundanmal Firodya,113159,IND,Prabhakar Kondaji Bhapkar,99121,14038,6.61
+ls-1962,LS,India,1962,1962,official,236,Akola,GEN,Maharashtra,285518,INC,Mohammad Mohibbul Haq Mohammad Anwarul Haqm,135226,IND,Brijlal Nandlal Biyani,88057,47169,16.52
+ls-1962,LS,India,1962,1962,official,237,Amravati,GEN,Maharashtra,335155,INC,Panjabrao Shamrao Deshmukh,177109,REP,Ramkrishna Suryabhan Gawai,116737,60372,18.01
+ls-1962,LS,India,1962,1962,official,238,Aurangabad,GEN,Maharashtra,216068,INC,Bhaurao Dagdurao Deshmukh,142209,REP,Balasaheb Shivram More,73859,68350,31.63
+ls-1962,LS,India,1962,1962,official,239,Baramati,GEN,Maharashtra,194552,INC,Gulab Keshav Jedhe,106244,PSP,Parashuram Chunilal Chordia,44657,61587,31.66
+ls-1962,LS,India,1962,1962,official,240,Bhandara,GEN,Maharashtra,267050,INC,Ramchandra Martand Harjarnavis,129669,CPI,Rana Pratapsingh Gayalalsingh Bhadoriya,89720,39949,14.96
+ls-1962,LS,India,1962,1962,official,241,Bhir,GEN,Maharashtra,170871,INC,Dwarkadasji Motilalji,95700,CPI,Babar Ahmad Husain Athar,75171,20529,12.01
+ls-1962,LS,India,1962,1962,official,242,Bhiwandi,GEN,Maharashtra,223284,INC,Shrimant Maharaj Saheb Yashwantro Martanrao Mukane,104579,CPI,Rupji Lalya Kadu,64905,39674,17.77
+ls-1962,LS,India,1962,1962,official,243,Buldhana,GEN,Maharashtra,284636,INC,Shivaram Rango Rane,153490,PWP,Sonu Ananda Pandit,71311,82179,28.87
+ls-1962,LS,India,1962,1962,official,244,Chanda,GEN,Maharashtra,254022,IND,Lal Shyamshah Lal Bhagwanshah,128233,INC,V. N. Swami,85322,42911,16.89
+ls-1962,LS,India,1962,1962,official,245,Dhule,GEN,Maharashtra,265691,INC,Chudaman Ananda Ravandale,148452,BJS,Uttamrao Laxman Patil,53597,94855,35.7
+ls-1962,LS,India,1962,1962,official,246,Gondia,GEN,Maharashtra,256392,INC,Balkrishna Ramchandra Wasnik,107524,REP,Bihari Ramji Kamble,96599,10925,4.26
+ls-1962,LS,India,1962,1962,official,247,Hatkanangle,GEN,Maharashtra,257844,INC,Krishnaji Laxman More,164585,REP,Dadasaheb Malhararao Shirke,64902,99683,38.66
+ls-1962,LS,India,1962,1962,official,248,Jalgaon,GEN,Maharashtra,243465,INC,Julalsing Shankarrao Patil,156925,PSP,Saushir Cursetji Bharucha,86540,70385,28.91
+ls-1962,LS,India,1962,1962,official,249,Jalna,GEN,Maharashtra,179459,INC,Ramrao Narayanrao,98211,PWP,Meer Tilawat Ali Meer Khader Ali,81248,16963,9.45
+ls-1962,LS,India,1962,1962,official,250,Karad,GEN,Maharashtra,300097,INC,Dajisaheb Ramrao Chavan,214553,PWP,Atmaram Nana Patil,67775,146778,48.91
+ls-1962,LS,India,1962,1962,official,251,Khamgaon,GEN,Maharashtra,273415,INC,Laxman Shrawan Bhatkar,147168,REP,Dinanath Baxuram Badhade,76745,70423,25.76
+ls-1962,LS,India,1962,1962,official,252,Khed,GEN,Maharashtra,219886,INC,Raghunath Keshab Khadilkar,107457,PSP,Ganesh Mahadeo Gole,36916,70541,32.08
+ls-1962,LS,India,1962,1962,official,253,Kolaba,GEN,Maharashtra,203266,INC,Bhaskar Narayan Dighe,98680,PWP,Raharam Balkrishna Raut,69638,29042,14.29
+ls-1962,LS,India,1962,1962,official,254,Kolhapur,GEN,Maharashtra,233917,INC,Vishwanath Tukaram Patil,144856,PWP,Bhausaheb Raosaheb Mahagaonkar,81187,63669,27.22
+ls-1962,LS,India,1962,1962,official,255,Kopargaon,GEN,Maharashtra,228210,INC,Annasaheb Pandurang Shinde,122057,REP,Yashwantrao Bhimrao Ambedkar,55527,66530,29.15
+ls-1962,LS,India,1962,1962,official,256,Latur,GEN,Maharashtra,235356,INC,Tulsiram Dashrath,134395,REP,Harihar Nagorao,73004,61391,26.08
+ls-1962,LS,India,1962,1962,official,257,Malegaon,GEN,Maharashtra,292958,INC,Madhaorao Laxmanrao Jadhao,161308,PSP,Yadavrao Narayan Jadhao,74222,87086,29.73
+ls-1962,LS,India,1962,1962,official,258,Miraj,GEN,Maharashtra,302370,INC,Vijayhsinhrao Ramrao Dafle,213659,REP,Ramchandra Dhondiba Bhandare,68017,145642,48.17
+ls-1962,LS,India,1962,1962,official,259,Mumbai City Central North,GEN,Maharashtra,309422,INC,Narayan Sadoba Kajrolkar,145696,REP,Gopal Kaluji Manay,91552,54144,17.5
+ls-1962,LS,India,1962,1962,official,260,Mumbai City Central South,GEN,Maharashtra,302721,INC,Vithal Balkrishna Gandhi,136469,CPI,Shripal Amrit Dange,97891,38578,12.74
+ls-1962,LS,India,1962,1962,official,261,Mumbai City North,GEN,Maharashtra,472940,INC,V. K. Krishna Menon,298427,IND,J. B. Kripalani,153069,145358,30.73
+ls-1962,LS,India,1962,1962,official,262,Mumbai City South,GEN,Maharashtra,241028,INC,Sadashiv Kanoji Patil,154570,IND,Lalji Moreshwar Pendse,53943,100627,41.75
+ls-1962,LS,India,1962,1962,official,263,Nagpur,GEN,Maharashtra,325076,IND,Madhao Shrihari Aney,131740,INC,Rikhabchand Kalyanmal Sharma,84872,46868,14.42
+ls-1962,LS,India,1962,1962,official,264,Nanded,GEN,Maharashtra,242670,INC,Tulshidas Subhanrao Jadhav,139217,REP,Jagannath Shivling Vibhute,79975,59242,24.41
+ls-1962,LS,India,1962,1962,official,265,Nandurbar,GEN,Maharashtra,189112,INC,Laxman Vedu Valvi,91176,REP,Bakaram Sukram Kokani,35226,55950,29.59
+ls-1962,LS,India,1962,1962,official,266,Nashik,GEN,Maharashtra,191175,INC,Govind Hari Deshpande,110242,REP,Bhaurao Krishnarao Gaikwad,50588,59654,31.2
+ls-1962,LS,India,1962,1962,official,267,Osmanabad,GEN,Maharashtra,236209,INC,Tulsiram Abaji Patil,117060,PWP,Udharerao Saheb Rao,104686,12374,5.24
+ls-1962,LS,India,1962,1962,official,268,Pandharpur,GEN,Maharashtra,228402,INC,Tayappa Hari Sonavane,121716,REP,Sidram Babaji Babar,76384,45332,19.85
+ls-1962,LS,India,1962,1962,official,269,Parbhani,GEN,Maharashtra,179171,INC,Shivajirao Shankarrao Deshmukh,92793,PWP,Annasaheb Ramchandra Gavane,64288,28505,15.91
+ls-1962,LS,India,1962,1962,official,270,Pune,GEN,Maharashtra,268015,INC,Shankarrao Shantaram More,115402,PSP,Narayan Ganesh Goray,66996,48406,18.06
+ls-1962,LS,India,1962,1962,official,271,Rajapur,GEN,Maharashtra,157339,PSP,Nath Bapu Pai,76918,INC,Keshao Vyankatesh Rane,48975,27943,17.76
+ls-1962,LS,India,1962,1962,official,272,Ramtek,GEN,Maharashtra,306671,INC,Madhaolrao Bhagwantrao Patil,146706,PWP,Baburao Tatyaji Bhonsle,105404,41302,13.47
+ls-1962,LS,India,1962,1962,official,273,Ratnagiri,GEN,Maharashtra,159277,INC,Sharada Shubroto Mukarji,77808,PSP,Arjun Bapuji Vichare,34052,43756,27.47
+ls-1962,LS,India,1962,1962,official,274,Satara,GEN,Maharashtra,258915,INC,Kisan Mahadeo Veer,165879,CPI,Nana Ramchandra Patil,62188,103691,40.05
+ls-1962,LS,India,1962,1962,official,275,Sholapur,GEN,Maharashtra,253158,INC,Madeppa Beandappa Kadadi,135011,HMS,Vishnupant Ramrao Patil,61725,73286,28.95
+ls-1962,LS,India,1962,1962,official,276,Thana,GEN,Maharashtra,271125,INC,Sonubhau Dagadu Baswant,132920,CPI,Shamrao Vishnu Parulekar,61277,71643,26.42
+ls-1962,LS,India,1962,1962,official,277,Wardha,GEN,Maharashtra,319477,INC,Kamalnayan Jamnalal Bajaj,143289,IND,Narayansinh Sampatsinh Weakey,105248,38041,11.91
+ls-1962,LS,India,1962,1962,official,278,Yeotmal,GEN,Maharashtra,300950,INC,Deorao Shioram Patil,175193,IND,Godhajirao Sakharam Mukhare,71457,103736,34.47
+ls-1962,LS,India,1962,1962,official,279,Inner Manipur,GEN,Manipur,145297,INC,Salam Tombi Singh,46281,SOC,Laisram Achaw Singh,33965,12316,8.48
+ls-1962,LS,India,1962,1962,official,280,Outer Manipur,GEN,Manipur,119330,SOC,Rishang,35621,INC,Sibo Larho,35579,42,0.04
+ls-1962,LS,India,1962,1962,official,281,Bangalore City,GEN,Mysore,213706,INC,K. Hanumanthaiah,118028,SWA,V. S. Natarajan,57489,60539,28.33
+ls-1962,LS,India,1962,1962,official,282,Bangalore North,GEN,Mysore,276933,INC,H. C. Dasappa,132908,IND,M. Buddhadas,108505,24403,8.81
+ls-1962,LS,India,1962,1962,official,283,Belgaum,GEN,Mysore,261251,INC,Balavantrao Nagesharao Datar,139664,REP,Datta Appa Katti,121587,18077,6.92
+ls-1962,LS,India,1962,1962,official,284,Bellary,GEN,Mysore,286213,INC,T. Subramanyam,148765,SWA,J. Mohamad Imamsab,137448,11317,3.95
+ls-1962,LS,India,1962,1962,official,285,Bidar,GEN,Mysore,184465,INC,Ramachander Veerappa,95691,PSP,B. Shamsunder,41389,54302,29.44
+ls-1962,LS,India,1962,1962,official,286,Bijapur North,GEN,Mysore,190025,INC,Rajaram Giridharalal Dubey,105452,SWA,Murigappa Siddappa Sugandhi,63456,41996,22.1
+ls-1962,LS,India,1962,1962,official,287,Bijapur South,GEN,Mysore,256669,INC,Sanganagouda Basanagouda Patil,188849,BJS,Narayanji Kalyanji Dharamashi,67820,121029,47.15
+ls-1962,LS,India,1962,1962,official,288,Chamarajanagar,GEN,Mysore,243067,INC,S. M. Siddaiah,117810,PSP,M. Shivanna,70412,47398,19.5
+ls-1962,LS,India,1962,1962,official,289,Chikkaballapura,GEN,Mysore,254737,INC,K. Changalaraya Reddy,127047,IND,B. V. Narayana Reddy,75532,51515,20.22
+ls-1962,LS,India,1962,1962,official,290,Chikkodi,GEN,Mysore,245444,INC,Vasantrao Lakhagounda Patil,166110,REP,Balavant Hanamant Warale,79334,86776,35.35
+ls-1962,LS,India,1962,1962,official,291,Chitradurga,GEN,Mysore,317012,INC,S. Veerabasappa,172673,PSP,G. Basappa,127824,44849,14.15
+ls-1962,LS,India,1962,1962,official,292,Dharwad North,GEN,Mysore,261957,INC,Sarojini Bindurao Mahishi,187654,SWA,Veerayya Virabasayya Shivalli,34104,153550,58.62
+ls-1962,LS,India,1962,1962,official,293,Dharwad South,GEN,Mysore,270314,INC,Fakruddin Husseinsab Mohasin,172777,PSP,Timmappa Rudrappa Neswi,97537,75240,27.83
+ls-1962,LS,India,1962,1962,official,294,Gulbarga,GEN,Mysore,176725,INC,Mahadevappa Yeshwantappa,92399,SWA,Sharanagowda Sidramayya,84326,8073,4.57
+ls-1962,LS,India,1962,1962,official,295,Hassan,GEN,Mysore,227903,INC,H. Siddananjappa,104898,PSP,D. R. Karigowda,99083,5815,2.55
+ls-1962,LS,India,1962,1962,official,296,Kanara,GEN,Mysore,284569,INC,Joachim Piedad Alva,132958,IND,Manohar Dattatray Malgaonkar,113089,19869,6.98
+ls-1962,LS,India,1962,1962,official,297,Kolar,GEN,Mysore,239230,INC,Doddathimmaiah,104163,IND,G. Narayanaswamy,74104,30059,12.56
+ls-1962,LS,India,1962,1962,official,298,Koppal,GEN,Mysore,245755,LSS,Shivamurthy Swami Siddappayya Swamy,125018,INC,Sanganna Andaneppa Agadi,120737,4281,1.74
+ls-1962,LS,India,1962,1962,official,299,Mandya,GEN,Mysore,290725,INC,M. K. Shivananjappa,148523,IND,M. C. Linge Gowda,74200,74323,25.56
+ls-1962,LS,India,1962,1962,official,300,Mangalore,GEN,Mysore,280078,INC,A. Shankara Alva,118102,SWA,J. M. Lobo Prabhu,84346,33756,12.05
+ls-1962,LS,India,1962,1962,official,301,Mysore,GEN,Mysore,228565,INC,M. Shankaraiya,97949,SWA,H. Ramaraj Urs,40043,57906,25.33
+ls-1962,LS,India,1962,1962,official,302,Raichur,GEN,Mysore,175523,INC,Jagannath Rao Venkata Rao Chandriki,95424,LSS,Kumar Naik Venkatappa Naik,80099,15325,8.73
+ls-1962,LS,India,1962,1962,official,303,Shimoga,GEN,Mysore,256818,INC,S. V. Krishnamoorthy Rao,119250,PSP,V. K. Lakshmana Gowda,105503,13747,5.35
+ls-1962,LS,India,1962,1962,official,304,Tiptur,GEN,Mysore,265506,INC,C. R. Basappa,136801,PSP,C. K. Rajaiah Setty,128705,8096,3.05
+ls-1962,LS,India,1962,1962,official,305,Tumkur,GEN,Mysore,251924,INC,M. V. Krishnappa,119617,PSP,K. N. Shankaralingappa,70724,48893,19.41
+ls-1962,LS,India,1962,1962,official,306,Udipi,GEN,Mysore,234028,INC,U. Srinivasa Mallaya,117027,PSP,D. Mohan Rao,104161,12866,5.5
+ls-1962,LS,India,1962,1962,official,307,Angul,GEN,Odisha,0,INC,Harekrushna Mahtab,0,,,,0,
+ls-1962,LS,India,1962,1962,official,308,Balasore,GEN,Odisha,151900,INC,Gokulananda Mahanty,87250,PSP,Rabindra Mohan Das,57691,29559,19.46
+ls-1962,LS,India,1962,1962,official,309,Bhadrak,GEN,Odisha,125489,INC,Kanhu Charan Jena,86893,PSP,Sidheswar Jena,38596,48297,38.49
+ls-1962,LS,India,1962,1962,official,310,Bhanjanagar,GEN,Odisha,47346,INC,Mohan Nayak,40735,SOC,Dondapani Das,6611,34124,72.07
+ls-1962,LS,India,1962,1962,official,311,Bhubaneswar,GEN,Odisha,130082,INC,Raja Purna Chandra Deo Bhanj,83788,CPI,Prananath Patnaik,46294,37494,28.82
+ls-1962,LS,India,1962,1962,official,312,Bolangir,GEN,Odisha,87692,GP,Mahanand Hrushikesh,50929,INC,Nag Sundarmani,32910,18019,20.55
+ls-1962,LS,India,1962,1962,official,313,Chatrapur,GEN,Odisha,79714,INC,Sarma Ananta Tripathy,47958,SWA,Harihara Das,22743,25215,31.63
+ls-1962,LS,India,1962,1962,official,314,Cuttack,GEN,Odisha,156346,INC,Nityanand Kanungo,88340,PSP,Nishamani Khuntia,64387,23953,15.32
+ls-1962,LS,India,1962,1962,official,315,Dhenkanal,GEN,Odisha,128212,INC,Baishnab Charan Patnaik,90250,GP,Raja Sankar Pratap Singh Deb Mahindra Bahadur,37962,52288,40.78
+ls-1962,LS,India,1962,1962,official,316,Jajpur,GEN,Odisha,129923,INC,Ramachandra Mallick,80748,PSP,Baishnab Charan Mallick,45051,35697,27.48
+ls-1962,LS,India,1962,1962,official,317,Kalahandi,GEN,Odisha,91115,GP,Pratap Kessari Deo,65974,INC,Suresh Chandra Behera,25141,40833,44.81
+ls-1962,LS,India,1962,1962,official,318,Kendrapara,GEN,Odisha,198716,PSP,Surendranath Dwivedy,99391,INC,Surendra Mahanty,99325,66,0.03
+ls-1962,LS,India,1962,1962,official,319,Keonjhar,GEN,Odisha,62390,INC,Laxmi Narayan Bhanja Deo,36336,GP,Rajballabh Mishra,26054,10282,16.48
+ls-1962,LS,India,1962,1962,official,320,Koraput,GEN,Odisha,53451,INC,Ulaka Ramachandra,39850,GP,Soboro Dumba,13601,26249,49.11
+ls-1962,LS,India,1962,1962,official,321,Mayurbhanj,GEN,Odisha,73702,INC,Maheswar Naik,33824,GP,Mahendra Majhi,26545,7279,9.88
+ls-1962,LS,India,1962,1962,official,322,Nabarangpur,GEN,Odisha,59523,INC,Rachakonda Jaganath Rao,32231,GP,Nutakki Ramaseshaiah,27292,4939,8.3
+ls-1962,LS,India,1962,1962,official,323,Phulbani,GEN,Odisha,52165,GP,Rajendra Kohor,27720,INC,Krushna Chandra Dolobehera,24445,3275,6.28
+ls-1962,LS,India,1962,1962,official,324,Puri,GEN,Odisha,138131,INC,Bibudhendra Misra,83848,CPI,Panigrahi Chintamani,54283,29565,21.4
+ls-1962,LS,India,1962,1962,official,325,Sambalpur,GEN,Odisha,87684,SOC,Kisan Pattanayak,37009,INC,Binod Bihari Das,34641,2368,2.7
+ls-1962,LS,India,1962,1962,official,326,Sundargarh,GEN,Odisha,115384,GP,Yagnyanarayan Singha,50859,INC,Sibnarayan Singh,44784,6075,5.27
+ls-1962,LS,India,1962,1962,official,327,Ambala,GEN,Punjab,261351,INC,Chuni Lal,121943,BJS,Jugal Kishore,86109,35834,13.71
+ls-1962,LS,India,1962,1962,official,328,Amritsar,GEN,Punjab,314526,INC,Gurmukh Singh,125033,AD,Narinder Singh,110617,14416,4.58
+ls-1962,LS,India,1962,1962,official,329,Bhatinda,GEN,Punjab,311044,AD,Dhanna Singh,164155,INC,Ajit Singh,106134,58021,18.65
+ls-1962,LS,India,1962,1962,official,330,Ferozepur,GEN,Punjab,320407,INC,Iqbal Singh,115913,BJS,Kulbir Singh,83761,32152,10.03
+ls-1962,LS,India,1962,1962,official,331,Gurdaspur,GEN,Punjab,289049,INC,Dewan Chand,138907,AD,Natha Singh,82409,56498,19.55
+ls-1962,LS,India,1962,1962,official,332,Gurgaon,GEN,Punjab,302403,INC,Gajraj Singh,112342,IND,Devi Singh,93924,18418,6.09
+ls-1962,LS,India,1962,1962,official,333,Hissar,GEN,Punjab,343551,SOC,Mani Ram,152369,INC,Ghamandi Lal,125136,27233,7.93
+ls-1962,LS,India,1962,1962,official,334,Hoshiarpur,GEN,Punjab,308584,INC,Amar Nath Vidya Alankar,128953,REP,Ambedkar Yashwant Rao,118652,10301,3.34
+ls-1962,LS,India,1962,1962,official,335,Jalandhar,GEN,Punjab,291994,INC,Swaran Singh,150474,SWA,Kartar Singh,81393,69081,23.66
+ls-1962,LS,India,1962,1962,official,336,Jhajjar,GEN,Punjab,347926,HLS,Jagdev Singh,118667,INC,Partap Singh Daulata,111005,7662,2.2
+ls-1962,LS,India,1962,1962,official,337,Kaithal,GEN,Punjab,345929,INC,Dev Dutt,150127,SWA,Inder Singh,130524,19603,5.67
+ls-1962,LS,India,1962,1962,official,338,Kangra,GEN,Punjab,180044,INC,Hem Raj,73342,IND,Sarwan Kumar,44160,29182,16.21
+ls-1962,LS,India,1962,1962,official,339,Karnal,GEN,Punjab,316066,BJS,Rameshwaranand,134458,INC,Virender,121748,12710,4.02
+ls-1962,LS,India,1962,1962,official,340,Ludhiana,GEN,Punjab,318711,AD,Kapur Singh,110386,INC,Mangal Singh,108516,1870,0.59
+ls-1962,LS,India,1962,1962,official,341,Mahendragarh,GEN,Punjab,310104,BJS,Yudhvir Singh,105027,INC,Ram Kishan,93768,11259,3.63
+ls-1962,LS,India,1962,1962,official,342,Moga,GEN,Punjab,311705,AD,Buta Singh,171081,INC,Chanan Singh,140624,30457,9.77
+ls-1962,LS,India,1962,1962,official,343,Patiala,GEN,Punjab,335421,INC,Hukum Singh,156452,AD,Gurdial Singh,146366,10086,3.01
+ls-1962,LS,India,1962,1962,official,344,Phillaur,GEN,Punjab,312049,INC,Sadhu Ram,150468,REP,Lahori Ram Balley,140849,9619,3.08
+ls-1962,LS,India,1962,1962,official,345,Rohtak,GEN,Punjab,337583,BJS,Lehri Singh,155618,INC,Randhir Singh,135511,20107,5.96
+ls-1962,LS,India,1962,1962,official,346,Sangrur,GEN,Punjab,337675,INC,Ranjit Singh,133018,IND,Pritam Singh,115749,17269,5.11
+ls-1962,LS,India,1962,1962,official,347,Tarn Taran,GEN,Punjab,318088,INC,Surjit Singh Majithia,160039,CPI,Achhar Singh,158049,1990,0.63
+ls-1962,LS,India,1962,1962,official,348,Una,GEN,Punjab,271427,INC,Daljit Singh,143239,REP,Udham Singh,73017,70222,25.87
+ls-1962,LS,India,1962,1962,official,349,Ajmer,GEN,Rajasthan,232697,INC,Mukatbehari Lal,92598,BJS,Bhagwandas,60455,32143,13.81
+ls-1962,LS,India,1962,1962,official,350,Alwar,GEN,Rajasthan,268831,IND,Kashi Ram,124427,INC,Sobha Ram,101311,23116,8.6
+ls-1962,LS,India,1962,1962,official,351,Banswara,GEN,Rajasthan,251933,INC,Ratan Lal,104053,SWA,Kaluram,82879,21174,8.4
+ls-1962,LS,India,1962,1962,official,352,Barmer,GEN,Rajasthan,193451,RRP,Tan Singh,100395,INC,Onkar Singh,82684,17711,9.16
+ls-1962,LS,India,1962,1962,official,353,Bharatpur,GEN,Rajasthan,277947,INC,Raj Bahadur,90686,SWA,Man Singh,78795,11891,4.28
+ls-1962,LS,India,1962,1962,official,354,Bhilwara,GEN,Rajasthan,165069,INC,Kalu Lal Shrimali,82388,IND,Sheodan Singh,40218,42170,25.55
+ls-1962,LS,India,1962,1962,official,355,Bikaner,GEN,Rajasthan,251586,IND,Karni Singh,176590,CPI,Kishna Ram,13473,163117,64.84
+ls-1962,LS,India,1962,1962,official,356,Chittorgarh,GEN,Rajasthan,173458,INC,Manikyalal,84563,BJS,Madanlal,64541,20022,11.54
+ls-1962,LS,India,1962,1962,official,357,Dausa,GEN,Rajasthan,242504,SWA,Prithvi Raj,152902,INC,Narainsingh,63206,89696,36.99
+ls-1962,LS,India,1962,1962,official,358,Ganganagar,GEN,Rajasthan,337914,INC,Panna Lal,134133,IND,Ram Chandra,74513,59620,17.64
+ls-1962,LS,India,1962,1962,official,359,Hindaun,GEN,Rajasthan,260082,INC,Tika Ram,117116,RRP,Raghubir Singh,68011,49105,18.88
+ls-1962,LS,India,1962,1962,official,360,Jaipur,GEN,Rajasthan,250272,SWA,Gayatri Devi W/O Sawai Mansingh,192909,INC,Sharda Devi,35217,157692,63.01
+ls-1962,LS,India,1962,1962,official,361,Jalore,GEN,Rajasthan,163957,INC,Harish Chandra,75773,IND,Babu Lal,30788,44985,27.44
+ls-1962,LS,India,1962,1962,official,362,Jhalawar,GEN,Rajasthan,192293,INC,Brij Raj Singh,130887,BJS,Gajendra Singh,43895,86992,45.24
+ls-1962,LS,India,1962,1962,official,363,Jhunjhunu,GEN,Rajasthan,268313,INC,Radheyshyam Ramkumar Morarka,81051,SWA,Raghubir Singh,77591,3460,1.29
+ls-1962,LS,India,1962,1962,official,364,Jodhpur,GEN,Rajasthan,273367,IND,Laxmi Mal Singhavi,113445,INC,Narendra Kumar Sanghi,111811,1634,0.6
+ls-1962,LS,India,1962,1962,official,365,Kota,GEN,Rajasthan,204153,BJS,Unkar Lal,96421,INC,Onkar Lal,82716,13705,6.71
+ls-1962,LS,India,1962,1962,official,366,Nagaur,GEN,Rajasthan,274683,INC,Surendra Kumar Dey,130166,IND,Madan Singh,99282,30884,11.24
+ls-1962,LS,India,1962,1962,official,367,Pali,GEN,Rajasthan,219467,INC,Jaswant Raj Mehta,99720,SWA,Chiman Singh,80461,19259,8.78
+ls-1962,LS,India,1962,1962,official,368,Sawai Madhopur,GEN,Rajasthan,262177,SWA,Kesar Lal,149543,INC,Jagannath Prasad,82771,66772,25.47
+ls-1962,LS,India,1962,1962,official,369,Sikar,GEN,Rajasthan,254228,INC,Rameshwarlal Tantia,88826,BJS,Sagar Mal,55719,33107,13.02
+ls-1962,LS,India,1962,1962,official,370,Udaipur,GEN,Rajasthan,174570,INC,Dhuleshwar,79831,SWA,Ram Singh,54615,25216,14.44
+ls-1962,LS,India,1962,1962,official,371,Tripura East,GEN,Tripura,153917,CPI,Dasaratha Deb,77539,INC,Jitendra Mohan Deb Barma,67491,10048,6.53
+ls-1962,LS,India,1962,1962,official,372,Tripura West,GEN,Tripura,165168,CPI,Birendra Chandra Dutta,86084,INC,Sukhamoy Sen Gupta,69095,16989,10.29
+ls-1962,LS,India,1962,1962,official,373,Agra,GEN,Uttar Pradesh,266870,INC,Seth Achal Singh,128849,REP,Haider Bux,74498,54351,20.37
+ls-1962,LS,India,1962,1962,official,374,Akbarpur,GEN,Uttar Pradesh,205503,INC,Panna Lal,80727,IND,Bharose,35481,45246,22.02
+ls-1962,LS,India,1962,1962,official,375,Aligarh,GEN,Uttar Pradesh,242152,REP,B. P. Maurya,73571,IND,Shiv Kumar,70546,3025,1.25
+ls-1962,LS,India,1962,1962,official,376,Allahabad,GEN,Uttar Pradesh,236488,INC,Lal Bahadur Shastri,137324,BJS,Ram Gopal Sand,68791,68533,28.98
+ls-1962,LS,India,1962,1962,official,377,Almora,GEN,Uttar Pradesh,105501,INC,Jang Bahadur Singh,51507,BJS,Pratap Singh,24509,26998,25.59
+ls-1962,LS,India,1962,1962,official,378,Amroha,GEN,Uttar Pradesh,218385,INC,Hifzul Rahman,64022,BJS,Hardev Sahai,46830,17192,7.87
+ls-1962,LS,India,1962,1962,official,379,Azamgarh,GEN,Uttar Pradesh,211873,INC,Ram Harkh,74576,PSP,Vishram Rai,63180,11396,5.38
+ls-1962,LS,India,1962,1962,official,380,Bahraich,GEN,Uttar Pradesh,168762,SWA,Kunwar Ram Singh,75544,INC,Jogendra Singh,73319,2225,1.32
+ls-1962,LS,India,1962,1962,official,381,Ballia,GEN,Uttar Pradesh,211929,INC,Murli Manohar,106245,PSP,Baijnath,70452,35793,16.89
+ls-1962,LS,India,1962,1962,official,382,Balrampur,GEN,Uttar Pradesh,236023,INC,Subhadra Joshi,102260,BJS,Atal Behari Bajpai,100208,2052,0.87
+ls-1962,LS,India,1962,1962,official,383,Banda,GEN,Uttar Pradesh,125405,INC,Savitri Nigam,45919,PSP,Jamuna Prasad,32238,13681,10.91
+ls-1962,LS,India,1962,1962,official,384,Bansgaon,GEN,Uttar Pradesh,172202,INC,Mahadeo Prasad,72894,PSP,Patras,23844,49050,28.48
+ls-1962,LS,India,1962,1962,official,385,Bansi,GEN,Uttar Pradesh,187404,INC,Sheo Narain,97816,SWA,Har Nath Prasad,45061,52755,28.15
+ls-1962,LS,India,1962,1962,official,386,Barabanki,GEN,Uttar Pradesh,223476,SOC,Ram Sewak Yadav,76545,INC,Husain Kamil Kidwai,76224,321,0.14
+ls-1962,LS,India,1962,1962,official,387,Bareilly,GEN,Uttar Pradesh,185844,BJS,Brijraj Singh,60771,INC,Satish Chandra,49421,11350,6.11
+ls-1962,LS,India,1962,1962,official,388,Basti,GEN,Uttar Pradesh,203533,INC,Keshava Deva Malaviya,90735,BJS,K. K. K. Nayar,71814,18921,9.3
+ls-1962,LS,India,1962,1962,official,389,Bijnor,GEN,Uttar Pradesh,254070,IND,Prakash Vir Shastri,125777,INC,Abdul Lateef,76584,49193,19.36
+ls-1962,LS,India,1962,1962,official,390,Bilhaur,GEN,Uttar Pradesh,221174,INC,Brij Behari Mehrotra,63841,PSP,Ram Gopal Singh,57975,5866,2.65
+ls-1962,LS,India,1962,1962,official,391,Bisauli,GEN,Uttar Pradesh,188008,INC,Ansar Harvani,60946,BJS,Manohar Singh Yadav,43783,17163,9.13
+ls-1962,LS,India,1962,1962,official,392,Budaun,GEN,Uttar Pradesh,212595,BJS,Omkar Singh,68563,SWA,Mir Sarwar Ali,51778,16785,7.9
+ls-1962,LS,India,1962,1962,official,393,Bulandsahar,GEN,Uttar Pradesh,248782,INC,Surendra Pal Singh,79925,PSP,Nem Pal Singh,62971,16954,6.81
+ls-1962,LS,India,1962,1962,official,394,Chail,GEN,Uttar Pradesh,158572,INC,Masuriya Din,67251,BJS,Panna Lal,33372,33879,21.37
+ls-1962,LS,India,1962,1962,official,395,Chandauli,GEN,Uttar Pradesh,230074,INC,Bal Krishna,85117,SOC,Prabhu Narain Singh,83332,1785,0.78
+ls-1962,LS,India,1962,1962,official,396,Dehra Dun,GEN,Uttar Pradesh,238996,INC,Mahavir Tyagi,121618,BJS,Sushila Devi,47226,74392,31.13
+ls-1962,LS,India,1962,1962,official,397,Deoria,GEN,Uttar Pradesh,199796,INC,Vaishwanath,80195,PSP,Asoka Ranjitram Mehta,60954,19241,9.63
+ls-1962,LS,India,1962,1962,official,398,Domariyaganj,GEN,Uttar Pradesh,206852,INC,Kripa Shanker,76941,BJS,Madhava Prasad Tripathi,75362,1579,0.76
+ls-1962,LS,India,1962,1962,official,399,Etah,GEN,Uttar Pradesh,224638,HMS,Bishan Chandra Seth,56392,INC,Roshan Lal Chaturvedi,45778,10614,4.72
+ls-1962,LS,India,1962,1962,official,400,Etawah,GEN,Uttar Pradesh,238812,INC,Gopi Nath Dikshit,66017,SOC,Arjun Singh,62878,3139,1.31
+ls-1962,LS,India,1962,1962,official,401,Faizabad,GEN,Uttar Pradesh,189201,INC,Brij Basi Lal,75939,BJS,Rajendra Bahadur Singh,65087,10852,5.74
+ls-1962,LS,India,1962,1962,official,402,Farrukhabad,GEN,Uttar Pradesh,241545,INC,Mul Chand,79621,PSP,Bharat Singh Rathore,65343,14278,5.91
+ls-1962,LS,India,1962,1962,official,403,Fatehpur Sikri,GEN,Uttar Pradesh,172449,IND,Gauri Shankar Alias Gauri Babu,91251,INC,Balkrishna Vishwanath Keskar,61998,29253,16.96
+ls-1962,LS,India,1962,1962,official,404,Firozabad,GEN,Uttar Pradesh,215977,INC,Shambhu Nath Chaturvedi,64145,REP,Data Ram Gorakh,50906,13239,6.13
+ls-1962,LS,India,1962,1962,official,405,Garhwal,GEN,Uttar Pradesh,141408,INC,Bhakta Darshan,67959,IND,Chandra Singh Garhwali,34182,33777,23.89
+ls-1962,LS,India,1962,1962,official,406,Ghatampur,GEN,Uttar Pradesh,211415,INC,Tula Ram,87158,SOC,Janki Prasad,65162,21996,10.4
+ls-1962,LS,India,1962,1962,official,407,Ghazipur,GEN,Uttar Pradesh,209831,INC,Viswanath Singh Gahmari,77046,CPI,Har Prasad,40183,36863,17.57
+ls-1962,LS,India,1962,1962,official,408,Ghosi,GEN,Uttar Pradesh,236035,CPI,Jai Bahadur,71453,INC,Kalika Singh,62761,8692,3.68
+ls-1962,LS,India,1962,1962,official,409,Gonda,GEN,Uttar Pradesh,196479,INC,Ram Ratan Gupta,80937,SWA,Dandekar Narayan,80439,498,0.25
+ls-1962,LS,India,1962,1962,official,410,Gorakhpur,GEN,Uttar Pradesh,201558,INC,Sinhasan Singh,68258,HMS,Digvijai Nath,64998,3260,1.62
+ls-1962,LS,India,1962,1962,official,411,Hamirpur,GEN,Uttar Pradesh,207644,INC,Mannoo Lal Dwivedi,99375,PSP,Udit Narayan,71691,27684,13.33
+ls-1962,LS,India,1962,1962,official,412,Hapur,GEN,Uttar Pradesh,234925,INC,Kamla Chaudhry,81999,IND,Naseem,53366,28633,12.19
+ls-1962,LS,India,1962,1962,official,413,Hardoi,GEN,Uttar Pradesh,186391,INC,Kindar Lal,71883,BJS,Shiva Deen,48573,23310,12.51
+ls-1962,LS,India,1962,1962,official,414,Hata,GEN,Uttar Pradesh,216507,INC,Kashi Nath Pandey,109999,BJS,Vasudeo Pratap Narain Singh,43694,66305,30.62
+ls-1962,LS,India,1962,1962,official,415,Hathras,GEN,Uttar Pradesh,241914,REP,Joti Sarup,86163,INC,Nar Deo,83514,2649,1.1
+ls-1962,LS,India,1962,1962,official,416,Jalaun,GEN,Uttar Pradesh,235882,INC,Ram Sewak,100530,PSP,Jwala Prasad Ahirwar,65224,35306,14.97
+ls-1962,LS,India,1962,1962,official,417,Jalesar,GEN,Uttar Pradesh,237547,SWA,Krishnapal Singh Rao,86318,INC,Raghubir Singh,62970,23348,9.83
+ls-1962,LS,India,1962,1962,official,418,Jaunpur,GEN,Uttar Pradesh,239263,BJS,Brahmjeet,104687,INC,Birbal Singh,96750,7937,3.32
+ls-1962,LS,India,1962,1962,official,419,Jhansi,GEN,Uttar Pradesh,196979,INC,Shushila Nayar,89445,CPI,Panna Lal,78355,11090,5.63
+ls-1962,LS,India,1962,1962,official,420,Kaimganj,GEN,Uttar Pradesh,234144,INC,Prem Kishan Khanna,70014,PSP,Kabir Shah,55527,14487,6.19
+ls-1962,LS,India,1962,1962,official,421,Kairana,GEN,Uttar Pradesh,278143,IND,Yashpal Singh,134575,INC,Ajit Prasad Jain,81140,53435,19.21
+ls-1962,LS,India,1962,1962,official,422,Kaiserganj,GEN,Uttar Pradesh,178681,SWA,Basant Kunwari,109907,INC,Bhagwandin,68774,41133,23.02
+ls-1962,LS,India,1962,1962,official,423,Kanpur,GEN,Uttar Pradesh,261317,IND,S. M. Banerjee,139039,INC,Bejoy Kumar Sinha,80934,58105,22.24
+ls-1962,LS,India,1962,1962,official,424,Kheri,GEN,Uttar Pradesh,180276,INC,Balgovind,83689,PSP,Khushwaqt Rai Alias Bhaiya Lal,46710,36979,20.51
+ls-1962,LS,India,1962,1962,official,425,Khurja,GEN,Uttar Pradesh,225760,INC,Kanhaiya Lal Balmiki,101042,PSP,Yad Ram,72742,28300,12.54
+ls-1962,LS,India,1962,1962,official,426,Lalganj,GEN,Uttar Pradesh,201897,PSP,Vishram Prasad,75683,INC,Shri Nath Ji,55136,20547,10.18
+ls-1962,LS,India,1962,1962,official,427,Lucknow,GEN,Uttar Pradesh,231184,INC,B. K. Dhaon,116637,BJS,Atal Behari Bajpai,86620,30017,12.98
+ls-1962,LS,India,1962,1962,official,428,Machhlishahr,GEN,Uttar Pradesh,235232,INC,Ganpat Ram,101558,BJS,Mahadeo,79630,21928,9.32
+ls-1962,LS,India,1962,1962,official,429,Maharajganj,GEN,Uttar Pradesh,181144,INC,Mahadeo Prasad,95469,SOC,Shibban Lal Saxena,71098,24371,13.45
+ls-1962,LS,India,1962,1962,official,430,Mainpuri,GEN,Uttar Pradesh,238578,INC,Badshah Gupta,52328,CPI,Ram Nath,51524,804,0.34
+ls-1962,LS,India,1962,1962,official,431,Marodabad,GEN,Uttar Pradesh,236555,REP,Muzaffar,69171,BJS,Brij Bhusan Saran Bansal,57138,12033,5.09
+ls-1962,LS,India,1962,1962,official,432,Mathura,GEN,Uttar Pradesh,237491,INC,Chaudhari Digamber Singh,78062,IND,Raja Mahendra Pratap,51178,26884,11.32
+ls-1962,LS,India,1962,1962,official,433,Meerut,GEN,Uttar Pradesh,251724,INC,Shah Nawaz Khan,133172,SOC,Maharaj Singh Bharti,88017,45155,17.94
+ls-1962,LS,India,1962,1962,official,434,Mirzapur,GEN,Uttar Pradesh,230133,INC,Shyamdhar Misra,88408,BJS,Murlidhar,72553,15855,6.89
+ls-1962,LS,India,1962,1962,official,435,Misrikh,GEN,Uttar Pradesh,207178,BJS,Gokaran,89433,INC,Bhawani Prasad,80516,8917,4.3
+ls-1962,LS,India,1962,1962,official,436,Mohanlalganj,GEN,Uttar Pradesh,183481,INC,Ganga Devi,78752,BJS,Ram Baksh,34542,44210,24.1
+ls-1962,LS,India,1962,1962,official,437,Musafirkhana,GEN,Uttar Pradesh,161209,INC,Kunwar Rananjai Singh,77869,SOC,Jagroop,27675,50194,31.14
+ls-1962,LS,India,1962,1962,official,438,Muzaffarnagar,GEN,Uttar Pradesh,218787,INC,Sumat Prasad,74725,PSP,Latafat Ali Khan,57004,17721,8.1
+ls-1962,LS,India,1962,1962,official,439,Nainital,GEN,Uttar Pradesh,231134,INC,Krishna Chandra Pant Alias Raja,113083,PSP,Sybil Khan,48440,64643,27.97
+ls-1962,LS,India,1962,1962,official,440,Phulpur,GEN,Uttar Pradesh,192994,INC,Jawahar Lal Nehru,118931,SOC,Ram Manohar Lohia,54360,64571,33.46
+ls-1962,LS,India,1962,1962,official,441,Pilibhit,GEN,Uttar Pradesh,201312,PSP,Mohan Swaroop,59624,INC,Makund Lal,55192,4432,2.2
+ls-1962,LS,India,1962,1962,official,442,Pratapgarh,GEN,Uttar Pradesh,201132,BJS,Ajit Pratap Singh,96483,INC,Munishwar Dutt Upadhya,72779,23704,11.79
+ls-1962,LS,India,1962,1962,official,443,Rae Bareli,GEN,Uttar Pradesh,200243,INC,Baijnath Kureel,77435,BJS,Taravati,63167,14268,7.13
+ls-1962,LS,India,1962,1962,official,444,Rampur,GEN,Uttar Pradesh,197495,INC,Ahmad Mahdi,92636,BJS,Shanti Sharan,48941,43695,22.12
+ls-1962,LS,India,1962,1962,official,445,Ramsanehighat,GEN,Uttar Pradesh,199301,INC,Swami Rama Nand,72633,BJS,Bhagirath,70707,1926,0.97
+ls-1962,LS,India,1962,1962,official,446,Rasra,GEN,Uttar Pradesh,227568,CPI,Sarjoo Pandey,88253,INC,Siddheshwar Prasad Singh,79474,8779,3.86
+ls-1962,LS,India,1962,1962,official,447,Robertsganj,GEN,Uttar Pradesh,174940,INC,Ram Sarup,83280,BJS,Sarabjit,57439,25841,14.77
+ls-1962,LS,India,1962,1962,official,448,Saharanpur,GEN,Uttar Pradesh,233953,INC,Sunder Lal,104709,BJS,Mam Raj,48359,56350,24.09
+ls-1962,LS,India,1962,1962,official,449,Salempur,GEN,Uttar Pradesh,200008,INC,Vishwanath Pandey,66351,SOC,Raj Kumar,41868,24483,12.24
+ls-1962,LS,India,1962,1962,official,450,Salon,GEN,Uttar Pradesh,188980,INC,Raja Dinesh Singh,92336,SOC,Jai Ram,58777,33559,17.76
+ls-1962,LS,India,1962,1962,official,451,Sardhana,GEN,Uttar Pradesh,248030,INC,Krishan Chandra Sharma,85500,IND,Raghuvir Singh,70831,14669,5.91
+ls-1962,LS,India,1962,1962,official,452,Shahabad,GEN,Uttar Pradesh,210892,BJS,Yuvraj Dutt Singh,91972,INC,Chheda Lal,84672,7300,3.46
+ls-1962,LS,India,1962,1962,official,453,Shahjahanpur,GEN,Uttar Pradesh,166446,IND,Lakhan Das,66433,INC,Narain Din Balmiki,48458,17975,10.8
+ls-1962,LS,India,1962,1962,official,454,Sitapur,GEN,Uttar Pradesh,212444,BJS,Suraj Lal,76242,INC,Dinesh Pratap Singh,72865,3377,1.59
+ls-1962,LS,India,1962,1962,official,455,Sultanpur,GEN,Uttar Pradesh,163689,INC,Kunwar Krishna,87918,BJS,Bechu Singh,55367,32551,19.89
+ls-1962,LS,India,1962,1962,official,456,Tehri Garhwal,GEN,Uttar Pradesh,0,INC,Manabendra Shah,0,,,,0,
+ls-1962,LS,India,1962,1962,official,457,Unnao,GEN,Uttar Pradesh,188195,INC,Krishna Deo Alias Munnoo,73340,BJS,Birpal Singh,29204,44136,23.45
+ls-1962,LS,India,1962,1962,official,458,Varanasi,GEN,Uttar Pradesh,261717,INC,Raghunath Singh,104682,BJS,Raghuvira,58775,45907,17.54
+ls-1962,LS,India,1962,1962,official,459,Asansol,GEN,West Bengal,182389,INC,Atulya Ghosh,70835,CPI,Ket Narayan Misra,61991,8844,4.85
+ls-1962,LS,India,1962,1962,official,460,Ausgram,GEN,West Bengal,224404,INC,Mono Mohan Das,114829,CPI,Krishna Chandra Halder,91140,23689,10.56
+ls-1962,LS,India,1962,1962,official,461,Balurghat,GEN,West Bengal,264760,CPI,Sarkar Murmu,137290,INC,Shelku Mardi,127470,9820,3.71
+ls-1962,LS,India,1962,1962,official,462,Bankura,GEN,West Bengal,146060,INC,Ramgati Bandopadhyay,74674,PSP,Kanai Lal De,47230,27444,18.79
+ls-1962,LS,India,1962,1962,official,463,Barasat,GEN,West Bengal,375544,INC,Arun Chandra Guha,188398,CPI,Bhowani Sankar Sengupta,141595,46803,12.46
+ls-1962,LS,India,1962,1962,official,464,Barrackpore,GEN,West Bengal,396642,CPI,Renu Chakraborty,228318,INC,Ram Dhari Singh,133894,94424,23.81
+ls-1962,LS,India,1962,1962,official,465,Basirhat,GEN,West Bengal,311635,INC,Humayun Kabir,167476,CPI,Abdur Razzak Khan,113417,54059,17.35
+ls-1962,LS,India,1962,1962,official,466,Berhampore,GEN,West Bengal,290749,RSP,Tridib Kumar Chaudhuri,159119,INC,Khondekar Nazrul Haque,131630,27489,9.45
+ls-1962,LS,India,1962,1962,official,467,Birbhum,GEN,West Bengal,172811,INC,Sisir Kumar Saha,74573,AIFB,Mrityunjay Mandal,42169,32404,18.75
+ls-1962,LS,India,1962,1962,official,468,Burdwan,GEN,West Bengal,278500,INC,Gurugobinda Basu,155485,AIFB,Subiman Ghose,123015,32470,11.66
+ls-1962,LS,India,1962,1962,official,469,Contai,GEN,West Bengal,323033,INC,Basanta Kumar Das,187548,PSP,Prafulla Chandra Ghosh,102140,85408,26.44
+ls-1962,LS,India,1962,1962,official,470,Cooch Behar,GEN,West Bengal,251112,AIFB,Debendra Nath Karjee,141436,INC,Upendra Nath Barman,109676,31760,12.65
+ls-1962,LS,India,1962,1962,official,471,Darjeeling,GEN,West Bengal,188758,INC,T. Manaen,66129,CPI,Ratan Lal Brahman,57702,8427,4.46
+ls-1962,LS,India,1962,1962,official,472,Diamond Harbour,GEN,West Bengal,320683,INC,Sudhanshu Bhushan Das,152540,CPI,Kamal Kumar Basu,133400,19140,5.97
+ls-1962,LS,India,1962,1962,official,473,Ghatal,GEN,West Bengal,334301,INC,Sachindra Nath Choudhury,179045,CPI,Manoranjan Roy,148207,30838,9.22
+ls-1962,LS,India,1962,1962,official,474,Hooghly,GEN,West Bengal,312754,CPI,Provat Kar,108359,INC,Nirmal Kumar Sen,105716,2643,0.85
+ls-1962,LS,India,1962,1962,official,475,Howrah,GEN,West Bengal,325290,CPI,Mohammad Elias,137812,INC,Krishna Kumar Chatterji,133876,3936,1.21
+ls-1962,LS,India,1962,1962,official,476,Jalpaiguri,GEN,West Bengal,259518,INC,Nalini Ranjan Ghosh,117814,RSP,Saroj Kumar Chakrabarty,93221,24593,9.48
+ls-1962,LS,India,1962,1962,official,477,Jhargram,GEN,West Bengal,208301,INC,Subodh Hansda,101784,CPI,Gopinath Saren,56425,45359,21.78
+ls-1962,LS,India,1962,1962,official,478,Joynagar,GEN,West Bengal,285973,INC,Paresh Nath Kayal,152372,CPI,Sailendra Nath Haldar,133601,18771,6.56
+ls-1962,LS,India,1962,1962,official,479,Katwa,GEN,West Bengal,268322,CPI,Saradish Roy,151794,INC,Anil Kumar Chanda,116528,35266,13.14
+ls-1962,LS,India,1962,1962,official,480,Kolkata Central,GEN,West Bengal,265854,CPI,Hirendra Nath Mukherjee,154772,INC,Balai Chandra Pal,111082,43690,16.43
+ls-1962,LS,India,1962,1962,official,481,Kolkata East,GEN,West Bengal,315871,CPI,Ranendra Nath Sen,179669,INC,Sailendra Nath Mukherjee,136202,43467,13.76
+ls-1962,LS,India,1962,1962,official,482,Kolkata North West,GEN,West Bengal,263539,INC,Asoke Kumar Sen,143725,CPI,Snehangshu Kanta Acharyya,110347,33378,12.67
+ls-1962,LS,India,1962,1962,official,483,Kolkata South West,GEN,West Bengal,287482,CPI,Indrajit Gupta,143918,INC,Ismail Ibrahim,132928,10990,3.82
+ls-1962,LS,India,1962,1962,official,484,Malda,GEN,West Bengal,231692,INC,Renuka Ray,101336,IND,Haji Abdus Sattar,65515,35821,15.46
+ls-1962,LS,India,1962,1962,official,485,Mathurapur,GEN,West Bengal,326790,INC,Purnendu Sekhar Naskar,167028,CPI,Kansari Halder,159762,7266,2.22
+ls-1962,LS,India,1962,1962,official,486,Medinipur,GEN,West Bengal,265495,INC,Gobinda Kumar Singhu,131291,CPI,Soroj Roy,93872,37419,14.09
+ls-1962,LS,India,1962,1962,official,487,Murshidabad,GEN,West Bengal,217103,IND,Syed Badrudduja,102067,INC,Abdus Sattar,82231,19836,9.14
+ls-1962,LS,India,1962,1962,official,488,Nabadwip,GEN,West Bengal,292501,IND,Haripada Chattopadhyay,152869,INC,Ila Pal Choudhuri,139632,13237,4.53
+ls-1962,LS,India,1962,1962,official,489,Purulia,GEN,West Bengal,163476,LSS,Bhajahari Mahato,68295,INC,Sagar Chandra Mahato,60882,7413,4.53
+ls-1962,LS,India,1962,1962,official,490,Raiganj,GEN,West Bengal,192432,INC,Chapala Kanta Bhattacharjee,81795,CPI,Asoke Nath Sen,52392,29403,15.28
+ls-1962,LS,India,1962,1962,official,491,Srerampur,GEN,West Bengal,335122,CPI,Dinendra Nath Bhattacharya,172992,INC,Jitendra Nath Lahiri,162130,10862,3.24
+ls-1962,LS,India,1962,1962,official,492,Tamluk,GEN,West Bengal,354034,INC,Satis Chandra Samanta,189020,AIFB,Gobinda Chandra Bhowmick,152399,36621,10.34
+ls-1962,LS,India,1962,1962,official,493,Uluberia,GEN,West Bengal,294536,INC,Punendu Khan,143195,AIFB,Aurobindo Ghosal,132220,10975,3.73
+ls-1962,LS,India,1962,1962,official,494,Vishnupur,GEN,West Bengal,205718,INC,Pashupati Mandal,108908,CPI,Biswanath Bauri,56657,52251,25.4

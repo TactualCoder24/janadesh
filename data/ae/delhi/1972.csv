@@ -1,0 +1,57 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-delhi-1972,AE,Delhi,1972,1972,official,1,Sarojini Nagar,GEN,,19766,INC,P. N. Singh,10441,BJS,Ram Bhaj,9325,1116,5.65
+ae-delhi-1972,AE,Delhi,1972,1972,official,2,Lakshmi Bai Nagar,GEN,,17773,INC,Arjun Das,10878,BJS,Kidar Nath Sachdeva,6726,4152,23.36
+ae-delhi-1972,AE,Delhi,1972,1972,official,3,Gole Market,GEN,,18526,INC,Asoke Chatterjee,7909,BJS,Mohinder Pal Chawla,4743,3166,17.09
+ae-delhi-1972,AE,Delhi,1972,1972,official,4,Prithvi Raj Road,GEN,,15378,INC,Pushpa Devi Gupta,9105,BJS,Raj Wadhwa,5982,3123,20.31
+ae-delhi-1972,AE,Delhi,1972,1972,official,5,Bara Khamba,GEN,,14959,INC,A. L. Ralia Ram,10271,BJS,Om Prakash Sharma,4460,5811,38.85
+ae-delhi-1972,AE,Delhi,1972,1972,official,6,Minto Road,GEN,,12633,INC,Surinder Saini,7536,BJS,Vinod Bhushan Srivastva,3082,4454,35.26
+ae-delhi-1972,AE,Delhi,1972,1972,official,7,Jangpura,GEN,,18093,INC,Jag Pravesh Chander,10507,BJS,Inder Mohan Sehgal,7338,3169,17.52
+ae-delhi-1972,AE,Delhi,1972,1972,official,8,Kasturba Nagar,SC,,21445,INC,C. L. Balmiki,12578,BJS,Sanwal Das,8183,4395,20.49
+ae-delhi-1972,AE,Delhi,1972,1972,official,9,Lajpat Nagar,GEN,,35744,INC,Archna,17908,BJS,Ram Lal Verma,16781,1127,3.15
+ae-delhi-1972,AE,Delhi,1972,1972,official,10,Kalkaji,GEN,,40034,INC,V. P. Singh,24570,BJS,S. P. Bannerji,14887,9683,24.19
+ae-delhi-1972,AE,Delhi,1972,1972,official,11,Ramakrishnapuram,GEN,,55236,INC,Jagdish Chander,31395,BJS,Onkar Singh,22469,8926,16.16
+ae-delhi-1972,AE,Delhi,1972,1972,official,12,Delhi Cantonment,GEN,,15123,INC,Brij Lal Dua,11316,BJS,Dev Raj Sood,3807,7509,49.65
+ae-delhi-1972,AE,Delhi,1972,1972,official,13,Rajinder Nagar,GEN,,33344,INC,Thakur Das,16968,BJS,Ram Nath Vij,16073,895,2.68
+ae-delhi-1972,AE,Delhi,1972,1972,official,14,Ashok Nagar,GEN,,29757,INC,Rajander Kumar Tanwar,16948,BJS,Lok Vir Singh,12405,4543,15.27
+ae-delhi-1972,AE,Delhi,1972,1972,official,15,Subhash Nagar,GEN,,43667,INC,Manmohan Singh,23283,BJS,Devki Nandan Shastri,19195,4088,9.36
+ae-delhi-1972,AE,Delhi,1972,1972,official,16,Moti Nagar,GEN,,37624,INC,K. C. Malik,19410,BJS,Tilak Raj Verma,17532,1878,4.99
+ae-delhi-1972,AE,Delhi,1972,1972,official,17,Shakur Basti,GEN,,47943,CPI,Sri Chand,27630,BJS,Banarsi Das,18343,9287,19.37
+ae-delhi-1972,AE,Delhi,1972,1972,official,18,Badli,SC,,28696,INC,Mool Chand,17194,BJS,Roshan Lal,8817,8377,29.19
+ae-delhi-1972,AE,Delhi,1972,1972,official,19,Narela,GEN,,22640,INC,Heera Singh,12744,BJS,Babu Ram Tyagi,8405,4339,19.17
+ae-delhi-1972,AE,Delhi,1972,1972,official,20,Bawana,GEN,,23049,IND,Tek Chand,11828,INC,Ram Singh,6870,4958,21.51
+ae-delhi-1972,AE,Delhi,1972,1972,official,21,Nangloi,GEN,,33465,INC,Bharat Singh,18633,BJS,Sunder Singh,8917,9716,29.03
+ae-delhi-1972,AE,Delhi,1972,1972,official,22,Najaf Garh,GEN,,24236,INC,Mukam Singh,7318,IND,Suraj Bhan,7266,52,0.21
+ae-delhi-1972,AE,Delhi,1972,1972,official,23,Palam,GEN,,22650,INC,Mange Ram,13007,BJS,Ram Dhan,4906,8101,35.77
+ae-delhi-1972,AE,Delhi,1972,1972,official,24,Tughlakabad,SC,,34001,INC,Prem Singh,16407,BJS,Kalka Dass,15268,1139,3.35
+ae-delhi-1972,AE,Delhi,1972,1972,official,25,Geeta Colony,GEN,,29190,INC,Brij Lal Goswami,15418,BJS,Amar Chand Shnbh,13137,2281,7.81
+ae-delhi-1972,AE,Delhi,1972,1972,official,26,Gandhi Nagar,GEN,,40438,INC,Inder Singh Azad,21646,BJS,Som Nath,17569,4077,10.08
+ae-delhi-1972,AE,Delhi,1972,1972,official,27,Shahdara,GEN,,30972,INC,Ram Narain,17373,BJS,Parmeshwari Dass,12474,4899,15.82
+ae-delhi-1972,AE,Delhi,1972,1972,official,28,Ghonda,GEN,,50639,INC,Hargain Singh,28315,BJS,Devki Nandan Sharma,17534,10781,21.29
+ae-delhi-1972,AE,Delhi,1972,1972,official,29,Vijay Nagar,GEN,,33747,INC,B.D. Wadhwa,20532,BJS,Sikander Lal,12386,8146,24.14
+ae-delhi-1972,AE,Delhi,1972,1972,official,30,Kamla Nagar,GEN,,19568,INC,Purushotam Lal Goel,10457,BJS,Prem Chand Gupta,8734,1723,8.81
+ae-delhi-1972,AE,Delhi,1972,1972,official,31,Timarpur,GEN,,25842,INC,Amar Nath Malhotra,14456,BJS,Uttam Prakash Bansal,11165,3291,12.74
+ae-delhi-1972,AE,Delhi,1972,1972,official,32,Kashmere Gate,GEN,,14518,INC,Om Prakash Behl,9791,BJS,Bhagwant Kishore,4618,5173,35.63
+ae-delhi-1972,AE,Delhi,1972,1972,official,33,Chandni Chowk,GEN,,19293,INC,Rama Shanker,10055,BJS,Janardhan Gupta,8651,1404,7.28
+ae-delhi-1972,AE,Delhi,1972,1972,official,34,Darya Ganj,GEN,,16272,BJS,Dalit Kumar Tandan,8063,INC,Du Choudhary,7951,112,0.69
+ae-delhi-1972,AE,Delhi,1972,1972,official,35,Dariba,GEN,,18720,INC,Mehtab Chand Jain,9603,BJS,Kishan Lal,8849,754,4.03
+ae-delhi-1972,AE,Delhi,1972,1972,official,36,Matia Mahal,GEN,,20816,NCO,Sikander Bakht,6495,IND,Mohammed Zafar Ali,5924,571,2.74
+ae-delhi-1972,AE,Delhi,1972,1972,official,37,Chawri Bazar,GEN,,20986,BJS,Anwar Ali Dhehlvi,10625,INC,Chander Bhan Khandelwal,9782,843,4.02
+ae-delhi-1972,AE,Delhi,1972,1972,official,38,Balli Maran,GEN,,18044,IND,Mohd. Ahmed,6207,CPI,Sarla Sharma,5755,452,2.5
+ae-delhi-1972,AE,Delhi,1972,1972,official,39,Ajmeri Gate,GEN,,17068,INC,Mirza Siddiq Ali,6361,IND,Shagiqur Rahmanan,5629,732,4.29
+ae-delhi-1972,AE,Delhi,1972,1972,official,40,Kalan Masjid,GEN,,17647,NCO,Rajesh Sharma,4140,INC,Devkinandna Sharma,3911,229,1.3
+ae-delhi-1972,AE,Delhi,1972,1972,official,41,Pahar Ganj,GEN,,22573,BJS,Madan Lal Khurana,11692,INC,Amar Nath,10881,811,3.59
+ae-delhi-1972,AE,Delhi,1972,1972,official,42,Ramnagar,GEN,,23919,INC,Satya Prakash,13387,BJS,Govind Ram Verma,9961,3426,14.32
+ae-delhi-1972,AE,Delhi,1972,1972,official,43,Basti Julahan,SC,,19533,INC,Prabhu Dayal,9642,BJS,Prabhati Lal,8646,996,5.1
+ae-delhi-1972,AE,Delhi,1972,1972,official,44,Qasab Pura,GEN,,21657,INC,Roshan Lal,8042,BJS,Ram Narain Jain,7312,730,3.37
+ae-delhi-1972,AE,Delhi,1972,1972,official,45,Deputy Ganj,GEN,,22666,BJS,Shyam Chanran Gupta,12381,INC,Bhiku Ram Jain,9923,2458,10.84
+ae-delhi-1972,AE,Delhi,1972,1972,official,46,Pratap Nagar,GEN,,18530,INC,Ved Parkash,10304,BJS,Ram Kishan Bhardwaj,7818,2486,13.42
+ae-delhi-1972,AE,Delhi,1972,1972,official,47,Arya Pura,GEN,,20538,CPI,Ram Chander Sharma,10697,BJS,Hem Raj Malhotra,8172,2525,12.29
+ae-delhi-1972,AE,Delhi,1972,1972,official,48,Shakti Nagar,GEN,,20007,INC,Radhey Lal,10629,BJS,Satya Pal Chug,9071,1558,7.79
+ae-delhi-1972,AE,Delhi,1972,1972,official,49,Sarai Rohilla,GEN,,33371,INC,Iqbal Krishna Trehan,21693,BJS,Shyam Sunder Dhingra,9437,12256,36.73
+ae-delhi-1972,AE,Delhi,1972,1972,official,50,Kishan Ganj,GEN,,20350,CPI,B.D. Joshit,10101,BJS,Jawahar Lal Mehra,8472,1629,8.0
+ae-delhi-1972,AE,Delhi,1972,1972,official,51,Motia Khan,GEN,,15144,INC,Bansilal Chauhan,7636,BJS,Banarsi Dass,7406,230,1.52
+ae-delhi-1972,AE,Delhi,1972,1972,official,52,Tibbia College,GEN,,16649,INC,R. P. Mittal,8623,BJS,Jitendra Gupta,7841,782,4.7
+ae-delhi-1972,AE,Delhi,1972,1972,official,53,Rehgarpura,SC,,18833,INC,Sunder Wati N Parbhaker,10283,BJS,Shiv Narain Sarunia,8457,1826,9.7
+ae-delhi-1972,AE,Delhi,1972,1972,official,54,Dev Nagar,SC,,18112,INC,Moti Lal Bokalia,8513,RPI,Babu Lal,5636,2877,15.88
+ae-delhi-1972,AE,Delhi,1972,1972,official,55,Patel Nagar,GEN,,24018,BJS,Vijay Kumar Malhotra,12827,INC,Savita Behan,10928,1899,7.91
+ae-delhi-1972,AE,Delhi,1972,1972,official,56,Anand Parbat,SC,,28322,INC,Krishan Swarup,19397,BJS,Kharak Singh,7485,11912,42.06

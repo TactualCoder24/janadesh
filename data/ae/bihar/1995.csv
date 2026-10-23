@@ -1,0 +1,325 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-bihar-1995,AE,Bihar,1995,1995,official,1,Dhanaha,GEN,,58962,SAP,Vishnu Pr. Kushwaha,13206,IND,Satan Yadav,10100,3106,5.27
+ae-bihar-1995,AE,Bihar,1995,1995,official,2,Bagaha,SC,,111360,JD,Purnamashi Ram,61201,SAP,Kailash Baitha,21422,39779,35.72
+ae-bihar-1995,AE,Bihar,1995,1995,official,3,Ramnagar,GEN,,91084,JD,Ram Prasad Yadav,25554,BJP,Chander Mohan Rai,12871,12683,13.92
+ae-bihar-1995,AE,Bihar,1995,1995,official,4,Shikarpur,SC,,99739,JD,Bhola Ram Toofani,33792,BJP,Subodh Kumar,20698,13094,13.13
+ae-bihar-1995,AE,Bihar,1995,1995,official,5,Sikta,GEN,,100610,CVP,Deelip Varma,50867,JD,Faiazul Azam,32009,18858,18.74
+ae-bihar-1995,AE,Bihar,1995,1995,official,6,Lauria,GEN,,93072,JD,Ran Vijay Shahi,38778,INC,Vishwa Mohan Sharma,32382,6396,6.87
+ae-bihar-1995,AE,Bihar,1995,1995,official,7,Chanpatia,GEN,,91573,CPI,Birbal Sharma,31858,INC,Bharat Rai,15819,16039,17.51
+ae-bihar-1995,AE,Bihar,1995,1995,official,8,Bettiah,GEN,,127898,JD,Birval Yadava,38861,BJP,Dr. Madan Prasad Jaiswal,38356,505,0.39
+ae-bihar-1995,AE,Bihar,1995,1995,official,9,Nautan,GEN,,96890,IND,Satan Yadava,38387,SAP,Baidyanath Pd. Mahto,11435,26952,27.82
+ae-bihar-1995,AE,Bihar,1995,1995,official,10,Raxaul,GEN,,99756,JD,Raj Nandan Rai,24255,BJP,Ajay Kumar Singh,16815,7440,7.46
+ae-bihar-1995,AE,Bihar,1995,1995,official,11,Sugauli,GEN,,108054,IND,Chandra Shekhar Dwiwedi,22492,CPI(M),Ramashray Singh,18552,3940,3.65
+ae-bihar-1995,AE,Bihar,1995,1995,official,12,Motihari,GEN,,116024,CPI,Triveni Tiwary,52684,BJP,Laxman Prasad,33498,19186,16.54
+ae-bihar-1995,AE,Bihar,1995,1995,official,13,Adapur,GEN,,106326,JD,Braj Bihari Prasad,51036,IND,Virendra Prasad,18971,32065,30.16
+ae-bihar-1995,AE,Bihar,1995,1995,official,14,Dhaka,GEN,,112030,BJP,Awnish Kumar Singh,49520,INC,Motiur Rahman,24356,25164,22.46
+ae-bihar-1995,AE,Bihar,1995,1995,official,15,Ghorasahan,GEN,,97008,JD,Lal Babu Prasad,32112,INC,Raj Ku. Prasad,12245,19867,20.48
+ae-bihar-1995,AE,Bihar,1995,1995,official,16,Madhuban,GEN,,106029,JD,Sita Ram Singh,47614,SAP,Krishna Chandra,18705,28909,27.27
+ae-bihar-1995,AE,Bihar,1995,1995,official,17,Pipra,SC,,83520,JD,Sahdeo Paswan,46700,INC,Nandlal Chaudhury,11907,34793,41.66
+ae-bihar-1995,AE,Bihar,1995,1995,official,18,Kesaria,GEN,,101374,CPI,Yamuna Yadav,52003,BPP,Kiran Shukla,26799,25204,24.86
+ae-bihar-1995,AE,Bihar,1995,1995,official,19,Harsidhi,GEN,,109923,JD,Awadhesh Pra. Kush,56262,SAP,Maheshwar Singh,24424,31838,28.96
+ae-bihar-1995,AE,Bihar,1995,1995,official,20,Gobindganj,GEN,,100820,SAP,Devendra Nath Dubey,41128,JD,Jogendra Panday,27273,13855,13.74
+ae-bihar-1995,AE,Bihar,1995,1995,official,21,Kateya,GEN,,108818,JD,Sinheshwar Shahi,45896,INC,Bachcha Chaube,23105,22791,20.94
+ae-bihar-1995,AE,Bihar,1995,1995,official,22,Bhore,SC,,107675,JD,Indradeo Manjhi,45277,BJP,Acharya Vishwnath Baitha,27230,18047,16.76
+ae-bihar-1995,AE,Bihar,1995,1995,official,23,Mirganj,GEN,,103359,CPI(M),Vishwanath Singh,41380,INC,Prabhudayal Singh,20022,21358,20.66
+ae-bihar-1995,AE,Bihar,1995,1995,official,24,Gopalganj,GEN,,99627,JD,Ramawtar,50407,INC,Putul Debi,21502,28905,29.01
+ae-bihar-1995,AE,Bihar,1995,1995,official,25,Barauli,GEN,,101421,JD,M.Nemtullah,42874,BJP,Ramprawesh Rai,23072,19802,19.52
+ae-bihar-1995,AE,Bihar,1995,1995,official,26,Baikunthpur,GEN,,100721,JD,Lalbabu Pd. Yadav,36725,INC,Brijkishor Narayan Singh,29041,7684,7.63
+ae-bihar-1995,AE,Bihar,1995,1995,official,27,Basantpur,GEN,,114938,JD,Manikchand Rai,53662,BJP,Satyadeo Pd. Singh,42227,11435,9.95
+ae-bihar-1995,AE,Bihar,1995,1995,official,28,Goreakothi,GEN,,97544,JD,Indra Dev Prasad,55640,INC,Bhumendra Narayan Singh (Alias Chunnu Babu),14972,40668,41.69
+ae-bihar-1995,AE,Bihar,1995,1995,official,29,Siwan,GEN,,106426,JD,Awadh Bihari Chaudhary,46495,BJP,Vyasdeo Prasad,36533,9962,9.36
+ae-bihar-1995,AE,Bihar,1995,1995,official,30,Mairwa,SC,,88469,CPIML,Satya Deo Ram,25206,CPI(M),Girdhari Ram,24003,1203,1.36
+ae-bihar-1995,AE,Bihar,1995,1995,official,31,Darauli,GEN,,97471,CPIML,Amar Nath Yadav,36305,JD,Sheo Shankar Yadav,22617,13688,14.04
+ae-bihar-1995,AE,Bihar,1995,1995,official,32,Ziradei,GEN,,95693,JD,M. Sahabuddin,42710,SAP,Srijay Kumar,28578,14132,14.77
+ae-bihar-1995,AE,Bihar,1995,1995,official,33,Maharajganj,GEN,,91236,JD,Baidya Nath Pande,38316,INC,Damodar Singh,21507,16809,18.42
+ae-bihar-1995,AE,Bihar,1995,1995,official,34,Raghunathpur,GEN,,95111,JD,Bikram Kuwar,30443,INC,Vijay Shankar Dubey,22049,8394,8.83
+ae-bihar-1995,AE,Bihar,1995,1995,official,35,Manjhi,GEN,,99180,INC,Budhan Prasad Yadav,34130,SJP(R),Ram Bahadur Singh,17016,17114,17.26
+ae-bihar-1995,AE,Bihar,1995,1995,official,36,Baniapur,GEN,,91990,JD,Ram Bahadur Rai,32479,INC,Uma Pandey,31202,1277,1.39
+ae-bihar-1995,AE,Bihar,1995,1995,official,37,Masrakh,GEN,,88728,JD,Ashok Singh,50437,BPP,Prabhu Nath Singh,31963,18474,20.82
+ae-bihar-1995,AE,Bihar,1995,1995,official,38,Taraiya,GEN,,89493,JD,Ram Das Rai,44859,BJP,Janak Singh,17841,27018,30.19
+ae-bihar-1995,AE,Bihar,1995,1995,official,39,Marhaura,GEN,,94905,JD,Yaduvanshi Rai,51307,IND,Surender Sharma,18516,32791,34.55
+ae-bihar-1995,AE,Bihar,1995,1995,official,40,Jalalpur,GEN,,97767,CPI,Abhay Raj Kishore,39521,BJP,Satya Deo Singh,18473,21048,21.53
+ae-bihar-1995,AE,Bihar,1995,1995,official,41,Chapra,GEN,,99613,JD,Udit Rai,31577,INC,Janak Yadav,23618,7959,7.99
+ae-bihar-1995,AE,Bihar,1995,1995,official,42,Garkha,SC,,95392,JD,Muneshwar Chaudhari,42765,INC,Raghu Nandan Manjhi,26339,16426,17.22
+ae-bihar-1995,AE,Bihar,1995,1995,official,43,Parsa,GEN,,109272,JD,Chandrika Ray,54926,SAP,Ram Nath Vidyarthi,40338,14588,13.35
+ae-bihar-1995,AE,Bihar,1995,1995,official,44,Sonepur,GEN,,98743,JD,Raj Kumar Rai,38966,INC,Birendra Narayan Singh,20953,18013,18.24
+ae-bihar-1995,AE,Bihar,1995,1995,official,45,Hajipur,GEN,,123309,JD,Rajendra Rai,60448,BJP,Nitya Nand Rai,34581,25867,20.98
+ae-bihar-1995,AE,Bihar,1995,1995,official,46,Raghopur,GEN,,117066,JD,Laloo Prasad,74958,IND,Vishundeo Rai,20355,54603,46.64
+ae-bihar-1995,AE,Bihar,1995,1995,official,47,Mahnar,GEN,,102983,JD,Munshi Lal Ray,36937,IND,Rama Kishore Singh,27718,9219,8.95
+ae-bihar-1995,AE,Bihar,1995,1995,official,48,Jandaha,GEN,,112094,JD,Tulsi Das Mehta,56027,BJP,Achidanand Singh,18674,37353,33.32
+ae-bihar-1995,AE,Bihar,1995,1995,official,49,Patepur,SC,,103037,JD,Mahendra Baitha,68495,SAP,Prema Chaudhary,14648,53847,52.26
+ae-bihar-1995,AE,Bihar,1995,1995,official,50,Mahua,SC,,99685,JD,Munshi Lal Paswan,57621,SAP,Kapileshwar Ram Kesari,18742,38879,39.0
+ae-bihar-1995,AE,Bihar,1995,1995,official,51,Lalganj,GEN,,97940,JD,Yogendra Pd. Sahu,65974,INC,Bharat Pd. Singh,12339,53635,54.76
+ae-bihar-1995,AE,Bihar,1995,1995,official,52,Vaishali,GEN,,102669,JD,Raj Kishore Sinha,64103,INC,Veena Sahi,30817,33286,32.42
+ae-bihar-1995,AE,Bihar,1995,1995,official,53,Paru,GEN,,105813,JD,Mithilesh Prasad Yadav,66911,BPP,Parmod Ku. Sharma,18463,48448,45.79
+ae-bihar-1995,AE,Bihar,1995,1995,official,54,Sahebganj,GEN,,101827,JD,Ram Vichar Rai,55807,INC,Mahachander Prasad Singh,26529,29278,28.75
+ae-bihar-1995,AE,Bihar,1995,1995,official,55,Baruraj,GEN,,101732,JD,Shashi Kumar Rai,57968,BPP,Braj Kishore Singh,12511,45457,44.68
+ae-bihar-1995,AE,Bihar,1995,1995,official,56,Kanti,GEN,,100194,JD,Mufti Mohammad Quasim,66231,INC,Ajit Kumar,9381,56850,56.74
+ae-bihar-1995,AE,Bihar,1995,1995,official,57,Kurhani,GEN,,109563,JD,Basawan Prasad Bhagat,65604,IND,Ashok Sharma,25124,40480,36.95
+ae-bihar-1995,AE,Bihar,1995,1995,official,58,Sakra,SC,,100642,JD,Kamal Paswan,59531,INC,Bilal Paswan,17912,41619,41.35
+ae-bihar-1995,AE,Bihar,1995,1995,official,59,Muzaffarpur,GEN,,118811,JD,Vijendra Chaudhary,52000,INC,Raghunath Pandey,31503,20497,17.25
+ae-bihar-1995,AE,Bihar,1995,1995,official,60,Bochaha,SC,,113938,JD,Ramai Ram,74273,SAP,Mushafir Paswan,28147,46126,40.48
+ae-bihar-1995,AE,Bihar,1995,1995,official,61,Gaighatti,GEN,,96294,JD,Maheshwar Pd. Yadva,52128,BPP,Anand Mohan,29367,22761,23.64
+ae-bihar-1995,AE,Bihar,1995,1995,official,62,Aurai,GEN,,99220,JD,Ganesh Pd. Yadav,47068,INC,Ram Babu Thakur,34250,12818,12.92
+ae-bihar-1995,AE,Bihar,1995,1995,official,63,Minapur,GEN,,104372,JD,Hind Keshri Yadav,40507,INC,Sakal Dev Sahni,20617,19890,19.06
+ae-bihar-1995,AE,Bihar,1995,1995,official,64,Runisaidpur,GEN,,102710,JD,Bhola Ray,60105,INC,Padmasha Jha,14658,45447,44.25
+ae-bihar-1995,AE,Bihar,1995,1995,official,65,Belsand,GEN,,82581,JD,Raghubansh Prasad Singh,42643,INC,Digvijay Pratap Singh,9333,33310,40.34
+ae-bihar-1995,AE,Bihar,1995,1995,official,66,Sheohar,GEN,,94982,JD,Raghunath Jha,55051,BPP,Anand Mohan,27453,27598,29.06
+ae-bihar-1995,AE,Bihar,1995,1995,official,67,Sitamarhi,GEN,,119992,BJP,Hari Shankar Prasad,43255,JD,Shahid Ali Khan,41722,1533,1.28
+ae-bihar-1995,AE,Bihar,1995,1995,official,68,Bathnaha,GEN,,110926,JD,Suryadev Rai,49024,SAP,Indal Singh Navin,26191,22833,20.58
+ae-bihar-1995,AE,Bihar,1995,1995,official,69,Majorganj,SC,,88864,JD,Surender Ram,40642,BJP,Sanoop Raut,27653,12989,14.62
+ae-bihar-1995,AE,Bihar,1995,1995,official,70,Sonabarsa,GEN,,116488,JD,Ramjiwan Prasad,44632,INC,Mo. Anvarul Haque,44493,139,0.12
+ae-bihar-1995,AE,Bihar,1995,1995,official,71,Sursand,GEN,,102789,JD,Nagendra Prasad Yadav,64106,INC,Ravindra Prasad Sahi,21539,42567,41.41
+ae-bihar-1995,AE,Bihar,1995,1995,official,72,Pupri,GEN,,102861,JD,Sitaram Yadav,50184,SAP,Ram Briksha Choudhary,31477,18707,18.19
+ae-bihar-1995,AE,Bihar,1995,1995,official,73,Benipatti,GEN,,102175,IND,Shaligram Yadav,35517,JD,Ram Ashish Yadav,28662,6855,6.71
+ae-bihar-1995,AE,Bihar,1995,1995,official,74,Bisfi,GEN,,102639,CPI,Ramchandra Yadav,48066,INC,Dr. Shakil Ahamad,32090,15976,15.57
+ae-bihar-1995,AE,Bihar,1995,1995,official,75,Harlakhi,GEN,,105829,CPI,Ram Naresh Pande,51299,INC,Veena Vadani Pande,18774,32525,30.73
+ae-bihar-1995,AE,Bihar,1995,1995,official,76,Khajauli,SC,,106735,CPI,"Ram Lashan Ram ""Raman""",55573,BJP,Mishri Das,12835,42738,40.04
+ae-bihar-1995,AE,Bihar,1995,1995,official,77,Babubarhi,GEN,,104081,JD,Deo Narayan Yadav,47570,SAP,Bramhadeo Narayan Singh,18352,29218,28.07
+ae-bihar-1995,AE,Bihar,1995,1995,official,78,Madhubani,GEN,,115722,JD,Raj Kumar Mahaseth,50106,INC,Prem Chandra Mishra,24016,26090,22.55
+ae-bihar-1995,AE,Bihar,1995,1995,official,79,Pandaul,GEN,,110814,JD,Naiyar Azam,61427,INC,Kumud Ranjan Jha,24487,36940,33.34
+ae-bihar-1995,AE,Bihar,1995,1995,official,80,Jhanjharpur,GEN,,99781,JD,Ramawtar Chaudhary,42748,INC,Deo Chandra Jha,19719,23029,23.08
+ae-bihar-1995,AE,Bihar,1995,1995,official,81,Phulparas,GEN,,101673,INC,Deo Nath Yadav,38813,JD,Ram Kumar Yadav,35469,3344,3.29
+ae-bihar-1995,AE,Bihar,1995,1995,official,82,Laukaha,GEN,,101488,CPI,Lal Bihari Yadav,23862,INC,Abdul Hai Payami,21084,2778,2.74
+ae-bihar-1995,AE,Bihar,1995,1995,official,83,Madhepur,GEN,,104855,JD,Rup Narayan Jha,57230,INC,Radha Nandan Jha,26546,30684,29.26
+ae-bihar-1995,AE,Bihar,1995,1995,official,84,Manigachhi,GEN,,89773,JD,Lalit Kumar Yadav,52884,INC,Dr. Manad Mohan Jha,19879,33005,36.76
+ae-bihar-1995,AE,Bihar,1995,1995,official,85,Bahera,GEN,,100565,JD,Abdul Bari Siddiqui,54813,BJP,Harish Chandra Jha,20127,34686,34.49
+ae-bihar-1995,AE,Bihar,1995,1995,official,86,Ghanshyampur,GEN,,110953,JD,Mahabir Prasad,43957,BJP,Chandra Kishore Jha,29218,14739,13.28
+ae-bihar-1995,AE,Bihar,1995,1995,official,87,Baheri,GEN,,113744,JD,Ram Lakan Yadav,60880,INC,Mohan Choudhary,21241,39639,34.85
+ae-bihar-1995,AE,Bihar,1995,1995,official,88,Darbhanga Rural,SC,,90528,JD,Mohan Ram,45633,BJP,Asharfi Ram,13425,32208,35.58
+ae-bihar-1995,AE,Bihar,1995,1995,official,89,Darbhanga,GEN,,99971,BJP,Shiv Nath Verma,33014,JD,Abdul Majid Ansari,21222,11792,11.8
+ae-bihar-1995,AE,Bihar,1995,1995,official,90,Keoti,GEN,,111565,JD,Gulam Sarvar,60503,BJP,Ashok Kumar Yadav,23366,37137,33.29
+ae-bihar-1995,AE,Bihar,1995,1995,official,91,Jale,GEN,,94088,CPI,Abdul Salam,45241,INC,Vijay Kumar Mishra,31669,13572,14.42
+ae-bihar-1995,AE,Bihar,1995,1995,official,92,Hayaghat,GEN,,87620,JD,Hari Nandan Yadav,35854,IND,Umadhar Prasad Singh,21889,13965,15.94
+ae-bihar-1995,AE,Bihar,1995,1995,official,93,Kalyanpur,GEN,,114277,JD,Sita Sinha,50046,INC,Dilip Kumar Rai,18868,31178,27.28
+ae-bihar-1995,AE,Bihar,1995,1995,official,94,Warisnagar,SC,,102295,JD,Pitamber Paswan,55011,INC,Parmeshwar Ram,27738,27273,26.66
+ae-bihar-1995,AE,Bihar,1995,1995,official,95,Samastipur,GEN,,119735,JD,Ashok Singh,60706,BPP,Shahid Hushan Khan,16521,44185,36.9
+ae-bihar-1995,AE,Bihar,1995,1995,official,96,Sarairanjan,GEN,,126727,JD,Ram Ashray Sahni,76142,INC,Nandu Jha,35647,40495,31.95
+ae-bihar-1995,AE,Bihar,1995,1995,official,97,Mohiuddin Nagar,GEN,,117997,JD,Ram Chander Rai,60137,INC,Anugrah Narayan Singh,19912,40225,34.09
+ae-bihar-1995,AE,Bihar,1995,1995,official,98,Dalsinghsarai,GEN,,120629,JD,Ram Lakhan Mahto,78755,INC,Vijay Kumar Choudhary,26918,51837,42.97
+ae-bihar-1995,AE,Bihar,1995,1995,official,99,Bibhutpur,GEN,,133644,CPI(M),Ramdev Varma,65303,INC,Chandra Bali Thakur,47696,17607,13.17
+ae-bihar-1995,AE,Bihar,1995,1995,official,100,Rosera,SC,,108010,JD,Gajendra Prasad Singh,53064,INC,Ramashray Roy,23206,29858,27.64
+ae-bihar-1995,AE,Bihar,1995,1995,official,101,Singhia,GEN,,90318,JD,Jagdish Paswan,40843,INC,Dr. Ashok Kumar,17860,22983,25.45
+ae-bihar-1995,AE,Bihar,1995,1995,official,102,Hasanpur,GEN,,100979,JD,Sunil Kumar Pushpam,40410,IND,Rajendra Prasad Yadav,14150,26260,26.01
+ae-bihar-1995,AE,Bihar,1995,1995,official,103,Balia,GEN,,97264,JD,Srinarayan Yadav,39901,IND,Krishna Mohan Yadav,25223,14678,15.09
+ae-bihar-1995,AE,Bihar,1995,1995,official,104,Matihani,GEN,,104100,CPI,Rajendra Rajan,48245,INC,Pramod Kumar Sharma,29103,19142,18.39
+ae-bihar-1995,AE,Bihar,1995,1995,official,105,Begusarai,GEN,,117153,CPI(M),Rajendra Pd. Singh,46937,INC,Bhola Singh,33840,13097,11.18
+ae-bihar-1995,AE,Bihar,1995,1995,official,106,Barauni,GEN,,120235,CPI,Rajendra Prasad Singh,57379,BJP,Ram Lakhan Singh,26460,30919,25.72
+ae-bihar-1995,AE,Bihar,1995,1995,official,107,Bachhwara,GEN,,107500,CPI,Abdhesh Kumar Roy,51192,INC,Ramdeo Roy,28706,22486,20.92
+ae-bihar-1995,AE,Bihar,1995,1995,official,108,Cheria Bariarpur,GEN,,101015,JD,Ram Jeewan Singh,52670,INC,Sukh Deo Mahto,26987,25683,25.42
+ae-bihar-1995,AE,Bihar,1995,1995,official,109,Bakhri,SC,,96840,CPI,Ram Binod Paswan,48225,BJP,Kameshwar Choupal,24540,23685,24.46
+ae-bihar-1995,AE,Bihar,1995,1995,official,110,Raghopur,GEN,,115988,JD,Lakhan Thakur,29725,INC,Amrendra Mishra,28168,1557,1.34
+ae-bihar-1995,AE,Bihar,1995,1995,official,111,Kishanpur,GEN,,99048,INC,Vijay Kumar Gupta,31641,JD,Vinayak Prasad Yadav,23892,7749,7.82
+ae-bihar-1995,AE,Bihar,1995,1995,official,112,Supaul,GEN,,121633,JD,Bijendra Prasad Yadav,51417,INC,Pramod Kumar Singh,37716,13701,11.26
+ae-bihar-1995,AE,Bihar,1995,1995,official,113,Tribeniganj,GEN,,102918,INC,Vishwa Mohan Kumar,36960,JD,Anup Lal Yadav,31193,5767,5.6
+ae-bihar-1995,AE,Bihar,1995,1995,official,114,Chhatapur,SC,,91637,JD,Bishwa Mohan Bharti,37475,INC,Mahendra Narayan Sardar,30156,7319,7.99
+ae-bihar-1995,AE,Bihar,1995,1995,official,115,Kumarkhand,SC,,94212,JD,Upendra Nr. Hazra,46477,INC,Janak Ram,15251,31226,33.14
+ae-bihar-1995,AE,Bihar,1995,1995,official,116,Singheshwar,GEN,,99091,JD,Bam Bhola Yadav,36168,INC,Dinesh Kumar Yadav,26222,9946,10.04
+ae-bihar-1995,AE,Bihar,1995,1995,official,117,Saharsa,GEN,,122198,JD,Shankar Prasad Tekriwal,57613,INC,Satish Chandra Jha,30663,26950,22.05
+ae-bihar-1995,AE,Bihar,1995,1995,official,118,Mahishi,GEN,,113710,JD,Abdul Gafoor,46715,INC,Lahtan Choudhary,31625,15090,13.27
+ae-bihar-1995,AE,Bihar,1995,1995,official,119,Simri-Bakhtiarpur,GEN,,117916,INC,Choudhary Md. Mehboob Ali Kaisher,51734,JD,Dinesh Chandra Yadav,51489,245,0.21
+ae-bihar-1995,AE,Bihar,1995,1995,official,120,Madhepura,GEN,,112006,JD,Parmeshwari Pd. Nirala,60139,INC,Rajendra Pd. Yadav,29120,31019,27.69
+ae-bihar-1995,AE,Bihar,1995,1995,official,121,Sonabarsa,GEN,,109559,JD,Ashok Kumar Singh,40926,IND,Tej Narayan Yadav,11987,28939,26.41
+ae-bihar-1995,AE,Bihar,1995,1995,official,122,Kishanganj,GEN,,94447,JD,Rabindra Charan Yadav,44380,INC,Jai Krishna Mehta,32824,11556,12.24
+ae-bihar-1995,AE,Bihar,1995,1995,official,123,Alamnagar,GEN,,99243,JD,Narendra Nr. Yadav,31334,IND,Rajendra Singh,21934,9400,9.47
+ae-bihar-1995,AE,Bihar,1995,1995,official,124,Rupauli,GEN,,88362,CPI,Bal Kishor Mandal,19359,SP,Ram Chandra Das,10413,8946,10.12
+ae-bihar-1995,AE,Bihar,1995,1995,official,125,Dhamdaha,GEN,,112227,JD,Dilip Kumar Yadav,32543,IND,Madhusudan Singh,23620,8923,7.95
+ae-bihar-1995,AE,Bihar,1995,1995,official,126,Banmankhi,SC,,104008,JD,Chunni Lal Rajbanshi,36165,INC,Jay Kant Paswan,25313,10852,10.43
+ae-bihar-1995,AE,Bihar,1995,1995,official,127,Raniganj,SC,,107103,JD,Shanti Devi,37371,INC,Yamuna Prasad Ram,26132,11239,10.49
+ae-bihar-1995,AE,Bihar,1995,1995,official,128,Narpatganj,GEN,,83964,JD,Dayanand Yadav,33760,BJP,Janardan Yadav,29556,4204,5.01
+ae-bihar-1995,AE,Bihar,1995,1995,official,129,Forbesganj,GEN,,121803,BJP,Mayanand Thakur,20163,IND,Laxmi Maheta,15359,4804,3.94
+ae-bihar-1995,AE,Bihar,1995,1995,official,130,Araria,GEN,,109567,BPP,Vijoy Kumar Mandal,23061,BJP,Durga Das Rathor,16829,6232,5.69
+ae-bihar-1995,AE,Bihar,1995,1995,official,131,Sikti,GEN,,140084,INC,Rameshwar Yadav,34518,IND,Jamil Akhtar,26244,8274,5.91
+ae-bihar-1995,AE,Bihar,1995,1995,official,132,Jokihat,GEN,,110104,SP,Taslimuddin,36803,IND,Bhoop Narayan Yadav,23337,13466,12.23
+ae-bihar-1995,AE,Bihar,1995,1995,official,133,Bahadurganj,GEN,,113829,BJP,Awadh Bihari Singh,30712,IND,Jahidur Rahman,29933,779,0.68
+ae-bihar-1995,AE,Bihar,1995,1995,official,134,Thakurganj,GEN,,117670,BJP,Sikander Singh,34691,INC,Dr. Md. Jawed,26739,7952,6.76
+ae-bihar-1995,AE,Bihar,1995,1995,official,135,Kishanganj,GEN,,124808,INC,Rafique Alam,44122,JD,"Md. Mustaque ""Munna""",32067,12055,9.66
+ae-bihar-1995,AE,Bihar,1995,1995,official,136,Amaur,GEN,,120396,SP,Muzaffar Hussain,31428,INC,Abdul Jalil Mastan,30673,755,0.63
+ae-bihar-1995,AE,Bihar,1995,1995,official,137,Baisi,GEN,,105414,INC,Syed Moinuddin,39130,JD,Abdus Subhhan,34932,4198,3.98
+ae-bihar-1995,AE,Bihar,1995,1995,official,138,Kasba,GEN,,119406,BJP,Pradip Ku. Das,31344,JD,Shiv Charan Mehta,26473,4871,4.08
+ae-bihar-1995,AE,Bihar,1995,1995,official,139,Purnea,GEN,,115039,CPI(M),Ajit Sarkar,35167,SP,Rajesh Ranjan,33552,1615,1.4
+ae-bihar-1995,AE,Bihar,1995,1995,official,140,Korha,SC,,104233,JD,Sitaram Das,28518,INC,Sunita Devi,22221,6297,6.04
+ae-bihar-1995,AE,Bihar,1995,1995,official,141,Barari,GEN,,96857,JD,Mansoor Alam,38233,BJP,Vibhash Chand Chaudhary,12856,25377,26.2
+ae-bihar-1995,AE,Bihar,1995,1995,official,142,Katihar,GEN,,121353,BJP,Jagbandhu Adhikari,45473,JD,Ram Prakash Mahto,35687,9786,8.06
+ae-bihar-1995,AE,Bihar,1995,1995,official,143,Kadwa,GEN,,111053,BJP,Bhola Rai,26772,JD,Khawaja Gulam Asraf Alias Garib Nawaj,23604,3168,2.85
+ae-bihar-1995,AE,Bihar,1995,1995,official,144,Barsoi,GEN,,113528,BJP,Dulal Chander Goswami,37764,CPIML,Munna Alam,27360,10404,9.16
+ae-bihar-1995,AE,Bihar,1995,1995,official,145,Pranpur,GEN,,108322,JD,Mahendra Nr. Yadav,27688,BJP,Binod Kumar Singh,15903,11785,10.88
+ae-bihar-1995,AE,Bihar,1995,1995,official,146,Manihari,GEN,,92510,INC,Mubarak Hussain,35498,JD,Bishwa Nath Singh,25574,9924,10.73
+ae-bihar-1995,AE,Bihar,1995,1995,official,147,Rajmahal,GEN,,121266,BJP,Drub Bhagat,27720,INC,Jayant Singh,22360,5360,4.42
+ae-bihar-1995,AE,Bihar,1995,1995,official,148,Borio,ST,,91042,IND,Lobin Hembrom,24305,BJP,Manindra Hasda,14702,9603,10.55
+ae-bihar-1995,AE,Bihar,1995,1995,official,149,Barhait,ST,,91428,JMM,Hemlal Murmu,42822,INC,Lorense Hansda,36753,6069,6.64
+ae-bihar-1995,AE,Bihar,1995,1995,official,150,Litipara,ST,,76240,JMM(S),Sushila Hasda,30436,INC,Philichyanus Hembrom,24919,5517,7.24
+ae-bihar-1995,AE,Bihar,1995,1995,official,151,Pakaur,GEN,,113181,BJP,Beni Prasad Gupta,28278,INC,Alamgir Alam,26470,1808,1.6
+ae-bihar-1995,AE,Bihar,1995,1995,official,152,Maheshpur,ST,,87782,CPI(M),Jyotin Soren,32457,JMM(S),Debidhan Besra,20048,12409,14.14
+ae-bihar-1995,AE,Bihar,1995,1995,official,153,Sikaripars,ST,,98319,JMM(S),Nalin Soren,36073,BJP,David Murmu,19651,16422,16.7
+ae-bihar-1995,AE,Bihar,1995,1995,official,154,Nala,GEN,,106280,CPI,Bisheshwar Khan,38700,INC,Rajkumari Himmat Singhka,24044,14656,13.79
+ae-bihar-1995,AE,Bihar,1995,1995,official,155,Jamtara,GEN,,110810,INC,Furkan Ansari,36578,JMM(S),Binod Kumar Mandal,25476,11102,10.02
+ae-bihar-1995,AE,Bihar,1995,1995,official,156,Sarath,GEN,,119734,INC,Uday Shankar Singh,59442,JMM,Abu Talib Ansari,38779,20663,17.26
+ae-bihar-1995,AE,Bihar,1995,1995,official,157,Madhupur,GEN,,121081,JMM,Hussain Ansari,40009,BJP,Bishakha Devi,23111,16898,13.96
+ae-bihar-1995,AE,Bihar,1995,1995,official,158,Deoghar,SC,,125187,JD,Suresh Paswan,44931,INC,Kameshwar Nath Das,26110,18821,15.03
+ae-bihar-1995,AE,Bihar,1995,1995,official,159,Jarmundi,GEN,,100579,JMM(S),Devendra Kuwar,33519,JD,Jawahar Prasad Singh,22812,10707,10.65
+ae-bihar-1995,AE,Bihar,1995,1995,official,160,Dumka,ST,,100227,JMM(S),Stefan Marandi,34512,BJP,Satish Soren,28625,5887,5.87
+ae-bihar-1995,AE,Bihar,1995,1995,official,161,Jama,ST,,89712,JMM(S),Durga Soren,39141,CSP-JSD,Vibhishan Pujhar,10775,28366,31.62
+ae-bihar-1995,AE,Bihar,1995,1995,official,162,Poraiyahat,GEN,,117650,JMM(S),Prashant Kumar,38854,CPI,Sanjay Kumar,28708,10146,8.62
+ae-bihar-1995,AE,Bihar,1995,1995,official,163,Godda,GEN,,126419,INC,Rajnish Anand,37629,JD,Rachunandan Mandal,29083,8546,6.76
+ae-bihar-1995,AE,Bihar,1995,1995,official,164,Mahagama,GEN,,127194,INC,Awadh Bihari Singh,44397,JD,Faiyaz Bhagalpuri,43902,495,0.39
+ae-bihar-1995,AE,Bihar,1995,1995,official,165,Pirpainti,GEN,,120022,CPI,Ambika Prasad,34416,INC,Dilip Kumar Sinha,33179,1237,1.03
+ae-bihar-1995,AE,Bihar,1995,1995,official,166,Colgong,GEN,,129643,JD,Mahesh Prasad Mandal,56598,INC,Sadanand Singh,48954,7644,5.9
+ae-bihar-1995,AE,Bihar,1995,1995,official,167,Nathnagar,GEN,,119345,JD,Lutfar Rahman,47685,BJP,A.P.S. Prakash,14873,32812,27.49
+ae-bihar-1995,AE,Bihar,1995,1995,official,168,Bhagalpur,GEN,,106013,BJP,Ashwini Choube,44944,JD,Kedar Nath Yadav,40018,4926,4.65
+ae-bihar-1995,AE,Bihar,1995,1995,official,169,Gopalpur,GEN,,114918,JD,Rabindra Kr. Rana,43311,INC,Madan Pd. Singh,27688,15623,13.59
+ae-bihar-1995,AE,Bihar,1995,1995,official,170,Bihpur,GEN,,94546,JD,Barhmdeo Mandal,36393,INC,Ajit Sharma,19240,17153,18.14
+ae-bihar-1995,AE,Bihar,1995,1995,official,171,Sultanganj,SC,,125330,JD,Fanindra Choudhary,45538,SAP,Ganesh Paswan,26480,19058,15.21
+ae-bihar-1995,AE,Bihar,1995,1995,official,172,Amarpur,GEN,,107379,JD,Surendra Prasad Singh,34287,BPP,Binoy Bihari Singh,19714,14573,13.57
+ae-bihar-1995,AE,Bihar,1995,1995,official,173,Dhuraiya,SC,,111690,CPI,Naresh Das,39945,SAP,Bhudev Choudhary,29293,10652,9.54
+ae-bihar-1995,AE,Bihar,1995,1995,official,174,Banka,GEN,,98468,JD,Javed Iqbal Ansari,31864,BJP,Ram Narayan Mandal,23072,8792,8.93
+ae-bihar-1995,AE,Bihar,1995,1995,official,175,Belhar,GEN,,90548,JD,Ram Dev Yadav,37180,INC,Chandra Mauleshwar Singh Lalan,17400,19780,21.84
+ae-bihar-1995,AE,Bihar,1995,1995,official,176,Katoria,GEN,,109994,JD,Giridhari Yadav,33994,JMM,Vipin Shah,14374,19620,17.84
+ae-bihar-1995,AE,Bihar,1995,1995,official,177,Chakai,GEN,,96763,BJP,Phalguni Prasad Yadav,34658,JD,Narendar Singh,31465,3193,3.3
+ae-bihar-1995,AE,Bihar,1995,1995,official,178,Jhajha,GEN,,92554,INC,Ravindra Yadav,31841,JD,Sheo Nandan Jha,23872,7969,8.61
+ae-bihar-1995,AE,Bihar,1995,1995,official,179,Tarapur,GEN,,107968,SAP,Shakuni Choudhary,37338,CPI,Narayan Yadav,34888,2450,2.27
+ae-bihar-1995,AE,Bihar,1995,1995,official,180,Kharagpur,GEN,,118921,JD,Jay Prakash Narayan Yadav,49041,BPP,Anand Mohan,19452,29589,24.88
+ae-bihar-1995,AE,Bihar,1995,1995,official,181,Parbatta,GEN,,116733,JD,Vidya Sagar Nishad,35726,INC,Prama Nand Chaudhary,22839,12887,11.04
+ae-bihar-1995,AE,Bihar,1995,1995,official,182,Chautham,GEN,,105677,CPI,Satya Narayan Singh,23062,INC,Ghanshyam Singh,9739,13323,12.61
+ae-bihar-1995,AE,Bihar,1995,1995,official,183,Khagaria,GEN,,103829,BJP,Chandramukhi Devi,22854,IND,Ranveer Yadav,13807,9047,8.71
+ae-bihar-1995,AE,Bihar,1995,1995,official,184,Alauli,SC,,96499,JD,Pashupati Kumar Paras,43481,INC,Mishri Sada,26124,17357,17.99
+ae-bihar-1995,AE,Bihar,1995,1995,official,185,Monghyr,GEN,,109321,JD,Monazir Hasan,35209,INC,Prabhat Ku. Mishra,24299,10910,9.98
+ae-bihar-1995,AE,Bihar,1995,1995,official,186,Jamalpur,GEN,,102641,JD,Upendra Pd. Verma,30315,SAP,Shailesh Kumar,22988,7327,7.14
+ae-bihar-1995,AE,Bihar,1995,1995,official,187,Surajgarha,GEN,,102125,IND,Prahlad Yadav,29787,BJP,Parsidh Narayan Singh,22408,7379,7.23
+ae-bihar-1995,AE,Bihar,1995,1995,official,188,Jamui,GEN,,108675,JD,Arjun Mandal,40413,INC,Sushil Kumar Singh,33331,7082,6.52
+ae-bihar-1995,AE,Bihar,1995,1995,official,189,Sikandra,SC,,105270,CPI,Prayag Choudhary,45554,INC,Rameshwar Paswan,31399,14155,13.45
+ae-bihar-1995,AE,Bihar,1995,1995,official,190,Lakhisarai,GEN,,103351,JD,Yaduvansh Singh,28290,INC,Ashwini Kumar Sharma,27292,998,0.97
+ae-bihar-1995,AE,Bihar,1995,1995,official,191,Sheikhpura,GEN,,105593,INC,Rajo Singh,45753,JD,Vijoy Kumar Yadav,25326,20427,19.35
+ae-bihar-1995,AE,Bihar,1995,1995,official,192,Barbigha,SC,,100526,INC,Mahavir Chaudhary,36095,JD,Tara Devi,25382,10713,10.66
+ae-bihar-1995,AE,Bihar,1995,1995,official,193,Asthawan,GEN,,107447,IND,Satish Kumar,35161,JD,Pramod Narain Sinha,26967,8194,7.63
+ae-bihar-1995,AE,Bihar,1995,1995,official,194,Bihar,GEN,,133508,JD,Deo Nath Prasad,31575,SAP,Ram Naresh Singh,26602,4973,3.72
+ae-bihar-1995,AE,Bihar,1995,1995,official,195,Rajgir,SC,,119345,BJP,Satyadeo Narayan Arya,45548,CPI,Chandradeo Prasad Himansu,40715,4833,4.05
+ae-bihar-1995,AE,Bihar,1995,1995,official,196,Nalanda,GEN,,118036,SAP,Shrawon Kumar,47488,JD,Jagdish Prasad,24625,22863,19.37
+ae-bihar-1995,AE,Bihar,1995,1995,official,197,Islampur,GEN,,124738,CPI,Krishna Ballabh Prasad,46796,SAP,Rajiv Ranjan,36552,10244,8.21
+ae-bihar-1995,AE,Bihar,1995,1995,official,198,Hilsa,GEN,,128811,JD,Vaiju Prasad,53911,SAP,Ram Naresh Singh,49011,4900,3.8
+ae-bihar-1995,AE,Bihar,1995,1995,official,199,Chandi,GEN,,102570,SAP,Anil Singh,39371,JD,Hari Narain Singh,36416,2955,2.88
+ae-bihar-1995,AE,Bihar,1995,1995,official,200,Harnaut,GEN,,103894,SAP,Nitish Kumar,40079,JD,Vishwa Mohan Chaudhary,27837,12242,11.78
+ae-bihar-1995,AE,Bihar,1995,1995,official,201,Mokamah,GEN,,102217,JD,Dilip Kumar Singh,38464,INC,Shyamsunder Singh,31517,6947,6.8
+ae-bihar-1995,AE,Bihar,1995,1995,official,202,Barh,GEN,,108662,JD,Vijay Krishna,30667,SAP,Bhuvneshwar Pd. Singh Alias Pappu Jee,26851,3816,3.51
+ae-bihar-1995,AE,Bihar,1995,1995,official,203,Bakhtiarpur,GEN,,102263,JD,Brajnandan Yadav,42497,BJP,Keshri Kishore Singh,28917,13580,13.28
+ae-bihar-1995,AE,Bihar,1995,1995,official,204,Fatwa,SC,,106835,JD,Punit Rai,36299,CPIML,Martyunjay Paswan,21772,14527,13.6
+ae-bihar-1995,AE,Bihar,1995,1995,official,205,Masaurhi,GEN,,126717,JD,Ganesh Pr. Singh,53512,INC,Poonam Devi,31282,22230,17.54
+ae-bihar-1995,AE,Bihar,1995,1995,official,206,Patna West,GEN,,158829,BJP,Navin Kishore Prasad Sinha,64619,JD,Ramanand Yadav,59035,5584,3.52
+ae-bihar-1995,AE,Bihar,1995,1995,official,207,Patna Central,GEN,,122512,BJP,Sushil Kumar Modi,64134,JD,Rajiv Ranjan Prasad,32035,32099,26.2
+ae-bihar-1995,AE,Bihar,1995,1995,official,208,Patna East,GEN,,115896,BJP,Nand Kishore Yadav,41228,JD,Ramlakhan Singh,34798,6430,5.55
+ae-bihar-1995,AE,Bihar,1995,1995,official,209,Dinapur,GEN,,100996,JD,Laloo Prasad,49840,BJP,Vijay Singh Yadav,25980,23860,23.62
+ae-bihar-1995,AE,Bihar,1995,1995,official,210,Maner,GEN,,113591,JD,Srikant Nirala,36813,IND,Bhai Birendra,34135,2678,2.36
+ae-bihar-1995,AE,Bihar,1995,1995,official,211,Phulwari,SC,,131968,JD,Shyam Rajak,57035,INC,Sanjeev Prasad Toni,32716,24319,18.43
+ae-bihar-1995,AE,Bihar,1995,1995,official,212,Bikram,GEN,,120257,CPI,Ramnath Yadava,41409,INC,C.P. Thakur,41073,336,0.28
+ae-bihar-1995,AE,Bihar,1995,1995,official,213,Paliganj,GEN,,125363,JD,Chandradeo Prasad Verma,47481,BJP,Janardan Sharma,29609,17872,14.26
+ae-bihar-1995,AE,Bihar,1995,1995,official,214,Sandesh,GEN,,107391,CPIML,Rameshwar Prasad,36760,IND,Sidhnath Roy,21023,15737,14.65
+ae-bihar-1995,AE,Bihar,1995,1995,official,215,Barhara,GEN,,103162,JD,Raghwendra Pratap Singh,32869,BPP,Brahmeshwar Singh,22853,10016,9.71
+ae-bihar-1995,AE,Bihar,1995,1995,official,216,Arrah,GEN,,109142,JD,Abdul Malik,32486,CPIML,Sudama Prasad,27849,4637,4.25
+ae-bihar-1995,AE,Bihar,1995,1995,official,217,Shahpur,GEN,,90689,JD,Dharampal Singh,37139,SAP,Shewanand Tiwari,20444,16695,18.41
+ae-bihar-1995,AE,Bihar,1995,1995,official,218,Brahmpur,GEN,,109541,JD,Ajit Choudhary,41248,INC,Hareram Pandey,14758,26490,24.18
+ae-bihar-1995,AE,Bihar,1995,1995,official,219,Buxar,GEN,,101178,CPI(M),Manju Prakash,41757,BJP,Ajay Choubey,19250,22507,22.24
+ae-bihar-1995,AE,Bihar,1995,1995,official,220,Rajpur,SC,,95806,CPI,Arjoon Ram,38436,BSP,Chedi Lal Ram,14240,24196,25.26
+ae-bihar-1995,AE,Bihar,1995,1995,official,221,Dumraon,GEN,,111815,JD,Basant Singh,38754,CPIML,Byas Muni Singh,16133,22621,20.23
+ae-bihar-1995,AE,Bihar,1995,1995,official,222,Jagdishpur,GEN,,101775,JD,Hari Narain Singh,31623,CPIML,Suresh Mehta,21420,10203,10.03
+ae-bihar-1995,AE,Bihar,1995,1995,official,223,Piro,GEN,,102289,JD,Kanti Singh,36076,CPIML,Chandradeep Singh,23372,12704,12.42
+ae-bihar-1995,AE,Bihar,1995,1995,official,224,Sahar,SC,,104176,CPIML,Parasnath,49927,INC,Jyoti,29378,20549,19.73
+ae-bihar-1995,AE,Bihar,1995,1995,official,225,Karakat,GEN,,110888,JD,Tulsi Singh,40753,CPIML,Bachan Singh,33856,6897,6.22
+ae-bihar-1995,AE,Bihar,1995,1995,official,226,Bikramganj,GEN,,112992,JD,Dr. Surya Deo Singh,43164,BJP,Kashi Nath Chaudhary,18072,25092,22.21
+ae-bihar-1995,AE,Bihar,1995,1995,official,227,Dinara,GEN,,120099,JD,Ram Dhani Singh,56518,INC,Laxman Roy,33584,22934,19.1
+ae-bihar-1995,AE,Bihar,1995,1995,official,228,Ramgarh,GEN,,113387,JD,Jagda Nand Singh,41568,BSP,Raj Narain Ram,22918,18650,16.45
+ae-bihar-1995,AE,Bihar,1995,1995,official,229,Mohania,SC,,120278,BSP,Suresh Pasi,50663,JD,Shivadhar Paswan,28686,21977,18.27
+ae-bihar-1995,AE,Bihar,1995,1995,official,230,Bhabhua,GEN,,128276,CPI,Ram Lal Singh,51744,IND,Vijay Shankar Pandey,17906,33838,26.38
+ae-bihar-1995,AE,Bihar,1995,1995,official,231,Chainpur,GEN,,110128,BSP,Mahabali Singh,31558,BJP,Lal Muni Chaubey,19561,11997,10.89
+ae-bihar-1995,AE,Bihar,1995,1995,official,232,Sasaram,GEN,,122664,BJP,Jawahir Prasad,48811,JD,Ashok Kumar,41217,7594,6.19
+ae-bihar-1995,AE,Bihar,1995,1995,official,233,Chenari,SC,,122385,JD,Jawahar Paswan,47062,INC,Mahendra Ram,30264,16798,13.73
+ae-bihar-1995,AE,Bihar,1995,1995,official,234,Nokha,GEN,,110439,JD,Anand Mohan Singh,37602,BJP,Gopal Narayan Singh,16521,21081,19.09
+ae-bihar-1995,AE,Bihar,1995,1995,official,235,Dehri,GEN,,115813,JD,Md. Ilyas Hussain,40864,BJP,Vinod Kumar Singh,30808,10056,8.68
+ae-bihar-1995,AE,Bihar,1995,1995,official,236,Nabinagar,GEN,,101480,JD,Virendra Kumar Singh,28914,INC,Raghuvansh Prasad Singh,15997,12917,12.73
+ae-bihar-1995,AE,Bihar,1995,1995,official,237,Deo,SC,,95914,JD,Suresh Paswan,44340,BPP,Pankaj Kumar,25674,18666,19.46
+ae-bihar-1995,AE,Bihar,1995,1995,official,238,Aurangabad,GEN,,107388,BJP,Ramadhar Singh,25640,CPI,Tribhuvan Singh,21787,3853,3.59
+ae-bihar-1995,AE,Bihar,1995,1995,official,239,Rafiganj,GEN,,90597,CPI,Ram Chandra Singh,40342,INC,Vijoy Kumar Singh,15808,24534,27.08
+ae-bihar-1995,AE,Bihar,1995,1995,official,240,Obra,GEN,,116910,CPIML,Raja Ram Singh,48089,JD,Ram Bilas Singh,27710,20379,17.43
+ae-bihar-1995,AE,Bihar,1995,1995,official,241,Goh,GEN,,106247,CPI,Ram Sharan Yadav,49040,SAP,Deokumar Sharma,36544,12496,11.76
+ae-bihar-1995,AE,Bihar,1995,1995,official,242,Arwal,GEN,,105847,JD,Ravindra Singh,50370,CPIML,Ramadhar Singh,20836,29534,27.9
+ae-bihar-1995,AE,Bihar,1995,1995,official,243,Kurtha,GEN,,123285,JD,Sahdev Prasad Yadav,58013,INC,Naushad Ahmad,24061,33952,27.54
+ae-bihar-1995,AE,Bihar,1995,1995,official,244,Makhdumpur,GEN,,122812,JD,Bagi Kumar Verma,61143,INC,Ram Jatan Sinha,36250,24893,20.27
+ae-bihar-1995,AE,Bihar,1995,1995,official,245,Jahanabad,GEN,,130641,JD,Mundrika Singh Yadav,60933,INC,Saiyad Asgar Hussain,38665,22268,17.05
+ae-bihar-1995,AE,Bihar,1995,1995,official,246,Ghosi,GEN,,130059,INC,Jagdish Sharma,65067,CPI,Ajit Singh,31733,33334,25.63
+ae-bihar-1995,AE,Bihar,1995,1995,official,247,Belaganj,GEN,,106321,JD,Surendra Prasad Yadav,62548,INC,Abhiram Sharma,33833,28715,27.01
+ae-bihar-1995,AE,Bihar,1995,1995,official,248,Konch,GEN,,83831,JD,Shiv Bachan Yadav,44703,BPP,Nawal Singh,22976,21727,25.92
+ae-bihar-1995,AE,Bihar,1995,1995,official,249,Gaya Muffasil,GEN,,96221,JD,Vinod Kumar Yadvindu,51458,INC,Awadesh Kumar Singh,26777,24681,25.65
+ae-bihar-1995,AE,Bihar,1995,1995,official,250,Gaya Town,GEN,,92096,BJP,Prem Kumar,33705,CPI,Masood Manjar,26594,7111,7.72
+ae-bihar-1995,AE,Bihar,1995,1995,official,251,Imamganj,SC,,84039,SAP,Ramswaroop Paswan,26670,JD,Uday Narayan Choudhary,26550,120,0.14
+ae-bihar-1995,AE,Bihar,1995,1995,official,252,Gurua,GEN,,97130,IND,Ramchandra Singh,31904,JD,Masroor Alam,18344,13560,13.96
+ae-bihar-1995,AE,Bihar,1995,1995,official,253,Bodh Gaya,SC,,97508,IND,Malti Devi,28403,INC,Ram Uday Prasad,17264,11139,11.42
+ae-bihar-1995,AE,Bihar,1995,1995,official,254,Barachatti,SC,,93565,JD,Bhagwati Devi,38610,BJP,Ram Swaroop Paswan,13611,24999,26.72
+ae-bihar-1995,AE,Bihar,1995,1995,official,255,Fatehpur,SC,,114377,JD,Ram Naresh Prasad,53093,INC,Jitan Ram Manjhi,46072,7021,6.14
+ae-bihar-1995,AE,Bihar,1995,1995,official,256,Atri,GEN,,132546,JD,Rajender Prasad Yadav,77133,BJP,Krishan Kumar Singh,21468,55665,42.0
+ae-bihar-1995,AE,Bihar,1995,1995,official,257,Nawada,GEN,,134604,IND,Raj Ballabh Prasad,47825,INC,Kaushal Yadav,20468,27357,20.32
+ae-bihar-1995,AE,Bihar,1995,1995,official,258,Rajauli,SC,,117331,JD,Babu Lal,45480,INC,Banwari Ram,37796,7684,6.55
+ae-bihar-1995,AE,Bihar,1995,1995,official,259,Gobindpur,GEN,,102350,JD,K.B. Prasad,39098,INC,Gaytri Devi,14854,24244,23.69
+ae-bihar-1995,AE,Bihar,1995,1995,official,260,Warsaliganj,GEN,,111554,INC,Ramashray Prasad Singh,51980,CPI,Kedar Prasad,39712,12268,11.0
+ae-bihar-1995,AE,Bihar,1995,1995,official,261,Hisua,GEN,,94368,INC,Aditya Singh,36034,CPI,Lal Narayan Singh,23510,12524,13.27
+ae-bihar-1995,AE,Bihar,1995,1995,official,262,Kodarma,GEN,,125103,JD,Ramesh Prasad Yadav,53051,BJP,Ramesh Singh,33076,19975,15.97
+ae-bihar-1995,AE,Bihar,1995,1995,official,263,Barhi,GEN,,91667,INC,Manoj Kr. Yadav,38790,BJP,Mahabir Sahu,15147,23643,25.79
+ae-bihar-1995,AE,Bihar,1995,1995,official,264,Chatra,SC,,80066,JD,Janardan Paswan,40239,BJP,Mahendra Singh Bhogla,20784,19455,24.3
+ae-bihar-1995,AE,Bihar,1995,1995,official,265,Simaria,SC,,79108,BJP,Upendra Nath Das,21405,CPI(M),Ram Chandra Ram,19271,2134,2.7
+ae-bihar-1995,AE,Bihar,1995,1995,official,266,Barkagaon,GEN,,135835,BJP,Lok Nath Mahto,52316,CPI,Ramendra Kumar,35180,17136,12.62
+ae-bihar-1995,AE,Bihar,1995,1995,official,267,Ramgarh,GEN,,133625,BJP,Shankar Choudhary,33514,CPI,Sabir Ahmad Quareshi,31870,1644,1.23
+ae-bihar-1995,AE,Bihar,1995,1995,official,268,Mandu,GEN,,144542,JMM(M),Teklal Mahto,39771,BJP,Rameshwar Shahu,20728,19043,13.17
+ae-bihar-1995,AE,Bihar,1995,1995,official,269,Hazaribagh,GEN,,122678,BJP,Deo Dayal,57463,JD,S.A. Rizvi,30118,27345,22.29
+ae-bihar-1995,AE,Bihar,1995,1995,official,270,Barkatha,GEN,,114883,BJP,Khagendra Prasad,37484,CPI,Digmbar Kumar Mehata,19360,18124,15.78
+ae-bihar-1995,AE,Bihar,1995,1995,official,271,Dhanwar,GEN,,117160,JD,Guru Sahay Mahto,38604,INC,Tilakdhari Prasad Singh,22982,15622,13.33
+ae-bihar-1995,AE,Bihar,1995,1995,official,272,Bagodar,GEN,,114039,CPIML,Mahendra Prasad Singh,35035,JD,Mathura Prasad,25056,9979,8.75
+ae-bihar-1995,AE,Bihar,1995,1995,official,273,Jamua,SC,,109220,BJP,Sukar Rabidas,51357,CPI,Baldeo Hazra,33421,17936,16.42
+ae-bihar-1995,AE,Bihar,1995,1995,official,274,Gandey,GEN,,106596,BJP,Laxaman Swarnkar,37810,JMM,Salkhan Soren,27052,10758,10.09
+ae-bihar-1995,AE,Bihar,1995,1995,official,275,Giridih,GEN,,89420,BJP,Chandra Mohan Prasad,23123,INC,Jyotindra Prasad,17859,5264,5.89
+ae-bihar-1995,AE,Bihar,1995,1995,official,276,Dumri,GEN,,106156,JMM(M),Shiva Mahto,36794,INC,Maqsood Alam,23808,12986,12.23
+ae-bihar-1995,AE,Bihar,1995,1995,official,277,Gomia,GEN,,116409,BJP,Chhatru Ram Mahto,38397,JD,Madhav Lal Singh,34221,4176,3.59
+ae-bihar-1995,AE,Bihar,1995,1995,official,278,Bermo,GEN,,138302,INC,Rajendra Prasad Singh,40361,CPI,Shafique Khan,39550,811,0.59
+ae-bihar-1995,AE,Bihar,1995,1995,official,279,Bokaro,GEN,,212468,JD,Aklu Ram Mahto,99798,IND,Samresh Singh,69483,30315,14.27
+ae-bihar-1995,AE,Bihar,1995,1995,official,280,Tundi,GEN,,106875,JMM(M),Saba Ahmad,28874,INC,Uday Kumar Singh,26541,2333,2.18
+ae-bihar-1995,AE,Bihar,1995,1995,official,281,Baghmara,GEN,,123931,INC,Om Prakas Lal,30120,JMM(M),Jaleshwar Mahato,28915,1205,0.97
+ae-bihar-1995,AE,Bihar,1995,1995,official,282,Sindri,GEN,,130593,MCOR,Anand Mahto,41927,JMM(S),Hafijuddin Ansari,36659,5268,4.03
+ae-bihar-1995,AE,Bihar,1995,1995,official,283,Nirsa,GEN,,128585,MCOR,Gurudas Chatterji,45686,INC,Kripa Shanker Chatterji,29442,16244,12.63
+ae-bihar-1995,AE,Bihar,1995,1995,official,284,Dhanbad,GEN,,155369,BJP,Pasupatinath Singh,36984,JD,Ramadhar Yadv,32978,4006,2.58
+ae-bihar-1995,AE,Bihar,1995,1995,official,285,Jharia,GEN,,136820,JD,Abo Devi,45271,SJP(R),Baccha Singh,41424,3847,2.81
+ae-bihar-1995,AE,Bihar,1995,1995,official,286,Chandankiyari,SC,,94855,IND,Gaur Harijan,29941,JD,Haru Rajwar,15292,14649,15.44
+ae-bihar-1995,AE,Bihar,1995,1995,official,287,Baharagora,GEN,,117477,CPI,Devipada Upadhayay,29896,JMM,Harishankar Mahato,25778,4118,3.51
+ae-bihar-1995,AE,Bihar,1995,1995,official,288,Ghatsila,ST,,117788,INC,Pradeep Kumar Balmuchu,41062,JMM,Ramdas Hansda,25332,15730,13.35
+ae-bihar-1995,AE,Bihar,1995,1995,official,289,Potka,ST,,116866,JMM,Hari Ram Sardar,28699,INC,Budharam Soy,23955,4744,4.06
+ae-bihar-1995,AE,Bihar,1995,1995,official,290,Jugsalai,SC,,130925,JMM,Dulal Bhuiyan,38816,INC,Hari Mukhi,22330,16486,12.59
+ae-bihar-1995,AE,Bihar,1995,1995,official,291,Jamshedpur East,GEN,,121633,BJP,Raghuwar Das,26880,INC,K.P. Singh,25779,1101,0.91
+ae-bihar-1995,AE,Bihar,1995,1995,official,292,Jamshedpur West,GEN,,127594,BJP,Mrigendra Pratap Singh,40960,JD,Md. Hassan Rizvi,36963,3997,3.13
+ae-bihar-1995,AE,Bihar,1995,1995,official,293,Ichagarh,GEN,,109420,IND,Arvind Kumar Singh,35746,JMM,Sudhir Mahato,19441,16305,14.9
+ae-bihar-1995,AE,Bihar,1995,1995,official,294,Seraikella,ST,,116110,JMM,Champai Soren,36926,BJP,Panchu Tudu,21246,15680,13.5
+ae-bihar-1995,AE,Bihar,1995,1995,official,295,Chaibasa,ST,,79632,BJP,Jawaharlal Banra,16299,INC,Krishana Sundi,14881,1418,1.78
+ae-bihar-1995,AE,Bihar,1995,1995,official,296,Majhgaon,ST,,58335,JD,Gobardhan Nayak,13150,INC,Devendra Nath Champia,12389,761,1.3
+ae-bihar-1995,AE,Bihar,1995,1995,official,297,Jaganathpur,ST,,64600,JPP,Mangal Singh Bobonga,20736,BJP,Madhu Kora,13732,7004,10.84
+ae-bihar-1995,AE,Bihar,1995,1995,official,298,Manoharpur,ST,,71030,JPP,Joba Majhi,20219,INC,Guru Charan Nayak,14528,5691,8.01
+ae-bihar-1995,AE,Bihar,1995,1995,official,299,Chakradharpur,ST,,82364,BJP,Laxman Giluwa,17479,INC,Somai Gagrai,15733,1746,2.12
+ae-bihar-1995,AE,Bihar,1995,1995,official,300,Kharasawan,ST,,78832,JMM,Arjun Munda,27164,INC,Vijoy Singh Soy,21998,5166,6.55
+ae-bihar-1995,AE,Bihar,1995,1995,official,301,Tamar,ST,,91507,INC,Kali Charan Munda,23451,SAP,Ramesh Singh Munda,17857,5594,6.11
+ae-bihar-1995,AE,Bihar,1995,1995,official,302,Tokpa,ST,,71904,JKP,N.E. Horo,22156,INC,Doli Kandulna,14314,7842,10.91
+ae-bihar-1995,AE,Bihar,1995,1995,official,303,Khunti,ST,,73988,INC,Sushila Kerketta,24474,BJP,Chamra Munda,12756,11718,15.84
+ae-bihar-1995,AE,Bihar,1995,1995,official,304,Silli,GEN,,97999,INC,Keshavmahto Kamlesh,41073,CPI(M),Rajendra Singh Munda,24347,16726,17.07
+ae-bihar-1995,AE,Bihar,1995,1995,official,305,Khijri,ST,,115476,BJP,Duti Pahan,33806,INC,Sawana Lakra,33713,93,0.08
+ae-bihar-1995,AE,Bihar,1995,1995,official,306,Ranchi,GEN,,119246,BJP,Yaswant Sinha,52617,JD,Ashok Kumar Singh,32474,20143,16.89
+ae-bihar-1995,AE,Bihar,1995,1995,official,307,Hatia,GEN,,121456,BJP,Ramji Lal Sharda,40641,JD,Abhay Kumar Singh,27465,13176,10.85
+ae-bihar-1995,AE,Bihar,1995,1995,official,308,Kanke,SC,,117770,BJP,Ram Chandra Baitha,41387,JD,Samari Lal,29383,12004,10.19
+ae-bihar-1995,AE,Bihar,1995,1995,official,309,Mandar,ST,,112625,JMM,Vishwanath Bhagat,37066,JD,Karam Chand Bhagat,27804,9262,8.22
+ae-bihar-1995,AE,Bihar,1995,1995,official,310,Sisai,ST,,86986,INC,Bandi Oraon,32616,BJP,Dinesh Oraon,20388,12228,14.06
+ae-bihar-1995,AE,Bihar,1995,1995,official,311,Kolebira,ST,,88820,JMM,Basant Kumar Longa,28829,INC,Theodore Kiro,17134,11695,13.17
+ae-bihar-1995,AE,Bihar,1995,1995,official,312,Simdega,ST,,91697,JMM,Neil Tirkey,31304,BJP,Nirmal Kumar Besra,23223,8081,8.81
+ae-bihar-1995,AE,Bihar,1995,1995,official,313,Gumla,ST,,91076,JMM,Bernard Minj,37301,BJP,Jitbahan Baraik,22212,15089,16.57
+ae-bihar-1995,AE,Bihar,1995,1995,official,314,Bishnupur,ST,,84142,INC,Bhukhla Bhagat,30786,JPP,Binod Kumar Bhagat,15645,15141,17.99
+ae-bihar-1995,AE,Bihar,1995,1995,official,315,Lohardaga,ST,,90597,BJP,Sadhnu Bhagat,28084,INC,Indra Nath Bhagat,25526,2558,2.82
+ae-bihar-1995,AE,Bihar,1995,1995,official,316,Latehar,SC,,54404,JD,Baljit Ram,12300,INC,Haridarshan Ram,11258,1042,1.92
+ae-bihar-1995,AE,Bihar,1995,1995,official,317,Manika,ST,,68095,JD,Ram Chandra Singh (Mongra),16757,BJP,Yamuna Singh,15810,947,1.39
+ae-bihar-1995,AE,Bihar,1995,1995,official,318,Panki,GEN,,88372,IND,Sankteshwar Singh,27856,JD,Madhu Singh,17450,10406,11.78
+ae-bihar-1995,AE,Bihar,1995,1995,official,319,Daltonganj,GEN,,109197,JD,Inder Singh Namdhari,41372,BJP,Surachmani Singh,20696,20676,18.93
+ae-bihar-1995,AE,Bihar,1995,1995,official,320,Garhwa,GEN,,103674,JD,Girinath Singh,28454,BJP,Shyam Narayan Dubey,19984,8470,8.17
+ae-bihar-1995,AE,Bihar,1995,1995,official,321,Bhawanathpur,GEN,,119570,JD,Giriwar Pandey,27378,IND,Dharmender Pr. Dev,17337,10041,8.4
+ae-bihar-1995,AE,Bihar,1995,1995,official,322,Bishrampur,GEN,,95581,JD,Ramchander Chandervanshi,25778,INC,Chander Shekhar Dubey,17303,8475,8.87
+ae-bihar-1995,AE,Bihar,1995,1995,official,323,Chhatarpur,SC,,73642,INC,Radha Krishna Kishore,27581,JD,Laxman Ram,22105,5476,7.44
+ae-bihar-1995,AE,Bihar,1995,1995,official,324,Hussainabad,GEN,,85877,JD,Awadesh Kr. Singh,28551,BJP,Kameshwar Prasad,14749,13802,16.07

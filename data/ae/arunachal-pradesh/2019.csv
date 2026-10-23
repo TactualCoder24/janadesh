@@ -1,0 +1,61 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,1,Lumla,ST,Tawang,7819,BJP,Jambey Tashi,4551,NPP,Jampa Thirnly Kunkhap,3268,1283,16.41
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,2,Tawang,ST,Tawang,8560,BJP,Tsering Tashi,6326,INC,Thupten Tempa,2234,4092,47.8
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,3,Mukto,ST,Tawang,6960,BJP,Pema Khandu,5004,INC,Thupten Kunphen,1956,3048,43.79
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,4,Dirang,ST,West Kameng,11767,BJP,Phurpa Tsering,11767,,Elected Unopposed,,11767,100.0
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,5,Kalaktang,ST,West Kameng,9758,JDU,Dorjee Wangdi Kharma,5923,BJP,Tenzing Norbu Thongdok,3835,2088,21.4
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,6,Thrizino-Buragaon,ST,West Kameng,8694,BJP,Kumsi Sidisow,7329,INC,Kalo Dususow,1365,5964,68.6
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,7,Bomdila,ST,West Kameng,8643,JDU,Dongru Siongju,4494,BJP,Japu Deru,4149,345,3.99
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,8,Bameng,ST,East Kameng,9065,BJP,Goruk Pordung,4714,NPP,Kumar Waii,4351,363,4.0
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,9,Chayangtajo,ST,East Kameng,10290,JDU,Hayeng Mangfi,5464,BJP,L K Yangfo,4826,638,6.2
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,10,Seppa East,ST,East Kameng,10238,NPP,Tapuk Taku,5139,BJP,Ealing Tallang,5099,40,0.39
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,11,Seppa West,ST,East Kameng,6570,BJP,Mama Natung,4060,JDU,Tani Loffa,2510,1550,23.59
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,12,Pakke-Kessang,ST,East Kameng,7385,BJP,Biyuram Wahge,4904,INC,Atum Welly,2481,2423,32.81
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,13,Itanagar,ST,Papum Pare *,32931,JDU,Techi Kaso,16663,BJP,Kipa Babu,16268,395,1.2
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,14,Doimukh,ST,Papum Pare *,12828,BJP,Tana Hali Tara,7479,NPP,Nabam Vivek,5349,2130,16.6
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,15,Sagalee,ST,Papum Pare *,10702,INC,Nabam Tuki,6186,NPP,Tarh Hari,4516,1670,15.6
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,16,Yachuli,ST,Lower Subansiri,11006,BJP,Taba Tedir,11006,,Elected Unopposed,,11006,100.0
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,17,Ziro-Hapoli,ST,Lower Subansiri,15853,BJP,Tage Taki,8703,INC,Nani Ribia,7150,1553,9.8
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,18,Palin,ST,Kurung Kumey,10307,BJP,Balo Raja,5504,INC,Takam Pario,4803,701,6.8
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,19,Nyapin,ST,Kurung Kumey,10936,BJP,Bamang Felix,5545,INC,Tai Nikio,5391,154,1.41
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,20,Tali,ST,Kurung Kumey,5998,JDU,Jikke Tako,3029,BJP,Thaji Gichak Kiogi,2969,60,1.0
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,21,Koloriang,ST,Kurung Kumey,9593,BJP,Lokam Tassar,4998,NPP,Pani Taram,4595,403,4.2
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,22,Nacho,ST,Upper Subansiri,6636,BJP,Nakap Nalo,3564,INC,Tanga Byaling,3072,492,7.41
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,23,Taliha,ST,Upper Subansiri,6096,BJP,Nyato Rigia,3463,NPP,Rudham Sindhu,2633,830,13.62
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,24,Daporijo,ST,Upper Subansiri,11161,BJP,Taniya Soki,5636,JDU,Dikto Yekar,5525,111,0.99
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,25,Raga,ST,Upper Subansiri,10582,NPP,Tarin Dapke,5386,PPA,Nido Pavitra,5196,190,1.8
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,26,Dumporijo,ST,Upper Subansiri,8865,BJP,Rode Bui,4956,NPP,Paknga Bage,3909,1047,11.81
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,27,Liromoba,ST,West Siang,8248,BJP,Nyamar Karbak,4421,NPP,Jarpum Gamlin,3827,594,7.2
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,28,Likabali,ST,West Siang,8363,PPA,Kardo Nyigyor,4282,BJP,Tapak Lendo,4081,201,2.4
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,29,Basar,ST,West Siang,14287,NPP,Gokar Basar,7272,BJP,Gojen Gadi,7015,257,1.8
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,30,Along West,ST,West Siang,9547,BJP,Tumke Bagra,5194,JDU,Topin Ete,4353,841,8.81
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,31,Along East,ST,West Siang,11056,BJP,Kento Jini,11056,,Elected Unopposed,,11056,100.0
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,32,Rumgong,ST,West Siang,9178,JDU,Talem Taboh,4626,BJP,Tamiyo Taga,4552,74,0.81
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,33,Mechuka,ST,West Siang,6787,BJP,Pasang Dorjee Sona,3421,NPP,Tori Ragyor,3366,55,0.81
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,34,Tuting-Yingkiong,ST,Upper Siang *,11299,BJP,Alo Libang,6565,JDS,Gegong Apang,4734,1831,16.2
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,35,Pangin,ST,East Siang,11311,BJP,Ojing Tasing,7691,INC,Tapang Taloh,3620,4071,35.99
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,36,Nari-Koyu,ST,East Siang,5725,BJP,Kento Rina,2994,INC,Tojir Kadu,2731,263,4.59
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,37,Pasighat West,ST,East Siang,11883,INC,Ninong Ering,6286,BJP,Tatung Jamoh,5597,689,5.8
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,38,Pasighat East,ST,East Siang,14633,BJP,Kaling Moyong,7873,INC,Bosiram Siram,6760,1113,7.61
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,39,Mebo,ST,East Siang,8452,INC,Lombo Tayeng,4378,BJP,Dangi Perme,4074,304,3.6
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,40,Mariyang-Geku,ST,Upper Siang *,10925,JDU,Kanggong Taku,6184,BJP,Anong Perme,4741,1443,13.21
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,41,Anini,ST,Dibang Valley,4433,BJP,Mopi Mihu,2895,INC,Singe Milli,1538,1357,30.61
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,42,Dambuk,ST,Lower Dibang Valley,9940,BJP,Gum Tayeng,5387,NPP,Tony Pertin,4553,834,8.39
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,43,Roing,ST,Lower Dibang Valley,10663,NPP,Mutchu Mithi,5555,BJP,Laeta Umbrey,5108,447,4.19
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,44,Tezu,ST,Lohit,12482,IND,Karikho Kri,6303,BJP,Mahesh Chai,6179,124,0.99
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,45,Hayuliang,ST,Anjaw,11471,BJP,Dasanglu Pul,6435,INC,Lupalum Kri,5036,1399,12.2
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,46,Chowkham,ST,Lohit,11694,BJP,Chowna Mein,9893,INC,Khunang Kri,1801,8092,69.2
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,47,Namsai,ST,Lohit,18842,BJP,Chau Zingnu Namchoom,15752,NPP,Mualin Agan,3090,12662,67.2
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,48,Lekang,ST,Lohit,14420,BJP,Jummum Ete Deori,10382,INC,Takam Sanjoy,4038,6344,43.99
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,49,Bordumsa-Diyun,GEN,Changlang,10949,IND,Somlung Mossang,6745,BJP,Jawra Maio,4204,2541,23.21
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,50,Miao,ST,Changlang,15174,BJP,Kamlung Mossang,9453,INC,Chatu Longri,5721,3732,24.59
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,51,Nampong,ST,Changlang,9744,BJP,Laisam Simai,6100,NPP,Tainan James Jugli,3644,2456,25.21
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,52,Changlang South,ST,Changlang,4649,BJP,Phosum Khimhun,2589,INC,Latlang Tangha,2060,529,11.38
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,53,Changlang North,ST,Changlang,9770,BJP,Tesam Pongte,6771,INC,Thinghaap Taiju,2999,3772,38.61
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,54,Namsang,ST,Tirap,9301,BJP,Wangki Lowang,6306,INC,Ngonglin Boi,2995,3311,35.6
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,55,Khonsa East,ST,Tirap,8992,BJP,Wanglam Sawin,6762,NPP,Danhang Phuksa,2230,4532,50.4
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,56,Khonsa West,ST,Tirap,8711,NPP,Tirong Aboh,4826,BJP,Phawang Lowang,3885,941,10.8
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,57,Borduria-Bagapani,ST,Tirap,7487,INC,Wanglin Lowangdong,3818,BJP,Jowang Hosai,3669,149,1.99
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,58,Kanubari,ST,Tirap,8481,BJP,Gabriel Denwang Wangsu,6200,INC,Nokchai Boham,2281,3919,46.21
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,59,Longding-Pumao,ST,Tirap,9884,BJP,Tanpho Wangnaw,5357,NPP,Thangwang Wangham,4527,830,8.4
+ae-arunachal-pradesh-2019,AE,Arunachal Pradesh,2019,2019,official_winners_only,60,Pongchau-Wakka,ST,Tirap,14812,BJP,Honchun Ngandam,10191,INC,Thangkai Khusumchai,4621,5570,37.6

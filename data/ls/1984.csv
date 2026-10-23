@@ -1,0 +1,542 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ls-1984,LS,India,1984,1984,official,1,Andaman & Nicobar Islands,GEN,Andaman & Nicobar Islands,88968,INC,Manoranjan Bhakta,47019,LKD,K.Kandaswamy,27883,19136,21.51
+ls-1984,LS,India,1984,1984,official,2,Adilabad,GEN,Andhra Pradesh,428360,TDP,C. Madhav Reddy,238440,INC,C. Narisimha Reddy,183882,54558,12.74
+ls-1984,LS,India,1984,1984,official,3,Amalapuram,GEN,Andhra Pradesh,518409,TDP,Aithabathula Jogeswara Venkata Buthci Maheswara Rao,317481,INC,Kusuma Krishna Murthy,197750,119731,23.1
+ls-1984,LS,India,1984,1984,official,4,Anakapalli,GEN,Andhra Pradesh,489910,TDP,Appalanarasimham P,322347,INC,Appalanaidy S.R.A.S,147531,174816,35.68
+ls-1984,LS,India,1984,1984,official,5,Anantapur,GEN,Andhra Pradesh,511203,TDP,Devineni Narayana Swamy,302307,INC,Daruru Pullaiah,193658,108649,21.25
+ls-1984,LS,India,1984,1984,official,6,Bapatla,GEN,Andhra Pradesh,557115,TDP,Chimata Sambu,290492,INC,Rajeswara Rao Maddirala,256072,34420,6.18
+ls-1984,LS,India,1984,1984,official,7,Bhadrachalam,GEN,Andhra Pradesh,388873,CPI,Sode Ramaiah,195618,INC,B.Radhabai Anandarao,170978,24640,6.34
+ls-1984,LS,India,1984,1984,official,8,Bobbili,GEN,Andhra Pradesh,508750,TDP,Anand Gajapathi Raju Poosapati,315156,INC,Penumetcha Samba Siva Raju,177573,137583,27.04
+ls-1984,LS,India,1984,1984,official,9,Chittoor,GEN,Andhra Pradesh,609686,TDP,N.P.Jhansi Lakshmi,332543,INC,Amaranadha Reddy Nallari,271332,61211,10.04
+ls-1984,LS,India,1984,1984,official,10,Cuddapah,GEN,Andhra Pradesh,638866,TDP,D.N.Reddy,332915,INC,Obula Reddy Kandula,278607,54308,8.5
+ls-1984,LS,India,1984,1984,official,11,Eluru,GEN,Andhra Pradesh,593356,TDP,Bolla Bulli Ramaiah,351340,INC,Vatti Venkata Ranga Partha Sarathi,239688,111652,18.82
+ls-1984,LS,India,1984,1984,official,12,Guntur,GEN,Andhra Pradesh,592866,INC,N.G.Ranga,293589,TDP,Chandraskhara Rao Movva,281695,11894,2.01
+ls-1984,LS,India,1984,1984,official,13,Hanamkonda,GEN,Andhra Pradesh,503390,BJP,Chandupatla Janga Reddy,263762,INC,P.V. Narasimha Rao,209564,54198,10.77
+ls-1984,LS,India,1984,1984,official,14,Hindupur,GEN,Andhra Pradesh,553108,TDP,K. Ramachandra Reddy,349239,INC,D. Reddappa Reddy,193902,155337,28.08
+ls-1984,LS,India,1984,1984,official,15,Hyderabad,GEN,Andhra Pradesh,582774,IND,Sultan Salahuddin Owaise,222187,TDP,K.Prahbakara Reddy,218706,3481,0.6
+ls-1984,LS,India,1984,1984,official,16,Kakinada,GEN,Andhra Pradesh,569750,TDP,Thota Gopala Krishna,344038,INC,Sanjeeva Rao M.S,214324,129714,22.77
+ls-1984,LS,India,1984,1984,official,17,Karimnagar,GEN,Andhra Pradesh,482312,INC,Juvvadi Chokkarao,243357,IND,Chenna Reddy M,164750,78607,16.3
+ls-1984,LS,India,1984,1984,official,18,Khammam,GEN,Andhra Pradesh,583968,INC,Jalagam Vengala Rao,261056,CPI,Nallamala Prasad Rao,169557,91499,15.67
+ls-1984,LS,India,1984,1984,official,19,Kurnool,GEN,Andhra Pradesh,508259,TDP,Erasu Ayyapu Reddy,253832,INC,Kotla Vijaya Bhaskara Reddy,246542,7290,1.43
+ls-1984,LS,India,1984,1984,official,20,Machilipatnam,GEN,Andhra Pradesh,546813,INC,Sambasivarao Kuvuru,272513,TDP,Vaddi Rangarao,263420,9093,1.66
+ls-1984,LS,India,1984,1984,official,21,Mahabubnagar,GEN,Andhra Pradesh,528152,JNP,Sudini Jaipal Reddy,274064,INC,Mallikarjun,193961,80103,15.17
+ls-1984,LS,India,1984,1984,official,22,Medak,GEN,Andhra Pradesh,546654,TDP,P.Manik Reddy,263524,INC,P.Shiv Shanker,261708,1816,0.33
+ls-1984,LS,India,1984,1984,official,23,Miryalguda,GEN,Andhra Pradesh,602916,CPI(M),Bhimreddy Narsimha Reddy,282973,INC,Chakilam Sreenivasa Rao,241218,41755,6.93
+ls-1984,LS,India,1984,1984,official,24,Nagarkurnool,GEN,Andhra Pradesh,522089,TDP,V. Tulsiram,301089,INC,Anantharamulu Mallu,211952,89137,17.07
+ls-1984,LS,India,1984,1984,official,25,Nalgonda,GEN,Andhra Pradesh,548803,TDP,Mallareddy Raguma Reddy,324973,INC,Damodar Reddy Tummalpally,210563,114410,20.85
+ls-1984,LS,India,1984,1984,official,26,Nandyal,GEN,Andhra Pradesh,551221,TDP,Maddur Subba Reddy,298420,INC,Pendekanti Venkata Subbaiah,248157,50263,9.12
+ls-1984,LS,India,1984,1984,official,27,Narasapur,GEN,Andhra Pradesh,556257,TDP,Vijaya Kumar Raju Bhupathiraju,366534,INC,Alluri Subhaschandra Bose,170160,196374,35.3
+ls-1984,LS,India,1984,1984,official,28,Narasaraopet,GEN,Andhra Pradesh,591714,TDP,Katuri Narayanaswamy,295059,INC,Kasu Bramananda Reddy,280821,14238,2.41
+ls-1984,LS,India,1984,1984,official,29,Nellore,GEN,Andhra Pradesh,547786,TDP,Penchalaiah Puchalapalli,296284,INC,Orepalli Venkata Subbaiah,242733,53551,9.78
+ls-1984,LS,India,1984,1984,official,30,Nizamabad,GEN,Andhra Pradesh,516393,INC,Tadur Bala Goud,251172,TDP,M. Narayan Reddy,248725,2447,0.47
+ls-1984,LS,India,1984,1984,official,31,Ongole,GEN,Andhra Pradesh,565289,TDP,Bezawada Papireddy,287662,INC,Venkata Reddy Puli,269519,18143,3.21
+ls-1984,LS,India,1984,1984,official,32,Parvathipuram,GEN,Andhra Pradesh,427938,ICS,Kishore Chandra Suryamarayana Deo Vyricheria,233175,INC,Narasimha Rao Viswasa Rayi,184495,48680,11.38
+ls-1984,LS,India,1984,1984,official,33,Peddapalli,GEN,Andhra Pradesh,473876,TDP,Gotte Bhoopathy,246334,INC,Ganta Srihari,199376,46958,9.91
+ls-1984,LS,India,1984,1984,official,34,Rajahmundry,GEN,Andhra Pradesh,614265,TDP,Srihari Rao,381091,INC,Satyanarayana Rao S.B.P.B.K,227213,153878,25.05
+ls-1984,LS,India,1984,1984,official,35,Rajampet,GEN,Andhra Pradesh,493737,TDP,Palakondrayudu Sugavasi,298060,INC,A.Sai Prathap,180913,117147,23.73
+ls-1984,LS,India,1984,1984,official,36,Secunderabad,GEN,Andhra Pradesh,502471,INC,T.Anjaiah,246309,BJP,Bandaru Dattareya,237835,8474,1.69
+ls-1984,LS,India,1984,1984,official,37,Siddipet,GEN,Andhra Pradesh,543299,TDP,G.Vijayaramarao,253243,INC,Yelliah Nandi,239042,14201,2.61
+ls-1984,LS,India,1984,1984,official,38,Srikakulam,GEN,Andhra Pradesh,491364,TDP,Appayyadora Hanumantu,298167,INC,Rajgopalarao Boddepalli,173699,124468,25.33
+ls-1984,LS,India,1984,1984,official,39,Tenali,GEN,Andhra Pradesh,510954,TDP,Nissankararao Venkataratnam,256766,INC,Basav Punnayya Singam,246328,10438,2.04
+ls-1984,LS,India,1984,1984,official,40,Tirupati,GEN,Andhra Pradesh,602153,TDP,Chinta Mohan,318467,INC,Penchalaiah Pasala,283686,34781,5.78
+ls-1984,LS,India,1984,1984,official,41,Vijayawada,GEN,Andhra Pradesh,623913,TDP,Vadde Sobhanadreeswara Rao,318023,INC,Chennupati Vidya,289579,28444,4.56
+ls-1984,LS,India,1984,1984,official,42,Visakhapatnam,GEN,Andhra Pradesh,547284,TDP,Bhattam Sreerama Murthy,334399,INC,Appalaswamy Kommuru Alias Sanjeeva Rao,193968,140431,25.66
+ls-1984,LS,India,1984,1984,official,43,Warangal,GEN,Andhra Pradesh,532750,TDP,T. Kalpana Devi,232088,INC,Kamaluddin Ahmed,223632,8456,1.59
+ls-1984,LS,India,1984,1984,official,44,Arunachal East,GEN,Arunachal Pradesh,95530,INC,Wangpha Lowang,41912,PPA,Bakin Pertin,22697,19215,20.11
+ls-1984,LS,India,1984,1984,official,45,Arunachal West,GEN,Arunachal Pradesh,131016,INC,P.K.Thangon,56219,PPA,Tomo Riba,55758,461,0.35
+ls-1984,LS,India,1984,1984,official,46,Autonomous District,GEN,Assam,207149,INC,Biren Singh Engti,79183,IND,Mansing Rangpi,64632,14551,7.02
+ls-1984,LS,India,1984,1984,official,47,Barpeta,GEN,Assam,636586,IND,Ataur Rahman,282533,CPI(M),Sirajul Hoque,80543,201990,31.73
+ls-1984,LS,India,1984,1984,official,48,Dhubri,GEN,Assam,617349,IND,Abdul Hamid,159945,INC,Nurul Islam,148127,11818,1.91
+ls-1984,LS,India,1984,1984,official,49,Dibrugarh,GEN,Assam,452402,INC,Haren Bhumji,229263,IND,Nagen Saikia,187208,42055,9.3
+ls-1984,LS,India,1984,1984,official,50,Gauhati,GEN,Assam,702508,IND,Dinesh Goswami,428013,INC,Bhagaban Lahkar,124507,303506,43.2
+ls-1984,LS,India,1984,1984,official,51,Jorhat,GEN,Assam,505149,IND,Parag Chaliha,288540,INC,Bijoy Krishna Handique,189787,98753,19.55
+ls-1984,LS,India,1984,1984,official,52,Kaliabor,GEN,Assam,579280,IND,Bhadreswar Tanti,240647,INC,Tarun Kumar Gogoi,151647,89000,15.36
+ls-1984,LS,India,1984,1984,official,53,Karimganj,GEN,Assam,489669,ICS,Sudarsan Das,230823,INC,Nihar Ranjan Laskar,156402,74421,15.2
+ls-1984,LS,India,1984,1984,official,54,Kokrajhar,GEN,Assam,614363,PTC,Samar Brahma Choudhury,184508,IND,Prasenjit Brahma,170744,13764,2.24
+ls-1984,LS,India,1984,1984,official,55,Lakhimpur,GEN,Assam,501246,IND,Gakul Saikia,251730,CPI,Nameswar Pegu,81796,169934,33.9
+ls-1984,LS,India,1984,1984,official,56,Mangaldoi,GEN,Assam,615571,IND,Saifuddin Akmed,282014,INC,Imran Shah,68770,213244,34.64
+ls-1984,LS,India,1984,1984,official,57,Nowgong,GEN,Assam,593134,IND,Muhiram Saikia,229377,INC,Haji Abdur Rouf,74017,155360,26.19
+ls-1984,LS,India,1984,1984,official,58,Silchar,GEN,Assam,449662,INC,Santosh Mohan Dev,219790,CPI(M),Noorul Huda,175711,44079,9.8
+ls-1984,LS,India,1984,1984,official,59,Tezpur,GEN,Assam,504167,INC,Bipin Pal Das,159440,JNP,Purna Narayan Sinha,144643,14797,2.93
+ls-1984,LS,India,1984,1984,official,60,Araria,GEN,Bihar,461247,INC,Doomar Lal Baitha,294582,LKD,Mahendra Nasardar,95696,198886,43.12
+ls-1984,LS,India,1984,1984,official,61,Arrah,GEN,Bihar,427186,INC,Bali Ram Bhagat,227206,LKD,Noor Ahmad,72284,154922,36.27
+ls-1984,LS,India,1984,1984,official,62,Aurangabad,GEN,Bihar,477527,INC,Satyendra Narain Singh,277567,JNP,Shankar Deyal Singh,111532,166035,34.77
+ls-1984,LS,India,1984,1984,official,63,Bagaha,GEN,Bihar,304522,INC,Bhola Raut,209301,JNP,Jagannath Prasad Swatantra,43767,165534,54.36
+ls-1984,LS,India,1984,1984,official,64,Balia,GEN,Bihar,481535,INC,Chandra Bhanu Devi,246049,CPI,Surj Narayan Singh,122148,123901,25.73
+ls-1984,LS,India,1984,1984,official,65,Banka,GEN,Bihar,478599,INC,Manorma Singh,306703,BJP,Janardan Yadav,154731,151972,31.75
+ls-1984,LS,India,1984,1984,official,66,Barh,GEN,Bihar,603538,INC,Prakash Chandra,384719,ICS,Dharamaveer Singh,161983,222736,36.91
+ls-1984,LS,India,1984,1984,official,67,Begusarai,GEN,Bihar,527813,INC,Krishna Shahi,387165,JNP,Kapil Deo Singh,105529,281636,53.36
+ls-1984,LS,India,1984,1984,official,68,Bettiah,GEN,Bihar,401008,INC,Manoj Kumar Pande,223945,CPI,Pitambar Singh,88677,135268,33.73
+ls-1984,LS,India,1984,1984,official,69,Bhagalpur,GEN,Bihar,561299,INC,Bhagwat Jha Azad,228030,LKD,Jagesar Mandal,197545,30485,5.43
+ls-1984,LS,India,1984,1984,official,70,Bikramganj,GEN,Bihar,583682,INC,Tapeshwar Singh,283232,LKD,Ram Awadhesh Singh,281819,1413,0.24
+ls-1984,LS,India,1984,1984,official,71,Buxar,GEN,Bihar,449035,INC,Kamla Kant Tiwari,207732,CPI,Tej Narayan Singh,152030,55702,12.4
+ls-1984,LS,India,1984,1984,official,72,Chapra,GEN,Bihar,455256,JNP,Ram Bahadur Singh,163494,INC,Bhishmaprasad Yadav,137488,26006,5.71
+ls-1984,LS,India,1984,1984,official,73,Chatra,GEN,Bihar,374141,INC,Yogeshwar Prasad Yogesh,211020,ICJ,Shukdeo Prasad Verma,54478,156542,41.84
+ls-1984,LS,India,1984,1984,official,74,Darbhanga,GEN,Bihar,436415,LKD,Vijay Kumar Mishra,224540,INC,Hari Nath Mishra,152373,72167,16.54
+ls-1984,LS,India,1984,1984,official,75,Dhanbad,GEN,Bihar,492912,INC,Shankar Dayal Singh,203909,IND,A.K.Roy,141614,62295,12.64
+ls-1984,LS,India,1984,1984,official,76,Dumka,GEN,Bihar,370588,INC,Prithiwi Chand Kisku,199722,JMM,Shibu Soren,102535,97187,26.23
+ls-1984,LS,India,1984,1984,official,77,Gaya,GEN,Bihar,532473,INC,Ram Swaroop Ram,234195,BJP,Ishwar Chaudhary,149760,84435,15.86
+ls-1984,LS,India,1984,1984,official,78,Giridih,GEN,Bihar,365304,INC,Sarfraj Ahmed,195519,IND,Binod Bihari Mahto,70766,124753,34.15
+ls-1984,LS,India,1984,1984,official,79,Godda,GEN,Bihar,423885,INC,Saminuddin,192465,BJP,Falguni Prasad Yaddav,72092,120373,28.4
+ls-1984,LS,India,1984,1984,official,80,Gopalganj,GEN,Bihar,485309,IND,Kali Prasad Pandey,287360,LKD,Nagina Roy,110268,177092,36.49
+ls-1984,LS,India,1984,1984,official,81,Hajipur,GEN,Bihar,587033,INC,Ram Ratan Ram,314725,LKD,Ram Bilas Paswan,263509,51216,8.72
+ls-1984,LS,India,1984,1984,official,82,Hazaribagh,GEN,Bihar,370181,INC,Damodar Pandey,176762,CPI,Bhuwaneshwar Pd. Mehto,116381,60381,16.31
+ls-1984,LS,India,1984,1984,official,83,Jahanabad,GEN,Bihar,743232,CPI,Ramasharay Pd. Singh,376640,INC,Mahendra Prasad,345664,30976,4.17
+ls-1984,LS,India,1984,1984,official,84,Jamshedpur,GEN,Bihar,430721,INC,Gopeshwar,196965,CPI,Tikaram Manjhi,130763,66202,15.37
+ls-1984,LS,India,1984,1984,official,85,Jhanjharpur,GEN,Bihar,581972,INC,Gauri Shankar Rajhans,375745,LKD,Dhanik Lal Mandal,170353,205392,35.29
+ls-1984,LS,India,1984,1984,official,86,Katihar,GEN,Bihar,459174,INC,Tariq Anwar,229883,JNP,Juvraj,183940,45943,10.01
+ls-1984,LS,India,1984,1984,official,87,Khagaria,GEN,Bihar,481938,INC,Chandra Shekhar Prasad Verma,252055,CPI(M),Yogeshwar Gope,110529,141526,29.37
+ls-1984,LS,India,1984,1984,official,88,Khunti,GEN,Bihar,237756,INC,Simon Tigga,97721,IND,Nirel Enem Horo,64711,33010,13.88
+ls-1984,LS,India,1984,1984,official,89,Kishanganj,GEN,Bihar,433914,INC,Jamilur Rahman,191754,LKD,M. Mushtak,75624,116130,26.76
+ls-1984,LS,India,1984,1984,official,90,Kodarma,GEN,Bihar,354686,INC,Tilak Dhari Singh,208731,BJP,Ritlal Pd. Verma,97348,111383,31.4
+ls-1984,LS,India,1984,1984,official,91,Lohardaga,GEN,Bihar,264044,INC,Sumati Oraon,157284,BJP,Lalit Oraon,55217,102067,38.66
+ls-1984,LS,India,1984,1984,official,92,Madhepura,GEN,Bihar,548212,INC,Mahabir Prasad Yadav,298258,LKD,Rajendra Prasad Yadav,222961,75297,13.74
+ls-1984,LS,India,1984,1984,official,93,Madhubani,GEN,Bihar,565339,INC,Abdul Hannan An,350684,CPI,Bhogendra Jha,201864,148820,26.32
+ls-1984,LS,India,1984,1984,official,94,Maharajganj,GEN,Bihar,404895,INC,Krishnapratap Singh,255462,JNP,Ram Deo Singh,121558,133904,33.07
+ls-1984,LS,India,1984,1984,official,95,Monghyr,GEN,Bihar,543826,INC,Devendra Pd. Yadav,268328,CPI,Brahmanand Singh,104985,163343,30.04
+ls-1984,LS,India,1984,1984,official,96,Motihari,GEN,Bihar,427975,INC,Prabhawati Gupta,255980,CPI,Kamla Mishra Madhukar,111685,144295,33.72
+ls-1984,LS,India,1984,1984,official,97,Muzaffarpur,GEN,Bihar,548778,INC,Laliteshwar Prasad Shahi,325604,LKD,Jainarayan Prasad Nishad,176630,148974,27.15
+ls-1984,LS,India,1984,1984,official,98,Nalanda,GEN,Bihar,623021,CPI,Vijay Kumar Yadav,230531,INC,Pankaj Kumar Sinha,191060,39471,6.34
+ls-1984,LS,India,1984,1984,official,99,Nawada,GEN,Bihar,545948,INC,Kunwar Ram,351358,CPI(M),Prem Pradeep,114256,237102,43.43
+ls-1984,LS,India,1984,1984,official,100,Palamu,GEN,Bihar,351294,INC,Kamla Kumari,254846,JNP,Ram Sundar Das,69796,185050,52.68
+ls-1984,LS,India,1984,1984,official,101,Patna,GEN,Bihar,495684,INC,C. P. Thakur,214989,CPI,Ramavatar Shashtri,142808,72181,14.56
+ls-1984,LS,India,1984,1984,official,102,Purnea,GEN,Bihar,432462,INC,Madhuree Singh,294076,LKD,Kamal Natha Jha,103676,190400,44.03
+ls-1984,LS,India,1984,1984,official,103,Rajmahal,GEN,Bihar,308962,INC,Seth Hembrom,154676,JMM,Simon Marandi,75820,78856,25.52
+ls-1984,LS,India,1984,1984,official,104,Ranchi,GEN,Bihar,329377,INC,Sheo Prasad Sahu,162945,BJP,Ram Tahal Chowdhary,54384,108561,32.96
+ls-1984,LS,India,1984,1984,official,105,Rosera,GEN,Bihar,465311,INC,Ram Bhagat Paswan,268848,LKD,Ram Sewak Hazari,171630,97218,20.89
+ls-1984,LS,India,1984,1984,official,106,Saharsa,GEN,Bihar,626702,INC,Chandra Kishore Pathak,273793,LKD,Vinayak Prasad Yadav,165709,108084,17.25
+ls-1984,LS,India,1984,1984,official,107,Samastipur,GEN,Bihar,567145,INC,Ramdeo Rai,327585,LKD,Karpoori Thakur,219224,108361,19.11
+ls-1984,LS,India,1984,1984,official,108,Sasaram,GEN,Bihar,429566,ICJ,Jagjiwan Ram,207275,INC,Mahabir Paswan,205903,1372,0.32
+ls-1984,LS,India,1984,1984,official,109,Sheohar,GEN,Bihar,485977,INC,Ram Dulari Singh,254881,JNP,Hari Kishor Singh,174328,80553,16.58
+ls-1984,LS,India,1984,1984,official,110,Singhbhum,GEN,Bihar,231716,INC,Begun Sumbrui,103160,IND,Devendra Majhi,42949,60211,25.98
+ls-1984,LS,India,1984,1984,official,111,Sitamarhi,GEN,Bihar,469981,INC,Ranshresth Khirhar,217307,LKD,Indal Singh Navin,95763,121544,25.86
+ls-1984,LS,India,1984,1984,official,112,Siwan,GEN,Bihar,415031,INC,Abdul Ghafoor,250235,BJP,Janardan Tiwari,112243,137992,33.25
+ls-1984,LS,India,1984,1984,official,113,Vaishali,GEN,Bihar,563617,INC,Kishori Sinha,267546,LKD,Tarkeshwari Sinha,247593,19953,3.54
+ls-1984,LS,India,1984,1984,official,114,Chandigarh,GEN,Chandigarh,156143,INC,Jagan Nath Kaushal,103090,JNP,Harmohan Dhawan,36790,66300,42.46
+ls-1984,LS,India,1984,1984,official,115,Dadra & Nagar Haveli,GEN,Dadra & Nagar Haveli,38380,IND,Gavli Sitaram Jivyabhai,20852,INC,Mahala Ramjibhai Potiabhai,15471,5381,14.02
+ls-1984,LS,India,1984,1984,official,116,Chandni Chowk,GEN,Delhi,201701,INC,Jai Parkash Agarwal,122069,BJP,Sikander Bakht,74993,47076,23.34
+ls-1984,LS,India,1984,1984,official,117,Delhi Sadar,GEN,Delhi,250108,INC,Jagdish Tytler,155333,BJP,Madan Lal Khurana,89480,65853,26.33
+ls-1984,LS,India,1984,1984,official,118,East Delhi,GEN,Delhi,501822,INC,H.K.L.Bhagat,386150,JNP,Kishore Lal,73970,312180,62.21
+ls-1984,LS,India,1984,1984,official,119,Karol Bagh,GEN,Delhi,220064,INC,Sunderwati Nawal Prabhakar,151416,BJP,Surender Pal Rathwal,64844,86572,39.34
+ls-1984,LS,India,1984,1984,official,120,New Delhi,GEN,Delhi,194413,INC,Krsihan Chandra Pant,131932,BJP,Kanwar Lal Gupta,59046,72886,37.49
+ls-1984,LS,India,1984,1984,official,121,Outer Delhi,GEN,Delhi,502376,INC,Bharat Singh,365454,LKD,Tarif Singh,115777,249677,49.7
+ls-1984,LS,India,1984,1984,official,122,South Delhi,GEN,Delhi,353499,INC,Lalit Maken,215898,BJP,Vijay Kumar Malhotra,130847,85051,24.06
+ls-1984,LS,India,1984,1984,official,123,Marmagoa,GEN,"Goa, Daman & Diu",202993,INC,Eduardo Faleiro,100453,IND,Luizinho Faleiro,41644,58809,28.97
+ls-1984,LS,India,1984,1984,official,124,Panaji,GEN,"Goa, Daman & Diu",205575,INC,Shantaram L. Naik,88326,MAG,Bandekar Motilal Bombi,48778,39548,19.24
+ls-1984,LS,India,1984,1984,official,125,Ahmedabad,GEN,Gujarat,454232,INC,Haroobhai Mehta,231751,BJP,Ashok Bhatt,198614,33137,7.3
+ls-1984,LS,India,1984,1984,official,126,Amreli,GEN,Gujarat,392302,INC,Ravani Navinchandrabhai Parmananddas,208205,IND,Pateldwarkadas Mohan Lal,170337,37868,9.65
+ls-1984,LS,India,1984,1984,official,127,Anand,GEN,Gujarat,488582,INC,Ishverbhai Khodabhai Chavada,250877,JNP,Manubhai Dahyabhai Patel,175704,75173,15.39
+ls-1984,LS,India,1984,1984,official,128,Banaskantha,GEN,Gujarat,384786,INC,B.K.Gadhvi,182674,JNP,Chavda Harisinhji Pratapsinhji,155391,27283,7.09
+ls-1984,LS,India,1984,1984,official,129,Bhavnagar,GEN,Gujarat,351914,INC,Gohil Gigabhai Bhavubhai,132444,JNP,Mehta Prasannvadan Manilal,121449,10995,3.12
+ls-1984,LS,India,1984,1984,official,130,Broach,GEN,Gujarat,430877,INC,Patel Ahmedbhai Mohammedbhai,271458,JNP,Deshmukh Chandubhai Shanabhai,148389,123069,28.56
+ls-1984,LS,India,1984,1984,official,131,Bulsar,GEN,Gujarat,395555,INC,Patel Uttambhai Harjibhai,220217,BJP,Patel Kanjibhai Maganbhai,165527,54690,13.83
+ls-1984,LS,India,1984,1984,official,132,Chhota Udaipur,GEN,Gujarat,350902,INC,Rathwa Amarsinh Viriyabhai,222414,JNP,Kolidhor Bhimsinhbhai Nagjibhai,110427,111987,31.91
+ls-1984,LS,India,1984,1984,official,133,Dhandhuka,GEN,Gujarat,376637,INC,Narsinhbhai Karsanbhai Makwana,194403,BJP,Ratilal Kalidas Verma,171787,22616,6.0
+ls-1984,LS,India,1984,1984,official,134,Dohad,GEN,Gujarat,251863,INC,Damor Somjibhai Punjabhai,169944,JNP,Hathila Narsinhbhai Kanjibhai,55207,114737,45.56
+ls-1984,LS,India,1984,1984,official,135,Gandhinagar,GEN,Gujarat,533963,INC,G.I.Patel,250126,JNP,Indubhai Chaturbhai Patel,247372,2754,0.52
+ls-1984,LS,India,1984,1984,official,136,Godhra,GEN,Gujarat,341861,INC,Jaydeepsinhji,205741,BJP,Solanki Gopalsinh Gulabsinh,119894,85847,25.11
+ls-1984,LS,India,1984,1984,official,137,Jamnagar,GEN,Gujarat,340991,INC,Jadeja Daulatsinh Partap Sinh,177317,IND,Chelubhai Rambhai,154227,23090,6.77
+ls-1984,LS,India,1984,1984,official,138,Junagadh,GEN,Gujarat,357549,INC,Patel Mohanbhai Laljibhai,188441,JNP,Ramnikbhai Dhami,156498,31943,8.93
+ls-1984,LS,India,1984,1984,official,139,Kaira,GEN,Gujarat,444179,INC,Ajitsinh Fulsinhji Dyabhai,292019,LKD,Satyam Patel,144586,147433,33.19
+ls-1984,LS,India,1984,1984,official,140,Kapadvanj,GEN,Gujarat,447256,INC,Solanki Nataversingh Kesarisinghji,229664,BJP,Gabhaji Mangaji Thakor,197340,32324,7.23
+ls-1984,LS,India,1984,1984,official,141,Kutch,GEN,Gujarat,296597,INC,Ushaben Raghavji Thakkar,129624,LKD,Mahipatray Mulshanker Mehta,99539,30085,10.14
+ls-1984,LS,India,1984,1984,official,142,Mandvi,GEN,Gujarat,392385,INC,Gamit Chhitubhai Devjibhai,239862,JNP,Amarsinh Zinabhai Chaudhary,134339,105523,26.89
+ls-1984,LS,India,1984,1984,official,143,Mehsana,GEN,Gujarat,543999,BJP,A.K.Patel,287555,INC,Rayanka Sagarbhai Kalyanbhai,243659,43896,8.07
+ls-1984,LS,India,1984,1984,official,144,Patan,GEN,Gujarat,386538,INC,Vankar Punamchand Mithabhai,183052,JNP,Chavda Khemchandbhai Sombhai,176265,6787,1.76
+ls-1984,LS,India,1984,1984,official,145,Porbandar,GEN,Gujarat,341332,INC,Odedara Bharatbhai Maldevji,205262,BJP,Amin Ramadas Kishordas (R.K.Amin),127311,77951,22.84
+ls-1984,LS,India,1984,1984,official,146,Rajkot,GEN,Gujarat,407785,INC,Mavani Ramaben Ramjibhai,225360,BJP,Shukla Chimanbhai Harilal,167770,57590,14.12
+ls-1984,LS,India,1984,1984,official,147,Sabarkantha,GEN,Gujarat,443237,JNP,H.M.Patel,208477,INC,Shantubhai Chunibhai Patel,201718,6759,1.52
+ls-1984,LS,India,1984,1984,official,148,Surat,GEN,Gujarat,534169,INC,Patel Chhaganbhai Devabhai,286928,BJP,Rana Kashiram Chhabildas,236253,50675,9.49
+ls-1984,LS,India,1984,1984,official,149,Surendranagar,GEN,Gujarat,362578,INC,Jhala Digivijaysinhji Pratapsinhji,191632,BJP,Shah Babulal,155254,36378,10.03
+ls-1984,LS,India,1984,1984,official,150,Vadodara,GEN,Gujarat,525592,INC,Gaekwad Ranjitsinh Pratapshinh,296716,BJP,Jaspalsing Niranjansing,144164,152552,29.02
+ls-1984,LS,India,1984,1984,official,151,Ambala,GEN,Haryana,475553,INC,Ram Prakash,283062,BJP,Suraj Bhan,105710,177352,37.29
+ls-1984,LS,India,1984,1984,official,152,Bhiwani,GEN,Haryana,526063,INC,Bansi Lal,347226,ICJ,Jai Narain,160149,187077,35.56
+ls-1984,LS,India,1984,1984,official,153,Faridabad,GEN,Haryana,528050,INC,Rahim Khan,285214,ICJ,Tayyab Hussain,150843,134371,25.45
+ls-1984,LS,India,1984,1984,official,154,Hissar,GEN,Haryana,483557,INC,Birinder Singh,251367,LKD,Om Parkash,200161,51206,10.59
+ls-1984,LS,India,1984,1984,official,155,Karnal,GEN,Haryana,507586,INC,Chiranji Lal,247063,ICJ,Devi Singh,148111,98952,19.49
+ls-1984,LS,India,1984,1984,official,156,Kurukshetra,GEN,Haryana,508712,INC,Harpal Singh,275112,LKD,Manohar Lal,131836,143276,28.16
+ls-1984,LS,India,1984,1984,official,157,Mahendragarh,GEN,Haryana,594892,INC,Birender Singh,360971,BJP,Ram Bilas,130757,230214,38.7
+ls-1984,LS,India,1984,1984,official,158,Rohtak,GEN,Haryana,439037,INC,Hardwari Lal,216294,LKD,Sarup Singh,185363,30931,7.05
+ls-1984,LS,India,1984,1984,official,159,Sirsa,GEN,Haryana,508299,INC,Dalbir Singh,277855,LKD,Mani Ram,195923,81932,16.12
+ls-1984,LS,India,1984,1984,official,160,Sonepat,GEN,Haryana,501658,INC,Dharam Pal Singh,243491,LKD,Devi Lal,240550,2941,0.59
+ls-1984,LS,India,1984,1984,official,161,Hamirpur,GEN,Himachal Pradesh,384592,INC,Narain Chand,242214,BJP,Prem Kumar Dhumel,117281,124933,32.48
+ls-1984,LS,India,1984,1984,official,162,Kangra,GEN,Himachal Pradesh,371954,INC,Chandresh Kumari,232287,BJP,Sarvan Kumar,114854,117433,31.57
+ls-1984,LS,India,1984,1984,official,163,Mandi,GEN,Himachal Pradesh,331973,INC,Sukh Ram,224146,BJP,Madhukar,92495,131651,39.66
+ls-1984,LS,India,1984,1984,official,164,Shimla,GEN,Himachal Pradesh,306320,INC,Krishan Dutt Sultanpuri,244010,JNP,Kirpal Dharampuri,47719,196291,64.08
+ls-1984,LS,India,1984,1984,official,165,Anantnag,GEN,Jammu & Kashmir,411826,JKNC,Akbar Jahan Begum,240973,INC,Peer Hussan-Ud-Din,158963,82010,19.91
+ls-1984,LS,India,1984,1984,official,166,Baramulla,GEN,Jammu & Kashmir,336293,JKNC,Saif -Ud- Din Soz,234357,IND,Mohi -Ud -Din -Wani,93938,140419,41.75
+ls-1984,LS,India,1984,1984,official,167,Jammu,GEN,Jammu & Kashmir,565043,INC,Janak Raj Gupta,262796,JKNC,Shabir Ahmed Salaria,142604,120192,21.27
+ls-1984,LS,India,1984,1984,official,168,Ladakh,GEN,Jammu & Kashmir,59428,INC,Phuntsog Namgyal,33037,JKNC,Qamar Ali,25060,7977,13.42
+ls-1984,LS,India,1984,1984,official,169,Srinagar,GEN,Jammu & Kashmir,452936,JKNC,Abdul Rashid Kabuli,367249,IND,Muzaffer Ahmed Shah,80972,286277,63.2
+ls-1984,LS,India,1984,1984,official,170,Udhampur,GEN,Jammu & Kashmir,362630,INC,Girdhari Lal Dogra,206639,JPP,Bhim Singh,95149,111490,30.74
+ls-1984,LS,India,1984,1984,official,171,Bagalkot,GEN,Karnataka,471652,INC,Patil Hanmantagouda Bhimanagouda,234955,JNP,Nadagouda Mallangagouda Pravatagouda,224443,10512,2.23
+ls-1984,LS,India,1984,1984,official,172,Bangalore North,GEN,Karnataka,509062,INC,C. K. Jaffer Sharief,260279,JNP,George Fernandes,218733,41546,8.16
+ls-1984,LS,India,1984,1984,official,173,Bangalore South,GEN,Karnataka,556427,JNP,V. S. Krishna Iyer,264765,INC,K. Venkatagiri Gowda,252033,12732,2.29
+ls-1984,LS,India,1984,1984,official,174,Belgaum,GEN,Karnataka,474671,INC,Sidnal Shanmukhappa Basappa,202506,JNP,Appayyagouda Basagouda Patil,166966,35540,7.49
+ls-1984,LS,India,1984,1984,official,175,Bellary,GEN,Karnataka,493575,INC,Basavarajeswari,276640,JNP,M. P. Prakash,204354,72286,14.65
+ls-1984,LS,India,1984,1984,official,176,Bidar,GEN,Karnataka,337013,INC,Nasing Suryavansi,179836,BJP,Rajendra Verma,120221,59615,17.69
+ls-1984,LS,India,1984,1984,official,177,Bijapur,GEN,Karnataka,425210,JNP,Guraddi Shivashankareppa Mallappa,206737,INC,Choudhari Rayagondappa Bhimanna,204318,2419,0.57
+ls-1984,LS,India,1984,1984,official,178,Chamarajanagar,GEN,Karnataka,447713,INC,V. Sreenivasa Prasad,240665,JNP,G. N. Malleshaiah,160012,80653,18.01
+ls-1984,LS,India,1984,1984,official,179,Chikkaballapura,GEN,Karnataka,544943,INC,V. Krishna Rao,282279,JNP,R. L .Jalappa,237965,44314,8.13
+ls-1984,LS,India,1984,1984,official,180,Chikkodi,GEN,Karnataka,477292,INC,B. Shankaranad,228030,JNP,Annappa Kallappa Rayannavar,224385,3645,0.76
+ls-1984,LS,India,1984,1984,official,181,Chikmagalur,GEN,Karnataka,435137,INC,D. K. Taradevi,268912,CPI,B. K. Sundaresh,128872,140040,32.18
+ls-1984,LS,India,1984,1984,official,182,Chitradurga,GEN,Karnataka,533729,INC,K. H. Ranganath,279146,JNP,B. L. Gowda,222335,56811,10.64
+ls-1984,LS,India,1984,1984,official,183,Davanagere,GEN,Karnataka,536196,INC,Channaiah Odeyar,290003,JNP,K. G. Maheswarappa,224262,65741,12.26
+ls-1984,LS,India,1984,1984,official,184,Dharwad North,GEN,Karnataka,439404,INC,Naikar Dyamappa Kallappa,229865,JNP,S. I. Shettar,185014,44851,10.21
+ls-1984,LS,India,1984,1984,official,185,Dharwad South,GEN,Karnataka,485203,INC,Azeez Sait,257834,JNP,Abdul Nairsab,200227,57607,11.87
+ls-1984,LS,India,1984,1984,official,186,Gulbarga,GEN,Karnataka,401269,INC,Veerenira Patil,235751,JNP,Vidyadhar Guruji,140261,95490,23.8
+ls-1984,LS,India,1984,1984,official,187,Hassan,GEN,Karnataka,536111,INC,H. N. Nanjegowda,265488,JNP,K. B. Mallappa,233519,31969,5.96
+ls-1984,LS,India,1984,1984,official,188,Kanakapura,GEN,Karnataka,638720,INC,M. V. Chandrashekara Murthy,305210,JNP,P. G. R. Sindhiya,298184,7026,1.1
+ls-1984,LS,India,1984,1984,official,189,Kanara,GEN,Karnataka,471741,INC,G. Devaray Naik,237064,JNP,G. S. Hegde Ajjibal,187866,49198,10.43
+ls-1984,LS,India,1984,1984,official,190,Kolar,GEN,Karnataka,461385,JNP,V. Venkatesh,239562,INC,G. Y. Krishnan,194797,44765,9.7
+ls-1984,LS,India,1984,1984,official,191,Koppal,GEN,Karnataka,459573,INC,H. G. Ramulu,238466,JNP,K. Paparao Veerayya,180515,57951,12.61
+ls-1984,LS,India,1984,1984,official,192,Mandya,GEN,Karnataka,545109,JNP,K. V. Shankaragowda,319176,INC,S. M. Krishna,198780,120396,22.09
+ls-1984,LS,India,1984,1984,official,193,Mangalore,GEN,Karnataka,482800,INC,Janardhana Poojary,299490,BJP,K. Rama Bhat,180091,119399,24.73
+ls-1984,LS,India,1984,1984,official,194,Mysore,GEN,Karnataka,452885,INC,Srikantadatta Narasimharaja Wadiyar,247754,IND,K. P. Shanthamurthy,183144,64610,14.27
+ls-1984,LS,India,1984,1984,official,195,Raichur,GEN,Karnataka,392451,INC,B. V. Desai,212244,JNP,Vishwanath Reddy,154858,57386,14.62
+ls-1984,LS,India,1984,1984,official,196,Shimoga,GEN,Karnataka,516801,INC,T. V. Chandrashekarappa,299038,BJP,D. G. Shivannagowda,175364,123674,23.93
+ls-1984,LS,India,1984,1984,official,197,Tumkur,GEN,Karnataka,520111,INC,G. S. Basavaraju,265249,JNP,Y. K. Ramaiah,234839,30410,5.85
+ls-1984,LS,India,1984,1984,official,198,Udupi,GEN,Karnataka,460814,INC,Oscar Fernandes,287412,BJP,K. S. Hegde,145076,142336,30.89
+ls-1984,LS,India,1984,1984,official,199,Adoor,GEN,Kerala,505878,INC,K. K. Kunhambu,273463,CPI,P. K. Raghavan,222491,50972,10.08
+ls-1984,LS,India,1984,1984,official,200,Alappuzha,GEN,Kerala,584666,INC,Vakkon Purushothaman,303732,CPI(M),Suseela Gopalan,265968,37764,6.46
+ls-1984,LS,India,1984,1984,official,201,Badagara,GEN,Kerala,579462,ICS,K. P. Unnikrishnan,270416,IND,K. M. Radhakrishnan,259437,10979,1.89
+ls-1984,LS,India,1984,1984,official,202,Calicut,GEN,Kerala,556858,INC,K. G. Adiyodi,278216,IML,Moideenkutty Haji (Bavae Haji),224155,54061,9.71
+ls-1984,LS,India,1984,1984,official,203,Chirayinkil,GEN,Kerala,525386,INC,Thalekkunnil Basheer,266230,CPI(M),K. Sudhakaran,234765,31465,5.99
+ls-1984,LS,India,1984,1984,official,204,Ernakulam,GEN,Kerala,547865,INC,K. V. Thomas,277374,ICS,A. A. Kochunny Master,207050,70324,12.84
+ls-1984,LS,India,1984,1984,official,205,Idukki,GEN,Kerala,534172,INC,P. J. Kurian,308056,CPI,C. A. Kurian,177432,130624,24.45
+ls-1984,LS,India,1984,1984,official,206,Kannur,GEN,Kerala,559056,INC,Muliappalli Ramachandran,288791,CPI(M),Pattiam Rajan,263738,25053,4.48
+ls-1984,LS,India,1984,1984,official,207,Kasaragod,GEN,Kerala,577331,INC,I. Rama Rai,262904,CPI(M),Balanandan,251535,11369,1.97
+ls-1984,LS,India,1984,1984,official,208,Kollam,GEN,Kerala,562086,INC,S. Krishna Kumar,279728,IND,R. S. Unni,259371,20357,3.62
+ls-1984,LS,India,1984,1984,official,209,Kottayam,GEN,Kerala,556784,CPI(M),Suresh Kurup,264444,KEC,Skaria Thomas,258591,5853,1.05
+ls-1984,LS,India,1984,1984,official,210,Manjeri,GEN,Kerala,564898,IUML,Ebrahim Sulaman Sait,287538,CPI(M),E. K. Imbichi Bava,216363,71175,12.6
+ls-1984,LS,India,1984,1984,official,211,Mavelikara,GEN,Kerala,499463,JNP,Thampan Thomas,232339,IND,T. N. Upendranatha Kurup,231052,1287,0.26
+ls-1984,LS,India,1984,1984,official,212,Mukundapuram,GEN,Kerala,564866,KCJ,K. Mohandas,290594,CPI(M),M. M. Lawrence,246209,44385,7.86
+ls-1984,LS,India,1984,1984,official,213,Muvattupuzha,GEN,Kerala,519776,KCJ,George Joseph Mundakkal (Baby),307519,CPI(M),P. P. Esthose,199319,108200,20.82
+ls-1984,LS,India,1984,1984,official,214,Ottapalam,GEN,Kerala,530080,INC,K. R. Narayanan,290177,CPI(M),A. K. Balan,234607,55570,10.48
+ls-1984,LS,India,1984,1984,official,215,Palakkad,GEN,Kerala,556296,INC,V. S. Vijayaraghavan,287170,CPI(M),T. Sivadasa Menon,249017,38153,6.86
+ls-1984,LS,India,1984,1984,official,216,Ponnani,GEN,Kerala,492911,IUML,G. M. Banatwalla,288216,CPI,Koladi Govindankutty,185890,102326,20.76
+ls-1984,LS,India,1984,1984,official,217,Thiruvananthapuram,GEN,Kerala,557700,INC,A. Charles,239791,LKD,A. Neela Lohithadasan Nadar,186353,53438,9.58
+ls-1984,LS,India,1984,1984,official,218,Thrissur,GEN,Kerala,517477,INC,P. A. Antony,268683,CPI,V. V. Raghavan,217393,51290,9.91
+ls-1984,LS,India,1984,1984,official,219,Lakshadweep,GEN,Lakshadweep,19023,INC,Mohammad Sayeed Padannatha,10361,IND,Mohammadkoya Kunnamakulam,8662,1699,8.93
+ls-1984,LS,India,1984,1984,official,220,Balaghat,GEN,Madhya Pradesh,406216,INC,Nandkishore Sharma,169497,BJP,Lochanlal Narayan Thakre,101380,68117,16.77
+ls-1984,LS,India,1984,1984,official,221,Bastar,GEN,Madhya Pradesh,217204,INC,Mankuram Sodi,118729,CPI,Mahendra Karma,42419,76310,35.13
+ls-1984,LS,India,1984,1984,official,222,Betul,GEN,Madhya Pradesh,313649,INC,Aslam Sherkhan,147190,IND,M. N. Buch,109240,37950,12.1
+ls-1984,LS,India,1984,1984,official,223,Bhind,GEN,Madhya Pradesh,406747,INC,Krishna Singh,194160,BJP,Vasundhara Raje,106757,87403,21.49
+ls-1984,LS,India,1984,1984,official,224,Bhopal,GEN,Madhya Pradesh,389943,INC,K. N. Pradhan,240717,BJP,Laxmi Narayan Sharma,112053,128664,33.0
+ls-1984,LS,India,1984,1984,official,225,Bilaspur,GEN,Madhya Pradesh,337427,INC,Khelan Ram Jangde,213395,BJP,Govindram Miri,99128,114267,33.86
+ls-1984,LS,India,1984,1984,official,226,Chhindwara,GEN,Madhya Pradesh,349646,INC,Kamal Nath,234846,BJP,Batra Ram Kishan,81021,153825,43.99
+ls-1984,LS,India,1984,1984,official,227,Damoh,GEN,Madhya Pradesh,442630,INC,Dal Chandra Jain,227570,BJP,Narendra Singh Yadvendra Singh,177301,50269,11.36
+ls-1984,LS,India,1984,1984,official,228,Dhar,GEN,Madhya Pradesh,413082,INC,Pratapsingh Baghel,264577,BJP,Dheerendrasingh Lachhamansingh,129222,135355,32.77
+ls-1984,LS,India,1984,1984,official,229,Durg,GEN,Madhya Pradesh,484110,INC,Chandulal Chandrakar,311000,BJP,Dharampal Singh Gupta,138406,172594,35.65
+ls-1984,LS,India,1984,1984,official,230,Guna,GEN,Madhya Pradesh,367746,INC,Mahendra Singh,229091,BJP,Udhav Singh,88611,140480,38.2
+ls-1984,LS,India,1984,1984,official,231,Gwalior,GEN,Madhya Pradesh,461275,INC,Madhavrao Jiwajirao Scindia,307735,BJP,Atal Behari,132141,175594,38.07
+ls-1984,LS,India,1984,1984,official,232,Hoshangabad,GEN,Madhya Pradesh,423701,INC,Rameshwar Nikhra,238358,BJP,Nageen Kochar,167779,70579,16.66
+ls-1984,LS,India,1984,1984,official,233,Indore,GEN,Madhya Pradesh,478826,INC,Prakash Chand Sethi,272122,BJP,Rajendra Nilkanth Dharkar,181296,90826,18.97
+ls-1984,LS,India,1984,1984,official,234,Jabalpur,GEN,Madhya Pradesh,418243,INC,Ajay Narayan Mushran,256911,BJP,Babhurao Paranjpe,134588,122323,29.25
+ls-1984,LS,India,1984,1984,official,235,Janjgir,GEN,Madhya Pradesh,364638,INC,Prabhat Kumar Mishra,213710,BJP,Badri Dhar Diwan,61530,152180,41.73
+ls-1984,LS,India,1984,1984,official,236,Jhabua,GEN,Madhya Pradesh,334119,INC,Dileep Singh Bhurio,216786,BJP,Bhagwan Singh Chauhan,82254,134532,40.26
+ls-1984,LS,India,1984,1984,official,237,Kanker,GEN,Madhya Pradesh,330006,INC,Arvind Netam,225545,BJP,Aghan Singh Thakur,89358,136187,41.27
+ls-1984,LS,India,1984,1984,official,238,Khajuraho,GEN,Madhya Pradesh,470554,INC,Chaturvedi Vidyawati,195820,BJP,Uma Bharti,144994,50826,10.8
+ls-1984,LS,India,1984,1984,official,239,Khandwa,GEN,Madhya Pradesh,422068,INC,Kalicharan Ramratan,239563,BJP,Arif Beg Karamat Beg,152093,87470,20.72
+ls-1984,LS,India,1984,1984,official,240,Khargone,GEN,Madhya Pradesh,425207,INC,Subhash Yadav,229669,BJP,Rameshwar Patidar,162467,67202,15.8
+ls-1984,LS,India,1984,1984,official,241,Mahasamund,GEN,Madhya Pradesh,409101,INC,Vidyacharan Shukla,233325,BJP,Ramesh,94185,139140,34.01
+ls-1984,LS,India,1984,1984,official,242,Mandla,GEN,Madhya Pradesh,284662,INC,Mohan Lal,198095,BJP,Shyamlal Dhurve,69787,128308,45.07
+ls-1984,LS,India,1984,1984,official,243,Mandsaur,GEN,Madhya Pradesh,538761,INC,Balkavi Bairagi (Nandramdas Dwarkadas),292131,BJP,Laxmi Narayan Pandey,232368,59763,11.09
+ls-1984,LS,India,1984,1984,official,244,Morena,GEN,Madhya Pradesh,329052,INC,Kammodilal Jatav,157683,BJP,Munsilal,136115,21568,6.55
+ls-1984,LS,India,1984,1984,official,245,Raigarh,GEN,Madhya Pradesh,346796,INC,Pushpa Devi,216777,BJP,Nand Kumar Sai,103986,112791,32.52
+ls-1984,LS,India,1984,1984,official,246,Raipur,GEN,Madhya Pradesh,382731,INC,Kaiyur Bhushan,223192,BJP,Ramesh Bais,119151,104041,27.18
+ls-1984,LS,India,1984,1984,official,247,Rajgarh,GEN,Madhya Pradesh,437306,INC,Digvijai Singh,277435,BJP,Jamnalal,125338,152097,34.78
+ls-1984,LS,India,1984,1984,official,248,Rajnandgaon,GEN,Madhya Pradesh,335657,INC,Shivendra Bahadur Singh,165891,IND,Kishorilal Shukla,64838,101053,30.11
+ls-1984,LS,India,1984,1984,official,249,Rewa,GEN,Madhya Pradesh,439025,INC,Martand Singh,223619,JNP,Yamuna Prasad Shastri,106790,116829,26.61
+ls-1984,LS,India,1984,1984,official,250,Sagar,GEN,Madhya Pradesh,382616,INC,Nandlal Choudhary,228673,BJP,Ramprasad Ahirwar,141232,87441,22.85
+ls-1984,LS,India,1984,1984,official,251,Sarangarh,GEN,Madhya Pradesh,352675,INC,Parasram Bharadwaj,232861,BJP,Reshamlal Jangde,67682,165179,46.84
+ls-1984,LS,India,1984,1984,official,252,Sarguja,GEN,Madhya Pradesh,324875,INC,Vijai Pratap Singh,180878,BJP,Larang Sai,93708,87170,26.83
+ls-1984,LS,India,1984,1984,official,253,Satna,GEN,Madhya Pradesh,418630,INC,Aziz Qureshi,224684,BJP,Brijendra Pathak,125374,99310,23.72
+ls-1984,LS,India,1984,1984,official,254,Seoni,GEN,Madhya Pradesh,349433,INC,Gargishanker Mishra,190241,BJP,Mahesh Prasad,138191,52050,14.9
+ls-1984,LS,India,1984,1984,official,255,Shahdol,GEN,Madhya Pradesh,315148,INC,Dalbir Singh,193579,BJP,Gyan Singh,53322,140257,44.51
+ls-1984,LS,India,1984,1984,official,256,Shajapur,GEN,Madhya Pradesh,465960,INC,Bapulal Malviya,257753,BJP,Phoolchand Verma,187477,70276,15.08
+ls-1984,LS,India,1984,1984,official,257,Sidhi,GEN,Madhya Pradesh,361219,INC,Motilal Singh,223248,BJP,Jagannath Singh,103279,119969,33.21
+ls-1984,LS,India,1984,1984,official,258,Ujjain,GEN,Madhya Pradesh,429036,INC,Satyanarayan Pawar,226342,BJP,Satyanarayan Jatiya,183983,42359,9.87
+ls-1984,LS,India,1984,1984,official,259,Vidisha,GEN,Madhya Pradesh,430053,INC,Pratapbhanu Krishna Gopal,205437,BJP,Raghavji,195884,9553,2.22
+ls-1984,LS,India,1984,1984,official,260,Ahmednagar,GEN,Maharashtra,478676,INC,Gadakh Yeshwantrao Kankarrao,281873,JNP,Dhakne Babanrao Dadaba,181550,100323,20.96
+ls-1984,LS,India,1984,1984,official,261,Akola,GEN,Maharashtra,513158,INC,Madhusudan Atmaram Vairale,178874,IND,Ambedkar Prakash Yeshwant,165064,13810,2.69
+ls-1984,LS,India,1984,1984,official,262,Amravati,GEN,Maharashtra,417125,INC,Choudhary Ushatai Prakash,217910,ICS,Tasar Sharad Motiram,96164,121746,29.19
+ls-1984,LS,India,1984,1984,official,263,Aurangabad,GEN,Maharashtra,482029,ICS,Sahebrao P.Dongaonkar,246136,INC,Abdul Azim Abdul Hamid,153717,92419,19.17
+ls-1984,LS,India,1984,1984,official,264,Baramati,GEN,Maharashtra,596407,ICS,Pawar Sharadchandra Govindrao,361618,INC,Patil Shankarrao Bajirao,221086,140532,23.56
+ls-1984,LS,India,1984,1984,official,265,Beed,GEN,Maharashtra,456168,INC,Kshirsagar Kehsarbai Sonajirao,221421,IND,Gite (Patil) Shridharrao Gangaramji,111059,110362,24.19
+ls-1984,LS,India,1984,1984,official,266,Bhandara,GEN,Maharashtra,468835,INC,Keshaorao Atmaramji Pardhi,249195,BJP,Mankar Laxmanrao Bisanlal,127491,121704,25.96
+ls-1984,LS,India,1984,1984,official,267,Buldhana,GEN,Maharashtra,463003,INC,Wasnik Mukul Balkrishna,166281,ICS,Kale Sukhdev Nandji,118223,48058,10.38
+ls-1984,LS,India,1984,1984,official,268,Chandrapur,GEN,Maharashtra,441488,INC,Potdukhe Shantaram Rajeshwar,249994,BJP,Dada Deshkar,60839,189155,42.84
+ls-1984,LS,India,1984,1984,official,269,Chimur,GEN,Maharashtra,543843,INC,Muttemwar Vilas Baburao,282404,IND,Ramteke Harichandra Sadashio,110304,172100,31.65
+ls-1984,LS,India,1984,1984,official,270,Dahanu,GEN,Maharashtra,350827,INC,Shingada Damu Barku,166655,CPI(M),Lahanu Shidava,96935,69720,19.87
+ls-1984,LS,India,1984,1984,official,271,Dhule,GEN,Maharashtra,390328,INC,Bhoye Reshama Motiram,219323,BJP,Valvi Kuwarsing Fulzi,153391,65932,16.89
+ls-1984,LS,India,1984,1984,official,272,Erandol,GEN,Maharashtra,457277,INC,Vijaykumar Naval Patil,221522,JNP,Patil Brijlal Bhutta,156367,65155,14.25
+ls-1984,LS,India,1984,1984,official,273,Hingoli,GEN,Maharashtra,402842,INC,Rathode Uttamraoji Baliramji,221026,JNP,Kharate Shankarrao Sambhaji,85935,135091,33.53
+ls-1984,LS,India,1984,1984,official,274,Ichalkaranji,GEN,Maharashtra,517775,INC,Mane Balaso Alias Rajaram Shankarrao,278457,ICS,Kadambande Rajvardhan Raghujirao,234319,44138,8.52
+ls-1984,LS,India,1984,1984,official,275,Jalgaon,GEN,Maharashtra,451845,INC,Mahajan Yadav Shivram,231537,ICS,Patil Pralhadrao Eknathrao,177072,54465,12.05
+ls-1984,LS,India,1984,1984,official,276,Jalna,GEN,Maharashtra,394625,INC,Balasaheb Ramrao Pawar,186318,BJP,Pundlik Hari Danwe,119751,66567,16.87
+ls-1984,LS,India,1984,1984,official,277,Karad,GEN,Maharashtra,417120,INC,Chavan Premalabai Dajisaheb,346579,JNP,Kacchi Yunu Ahmad,61311,285268,68.39
+ls-1984,LS,India,1984,1984,official,278,Khed,GEN,Maharashtra,440451,INC,Ramkrishna More,219413,JNP,Kakde Sambhajirao Sahebrao,201389,18024,4.09
+ls-1984,LS,India,1984,1984,official,279,Kolaba,GEN,Maharashtra,456618,PWP,D. B. Patil,211194,IND,A. R. Antulay,173270,37924,8.31
+ls-1984,LS,India,1984,1984,official,280,Kolhapur,GEN,Maharashtra,424923,INC,Gaikwad Udaysingrao Nanasaheb,277603,PWP,Killedar B.D,128129,149474,35.18
+ls-1984,LS,India,1984,1984,official,281,Kopargaon,GEN,Maharashtra,378438,INC,Vikhe Eknathrao Alias Balesaheb Vithalrao,217982,CPI,Gaikwad Madhavrao Bayaji,146497,71485,18.89
+ls-1984,LS,India,1984,1984,official,282,Latur,GEN,Maharashtra,531815,INC,Patil Shivraj Vishwanath,289466,ICS,Padmasinha Bajirao Patil,203929,85537,16.08
+ls-1984,LS,India,1984,1984,official,283,Malegaon,GEN,Maharashtra,384231,INC,Bhoye Sitaram Sayaji,202424,JNP,Mahale Hari Shankar,164149,38275,9.96
+ls-1984,LS,India,1984,1984,official,284,Mumbai North,GEN,Maharashtra,491595,INC,Anoopchand Khimchand Shah,275522,JNP,Ravinder Verma,175398,100124,20.37
+ls-1984,LS,India,1984,1984,official,285,Mumbai North Central,GEN,Maharashtra,436526,INC,Dighe Sharad Shankar,211443,BJP,Manohar Joshi,79345,132098,30.26
+ls-1984,LS,India,1984,1984,official,286,Mumbai North East,GEN,Maharashtra,642516,INC,Gurudas Kamat,273847,BJP,Pramod Mahajan,177573,96274,14.98
+ls-1984,LS,India,1984,1984,official,287,Mumbai North West,GEN,Maharashtra,509312,INC,Sunil Dutt,308989,BJP,Ram Jethmalani,154349,154640,30.36
+ls-1984,LS,India,1984,1984,official,288,Mumbai South,GEN,Maharashtra,332606,INC,Deora Murli,200152,BJP,Jayawantiben Navinchandra Mehta,94874,105278,31.65
+ls-1984,LS,India,1984,1984,official,289,Mumbai South Central,GEN,Maharashtra,384933,IND,Datta Samant,158841,BJP,Deshpande Roza Vidyadhar,75805,83036,21.57
+ls-1984,LS,India,1984,1984,official,290,Nagpur,GEN,Maharashtra,554354,INC,Banwarilal Bhagwandas Purohit,293739,RPK,Khobragde Shyam Dewaji,163056,130683,23.57
+ls-1984,LS,India,1984,1984,official,291,Nanded,GEN,Maharashtra,511356,INC,Chavan Shankarrao Bhurao,306026,ICS,Kadam Kamalkishor Nanasaheb,134502,171524,33.54
+ls-1984,LS,India,1984,1984,official,292,Nandurbar,GEN,Maharashtra,386045,INC,Gavit Manikrao Holdya,254327,JNP,Vasave Zina Shamya,96808,157519,40.8
+ls-1984,LS,India,1984,1984,official,293,Nashik,GEN,Maharashtra,437177,INC,Mane Murlidhar Pandurang,197428,ICS,Pralhad Namdeo Patilkarad,159882,37546,8.59
+ls-1984,LS,India,1984,1984,official,294,Osmanabad,GEN,Maharashtra,396649,INC,Arvind Tulshiramji Kamble,210727,ICS,Shrungare Tukaram Sadashiv,153599,57128,14.4
+ls-1984,LS,India,1984,1984,official,295,Pandharpur,GEN,Maharashtra,472272,INC,Thorat Sandipan Bhagwan,269989,ICS,Laxmanrao Dhobale,179156,90833,19.23
+ls-1984,LS,India,1984,1984,official,296,Parbhani,GEN,Maharashtra,382899,INC,Yadav Ramrao Narayanrao,212958,PWP,Deshmukh Sheshrao Apparao,124640,88318,23.07
+ls-1984,LS,India,1984,1984,official,297,Pune,GEN,Maharashtra,515541,INC,Gadil Vithalrao Narhari,311278,BJP,Jagannath Rao Joshi,112924,198354,38.47
+ls-1984,LS,India,1984,1984,official,298,Rajapur,GEN,Maharashtra,377215,JNP,Madhu Dandavate,182034,INC,Bhai Sawant,155903,26131,6.93
+ls-1984,LS,India,1984,1984,official,299,Ramtek,GEN,Maharashtra,447579,INC,Narsimha Rao P. V,290905,ICS,Gedam Shankarrao Daulatrao,104933,185972,41.55
+ls-1984,LS,India,1984,1984,official,300,Ratnagiri,GEN,Maharashtra,382140,INC,Husen Dalwai,167859,BJP,Natu Shridhar Dattatrey,144014,23845,6.24
+ls-1984,LS,India,1984,1984,official,301,Sangli,GEN,Maharashtra,466711,INC,Patil Prakash Vasantrao,304202,JNP,Patil Vishwasrao Ramrao,162509,141693,30.36
+ls-1984,LS,India,1984,1984,official,302,Satara,GEN,Maharashtra,461882,INC,Bhosale Prataprao Baburao,270110,ICS,Nimbalkar Yashwant Singh Appasaheb Alias Dadraje Khardekar,174590,95520,20.68
+ls-1984,LS,India,1984,1984,official,303,Sholapur,GEN,Maharashtra,419646,INC,Kuchan Gangadhar Sinramappa,258050,BJP,Racheti Hanmantappaerappa,67418,190632,45.43
+ls-1984,LS,India,1984,1984,official,304,Thane,GEN,Maharashtra,559696,INC,Ghopal Shantaram Gopal,328709,BJP,Patil Jagannath Shivram,213319,115390,20.62
+ls-1984,LS,India,1984,1984,official,305,Wardha,GEN,Maharashtra,499127,INC,Sathe Vasant Purushottam,244390,CPI(M),Ghangare Ramchandra Marotrao,220967,23423,4.69
+ls-1984,LS,India,1984,1984,official,306,Washim,GEN,Maharashtra,467887,INC,Ghulam Nabi Azad,197822,ICS,Rathod Gokuldas Dekhsing,187463,10359,2.21
+ls-1984,LS,India,1984,1984,official,307,Yavatmal,GEN,Maharashtra,432116,INC,Patil Uttamrao Deorao,274957,ICS,Gilani Janmohammed Noormohammed,108755,166202,38.46
+ls-1984,LS,India,1984,1984,official,308,Inner Manipur,GEN,Manipur,427757,INC,N.Tombi Singh,104091,IND,Oinam Tomba,89362,14729,3.44
+ls-1984,LS,India,1984,1984,official,309,Outer Manipur,GEN,Manipur,413455,INC,Meijinlung,189911,MRP,Lhingzaneng,149019,40892,9.89
+ls-1984,LS,India,1984,1984,official,310,Shillong,GEN,Meghalaya,255855,INC,G.G.Swell,142638,IND,Pakem,91812,50826,19.87
+ls-1984,LS,India,1984,1984,official,311,Tura,GEN,Meghalaya,143509,INC,Purno Agitok Sangma,106628,IND,Willnan Sangma,27890,78738,54.87
+ls-1984,LS,India,1984,1984,official,312,Nagaland,GEN,Nagaland,388464,INC,Chingwang,251101,NND,Chalie Kevichusa,113919,137182,35.31
+ls-1984,LS,India,1984,1984,official,313,Aska,GEN,Odisha,401994,INC,Somnath Rath,244253,JNP,Ram Chandra Rath,126209,118044,29.36
+ls-1984,LS,India,1984,1984,official,314,Balasore,GEN,Odisha,485051,INC,Chintamani Jena,274294,JNP,Samarendra Kundu,195109,79185,16.33
+ls-1984,LS,India,1984,1984,official,315,Berhampore,GEN,Odisha,347004,INC,R.Jagannath Rao,235466,JNP,Sujiyanarayan Patra,90606,144860,41.75
+ls-1984,LS,India,1984,1984,official,316,Bhadrak,GEN,Odisha,462916,INC,Ananta Prasad Sethi,256854,JNP,Mangaraj Malik,189435,67419,14.56
+ls-1984,LS,India,1984,1984,official,317,Bhubaneswar,GEN,Odisha,395730,INC,Chintamoni Panigrahi,237716,CPI(M),Sivaji Patnaik,147862,89854,22.71
+ls-1984,LS,India,1984,1984,official,318,Bolangir,GEN,Odisha,350334,INC,Nityanand Misra,184386,JNP,Anang Uday Singh Deo,149434,34952,9.98
+ls-1984,LS,India,1984,1984,official,319,Cuttack,GEN,Odisha,475977,INC,Jayanti Pattanik,263960,JNP,Jogesh Chandra Rout,185039,78921,16.58
+ls-1984,LS,India,1984,1984,official,320,Deogarh,GEN,Odisha,385954,INC,Sriballav Panigrahi,215256,CPI,Prasanna Kumar Panda,121734,93522,24.23
+ls-1984,LS,India,1984,1984,official,321,Dhenkanal,GEN,Odisha,406581,INC,Raja Kamakhya Prasad Singh Deo Mahindra Bahadur,295754,JNP,Adwait Prasad Singh,92181,203573,50.07
+ls-1984,LS,India,1984,1984,official,322,Jagatsinghpur,GEN,Odisha,546508,INC,Lakshman Mallick,263352,JNP,Rabi Roy,262394,958,0.18
+ls-1984,LS,India,1984,1984,official,323,Jajpur,GEN,Odisha,466415,INC,Anadi Charan Das,252316,JNP,Rama Chandra Mallick,192811,59505,12.76
+ls-1984,LS,India,1984,1984,official,324,Kalahandi,GEN,Odisha,325486,INC,Jagannath Patnaik,154941,JNP,Pratap Keshari Deo,130867,24074,7.4
+ls-1984,LS,India,1984,1984,official,325,Kendrapara,GEN,Odisha,509596,JNP,Bijayananda Pattnaik,255506,INC,Bhagabat Prasad Mohanty,238730,16776,3.29
+ls-1984,LS,India,1984,1984,official,326,Keonjhar,GEN,Odisha,314113,INC,Harinder Soren,181169,JNP,Govinda Chandra Munda,96545,84624,26.94
+ls-1984,LS,India,1984,1984,official,327,Koraput,GEN,Odisha,225785,INC,Gridhar Gomango,154713,JNP,Labanyo Saboro,54891,99822,44.21
+ls-1984,LS,India,1984,1984,official,328,Mayurbhanj,GEN,Odisha,300437,INC,Sidhalal Murmu,175013,JNP,Bhagey Gohardhan,105775,69238,23.05
+ls-1984,LS,India,1984,1984,official,329,Nabarangpur,GEN,Odisha,240875,INC,Khagapati Pradhani,172305,JNP,Jabab Majhi,68570,103735,43.07
+ls-1984,LS,India,1984,1984,official,330,Phulbani,GEN,Odisha,350934,INC,Radha Kanta Digal,227667,JNP,Rajendra Nayak,102588,125079,35.64
+ls-1984,LS,India,1984,1984,official,331,Puri,GEN,Odisha,454749,INC,Brajamohan Mohenty,239019,JNP,Ranjit Mohanty,134579,104440,22.97
+ls-1984,LS,India,1984,1984,official,332,Sambalpur,GEN,Odisha,411458,INC,Krupasindhu Bhoi,249662,JNP,Sairindri Nayak,110002,139660,33.94
+ls-1984,LS,India,1984,1984,official,333,Sundargarh,GEN,Odisha,309010,INC,Maurice Kujur,176107,JNP,Ignace Majhi,69560,106547,34.48
+ls-1984,LS,India,1984,1984,official,334,Puducherry,GEN,Puducherry,270781,INC,P.Shammugam,159376,DMK,C.P.Thirunavukkarasu,97672,61704,22.79
+ls-1984,LS,India,1984,1984,official,335,Amritsar,GEN,Punjab,508868,INC,Raghunandan Lal Bhatia,249303,JNP,Kushpal Singh,144239,105064,20.65
+ls-1984,LS,India,1984,1984,official,336,Bhatinda,GEN,Punjab,565588,SAD,Teja Singh Dardi,260222,INC,Tara Singh,176838,83384,14.74
+ls-1984,LS,India,1984,1984,official,337,Faridkot,GEN,Punjab,524959,SAD,Shaminder Singh,268221,INC,Kanwaljit Kaur,232968,35253,6.72
+ls-1984,LS,India,1984,1984,official,338,Ferozepur,GEN,Punjab,552541,INC,Gurdial Singh Dhillon,209835,SAD,Inderjit Singh,166479,43356,7.85
+ls-1984,LS,India,1984,1984,official,339,Gurdaspur,GEN,Punjab,491854,INC,Sukhbuns Kaur,186765,BJP,Baldev Prakash,149088,37677,7.66
+ls-1984,LS,India,1984,1984,official,340,Hoshiarpur,GEN,Punjab,496308,INC,Kamal Chudhary,237753,SAD,Kabal Singh,161050,76703,15.45
+ls-1984,LS,India,1984,1984,official,341,Jalandhar,GEN,Punjab,489049,INC,Rajinder Singh Sparrow,248276,SAD,Pritam Singh,178633,69643,14.24
+ls-1984,LS,India,1984,1984,official,342,Ludhiana,GEN,Punjab,566776,SAD,Mewa Singh,273352,INC,Joginder Pali Pandey,273212,140,0.02
+ls-1984,LS,India,1984,1984,official,343,Patiala,GEN,Punjab,564779,SAD,Charanjit Singh,254302,INC,Amarjit Kaur,234034,20268,3.59
+ls-1984,LS,India,1984,1984,official,344,Phillaur,GEN,Punjab,549570,INC,Sunder Singh,213377,IND,Dharma Paul,146593,66784,12.15
+ls-1984,LS,India,1984,1984,official,345,Ropar,GEN,Punjab,623371,SAD,Charanjit Singh,336503,INC,Raja Singh,262098,74405,11.94
+ls-1984,LS,India,1984,1984,official,346,Sangrur,GEN,Punjab,540764,SAD,Balwant Singh Ramuwalia,288208,INC,Hardev Singh,165539,122669,22.68
+ls-1984,LS,India,1984,1984,official,347,Tarn Taran,GEN,Punjab,458463,SAD,Tarlochan Singh Tur,253567,INC,Harbhajan Singh Jamarai,189091,64476,14.06
+ls-1984,LS,India,1984,1984,official,348,Ajmer,GEN,Rajasthan,429593,INC,Vishnu Kumar Modi,216173,BJP,Kailash Meghwal,159479,56694,13.2
+ls-1984,LS,India,1984,1984,official,349,Alwar,GEN,Rajasthan,413456,INC,Ram Singh Yadev,199910,IND,Sampat Ram,74379,125531,30.36
+ls-1984,LS,India,1984,1984,official,350,Banswara,GEN,Rajasthan,394453,INC,Prabhulal Rawat,199308,LKD,Hira Bhai,78183,121125,30.71
+ls-1984,LS,India,1984,1984,official,351,Barmer,GEN,Rajasthan,486863,INC,Virdhi Chand,220658,LKD,Gangaram Choodhari,113945,106713,21.92
+ls-1984,LS,India,1984,1984,official,352,Bayana,GEN,Rajasthan,325115,INC,Lala Ram Ken,156708,LKD,Shyam Sunder,78306,78402,24.12
+ls-1984,LS,India,1984,1984,official,353,Bharatpur,GEN,Rajasthan,448534,INC,K.Natwar Singh,187305,LKD,Nathi Singh,107996,79309,17.68
+ls-1984,LS,India,1984,1984,official,354,Bhilwara,GEN,Rajasthan,402854,INC,Girdhari Lal Vyas,250254,BJP,Arjun Lal Chochani,98618,151636,37.64
+ls-1984,LS,India,1984,1984,official,355,Bikaner,GEN,Rajasthan,545651,INC,Manphool Singh,280090,JNP,Kedar Nath,154008,126082,23.11
+ls-1984,LS,India,1984,1984,official,356,Chittorgarh,GEN,Rajasthan,427257,INC,Nirmla Kumari,226717,BJP,Hari Krishan,150328,76389,17.88
+ls-1984,LS,India,1984,1984,official,357,Churu,GEN,Rajasthan,497929,INC,Mohar Singh,255348,LKD,Daulat Ram,143925,111423,22.38
+ls-1984,LS,India,1984,1984,official,358,Dausa,GEN,Rajasthan,454682,INC,Rajesh Pilot,245246,BJP,Nathu Singh,170903,74343,16.35
+ls-1984,LS,India,1984,1984,official,359,Ganganagar,GEN,Rajasthan,443467,INC,Birbal,282573,LKD,Begaram,117059,165514,37.32
+ls-1984,LS,India,1984,1984,official,360,Jaipur,GEN,Rajasthan,502493,INC,Nawal Kishore Sharma,280436,BJP,Satish Chandra Agrawal,196579,83857,16.69
+ls-1984,LS,India,1984,1984,official,361,Jalore,GEN,Rajasthan,423767,INC,Buta Singh,281627,BJP,Hukam Ram Meghwal,118163,163464,38.57
+ls-1984,LS,India,1984,1984,official,362,Jhalawar,GEN,Rajasthan,389301,INC,Jujharsingh,212489,BJP,Chaturbhuj,143176,69313,17.8
+ls-1984,LS,India,1984,1984,official,363,Jhunjhunu,GEN,Rajasthan,552712,INC,Mohd. Ayub Khan,261152,LKD,Sumitra Singh,203846,57306,10.37
+ls-1984,LS,India,1984,1984,official,364,Jodhpur,GEN,Rajasthan,461230,INC,Ashok Gehlot,282066,BJP,Balveer Singh,128718,153348,33.25
+ls-1984,LS,India,1984,1984,official,365,Kota,GEN,Rajasthan,435429,INC,Shanti Kumar Dhariwal,230375,BJP,Krishan Kumar Goyal,175528,54847,12.6
+ls-1984,LS,India,1984,1984,official,366,Nagaur,GEN,Rajasthan,543005,INC,Ram Niwas,219961,LKD,Nathuram,171426,48535,8.94
+ls-1984,LS,India,1984,1984,official,367,Pali,GEN,Rajasthan,425196,INC,Mool Chand Daga,188274,BJP,Pushpa Jain,152553,35721,8.4
+ls-1984,LS,India,1984,1984,official,368,Salumber,GEN,Rajasthan,352714,INC,Alkha Ram,185000,BJP,Nand Lal Meena,105989,79011,22.4
+ls-1984,LS,India,1984,1984,official,369,Sawai Madhopur,GEN,Rajasthan,416190,INC,Ram Kumar,248422,BJP,Kirodilal,147424,100998,24.27
+ls-1984,LS,India,1984,1984,official,370,Sikar,GEN,Rajasthan,556851,INC,Bal Ram,292132,BJP,Ghanshyam Tiwari,112573,179559,32.25
+ls-1984,LS,India,1984,1984,official,371,Tonk,GEN,Rajasthan,410931,INC,Banwari Lal,231678,BJP,Jiya Lal,128969,102709,24.99
+ls-1984,LS,India,1984,1984,official,372,Udaipur,GEN,Rajasthan,448584,INC,Indubala Sukhadia,264214,BJP,Bhanu Kumar Shastri,159412,104802,23.36
+ls-1984,LS,India,1984,1984,official,373,Sikkim,GEN,Sikkim,82646,IND,Nar Bhadur Bhandari,56614,INC,Pahalman Subba,21327,35287,42.7
+ls-1984,LS,India,1984,1984,official,374,Arakkonam,GEN,Tamil Nadu,560559,INC,R. Jeevarathinam,292606,DMK,Pulavar K. Govindan,231664,60942,10.87
+ls-1984,LS,India,1984,1984,official,375,Chengalpattu,GEN,Tamil Nadu,549896,ADK,S. Jagathrakshakan,297415,DMK,M.V.Ramu,239206,58209,10.59
+ls-1984,LS,India,1984,1984,official,376,Chennai Central,GEN,Tamil Nadu,539119,DMK,Kalanidhi A,313848,GKC,Earnest Paul E,217104,96744,17.94
+ls-1984,LS,India,1984,1984,official,377,Chennai North,GEN,Tamil Nadu,501827,DMK,N.V.N.Somu,261941,INC,G.Lakshmanan,225491,36450,7.26
+ls-1984,LS,India,1984,1984,official,378,Chennai South,GEN,Tamil Nadu,647851,INC,Vyjayanthimala,336353,JNP,Era Sezhiyan,288336,48017,7.41
+ls-1984,LS,India,1984,1984,official,379,Chidambaram,GEN,Tamil Nadu,538893,INC,Vallalperuman P,329892,DMK,Kannapiran S,209001,120891,22.43
+ls-1984,LS,India,1984,1984,official,380,Coimbatore,GEN,Tamil Nadu,615365,INC,Kuppuswamy C. K,355525,CPI(M),Umanath R,253006,102519,16.66
+ls-1984,LS,India,1984,1984,official,381,Cuddalore,GEN,Tamil Nadu,535105,INC,Venkatesan P.R.S,327393,DMK,Ramu T. Alias Killivalavan,195439,131954,24.66
+ls-1984,LS,India,1984,1984,official,382,Dharmapuri,GEN,Tamil Nadu,526456,ADK,M. Thambi Duriai,333427,CPI,Parvathi Krishnan,182175,151252,28.73
+ls-1984,LS,India,1984,1984,official,383,Dindigul,GEN,Tamil Nadu,555997,ADK,K.R. Natarajan,343571,DMK,K.Maya Thevar,202253,141318,25.42
+ls-1984,LS,India,1984,1984,official,384,Gobichettipalayam,GEN,Tamil Nadu,524523,ADK,Kholandaivelu P,338243,DMK,Saminathan P.A,177616,160627,30.62
+ls-1984,LS,India,1984,1984,official,385,Karur,GEN,Tamil Nadu,604929,INC,Murugaiah A. R,413533,DMK,"Kandaswamy, M",177970,235563,38.94
+ls-1984,LS,India,1984,1984,official,386,Krishnagiri,GEN,Tamil Nadu,470922,INC,K. Ramamurthi,304854,DMK,T. Chandrasekaran,138488,166366,35.33
+ls-1984,LS,India,1984,1984,official,387,Madurai,GEN,Tamil Nadu,583444,INC,Subburaman A.G,365948,CPI(M),Sankariah N,192937,173011,29.65
+ls-1984,LS,India,1984,1984,official,388,Mayiladuthurai,GEN,Tamil Nadu,556859,INC,Pakeer Mohamed E.S.M,335033,DMK,Kalayanam P,215390,119643,21.49
+ls-1984,LS,India,1984,1984,official,389,Nagapattinam,GEN,Tamil Nadu,602911,ADK,"Mahalingam, M",300912,CPI,Murugaiyan K,298623,2289,0.38
+ls-1984,LS,India,1984,1984,official,390,Nagercoil,GEN,Tamil Nadu,470589,INC,N. Dennis,235365,JNP,P. Vijayaraghavan,223728,11637,2.47
+ls-1984,LS,India,1984,1984,official,391,Nilgiris,GEN,Tamil Nadu,566742,INC,R.Prabhu,341824,DMK,C.T. Dhandapani,209885,131939,23.28
+ls-1984,LS,India,1984,1984,official,392,Palani,GEN,Tamil Nadu,572693,INC,Senapathy Gounder A,408104,TNC,Velusamy S.R,144076,264028,46.1
+ls-1984,LS,India,1984,1984,official,393,Perambalur,GEN,Tamil Nadu,551432,ADK,S. Thangaraju,350549,DMK,C. Thiyagarajan,197780,152769,27.7
+ls-1984,LS,India,1984,1984,official,394,Periyakulam,GEN,Tamil Nadu,554704,ADK,Selvendran P,348903,DMK,Agniraju S,190290,158613,28.59
+ls-1984,LS,India,1984,1984,official,395,Pollachi,GEN,Tamil Nadu,546970,ADK,Anna Nambi R,324200,DMK,Krishnaswamy K,222770,101430,18.54
+ls-1984,LS,India,1984,1984,official,396,Pudukkottai,GEN,Tamil Nadu,623559,INC,Sundararaj N,426717,DMK,Veeriah K,161813,264904,42.48
+ls-1984,LS,India,1984,1984,official,397,Ramanathapuram,GEN,Tamil Nadu,538082,INC,V. Rajeshwaran,274922,DMK,M.S.K. Sathiyendren,174778,100144,18.61
+ls-1984,LS,India,1984,1984,official,398,Rasipuram,GEN,Tamil Nadu,533146,INC,Devarajan B,367276,DMK,Duraisami P,165870,201406,37.78
+ls-1984,LS,India,1984,1984,official,399,Salem,GEN,Tamil Nadu,519863,INC,Rangarajan Kumar Mangalam,359819,JNP,Kandasamy M.A,123644,236175,45.43
+ls-1984,LS,India,1984,1984,official,400,Sivaganga,GEN,Tamil Nadu,553792,INC,P. Chidambaram,377160,DMK,Tha Krutinan,164627,212533,38.38
+ls-1984,LS,India,1984,1984,official,401,Sivakasi,GEN,Tamil Nadu,603034,ADK,N. Soundararajan,323786,CPI,A. Srinivasan,257308,66478,11.02
+ls-1984,LS,India,1984,1984,official,402,Sriperumbudur,GEN,Tamil Nadu,558437,INC,Maragatham Chandrasekhar,332468,DMK,Nagaratnam T,222994,109474,19.6
+ls-1984,LS,India,1984,1984,official,403,Tenkasi,GEN,Tamil Nadu,529467,INC,M. Arunachalam,360517,CPI(M),R. Krishnan,168950,191567,36.18
+ls-1984,LS,India,1984,1984,official,404,Thanjavur,GEN,Tamil Nadu,553470,INC,Singaravadivel,306351,DMK,Palanimanickam S,217030,89321,16.14
+ls-1984,LS,India,1984,1984,official,405,Tindivanam,GEN,Tamil Nadu,520155,INC,S.S. Eramasamy Padayatchi,356127,JNP,M.R. Lakshminarayanan,154269,201858,38.81
+ls-1984,LS,India,1984,1984,official,406,Tiruchendur,GEN,Tamil Nadu,484579,INC,K.T. Kosalram,345381,JNP,Jawaharlal,121954,223427,46.11
+ls-1984,LS,India,1984,1984,official,407,Tiruchengode,GEN,Tamil Nadu,700269,ADK,Kannan P,426648,DMK,Kandaswamy M,268582,158066,22.57
+ls-1984,LS,India,1984,1984,official,408,Tiruchirappalli,GEN,Tamil Nadu,581882,INC,Adaikalaraj,337786,DMK,N. Selvarasu,234881,102905,17.68
+ls-1984,LS,India,1984,1984,official,409,Tirunelveli,GEN,Tamil Nadu,515091,ADK,M.R. Janardhanan,296897,DMK,D.S.A. Sivaprakasam,210951,85946,16.69
+ls-1984,LS,India,1984,1984,official,410,Tiruppattur,GEN,Tamil Nadu,536372,INC,Jayamohan A,298159,DMK,Abdul Latheef M,176372,121787,22.71
+ls-1984,LS,India,1984,1984,official,411,Vandavasi,GEN,Tamil Nadu,547642,INC,Balaraman L,341267,DMK,Pandian R.K,206375,134892,24.63
+ls-1984,LS,India,1984,1984,official,412,Vellore,GEN,Tamil Nadu,537377,ADK,A.C. Shanmugam,284416,DMK,A.M. Ramalingam,209693,74723,13.91
+ls-1984,LS,India,1984,1984,official,413,Tripura East,GEN,Tripura,440901,CPI(M),Baju Ban Riyan,231023,INC,Kirit Bikram Kishore Debbarman,189960,41063,9.31
+ls-1984,LS,India,1984,1984,official,414,Tripura West,GEN,Tripura,477259,CPI(M),Ajoy Biswas,232339,INC,Sudhir Ranjan Majumder,228819,3520,0.74
+ls-1984,LS,India,1984,1984,official,415,Agra,GEN,Uttar Pradesh,342057,INC,Nihal Singh,147473,LKD,Udayan Sharma,107796,39677,11.6
+ls-1984,LS,India,1984,1984,official,416,Akbarpur,GEN,Uttar Pradesh,434460,INC,Ram Piyare Suman,194148,LKD,Ram Awadh,124527,69621,16.02
+ls-1984,LS,India,1984,1984,official,417,Aligarh,GEN,Uttar Pradesh,398208,INC,Usha Rani,216329,LKD,Budhpriya Morya,114098,102231,25.67
+ls-1984,LS,India,1984,1984,official,418,Allahabad,GEN,Uttar Pradesh,436120,INC,Amitabh Bachchan,297461,LKD,Hemwati Nandan Bahugana,109666,187795,43.06
+ls-1984,LS,India,1984,1984,official,419,Almora,GEN,Uttar Pradesh,302012,INC,Harish Chandra Singh,185006,BJP,Murli Manohar Joshi,44674,140332,46.47
+ls-1984,LS,India,1984,1984,official,420,Amethi,GEN,Uttar Pradesh,436263,INC,Rajiv Gandhi,365041,IND,Maneka Gandhi,50163,314878,72.18
+ls-1984,LS,India,1984,1984,official,421,Amroha,GEN,Uttar Pradesh,455698,INC,Ram Pal Singh,181642,IND,Ishrat Ali Ansari,164365,17277,3.79
+ls-1984,LS,India,1984,1984,official,422,Aonla,GEN,Uttar Pradesh,319206,INC,Kalyan Singh Solanki,117327,IND,Jai Pal Singh Kashyap,64504,52823,16.55
+ls-1984,LS,India,1984,1984,official,423,Azamgarh,GEN,Uttar Pradesh,418008,INC,Santosh Kumar Singh,170051,LKD,Ram Naresh Yadav,167265,2786,0.67
+ls-1984,LS,India,1984,1984,official,424,Baghpat,GEN,Uttar Pradesh,471814,LKD,Charan Singh,253463,INC,Mahesh Chand,167789,85674,18.16
+ls-1984,LS,India,1984,1984,official,425,Bahraich,GEN,Uttar Pradesh,353231,INC,Arif Mohammad Khan,178621,BJP,Rudra Sen Chaudhari,77601,101020,28.6
+ls-1984,LS,India,1984,1984,official,426,Ballia,GEN,Uttar Pradesh,429646,INC,Jagannath Chowdhari,225984,JNP,Chandrashekhar,172044,53940,12.55
+ls-1984,LS,India,1984,1984,official,427,Balrampur,GEN,Uttar Pradesh,397774,INC,Deep Narain Van Mahanth,128207,IND,Fallul Bari Alias Banney Bhai,119551,8656,2.18
+ls-1984,LS,India,1984,1984,official,428,Banda,GEN,Uttar Pradesh,378132,INC,Bhism Deo Dubey,142085,CPI,Ram Sajiwan,84586,57499,15.21
+ls-1984,LS,India,1984,1984,official,429,Bansgaon,GEN,Uttar Pradesh,369830,INC,Mahavir Prasad,232747,ICJ,Ram Surat,58518,174229,47.11
+ls-1984,LS,India,1984,1984,official,430,Barabanki,GEN,Uttar Pradesh,380210,INC,Kamla Prasad,202790,LKD,Ram Sagar,108129,94661,24.9
+ls-1984,LS,India,1984,1984,official,431,Bareilly,GEN,Uttar Pradesh,341322,INC,Abida Ahmad,156904,BJP,Santosh Kumar Gangwar,100996,55908,16.38
+ls-1984,LS,India,1984,1984,official,432,Basti,GEN,Uttar Pradesh,337717,INC,Ram Awadh Prasad,227397,LKD,Ram Dulera Sonkar,72795,154602,45.78
+ls-1984,LS,India,1984,1984,official,433,Bijnor,GEN,Uttar Pradesh,386008,INC,Girdhar Lal,219185,LKD,Mangal Ram Premi,119372,99813,25.86
+ls-1984,LS,India,1984,1984,official,434,Bilhaur,GEN,Uttar Pradesh,428402,INC,Jagdish Awasthi,234466,IND,Raghunath Singh,152856,81610,19.05
+ls-1984,LS,India,1984,1984,official,435,Budaun,GEN,Uttar Pradesh,411597,INC,Saleem Iqbal Sherwani,183524,LKD,Sharad Yadav,133782,49742,12.09
+ls-1984,LS,India,1984,1984,official,436,Bulandshahr,GEN,Uttar Pradesh,401555,INC,Kr. Surendra Pal,228039,LKD,Kiran Pal Singh,132139,95900,23.88
+ls-1984,LS,India,1984,1984,official,437,Chail,GEN,Uttar Pradesh,319433,INC,Bihari Lal Shailesh,150306,LKD,Ramnishore Rakesh,146888,3418,1.07
+ls-1984,LS,India,1984,1984,official,438,Chandauli,GEN,Uttar Pradesh,448575,INC,Chanda Tripati,201516,ICJ,Nihal,150415,51101,11.39
+ls-1984,LS,India,1984,1984,official,439,Deoria,GEN,Uttar Pradesh,430279,INC,Rajmangal Pandey,239708,LKD,Ramdhari Shastri,94607,145101,33.72
+ls-1984,LS,India,1984,1984,official,440,Domariyaganj,GEN,Uttar Pradesh,437316,INC,Kazi Jalil Abbasi,226388,LKD,Brij Bhushan Tiwari,113401,112987,25.84
+ls-1984,LS,India,1984,1984,official,441,Etah,GEN,Uttar Pradesh,350403,LKD,Muhammad Mehfooj Ali Khan Alias Pyarey Main,110627,INC,Malik Moh. Mushir Ahmad Khan,107196,3431,0.98
+ls-1984,LS,India,1984,1984,official,442,Etawah,GEN,Uttar Pradesh,428220,INC,Raghuraj Singh,184404,LKD,Dhani Ram Verma,161336,23068,5.39
+ls-1984,LS,India,1984,1984,official,443,Faizabad,GEN,Uttar Pradesh,388508,INC,Nirmal Khatri,173152,CPI,Mitrasen,68660,104492,26.9
+ls-1984,LS,India,1984,1984,official,444,Farrukhabad,GEN,Uttar Pradesh,451359,INC,Khurshed Alam Khan,236892,BJP,Daya Ram Shakya,110281,126611,28.05
+ls-1984,LS,India,1984,1984,official,445,Fatehpur Sikri,GEN,Uttar Pradesh,374482,INC,Hari Krishna Shastri,208578,LKD,Syed Liaquat Husain,115695,92883,24.8
+ls-1984,LS,India,1984,1984,official,446,Firozabad,GEN,Uttar Pradesh,336998,INC,Ganga Ram,161079,LKD,Rajesh Kumar Singh,97577,63502,18.84
+ls-1984,LS,India,1984,1984,official,447,Garhwal,GEN,Uttar Pradesh,342251,INC,Chandra Mohan Singh,207451,LKD,Bharat Singh,88570,118881,34.74
+ls-1984,LS,India,1984,1984,official,448,Ghatampur,GEN,Uttar Pradesh,364037,INC,Askaran,177975,LKD,Keshri Lal,129105,48870,13.42
+ls-1984,LS,India,1984,1984,official,449,Ghazipur,GEN,Uttar Pradesh,459287,INC,Zainul Basher,167194,LKD,Jagdish,96633,70561,15.36
+ls-1984,LS,India,1984,1984,official,450,Ghosi,GEN,Uttar Pradesh,412859,INC,Raj Kumar,160102,LKD,Rameshwar Singh,95256,64846,15.71
+ls-1984,LS,India,1984,1984,official,451,Gonda,GEN,Uttar Pradesh,385104,INC,Anand Singh Alias Annu Bhaiya,260112,LKD,Deep Narain Pandey,94136,165976,43.1
+ls-1984,LS,India,1984,1984,official,452,Gorakhpur,GEN,Uttar Pradesh,374203,INC,Madan Pandey,191020,LKD,Harikesh Bahadur,94420,96600,25.81
+ls-1984,LS,India,1984,1984,official,453,Hamirpur,GEN,Uttar Pradesh,379394,INC,Swami Prasad Singh,199460,LKD,Brijendra Singh,136149,63311,16.69
+ls-1984,LS,India,1984,1984,official,454,Hapur,GEN,Uttar Pradesh,453122,INC,Kedar Nath,254823,LKD,Kishan Chand Tyagi,104147,150676,33.25
+ls-1984,LS,India,1984,1984,official,455,Hardoi,GEN,Uttar Pradesh,365421,INC,Kindar Lal,195088,LKD,Parmai Lal,134685,60403,16.53
+ls-1984,LS,India,1984,1984,official,456,Hardwar,GEN,Uttar Pradesh,442724,INC,Sunder Lal,253892,LKD,Jagpal Singh,118704,135188,30.54
+ls-1984,LS,India,1984,1984,official,457,Hathras,GEN,Uttar Pradesh,371544,INC,Puran Chand,165387,LKD,Bangali Singh,120749,44638,12.01
+ls-1984,LS,India,1984,1984,official,458,Jalaun,GEN,Uttar Pradesh,374740,INC,Lachhi Ram,170510,LKD,Ram Sewak Bhatiya,117273,53237,14.21
+ls-1984,LS,India,1984,1984,official,459,Jalesar,GEN,Uttar Pradesh,383572,INC,Kailash Chandra Yadav,149004,LKD,Sushila Devi,139266,9738,2.54
+ls-1984,LS,India,1984,1984,official,460,Jaunpur,GEN,Uttar Pradesh,431951,INC,Kamala Prasad Singh,201311,LKD,Ram Das,119788,81523,18.87
+ls-1984,LS,India,1984,1984,official,461,Jhansi,GEN,Uttar Pradesh,460729,INC,Sujan Singh Bundela,245029,BJP,Rajendra Agnihotri,129106,115923,25.16
+ls-1984,LS,India,1984,1984,official,462,Kairana,GEN,Uttar Pradesh,447137,INC,Akhtar Hasan,236904,LKD,Shyam Singh,138355,98549,22.04
+ls-1984,LS,India,1984,1984,official,463,Kaiserganj,GEN,Uttar Pradesh,338436,INC,Rana Vir Singh,179948,LKD,Beri Prasad Verma,63118,116830,34.52
+ls-1984,LS,India,1984,1984,official,464,Kannauj,GEN,Uttar Pradesh,481675,INC,Sheila Dixit,199621,LKD,Chhotey Singh Yadav,137806,61815,12.83
+ls-1984,LS,India,1984,1984,official,465,Kanpur,GEN,Uttar Pradesh,376216,INC,Naresh Chandra Chaturvedi,214160,JNP,Sayed Shahabuddin,76791,137369,36.51
+ls-1984,LS,India,1984,1984,official,466,Khalilabad,GEN,Uttar Pradesh,456093,INC,Chandra Shekhar,227083,LKD,Ram Prasad Chaudhari,90719,136364,29.9
+ls-1984,LS,India,1984,1984,official,467,Kheri,GEN,Uttar Pradesh,387267,INC,Usha Kumari,279573,BJP,Karan Singh,43058,236515,61.07
+ls-1984,LS,India,1984,1984,official,468,Khurja,GEN,Uttar Pradesh,362749,INC,Veer Sen,212932,LKD,Trilik Chand,94907,118025,32.54
+ls-1984,LS,India,1984,1984,official,469,Lalganj,GEN,Uttar Pradesh,416816,INC,Ramdhan,218963,LKD,Lalsa,114695,104268,25.02
+ls-1984,LS,India,1984,1984,official,470,Lucknow,GEN,Uttar Pradesh,304058,INC,Sheila Kaul,169260,LKD,Mohd. Yunus Saleem,47140,122120,40.16
+ls-1984,LS,India,1984,1984,official,471,Machhlishahr,GEN,Uttar Pradesh,401680,INC,Sripati,179140,LKD,Shiv Sharan Varma,111278,67862,16.89
+ls-1984,LS,India,1984,1984,official,472,Maharajganj,GEN,Uttar Pradesh,445862,INC,Jitendra Singh,208692,IND,Hari Shanker Tiwari,84218,124474,27.92
+ls-1984,LS,India,1984,1984,official,473,Mainpuri,GEN,Uttar Pradesh,427855,INC,Balram Singh Yadav,214322,LKD,Ravindra Singh Chauhan,159314,55008,12.86
+ls-1984,LS,India,1984,1984,official,474,Mathura,GEN,Uttar Pradesh,448564,INC,Manvendra Singh,263248,LKD,Gayatree Devi,159848,103400,23.05
+ls-1984,LS,India,1984,1984,official,475,Meerut,GEN,Uttar Pradesh,473109,INC,Mohsina Kidwai,238236,LKD,Manzoor Ahmad,141718,96518,20.4
+ls-1984,LS,India,1984,1984,official,476,Mirzapur,GEN,Uttar Pradesh,403971,INC,Uma Kant Mishra,149606,LKD,Asha Ram,118238,31368,7.76
+ls-1984,LS,India,1984,1984,official,477,Misrikh,GEN,Uttar Pradesh,366858,INC,Sankata Prasad,237741,LKD,Ram Lal Rahi,92462,145279,39.6
+ls-1984,LS,India,1984,1984,official,478,Mohanlalganj,GEN,Uttar Pradesh,341689,INC,Jagannath Pd,189704,LKD,Ram Lal Kureel,56655,133049,38.94
+ls-1984,LS,India,1984,1984,official,479,Moradabad,GEN,Uttar Pradesh,397672,INC,Hafiz Mohd. Siddique,116942,LKD,Hazi Gulam Mohd. Khan,109829,7113,1.79
+ls-1984,LS,India,1984,1984,official,480,Muzaffarnagar,GEN,Uttar Pradesh,476513,INC,Dharam Vir Singh,242751,LKD,Narain Singh,134730,108021,22.67
+ls-1984,LS,India,1984,1984,official,481,Nainital,GEN,Uttar Pradesh,426013,INC,Satendra Chandra,274557,IND,Akbar Ahmad,107897,166660,39.12
+ls-1984,LS,India,1984,1984,official,482,Padrauna,GEN,Uttar Pradesh,396675,INC,Chandra Pratap Narain Singh,189209,LKD,Siraj Ahmad,112831,76378,19.25
+ls-1984,LS,India,1984,1984,official,483,Phulpur,GEN,Uttar Pradesh,450838,INC,Ram Pujan Patel,242538,LKD,Rahman Ali,127966,114572,25.41
+ls-1984,LS,India,1984,1984,official,484,Pilibhit,GEN,Uttar Pradesh,436694,INC,Bhanu Pratap Singh,278803,IND,Mohd. Shamshul Hasan Khan,102133,176670,40.46
+ls-1984,LS,India,1984,1984,official,485,Pratapgarh,GEN,Uttar Pradesh,390044,INC,Raja Dinesh Singh,279354,LKD,Ram Deo,46847,232507,59.61
+ls-1984,LS,India,1984,1984,official,486,Rae Bareli,GEN,Uttar Pradesh,448143,INC,Arun Kumar Nehru,314028,LKD,Ambedkar Savita,56475,257553,57.47
+ls-1984,LS,India,1984,1984,official,487,Rampur,GEN,Uttar Pradesh,482733,INC,Zulfiquar Ali Khan,242209,BJP,Rajendra Kumar Sharma,123252,118957,24.64
+ls-1984,LS,India,1984,1984,official,488,Robertsganj,GEN,Uttar Pradesh,379528,INC,Ram Pyare,189588,LKD,Panna Lal,99529,90059,23.73
+ls-1984,LS,India,1984,1984,official,489,Saharanpur,GEN,Uttar Pradesh,521955,INC,Yashpal Singh,277339,LKD,Rasheed Masood,204730,72609,13.91
+ls-1984,LS,India,1984,1984,official,490,Saidpur,GEN,Uttar Pradesh,378120,INC,Ram Smujhawan,174291,LKD,Awadhesh Kumar,97757,76534,20.24
+ls-1984,LS,India,1984,1984,official,491,Salempur,GEN,Uttar Pradesh,383143,INC,Ram Nagina Misra,152231,LKD,Janeshwar Misra,91695,60536,15.8
+ls-1984,LS,India,1984,1984,official,492,Sambhal,GEN,Uttar Pradesh,340543,INC,Shanti Devi,124175,LKD,Sultan Singh Yadav,82932,41243,12.11
+ls-1984,LS,India,1984,1984,official,493,Shahabad,GEN,Uttar Pradesh,388901,INC,Dharamgaj Singh,186182,JNP,Ashok Bajpaye,73023,113159,29.1
+ls-1984,LS,India,1984,1984,official,494,Shahjahanpur,GEN,Uttar Pradesh,437303,INC,Jitendra Prasad,220912,ICJ,Satya Pal Singh,185642,35270,8.07
+ls-1984,LS,India,1984,1984,official,495,Sitapur,GEN,Uttar Pradesh,369569,INC,Rajendra Kumari,185722,LKD,Hargovind Verma,92424,93298,25.25
+ls-1984,LS,India,1984,1984,official,496,Sultanpur,GEN,Uttar Pradesh,402822,INC,Raj Karan Singh,219682,IND,Mustakeem,59625,160057,39.73
+ls-1984,LS,India,1984,1984,official,497,Tehri Garhwal,GEN,Uttar Pradesh,320667,INC,Brahma Dutt,203883,LKD,Trepan Singh,63291,140592,43.84
+ls-1984,LS,India,1984,1984,official,498,Unnao,GEN,Uttar Pradesh,410357,INC,Ziaurrahman Ansari,215433,LKD,Manohar Lal,171437,43996,10.72
+ls-1984,LS,India,1984,1984,official,499,Varanasi,GEN,Uttar Pradesh,368112,INC,Shyam Lal Yadava,153076,CPI,Udal,58646,94430,25.65
+ls-1984,LS,India,1984,1984,official,500,Alipurduars,GEN,West Bengal,536181,RSP,Pijus Tirkey,278358,INC,Philip Minj,248176,30182,5.63
+ls-1984,LS,India,1984,1984,official,501,Arambagh,GEN,West Bengal,649912,CPI(M),Anil Basu,327786,INC,Gopal Das Nag,313626,14160,2.18
+ls-1984,LS,India,1984,1984,official,502,Asansol,GEN,West Bengal,605628,INC,Anada Gopal Mukherjee,334212,CPI(M),Bamapada Mukherjee,247546,86666,14.31
+ls-1984,LS,India,1984,1984,official,503,Balurghat,GEN,West Bengal,616530,RSP,Palas Barman,317141,INC,Satyendra Nath Ray,294924,22217,3.6
+ls-1984,LS,India,1984,1984,official,504,Bankura,GEN,West Bengal,551500,CPI(M),Acharia Basudeb,268136,INC,Arun Kumar Bhattacharya,243920,24216,4.39
+ls-1984,LS,India,1984,1984,official,505,Barasat,GEN,West Bengal,693855,INC,Tarun Kanti Ghosh,343184,AIFB,Chitta Basu,330572,12612,1.82
+ls-1984,LS,India,1984,1984,official,506,Barrackpore,GEN,West Bengal,604376,INC,Debi Ghosal,323483,CPI(M),Mohammed Amin,269814,53669,8.88
+ls-1984,LS,India,1984,1984,official,507,Basirhat,GEN,West Bengal,607779,CPI,Indrajit Gupta,315444,INC,Kamal Basu,276401,39043,6.42
+ls-1984,LS,India,1984,1984,official,508,Berhampore,GEN,West Bengal,652616,INC,Atish Chandra Sinha,317011,RSP,Tridib Chaudhuri,313964,3047,0.47
+ls-1984,LS,India,1984,1984,official,509,Birbhum,GEN,West Bengal,552778,CPI(M),Gadahar Saha,278155,INC,Badal Bagdi,264674,13481,2.44
+ls-1984,LS,India,1984,1984,official,510,Bolpur,GEN,West Bengal,576737,CPI(M),Saradish Roy,317749,INC,Nihar Dutta,256818,60931,10.56
+ls-1984,LS,India,1984,1984,official,511,Burdwan,GEN,West Bengal,685114,CPI(M),Sudhir Ray,366547,INC,Pradyut Guha,308863,57684,8.42
+ls-1984,LS,India,1984,1984,official,512,Contai,GEN,West Bengal,557365,INC,Phulrenu Guha,282065,CPI(M),Sudhi Kumar Giri,268307,13758,2.47
+ls-1984,LS,India,1984,1984,official,513,Cooch Behar,GEN,West Bengal,650717,AIFB,Amar Roy Prodhan,345160,INC,Prasenjit Barman,299643,45517,6.99
+ls-1984,LS,India,1984,1984,official,514,Darjeeling,GEN,West Bengal,544977,CPI(M),Ananda Prasad Pathak,228679,INC,Dawa Narbula,227290,1389,0.25
+ls-1984,LS,India,1984,1984,official,515,Diamond Harbour,GEN,West Bengal,586029,CPI(M),Amal Datta,281271,INC,Sudhendu Mundle,276598,4673,0.8
+ls-1984,LS,India,1984,1984,official,516,Dum Dum,GEN,West Bengal,761265,INC,Asutosh Law,381984,CPI(M),Niren Ghosh,379281,2703,0.36
+ls-1984,LS,India,1984,1984,official,517,Durgapur,GEN,West Bengal,630608,CPI(M),Purna Chandra Malik,334688,INC,Gopal Mondal,295920,38768,6.15
+ls-1984,LS,India,1984,1984,official,518,Hooghly,GEN,West Bengal,634706,INC,Indumati Bhattacharyya,320436,CPI(M),Rup Chand Pal,309469,10967,1.73
+ls-1984,LS,India,1984,1984,official,519,Howrah,GEN,West Bengal,677347,INC,Priya Ranjan Das Munshi,381216,CPI(M),Samar Mukherjee,287174,94042,13.88
+ls-1984,LS,India,1984,1984,official,520,Jadavpur,GEN,West Bengal,651905,INC,Mamata Banerjee,331618,CPI(M),Somnath Chatterjee,311958,19660,3.02
+ls-1984,LS,India,1984,1984,official,521,Jalpaiguri,GEN,West Bengal,565704,CPI(M),Manik Sanyal,285619,INC,Arun Moitra,252447,33172,5.86
+ls-1984,LS,India,1984,1984,official,522,Jangipur,GEN,West Bengal,586736,CPI(M),Abedin Zainal,283977,INC,Md. Sohorab,269239,14738,2.51
+ls-1984,LS,India,1984,1984,official,523,Jhargram,GEN,West Bengal,575366,CPI(M),Motilal Hansda,290454,INC,Amiya Kumar Kisku,215212,75242,13.08
+ls-1984,LS,India,1984,1984,official,524,Joynagar,GEN,West Bengal,598555,RSP,Sant Kumar Mandal,264406,INC,Ardhendu Sekhar Naskar,243957,20449,3.42
+ls-1984,LS,India,1984,1984,official,525,Katwa,GEN,West Bengal,649052,CPI(M),Saifuddin Chowdhury,346251,INC,Chowdhury Siddiqullah,302801,43450,6.69
+ls-1984,LS,India,1984,1984,official,526,Kolkata North East,GEN,West Bengal,497876,INC,Ajit Kumar Panja,284324,CPI(M),Sunil Maitra,195748,88576,17.79
+ls-1984,LS,India,1984,1984,official,527,Kolkata North West,GEN,West Bengal,378221,INC,Ashok Kumar Sen,242982,AIFB,Amiya Nath Bose,110560,132422,35.01
+ls-1984,LS,India,1984,1984,official,528,Kolkata South,GEN,West Bengal,570566,INC,Bhola Nath Sen,324823,CPI(M),Satyasadhan Chakraborty,235884,88939,15.59
+ls-1984,LS,India,1984,1984,official,529,Krishnanagar,GEN,West Bengal,598263,CPI(M),Renu Pada Das,294657,INC,Sankar Das Banerji,289870,4787,0.8
+ls-1984,LS,India,1984,1984,official,530,Malda,GEN,West Bengal,587355,INC,Abu Barkat Ataul Ghani Khan Choudhury,304963,CPI(M),Dinesh Joardar,258337,46626,7.94
+ls-1984,LS,India,1984,1984,official,531,Mathurapur,GEN,West Bengal,590776,INC,Manoranjan Halder,282343,CPI(M),Nirmal Sinha,280044,2299,0.39
+ls-1984,LS,India,1984,1984,official,532,Medinipur,GEN,West Bengal,599292,CPI,Narayan Choubey,318511,INC,Ajit Kumar Khanra,261514,56997,9.51
+ls-1984,LS,India,1984,1984,official,533,Murshidabad,GEN,West Bengal,672829,CPI(M),Syed Musudal Hossain,316571,INC,Azizur Rahman,310309,6262,0.93
+ls-1984,LS,India,1984,1984,official,534,Nabadwip,GEN,West Bengal,682823,CPI(M),Bibha Ghosh (Goswami),341188,INC,Apurba Lal Majumdar,334536,6652,0.97
+ls-1984,LS,India,1984,1984,official,535,Panskura,GEN,West Bengal,599884,CPI,Geeta Mukherjee,321694,INC,Chittaranjan Chakraborty,273818,47876,7.98
+ls-1984,LS,India,1984,1984,official,536,Purulia,GEN,West Bengal,544769,AIFB,Chittaranjan Mahata,261460,INC,K.P. Singh Deo,247709,13751,2.52
+ls-1984,LS,India,1984,1984,official,537,Raiganj,GEN,West Bengal,562100,INC,Golam Yazdani,271983,CPI(M),Subrata Mukherjee,251759,20224,3.6
+ls-1984,LS,India,1984,1984,official,538,Srerampur,GEN,West Bengal,656564,INC,Bimal Kanti Ghosh,338152,CPI(M),Ajit Bag,307921,30231,4.6
+ls-1984,LS,India,1984,1984,official,539,Tamluk,GEN,West Bengal,628754,CPI(M),Mishra Satyagopal,313955,INC,Saradindu Samanta,302263,11692,1.86
+ls-1984,LS,India,1984,1984,official,540,Uluberia,GEN,West Bengal,618097,CPI(M),Hannan Mollah,312041,INC,Anwar Ali Sk,299616,12425,2.01
+ls-1984,LS,India,1984,1984,official,541,Vishnupur,GEN,West Bengal,599875,CPI(M),Ajit Kumar Saha,328580,INC,Gourandr Cha Lohar,252940,75640,12.61

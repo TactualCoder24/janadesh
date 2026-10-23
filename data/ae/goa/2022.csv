@@ -1,0 +1,41 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-goa-2022,AE,Goa,2022,2022,official,1,Mandrem,GEN,North Goa,29382,MAG,Jit Vinayak Arolkar,10387,BJP,Dayanand Raghunath Sopte,9672,715,2.43
+ae-goa-2022,AE,Goa,2022,2022,official,2,Pernem,GEN,North Goa,28840,BJP,Pravin Prabhakar Arlekar,13063,MAG,Rajan Babuso Korgaonkar,9645,3418,11.85
+ae-goa-2022,AE,Goa,2022,2022,official,3,Bicholim,GEN,North Goa,25545,IND,Dr. Chandrakant Shetye,9608,MAG,Naresh Rajaram Sawal,9290,318,1.24
+ae-goa-2022,AE,Goa,2022,2022,official,4,Tivim,GEN,North Goa,23727,BJP,Nilkanth Ramnath Halarnkar,9414,AITC,Kavita Kandolkar,7363,2051,8.64
+ae-goa-2022,AE,Goa,2022,2022,official,5,Mapusa,GEN,North Goa,22842,BJP,Joshua Peter De Souza,10195,INC,Sudhir Rama Kandolkar,8548,1647,7.21
+ae-goa-2022,AE,Goa,2022,2022,official,6,Siolim,GEN,North Goa,24734,INC,Delilah Michael Lobo,9699,BJP,Dayanand Rayu Mandrekar,7972,1727,6.98
+ae-goa-2022,AE,Goa,2022,2022,official,7,Saligao,GEN,North Goa,22123,INC,Kedar Jayprakash Naik,10045,BJP,Jayesh Salgaonkar,8146,1899,8.58
+ae-goa-2022,AE,Goa,2022,2022,official,8,Calangute,GEN,North Goa,20417,INC,Michael Vincent Lobo,9285,BJP,Joseph Robert Sequeira,4306,4979,24.39
+ae-goa-2022,AE,Goa,2022,2022,official,9,Porvorim,GEN,North Goa,20764,BJP,Rohan Khaunte,11714,AITC,Sandeep Vazarkar,3764,7950,38.29
+ae-goa-2022,AE,Goa,2022,2022,official,10,Aldona,GEN,North Goa,22236,INC,Carlos Alvares Ferreira,9320,BJP,Glenn John Vijay Ambrose E Souza Ticlo,7497,1823,8.2
+ae-goa-2022,AE,Goa,2022,2022,official,11,Panaji,GEN,North Goa,17246,BJP,Atanasio Monserrate,6787,IND,Utpal Manohar Parrikar,6071,716,4.15
+ae-goa-2022,AE,Goa,2022,2022,official,12,Taleigao,GEN,North Goa,23014,BJP,Jennifer Monserrate,10167,INC,Tony Alfredo Rodrigues,8126,2041,8.87
+ae-goa-2022,AE,Goa,2022,2022,official,13,St.Cruz,GEN,North Goa,22336,INC,Rodolfo Louis Fernandes,8841,BJP,Antonio Caetano Fernandes,6377,2464,11.03
+ae-goa-2022,AE,Goa,2022,2022,official,14,St. Andre,GEN,North Goa,16142,RGP,Viresh Mukesh Borkar,5395,BJP,Francisco Silveira,5319,76,0.47
+ae-goa-2022,AE,Goa,2022,2022,official,15,Cumbarjua,GEN,North Goa,21222,INC,Rajesh Faldessai,6776,BJP,Janita Pandurang Madkaikar,3949,2827,13.32
+ae-goa-2022,AE,Goa,2022,2022,official,16,Maem,GEN,North Goa,25156,BJP,Premendra Vishnu Shet,7874,GFP,Santosh Kumar Sawant,4738,3136,12.47
+ae-goa-2022,AE,Goa,2022,2022,official,17,Sanquelim,GEN,North Goa,25380,BJP,Dr. Pramod Sawant,12250,INC,Dharmesh Saglani,11584,666,2.62
+ae-goa-2022,AE,Goa,2022,2022,official,18,Poriem,GEN,North Goa,28703,BJP,Deviya Vishwajit Rane,17816,AAP,Vishwajit Rane,3873,13943,48.58
+ae-goa-2022,AE,Goa,2022,2022,official,19,Valpoi,GEN,North Goa,26559,BJP,Vishwajit Pratapsingh Rane,14462,RGP,Tukaram Bharat Parab,6377,8085,30.44
+ae-goa-2022,AE,Goa,2022,2022,official,20,Priol,GEN,North Goa,27821,BJP,Govind Shepu Gaude,11019,MAG,Pandurang Alias Deepak Dhavalikar,10806,213,0.77
+ae-goa-2022,AE,Goa,2022,2022,official,21,Ponda,GEN,North Goa,25509,BJP,Ravi Naik,7514,MAG,Ketan Prabhu Bhatikar,7437,77,0.3
+ae-goa-2022,AE,Goa,2022,2022,official,22,Siroda,GEN,North Goa,24799,BJP,Subhash Shirodkar,8307,AAP,Mahadev Naik,6133,2174,8.77
+ae-goa-2022,AE,Goa,2022,2022,official,23,Marcaim,GEN,North Goa,23349,MAG,Ramkrishna Alias Sudin Dhavalikar,13963,BJP,Sudesh Bhingi,4000,9963,42.67
+ae-goa-2022,AE,Goa,2022,2022,official,24,Mormugao,GEN,South Goa,16785,INC,Sankalp Amonkar,9067,BJP,Milind Sagun Naik,7126,1941,11.56
+ae-goa-2022,AE,Goa,2022,2022,official,25,Vasco-Da-Gama,GEN,South Goa,25262,BJP,Krishna V. Salkar,13118,INC,Jose Luis Carlos Almeida,9461,3657,14.48
+ae-goa-2022,AE,Goa,2022,2022,official,26,Dabolim,GEN,South Goa,18547,BJP,Mauvin Heliodoro Godinho,7594,INC,Captain Viriato Hipolito Mendonca Fernandes,6024,1570,8.46
+ae-goa-2022,AE,Goa,2022,2022,official,27,Cortalim,GEN,South Goa,23711,IND,Antonio Vas,5522,INC,Olencio Simoes,4344,1178,4.97
+ae-goa-2022,AE,Goa,2022,2022,official,28,Nuvem,GEN,South Goa,21636,INC,Aleixo Sequeira,8745,RGP,Arvind D\'Costa,4348,4397,20.32
+ae-goa-2022,AE,Goa,2022,2022,official,29,Curtorim,GEN,South Goa,22101,IND,Aleixo Reginaldo Lourenco,8960,INC,Moreno Rebelo,3905,5055,22.87
+ae-goa-2022,AE,Goa,2022,2022,official,30,Fatorda,GEN,South Goa,23896,GFP,Vijai Sardesai,11063,BJP,Damu G. Naik,9536,1527,6.39
+ae-goa-2022,AE,Goa,2022,2022,official,31,Margao,GEN,South Goa,22372,INC,Digambar Kamat,13674,BJP,Ajgaonkar Manohar (Babu),5880,7794,34.84
+ae-goa-2022,AE,Goa,2022,2022,official,32,Benaulim,GEN,South Goa,20953,AAP,Venzy Viegas,6411,AITC,Churchill Alemao,5140,1271,6.07
+ae-goa-2022,AE,Goa,2022,2022,official,33,Navelim,GEN,South Goa,21164,BJP,Ulhas Tuenkar,5168,AITC,Valanka Natasha Alemao,4738,430,2.03
+ae-goa-2022,AE,Goa,2022,2022,official,34,Cuncolim,GEN,South Goa,22917,INC,Alemao Yuri,9866,BJP,Clafasio Dias,6632,3234,14.11
+ae-goa-2022,AE,Goa,2022,2022,official,35,Velim,GEN,South Goa,23149,AAP,Cruz Silva,5390,INC,D\'Silva Savio,5221,169,0.73
+ae-goa-2022,AE,Goa,2022,2022,official,36,Quepem,GEN,South Goa,28310,INC,Altone D\'Costa,14994,BJP,Chandrakant Kavlekar,11393,3601,12.72
+ae-goa-2022,AE,Goa,2022,2022,official,37,Curchorem,GEN,South Goa,22571,BJP,Nilesh Cabral,9973,INC,Amit Patkar,9301,672,2.98
+ae-goa-2022,AE,Goa,2022,2022,official,38,Sanvordem,GEN,South Goa,26250,BJP,Ganesh Gaonkar,11877,IND,Deepak Prabhu Pauskar,6687,5190,19.77
+ae-goa-2022,AE,Goa,2022,2022,official,39,Sanguem,GEN,South Goa,23510,BJP,Subhash Uttam Phal Dessai,8724,IND,Savitri Chandrakant Kavlekar,7295,1429,6.08
+ae-goa-2022,AE,Goa,2022,2022,official,40,Canacona,GEN,South Goa,28836,BJP,Ramesh Tawadkar,9063,IND,Isidore Aleixinho Fernandes,6012,3051,10.58

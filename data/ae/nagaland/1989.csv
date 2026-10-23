@@ -1,0 +1,61 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,1,Dimapur-I,GEN,Dimapur *,17680,INC,Vikheshe Sema,11719,NPC,Manik Bhattacharjee,4852,6867,38.84
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,2,Dimapur-Ii,ST,Dimapur *,22549,INC,Imtisunget Jamir,18468,NPC,Webansao,4081,14387,63.8
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,3,Dimapur-Iii,ST,Dimapur *,8313,NPC,K. Kihoto Hollohon,4413,INC,Vihepu Yepthomi,3900,513,6.17
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,4,Ghaspani-I,ST,Dimapur *,22050,NPC,Khekiho,10000,INC,Shikiho Sema,8799,1201,5.45
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,5,Ghaspani-Ii,ST,Dimapur *,14318,INC,L. Hekiye Sema,8351,NPC,Rokonicha,5967,2384,16.65
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,6,Tenning,ST,Kohima,8505,NPC,T. R. Zeliang,3387,INC,H. L. Singson,2721,666,7.83
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,7,Peren,ST,Kohima,9199,NPC,Bangdi Iheilung,4429,INC,Ata,3622,807,8.77
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,8,Western Angami,ST,Kohima,6450,NPC,N. T. Nakhro,3499,INC,Crellan Peseyie,2951,548,8.5
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,9,Kohima Town,ST,Kohima,10139,NPC,K. V. Kedetsu,5182,INC,Khrieketoulie,4957,225,2.22
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,10,Northern Angami - I,ST,Kohima,5808,INC,Tseivilie Miachieo,3273,NPC,Shurhozelie,2535,738,12.71
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,11,Northern Angami -Ii,ST,Kohima,8429,INC,Neiphiu Rio,4366,NPC,Chupfuo,4063,303,3.59
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,12,Tseminyu,ST,Kohima,8149,NPC,Khasu,4350,INC,Nillo,3799,551,6.76
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,13,Pughoboto,ST,Kohima,5934,NPC,Joshua,2386,NPP,Huska,2063,323,5.44
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,14,Southern Angami-I,ST,Kohima,6115,INC,Mavil Khieya,3241,NPC,Dietho-O,2874,367,6.0
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,15,Southern Angami-Ii,ST,Kohima,5328,NPC,Vizadel,2715,INC,K. Viswesul Pusa,2613,102,1.91
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,16,Pfutsera,ST,Phek,7553,NPC,Thenucho,3821,INC,Lhiweshelo Mero,3732,89,1.18
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,17,Chizami,ST,Phek,7716,NPC,Keivezu G. Kenye,3463,INC,Zhovehu Lohe,3313,150,1.94
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,18,Chazouba,ST,Phek,9629,INC,Melhupra Vero,4870,NPC,Vamuzo,4759,111,1.15
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,19,Phek,ST,Phek,7448,INC,Zachilhu,4128,NPC,Vejoi,3320,808,10.85
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,20,Meluri,ST,Phek,7546,INC,Khuosatho,3206,NPC,Chiekhutso,2649,557,7.38
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,21,Tuli,ST,Mokokchung,10580,INC,Tsuknungpenzu,5356,NPC,T. Tali,5224,132,1.25
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,22,Arkakong,ST,Mokokchung,8418,INC,Jongpongchiten,4175,NPC,Marchiba,2923,1252,14.87
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,23,Impur,ST,Mokokchung,9644,INC,T. Chuba,4135,IND,N. Yabang Aier,3732,403,4.18
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,24,Angetyongpang,ST,Mokokchung,7796,INC,S. Lima,3837,IND,Temsu Ao,2324,1513,19.41
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,25,Monguya,ST,Mokokchung,7299,INC,N. I. Jamir,4713,NPC,Nungsangemba,2586,2127,29.14
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,26,Aonglenden,ST,Mokokchung,6799,INC,Nungshizenba,6293,NPC,Alichiba,506,5787,85.12
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,27,Mokokchung Town,ST,Mokokchung,2428,INC,S. C. Jamir,2017,NPC,Takuyaba,411,1606,66.14
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,28,Koridang,ST,Mokokchung,9850,INC,L. Nokzenketba,3574,NPC,Bendangtoshi,2867,707,7.18
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,29,Jangpetkong,ST,Mokokchung,5935,INC,Chubatemjen Ao,3201,NPC,I. Imkong,2734,467,7.87
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,30,Alungtaki,ST,Mokokchung,5948,INC,Tiameren Imchen,3305,NPC,Imnanungsang,2643,662,11.13
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,31,Akuluto,ST,Zunheboto,3929,INC,I. Khehoto Sema,2017,NPC,I. Vitokhe,1912,105,2.67
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,32,Atoizu,ST,Zunheboto,5855,NPC,Kiyezhe (K. L. Chishi),3016,INC,Yeshito,2839,177,3.02
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,33,Suruhuto,ST,Zunheboto,5998,NPC,Khukivi Awomi,3328,INC,Kiyezhe,2670,658,10.97
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,34,Aghunato,ST,Zunheboto,5150,INC,Pukhayi,2780,NPC,Nihokhe,2370,410,7.96
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,35,Zunheboto,ST,Zunheboto,6352,NPC,Takheho,3187,INC,Ghutoshe Sema,3165,22,0.35
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,36,Satakha,ST,Zunheboto,5895,INC,Hokheto Sema,3088,NPC,Kughavi,2807,281,4.77
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,37,Tyui,ST,Wokha,8708,INC,T. A. Nguillie,4796,NPC,N. L. Odyuo,3912,884,10.15
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,38,Wokha,ST,Wokha,10225,NPC,T. Myingthungo Lotha,5346,INC,John Lotha,4879,467,4.57
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,39,Sanis,ST,Wokha,7146,INC,T. N. Ngullie,2960,NPC,Nkhao Lotha,2658,302,4.23
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,40,Bhandari,ST,Wokha,9260,INC,E. T. Ezung,5071,NPC,T. Kikon,4189,882,9.52
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,41,Tizit,ST,Mon,9512,NPC,Yeangphong,5149,INC,B. Tingkap Wangnao,4363,786,8.26
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,42,Wakching,ST,Mon,9662,INC,Chingwang,4853,NPC,P. Enyei,4809,44,0.46
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,43,Tapi,ST,Mon,7349,NPC,Noke,2753,INC,K. Tingnei K,2495,258,3.51
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,44,Phomching,ST,Mon,4543,INC,Konngam,3940,NPC,P. Pohwang K,603,3337,73.45
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,45,Tehok,ST,Mon,8194,INC,C. Nocklem K,4292,NPC,T. P. Manlem,3902,390,4.76
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,46,Mon Town,ST,Mon,10429,NPC,S. Yokten,5248,INC,John Konyak,5181,67,0.64
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,47,Aboi,ST,Mon,6579,INC,Nyeiwang,3324,NPC,W. Eyung,3255,69,1.05
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,48,Moka,ST,Mon,8233,INC,K. Kiko,5064,NPC,Nyamnyei,3169,1895,23.02
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,49,Tamlu,ST,Tuensang,6666,NPC,Pangjak S. Phom,3501,INC,Bamgtick Phom,3165,336,5.04
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,50,Longleng,ST,Tuensang,9028,NPC,Bukchem Phom,5003,INC,Chenlom Phom,4025,978,10.83
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,51,Noksen,ST,Tuensang,4421,INC,C. Chongshen,3809,NPC,S. Sao Chang,612,3197,72.31
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,52,Longkhim Chare,ST,Tuensang,8440,INC,S. K. Sangtam,4831,NPC,Thrinimong,3609,1222,14.48
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,53,Tuensang Sadar-I,ST,Tuensang,7078,INC,Chanskong,4222,NPC,S. Khoney,2856,1366,19.3
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,54,Tuensang Sadar-Ii,ST,Tuensang,6115,NPC,Lakiumong,3419,INC,M. B. Yimkong,2696,723,11.82
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,55,Tobu,ST,Tuensang,8683,NPC,Neakba,5636,INC,Pongchai,3047,2589,29.82
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,56,Noklak,ST,Tuensang,6247,INC,Sedem,2693,IND,Tongthan,2621,72,1.15
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,57,Thonoknyu,ST,Tuensang,6747,NPC,Khongo,3123,INC,P. Pongom,2827,296,4.39
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,58,Shamtorr-Chessore,ST,Tuensang,6951,NPC,Yamukum,3816,INC,K. Zungkum,3135,681,9.8
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,59,Siyuchong-Sitimi,ST,Tuensang,6725,INC,Sethricho,3732,NPC,Yopikyu,2993,739,10.99
+ae-nagaland-1989,AE,Nagaland,1989,1989,official,60,Pungro-Kiphire,ST,Tuensang,9621,INC,T. Rothrong,3713,IND,T. Porechw,3693,20,0.21

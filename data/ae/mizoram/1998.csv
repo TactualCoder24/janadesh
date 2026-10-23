@@ -1,0 +1,41 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,1,Tuipang,ST,,8302,INC,K.T.Rokhaw,4185,MDF,T.T.Vakhu,4117,68,0.82
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,2,Saiha,ST,,10333,INC,Zakhu Hlychho,3617,MDF,S.Vadyu,3604,13,0.13
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,3,Sangau,ST,,7382,IND,H. Rammawi,3810,INC,S.T. Rualyapa,3017,793,10.74
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,4,Lawngtlai,ST,,14180,INC,C. Thanghluna,7456,IND,F. Manghnuna,6500,956,6.74
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,5,Chawngte,ST,,10662,INC,N.P. Chakma,5516,BJP,Alak Bikash Chakma,4987,529,4.96
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,6,Tlabung,ST,,5863,INC,Nihar Kanti,1820,MNF,Samson Zoramthanga,1646,174,2.97
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,7,Buarpui,ST,,7021,MZPC,Lalrinzuala,2044,MNF,Rokunga Ralte,2009,35,0.5
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,8,Lunglei South,GEN,,8740,MZPC,J. Lawmzuala,3185,MNF,T. Neihlaia,3115,70,0.8
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,9,Lunglei North,ST,,8498,MNF,Dr. R. Lalthangliana,3419,MZPC,Lalnghinglova Hauhnar,2683,736,8.66
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,10,Tawipui,ST,,8126,MNF,H. Ropuia,2886,MZPC,K.L. Chhawnzaua,2528,358,4.41
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,11,Vanva,ST,,6210,MNF,C. Lalrinsanga,1891,MZPC,H. Thangkima,1825,66,1.06
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,12,Hnahthial,ST,,6747,MZPC,F. Lalthanzuala,2259,MNF,C.S. Chawngchhuma,1697,562,8.33
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,13,North Vanlaiphai,ST,,6269,MNF,R. Lalawia,1858,INC,Lalkhmma,1804,54,0.86
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,14,Khawbung,ST,,8502,MNF,Zoramthanga,2879,MZPC,Lalsawivunga,2045,834,9.81
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,15,Champhai,ST,,11693,MNF,Zoramthanga,5259,INC,F. Lalthlamuana,4039,1220,10.43
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,16,Khawhai,ST,,5197,MZPC,K.L. Lianchia,1983,INC,Sainghaka,1768,215,4.14
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,17,Saitual,ST,,7122,INC,R. Lalzirliana,1913,MZPC,K. Biakchungnunga,1907,6,0.08
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,18,Khawzawl,ST,,8324,MNF,Aichhinga,3880,MNF(N),Andrew Lalherliana,2626,1254,15.06
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,19,Ngopa,ST,,9044,MZPC,P.B. Rosanga,3536,INC,H. Zathuana,2395,1141,12.62
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,20,Suangpuilawn,ST,,5705,MZPC,H. Laltanpuia,1988,INC,Vanlalngena,1415,573,10.04
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,21,Ratu,ST,,8605,MNF,Lalthankunga,3733,INC,Lalbiakzuala,2793,940,10.92
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,22,Kawnpui,ST,,8711,MNF,Sanghmingthanga Pautu,2819,INC,R.L. Valla,2752,67,0.77
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,23,Kolasib,ST,,8690,MNF,Rualchhina,3368,INC,Lalthanzara,2544,824,9.48
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,24,Bilkhawthlir,ST,,6008,MNF,Lalchamliana,2559,INC,Vaivenga,1649,910,15.15
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,25,Lokicherra,ST,,4711,MNF,Tawnluia,2077,INC,T.C. Pachhunga,1199,878,18.64
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,26,Kawrthah,ST,,3874,MNF,K. Sangthuama,1644,INC,Saikapthianga,1521,123,3.18
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,27,Mamit,ST,,6647,MZPC,Brig. T. Sailo,3480,INC,Lalhuthanga,2076,1404,21.12
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,28,Phuldungsei,ST,,7461,MZPC,J. Lalthangliana,3309,INC,Liansuama,2718,591,7.92
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,29,Sateek,ST,,8439,MNF,B. Lalthlengliana,2974,INC,K.S. Thanga,2171,803,9.52
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,30,Serchhip,ST,,10064,MNF,K. Thangzuala,4596,INC,Lalthanhawla,3900,696,6.92
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,31,Lungpho,ST,,7884,MZPC,Vanlalhlana,2726,INC,K. Lianzuala,2126,600,7.61
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,32,Tlungvel,ST,,6966,MZPC,L.N. Tluanga,2202,INC,Dr. H. Thansanga,2077,125,1.79
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,33,Aizawl North-I,ST,,10483,MNF,Dr. Lalzama,3594,INC,C.L. Ruala,2841,753,7.18
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,34,Aizawl North Ii,ST,,12249,MNF,F. Malsawma,4407,MZPC,R. Vanengliana,3430,977,7.98
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,35,Aizawl East-I,ST,,9446,MZPC,Lalhmingthanga,5011,INC,Rochhunga Ralte,2333,2678,28.35
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,36,Aizawl East-Ii,ST,,8053,MNF,H. Vanlalauva,3756,INC,John Rotluangliana,2621,1135,14.09
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,37,Aizawl West I,ST,,12266,MZPC,Col. Lalchungnunga Sailo,5399,INC,Zodintluanga,3481,1918,15.64
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,38,Aizawl West-Ii,ST,,11670,MNF,Lalrinchhana,3813,MZPC,Thantluanga,3586,227,1.95
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,39,Aizawl South - I,ST,,10748,MNF,R. Tlanghmingthanga,3790,MZPC,Dr. J.V. Hluna,3031,759,7.06
+ae-mizoram-1998,AE,Mizoram,1998,1998,official,40,Aizawl South - Ii,ST,,11043,MNF,C. Sangzuala,4370,MNF(N),Lalduhawma,3379,991,8.97

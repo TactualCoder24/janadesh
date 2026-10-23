@@ -1,0 +1,82 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-haryana-1968,AE,Haryana,1968,1968,official,1,Kalka,GEN,,39221,INC,Kishori Lal,22880,IND,Lachhman Singh,13552,9328,23.78
+ae-haryana-1968,AE,Haryana,1968,1968,official,2,Naraingarh,GEN,,22525,INC,Lal Singh,14745,BKD,Jagat Narain,3585,11160,49.54
+ae-haryana-1968,AE,Haryana,1968,1968,official,3,Chhachhrauli,SC,,23036,INC,Parbhu,13696,VHP,Phool Chand,9340,4356,18.91
+ae-haryana-1968,AE,Haryana,1968,1968,official,4,Jagadhri,GEN,,29274,INC,Rameshwar Dass,13534,BJS,Brijmohan Lal,9432,4102,14.01
+ae-haryana-1968,AE,Haryana,1968,1968,official,5,Yamuna Nagar,GEN,,34977,BJS,Malik Chand,10243,IND,Bhupinder Singh,7765,2478,7.08
+ae-haryana-1968,AE,Haryana,1968,1968,official,6,Mullana,SC,,27598,INC,Ram Parkash,16830,RPI,Ram Parshad,10179,6651,24.1
+ae-haryana-1968,AE,Haryana,1968,1968,official,7,Naggal,GEN,,22879,INC,Abdul Gaffar Khan,8654,IND,Mohinder Singh,6283,2371,10.36
+ae-haryana-1968,AE,Haryana,1968,1968,official,8,Ambala Cantonment,GEN,,25203,BJS,Bhagwan Dass,13009,INC,Dev Raj Anand,11606,1403,5.57
+ae-haryana-1968,AE,Haryana,1968,1968,official,9,Ambala,GEN,,26182,INC,Lekhwati Jain,14552,BJS,Faquir Chand,9482,5070,19.36
+ae-haryana-1968,AE,Haryana,1968,1968,official,10,Shahabad,GEN,,26531,INC,Jagdish Chander,10215,VHP,Jagjit Singh,8583,1632,6.15
+ae-haryana-1968,AE,Haryana,1968,1968,official,11,Thanesar,GEN,,30120,INC,Om Parkash,14473,BJS,Ram Saran Dass,14089,384,1.27
+ae-haryana-1968,AE,Haryana,1968,1968,official,12,Babain,SC,,26491,IND,Chand Ram,13535,INC,Teka,9242,4293,16.21
+ae-haryana-1968,AE,Haryana,1968,1968,official,13,Nilokheri,GEN,,30344,IND,Chanda Singh,15155,INC,Ram Sarup Giri,8617,6538,21.55
+ae-haryana-1968,AE,Haryana,1968,1968,official,14,Indri,GEN,,30845,INC,Prasanni Devi,10846,IND,Des Raj,8060,2786,9.03
+ae-haryana-1968,AE,Haryana,1968,1968,official,15,Karnal,GEN,,32222,IND,Shanti Prasad,10648,BJS,Ram Lal,8285,2363,7.33
+ae-haryana-1968,AE,Haryana,1968,1968,official,16,Jundla,SC,,26039,RPI,Banwari Ram,14253,INC,Ram Kishan,10642,3611,13.87
+ae-haryana-1968,AE,Haryana,1968,1968,official,17,Gharaunda,GEN,,32629,BJS,Randhir Singh,7766,SWA,Rulya Ram,7754,12,0.04
+ae-haryana-1968,AE,Haryana,1968,1968,official,18,Sambhakla,GEN,,29763,INC,Kartar Singh,17486,BJS,Dhram Vir,9046,8440,28.36
+ae-haryana-1968,AE,Haryana,1968,1968,official,19,Panipat,GEN,,36886,BJS,Fateh Chand,16957,INC,Chaman Lal,13386,3571,9.68
+ae-haryana-1968,AE,Haryana,1968,1968,official,20,Naultha,GEN,,29889,INC,Jai Singh,16130,VHP,Inder Singh,13264,2866,9.59
+ae-haryana-1968,AE,Haryana,1968,1968,official,21,Rajaund,SC,,22260,INC,Ran Singh,11588,VHP,Jogi Ram,6534,5054,22.7
+ae-haryana-1968,AE,Haryana,1968,1968,official,22,Pundri,GEN,,31278,IND,Ishwar Singh,14211,INC,Tara Singh,13773,438,1.4
+ae-haryana-1968,AE,Haryana,1968,1968,official,23,Sherhada,GEN,,36878,INC,Surjit Singh,21074,SWA,Jagjit Singh Alias Pohlu,11929,9145,24.8
+ae-haryana-1968,AE,Haryana,1968,1968,official,24,Kaithal,GEN,,42203,INC,Om Prabha,21273,BJS,Gian Chand,18950,2323,5.5
+ae-haryana-1968,AE,Haryana,1968,1968,official,25,Pehowa,GEN,,30498,INC,Piara Singh,11798,BJS,Ram Dia,7627,4171,13.68
+ae-haryana-1968,AE,Haryana,1968,1968,official,26,Kalayat,SC,,14879,INC,Bhagtu,9117,SWA,Anant Ram,4998,4119,27.68
+ae-haryana-1968,AE,Haryana,1968,1968,official,27,Narwana,GEN,,35022,INC,Neki Ram,17833,SWA,Shamsher Singh,11685,6148,17.55
+ae-haryana-1968,AE,Haryana,1968,1968,official,28,Jind,GEN,,34254,INC,Daya Krishan,17733,IND,Shankar Dass,16136,1597,4.66
+ae-haryana-1968,AE,Haryana,1968,1968,official,29,Julana,GEN,,34169,SWA,Narain Singh,17052,INC,Dal Singh,16008,1044,3.06
+ae-haryana-1968,AE,Haryana,1968,1968,official,30,Safidon,GEN,,30012,VHP,Satya Narain,14895,INC,Ram Kishan,12655,2240,7.46
+ae-haryana-1968,AE,Haryana,1968,1968,official,31,Meham,GEN,,33664,INC,Raj Singh,16479,IND,Maha Singh,16253,226,0.67
+ae-haryana-1968,AE,Haryana,1968,1968,official,32,Baroda,SC,,27724,VHP,Shyam Chand,9934,INC,Ram Dhari,8092,1842,6.64
+ae-haryana-1968,AE,Haryana,1968,1968,official,33,Gohana,GEN,,36659,INC,Ram Dhari,15970,IND,Har Kishan,15202,768,2.09
+ae-haryana-1968,AE,Haryana,1968,1968,official,34,Kailana,GEN,,34136,VHP,Rajinder Singh,17026,INC,Partap Singh Tyagi,15078,1948,5.71
+ae-haryana-1968,AE,Haryana,1968,1968,official,35,Sonepat,GEN,,32911,BJS,Mukhtiar Singh,18480,INC,Dewan Dwarka Khosla,13174,5306,16.12
+ae-haryana-1968,AE,Haryana,1968,1968,official,36,Rai,GEN,,26911,INC,Jaswant Singh,16306,IND,Dalpat Singh,6262,10044,37.32
+ae-haryana-1968,AE,Haryana,1968,1968,official,37,Rohat,SC,,20914,INC,Kanwar Singh,11268,IND,Phool Chand,9646,1622,7.76
+ae-haryana-1968,AE,Haryana,1968,1968,official,38,Hassangarh,GEN,,27290,INC,Maru Singh,14372,IND,Raghbir Singh,5244,9128,33.45
+ae-haryana-1968,AE,Haryana,1968,1968,official,39,Kiloi,GEN,,36111,INC,Ranbir Singh,18751,IND,Shreyo Nath,17025,1726,4.78
+ae-haryana-1968,AE,Haryana,1968,1968,official,40,Rohtak,GEN,,36413,BJS,Mangal Sein,17534,INC,Dev Raj,17468,66,0.18
+ae-haryana-1968,AE,Haryana,1968,1968,official,41,Kalanaur,GEN,,29448,BJS,Satram Dass,12446,INC,Badlu Ram,9487,2959,10.05
+ae-haryana-1968,AE,Haryana,1968,1968,official,42,Beri,GEN,,36704,INC,Ran Singh,24801,IND,Partap Singh Daulta,7060,17741,48.34
+ae-haryana-1968,AE,Haryana,1968,1968,official,43,Salhawas,SC,,28532,VHP,Shakuntla,13455,INC,Phul Singh,11885,1570,5.5
+ae-haryana-1968,AE,Haryana,1968,1968,official,44,Jhajjar,GEN,,37375,INC,Ganga Sagar,13253,SWA,Manphul Singh,11414,1839,4.92
+ae-haryana-1968,AE,Haryana,1968,1968,official,45,Bahadurgarh,GEN,,44059,INC,Partap Singh,23714,SWA,Hardwari Lal,19279,4435,10.07
+ae-haryana-1968,AE,Haryana,1968,1968,official,46,Faridabad,GEN,,36219,INC,Kamal Dev,9982,IND,Kanwal Nain,8365,1617,4.46
+ae-haryana-1968,AE,Haryana,1968,1968,official,47,Ballabgarh,GEN,,33990,INC,Sharda Rani,14989,VHP,Nathu Singh,7572,7417,21.82
+ae-haryana-1968,AE,Haryana,1968,1968,official,48,Palwal,GEN,,35699,INC,Roop Lal Mehta,19231,SWA,Dhan Singh,12102,7129,19.97
+ae-haryana-1968,AE,Haryana,1968,1968,official,49,Hasanpur,SC,,25897,INC,Manohar Singh,15583,SWA,Shyah Sunder,6828,8755,33.81
+ae-haryana-1968,AE,Haryana,1968,1968,official,50,Ferozepur Jhirka,GEN,,24651,VHP,Abdul Razzaq,12503,INC,Imam Khan,12148,355,1.44
+ae-haryana-1968,AE,Haryana,1968,1968,official,51,Nuh,GEN,,27450,INC,Khurshed Ahmad,14675,VHP,Rahim Khan,8738,5937,21.63
+ae-haryana-1968,AE,Haryana,1968,1968,official,52,Hathin,GEN,,25457,IND,Hem Raj,7381,INC,Debi Singh Tewatia,7311,70,0.27
+ae-haryana-1968,AE,Haryana,1968,1968,official,53,Sohna,GEN,,41368,INC,Kanehya Lal Pdswal,21733,VHP,Tayyab Hussain,17283,4450,10.76
+ae-haryana-1968,AE,Haryana,1968,1968,official,54,Gurgaon,GEN,,32885,INC,Mahabir Singh,19114,BJS,Partap Singh Thakran,12396,6718,20.43
+ae-haryana-1968,AE,Haryana,1968,1968,official,55,Pataudi,GEN,,42990,VHP,Ramjiwan Singh,20306,SWA,Sees Ram,14678,5628,13.09
+ae-haryana-1968,AE,Haryana,1968,1968,official,56,Rewari,GEN,,30516,VHP,Sumitra Devi,15010,INC,Babu Dayal,11727,3283,10.76
+ae-haryana-1968,AE,Haryana,1968,1968,official,57,Bawal,SC,,27612,VHP,Jee Sukh,14141,INC,Hira Lal,9295,4846,17.55
+ae-haryana-1968,AE,Haryana,1968,1968,official,58,Jatusana,GEN,,40281,VHP,Birender Singh,23890,INC,Nihal Singh,16144,7746,19.23
+ae-haryana-1968,AE,Haryana,1968,1968,official,59,Ateli,GEN,,40065,VHP,Birender Singh,23673,INC,Nihal Singh,15937,7736,19.31
+ae-haryana-1968,AE,Haryana,1968,1968,official,60,Narnaul,GEN,,25990,INC,Ram Saran Chand Mittal,12661,IND,Dharam Paul,11361,1300,5.0
+ae-haryana-1968,AE,Haryana,1968,1968,official,61,Mahendragarh,GEN,,27932,VHP,Hari Singh,11246,INC,Narinder Singh,6623,4623,16.55
+ae-haryana-1968,AE,Haryana,1968,1968,official,62,Kanina,GEN,,28888,VHP,Dalip Singh,18413,INC,Lal Singh,9700,8713,30.16
+ae-haryana-1968,AE,Haryana,1968,1968,official,63,Badhra,GEN,,33801,VHP,Amir Singh,11460,IND,Attar Singh,8748,2712,8.02
+ae-haryana-1968,AE,Haryana,1968,1968,official,64,Dadri,SC,,22214,INC,Ganpat Rai,11864,SSP,Harnam Singh,6908,4956,22.31
+ae-haryana-1968,AE,Haryana,1968,1968,official,65,Loharu,GEN,,29487,INC,Chandravati,14480,IND,Tulsi Ram,12982,1498,5.08
+ae-haryana-1968,AE,Haryana,1968,1968,official,66,Tosham,GEN,,30423,INC,Bansi Lal,9109,SSP,Jangbir Singh,7860,1249,4.11
+ae-haryana-1968,AE,Haryana,1968,1968,official,67,Bhiwani,GEN,,29168,INC,Banarsi Dass,13572,BJS,Bhagwan Dev,12384,1188,4.07
+ae-haryana-1968,AE,Haryana,1968,1968,official,68,Mundhal Khurd,GEN,,30918,INC,Sarup Singh,11878,SWA,Jaswant Singh,10456,1422,4.6
+ae-haryana-1968,AE,Haryana,1968,1968,official,69,Narnaund,GEN,,28148,SWA,Joginder Singh,14973,INC,Rameshwar Dutt,8235,6738,23.94
+ae-haryana-1968,AE,Haryana,1968,1968,official,70,Hansi,GEN,,29406,INC,Hari Singh,13608,VHP,Ajit Singh,9363,4245,14.44
+ae-haryana-1968,AE,Haryana,1968,1968,official,71,Bawanikhera,SC,,21765,INC,Parbhu Singh,9611,SWA,Amar Singh,7397,2214,10.17
+ae-haryana-1968,AE,Haryana,1968,1968,official,72,Adampur,GEN,,40029,INC,Bhajan Lal,23723,IND,Balraj Singh,13679,10044,25.09
+ae-haryana-1968,AE,Haryana,1968,1968,official,73,Hissar,GEN,,37537,BKD,Balwant Rai Tayal,17654,INC,Gulab Singh,16495,1159,3.09
+ae-haryana-1968,AE,Haryana,1968,1968,official,74,Barwala,SC,,21613,INC,Gordhan Dass,9919,BKD,Pir Chand,9548,371,1.72
+ae-haryana-1968,AE,Haryana,1968,1968,official,75,Tohana,GEN,,31333,VHP,Harpal Singh,14621,INC,Mehar Chand,8156,6465,20.63
+ae-haryana-1968,AE,Haryana,1968,1968,official,76,Fatehabad,GEN,,41992,INC,Pokar Ram,24029,IND,Leela Krishan,17963,6066,14.45
+ae-haryana-1968,AE,Haryana,1968,1968,official,77,Badopal,GEN,,35644,VHP,Partap Singh,18791,INC,Raja Ram,16191,2600,7.29
+ae-haryana-1968,AE,Haryana,1968,1968,official,78,Sirsa,GEN,,33581,INC,Prem Sukh Dass,17856,IND,Sushil Chander,12001,5855,17.44
+ae-haryana-1968,AE,Haryana,1968,1968,official,79,Rori,GEN,,40409,INC,Har Kishan Lal,15662,ADS,Dara Singh,15055,607,1.5
+ae-haryana-1968,AE,Haryana,1968,1968,official,80,Dabwali,SC,,31595,IND,Teja Singh,11925,INC,Kesra Ram,10477,1448,4.58
+ae-haryana-1968,AE,Haryana,1968,1968,official,81,Ellenabad,GEN,,42027,VHP,Lal Chand,20816,INC,Om Prakash,15485,5331,12.68

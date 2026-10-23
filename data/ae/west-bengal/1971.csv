@@ -1,0 +1,280 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,1,Mekliganj,SC,,45290,AIFB,Mihir Kumar Ray,19880,INC,Mani Bhushan Roy,15982,3898,8.61
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,2,Mathabhanga,SC,,47279,INC,Birendra Nath Roy,21302,CPI(M),Dinesh Chandra Dakua,18386,2916,6.17
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,3,Cooch Behar West,SC,,49954,INC,Rajani Das,22565,CPI(M),Sudhir Pramanik,13749,8816,17.65
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,4,Sitai,GEN,,46862,INC,Md. Fazle Haque,20969,AIFB,Adhyapak Hiften Nag,12244,8725,18.62
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,5,Dinhata,GEN,,53715,INC,Jogesh Chandra Sarkar,24249,AIFB,Kamal Kanti Guha,21823,2426,4.52
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,6,Cooch Behar North,GEN,,51357,INC,Sunil Kar,25465,CPI(M),Shirendra Narayan Choudhury,17800,7665,14.92
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,7,Cooch Behar South,GEN,,49542,INC,Santosh Kumar Roy,21582,CPI(M),Gopal Chandra Saha,14988,6594,13.31
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,8,Tufanganj,SC,,54295,INC,Sishir Kumar Isore,28678,CPI(M),Manindranath Barma,18573,10105,18.61
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,9,Kumargram,GEN,,37823,INC,Pijush Kanti Mukherjee,16619,CPI(M),Netai Chandra Das,7984,8635,22.83
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,10,Kalchini,ST,,27555,INC,Denis Lakra,10681,PSP,John Arther Baxia Uraon,8743,1938,7.03
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,11,Alipurdvars,GEN,,48892,INC,Narayan Bhattacharya,20455,CPI(M),Ranjit Das Gupta,11219,9236,18.89
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,12,Falakata,SC,,40692,INC,Jagdananda Roy,13410,CPI(M),Abhoya Charan Barman,11415,1995,4.9
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,13,Madarihat,ST,,37128,RSP,A. H. Besterwitch,12291,IND,Pahan Khudiram,9137,3154,8.49
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,14,Dhupguri,GEN,,39515,INC,Bhawani Paul,11471,SSP,Anildhar Guha Neogi,11279,192,0.49
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,15,Nagrakata,ST,,39456,CPI(M),Punai Oraon,22811,INC,Azios Lakra,9542,13269,33.63
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,16,Mainaguri,SC,,36545,INC,Bijoy Krishna Mohanta,12781,IND,Haripada Roy,6075,6706,18.35
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,17,Mal,ST,,40987,INC,Antoni Toppno,13383,CPI(M),Jagarnath Oraon,9640,3743,9.13
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,18,Jalpaiguri,GEN,,51338,INC,Anupam Sen,25608,CPI(M),Parswh Chandra Mtra,14520,11088,21.6
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,19,Rajganj,SC,,33443,INC,Bhagwan Singh Roy,11796,CPI(M),Dhirendra Nath Roy,10345,1451,4.34
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,20,Kalimpong,GEN,,28377,IGL,Madan Kumar Prodhan,10810,IND,Padma Lakshmi Subba,7388,3422,12.06
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,21,Darjeeling,GEN,,32173,IGL,Deo Prakash Rai,14998,INC,Madan Kumar Thapa,9133,5865,18.23
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,22,Jore Bungalow,GEN,,33333,CPI(M),Ananda Prasad Pathak,12858,IGL,Nandalall Gurung,12572,286,0.86
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,23,Siliguri,GEN,,41044,INC,Arun Kumar Moitra,20764,CPI(M),Biren Bose,12268,8496,20.7
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,24,Phansidewa,ST,,44013,INC,Iswar Chandra Tirkey,19259,CPI(M),Patras Minz,14678,4581,10.41
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,25,Chopra,GEN,,39568,INC,Chowdhury Abdul Karim,15757,CPI(M),Bachcha Munshi,12794,2963,7.49
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,26,Goalpokhar,GEN,,31527,INC,Seikh Sharafat Hossain,10953,PML,Nizamuddin,9410,1543,4.89
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,27,Karandighi,GEN,,44099,INC,Hazi Sajjad Hossain,20715,AIFB,Suresh Chandra Singha,11374,9341,21.18
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,28,Raiganj,GEN,,49425,INC,Ramendra Nath Dutta,23924,CPI(M),Manash Roy,21917,2007,4.06
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,29,Kaliaganj,SC,,39610,INC,Roy Debendra Nath,21968,CPI(M),Nani Gopai Roy,11603,10365,26.17
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,30,Itahar,GEN,,51022,INC,Abedin Zainal,30221,CPI(M),Hari Charan Debnath,12541,17680,34.65
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,31,Kushmandi,SC,,39649,INC,Roy Jatindpa Mohan,20988,CPI,Sarker Bhupal Chandra,7440,13548,34.17
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,32,Gangarampur,GEN,,46830,INC,Ahmed Mostehuddin,26440,CPI(M),Ahindra Sarkar,13256,13184,28.15
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,33,Kumarganj,GEN,,48753,INC,Probodh Kumar Singh Roy,18829,CPI(M),Jamini Kishore Mojumdar,17382,1447,2.97
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,34,Balurghat,GEN,,54483,INC,Bireswar Roy,25109,RSP,Jatin Chakraborty,22941,2168,3.98
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,35,Tapan,ST,,51731,INC,Patrash Hemram,21981,RSP,Oraon Bandhu,18456,3525,6.81
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,36,Habibpur,ST,,45985,IND,Sarkar Murmu,15767,INC,Boila Murmu,14307,1460,3.17
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,37,Gajol,ST,,43117,CPI(M),Suphal Murmu,19243,BAC,Benjamin Hembrom,14777,4466,10.36
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,38,Kharba,GEN,,54577,CPI(M),Golam Yazadani,29283,INC,Mahabubul Haque,22862,6421,11.77
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,39,Harishchandrapur,GEN,,48635,WPI,Md. Elias Razi,26390,NCO,Birendra Kumar Mitra,19441,6949,14.29
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,40,Patua,GEN,,39830,INC,Niren Chandra Sinha,17139,CPI(M),Mohammad Ali,16520,619,1.55
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,41,Malda,GEN,,44078,INC,Mahammad Gafurur Rahaman,17580,CPI(M),Mohammad Flias,12154,5426,12.31
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,42,Englishbazar,GEN,,45229,CPI,Bimal Kanti Das,14290,BJS,Hari Prasanna Misra,12063,2227,4.92
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,43,Manikchak,GEN,,41511,INC,Jokhilal Mondai,15467,CPI(M),Sudhendu Jha Manik,12046,3421,8.24
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,44,Suzapur,GEN,,48505,INC,A. B. Atawalganikhan Chowdhuri,29291,IND,Habibur Rahaman,7584,21707,44.75
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,45,Kaltach,GEN,,51674,INC,Shamsuddin Ahammad,18578,PSP,Promode Ranjan Bose,14937,3641,7.05
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,46,Farakka,GEN,,43151,CPI(M),Jerat Ali,16662,IND,Johad Ahmed,15849,813,1.88
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,47,Suti,GEN,,51131,INC,Md. Sohrab,19504,RSP,Shish Mohammad,16472,3032,5.93
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,48,Jangipur,GEN,,36052,IND,Radaruddin Ahammad,9779,INC,Asraf Hossain,9168,611,1.69
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,49,Sagardighi,SC,,23679,INC,Atul Chandra Sarkar,6898,RSP,Dasjoychand,5263,1635,6.9
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,50,Lalgola,GEN,,30256,INC,Abnus Sattar,13377,IND,Md. Mozipur Rahman,8536,4841,16.0
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,51,Bhagarangola,GEN,,35572,IND,Md. Samaun Biswas,11648,BJS,Manindra Nath Mandai,6973,4675,13.14
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,52,Nabagram,GEN,,39982,IND,Birendra Narayan Roy,21971,INC,Abdul Bapi Biswas,11746,10225,25.57
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,53,Murshidabad,GEN,,36038,INC,Mohammad Idris Ali,10553,CPI(M),Jarjis Hossain Sarkar,9765,788,2.19
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,54,Jalangi,GEN,,35338,BJS,Prafulla Kumar Sarkar,11660,IND,Ahammad Fahymuddin,11557,103,0.29
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,55,Domkal,GEN,,42160,CPI(M),Md. Abdul Bari,17338,IND,Maidul Isiam Khondakar,12078,5260,12.48
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,56,Naoda,GEN,,47962,IND,Khan Nasiruddin,22783,BJS,Ramesh Chandra Biswas,13339,9444,19.69
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,57,Hariharpara,GEN,,45856,IND,Aftabuddin Ahmed,26301,BJS,Subhendu Sekhar Biswas,10129,16172,35.27
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,58,Berhampore,GEN,,37944,INC,Sankar Das Paui,16824,CPI(M),Pran Ranjan Chowdhury,7472,9352,24.65
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,59,Beldanga,GEN,,51398,RSP,Timir Baran Bhaduri,21805,IND,Muhamed Khuda Bukhsh,13357,8448,16.44
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,60,Kandi,GEN,,43534,INC,Atish Chandra Sinha,16732,IND,Mirza Ajahap,9080,7652,17.58
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,61,Khargram,SC,,35805,INC,Narendra Haldar,9557,CPI(M),Dinabandhu Hajhi,9538,19,0.05
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,62,Barwan,GEN,,36074,INC,Ghosh Moulik Sunil Mohan,15140,RSP,Amalfndra Lal Roy,9281,5859,16.24
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,63,Bharatpur,GEN,,38770,CPI(M),Khondekor Mdnure Ahasan,13714,INC,Kumar Jagadish Chanddra Sinh,9486,4228,10.91
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,64,Karimpur,GEN,,47197,CPI(M),Samarendra Nath Sanyal,22489,INC,Nalinaksha Sanyal,11143,11346,24.04
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,65,Tehatta,GEN,,43842,CPI(M),Madhabendu Mohanta,20383,INC,Khan Surat Ali,9390,10993,25.07
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,66,Kaliganj,GEN,,39667,IND,Mir Fakir Mohammed,10686,NCO,Mohammed Islam Molla,7287,3399,8.57
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,67,Nakashipara,SC,,40659,IND,Govindo Chandra Mondal,10826,CPI(M),Nil Kamal Sarkar,8145,2681,6.59
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,68,Chapra,GEN,,41495,CPI(M),Sahabuddin Mondal,17047,IND,Abu Bakkar Mondal,7804,9243,22.27
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,69,Nabadwip,GEN,,50602,CPI(M),Debi Prasad Basu,28242,NCO,Sachindra Mohan Nandi,11011,17231,34.05
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,70,Krishnagar West,GEN,,39383,CPI(M),Amritendu Mukherjee,20003,INC,Bhattacharya Mohader Chandr,10257,9746,24.75
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,71,Krishnagar East,GEN,,37122,IND,Kashi Kanta Mattra,18139,CPI(M),Sadhan Chattopadhyay,11785,6354,17.12
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,72,Hanskhali,SC,,52028,INC,Ananda Mohan Biswas,23658,CPI(M),Jnanfndra Nath Biswas,18638,5020,9.65
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,73,Santipur,GEN,,42333,RCI,Bimalananda Mukherjee,16818,INC,Asaamanha De,16530,288,0.68
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,74,Ranaghat,GEN,,62999,CPI(M),Kundu Gour Chandra,30835,INC,Binoy Kumar Chattopadyay,29350,1485,2.36
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,75,Rangaghat East,SC,,49351,CPI(M),Biswas Naresh Chandra,18558,INC,Sushil Kumar Roy,16274,2284,4.63
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,76,Chakdah,GEN,,57565,CPI(M),Basu Subhash Chandra,29301,BAC,Sural Chandra Mandal,16561,12740,22.13
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,77,Haringhata,GEN,,57525,CPI(M),Malakar Nani Gopal,27967,INC,Manas Kumar Ganguly,25374,2593,4.51
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,78,Bagdaha,SC,,40605,AIFB,Apurba Lal Majumder,19851,CPI(M),Kanti Chandra Biswas,14581,5270,12.98
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,79,Bongaon,GEN,,44904,CPI,Ajit Kumar Ganguly,20172,CPI(M),Ranjit Mitra,17262,2910,6.48
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,80,Gaighata,GEN,,45724,INC,Chandi Pada Mitra,17208,CPI(M),Keshab Lal Biswas,14822,2386,5.22
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,81,Ashokenagar,GEN,,48509,CPI(M),Nani Kar,20909,INC,Keshab Chandra Bhattacharya,15655,5254,10.83
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,82,Barasat,GEN,,51984,AIFB,Saral Deb,17896,CPI(M),Sailesh Das Gupta,16512,1384,2.66
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,83,Rajarhat,SC,,56877,INC,Khagendra Nath Mondal,26658,CPI(M),Rabindra Nath Mondal,21968,4690,8.25
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,84,Deganga,GEN,,43369,IND,Harun Op Rashid,20142,INC,M. Sawkftali,9191,10951,25.25
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,85,Habba,GEN,,53577,INC,Tarun Kanti Ghosh,28224,CPI(M),Hemanta Ghoshai,15085,13139,24.52
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,86,Swarupnagar,GEN,,50216,INC,Chandranath Misra,24538,CPI,Jaminiranjan Sen,11941,12597,25.09
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,87,Baduria,GEN,,44971,INC,Ghazi Abdul Gaffar,23117,CPI(M),Shrikh Ali Ahmad,13163,9954,22.13
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,88,Basirhat,GEN,,36440,INC,Lalit Kumar Ghosh,18009,CPI(M),Narayan Mukherjee,7705,10304,28.28
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,89,Hasnabad,GEN,,36415,INC,Molla Tasmatulla,18398,CPI(M),Bimal Kumar Sengupta,8162,10236,28.11
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,90,Hingalganj,SC,,46024,CPI(M),Gopal Chandra Gayen,12554,NCO,Panchanan Mondal,11497,1057,2.3
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,91,Gosaba,SC,,53883,RSP,Ganesh Chandra Mondal,23571,INC,Paresh Chandra Baidya,22663,908,1.69
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,92,Sandeshkhali,ST,,49289,CPI(M),Sarat Sarder,20053,INC,Debendra Nath Sinha,20006,47,0.1
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,93,Haroa,SC,,39387,INC,Gangadhar Pramanick,17106,CPI(M),Jagannath Sarder,13512,3594,9.12
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,94,Basanti,GEN,,56035,INC,Panchanan Sinha,17643,CPI(M),Daud Khan,14253,3390,6.05
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,95,Canning,SC,,54148,INC,Gobinda Chandra Naskar,20015,CPI(M),Chitta Ranjan Mridha,19862,153,0.28
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,96,Kultali,SC,,60396,SUC,Pdrabodh Purkait,26705,INC,Arabinda Naskar,25364,1341,2.22
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,97,Joynagar,GEN,,58035,SUC,Subodh Banerjee,23904,INC,Prosun Ghosh,23656,248,0.43
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,98,Baruipur,SC,,54571,CPI(M),Bimal Mistry,19711,INC,Ram Kanta Mandal,19265,446,0.82
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,99,Sonarpur,SC,,55352,CPI(M),Gangadhar Naskar,30007,CPI,Amartedra Nath Naskar,14036,15971,28.85
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,100,Bhanagar,GEN,,44244,IND,A K M Hassan Uzzaman,10868,CPI(M),Abdur Razzak Molla,10415,453,1.02
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,101,Jadavpur,GEN,,66199,CPI(M),Dinesh Majumder,38114,CPI,Santimoy Roy,19170,18944,28.62
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,102,Behala East,GEN,,41656,CPI(M),Niranjan Mukherjee,21817,INC,Birenghatak,18049,3768,9.05
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,103,Behala West,GEN,,58964,CPI(M),Rabin Mukherjee,30053,CPI,Biswanath Chakrararty,25394,4659,7.9
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,104,Garden Reach,GEN,,45627,INC,S M. Abduliam,15582,CPI(M),Chhedi Lal,15493,89,0.2
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,105,Maheshtoia,GEN,,53943,CPI(M),Sudhir Chandra Bhandari,24152,INC,Bhupen Bijai,22785,1367,2.53
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,106,Budge Budge,GEN,,53430,CPI(M),Khitibhusan Roy Barman,32399,CPI,Sad Imani Bag,15602,16797,31.44
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,107,Bishnupur West,GEN,,56736,CPI(M),Provash Chandra Roy,33319,INC,Shaik Mqufbul Haque,19627,13692,24.13
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,108,Bishnupur East,SC,,48854,INC,Ram Krishna Bar,22757,CPI(M),Sunder Kumar Naskar,21971,786,1.61
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,109,Falta,GEN,,53386,CPI(M),Jyotish Roy,30715,INC,Probhat Majhi,15346,15369,28.79
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,110,Diamond Harbour,GEN,,59091,CPI(M),Abdul Quiyom Molla,30054,INC,Daulat Ali Seikh,27150,2904,4.91
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,111,Magrahat East,SC,,59981,CPI(M),Radhika Rajan Pramnik,23863,INC,Monoranjan Haldas,22216,1647,2.75
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,112,Magrahat West,GEN,,57696,BAC,Sudhendu Mandle,19319,CPI(M),Chhoban Gabl,19169,150,0.26
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,113,Kulpi,SC,,48244,CPI(M),Mukunda Ram Mondal,11752,NCO,Santosh Kumar Mondal,9800,1952,4.05
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,114,Mathurapur,SC,,58364,SUC,Renupada Haldar,24403,INC,Birrendra Narth Haldar,17875,6528,11.18
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,115,Patharprathima,GEN,,62827,SUC,Rabin Mondal,25808,CPI(M),Gunadhar Maity,10682,15126,24.08
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,116,Kakdwip,GEN,,62196,CPI(M),Hrishikesh Maity,27775,NCO,Hanasdwaj Dhara,11522,16253,26.13
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,117,Sagar,GEN,,62797,CPI(M),Pravanjan Kumar Mondal,25953,INC,Trilokesh Misra,16740,9213,14.67
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,118,Bijpur,GEN,,58392,INC,Jagadish Chandra Das,29821,CPI(M),Jagadish Chandra Das,28571,1250,2.14
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,119,Naihati,GEN,,68308,CPI(M),Gopal Basu,37153,IND,Tarapada Mukhobadhyay,26093,11060,16.19
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,120,Bhatrara,GEN,,80533,INC,Satyanarayan Singh,40173,CPI(M),Sitaram Gupta,37603,2570,3.19
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,121,Noapara,GEN,,68461,CPI(M),Jamini Bhusan Saha,36567,INC,Suvendu Roy,17371,19196,28.04
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,122,Titagarh,GEN,,61845,CPI(M),Md. Anim,33119,INC,Krishna Kumar Sukla,27770,5349,8.65
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,123,Khardah,GEN,,67976,CPI(M),Sadhan Kumar Chakraborty,35444,CPI,Gopal Banerjee,31364,4080,6.0
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,124,Panihati,GEN,,87747,CPI(M),Gopal Krishna Bhattacher Jee,58545,CPI,Nandadulal Srimani,24279,34266,39.05
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,125,Kamarhati,GEN,,69911,CPI(M),Radhika Ranjan Banerjee,47359,CPI,Sunil Mukherjee,18272,29087,41.61
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,126,Baranagar,GEN,,75627,CPI(M),Joyti Basu,43340,BAC,Ajoy Kumar Mukhopadhya,32287,11053,14.62
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,127,Dum Dum,GEN,,72727,CPI(M),Tarun Kumar Sen Gupta,40736,PSP,Bidyut Kumar Basu,31423,9313,12.81
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,128,Cossipur,GEN,,43522,INC,Prafulla Kanti Ghosh,26000,CPI(M),Krishna Gopal Basu,15855,10145,23.31
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,130,Jorabagan,GEN,,31658,INC,Nepal Chandra Roy,20836,CPI(M),Chatterjee Haraprasad,10037,10799,34.11
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,131,Jorasanko,GEN,,37877,INC,Deoki Nandan Poddar,18621,CPI(M),Das Satyanarayan,8710,9911,26.17
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,132,Bara Bazar,GEN,,41427,INC,Ramkrishna Saraogi,23047,BJS,Durga Prasad Nathany,11717,11330,27.35
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,133,Bow Bazar,GEN,,34337,INC,Bijoy Singh Nahar,20839,CPI(M),Hasim Abdul Halim,10449,10390,30.26
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,134,Chowringhee,GEN,,30227,INC,Sankar Ghose,16363,CPI(M),Parbati Prasanna Basu,7862,8501,28.12
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,135,Kabitirtha,GEN,,45428,INC,Ram Peyare Ram,19372,AIFB,Kalimuddin Shams,12955,6417,14.13
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,136,Alipore,GEN,,40515,INC,Kanai Lal Sarkar,19021,CPI,Moni Sanyal,14296,4725,11.66
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,137,Kalighat,GEN,,44567,INC,Pathin Talukdar,24593,CPI(M),Sadhan Gupta,15956,8637,19.38
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,138,Rashbehari,GEN,,36949,INC,Lakshmi Kanta Basu,23420,CPI(M),Sachin Sen,11529,11891,32.18
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,139,Tollygunge,GEN,,55529,CPI(M),Sastya Priya Roy,32788,CPI,Amiya Dasguptaj Maharaj,18728,14060,25.32
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,140,Dhakuria,GEN,,47590,CPI,Somnath Lahiri,25912,CPI(M),Haridas Malaker,17854,8058,16.93
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,141,Ballygunge,GEN,,36292,INC,Subrata Mukhobadhaya,17655,WPI,Jyotibhusan Bhattacharya,13943,3712,10.23
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,142,Beliaghata South,SC,,34591,INC,Ardhendu Sekhar Naskar,16990,CPI(M),Monorajan Boral,15301,1689,4.88
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,143,Entally,GEN,,34926,CPI(M),Md. Nezamuddin,15581,CPI,A M O Gani,12478,3103,8.88
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,144,Taltola,GEN,,29847,INC,Abdur Rauf Anasari,14565,CPI(M),Abul Hussan,13217,1348,4.52
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,145,Sealdah,GEN,,38587,INC,Benoy Banerjee,20847,CPI(M),Sundhansul Palit,10966,9881,25.61
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,146,Vidyasagar,GEN,,34966,INC,Sham Sufzzoha,17539,CPI(M),Samar Kumar Badra,12418,5121,14.65
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,147,Beliaghatya North,GEN,,43663,CPI(M),Krishna Pada Ghose,23318,AIFB,Subodh Kumar Dey,20345,2973,6.81
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,148,Manicktola,GEN,,42360,CPI(M),Anila Debi,16773,INC,Ananta Kumar Bharati,15682,1091,2.58
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,149,Burtola,GEN,,36966,INC,Ajit Kumar Panja,19793,CPI(M),Lakeshmi Kanta Dey,10035,9758,26.4
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,150,Belgachia,GEN,,47247,CPI(M),Lakshmi Charan Sen,25012,INC,Ganapati Sur,22235,2777,5.88
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,151,Balty,GEN,,47281,CPI(M),Patit Paban Pathak,24233,INC,Bhabani Sankar Mukherjee,19060,5173,10.94
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,152,Howram North,GEN,,44078,INC,Sankar Lal Mukherjee,23353,CPI(M),Chittabrata Mazumdar,18774,4579,10.39
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,153,Howrah Central,GEN,,31698,RCI,Sudhin Kumar,12616,NCO,Saradindu Sekhar Sett,10407,2209,6.97
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,154,Howrah South,GEN,,42575,INC,Santi Kumar Das Gupta,18919,CPI(M),Pralay Talukdar,16618,2301,5.4
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,155,Shibpur,GEN,,44078,CPI(M),Harisadhan Mitra,17240,AIFB,Kanai Lal Bhattacharya,13491,3749,8.51
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,156,Domjur,GEN,,57168,CPI(M),Joykesh Mukher Jee,34485,INC,Rebati Ranjan Mukhopadhyay,15568,18917,33.09
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,157,Jagatballavpur,GEN,,48389,CPI(M),Tarapada Dey,27541,INC,Panna Lal Sit,11855,15686,32.42
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,158,Panchla,GEN,,50471,CPI(M),Asoke Kumar Ghosh,22644,AIFB,Bibhuti Bhusan Ghosh,20459,2185,4.33
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,159,Sankrail,SC,,48566,CPI(M),Haran Chandra Hazra,25386,INC,Arabinda Naskar,13527,11859,24.42
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,160,Uluberia North,SC,,61432,CPI(M),Rajkumar Mandal,32006,AIFB,Kalipada Mandal,19758,12248,19.94
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,161,Uluberia South,GEN,,54122,CPI(M),Batakrishna Das,22491,INC,Durgasankar Roy,11984,10507,19.41
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,162,Shyampur,GEN,,58714,INC,Sisir Kumar Sen,22633,AIFB,Sasabindu Bera,20381,2252,3.84
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,163,Bagnan,GEN,,52121,CPI(M),Nirupama Chattar Jee,27764,INC,Amalendu Bikas Maity,17281,10483,20.11
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,164,Kalyanpur,GEN,,52351,CPI(M),Nataj Adak,20474,INC,Barindra Nath Ghose,12952,7522,14.37
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,165,Amta,GEN,,50163,CPI(M),Bapindra Koley,30671,INC,Gunkar Singh,11717,18954,37.78
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,166,Udaynarayanpur,GEN,,51926,CPI(M),Pannalal Maji,31069,INC,Abdul Karim Mallik,18609,12460,24.0
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,167,Jangipara,GEN,,46314,CPI(M),Manindra Nath Jana,22677,INC,Ganesh Hatui,13926,8751,18.89
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,168,Chanditaia,GEN,,33513,CPI(M),Kaji Safiulla,16562,INC,Sk Sahadat Ali,6807,9755,29.11
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,169,Uttarpara,GEN,,52543,CPI(M),Santosri Chattopadhyay,29473,CPI,Gobinda Chatterji,17022,12451,23.7
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,170,Seranpore,GEN,,58106,INC,Gopal Das Nag,26344,CPI(M),Kamal Krishna Bhattacharja,21467,4877,8.39
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,171,Champdani,GEN,,48463,CPI(M),Hari Pada Mukherjee,23210,INC,Nisith Kamal Sanyai,12916,10294,21.24
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,172,Chandernagore,GEN,,57097,CPI(M),Bhabani Mukherjee,31322,INC,Bepin Behari Sav,18734,12588,22.05
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,173,Singur,GEN,,54855,CPI,Ajit Kumar Bosu,24108,CPI(M),Gopal Bandopadhyay,21658,2450,4.47
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,174,Haripal,GEN,,45288,WPI,Chittaranjan Bose,22594,INC,Adhirkumar Ghose,16829,5765,12.73
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,175,Chinsurah,GEN,,53335,INC,Bhupati Majumdar,23511,CPI(M),Amiya Kumar Nandy,23274,237,0.44
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,176,Polba,GEN,,51912,CPI(M),Broja Gopal Neogi,24195,INC,Bhawani Prosad Sinha Roy,20095,4100,7.9
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,177,Balagarh,SC,,47846,CPI(M),Abinash Pramanik,22740,INC,Biren Sarkar,18778,3962,8.28
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,178,Pandua,GEN,,51344,CPI(M),Dernarayan Chakrabarty,28949,BAC,Sailendra Chottopadhya,18274,10675,20.79
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,179,Dhaniakhali,SC,,51540,CPI(M),Kasinath Roy,23911,INC,Kashinath Patra,20318,3593,6.97
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,180,Tarakeswar,GEN,,50776,MFB,Ram Chaterjee,28289,INC,Ram Sinha Pal,13308,14981,29.5
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,181,Pursurah,GEN,,52094,INC,Mahadev Mukhopadhyay,22096,CPI(M),Mrinal Majumder,13953,8143,15.63
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,182,Khanakul,SC,,45856,CPI(M),Madan Saha,19153,INC,Basudev Hazra,15117,4036,8.8
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,183,Arambagh,GEN,,50214,NCO,Prafulla Chandra Sen,30429,CPI(M),Chattopadhyay Sastiram,14899,15530,30.93
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,184,Goghat,SC,,36442,INC,Madan Mohan Medda,11261,CPI(M),Radha Nath Das,8799,2462,6.76
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,185,Chandrakona,GEN,,48127,CPI(M),Choudhury Soroshi,20474,INC,Suhas Dutta Roy,14191,6283,13.06
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,186,Ghatal,SC,,48318,CPI(M),Dal Nanda Rani,28725,BAC,Kariik Dolui,18207,10518,21.77
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,187,Daspur,GEN,,56253,INC,Sudhir Chandra Bera,25282,CPI(M),Bhattachariya Mrigendra,21174,4108,7.3
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,188,Panskura West,GEN,,53466,CPI,Sk Omar Ali,20984,INC,Chitta Ranjan Chakravarty,12448,8536,15.97
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,189,Panskura East,GEN,,49610,CPI,Geeta Mukhopadhyaya,27012,BAC,Birbhadra Gouri,7886,19126,38.55
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,190,Moyna,GEN,,56885,CPI,Kanai Bhowmik,23315,INC,Pranab Bahubalindra,16706,6609,11.62
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,191,Tamluk,GEN,,50899,BAC,Ajoy Kumar Mukhopadhaya,32498,CPI(M),Deva Prasad Bhowmik,12425,20073,39.44
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,192,Mahishadal,GEN,,57606,BAC,Sushil Kumar Dhara,27186,CPI,Jagadindra Maiti,13945,13241,22.99
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,193,Sutahata,SC,,56906,BAC,Baneswar Patra,19986,CPI,Rabindra Nath Karan,14133,5853,10.29
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,194,Nandigram,GEN,,62593,CPI,Bhupal Chandra Panda,26586,NCO,Prabir Chandra Jana,15041,11545,18.44
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,195,Narghat,GEN,,55116,BAC,Bankim Behari Maity,14337,CPI,Swades Kumar Manna,14246,91,0.17
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,196,Bhagabanpur,GEN,,50317,CPI(M),Pradhan Prasanta Kumar,12713,NCO,Haripada Jana,12006,707,1.41
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,197,Khajuri,SC,,44000,CPI(M),Jagadish Chandra Das,13909,NCO,Badal Das,11955,1954,4.44
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,198,Contai North,GEN,,50032,PSP,Anil Kumar Mamma,15289,INC,Sailaja Das,13162,2127,4.25
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,199,Contai South,GEN,,46991,PSP,Sudhir Chandra Das,18165,NCO,Satyabrata Maity,13685,4480,9.53
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,200,Ramnagar,GEN,,43511,NCO,Bishal Radhagobinda,11297,INC,Hemanta Dutta,10111,1186,2.73
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,201,Erga,GEN,,51501,PSP,Proboidh Chandra Sinha,21549,CPI(M),Pal Nani Gopal,7335,14214,27.6
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,202,Mugberia,GEN,,47292,CPI(M),Amarendra Krishna Goswami,14199,PSP,Janmenjay Ojha,13149,1050,2.22
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,203,Pataspur,GEN,,51772,INC,Prafulla Maity,22954,CPI,Anil Mahapatra,19918,3036,5.86
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,204,Pingla,GEN,,54201,INC,Bijoy Das,24892,CPI,Kamakhyanandan Das Mahapatr,13254,11638,21.47
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,205,Debra,GEN,,47000,INC,Rabindra Nath Bera,17219,CPI(M),Sibaram Basu,15682,1537,3.27
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,206,Keshpur,SC,,53478,INC,Rajani Kanta Doldi,22939,CPI(M),Himangsu Kunar,16907,6032,11.28
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,207,Garhbeta East,SC,,50651,CPI,Krishna Prasad Duley,16949,INC,Madan Mohan Guria,15205,1744,3.44
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,208,Garhbeta West,GEN,,51252,CPI,Saroj Roy,13971,CPI(M),Manohar Mahata,12701,1270,2.48
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,209,Salbani,GEN,,47996,CPI(M),Sundaar Hazra,12697,CPI,Thakur Das Mahata,9628,3069,6.39
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,210,Midnapur,GEN,,50694,CPI,Biswnath Mukherjee,23529,INC,Sudhir Das Sarma,21453,2076,4.1
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,211,Kharagpur,GEN,,41319,INC,Gyan Singh Sohanpal,24869,CPI,Karunamay Bhattacharya,9557,15312,37.06
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,212,Kharagpur Local,GEN,,47639,INC,Ajit Kumar Basu,18547,CPI,Deben Das,18515,32,0.07
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,213,Narayangarh,GEN,,51055,INC,Braja Kishore Maity,24498,CPI,Bibhuti Bhusan Maity,10675,13823,27.07
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,214,Dantan,GEN,,49373,CPI,Pulin Behari Tripathy,15772,NCO,Pradyot Kumar Mahanti,15495,277,0.56
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,215,Keshiari,ST,,45075,INC,Budhan Chnadra Tudu,18780,CPI(M),Maheswar Sing,13543,5237,11.62
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,216,Nayagram,ST,,42079,INC,Dasarathi Saren,16164,CPI(M),Buddhadev Singh,9871,6293,14.96
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,217,Gopiballavpur,GEN,,52176,INC,Harish Chandra Mahapatra,16617,CPI(M),Monoranjan Mahapatra,14885,1732,3.32
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,218,Jhargram,GEN,,53066,INC,Birendra Rejoymalladev,20615,CPI(M),Danareswar Sen,16795,3820,7.2
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,219,Binpur,ST,,44930,JKP,Shyam Charan Murmu,14450,INC,Fakir Hansda,13684,766,1.7
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,220,Banduan,ST,,35863,INC,Sital Chandra Hembram,11954,LSS,Kandru Majhi,11383,571,1.59
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,221,Manbazar,GEN,,40836,INC,Sitaram Mahato,19269,LSS,Girish Mahato,13090,6179,15.13
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,222,Balarampur,ST,,31374,CPI(M),Bikram Tudu,12328,INC,Gita Hembran,10982,1346,4.29
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,223,Arsa,GEN,,33363,INC,Nitai Chandra Deshmukh,12099,AIFB,Daman Chandra Kuiry,8850,3249,9.74
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,224,Jhalda,GEN,,39824,INC,Kinkar Mahato,18568,AIFB,Chitta Ranjan Mahato,12350,6218,15.61
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,225,Jaipur,GEN,,30583,INC,Ramkrishna Mahato,15300,BAC,Bharat Chandra Bhandari,4462,10838,35.44
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,226,Purulia,GEN,,36630,INC,Saat Kumar Mukherjee,17050,LSS,Bibhuti Bhusan Dasgupta,11230,5820,15.89
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,227,Para,SC,,27690,INC,Sarat Das,10689,SUC,Sailen Bouri,6987,3702,13.37
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,228,Raghunathpur,SC,,29199,SUC,Hari Pada Bouri,9577,INC,Durga Das Bouri,8282,1295,4.44
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,229,Kashipur,GEN,,29993,INC,Madan Mohan Mahato,11552,CPI,Pramatha Mandal,6623,4929,16.43
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,230,Hura,GEN,,35735,INC,Satdal Mahato,16446,CPI(M),Ambarish Mukhopadhaya,6145,10301,28.83
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,231,Taldangra,GEN,,52174,CPI(M),Panda Mohini Mohan,23856,INC,S. Choudhury Prayot Kumar,21389,2467,4.73
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,232,Raipur,ST,,43710,JKP,Saren Babulal,9362,INC,Babulal Hemram,9292,70,0.16
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,233,Ranibandh,ST,,41300,CPI(M),Suchabo Saren,20797,BAC,Baidya Nath Hansda,8951,11846,28.68
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,234,Indpur,SC,,33245,BBC,Prayag Mandal,9786,BAC,Gour Lohar,9374,412,1.24
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,235,Chhatna,GEN,,29764,INC,Kamalakanta Hemram,13399,BIB,Datta Rabi,5465,7934,26.66
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,236,Gangajalghati,SC,,35774,CPI(M),Bausi Kalipada,17360,INC,Saktipada Maji,10719,6641,18.56
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,237,Barjora,GEN,,52515,CPI(M),Aswini Kumar Rai,24374,BAC,Sudhangshu Sakhar Tewari,13399,10975,20.9
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,238,Bankura,GEN,,47360,INC,Kashi Nath Misra,17423,CPI(M),Sumitra Chatterjee,11927,5496,11.6
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,239,Onda,GEN,,41662,CPI(M),Manik Datta,16151,INC,Arun Chandra Patra,11070,5081,12.2
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,240,Vishnupur,GEN,,38514,INC,Phabataran Chakraboraty,12206,CPI(M),Karunamoy Goswami,10891,1315,3.41
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,241,Kotulpur,GEN,,41989,CPI(M),Jatadhari Mukhopadhyay,16135,INC,Sasanka Sekhar Mitra,15231,904,2.15
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,242,Indas,SC,,41827,CPI(M),Badan Bora,17759,INC,Santan Santra,15514,2245,5.37
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,243,Sonamukhi,SC,,38868,CPI(M),Sukhendu Khan,15091,INC,Kanai Saha,13979,1112,2.86
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,244,Hirapur,GEN,,41192,CPI(M),Bamapada Mukherjee,18603,CPI,Nitish Sett,11143,7460,18.11
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,245,Kulti,GEN,,33013,INC,Ramdas Banerjee,12828,CPI(M),Chandra Sekhar Mukhopadhya,10509,2319,7.02
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,246,Barabani,GEN,,41545,CPI(M),Basuroy Sunil,20211,INC,Sukumar Bandopadhaya,13877,6334,15.25
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,247,Asansol,GEN,,42631,CPI(M),Lokesh Ghose,19063,CPI,Niranjan Dihidar,18305,758,1.78
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,248,Raniganj,GEN,,46687,CPI(M),Haradhan Roy,32161,INC,Rabindra Mukherjee,7753,24408,52.28
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,249,Jamuria,SC,,27598,CPI(M),Durgadas Mandal,15398,INC,Amaarendra Nath Mandal,10458,4940,17.9
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,250,Ukhra,SC,,34970,CPI(M),Lakhan Bagdi,18950,INC,Mondal Haradhan,16020,2930,8.38
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,251,Durgapur,GEN,,83432,CPI(M),Dilip Kumar Majumdar,40999,NCO,Ananda Gopal Mukherjee,36223,4776,5.72
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,252,Faridpur,GEN,,42114,CPI(M),Sanat Kumar Banerjee,17356,INC,Sri Dasghatak,9160,8196,19.46
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,253,Ausgram,SC,,50678,CPI(M),Sridhar Malik,28445,BAC,Bansidhar Saha,17849,10596,20.91
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,254,Bhatar,GEN,,39534,CPI(M),Anath Bandhu Ghose,18516,BAC,Sushil Kumar Ghosh,12477,6039,15.28
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,255,Galsi,GEN,,37654,CPI(M),Anil Roy,21299,BAC,Manoranjan Bakshi,12314,8985,23.86
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,256,Burdwan North,GEN,,54171,CPI(M),Debabrata Datta,33954,INC,Jiban Krishna Biswas,18430,15524,28.66
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,257,Burdwan South,GEN,,56409,CPI(M),Benoy Krishna Chodhury,28257,INC,Pradip Kumar Bhattacherjee,26985,1272,2.25
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,258,Khandaghosh,SC,,44622,CPI(M),Purna Chandra Malick,22871,INC,Manoranjan Pramanik,17588,5283,11.84
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,259,Raina,GEN,,52347,CPI(M),Gokulananda Roy,31549,INC,Sukumar Chattopadhyay,19142,12407,23.7
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,260,Jamalpur,SC,,44436,MFB,Kalipada Das,22396,INC,Puranjoy Pramanik,18713,3683,8.29
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,261,Memari,GEN,,63075,CPI(M),Konar Benoy Krishna,39366,INC,Tuhin Kumar Samanta,21166,18200,28.85
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,262,Kalna,GEN,,58580,CPI(M),Konar Harf Krishna,31896,INC,Nurul Islam Molla,24930,6966,11.89
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,263,Nadanghat,GEN,,57547,CPI(M),Syedabul Mansur Habibullah,34288,NCO,Paresh Chandra Goswami,22315,11973,20.81
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,264,Manteswar,GEN,,52085,CPI(M),Kashi Nath Hazba Chowdhury,29750,INC,Saitendra Nath Hati,17672,12078,23.19
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,265,Purbasthali,GEN,,48002,CPI(M),Molla Humayun Kabir,30617,INC,Radha Gobinda Prasad Mallick,15542,15075,31.4
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,266,Katwa,GEN,,50562,CPI(M),Haramohan Sinha,27656,INC,Subrata Mukherjee,20990,6666,13.18
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,267,Mangalkot,GEN,,46443,CPI(M),Nikhilananda Sar,28814,BAC,Kenaram Panja,16814,12000,25.84
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,268,Ketugram,SC,,42392,CPI(M),Nimal Chandra Mandal,18408,INC,Prabhakar Mandal,17482,926,2.18
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,269,Nanur,SC,,36856,CPI(M),Banamali Das,18486,BAC,Ila Das,12420,6066,16.46
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,270,Bolpur,GEN,,32849,CPI(M),Prasanta Mukherjee,13088,BAC,Ranjit Kumar Choudhury,10970,2118,6.45
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,271,Labhpur,GEN,,30876,CPI(M),Sunil Mazumdar,15536,BAC,Sasanka Sekhar Buj,6996,8540,27.66
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,272,Dubrajpur,GEN,,30824,CPI(M),Sk. Manjurul Islam,12539,INC,Mohammad Idris,6406,6133,19.9
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,273,Rajnagar,SC,,26833,CPI(M),Nanda Bauri,10443,INC,Nabani Dhar Mandal,9996,447,1.67
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,274,Suri,GEN,,34918,SUC,Protiva Mukherjee,12060,CPI(M),Arun Choudhury,8090,3970,11.37
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,275,Mahammad Bazar,GEN,,28408,CPI(M),Dhiren Sen,13457,INC,Nilratan Ghose,8370,5087,17.91
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,276,Mayureshwar,SC,,31103,CPI,Phulmalilalchand,10925,INC,Adharsaha,10774,151,0.49
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,277,Rampurhat,GEN,,30866,CPI(M),Braja Mohan Mukherjee,15546,INC,Anada Gopal Roy,11103,4443,14.39
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,278,Hansan,SC,,20770,RCI,Trilochan Mal,9181,INC,Satyaban Mandal,4894,4287,20.64
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,279,Nalhati,GEN,,25678,IND,Golan Mohinddin,10184,SUC,Mohiazahuralisiam,4603,5581,21.73
+ae-west-bengal-1971,AE,West Bengal,1971,1971,official,280,Murarai,GEN,,30355,SUC,Bazle Ahmad,16310,INC,Md. Mansural Hague,4759,11551,38.05

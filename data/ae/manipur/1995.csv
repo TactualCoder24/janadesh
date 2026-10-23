@@ -1,0 +1,61 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-manipur-1995,AE,Manipur,1995,1995,official,1,Khundrakpam,GEN,Imphal East *,15585,MPP,Konjengbam Binoy,6440,FPM,Lairellakpam Lala Singh,3341,3099,19.88
+ae-manipur-1995,AE,Manipur,1995,1995,official,2,Heingang,GEN,Imphal East *,18411,FPM,Wakambam Thoiba Singh,6225,IND,Yanglem Mangi Singh,3727,2498,13.57
+ae-manipur-1995,AE,Manipur,1995,1995,official,3,Khurai,GEN,Imphal East *,19284,IND,Ningthoujam Bihari Singh,5452,CPI,Laishram Sotinkumar,4901,551,2.86
+ae-manipur-1995,AE,Manipur,1995,1995,official,4,Khetrigao,GEN,Imphal East *,20684,JD,Basant Kumar Wangkhem,7993,INC,Muhammuddin Shah,7307,686,3.32
+ae-manipur-1995,AE,Manipur,1995,1995,official,5,Thongju,GEN,Imphal East *,19106,MPP,Dr. Sapam Dhananjoy,5829,JD,Thingujam Chatukini,5039,790,4.13
+ae-manipur-1995,AE,Manipur,1995,1995,official,6,Keirao,GEN,Imphal East *,16786,INC,Hidam Bidur Singh,4695,MPP,Chingakham Shyamjai Singh,3095,1600,9.53
+ae-manipur-1995,AE,Manipur,1995,1995,official,7,Andro,GEN,Senapati,19400,MPP,Salam Chandra Singh,7678,IND,Dr. Angou Singh Chingakham,5376,2302,11.87
+ae-manipur-1995,AE,Manipur,1995,1995,official,8,Lamlai,GEN,Imphal East *,16626,MPP,Kshetrimayum Biren Singh,6202,CPI,Pheiroijam Parijat,5135,1067,6.42
+ae-manipur-1995,AE,Manipur,1995,1995,official,9,Thangmeiband,GEN,Imphal East *,16606,INC,Radhabinod Koijam,7666,SAP,Ningthoujam Binoy Singh,5947,1719,10.35
+ae-manipur-1995,AE,Manipur,1995,1995,official,10,Uripok,GEN,Imphal East *,13276,MPP,N. Nodiachand Singh,3646,FPM,Laishram Nandakumar Singh,3347,299,2.25
+ae-manipur-1995,AE,Manipur,1995,1995,official,11,Sagolband,GEN,Imphal East *,14952,MPP,Moirangthem Kumar Singh,5037,JD,Khweirarpam Loken Singh,3515,1522,10.18
+ae-manipur-1995,AE,Manipur,1995,1995,official,12,Keisamthong,GEN,Imphal East *,18138,MPP,R.K. Ranbir,10091,INC,Laishrom Lalit Singh,7066,3025,16.68
+ae-manipur-1995,AE,Manipur,1995,1995,official,13,Singjamei,GEN,Imphal East *,13982,INC,Irengbam Hemochandra Singh,5714,BJP,Haobam Bhubon Singh,4821,893,6.39
+ae-manipur-1995,AE,Manipur,1995,1995,official,14,Yaiskul,GEN,Imphal East *,16303,BJP,Elangbam Kunjeswar Singh,5932,MPP,Gurumayum Joykumar Sharma,5461,471,2.89
+ae-manipur-1995,AE,Manipur,1995,1995,official,15,Wangkhei,GEN,Imphal East *,21673,INC,Yumkham Erabot,7977,MPP,Dr. Haobam Borobabu Singh,6275,1702,7.85
+ae-manipur-1995,AE,Manipur,1995,1995,official,16,Sekmai,SC,Imphal West,15631,INC,Ningthoujam Biren,5197,MPP,Shri Khwairakpam Chaoba,4465,732,4.68
+ae-manipur-1995,AE,Manipur,1995,1995,official,17,Lamsang,GEN,Imphal West,18909,INC,Sorokhaibam Rajen Singh,4184,IND,Wangkheimayum Brajabidhu Singh,3857,327,1.73
+ae-manipur-1995,AE,Manipur,1995,1995,official,18,Konthoujam,GEN,Imphal West,18131,INC,Henam Lokhon,6313,MPP,Heigrujam Thoithoi,6261,52,0.29
+ae-manipur-1995,AE,Manipur,1995,1995,official,19,Patsoi,GEN,Imphal West,19730,INC,Leisangthem Chandramani Singh,5787,MPP,N. Muhindro Singh,3742,2045,10.36
+ae-manipur-1995,AE,Manipur,1995,1995,official,20,Langthabal,GEN,Imphal East *,16229,INC,K. Babudhon Singh,6674,MPP,O. Joy,6582,92,0.57
+ae-manipur-1995,AE,Manipur,1995,1995,official,21,Naoriya Pakhanglakpa,GEN,Imphal West,20573,IND,A.K. Lanngam,6711,INC,W. Angou Singh,5916,795,3.86
+ae-manipur-1995,AE,Manipur,1995,1995,official,22,Wangoi,GEN,Thoubal,16289,INC,W. Nipamacha Singh,3868,FPM,Y. Mani Singh,3519,349,2.14
+ae-manipur-1995,AE,Manipur,1995,1995,official,23,Mayang Imphal,GEN,Imphal West,17078,INC,M. Nilchandra Singh,5488,JD,Amutombi Khumujam Singh,4541,947,5.55
+ae-manipur-1995,AE,Manipur,1995,1995,official,24,Nambol,GEN,Bishnupur,19499,MPP,Nameirakpam Loken,7003,INC,Th. Chaoba,6521,482,2.47
+ae-manipur-1995,AE,Manipur,1995,1995,official,25,Oinam,GEN,Bishnupur,16943,MPP,Yumnam Jiten,6651,INC,Keisham Apabi Devi,6373,278,1.64
+ae-manipur-1995,AE,Manipur,1995,1995,official,26,Bishenpur,GEN,Bishnupur,18417,INC,Govindas Kongthoujam,3766,JD,Khundrakpam Jibon Singh,3550,216,1.17
+ae-manipur-1995,AE,Manipur,1995,1995,official,27,Moirang,GEN,Bishnupur,22369,MPP,Md. Heshamuddin,5586,IND,Hemam Bir,5204,382,1.71
+ae-manipur-1995,AE,Manipur,1995,1995,official,28,Thanga,GEN,Bishnupur,14167,JD,Tongbram Mangibabu,4277,INC,Heisnam Sanaima,3414,863,6.09
+ae-manipur-1995,AE,Manipur,1995,1995,official,29,Kumbi,GEN,Bishnupur,17505,CPI,Ningthoujam Mangi,4164,INC,Sanasam Bira,3531,633,3.62
+ae-manipur-1995,AE,Manipur,1995,1995,official,30,Lilong,GEN,Thoubal,16888,INC,Md. Helaluddin Khan,6371,MPP,Alauddin,5369,1002,5.93
+ae-manipur-1995,AE,Manipur,1995,1995,official,31,Thoubal,GEN,Thoubal,18673,MPP,Leitanthem Tomba,11239,INC,Thoudam Krishna Singh,4860,6379,34.16
+ae-manipur-1995,AE,Manipur,1995,1995,official,32,Wangkhem,GEN,Senapati,17773,INC,Dr. Nimai Chand Luwang,7873,MPP,Longjam Ibotomba Singh,6249,1624,9.14
+ae-manipur-1995,AE,Manipur,1995,1995,official,33,Heirok,GEN,Thoubal,17735,INC,Moirangthem Okendro,6456,MPP,Nongmeikapam Komol Singh,5258,1198,6.76
+ae-manipur-1995,AE,Manipur,1995,1995,official,34,Wangjing Tentha,GEN,Thoubal,18200,INC,Moirangthem Hemanta Singh,7638,CPI,Moirangthem Nara Singh,5925,1713,9.41
+ae-manipur-1995,AE,Manipur,1995,1995,official,35,Khangabo,GEN,Thoubal,20058,MPP,Laishram Jatra Singh,8021,INC,Okram Ibobi Singh,6884,1137,5.67
+ae-manipur-1995,AE,Manipur,1995,1995,official,36,Wabgai,GEN,Thoubal,17708,MPP,Abdul Salam,6766,INC,Mayanglambam Manihar Singh,4861,1905,10.76
+ae-manipur-1995,AE,Manipur,1995,1995,official,37,Kakching,GEN,Thoubal,17039,CPI,Kshetrimayum Irabot Singh,6773,INC,Nongmaithem Nimai Singh,6526,247,1.45
+ae-manipur-1995,AE,Manipur,1995,1995,official,38,Hiyanglam,GEN,Thoubal,16300,JD,Maibam Kunjo Singh,6817,INC,Elangbam Biramani Singh,5637,1180,7.24
+ae-manipur-1995,AE,Manipur,1995,1995,official,39,Sugnoo,GEN,Thoubal,17356,JD,Mayanglambam Babu Singh,4404,INC,Loitongbam Ibomcha Singh,4159,245,1.41
+ae-manipur-1995,AE,Manipur,1995,1995,official,40,Jiribam,GEN,Imphal East *,17875,INC,Th. Debendra,8706,IND,A. Biren,8334,372,2.08
+ae-manipur-1995,AE,Manipur,1995,1995,official,41,Chandel,ST,Chandel,28684,JD,Hangkhanpao,13030,FPM,L. Benjamin,10464,2566,8.95
+ae-manipur-1995,AE,Manipur,1995,1995,official,42,Tengnoupal,ST,Chandel,24849,INC,W. Morung Makunga,13058,MPP,Holkhomang Haokip,11423,1635,6.58
+ae-manipur-1995,AE,Manipur,1995,1995,official,43,Phungyar,ST,Ukhrul,14772,INC,Rishang Keishing,7467,MPP,Solomon,3328,4139,28.02
+ae-manipur-1995,AE,Manipur,1995,1995,official,44,Ukhrul,ST,Ukhrul,20458,INC,A.S. Arthur,9982,JD,Danny Shaiza,8358,1624,7.94
+ae-manipur-1995,AE,Manipur,1995,1995,official,45,Chingai,ST,Ukhrul,22990,INC,Dr. Mashangthei Horam,8716,SAP,David Ng. Zimik,5054,3662,15.93
+ae-manipur-1995,AE,Manipur,1995,1995,official,46,Saikul,ST,Senapati,21710,MPP,Chungkhokai Doungel,10730,INC,Holkholet Khongsai,7302,3428,15.79
+ae-manipur-1995,AE,Manipur,1995,1995,official,47,Karong,ST,Senapati,33377,SAP,L. Jonathan,13360,MPP,Th. Rapei,10712,2648,7.93
+ae-manipur-1995,AE,Manipur,1995,1995,official,48,Mao,ST,Senapati,35439,ICS,M. Thohrii,22310,INC,S. Lorho,13108,9202,25.97
+ae-manipur-1995,AE,Manipur,1995,1995,official,49,Tadubi,ST,Senapati,28912,JD,O. Lohrii,10614,ICS,S. Hangzing,7303,3311,11.45
+ae-manipur-1995,AE,Manipur,1995,1995,official,50,Kangpokpi,GEN,Senapati,20515,MPP,Thangminlen,9134,SAP,Kishore Thapa,7062,2072,10.1
+ae-manipur-1995,AE,Manipur,1995,1995,official,51,Saitu,ST,Senapati,25122,MPP,Ngamthang Haokip,9680,IND,Alar Thoitak,7303,2377,9.46
+ae-manipur-1995,AE,Manipur,1995,1995,official,52,Tamei,ST,Tamenglong,20011,IND,D.P. Panmei,5047,MPP,Mangaibou,4405,642,3.21
+ae-manipur-1995,AE,Manipur,1995,1995,official,53,Tamenglong,ST,Tamenglong,15777,SAP,Samuel,6515,INC,Daisin Pamei,6029,486,3.08
+ae-manipur-1995,AE,Manipur,1995,1995,official,54,Nungba,ST,Tamenglong,13615,FPM,Gangmumei Kamei,4982,INC,Gaikhangam,4772,210,1.54
+ae-manipur-1995,AE,Manipur,1995,1995,official,55,Tipaimukh,ST,Churachandpur,10976,INC,Dr. Chaltonlian Amo,5299,JD,Selkai Hrangchal,2886,2413,21.98
+ae-manipur-1995,AE,Manipur,1995,1995,official,56,Thanlon,ST,Churachandpur,12735,MPP,Songchinkhup,5854,INC,T. Phungzathang,4250,1604,12.6
+ae-manipur-1995,AE,Manipur,1995,1995,official,57,Henglep,ST,Churachandpur,16752,JD,Sehpu Haokip,5798,INC,T. Manga Vaiphei,4992,806,4.81
+ae-manipur-1995,AE,Manipur,1995,1995,official,58,Churachandpur,ST,Churachandpur,24995,NPP,V. Hangkhanlian,14641,MPP,K. Vungzalian,6335,8306,33.23
+ae-manipur-1995,AE,Manipur,1995,1995,official,59,Saikot,ST,Churachandpur,29166,MPP,T.N. Haokip,8938,JD,Ngulkhohao Lhungdim,7599,1339,4.59
+ae-manipur-1995,AE,Manipur,1995,1995,official,60,Singhat,ST,Churachandpur,17223,NPP,T. Gouzadou,6327,MPP,T. Ngaizanem,5223,1104,6.41

@@ -1,0 +1,244 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-bihar-2010,AE,Bihar,2010,2010,official,1,Valmiki Nagar,GEN,Pashchim Champaran,143698,JDU,Rajesh Singh,42289,RJD,Mukesh Kumar Kushwaha,27618,14671,10.21
+ae-bihar-2010,AE,Bihar,2010,2010,official,2,Ramnagar,SC,Pashchim Champaran,125257,BJP,Bhagirathi Devi,51993,INC,Naresh Ram,22211,29782,23.78
+ae-bihar-2010,AE,Bihar,2010,2010,official,3,Narkatiaganj,GEN,Pashchim Champaran,118282,BJP,Satish Chandra Dubey,45022,INC,Alok Prasad Verma,24794,20228,17.1
+ae-bihar-2010,AE,Bihar,2010,2010,official,4,Bagaha,GEN,Pashchim Champaran,133942,JDU,Prabhat Ranjan Singh,67510,RJD,Ram Prasad Yadav,18455,49055,36.62
+ae-bihar-2010,AE,Bihar,2010,2010,official,5,Lauria,GEN,Pashchim Champaran,114776,IND,Vinay Bihari,38381,JDU,Pradeep Singh,27500,10881,9.48
+ae-bihar-2010,AE,Bihar,2010,2010,official,6,Nautan,GEN,Pashchim Champaran,112107,JDU,Manorma Prasad,40894,LJP,Narayan Prasad,18130,22764,20.31
+ae-bihar-2010,AE,Bihar,2010,2010,official,7,Chanpatia,GEN,Pashchim Champaran,110954,BJP,Chandra Mohan Rai,44835,BSP,Ejaj Hussain,21423,23412,21.1
+ae-bihar-2010,AE,Bihar,2010,2010,official,8,Bettiah,GEN,Pashchim Champaran,106163,BJP,Renu Devi,42010,IND,Anil Kumar Jha,13221,28789,27.12
+ae-bihar-2010,AE,Bihar,2010,2010,official,9,Sikta,GEN,Pashchim Champaran,124948,IND,Dilip Varma,49229,JDU,Khurshid Urf Firoj,40450,8779,7.03
+ae-bihar-2010,AE,Bihar,2010,2010,official,10,Raxaul,GEN,Purba Champaran,113455,BJP,Dr. Ajay Kumar Singh,48686,LJP,Raj Nandan Rai,38569,10117,8.92
+ae-bihar-2010,AE,Bihar,2010,2010,official,11,Sugauli,GEN,Purba Champaran,113367,BJP,Ramchandra Sahani,39021,RJD,Vijay Prasad Gupta,26642,12379,10.92
+ae-bihar-2010,AE,Bihar,2010,2010,official,12,Narkatia,GEN,Purba Champaran,119067,JDU,Shyam Bihari Prasad,31549,LJP,Yasmin Sabir Ali,23861,7688,6.46
+ae-bihar-2010,AE,Bihar,2010,2010,official,13,Harsidhi,SC,Purba Champaran,102692,BJP,Krishana Nandan Paswan,48130,RJD,Surendra Kumar,30066,18064,17.59
+ae-bihar-2010,AE,Bihar,2010,2010,official,14,Govindganj,GEN,Purba Champaran,97400,JDU,Meena Dwivedi,33859,LJP,Raju Tiwari,25454,8405,8.63
+ae-bihar-2010,AE,Bihar,2010,2010,official,15,Kesaria,GEN,Purba Champaran,94480,BJP,Sachindra Pd. Singh,34649,CPI,Ram Saran Pd. Yadav,22966,11683,12.37
+ae-bihar-2010,AE,Bihar,2010,2010,official,16,Kalyanpur,GEN,Purba Champaran,96871,JDU,Razia Khatoon,41163,RJD,Manoj Kumar Yadav,25761,15402,15.9
+ae-bihar-2010,AE,Bihar,2010,2010,official,17,Pipra,GEN,Purba Champaran,122358,JDU,Awadhesh Prasad,40099,RJD,Subhodh Yadav,28212,11887,9.71
+ae-bihar-2010,AE,Bihar,2010,2010,official,18,Madhuban,GEN,Purba Champaran,102670,JDU,Shivjee Rai,40478,RJD,Rana Randhir,30356,10122,9.86
+ae-bihar-2010,AE,Bihar,2010,2010,official,19,Motihari,GEN,Purba Champaran,122099,BJP,Pramod Kumar,51888,RJD,Rajesh Gupta Alias Bablu,27358,24530,20.09
+ae-bihar-2010,AE,Bihar,2010,2010,official,20,Chiraia,GEN,Purba Champaran,111933,BJP,Avaneesh Kumar Singh,39459,RJD,Laxmi Narayan Pr. Yadav,24631,14828,13.25
+ae-bihar-2010,AE,Bihar,2010,2010,official,21,Dhaka,GEN,Purba Champaran,126635,IND,Pawan Kumar Jaiswal,48100,JDU,Faisal Rahman,46451,1649,1.3
+ae-bihar-2010,AE,Bihar,2010,2010,official,22,Sheohar,GEN,Sheohar *,119938,JDU,Sharfuddin,40447,BSP,Pratima Devi,38816,1631,1.36
+ae-bihar-2010,AE,Bihar,2010,2010,official,23,Riga,GEN,Sitamarhi,122022,BJP,Motilal Prasad,48633,INC,Amit Kumar,26306,22327,18.3
+ae-bihar-2010,AE,Bihar,2010,2010,official,24,Bathnaha,SC,Sitamarhi,111723,BJP,Dinkar Ram,49181,LJP,Lalita Devi,35889,13292,11.9
+ae-bihar-2010,AE,Bihar,2010,2010,official,25,Parihar,GEN,Sitamarhi,115475,BJP,Ram Naresh Pr. Yadav,32987,RJD,Dr. Ramchandra Purve,28769,4218,3.65
+ae-bihar-2010,AE,Bihar,2010,2010,official,26,Sursand,GEN,Sitamarhi,116475,JDU,Shahid Ali Khan,38542,RJD,Jainandan Prasad Yadav,37356,1186,1.02
+ae-bihar-2010,AE,Bihar,2010,2010,official,27,Bajpatti,GEN,Sitamarhi,116118,JDU,Ranju Geeta,44726,RJD,Md. Anwarul Haque,41306,3420,2.95
+ae-bihar-2010,AE,Bihar,2010,2010,official,28,Sitamarhi,GEN,Sitamarhi,118527,BJP,Sunil Kumar Alias Pintu,51664,LJP,Raghwendra Kumar,46443,5221,4.4
+ae-bihar-2010,AE,Bihar,2010,2010,official,29,Runisaidpur,GEN,Sitamarhi,108973,JDU,Guddi Devi,36125,RJD,Ram Shatrughan Rai,25366,10759,9.87
+ae-bihar-2010,AE,Bihar,2010,2010,official,30,Belsand,GEN,Sitamarhi,98284,JDU,Sunita Singh,38139,RJD,Sanjay Kumar Gupta,18559,19580,19.92
+ae-bihar-2010,AE,Bihar,2010,2010,official,31,Harlakhi,GEN,Madhubani,112284,JDU,Shaligram Yadav,30281,CPI,Ram Naresh Pandey,23622,6659,5.93
+ae-bihar-2010,AE,Bihar,2010,2010,official,32,Benipatti,GEN,Madhubani,97668,BJP,Vinod Narain Jha,31198,LJP,Mahesh Chandra Singh,18556,12642,12.94
+ae-bihar-2010,AE,Bihar,2010,2010,official,33,Khajauli,GEN,Madhubani,124145,BJP,Arun Shankar Prasad,44959,RJD,Sitaram Yadav,34246,10713,8.63
+ae-bihar-2010,AE,Bihar,2010,2010,official,34,Babubarhi,GEN,Madhubani,127752,RJD,Uma Kant Yadav,51772,JDU,Kapildeb Kamat,46859,4913,3.85
+ae-bihar-2010,AE,Bihar,2010,2010,official,35,Bisfi,GEN,Madhubani,115105,RJD,Dr. Faiyaj Ahmad,47169,JDU,Hari Bhushan Thakur,37668,9501,8.25
+ae-bihar-2010,AE,Bihar,2010,2010,official,36,Madhubani,GEN,Madhubani,121078,BJP,Ram Deo Mahto,44817,RJD,Naiyar Azam,44229,588,0.49
+ae-bihar-2010,AE,Bihar,2010,2010,official,37,Rajnagar,SC,Madhubani,106756,RJD,Ram Lakhan Ram Raman,40584,BJP,Ramprit Paswan,38125,2459,2.3
+ae-bihar-2010,AE,Bihar,2010,2010,official,38,Jhanjharpur,GEN,Madhubani,117301,JDU,Nitish Mishra,57652,RJD,Jagat Narayan Singh,36971,20681,17.63
+ae-bihar-2010,AE,Bihar,2010,2010,official,39,Phulparas,GEN,Madhubani,126774,JDU,Guljar Devi,36113,RJD,Virendra Kumar,23769,12344,9.74
+ae-bihar-2010,AE,Bihar,2010,2010,official,40,Laukaha,GEN,Madhubani,137390,JDU,Hari Prasad Sah,47849,RJD,Chitaranjan Prasad,30283,17566,12.79
+ae-bihar-2010,AE,Bihar,2010,2010,official,41,Nirmali,GEN,Supaul *,130457,JDU,Aniruddha Prasad Yadav,70150,INC,Vijay Kumar Gupta,24140,46010,35.27
+ae-bihar-2010,AE,Bihar,2010,2010,official,42,Pipra,GEN,Supaul *,125233,JDU,Sujata Devi,44883,LJP,Dinbandhu Yadav,30197,14686,11.73
+ae-bihar-2010,AE,Bihar,2010,2010,official,43,Supaul,GEN,Supaul *,121343,JDU,Bijendra Prasad Yadav,55179,RJD,Ravindra Kumar Raman,39779,15400,12.69
+ae-bihar-2010,AE,Bihar,2010,2010,official,44,Tribeniganj,SC,Supaul *,130169,JDU,Amla Devi,63729,LJP,Anant Kumar Bharti,44706,19023,14.61
+ae-bihar-2010,AE,Bihar,2010,2010,official,45,Chhatapur,GEN,Supaul *,136719,JDU,Neeraj Kumar Singh,66895,RJD,Akeel Ahmad,43165,23730,17.36
+ae-bihar-2010,AE,Bihar,2010,2010,official,46,Narpatganj,GEN,Araria,149093,BJP,Devanti Yadav,61106,RJD,Anil Kumar Yadav,54169,6937,4.65
+ae-bihar-2010,AE,Bihar,2010,2010,official,47,Raniganj,SC,Araria,131191,BJP,Parmanand Rishideo,65111,RJD,Shanti Devi,41458,23653,18.03
+ae-bihar-2010,AE,Bihar,2010,2010,official,48,Forbesganj,GEN,Araria,143965,BJP,Padam Parag Roy 'Venu',70463,LJP,Maya Nand Thakur,43636,26827,18.63
+ae-bihar-2010,AE,Bihar,2010,2010,official,49,Araria,GEN,Araria,128554,LJP,Zakir Hussain Khan,49532,BJP,Narayan Kumar Jha,31471,18061,14.05
+ae-bihar-2010,AE,Bihar,2010,2010,official,50,Jokihat,GEN,Araria,124612,JDU,Sarfraz Alam,44027,IND,Koshar Zia,18697,25330,20.33
+ae-bihar-2010,AE,Bihar,2010,2010,official,51,Sikti,GEN,Araria,134957,BJP,Anandi Prasad Yadav,42076,LJP,Vijay Kumar Mandal,32202,9874,7.32
+ae-bihar-2010,AE,Bihar,2010,2010,official,52,Bahadurganj,GEN,Kishanganj,112446,INC,Mohammad Tousif Alam,30551,JDU,Mohammad Maswar Alam,26752,3799,3.38
+ae-bihar-2010,AE,Bihar,2010,2010,official,53,Thakurganj,GEN,Kishanganj,128527,LJP,Naushad Alam,36372,JDU,Gopal Kumar Agarwal,29409,6963,5.42
+ae-bihar-2010,AE,Bihar,2010,2010,official,54,Kishanganj,GEN,Kishanganj,123875,INC,Dr Mohammad Jawaid,38867,BJP,Sweety Singh,38603,264,0.21
+ae-bihar-2010,AE,Bihar,2010,2010,official,55,Kochadhaman,GEN,Kishanganj,103036,RJD,Akhatarul Iman,37376,JDU,Mujahid Alam,28351,9025,8.76
+ae-bihar-2010,AE,Bihar,2010,2010,official,56,Amaur,GEN,Purnia,124697,BJP,Saba Zafar,57774,INC,Abdul Jalil Mastan,38946,18828,15.1
+ae-bihar-2010,AE,Bihar,2010,2010,official,57,Baisi,GEN,Purnia,122604,BJP,Santosh Kumar,39939,INC,Nasar Ahamad,30689,9250,7.54
+ae-bihar-2010,AE,Bihar,2010,2010,official,58,Kasba,GEN,Purnia,133900,INC,Md. Afaque Alam,63025,BJP,Pradip Kumar Das,58570,4455,3.33
+ae-bihar-2010,AE,Bihar,2010,2010,official,59,Banmankhi,SC,Purnia,126520,BJP,Krishna Kumar Rishi,67950,RJD,Dharmlal Rishi,23060,44890,35.48
+ae-bihar-2010,AE,Bihar,2010,2010,official,60,Rupauli,GEN,Purnia,139155,JDU,Bima Bharti,64887,LJP,Shankar Singh,27171,37716,27.1
+ae-bihar-2010,AE,Bihar,2010,2010,official,61,Dhamdaha,GEN,Purnia,146115,JDU,Leshi Singh,64323,INC,Irshad Ahmad Khan,19626,44697,30.59
+ae-bihar-2010,AE,Bihar,2010,2010,official,62,Purnea,GEN,Purnia,131847,BJP,Raj Kishore Keshari,54605,INC,Ram Charitra Yadav,39006,15599,11.83
+ae-bihar-2010,AE,Bihar,2010,2010,official,63,Katihar,GEN,Katihar,125284,BJP,Tar Kishore Prasad,58718,RJD,Dr. Ram Prakash Mahto,38111,20607,16.45
+ae-bihar-2010,AE,Bihar,2010,2010,official,64,Kadwa,GEN,Katihar,119961,BJP,Bhola Ray,38225,NCP,Himraj Singh,19858,18367,15.31
+ae-bihar-2010,AE,Bihar,2010,2010,official,65,Balrampur,GEN,Katihar,147247,IND,Dulal Chandra Goshwami,48136,CPIML,Mahboob Alam,45432,2704,1.84
+ae-bihar-2010,AE,Bihar,2010,2010,official,66,Pranpur,GEN,Katihar,138226,BJP,Binod Kumar Singh,43660,NCP,Israt Parween,42944,716,0.52
+ae-bihar-2010,AE,Bihar,2010,2010,official,67,Manihari,ST,Katihar,126139,JDU,Manohar Prasad Singh,44938,NCP,Gita Kisku,40773,4165,3.3
+ae-bihar-2010,AE,Bihar,2010,2010,official,68,Barari,GEN,Katihar,136794,BJP,Bibhasha Chandra,58104,NCP,Mohammed Shakoor,30936,27168,19.86
+ae-bihar-2010,AE,Bihar,2010,2010,official,69,Korha,SC,Katihar,128442,BJP,Mahesh Paswan,71020,INC,Sunita Devi,18576,52444,40.83
+ae-bihar-2010,AE,Bihar,2010,2010,official,70,Alamnagar,GEN,Madhepura,154110,JDU,Narendra N. Yadav,64967,INC,Lovely Anand,22622,42345,27.48
+ae-bihar-2010,AE,Bihar,2010,2010,official,71,Bihariganj,GEN,Madhepura,152620,JDU,Renu Kumari,79062,RJD,Prabhash Kumar,29065,49997,32.76
+ae-bihar-2010,AE,Bihar,2010,2010,official,72,Singheshwar,SC,Madhepura,145296,JDU,Ramesh Rishidev,72282,RJD,Amit Kumar Bharti,57086,15196,10.46
+ae-bihar-2010,AE,Bihar,2010,2010,official,73,Madhepura,GEN,Madhepura,153267,RJD,Chandrashekhar,72481,JDU,Dr. Ramendra Kumar,60537,11944,7.79
+ae-bihar-2010,AE,Bihar,2010,2010,official,74,Sonabarsa,SC,Saharsa,119548,JDU,Ratnesh Sada,56633,LJP,Sarita Devi,25188,31445,26.3
+ae-bihar-2010,AE,Bihar,2010,2010,official,75,Saharsa,GEN,Saharsa,151773,BJP,Alok Ranjan,55687,RJD,Arun Kumar,47708,7979,5.26
+ae-bihar-2010,AE,Bihar,2010,2010,official,76,Simri-Bakhtiarpur,GEN,Saharsa,131565,JDU,Dr Arun Kumar,57980,INC,Choudhry Mehboob Ali,39138,18842,14.32
+ae-bihar-2010,AE,Bihar,2010,2010,official,77,Mahishi,GEN,Saharsa,117290,RJD,Dr Abdul Gafoor,39158,JDU,Raj Kumar Sah,37441,1717,1.46
+ae-bihar-2010,AE,Bihar,2010,2010,official,78,Kusheshwar Asthan,SC,Darbhanga,90475,BJP,Shashi Bhushan Hajari,28576,LJP,Ramchandra Paswan,23064,5512,6.09
+ae-bihar-2010,AE,Bihar,2010,2010,official,79,Gora Bauram,GEN,Darbhanga,90480,JDU,Dr. Izhar Ahmad,33258,RJD,Dr. Mahavir Prasad,22656,10602,11.72
+ae-bihar-2010,AE,Bihar,2010,2010,official,80,Benipur,GEN,Darbhanga,107175,BJP,Gopal Jee Thakur,43222,RJD,Hare Krishna Yadav,29265,13957,13.02
+ae-bihar-2010,AE,Bihar,2010,2010,official,81,Alinagar,GEN,Darbhanga,101888,RJD,Abdul Bari Siddiqui,37923,JDU,Prabhakar Choudhary,32934,4989,4.9
+ae-bihar-2010,AE,Bihar,2010,2010,official,82,Darbhanga Rural,GEN,Darbhanga,101745,RJD,Lalit Kumar Yadav,29776,JDU,Ashraf Hussain,26100,3676,3.61
+ae-bihar-2010,AE,Bihar,2010,2010,official,83,Darbhanga,GEN,Darbhanga,118596,BJP,Sanjay Saraogi,64136,RJD,Sultan Ahmad,36582,27554,23.23
+ae-bihar-2010,AE,Bihar,2010,2010,official,84,Hayaghat,GEN,Darbhanga,90930,BJP,Amar Nath Gami,32023,LJP,Dr. Shahnawaz Ahmad,25998,6025,6.63
+ae-bihar-2010,AE,Bihar,2010,2010,official,85,Bahadurpur,GEN,Darbhanga,115515,JDU,Madan Sahni,27320,RJD,Harinandan Yadav,26677,643,0.56
+ae-bihar-2010,AE,Bihar,2010,2010,official,86,Keoti,GEN,Darbhanga,108745,BJP,Ashok Kumar Yadav,45791,RJD,Faraz Fatmi,45762,29,0.03
+ae-bihar-2010,AE,Bihar,2010,2010,official,87,Jale,GEN,Darbhanga,107993,BJP,Vijay Kumar Mishra,42590,RJD,Ramniwas Pd,25648,16942,15.69
+ae-bihar-2010,AE,Bihar,2010,2010,official,88,Gaighatti,GEN,Muzaffarpur,129756,BJP,Veena Devi,56386,RJD,Maheshwar Prasad Yadav,40399,15987,12.32
+ae-bihar-2010,AE,Bihar,2010,2010,official,89,Aurai,GEN,Muzaffarpur,116666,BJP,Ram Surat Rai,38422,RJD,Surendra Kumar,26681,11741,10.06
+ae-bihar-2010,AE,Bihar,2010,2010,official,90,Minapur,GEN,Muzaffarpur,124134,JDU,Dinesh Prasad,42286,RJD,Rajeev Kumar Urph,36884,5402,4.35
+ae-bihar-2010,AE,Bihar,2010,2010,official,91,Bochaha,SC,Muzaffarpur,122340,JDU,Ramai Ram,61885,RJD,Musafir Paswan,37758,24127,19.72
+ae-bihar-2010,AE,Bihar,2010,2010,official,92,Sakra,SC,Muzaffarpur,115583,JDU,Suresh Chanchal,55486,RJD,Lal Babu Ram,42441,13045,11.29
+ae-bihar-2010,AE,Bihar,2010,2010,official,93,Kurhani,GEN,Muzaffarpur,129965,JDU,Manoj Kumar Singh,36757,LJP,Bijendra Chaudhary,35187,1570,1.21
+ae-bihar-2010,AE,Bihar,2010,2010,official,94,Muzaffarpur,GEN,Muzaffarpur,121797,BJP,Suresh Kumar Sharma,72301,LJP,Mohhammad Jamal,25862,46439,38.13
+ae-bihar-2010,AE,Bihar,2010,2010,official,95,Kanti,GEN,Muzaffarpur,124711,JDU,Ajit Kumar,39648,RJD,Md. Israil,31233,8415,6.75
+ae-bihar-2010,AE,Bihar,2010,2010,official,96,Baruraj,GEN,Muzaffarpur,112639,RJD,Brij Kishor Singh,42783,JDU,Nand Kumar Rai,28466,14317,12.71
+ae-bihar-2010,AE,Bihar,2010,2010,official,97,Paroo,GEN,Muzaffarpur,124149,BJP,Ashok Kumar Singh,53609,RJD,Mithilesh Prasad Yadav,34582,19027,15.33
+ae-bihar-2010,AE,Bihar,2010,2010,official,98,Sahebganj,GEN,Muzaffarpur,121009,JDU,Raju Kumar Singh,46606,RJD,Ram Vichar Ray,41690,4916,4.06
+ae-bihar-2010,AE,Bihar,2010,2010,official,99,Baikunthpur,GEN,Gopalganj,125334,JDU,Manjeet Kumar Singh,70105,RJD,Devdatt Prasad,33581,36524,29.14
+ae-bihar-2010,AE,Bihar,2010,2010,official,100,Barauli,GEN,Gopalganj,114863,BJP,Ram Pravesh Rai,45234,RJD,M.Nematullah,34820,10414,9.07
+ae-bihar-2010,AE,Bihar,2010,2010,official,101,Gopalganj,GEN,Gopalganj,127344,BJP,Subas Singh,58010,RJD,Reyazul Haque Alias,42117,15893,12.48
+ae-bihar-2010,AE,Bihar,2010,2010,official,102,Kuchaikot,GEN,Gopalganj,126639,JDU,Amrendra Kumar Pandey,51815,RJD,Aditya Narain Pandey,32297,19518,15.41
+ae-bihar-2010,AE,Bihar,2010,2010,official,103,Bhore,SC,Gopalganj,119790,BJP,Idradeo Majhi,61401,RJD,Bachchan Das,17831,43570,36.37
+ae-bihar-2010,AE,Bihar,2010,2010,official,104,Hatia,GEN,Gopalganj,119604,JDU,Ram Sewak Singh,50708,RJD,Rajesh Kumar Singh,27861,22847,19.1
+ae-bihar-2010,AE,Bihar,2010,2010,official,105,Siwan,GEN,Siwan,116821,BJP,Vyasdeo Prasad,51637,RJD,Awadhvihari Chaudhry,39096,12541,10.74
+ae-bihar-2010,AE,Bihar,2010,2010,official,106,Ziradei,GEN,Siwan,108043,BJP,Asha Devi,29442,CPIML,Amarjeet Kushwaha,20522,8920,8.26
+ae-bihar-2010,AE,Bihar,2010,2010,official,107,Darauli,SC,Siwan,117027,BJP,Ramayan Manjhi,40993,CPIML,Satyadeo Ram,33987,7006,5.99
+ae-bihar-2010,AE,Bihar,2010,2010,official,108,Raghunathpur,GEN,Siwan,103493,BJP,Vikram Kunwar,33474,CPIML,Amar Nath Yadav,18362,15112,14.6
+ae-bihar-2010,AE,Bihar,2010,2010,official,109,Daraundha,GEN,Siwan,110869,JDU,Jagmato Devi,49115,RJD,Binod Kumar Singh,17980,31135,28.08
+ae-bihar-2010,AE,Bihar,2010,2010,official,110,Barharia,GEN,Siwan,115121,JDU,Shyam Bahadur Singh,53707,RJD,Mahamad Mobin,28586,25121,21.82
+ae-bihar-2010,AE,Bihar,2010,2010,official,111,Goreakothi,GEN,Siwan,124872,BJP,Bhumendra Narayan,42533,RJD,Indradeo Prasad,28512,14021,11.23
+ae-bihar-2010,AE,Bihar,2010,2010,official,112,Maharajganj,GEN,Siwan,111075,JDU,Damodar Singh,40232,RJD,Manik Chand Rai,20232,20000,18.01
+ae-bihar-2010,AE,Bihar,2010,2010,official,113,Ekma,GEN,Saran,102973,JDU,Manoranjan Singh,55474,RJD,Kameshwar Kr. Singh,26273,29201,28.36
+ae-bihar-2010,AE,Bihar,2010,2010,official,114,Manjhi,GEN,Saran,106721,JDU,Gautam Singh,28687,RJD,Hem Narayan Singh,20783,7904,7.41
+ae-bihar-2010,AE,Bihar,2010,2010,official,115,Baniapur,GEN,Saran,112187,RJD,Kedar Nath Singh,45259,JDU,Virendra Kumar Ojha,41684,3575,3.19
+ae-bihar-2010,AE,Bihar,2010,2010,official,116,Taraiya,GEN,Saran,100104,BJP,Janak Singh,26600,INC,Tarkeshwar Singh,19630,6970,6.96
+ae-bihar-2010,AE,Bihar,2010,2010,official,117,Marhaura,GEN,Saran,99365,RJD,Jitendra Kumar Rai,26374,JDU,Lal Babu Ray,20750,5624,5.66
+ae-bihar-2010,AE,Bihar,2010,2010,official,118,Chapra,GEN,Saran,114406,BJP,Janardan Singh Sigriwal,61045,RJD,Pramendra Ranjan Singh,25174,35871,31.35
+ae-bihar-2010,AE,Bihar,2010,2010,official,119,Garkha,SC,Saran,103630,BJP,Gyan Chand Manjhi,41033,RJD,Muneshwar Chaudhary,39246,1787,1.72
+ae-bihar-2010,AE,Bihar,2010,2010,official,120,Amnour,GEN,Saran,96624,JDU,Krishana Kumar,29508,IND,Sunil Kumar,18991,10517,10.88
+ae-bihar-2010,AE,Bihar,2010,2010,official,121,Parsa,GEN,Saran,101148,JDU,Chhotelal Rai,44828,RJD,Chandrika Rai,40139,4689,4.64
+ae-bihar-2010,AE,Bihar,2010,2010,official,122,Sonepur,GEN,Vaishali,120316,BJP,Vinay Kumar Singh,64676,RJD,Rabri Devi,43991,20685,17.19
+ae-bihar-2010,AE,Bihar,2010,2010,official,123,Hajipur,GEN,Vaishali,133432,BJP,Nityanand Roy,55315,LJP,Rajendra Rai,38706,16609,12.45
+ae-bihar-2010,AE,Bihar,2010,2010,official,124,Lalganj,GEN,Vaishali,142674,JDU,Annu Shukla,58210,IND,Raj Kumar Sah,34065,24145,16.92
+ae-bihar-2010,AE,Bihar,2010,2010,official,125,Vaishali,GEN,Vaishali,134985,JDU,Brishin Patel,60950,RJD,Veena Shahi,48122,12828,9.5
+ae-bihar-2010,AE,Bihar,2010,2010,official,126,Mahua,GEN,Vaishali,115675,JDU,Ravindra Ray,46309,RJD,Jageshwar Ray,24384,21925,18.95
+ae-bihar-2010,AE,Bihar,2010,2010,official,127,Raja Pakar,SC,Vaishali,102959,JDU,Sanjay Kumar,43212,LJP,Gaurishankar Paswan,32997,10215,9.92
+ae-bihar-2010,AE,Bihar,2010,2010,official,128,Raghopur,GEN,Vaishali,133641,JDU,Satish Kumar,64222,RJD,Rabri Devi,51216,13006,9.73
+ae-bihar-2010,AE,Bihar,2010,2010,official,129,Manhar,GEN,Vaishali,118972,BJP,Dr. Achyuatanand,29754,LJP,Rama Kishor Singh,27265,2489,2.09
+ae-bihar-2010,AE,Bihar,2010,2010,official,130,Patepur,SC,Vaishali,114911,BJP,Mahendra Baitha,53762,RJD,Prema Chaudhary,37095,16667,14.5
+ae-bihar-2010,AE,Bihar,2010,2010,official,131,Kalyanpur,SC,Samastipur,128961,JDU,Ramsewak Hazari,62124,LJP,Bishwnath Paswan,31927,30197,23.42
+ae-bihar-2010,AE,Bihar,2010,2010,official,132,Warisnagar,GEN,Samastipur,136177,JDU,Ashok Kumar,46245,RJD,Gajendra Prasad Singh,26745,19500,14.32
+ae-bihar-2010,AE,Bihar,2010,2010,official,133,Samastipur,GEN,Samastipur,116809,RJD,Akhtarul Islam Sahin,42852,JDU,Ramnath Thakur,41025,1827,1.56
+ae-bihar-2010,AE,Bihar,2010,2010,official,134,Ujiarpur,GEN,Samastipur,130800,RJD,Durga Prasad Singh,42791,JDU,Ram Lakhan Mahto,29760,13031,9.96
+ae-bihar-2010,AE,Bihar,2010,2010,official,135,Morwa,GEN,Samastipur,104970,JDU,Baidhnath Sahani,40271,RJD,Ashok Singh,33421,6850,6.53
+ae-bihar-2010,AE,Bihar,2010,2010,official,136,Sarairanjan,GEN,Samastipur,118708,JDU,Vijay Kumar Chaudhary,53946,RJD,Ramashraya Sahni,36389,17557,14.79
+ae-bihar-2010,AE,Bihar,2010,2010,official,137,Mohiuddin Nagar,GEN,Samastipur,105102,BJP,Rana Gangeshwar Singh,51756,RJD,Ajay Kumar Bulganin,37405,14351,13.65
+ae-bihar-2010,AE,Bihar,2010,2010,official,138,Bibhutpur,GEN,Samastipur,121331,JDU,Ram Balak Singh,46469,CPI(M),Ramdeo Verma,34168,12301,10.14
+ae-bihar-2010,AE,Bihar,2010,2010,official,139,Rosera,SC,Samastipur,127908,BJP,Manju Hajari,57930,RJD,Pitamber Paswan,45811,12119,9.47
+ae-bihar-2010,AE,Bihar,2010,2010,official,140,Hasanpur,GEN,Samastipur,116693,JDU,Raj Kumar Ray,36767,RJD,Sunil Kumar Puspam,33476,3291,2.82
+ae-bihar-2010,AE,Bihar,2010,2010,official,141,Cheria Bariarpur,GEN,Begusarai,114202,JDU,Kumari Manju Verma,32807,LJP,Anil Kumar Chaudhary,31746,1061,0.93
+ae-bihar-2010,AE,Bihar,2010,2010,official,142,Bachhwara,GEN,Begusarai,129938,CPI,Abdhesh Kumar Rai,33770,IND,Arvind Kumar Singh,21683,12087,9.3
+ae-bihar-2010,AE,Bihar,2010,2010,official,143,Teghra,GEN,Begusarai,123337,BJP,Lalan Ku,38694,CPI,Ram Ratan Singh,32848,5846,4.74
+ae-bihar-2010,AE,Bihar,2010,2010,official,144,Matihani,GEN,Begusarai,149372,JDU,Narendra Kumar Singh,60530,INC,Abhay Kumar Sarjan,36702,23828,15.95
+ae-bihar-2010,AE,Bihar,2010,2010,official,145,Sahebpur Kamal,GEN,Begusarai,107994,JDU,Parveen Amanullah,46391,RJD,Shreenarayan Yadav,35280,11111,10.29
+ae-bihar-2010,AE,Bihar,2010,2010,official,146,Begusarai,GEN,Begusarai,129070,BJP,Surendra Mehta,50602,LJP,Upendra Prasad Singh,30984,19618,15.2
+ae-bihar-2010,AE,Bihar,2010,2010,official,147,Bakhri,SC,Begusarai,118629,BJP,Ramanand Ram,43871,LJP,Ram Binod Paswan,25459,18412,15.52
+ae-bihar-2010,AE,Bihar,2010,2010,official,148,Alauli,SC,Khagaria,108355,JDU,Ram Chandra Sada,53775,LJP,Pashupati Kumar Paras,36252,17523,16.17
+ae-bihar-2010,AE,Bihar,2010,2010,official,149,Khagaria,GEN,Khagaria,113828,JDU,Poonam Devi Yadav,48841,LJP,Sushila Devi,21988,26853,23.59
+ae-bihar-2010,AE,Bihar,2010,2010,official,150,Beldaur,GEN,Khagaria,132945,JDU,"Pannalal Singh ""Patel""",45990,LJP,Sunita Sharma,30252,15738,11.84
+ae-bihar-2010,AE,Bihar,2010,2010,official,151,Parbatta,GEN,Khagaria,141162,RJD,Samrat Choudhary Alias,60428,JDU,Ramanand Prasad Singh,59620,808,0.57
+ae-bihar-2010,AE,Bihar,2010,2010,official,152,Bihpur,GEN,Bhagalpur,116985,BJP,Kumar Shailendra,48027,RJD,Shailesh Kumar @ Bulo,47562,465,0.4
+ae-bihar-2010,AE,Bihar,2010,2010,official,153,Gopalpur,GEN,Bhagalpur,114616,JDU,Narendra Kumar Niraj,53876,RJD,Amit Rana,28816,25060,21.86
+ae-bihar-2010,AE,Bihar,2010,2010,official,154,Pirpainti,SC,Bhagalpur,129088,BJP,Aman Kumar,48493,RJD,Ram Vilash Paswan,42741,5752,4.46
+ae-bihar-2010,AE,Bihar,2010,2010,official,155,Kahalgaon,GEN,Bhagalpur,132284,INC,Sadanand Singh,44936,JDU,Kahkashan Perween,36001,8935,6.75
+ae-bihar-2010,AE,Bihar,2010,2010,official,156,Bhagalpur,GEN,Bhagalpur,116987,BJP,Ashwini Kumar Choubey,49164,INC,Ajeet Sharma,38104,11060,9.45
+ae-bihar-2010,AE,Bihar,2010,2010,official,157,Sultanganj,GEN,Bhagalpur,123552,JDU,Subodh Rai,34652,RJD,Ramavatar Mandal,29807,4845,3.92
+ae-bihar-2010,AE,Bihar,2010,2010,official,158,Nathnagar,GEN,Bhagalpur,122251,JDU,Ajai Kumar Mandal,42094,RJD,Abu Kaishar,37367,4727,3.87
+ae-bihar-2010,AE,Bihar,2010,2010,official,159,Amarpur,GEN,Banka *,115992,JDU,Janardan Manjhi,47300,RJD,Surendra Prasad Singh,29293,18007,15.52
+ae-bihar-2010,AE,Bihar,2010,2010,official,160,Dhuraiya,SC,Banka *,112758,JDU,Manish Kumar,40261,RJD,Naresh Das,31919,8342,7.4
+ae-bihar-2010,AE,Bihar,2010,2010,official,161,Banka,GEN,Banka *,106691,RJD,Javed Iqbal Ansari,29047,BJP,Ram Narayan Mandal,26637,2410,2.26
+ae-bihar-2010,AE,Bihar,2010,2010,official,162,Katoria,ST,Banka *,85187,BJP,Sonelal Hembram,32332,RJD,Suklal Besara,23569,8763,10.29
+ae-bihar-2010,AE,Bihar,2010,2010,official,163,Belhar,GEN,Banka *,120345,JDU,Giridhari Yadav,33776,RJD,Ramdeo Yadav,26160,7616,6.33
+ae-bihar-2010,AE,Bihar,2010,2010,official,164,Tarapur,GEN,Munger,119133,JDU,Neeta Choudhary,44582,RJD,Shakuni Choudhary,30704,13878,11.65
+ae-bihar-2010,AE,Bihar,2010,2010,official,165,Munger,GEN,Munger,129649,JDU,Anant Kumar Satyarthy,55086,RJD,Shabnam Perwin,37473,17613,13.59
+ae-bihar-2010,AE,Bihar,2010,2010,official,166,Jamalpur,GEN,Munger,114747,JDU,Shailesh Kumar,48337,LJP,Sadhana Devi,27195,21142,18.42
+ae-bihar-2010,AE,Bihar,2010,2010,official,167,Surajgarha,GEN,Lakhisarai *,128484,BJP,Prem Ranjan Patel,49511,RJD,Prahlad Yadav,46583,2928,2.28
+ae-bihar-2010,AE,Bihar,2010,2010,official,168,Lakhisarai,GEN,Lakhisarai *,145308,BJP,Vijay Kumar Sinha,78457,RJD,Fulaina Singh,18837,59620,41.03
+ae-bihar-2010,AE,Bihar,2010,2010,official,169,Sheikhpura,GEN,Sheikhpura *,103186,JDU,Randhir Kumar Soni,31507,INC,Sunila Devi,24165,7342,7.12
+ae-bihar-2010,AE,Bihar,2010,2010,official,170,Barbigha,GEN,Sheikhpura *,92414,JDU,Gajanand Shahi,24136,INC,Ashok Choudhary,21089,3047,3.3
+ae-bihar-2010,AE,Bihar,2010,2010,official,171,Asthawan,GEN,Nalanda,106979,JDU,Jitendra Kumar,54176,LJP,Kapildev Prasad Singh,34606,19570,18.29
+ae-bihar-2010,AE,Bihar,2010,2010,official,172,Biharsharif,GEN,Nalanda,150190,JDU,Dr. Sunil Kumar,77880,RJD,Aafrin Sultana,54168,23712,15.79
+ae-bihar-2010,AE,Bihar,2010,2010,official,173,Rajgir,SC,Nalanda,101803,BJP,Satyadeo Narain Arya,50648,LJP,Dhananjay Kumar,23697,26951,26.47
+ae-bihar-2010,AE,Bihar,2010,2010,official,174,Islampur,GEN,Nalanda,114408,JDU,Rajib Ranjan,56332,RJD,Virendra Gop,32524,23808,20.81
+ae-bihar-2010,AE,Bihar,2010,2010,official,175,Hilsa,GEN,Nalanda,126043,JDU,Usha Sinha,54974,LJP,Rina Devi,41772,13202,10.47
+ae-bihar-2010,AE,Bihar,2010,2010,official,176,Nalanda,GEN,Nalanda,120904,JDU,Shrawon Kumar,58067,RJD,Arun Kumar,37030,21037,17.4
+ae-bihar-2010,AE,Bihar,2010,2010,official,177,Harnaut,GEN,Nalanda,120103,JDU,Harinarayan Singh,56827,LJP,Arun Kumar,41785,15042,12.52
+ae-bihar-2010,AE,Bihar,2010,2010,official,178,Mokamah,GEN,Patna,116975,JDU,Anant Kumar Singh,51564,LJP,Sonam Devi,42610,8954,7.65
+ae-bihar-2010,AE,Bihar,2010,2010,official,179,Barh,GEN,Patna,113011,JDU,Gyanendra Kumar Singh,53129,RJD,Vijay Krishna,33734,19395,17.16
+ae-bihar-2010,AE,Bihar,2010,2010,official,180,Bakhtiarpur,GEN,Patna,113274,RJD,Aniruddh Kumar,52782,BJP,Vinode Yadav,38037,14745,13.02
+ae-bihar-2010,AE,Bihar,2010,2010,official,181,Digha,GEN,Patna,130974,JDU,Punam Devi,81247,LJP,Satya Nand Sharma,20785,60462,46.16
+ae-bihar-2010,AE,Bihar,2010,2010,official,182,Bankipur,GEN,Patna,109309,BJP,Nitin Nabin,78771,RJD,Binod Kumar Srivastava,17931,60840,55.66
+ae-bihar-2010,AE,Bihar,2010,2010,official,183,Kumhrarh,GEN,Patna,115804,BJP,Arun Kumar Sinha,83425,LJP,Md. Kamal Parwez,15617,67808,58.55
+ae-bihar-2010,AE,Bihar,2010,2010,official,184,Patna Sahib,GEN,Patna,134301,BJP,Nand Kishore Yadav,91419,INC,Parvej Ahmad,26082,65337,48.65
+ae-bihar-2010,AE,Bihar,2010,2010,official,185,Fatwa,GEN,Patna,111774,RJD,Dr. Ramanand Yadav,50218,JDU,Ajay Kumar Singh,40562,9656,8.64
+ae-bihar-2010,AE,Bihar,2010,2010,official,186,Danapur,GEN,Patna,125050,BJP,Asha Devi,59425,IND,Rit Lal Ray,41506,17919,14.33
+ae-bihar-2010,AE,Bihar,2010,2010,official,187,Maner,GEN,Patna,132342,RJD,Bhai Virendra,57818,JDU,Srikant Nirala,48217,9601,7.25
+ae-bihar-2010,AE,Bihar,2010,2010,official,188,Phulwari,SC,Patna,135456,JDU,Shyam Rajak,67390,RJD,Uday Kumar,46210,21180,15.64
+ae-bihar-2010,AE,Bihar,2010,2010,official,189,Masaurhi,SC,Patna,142650,JDU,Arun Manjhi,56977,LJP,Anil Kumar,51945,5032,3.53
+ae-bihar-2010,AE,Bihar,2010,2010,official,190,Paliganj,GEN,Patna,115899,BJP,Dr. Usha Vidyarthi,43692,RJD,Jai Vardhan Yadav,33450,10242,8.84
+ae-bihar-2010,AE,Bihar,2010,2010,official,191,Bikram,GEN,Patna,131772,BJP,Anil Kumar,38965,LJP,Siddharth,36613,2352,1.78
+ae-bihar-2010,AE,Bihar,2010,2010,official,192,Sandesh,GEN,Bhojpur,112866,BJP,Sanjay Singh (Tiger),29988,IND,Arun Kumar,23166,6822,6.04
+ae-bihar-2010,AE,Bihar,2010,2010,official,193,Barhara,GEN,Bhojpur,111049,RJD,Raghwendra Pratap,46102,JDU,Asha Devi,45019,1083,0.98
+ae-bihar-2010,AE,Bihar,2010,2010,official,194,Arrah,GEN,Bhojpur,113450,BJP,Amrendra Pratap Singh,56504,LJP,Shree Kumar Singh,37564,18940,16.69
+ae-bihar-2010,AE,Bihar,2010,2010,official,195,Agiaon,SC,Bhojpur,92365,BJP,Shivesh Kumar,29257,RJD,Suresh Paswan,24008,5249,5.68
+ae-bihar-2010,AE,Bihar,2010,2010,official,196,Tarari,GEN,Bhojpur,127786,JDU,Narendra Kumar Pandey,48413,RJD,Adib Rizvi,34093,14320,11.21
+ae-bihar-2010,AE,Bihar,2010,2010,official,197,Jagdishpur,GEN,Bhojpur,130261,RJD,Dinesh Kumar Singh,55560,JDU,Sribhagwan Singh,45374,10186,7.82
+ae-bihar-2010,AE,Bihar,2010,2010,official,198,Shahpur,GEN,Bhojpur,111194,BJP,Munni Devi,44795,RJD,Dharmpal Singh,36584,8211,7.38
+ae-bihar-2010,AE,Bihar,2010,2010,official,199,Barhampur,GEN,Buxar *,125983,BJP,Dilmarni Devi,46196,RJD,Ajit Chaudhary,25854,20342,16.15
+ae-bihar-2010,AE,Bihar,2010,2010,official,200,Buxar,GEN,Buxar *,128102,BJP,Prof. Sukhada Pande,48062,RJD,Shyam Lal Singh,27879,20183,15.76
+ae-bihar-2010,AE,Bihar,2010,2010,official,201,Dumraon,GEN,Buxar *,124616,JDU,Dr. Daud Ali,42538,RJD,Sunil Kumar,22692,19846,15.93
+ae-bihar-2010,AE,Bihar,2010,2010,official,202,Rajpur,SC,Buxar *,137845,JDU,Santosh Kumar Nirala,54802,LJP,Chhedi Lal Ram,39563,15239,11.06
+ae-bihar-2010,AE,Bihar,2010,2010,official,203,Ramgarh,GEN,Kaimur (Bhabua) *,123218,RJD,Ambika Singh,30787,IND,Ashok Kumar Singh,27809,2978,2.42
+ae-bihar-2010,AE,Bihar,2010,2010,official,204,Mohania,SC,Kaimur (Bhabua) *,111809,JDU,Chhedi Paswan,38918,RJD,Niranjan Ram,36393,2525,2.26
+ae-bihar-2010,AE,Bihar,2010,2010,official,205,Bhabhua,GEN,Kaimur (Bhabua) *,119097,LJP,Dr. Pramod Kumar Singh,31246,BJP,Anand Bhushan Pandey,30799,447,0.38
+ae-bihar-2010,AE,Bihar,2010,2010,official,206,Chainpur,GEN,Rohtas,142032,BJP,Brij Kishor Vind,46510,BSP,Dr. Ajay Alok,32930,13580,9.56
+ae-bihar-2010,AE,Bihar,2010,2010,official,207,Chenari,SC,Rohtas,126797,JDU,Shyam Bihari Ram,44586,RJD,Lalan Pasawan,41685,2901,2.29
+ae-bihar-2010,AE,Bihar,2010,2010,official,208,Sasaram,GEN,Rohtas,144512,BJP,Jawahar Prasad,50856,RJD,Dr. Ashok Kumar,45445,5411,3.74
+ae-bihar-2010,AE,Bihar,2010,2010,official,209,Kargahar,GEN,Rohtas,149739,JDU,Ram Dhani Singh,54190,LJP,Shiv Shankar Singh,40993,13197,8.81
+ae-bihar-2010,AE,Bihar,2010,2010,official,210,Dinara,GEN,Rohtas,120273,JDU,Jay Kumar Singh,47176,RJD,Sita Sundari Devi,30566,16610,13.81
+ae-bihar-2010,AE,Bihar,2010,2010,official,211,Nokha,GEN,Rohtas,116704,BJP,Rameshwar Prasad,39020,RJD,Kanti Singh,27297,11723,10.05
+ae-bihar-2010,AE,Bihar,2010,2010,official,212,Dehri,GEN,Rohtas,123647,IND,Jyoti Rashmi,43634,RJD,Mohammad Iliyas Husain,33819,9815,7.94
+ae-bihar-2010,AE,Bihar,2010,2010,official,213,Karakat,GEN,Rohtas,127784,JDU,Rajeshwar Raj,49751,RJD,Munna Rai,38336,11415,8.93
+ae-bihar-2010,AE,Bihar,2010,2010,official,214,Arwal,GEN,Jehanabad,94760,BJP,Chitranjan Kumar,23984,CPIML,Mahanand Prasad,19782,4202,4.43
+ae-bihar-2010,AE,Bihar,2010,2010,official,215,Kurtha,GEN,Jehanabad,91877,JDU,Satyadev Singh,37633,RJD,Shiv Bachan Yadav,28140,9493,10.33
+ae-bihar-2010,AE,Bihar,2010,2010,official,216,Jahanabad,GEN,Jehanabad,110612,JDU,Abhiram Sharma,35508,RJD,Sachchita Nand Yadav,26941,8567,7.75
+ae-bihar-2010,AE,Bihar,2010,2010,official,217,Ghosi,GEN,Jehanabad,104123,JDU,Rahul Kumar,40364,LJP,Jagdish Prasad,26088,14276,13.71
+ae-bihar-2010,AE,Bihar,2010,2010,official,218,Makhdumpur,SC,Jehanabad,90185,JDU,Jitan Ram Manjhi,38463,RJD,Dharmraj Paswan,33378,5085,5.64
+ae-bihar-2010,AE,Bihar,2010,2010,official,219,Goh,GEN,Aurangabad,120065,JDU,Dr. Ranvijay Kumar,47378,RJD,Ram Ayodhya Prasad,46684,694,0.58
+ae-bihar-2010,AE,Bihar,2010,2010,official,220,Obra,GEN,Aurangabad,130250,IND,Somprakash Singh,36816,JDU,Pramod Singh,36014,802,0.62
+ae-bihar-2010,AE,Bihar,2010,2010,official,221,Nabinagar,GEN,Aurangabad,101815,JDU,Virendra Kumar Singh,36860,LJP,Vijay Kumar Singh,25026,11834,11.62
+ae-bihar-2010,AE,Bihar,2010,2010,official,222,Kutumba,SC,Aurangabad,93460,JDU,Lalan Ram,42559,RJD,Suresh Paswan,28649,13910,14.88
+ae-bihar-2010,AE,Bihar,2010,2010,official,223,Aurangabad,GEN,Aurangabad,111326,BJP,Ramadhar Singh,41176,RJD,Sunil Kumar Singh,34934,6242,5.61
+ae-bihar-2010,AE,Bihar,2010,2010,official,224,Rafiganj,GEN,Aurangabad,117986,JDU,Ashok Kumar Singh,58501,RJD,Mohammad Nehaluddin,34816,23685,20.07
+ae-bihar-2010,AE,Bihar,2010,2010,official,225,Gurua,GEN,Gaya,120672,BJP,Surendra Prasad Sinha,46767,RJD,Bindeshwari Prasad,35331,11436,9.48
+ae-bihar-2010,AE,Bihar,2010,2010,official,226,Sherghati,GEN,Gaya,107696,JDU,Vinod Prasad Yadav,25447,IND,Sushama Devi,18944,6503,6.04
+ae-bihar-2010,AE,Bihar,2010,2010,official,227,Imamganj,SC,Gaya,109088,JDU,Uday Narain Choudhary,44126,RJD,Raushan Kumar,42915,1211,1.11
+ae-bihar-2010,AE,Bihar,2010,2010,official,228,Barachatti,SC,Gaya,114697,JDU,Jyoti Devi,57550,RJD,Samta Devi,33804,23746,20.7
+ae-bihar-2010,AE,Bihar,2010,2010,official,229,Bodh Gaya,SC,Gaya,122013,BJP,Shyam Deo Paswan,54160,LJP,Kumar Sarvjeet,42947,11213,9.19
+ae-bihar-2010,AE,Bihar,2010,2010,official,230,Gaya Town,GEN,Gaya,103153,BJP,Prem Kumar,55618,CPI,Jalal Uddin Ansari,27201,28417,27.55
+ae-bihar-2010,AE,Bihar,2010,2010,official,231,Tekari,GEN,Gaya,131910,JDU,Dr. Anil Kumar,67706,RJD,Bagi Kumar Verma,49165,18541,14.06
+ae-bihar-2010,AE,Bihar,2010,2010,official,232,Belaganj,GEN,Gaya,121803,RJD,Surendra Prasad Yadav,53079,JDU,Mohammad Amzad,48441,4638,3.81
+ae-bihar-2010,AE,Bihar,2010,2010,official,233,Atri,GEN,Gaya,117023,JDU,Krishna Nandan Yadav,55633,RJD,Kunti Devi,35023,20610,17.61
+ae-bihar-2010,AE,Bihar,2010,2010,official,234,Wazirganj,GEN,Gaya,122073,BJP,Virendra Singh,38893,INC,Awadhesh Kumar Singh,21127,17766,14.55
+ae-bihar-2010,AE,Bihar,2010,2010,official,235,Rajauli,SC,Nawada,108127,BJP,Kanhaiya Kumar,51020,RJD,Prakash Bir,36930,14090,13.03
+ae-bihar-2010,AE,Bihar,2010,2010,official,236,Hisua,GEN,Nawada,124430,BJP,Anil Singh,43110,LJP,Anil Mehta,39132,3978,3.2
+ae-bihar-2010,AE,Bihar,2010,2010,official,237,Nawada,GEN,Nawada,119019,JDU,Purnima Yadav,46568,RJD,Rajballabh Prasad,40231,6337,5.32
+ae-bihar-2010,AE,Bihar,2010,2010,official,238,Gobindpur,GEN,Nawada,100078,JDU,Kaushal Yadav,45589,LJP,Prof. K. B. Prasad,24702,20887,20.87
+ae-bihar-2010,AE,Bihar,2010,2010,official,239,Warsaliganj,GEN,Jamui *,120861,JDU,Pradip Kumar,42381,INC,Aruna Devi,36953,5428,4.49
+ae-bihar-2010,AE,Bihar,2010,2010,official,240,Sikandra,SC,Jamui *,103824,JDU,Rameshwar Paswan,39829,LJP,Subhash Chandra Bosh,27468,12361,11.91
+ae-bihar-2010,AE,Bihar,2010,2010,official,241,Jamui,GEN,Jamui *,121783,JDU,Ajay Pratap,60130,RJD,Vijay Prakash,35663,24467,20.09
+ae-bihar-2010,AE,Bihar,2010,2010,official,242,Jhajha,GEN,Jamui *,124110,JDU,Damodar Rawat,48080,RJD,Binod Prasad Yadav,37876,10204,8.22
+ae-bihar-2010,AE,Bihar,2010,2010,official,243,Chakai,GEN,Jamui *,108259,JMM,Sumit Kumar Singh,21809,LJP,Bijay Kumar Singh,21621,188,0.17

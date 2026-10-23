@@ -1,0 +1,404 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,1,Behat,GEN,Saharanpur,250983,INC,Naresh Saini,97035,BJP,Mahaveer Singh Rana,71449,25586,10.19
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,2,Nakur,GEN,Saharanpur,254300,BJP,Dr.Dharam Singh Saini,94375,INC,Imran Masood,90318,4057,1.6
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,3,Saharanpur Nagar,GEN,Saharanpur,271834,SP,Sanjay Garg,127210,BJP,Rajiv Gumber,122574,4636,1.71
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,4,Saharanpur,GEN,Saharanpur,236500,INC,Masood Akhtar,87689,BSP,Jagpal Singh,75365,12324,5.21
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,5,Deoband,GEN,Saharanpur,233508,BJP,Brijesh,102244,BSP,Majid Ali,72844,29400,12.59
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,6,Rampur Maniharan,GEN,Saharanpur,217731,BJP,Devender Kumar Nim,76465,BSP,Ravindra Kumar Molhu,75870,595,0.27
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,7,Gangoh,GEN,Saharanpur,256407,BJP,Pradeep Kumar,99446,INC,Nauman Masood,61418,38028,14.83
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,8,Kairana,GEN,Muzaffarnagar,208074,SP,Nahid Hasan,98830,BJP,Mriganka Singh,77668,21162,10.17
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,9,Thana Bhawan,GEN,Muzaffarnagar,211808,BJP,Suresh Kumar,90995,BSP,Abdul Waris Khan,74178,16817,7.94
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,10,Shamli,GEN,Muzaffarnagar,195446,BJP,Tejendra Nirwal,70085,INC,Pankaj Kumar Malik,40365,29720,15.21
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,11,Budhana,GEN,Muzaffarnagar,239830,BJP,Umesh Malik,97781,SP,Pramod Tyagi,84580,13201,5.5
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,12,Charthawal,GEN,Muzaffarnagar,205946,BJP,Vijay Kumar Kashyap,82046,SP,Mukesh Kumar Chaudhary,58815,23231,11.28
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,13,Purqazi,GEN,Muzaffarnagar,203180,BJP,Pramod Utwal,77491,INC,Deepak Kumar,66238,11253,5.54
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,14,Muzaffar Nagar,GEN,Muzaffarnagar,214469,BJP,Kapil Dev Agarwal,97838,SP,Gaurav Swarup Bansal,87134,10704,4.99
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,15,Khatauli,GEN,Muzaffarnagar,212123,BJP,Vikram Singh,94771,SP,Chandan Singh Chauhan,63397,31374,14.79
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,16,Meerapur,GEN,Muzaffarnagar,203115,BJP,Avtar Singh Bhadana,69035,SP,Liyakat Ali,68842,193,0.1
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,17,Najibabad,GEN,Bijnor,214236,SP,Tasleem Ahmad,81082,BJP,Rajiv Kumar Agarwal,79080,2002,0.93
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,18,Nagina,GEN,Bijnor,208472,SP,Manoj Kumar Paras,77145,BJP,Omwati Devi,69178,7967,3.82
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,19,Barhapur,GEN,Bijnor,221593,BJP,Sushant Kumar,78744,INC,Husain Ahmad,68920,9824,4.43
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,20,Dhampur,GEN,Bijnor,191941,BJP,Ashok Kumar Rana,82169,SP,Tha. Mool Chand Chauhan,64305,17864,9.31
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,21,Nehtaur,GEN,Bijnor,186683,BJP,Omkumar,76644,INC,Munnalal Premi,53493,23151,12.4
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,22,Bijnor,GEN,Bijnor,244155,BJP,Suchi,105548,SP,Ruchi Vira,78267,27281,11.17
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,23,Chandpur,GEN,Bijnor,217552,BJP,Kamlesh Saini,92345,BSP,Mohammad Iqbal,56696,35649,16.39
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,24,Noorpur,GEN,Bijnor,201993,BJP,Lokendra Singh,79172,SP,Naim Ul Hasan,66436,12736,6.31
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,25,Kanth,GEN,Moradabad,251909,BJP,Rajesh Kumar Singh (Chunnu),76307,SP,Aneesurrehman,73959,2348,0.93
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,26,Thakurdwara,GEN,Moradabad,255380,SP,Navab Jan,107865,BJP,Rajpal Singh Chauhan,94456,13409,5.25
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,27,Moradabad Rural,GEN,Moradabad,220585,SP,Haji Ikram Qureshi,97916,BJP,Hariom Sharma,69135,28781,13.05
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,28,Moradabad Nagar,GEN,Moradabad,275824,BJP,Ritesh Kumar Gupta,123467,SP,Mohammad Yusuf Ansari,120274,3193,1.16
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,29,Kundarki,GEN,Moradabad,262992,SP,Mohammad Rizwan,110561,BJP,Ramveer Singh,99740,10821,4.11
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,30,Bilari,GEN,Moradabad,227993,SP,Mohd. Faeem,85682,BJP,Suresh Saini,72241,13441,5.9
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,31,Chandausi,GEN,Moradabad,221939,BJP,Gulab Devi,104806,INC,Km. Vimlesh Kumari,59337,45469,20.49
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,32,Asmoli,GEN,Moradabad,248173,SP,Pinki Yadav,97610,BJP,Narendra Singh,76484,21126,8.51
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,33,Sambhal,GEN,Moradabad,240701,SP,Iqbal Mehmood,79248,AIMIM,Ziaurrehman,60426,18822,7.82
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,34,Suar,GEN,Rampur,205090,SP,Mohammad Abdullah Azam Khan,106443,BJP,Laxmi Saini,53347,53096,25.89
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,35,Chamraua,GEN,Rampur,193208,SP,Naseer Ahmad Khan,87400,BSP,Ali Yusuf Ali,53024,34376,17.79
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,36,Bilaspur,GEN,Rampur,222467,BJP,Baldev Singh Aulakh,99100,INC,Sanjay Kapoor,76741,22359,10.05
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,37,Rampur,GEN,Rampur,213882,SP,Mohammad Azam Khan,102100,BJP,Shiv Bahadur Saxena,55258,46842,21.9
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,38,Milak,GEN,Rampur,214030,BJP,Rajbala,89861,SP,Vijay Singh,73194,16667,7.79
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,39,Dhanaura,GEN,Jyotiba Phule Nagar *,223356,BJP,Rajeev Kumar,102943,SP,Jagram Singh,64714,38229,17.12
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,40,Naugawan Sadat,GEN,Jyotiba Phule Nagar *,232734,BJP,Chetan Chauhan,97030,SP,Javed Abbas,76382,20648,8.87
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,41,Amroha,GEN,Jyotiba Phule Nagar *,200158,SP,Mehboob Ali,74713,BSP,Naushad Ali,59671,15042,7.52
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,42,Hasanpur,GEN,Jyotiba Phule Nagar *,252375,BJP,Mahendra Singh Khargvanshi,111269,SP,Kamal Akhtar,83499,27770,11.0
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,43,Siwalkhas,GEN,Meerut,224279,BJP,Jitendra Pal Singh (Billu),72842,SP,Ghulam Mohammad,61421,11421,5.09
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,44,Sardhana,GEN,Meerut,238016,BJP,Sangeet Singh Som,97921,SP,Atul Pradhan,76296,21625,9.09
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,45,Hastinapur,GEN,Meerut,220358,BJP,Dinesh Khatik,99436,BSP,Yogesh Verma,63374,36062,16.37
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,46,Kithore,GEN,Meerut,241655,BJP,Satyavir Tyagi,90622,SP,Shahid Manzoor,79800,10822,4.48
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,47,Meerut Cantt.,GEN,Meerut,235816,BJP,Satya Prakash Agarwal,132518,BSP,Satendra Solanki,55899,76619,32.49
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,48,Meerut,GEN,Meerut,194778,SP,Rafiq Ansari,103217,BJP,Dr. Laxmikant Bajpai,74448,28769,14.77
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,49,Meerut South,GEN,Meerut,269395,BJP,Dr. Somendra Tomar,113225,BSP,Haji Mohammad Yaqub,77830,35395,13.14
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,50,Chhaprauli,GEN,Baghpat *,198875,RLD,Sahender Singh Ramala,65124,BJP,Satender Singh,61282,3842,1.93
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,51,Baraut,GEN,Baghpat *,184308,BJP,Krishanpal Malik Urf Krishanpal Malik,79427,RLD,Sahab Singh,52941,26486,14.37
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,52,Baghpat,GEN,Baghpat *,197455,BJP,Yogesh Dhama,92566,BSP,Ahmed Hameed,61206,31360,15.88
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,53,Loni,GEN,Ghaziabad,272892,BJP,Nandkishor,113088,BSP,Zakir Ali,70275,42813,15.69
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,54,Muradnagar,GEN,Ghaziabad,252479,BJP,Ajit Pal Tyagi,140759,BSP,Sudhan Kumar,51147,89612,35.49
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,55,Sahibabad,GEN,Ghaziabad,422811,BJP,Sunil Kumar Sharma,262741,INC,Amarpal,112056,150685,35.64
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,56,Ghaziabad,GEN,Ghaziabad,224672,BJP,Atul Garg,124201,BSP,Suresh Bansal,53696,70505,31.38
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,57,Modi Nagar,GEN,Ghaziabad,214793,BJP,Dr. Manju Shiwach,108631,BSP,Wahab,42049,66582,31.0
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,58,Dholana,GEN,Ghaziabad,252548,BSP,Aaaslam Choudhary,88580,BJP,Ramesh Chand Tomer,85004,3576,1.42
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,59,Hapur,GEN,Ghaziabad,221711,BJP,Vijay Pal (Aadhti),84532,INC,Gajraj Singh,69526,15006,6.77
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,60,Garhmukteshwar,GEN,Ghaziabad,221183,BJP,Kamal Singh Malik,91086,BSP,Prashant Chaudhary,55792,35294,15.96
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,61,Noida,GEN,Gautam Buddha Nagar *,252339,BJP,Pankaj Singh,162417,SP,Sunil Choudhary,58401,104016,41.22
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,62,Dadri,GEN,Gautam Buddha Nagar *,263616,BJP,Tejpal Singh Nagar,141226,BSP,Satveer Singh Gurjar,61049,80177,30.41
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,63,Jewar,GEN,Gautam Buddha Nagar *,210138,BJP,Dhirendra Singh,102979,BSP,Vedram Bhati,80806,22173,10.55
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,64,Sikandrabad,GEN,Bulandshahr,250912,BJP,Bimla Singh Solanki,104956,BSP,Mohammad Imran,76333,28623,11.41
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,65,Bulandshahr,GEN,Bulandshahr,243444,BJP,Virendra Singh Sirohi,111538,BSP,Moh Aleem Khan,88454,23084,9.48
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,66,Syana,GEN,Bulandshahr,230714,BJP,Devendra,125854,BSP,Dilnawaz Khan,54224,71630,31.05
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,67,Anupshahr,GEN,Bulandshahr,228145,BJP,Sanjay,112431,BSP,Gajendra Singh,52117,60314,26.44
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,68,Debai,GEN,Bulandshahr,207761,BJP,Dr. Anita Lodhi Rajput,111807,SP,Harish Kumar,46177,65630,31.59
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,69,Shikarpur,GEN,Bulandshahr,200670,BJP,Anil Kumar,101912,BSP,Mukul Upadhyay,51667,50245,25.04
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,70,Khurja,GEN,Bulandshahr,235254,BJP,Vijendra Singh,119493,BSP,Arjun Singh,55194,64299,27.33
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,71,Khair,GEN,Aligarh,230467,BJP,Anoop,124198,BSP,Rakesh Kumar Maurya,53477,70721,30.69
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,72,Barauli,GEN,Aligarh,233480,BJP,Shri Dalveer Singh,125545,BSP,Thakur Jaivir Singh,86782,38763,16.6
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,73,Atrauli,GEN,Aligarh,230681,BJP,Sandeep Kumar Singh,115397,SP,Viresh Yadav,64430,50967,22.09
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,74,Chharra,GEN,Aligarh,227750,BJP,Ravendra Pal Singh,110738,SP,Thakur Rakesh Singh,54604,56134,24.65
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,75,Koil,GEN,Aligarh,227007,BJP,Anil Parashar,93814,SP,Shaz Ishaq Urf Ajju Ishaq,42851,50963,22.45
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,76,Aligarh,GEN,Aligarh,244739,BJP,Sanjeev Raja,113752,SP,Zafar Alam,98312,15440,6.31
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,77,Iglas,GEN,Aligarh,232499,BJP,Rajveer Diler,128000,BSP,Rajendra Kumar,53200,74800,32.17
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,78,Hathras,GEN,Hathras *,237298,BJP,Hari Shankar Mahor,133840,BSP,Braj Mohan Rahi,63179,70661,29.78
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,79,Sadabad,GEN,Hathras *,225480,BSP,Ramveer Upadhyay,91385,RLD,Dr Anil Chaudhary,64775,26610,11.8
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,80,Sikandra Rao,GEN,Hathras *,214818,BJP,Birendra Singh Rana,76129,BSP,Bani Singh Baghel,61357,14772,6.88
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,81,Chhata,GEN,Mathura,226098,BJP,Laxmi Narayan,117537,IND,Atul Singh,53699,63838,28.23
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,82,Mant,GEN,Mathura,209344,BSP,Shyam Sunder Sharma,65862,RLD,Yogesh Chaudhary,65430,432,0.21
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,83,Goverdhan,GEN,Mathura,205674,BJP,Karinda Singh,93538,BSP,Raj Kumar Rawat,60529,33009,16.05
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,84,Mathura,GEN,Mathura,251836,BJP,Shrikant Sharma,143361,INC,Pradeep Mathur,42200,101161,40.17
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,85,Baldev,GEN,Mathura,230169,BJP,Pooran Prakash,88411,RLD,Niranjan Singh Dhangar,75203,13208,5.74
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,86,Etmadpur,GEN,Agra,282128,BJP,Ram Pratap Singh,137381,BSP,Dr. Dharmpal Singh,90126,47255,16.75
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,87,Agra Cantt.,GEN,Agra,251631,BJP,Dr. Girraj Singh Dharmesh,113178,BSP,Gutiyari Lal Duwesh,66853,46325,18.41
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,88,Agra South,GEN,Agra,216472,BJP,Yogendra Upadhyaya,111882,BSP,Zulfiqar Ahmad Bhutto,57657,54225,25.05
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,89,Agra North,GEN,Agra,229503,BJP,Jagan Prasad Garg,135120,BSP,Er. Gyanendra Gautam,48800,86320,37.61
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,90,Agra Rural,GEN,Agra,248070,BJP,Hemlata Diwakar,129887,BSP,Kalicharan Suman,64591,65296,26.32
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,91,Fatehpur Sikri,GEN,Agra,227507,BJP,Chau. Udaybhan Singh,108586,BSP,Surajpal Singh,56249,52337,23.0
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,92,Kheragarh,GEN,Agra,197558,BJP,Mahesh Kumar Goyal,93510,BSP,Bhagwan Singh Kushwaha,61511,31999,16.2
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,93,Fatehabad,GEN,Agra,208323,BJP,Jitendra Verma,101960,SP,Rajendra Singh,67596,34364,16.5
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,94,Bah,GEN,Agra,190572,BJP,Rani Pakshalika Singh,80567,BSP,Madhusudan Sharma,57427,23140,12.14
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,95,Tundla,GEN,Firozabad,242210,BJP,Satya Pal Singh Baghel,118584,BSP,Rakesh Babu,62514,56070,23.15
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,96,Jasrana,GEN,Firozabad,228484,BJP,Ramgopal Pappu Lodhi,103426,SP,Shivpratap Singh,83098,20328,8.9
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,97,Firozabad,GEN,Firozabad,231254,BJP,Manish Asija,102654,SP,Azim Bhai,60927,41727,18.04
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,98,Shikohabad,GEN,Firozabad,213021,BJP,Mukesh Verma,87851,SP,Sanjay Kumar,77074,10777,5.06
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,99,Sirsaganj,GEN,Firozabad,201523,SP,Hariom Yadav,90281,BJP,Jaiveer Singh,79605,10676,5.3
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,100,Kasganj,GEN,Etah,218097,BJP,Devendra Singh Rajput,101908,SP,Hasrat Ullah Shervani,49878,52030,23.86
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,101,Amanpur,GEN,Etah,182536,BJP,Devendra Pratap,85199,SP,Virendra Singh Solanki,43395,41804,22.9
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,102,Patiyali,GEN,Etah,200943,BJP,Mamtesh,72414,SP,Kiran Yadav,68643,3771,1.88
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,103,Aliganj,GEN,Etah,215022,BJP,Satyapal Singh Rathaur,88695,SP,Rameshwar Singh Yadav,74844,13851,6.44
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,104,Etah,GEN,Etah,200372,BJP,Vipin Kumar David,82516,SP,Jugendra Singh Yadav,61387,21129,10.54
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,105,Marhara,GEN,Etah,189988,BJP,Virendra,92507,SP,Amit Gaurav,59075,33432,17.6
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,106,Jalesar,GEN,Etah,183452,BJP,Sanjeev Kumar Diwakar,81502,SP,Ranjeet Suman,61694,19808,10.8
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,107,Mainpuri,GEN,Mainpuri,195656,SP,Rajkumar Alias Raju Yadav,75787,BJP,Ashok Kumar,66956,8831,4.51
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,108,Bhongaon,GEN,Mainpuri,194196,BJP,Ram Naresh Agnihotri,92697,SP,Alok Kumar,72400,20297,10.45
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,109,Kishani,SC,Mainpuri,178445,SP,Brajesh Kumar,80475,BJP,Sunil Kumar,63946,16529,9.26
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,110,Karhal,GEN,Mainpuri,209254,SP,Sobaran Singh Yadav,104221,BJP,Rama Shakya,65816,38405,18.35
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,111,Gunnaur,GEN,Budaun,225092,BJP,Ajeet Kumar Urf Raju Yadav,107344,SP,Ram Khiladi Singh,95958,11386,5.06
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,112,Bisauli,GEN,Budaun,226653,BJP,Kushagra Sagar,100287,SP,Ashutosh Maurya Alias Raju,89599,10688,4.72
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,113,Sahaswan,GEN,Budaun,237898,SP,Omkar Singh,77543,BSP,Arshad Ali,73274,4269,1.79
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,114,Bilsi,GEN,Budaun,194100,BJP,Pt. Radha Krishan Sharma,82070,BSP,Musarrat Ali Bittan,55091,26979,13.9
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,115,Badaun,GEN,Budaun,210978,BJP,Mahesh Chandra Gupta,87314,SP,Abid Raza Khan,70847,16467,7.81
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,116,Shekhupur,GEN,Budaun,234010,BJP,Dharmendra Kumar Singh Shakya,93702,SP,Ashish Yadav,70316,23386,9.99
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,117,Dataganj,GEN,Budaun,222851,BJP,Rajeev Kumar Singh Urf Babbu Bhaiya,79110,BSP,Sinod Kumar Shakya (Deepu Bhaiya),53351,25759,11.56
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,118,Baheri,GEN,Bareilly,246306,BJP,Chhatra Pal Singh,108846,BSP,Naseem Ahmad,66009,42837,17.39
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,119,Meerganj,GEN,Bareilly,208527,BJP,Dr. D.C. Verma,108789,BSP,Sultan Beg,54289,54500,26.14
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,120,Bhojipura,GEN,Bareilly,236868,BJP,Bahoran Lal Maurya,100381,SP,Shazil Islam Ansari,72617,27764,11.72
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,121,Nawabganj,GEN,Bareilly,213479,BJP,Kesar Singh,93711,SP,Bhagwat Saran Gangwar,54569,39142,18.34
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,122,Faridpur,GEN,Bareilly,188378,BJP,Dr. Shyam Bihari Lal,83656,SP,Dr. Siya Ram Sagar,58935,24721,13.12
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,123,Bithari Chainpur,GEN,Bareilly,232311,BJP,Rajesh Kumar Mishra,96397,SP,Veer Pal Singh Yadav,76886,19511,8.4
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,124,Bareilly,GEN,Bareilly,222452,BJP,Dr. Arun Kumar,115010,INC,Prem Prakash Agarwal,86343,28667,12.89
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,125,Bareilly Cantt.,GEN,Bareilly,182369,BJP,Rajesh Agarwal,88441,INC,Mujahid Hassan Khan,75777,12664,6.94
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,126,Aonla,GEN,Bareilly,179915,BJP,Dharam Pal Singh,63165,SP,Sidhraj Singh,59619,3546,1.97
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,127,Pilibhit,GEN,Pilibhit,250001,BJP,Sanjay Singh Gangwar,136486,SP,Riaz Ahmad,93130,43356,17.34
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,128,Barkhera,GEN,Pilibhit,209571,BJP,Kishan Lal Rajpoot,104595,SP,Hemraj Verma,46665,57930,27.64
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,129,Puranpur,GEN,Pilibhit,244573,BJP,Babu Ram Paswan,128493,SP,Peetam Ram,89251,39242,16.05
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,130,Bisalpur,GEN,Pilibhit,220623,BJP,Agyash Ram Saran Verma,103498,INC,Anis Ahmad Khan Alias Phoolbabu,62502,40996,18.58
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,131,Katra,GEN,Shahjahanpur,191162,BJP,Veer Vikram Singh Prince,76509,SP,Rajesh Yadav,59779,16730,8.75
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,132,Jalalabad,GEN,Shahjahanpur,206718,SP,Sharadvir Singh,75326,BJP,Manoj Kashyap,66029,9297,4.5
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,133,Tilhar,GEN,Shahjahanpur,202566,BJP,Roshan Lal Verma,81770,INC,Kunwar Jitin Prasada,76065,5705,2.82
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,134,Powayan,GEN,Shahjahanpur,227140,BJP,Chetram,126635,SP,Shakuntla Devi,54218,72417,31.88
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,135,Shahjahanpur,GEN,Shahjahanpur,204874,BJP,Suresh Kumar Khanna,100734,SP,Tanveer Khan,81531,19203,9.37
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,136,Dadraul,GEN,Shahjahanpur,214180,BJP,Manvendra Singh,86435,SP,Rammurtee Singh Verma,69037,17398,8.12
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,137,Palia,GEN,Kheri,229003,BJP,Harvinder Kumar Sahani,118069,INC,Saif Ali Naqvi,48841,69228,30.23
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,138,Nighasan,GEN,Kheri,219484,BJP,Patel Ramkumar Verma,107487,SP,Krishna Gopal Patel,61364,46123,21.01
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,139,Gola Gokrannath,GEN,Kheri,247818,BJP,Arvind Giri,122497,SP,Vinay Tiwari,67480,55017,22.2
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,140,Sri Nagar,GEN,Kheri,219424,BJP,Manju Tyagi,112941,SP,Meera Bano,58002,54939,25.04
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,141,Dhaurahra,GEN,Kheri,217963,BJP,Awasthi Bala Prasad,79809,SP,Yeshpal Singh Chaudhari,76456,3353,1.54
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,142,Lakhimpur,GEN,Kheri,253188,BJP,Yogesh Verma,122677,SP,Utkarsh Verma Madhur,84929,37748,14.91
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,143,Kasta,GEN,Kheri,208009,BJP,Saurabh Singh,92824,SP,Sunil Kumar Lala,68551,24273,11.67
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,144,Mohammdi,GEN,Kheri,216346,BJP,Lokendra Pratap Singh,93000,INC,Sanjay Sharma,59082,33918,15.68
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,145,Maholi,GEN,Sitapur,239030,BJP,Shashank Trivedi,80938,SP,Anoop Kumar Gupta,77221,3717,1.56
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,146,Sitapur,GEN,Sitapur,232104,BJP,Rakesh Rathore,98850,SP,Radhey Shyam Jaiswal,74011,24839,10.7
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,147,Hargaon,GEN,Sitapur,219041,BJP,Suresh Rahi,101680,BSP,Ramhet Bharti,56685,44995,20.54
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,148,Laharpur,GEN,Sitapur,226694,BJP,Suneel Verma,79467,BSP,Mo. Jasmeer Ansari,70349,9118,4.02
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,149,Biswan,GEN,Sitapur,225974,BJP,Mahendra Singh,81907,SP,Afzaal Kausar,71672,10235,4.53
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,150,Sevata,GEN,Sitapur,208429,BJP,Gyan Tiwari,94697,BSP,Engineer Mohammad Nasim,51038,43659,20.95
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,151,Mahmoodabad,GEN,Sitapur,208764,SP,Narendra Singh Verma,81469,BJP,Asha Maurya,79563,1906,0.91
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,152,Sidhauli,GEN,Sitapur,230568,BSP,Hargovind Bhargava,78506,SP,Manish Rawat,75996,2510,1.09
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,153,Misrikh,GEN,Sitapur,217473,BJP,Ram Krishna Bhargava,86403,BSP,Manish Kumar Rawat,65731,20672,9.51
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,154,Sawaijpur,GEN,Hardoi,229682,BJP,Kunvar Madhvendra Pratap,92601,SP,Padamrag Singh Yadav,65631,26970,11.74
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,155,Shahabad,GEN,Hardoi,217095,BJP,Rajani Tiwari,99624,BSP,Asif Khan,95364,4260,1.96
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,156,Hardoi,GEN,Hardoi,228158,SP,Nitin Agarwal,97735,BJP,Raja Bux Singh,92626,5109,2.24
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,157,Gopamau,GEN,Hardoi,200780,BJP,Shyam Prakash,87871,SP,Rajeshwari,56493,31378,15.63
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,158,Sandi,GEN,Hardoi,183490,BJP,Prabhash Kumar,72044,INC,Omendra Kumar Verma,51819,20225,11.02
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,159,Bilgram-Mallanwan,GEN,Hardoi,219965,BJP,Ashish Kumar Singh Ashu,83405,SP,Subhash Pal,75380,8025,3.65
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,160,Balamau,GEN,Hardoi,185623,BJP,Ram Pal Verma,74917,BSP,Neelu Satyarthi,52029,22888,12.33
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,161,Sandila,GEN,Hardoi,197117,BJP,Raj Kumar Agrawal Urf Rajia,90362,SP,Abdul Mannan,69959,20403,10.35
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,162,Bangermau,GEN,Unnao,199547,BJP,Kuldeep Singh Sengar,87657,SP,Badaloo Khan,59330,28327,14.2
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,163,Safipur,GEN,Unnao,195405,BJP,Bamba Lal,84068,BSP,Ram Baran,56832,27236,13.94
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,164,Mohan,GEN,Unnao,200303,BJP,Brijesh Kumar,104884,BSP,Radhe Lal Rawat S/O Munnu,50789,54095,27.01
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,165,Unnao,GEN,Unnao,229614,BJP,Pankaj Gupta,119669,SP,Manisha Deepak,73597,46072,20.06
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,166,Bhagwantnagar,GEN,Unnao,230509,BJP,Hriday Narayan Dikshit,103698,BSP,Shashank Shekhar Singh,50332,53366,23.15
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,167,Purwa,GEN,Unnao,242214,BSP,Anil Singh,97567,BJP,Uttam Chandra Urf Rakesh Lodhi,71084,26483,10.93
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,168,Malihabad,GEN,Lucknow,226032,BJP,Jai Devi,94677,SP,Rajbala,72009,22668,10.03
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,169,Bakshi Kaa Talab,GEN,Lucknow,261891,BJP,Avinash Trivedi,96482,BSP,Nakul Dubey,78898,17584,6.71
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,170,Sarojini Nagar,GEN,Lucknow,288921,BJP,Swati Singh,108506,SP,Anurag Alias Anurag Yadav,74327,34179,11.83
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,171,Lucknow West,GEN,Lucknow,216744,BJP,Suresh Kumar Shrivastav,93022,SP,Mod Rehan,79950,13072,6.03
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,172,Lucknow North,GEN,Lucknow,224622,BJP,Dr.Neeraj Bora,109315,SP,Abhishek Mishr,82039,27276,12.14
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,173,Lucknow East,GEN,Lucknow,226186,BJP,"Ashutosh Tandan ""Gopal Ji""",135167,INC,Anurag Singh,55937,79230,35.03
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,174,Lucknow Central,GEN,Lucknow,193841,BJP,Brijesh Pathak,78400,SP,Ravidas Mehrotra,73306,5094,2.63
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,175,175-Lucknow Cantt.,GEN,Lucknow,185962,BJP,Dr. Reeta Joshi,95402,SP,Aparna Yadav,61606,33796,18.17
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,176,Mohanlalganj,GEN,Lucknow,219099,SP,Ambrish Singh Pushkar,71574,BSP,Ram Bahadur,71044,530,0.24
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,177,Bachhrawan,GEN,Rae Bareli,194244,BJP,Ram Naresh Rawat,65324,INC,Shahab Sharan,43015,22309,11.49
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,178,Tiloi,GEN,Rae Bareli,193179,BJP,Mayankeshwar Sharan Singh,96119,BSP,Mohd. Saood,52072,44047,22.8
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,179,Harchandpur,GEN,Rae Bareli,183113,INC,Rakesh Singh,65104,BJP,Kanchan Lodhi,61452,3652,1.99
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,180,Rae Bareli,GEN,Rae Bareli,202535,INC,Aditi Singh,128319,BSP,Mhd. Shahbaz Khan,39156,89163,44.02
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,181,Salon,GEN,Rae Bareli,189424,BJP,Dal Bahadur,78028,INC,Suresh Chaudhary,61973,16055,8.48
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,182,Sareni,GEN,Rae Bareli,200929,BJP,Dhirendra Bahadur Singh,65873,BSP,Thakur Prasad Yadav,52866,13007,6.47
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,183,Unchahar,GEN,Rae Bareli,204024,SP,Manoj Kumar Pandey,59103,BJP,Utkrist Maurya,57169,1934,0.95
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,184,Jagdishpur,GEN,Sultanpur,189055,BJP,Suresh Kumar,84219,INC,Radhey Shyam,67619,16600,8.78
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,185,Gauriganj,GEN,Sultanpur,199300,SP,Rakesh Pratap Singh,77915,INC,Mohammad Nayeem,51496,26419,13.26
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,186,Amethi,GEN,Sultanpur,186333,BJP,Garima Singh,64226,SP,Gaytri Prasad,59161,5065,2.72
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,187,Isauli,GEN,Sultanpur,189253,SP,Abrar Ahmad,51583,BJP,"Om Prakash Pandey ""Bajrangee""",47342,4241,2.24
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,188,Sultanpur,GEN,Sultanpur,203357,BJP,Surya Bhan Singh,86786,BSP,Mujeeb Ahmad,54393,32393,15.93
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,189,Sadar,GEN,Sultanpur,187314,BJP,Sitaram,68950,BSP,Raj Prasad Upadhayay,50177,18773,10.02
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,190,Lambhua,GEN,Sultanpur,199907,BJP,Deomani Dwivedi,78627,BSP,Vinod Singh,65724,12903,6.45
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,191,Kadipur,GEN,Sultanpur,206853,BJP,Rajesh Gautam,87353,BSP,Bhageluram,60749,26604,12.86
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,192,Kaimganj,GEN,Farrukhabad,231719,BJP,Amar Singh,116304,SP,Dr. Surabhi,79779,36525,15.76
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,193,Amritpur,GEN,Farrukhabad,173390,BJP,Sushil Kumar Shakya,93502,SP,Narendra Singh Yadav,52995,40507,23.36
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,194,Farrukhabad,GEN,Farrukhabad,207392,BJP,Mejor Sunil Dutt Dwivedi,93626,BSP,Mohd. Umar Khan,48199,45427,21.9
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,195,Bhojpur,GEN,Farrukhabad,187409,BJP,Nagendra Singh Rathore,93673,SP,Arshad Jamal Siddiqui,58796,34877,18.61
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,196,Chhibramau,GEN,Kannauj *,266698,BJP,Archana Pandey,112209,BSP,Tahir Hussain Siddiqui,74985,37224,13.96
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,197,Tirwa,GEN,Kannauj *,213147,BJP,Kailash Singh Rajput,100426,SP,Vijay Bahadur Pal,76217,24209,11.36
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,198,Kannauj,GEN,Kannauj *,246350,SP,Anil Kumar Dohare,99635,BJP,Banwari Lal Dohare,97181,2454,1.0
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,199,Jaswantnagar,GEN,Etawah,231730,SP,Shivpal Singh Yadav,126834,BJP,Manish Yadav Patre,74218,52616,22.71
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,200,Etawah,GEN,Etawah,219979,BJP,Sarita Bhadauriya,91234,SP,Kuldeep Gupta 'Santu',73892,17342,7.88
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,201,Bharthana,GEN,Etawah,228532,BJP,Savitri Katheria,82005,SP,Kamlesh Kumar Katheria,80037,1968,0.86
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,202,Bidhuna,GEN,Auraiya *,217106,BJP,Vinay Shakya,81905,SP,Dinesh Kumar Verma,77995,3910,1.8
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,203,Dibiyapur,GEN,Auraiya *,190924,BJP,Lakhan Singh,71480,SP,Pradeep Kumar Yadav,59386,12094,6.33
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,204,Auraiya,GEN,Auraiya *,183629,BJP,Ramesh Chandra,83580,BSP,Bhimrao Ambedkar,51718,31862,17.35
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,205,Rasulabad,GEN,Kanpur Dehat,187964,BJP,Nirmala Sankhwar,88390,SP,Arun Kumari Kori,54996,33394,17.77
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,206,Raniya,GEN,Kanpur Dehat,201881,BJP,Pratibha Shukla,87430,SP,Neeraj Singh,58701,28729,14.23
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,207,Sikandra,GEN,Kanpur Dehat,192311,BJP,Mathura Prasad Pal,87879,BSP,Mahendra Katiyar (Bablu),49776,38103,19.81
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,208,Bhognipur,GEN,Kanpur Dehat,211102,BJP,Vinod Kumar Katiyar,71466,BSP,Dharmpal Singh Bhadauria,52461,19005,9.0
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,209,Bilhaur,GEN,Kanpur Nagar,238719,BJP,Bhagwati Prasad Sagar,102326,BSP,Kamlesh Chandra Diwakar,71160,31166,13.06
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,210,Bithoor,GEN,Kanpur Nagar,228644,BJP,Abhijeet Singh Sanga,113289,SP,Munindra Shukla,54302,58987,25.8
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,211,Kalyanpur,GEN,Kanpur Nagar,176991,BJP,Nilima Katiyar,86620,SP,Satish Kumar Nigam,63278,23342,13.19
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,212,Govindnagar,GEN,Kanpur Nagar,184011,BJP,Satya Dev Pachauri,112029,INC,Ambuj Shikla,40520,71509,38.86
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,213,Sishamau,GEN,Kanpur Nagar,153170,SP,Hazi Irfan Solanki,73030,BJP,Suresh Awasthi,67204,5826,3.8
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,214,Arya Nagar,GEN,Kanpur Nagar,146784,SP,Amitabh Bajpai,70993,BJP,Salil Vishnoi,65270,5723,3.9
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,215,Kidwai Nagar,GEN,Kanpur Nagar,204017,BJP,Mahesh Chandra,111407,INC,Ajay Kapoor,77424,33983,16.66
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,216,Kanpur Cantt.,GEN,Kanpur Nagar,175319,INC,Sohil Akhtar Ansari,81169,BJP,Raghunandan Singh Bhadauria,71805,9364,5.34
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,217,Maharajpur,GEN,Kanpur Nagar,235372,BJP,Satish Mahana,132394,BSP,Manoj Kumar Shukla,40568,91826,39.01
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,218,Ghatampur,GEN,Kanpur Nagar,189059,BJP,Kamal Rani,92776,BSP,Saroj Kureel,47598,45178,23.9
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,219,Madhaugarh,GEN,Jalaun,249338,BJP,Moolchandra Singh,108737,BSP,Girish Kumar,62752,45985,18.44
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,220,Kalpi,GEN,Jalaun,226975,BJP,Ku. Narendra Pal Singh,105988,BSP,Chhote Singh,54504,51484,22.68
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,221,Orai,GEN,Jalaun,262973,BJP,Gauri Shankar,140485,SP,Mahendra Singh,61606,78879,30.0
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,222,Babina,GEN,Jhansi,228180,BJP,"Rajeev Singh ""Parichha""",96713,SP,Yashpal Singh Yadav,79876,16837,7.38
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,223,Jhansi Nagar,GEN,Jhansi,241193,BJP,Ravi Sharma,117873,BSP,Sita Ram Kushwaha,62095,55778,23.13
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,224,Mauranipur,GEN,Jhansi,265247,BJP,Biharilal Arya,98905,SP,Dr.Rashmi Arya,81934,16971,6.4
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,225,Garautha,GEN,Jhansi,226142,BJP,Jawahar Lal Rajpoot,93378,SP,Deep Narayan Singh (Deepak Yadav),77547,15831,7.0
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,226,Lalitpur,GEN,Lalitpur,312991,BJP,Ramratan Kushwaha,156942,SP,Jyoti Singh,88687,68255,21.81
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,227,Mehroni,GEN,Lalitpur,303661,BJP,Manohar Lal,159291,BSP,Feran Lal,59727,99564,32.79
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,228,Hamirpur,GEN,Hamirpur,249250,BJP,Ashok Kumar Singh Chandel,110888,SP,Dr. Manoj Kumar Prajapati,62233,48655,19.52
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,229,Rath,GEN,Hamirpur,237416,BJP,Manisha Anuragi,147526,INC,Gayadeen Anuragi,42883,104643,44.08
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,230,Mahoba,GEN,Mahoba *,193997,BJP,Rakesh Kumar Goswami,88291,SP,Siddh Gopal Sahu,56904,31387,16.18
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,231,Charkhari,GEN,Mahoba *,210930,BJP,Brijbhushan Rajpoot Alias Guddu Bhaiya,98360,SP,Urmila Devi,54346,44014,20.87
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,232,Tindwari,GEN,Banda,181948,BJP,Brajesh Kumar Prajapati,82197,BSP,Jagdish Prasad Prajapati,44790,37407,20.56
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,233,Baberu,GEN,Banda,190341,BJP,Chandrapal Kushwaha,76187,BSP,Kiran Yadav,53886,22301,11.72
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,234,Naraini,GEN,Banda,200346,BJP,Raj Karan Kabir,92412,INC,Bharat Lal Diwakar,47405,45007,22.46
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,235,Banda,GEN,Banda,181355,BJP,Prakash Dwivedi,83169,BSP,Madhusudan Kushwaha,50341,32828,18.1
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,236,Chitrakoot,GEN,Chitrakoot *,217670,BJP,Chandrika Prasad Upadhyay,90366,SP,Veer Singh,63430,26936,12.37
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,237,Manikpur,GEN,Chitrakoot *,189556,BJP,R.K. Singh Patel,84988,INC,Sampat Pal,40524,44464,23.46
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,238,Jahanabad,GEN,Fatehpur,179659,ADS,Jai Kumar Singh Jaiki,81438,SP,Madangopal Verma,33832,47606,26.5
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,239,Bindki,GEN,Fatehpur,181829,BJP,Karan Singh Patel,97996,SP,Rameshwar Dayal,41618,56378,31.01
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,240,Fatehpur,GEN,Fatehpur,192751,BJP,Vikram Singh,89481,SP,Chandra Prakash Lodhi,57983,31498,16.34
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,241,Ayah Shah,GEN,Fatehpur,149334,BJP,Vikas Gupta,81203,SP,Ayodhya Prasad,29238,51965,34.8
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,242,Husainganj,GEN,Fatehpur,172656,BJP,Ranvendra Pratap Singh Urf Dhunni Bhaiya,73595,INC,Usha Maurya,55002,18593,10.77
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,243,Khaga,GEN,Fatehpur,180770,BJP,Krishna Paswan,94954,INC,Om Prakash Gihar,38520,56434,31.22
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,244,Rampur Khas,GEN,Pratapgarh,166732,INC,Aradhana Mishra 'Mona',81463,BJP,Nagesh Pratap Singh Urf Chhote Sarkar,64397,17066,10.24
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,245,Babaganj,GEN,Pratapgarh,164589,IND,Vinod Kumar,87778,BJP,Pawan Kumar,50618,37160,22.58
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,246,Kunda,GEN,Pratapgarh,197046,IND,Raghuraj Pratap Singh,136597,BJP,Janki Sharan,32950,103647,52.6
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,247,Vishwanathganj,GEN,Pratapgarh,194672,ADS,Rakesh Kumar Verma Alias Dr.R.K.Verma,81899,INC,Sanjay Pandey,58541,23358,12.0
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,248,Pratapgarh,GEN,Pratapgarh,182988,ADS,Sangam Lal Gupta,80828,SP,"Nagendra Singh "" Munna Yadav""",46274,34554,18.88
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,249,Patti,GEN,Pratapgarh,205679,BJP,Rajendra Pratap Singh Alias Moti,75011,SP,Ram Singh,73538,1473,0.72
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,250,Raniganj,GEN,Pratapgarh,175931,BJP,Abhay Kumar Alias Dhiraj Ojha,67031,BSP,Shakeel Ahmad Khan,58022,9009,5.12
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,251,Sirathu,GEN,Kaushambi *,194380,BJP,Sheetla Prasad,78621,SP,Vachaspati,52418,26203,13.48
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,252,Manjhanpur,GEN,Kaushambi *,219684,BJP,Lal Bahadur,92818,BSP,Indrajeet Saroj,88658,4160,1.89
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,253,Chail,GEN,Kaushambi *,200352,BJP,Sanjay Kumar,85713,INC,Talat Azim,45597,40116,20.02
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,254,Phaphamau,GEN,Allahabad,202107,BJP,Vikramajeet,83239,SP,Ansar Ahamad,57254,25985,12.86
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,255,Soraon,GEN,Allahabad,209448,ADS,Jamuna Prasad,77814,BSP,Geeta Devi,60079,17735,8.47
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,256,Phulpur,GEN,Allahabad,222319,BJP,Praveen Kumar Singh,93912,SP,Mansoor Alam,67299,26613,11.97
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,257,Pratappur,GEN,Allahabad,204757,BSP,Mohd Mujtaba Siddqui,66805,ADS,Karan Singh,64151,2654,1.3
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,258,Handia,GEN,Allahabad,199709,BSP,Hakim Lal,72446,ADS,Pramila Devi,63920,8526,4.27
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,259,Meja,GEN,Allahabad,178725,BJP,Neelam Karwariya,67807,SP,Ram Sewak Singh,47964,19843,11.1
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,260,Karachhana,GEN,Allahabad,196134,SP,Ujjwal Raman Singh,80806,BJP,Piyush Ranjan,65782,15024,7.66
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,261,Allahabad West,GEN,Allahabad,197033,BJP,Sidharth Nath Singh,85518,SP,Richa Singh,60182,25336,12.86
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,262,Allahabad North,GEN,Allahabad,172218,BJP,Harshvardhan Bajpai,89191,INC,Anugrah Narain Singh,54166,35025,20.34
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,263,Allahabad South,GEN,Allahabad,176104,BJP,Nand Gopal Gupta Nandi,93011,SP,Parvez Ahmad,64424,28587,16.23
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,264,Bara,GEN,Allahabad,187647,BJP,Dr. Ajai Kumar,79209,SP,Ajay,45156,34053,18.15
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,265,Koraon,GEN,Allahabad,191883,BJP,Rajmani,100427,INC,Ram Kripal,46731,53696,27.98
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,266,Kursi,GEN,Barabanki,260437,BJP,Sakendra Pratap Verma,108403,SP,Fareed Mahfooz Kidwai,79724,28679,11.01
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,267,Ram Nagar,GEN,Barabanki,220631,BJP,Sharad Kumar Awasthi,88937,SP,Arvinda Kumar Singh 'Gope',66210,22727,10.3
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,268,Barabanki,GEN,Barabanki,243436,SP,Dharmraj Singh Yadav Urf Suresh Yadav,99453,BSP,Surendra Singh,69748,29705,12.2
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,269,Zaidpur,GEN,Barabanki,252854,BJP,Upendra Singh,111064,INC,Tanuj Punia,81883,29181,11.54
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,270,Dariyabad,GEN,Barabanki,250672,BJP,Satish Chandra Sharma,119173,SP,Rajeev Kumar Singh,68487,50686,20.22
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,271,Rudauli,GEN,Barabanki,207044,BJP,Ram Chandra Yadav,90311,SP,Abbas Ali Zaidi Urf Rushdi Miyan,59052,31259,15.1
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,272,Haidergarh,GEN,Barabanki,210074,BJP,Baijnath Rawat,97497,SP,Ram Magan,63977,33520,15.96
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,273,Milkipur,GEN,Faizabad,197139,BJP,Gorakh Nath,86960,SP,Awadhesh Prasad,58684,28276,14.34
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,274,Bikapur,GEN,Faizabad,220659,BJP,Shobha Singh Chauhan,94074,SP,Anand Sen,67422,26652,12.08
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,275,Ayodhya,GEN,Faizabad,215006,BJP,Ved Prakash Gupta,107014,SP,Tej Narayan Pandey Alias Pawan Pandey,56574,50440,23.46
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,276,Goshainganj,GEN,Faizabad,224461,BJP,Indra Pratap Alias Khabbu Tiwari,89586,SP,Abhay Singh,77966,11620,5.18
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,277,Katehari,GEN,Ambedkar Nagar *,232172,BSP,Lal Ji Verma,84358,BJP,Awdhesh Kumar Dwivedi,78071,6287,2.71
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,278,Tanda,GEN,Ambedkar Nagar *,204170,BJP,Sanju Devi,74768,SP,Azeemul Haq Pahalwan,73043,1725,0.84
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,279,Alapur,GEN,Ambedkar Nagar *,195853,BJP,Aneeta,72366,SP,Sangeeta,59853,12513,6.39
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,280,Jalalpur,GEN,Ambedkar Nagar *,239256,BSP,Ritesh Pandey,90309,BJP,Dr. Rajesh Singh,77279,13030,5.45
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,281,Akbarpur,GEN,Ambedkar Nagar *,202597,BSP,Ram Achal Rajbhar,72325,SP,Ram Murti Verma,58312,14013,6.92
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,282,Balha (S.C.),GEN,Bahraich,198440,BJP,Akshayvaralal,104135,BSP,Kiran Bharti,57519,46616,23.49
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,283,Nanpara,GEN,Bahraich,189919,BJP,Madhuri Verma,86312,INC,Waris Ali,67643,18669,9.83
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,284,Matera,GEN,Bahraich,198008,SP,Yasar Shah,79188,BJP,Arun Veer Singh,77593,1595,0.81
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,285,Mahasi,GEN,Bahraich,193936,BJP,Sureshwar Singh,104654,INC,Ali Akbar,45685,58969,30.41
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,286,Bahraich,GEN,Bahraich,210771,BJP,Anupma Jaiswal,87479,SP,Rubab Sayeda,80777,6702,3.18
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,287,Payagpur,GEN,Bahraich,203322,BJP,Subhash Tripathi,102254,SP,Mukesh Srivastava Alias Gyanendera Pratap,60713,41541,20.43
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,288,Kaiserganj,GEN,Bahraich,206245,BJP,Mukut Bihari,85212,BSP,Khalid Khan,57849,27363,13.27
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,289,Bhinga,GEN,Shrawasti *,220844,BSP,Mohammad Aslam,76040,BJP,Alekshendra Kant Singh,69950,6090,2.76
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,290,Shrawasti,GEN,Shrawasti *,237444,BJP,Ram Feran,79437,SP,Mohd. Ramzan,78992,445,0.19
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,291,Tulsipur,GEN,Balrampur *,195020,BJP,Kailash Nath Shukla,62296,INC,Zeba Rizwan,43637,18659,9.57
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,292,Gainsari,GEN,Balrampur *,194189,BJP,Shailesh Kumar Singh,55716,BSP,Alauddin,53413,2303,1.19
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,293,Utraula,GEN,Balrampur *,196549,BJP,Ram Pratap Alias Shashikant Verma,85240,SP,Arif Anwar Hashmi,56066,29174,14.84
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,294,Balrampur,GEN,Balrampur *,189893,BJP,Palturam,89401,INC,Shivlal,64541,24860,13.09
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,295,Mehnaun,GEN,Gonda,204952,BJP,Vinay Kumar,84304,BSP,Arshad Ali Khan,47926,36378,17.75
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,296,Gonda,GEN,Gonda,191961,BJP,Prateek Bhushan Singh,58254,BSP,Mo. Jaleel Khan,46576,11678,6.08
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,297,Katra Bazar,GEN,Gonda,218521,BJP,Bawan Singh,92095,SP,Baij Nath,61284,30811,14.1
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,298,Colonelganj,GEN,Gonda,179720,BJP,Ajay Pratap Singh,82867,SP,Yogesh Pratap Singh,54462,28405,15.81
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,299,Tarabganj,GEN,Gonda,199884,BJP,Prem Narayan Pandey,100294,SP,Vinod Kumar Alis Pandit Singh,61852,38442,19.23
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,300,Mankapur,GEN,Gonda,176752,BJP,Ramapati Shastri,102862,BSP,Ramesh Chandra,42701,60161,34.04
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,301,Gaura,GEN,Gonda,171945,BJP,Prabhat Kumar Verma,72455,SP,Ram Pratap Singh,42600,29855,17.36
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,302,Shohratgarh,GEN,Siddharthnagar,184114,ADS,Amar Singh Chaudhary,67653,BSP,Mohd. Jameel,45529,22124,12.02
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,303,Kapilvastu,GEN,Siddharthnagar,232506,BJP,Shyam Dhani,114082,SP,Vijay Kumar,75928,38154,16.41
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,304,Bansi,GEN,Siddharthnagar,182599,BJP,Jai Pratap Singh,77548,SP,Lal Ji,58606,18942,10.37
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,305,Itwa,GEN,Siddharthnagar,159188,BJP,Dr. Satish Chandra Dwivedi,59524,BSP,Arshad Khursheed,49316,10208,6.41
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,306,Doomariyaganj,GEN,Siddharthnagar,199984,BJP,Raghvendra Pratap Singh,67227,BSP,Saiyada Khatoon,67056,171,0.09
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,307,Harraiya,GEN,Basti,212358,BJP,Ajay Kumar Singh ''Ajay Singh'',97014,SP,Rajkishor Singh,66908,30106,14.18
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,308,Kaptanganj,GEN,Basti,199226,BJP,Chandra Prakash Alias Ca Chandra Prakash Shukl,70527,BSP,Ram Prasad Chaudhary,63700,6827,3.43
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,309,Rudhauli,GEN,Basti,219956,BJP,Sanjay Pratap Jaiswal,90228,BSP,Rajendra Prasad Chaudhary,68423,21805,9.91
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,310,Basti Sadar,GEN,Basti,205416,BJP,Dayaram Chaudhary,92697,SP,Mahendra Nath Yadav,50103,42594,20.74
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,311,Mahadewa S.C,GEN,Basti,197086,BJP,Ravi Kumar Sonkar,82429,BSP,Doodhram,56545,25884,13.13
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,312,Menhdawal,GEN,Sant Kabir Nagar *,222157,BJP,Rakesh Singh Baghel,86976,BSP,Anil Kumar Tripathi,44062,42914,19.32
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,313,Khalilabad,GEN,Sant Kabir Nagar *,223173,BJP,Digvijay Narayan Alis Jay Chaubey,72061,BSP,Mashhoor Alam Choudhary,56024,16037,7.19
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,314,Dhanghata,GEN,Sant Kabir Nagar *,198404,BJP,Shri Ram Chauhan,79572,SP,Algoo Prasad,62663,16909,8.52
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,315,Pharenda,GEN,Maharajganj,196953,BJP,Bajrang Bahadur Singh,76312,INC,Virendra Chaudhary,73958,2354,1.2
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,316,Nautanwa,GEN,Maharajganj,211437,IND,Aman Mani Tripathi,79666,SP,Kunwar Kaushal Kishore Singh (Munna Singh),47410,32256,15.26
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,317,Siswa,GEN,Maharajganj,236865,BJP,Premsagar Patel,122884,SP,Shivendra Singh Alias Shivbabu,54698,68186,28.79
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,318,Maharajganj,GEN,Maharajganj,244643,BJP,Jaimangal,125154,BSP,Nirmesh Mangal,56793,68361,27.94
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,319,Paniyara,GEN,Maharajganj,241762,BJP,Gyanendra,119308,BSP,Ganesh Shanker Pandey,51817,67491,27.92
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,320,Caimpiyarganj,GEN,Gorakhpur,214904,BJP,Fateh Bahadur,91636,INC,Chinta Yadav,58782,32854,15.29
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,321,Pipraich,GEN,Gorakhpur,244445,BJP,Mahendra Pal Singh,82739,BSP,Afatab Alam Urf Guddu Bhaiya,69930,12809,5.24
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,322,Gorakhpur Urban,GEN,Gorakhpur,217701,BJP,Dr. Radha Mohan Das Agrawal,122221,INC,Rana Rahul Singh,61491,60730,27.9
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,323,Gorakhpur Rural,GEN,Gorakhpur,234329,BJP,Bipin Singh,83686,SP,Vijay Bahadur Yadav,79276,4410,1.88
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,324,Sahajanwa,GEN,Gorakhpur,207660,BJP,Sheetal Pandey,72213,SP,Yaspal Singh Rawat,56836,15377,7.4
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,325,Khajani,GEN,Gorakhpur,185713,BJP,Sant Prasad,71492,BSP,Rajkumar,51413,20079,10.81
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,326,Chauri-Chaura,GEN,Gorakhpur,192315,BJP,Sangeeta Yadav,87863,SP,Manurojan Yadav,42203,45660,23.74
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,327,Bansgaon,GEN,Gorakhpur,176675,BJP,Vimlesh Paswan,71966,BSP,Dharmendra Kumar,49093,22873,12.95
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,328,Chillupar,GEN,Gorakhpur,217805,BSP,Vinay Shankar Tiwari,78177,BJP,Rajesh Tripathi,74818,3359,1.54
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,329,Khadda,GEN,Kushinagar *,193188,BJP,Jatashanker Tripathi,82537,BSP,Vijay Pratap Kushwaha,44040,38497,19.93
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,330,Padrauna,GEN,Kushinagar *,209084,BJP,Swami Prasad Maurya,93649,BSP,Javed Iqbal,53097,40552,19.4
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,331,Tamkuhi Raj,GEN,Kushinagar *,211983,INC,Ajay Kumar Lallu,61211,BJP,Jagadish Mishra Alias Balti Baba,43097,18114,8.55
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,332,Fazilnagar,GEN,Kushinagar *,211598,BJP,Ganga,102778,SP,Vishwnath,60856,41922,19.81
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,333,Kushinagar,GEN,Kushinagar *,201341,BJP,Rajnikant Mani Tripathi,97132,BSP,Rajesh Pratap Rav Alias Banti Bhaiya,49029,48103,23.89
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,334,Hata,GEN,Kushinagar *,205859,BJP,Pawan Kumar,103864,SP,Radheshyam Singh,50788,53076,25.78
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,335,Ramkola,GEN,Kushinagar *,193259,SBSP,Ramanand Baudh,102782,SP,Purnmasi Dehati,47053,55729,28.84
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,336,Rudrapur,GEN,Deoria,161339,BJP,Jai Prakash Nishad,77754,INC,Akhilesh Pratap Singh,50965,26789,16.6
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,337,Deoria,GEN,Deoria,181432,BJP,Janmejai Singh,88030,SP,J.P. Jaiswal,41794,46236,25.48
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,338,Pathardeva,GEN,Deoria,189401,BJP,Surya Pratap Shahi,99812,SP,Shakir Ali,56815,42997,22.7
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,339,Rampur Karkhana,GEN,Deoria,190345,BJP,Kamlesh Shukla,62886,SP,Fasiha Manzer Ghazala Lari,52899,9987,5.25
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,340,Bhatpar Rani,GEN,Deoria,179426,SP,Ashutosh,61862,BJP,Jaynath Kushwaha Urf Guddan,50765,11097,6.18
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,341,Salempur,GEN,Deoria,160470,BJP,Kali Prasad,76175,SP,Vijay Laxmi Gautam,50521,25654,15.99
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,342,Barhaj,GEN,Deoria,166142,BJP,Suresh Tiwari,61996,BSP,Murli Manohar Jaiswal,50280,11716,7.05
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,343,Atrauliya,GEN,Azamgarh,209230,SP,Dr.Sangram Yadav,74276,BJP,Kanhaiya Lal Nishad,71809,2467,1.18
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,344,Gopalpur,GEN,Azamgarh,187394,SP,Nafees Ahmad,70980,BJP,Shrikrishna Pal,56020,14960,7.98
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,345,Sagri,GEN,Azamgarh,178161,BSP,Bandana Singh,62203,SP,Jairam Patel,56728,5475,3.07
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,346,Mubarakpur,GEN,Azamgarh,191363,BSP,Shah Alam Urf Guddu Jamali,70705,SP,Akhilesh Yadav,70017,688,0.36
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,347,Azamgarh,GEN,Azamgarh,211814,SP,Durga Prasad,88087,BJP,Akhilesh,61825,26262,12.4
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,348,Nizamabad,GEN,Azamgarh,166232,SP,Alambadi,67274,BSP,Chandra Dev Ram,48745,18529,11.15
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,349,Phoolpur Pawai,GEN,Azamgarh,176846,BJP,Arun Kumar Yadav,68435,BSP,Abul Qais Azmi,61140,7295,4.13
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,350,Didarganj,GEN,Azamgarh,185399,BSP,Sukhdev Rajbhar,62125,SP,Adil Shaikh,58480,3645,1.97
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,351,Lalganj,GEN,Azamgarh,201523,BSP,Azad Ari Mardan,72715,BJP,Daroga Prasad Saroj,70488,2227,1.11
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,352,Mehnagar,GEN,Azamgarh,198720,SP,Kalpnath Paswan,69037,SBSP,Manjoo Saroj,63625,5412,2.72
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,353,Madhuban,GEN,Mau,213195,BJP,Dara Singh Chauhan,86238,INC,Amresh Chand,56823,29415,13.8
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,354,Ghosi,GEN,Mau,240049,BJP,Fagu Chauhan,88298,BSP,Abbas Ansari,81295,7003,2.92
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,355,Muhammadabad- Gohna,SC,Mau,209840,BJP,Shriram Sonkar,73493,BSP,Rajendra Kumar,72955,538,0.26
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,356,Mau,GEN,Mau,264290,BSP,Mukhtar Anshari,96793,SBSP,Mahendra Rajbhar,88095,8698,3.29
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,357,Belthara Road,GEN,Ballia,188573,BJP,Dhananjay Kannoujia,77504,SP,Gorakh Paswan,59185,18319,9.71
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,358,Rasara,GEN,Ballia,191593,BSP,Uma Shanker Singh,92272,BJP,Ram Iqball Singh,58385,33887,17.69
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,359,Sikanderpur,GEN,Ballia,163493,BJP,Sanjay Yadav,69536,SP,Ziauddin Rizwi,45988,23548,14.4
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,360,Phephana,GEN,Ballia,177174,BJP,Upendra Tiwari,70588,BSP,Ambika Choudhary,52691,17897,10.1
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,361,Ballia Nagar,GEN,Ballia,184226,BJP,Anand,92889,SP,Laxman,52878,40011,21.72
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,362,Bansdih,GEN,Ballia,209015,SP,Ram Govind Chaudheri,51201,IND,Ketakee Singh,49514,1687,0.81
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,363,Bairia,GEN,Ballia,161338,BJP,Surendra,64868,SP,Jay Prakash Anchal,47791,17077,10.58
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,364,Badlapur,GEN,Jaunpur,188978,BJP,Ramesh Chandra Mishra,60237,BSP,Lalji Yadava,57865,2372,1.26
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,365,Shahganj,GEN,Jaunpur,212770,SP,Shailendra Yadav Lalai,67818,SBSP,Rana Ajeet Pratap Singh,58656,9162,4.31
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,366,Jaunpur,GEN,Jaunpur,223638,BJP,Girish Chandra Yadav,90324,INC,Nadeem Javed,78040,12284,5.49
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,367,Malhani,GEN,Jaunpur,205958,SP,Parasnath Yadav,69351,NISHAD,Dhananjay Singh,48141,21210,10.3
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,368,Mungra Badshahpur,GEN,Jaunpur,202092,BSP,Sushma Patel,69557,BJP,Seema Dwivedi,63637,5920,2.93
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,369,Machhlishahr S.C.,GEN,Jaunpur,206179,SP,Jagdish Sonkar,72368,BJP,Anita Rawat,68189,4179,2.03
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,370,Mariyahu,GEN,Jaunpur,178517,ADS,Leena Tiwari,58804,SP,Shraddha Yadav,47454,11350,6.36
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,371,Zafrabad,GEN,Jaunpur,205253,BJP,Dr Harendra Prasad Singh,85989,SP,Shachindra Nath Tripathi,61124,24865,12.11
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,372,Kerakat S.C.,GEN,Jaunpur,224585,BJP,Dinesh Chaudhary,84078,SP,Sanjai Kumar Saroj,68819,15259,6.79
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,373,Jakhanian,GEN,Ghazipur,238697,SBSP,Triveni Ram,84158,SP,Gareeb,79001,5157,2.16
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,374,Saidpur,GEN,Ghazipur,211401,SP,Subhash Passi,76664,BJP,Vidyasagar Sonkar,67954,8710,4.12
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,375,Ghazipur,GEN,Ghazipur,212079,BJP,Sangeeta,92090,SP,Rajesh Kushwaha,59483,32607,15.37
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,376,Jangipur,GEN,Ghazipur,213513,SP,Virendra Kumar Yadav,71441,BJP,Ram Naresh Kushwaha,68202,3239,1.52
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,377,Zahoorabad,GEN,Ghazipur,229020,SBSP,Om Prakash Rajbhar,86583,BSP,Kalicharan,68502,18081,7.89
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,378,Mohammadabad,GEN,Ghazipur,227861,BJP,Alka Rai,122156,BSP,Sibgatulla Ansari,89429,32727,14.36
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,379,Zamania,GEN,Ghazipur,215373,BJP,Sunita,76823,BSP,Atul Kumar,67559,9264,4.3
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,380,Mughalsarai,GEN,Chandauli *,230667,BJP,Sadhana Singh,87401,SP,Babulal,74158,13243,5.74
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,381,Sakaldiha,GEN,Chandauli *,200605,SP,Prabhunarayan Yadav,79875,BJP,Suryamuni Tiwari,64906,14969,7.46
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,382,Saiyadraja,GEN,Chandauli *,196261,BJP,Sushil Singh,78869,BSP,Shyam Narayan Singh,64375,14494,7.39
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,383,Chakia,GEN,Chandauli *,231425,BJP,Sharada Prasad,96890,BSP,Jitendra Kumar,76827,20063,8.67
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,384,Pindra,GEN,Varanasi,200434,BJP,Avadhesh Singh,90614,BSP,Babulal,53765,36849,18.38
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,385,Ajagara,GEN,Varanasi,217508,SBSP,Kailash Nath Sonkar,83778,SP,Lalji Sonkar,62429,21349,9.82
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,386,Shivpur,GEN,Varanasi,226292,BJP,Anil Rajbhar,110453,SP,"Anand Mohan ""Guddu Yadav""",56194,54259,23.98
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,387,Rohaniya,GEN,Varanasi,231592,BJP,Surendra Narayan Singh,119885,SP,Mahendra Singh Patel,62332,57553,24.85
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,388,Varanasi North,GEN,Varanasi,226036,BJP,Ravindra Jaiswal,116017,INC,Abdul Samad Ansari,70515,45502,20.13
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,389,Varanasi South,GEN,Varanasi,178380,BJP,Dr. Neelkanth Tiwari,92560,INC,Rajesh Mishra,75334,17226,9.66
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,390,Varanasi Cantt.,GEN,Varanasi,226842,BJP,Saurabh Srivastava,132609,INC,Anil Srivastava,71283,61326,27.03
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,391,Sevapuri,GEN,Varanasi,204385,ADS,"Neel Ratan Singh Patel ""Neelu""",103423,SP,Surendra Singh Patel,54241,49182,24.06
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,392,Bhadohi,GEN,Sant Ravidas Nagar *,238378,BJP,Ravindra Nath Tripathi,79519,SP,Zahid Beg,78414,1105,0.46
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,393,Gyanpur,GEN,Sant Ravidas Nagar *,207866,NISHAD,Vijay Mishra,66448,BJP,Mahendra Kumar Bind,46218,20230,9.73
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,394,Aurai,GEN,Sant Ravidas Nagar *,203546,BJP,Dinanath Bhaskar,83325,SP,Madhubala Pasi,63546,19779,9.72
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,395,Chhanbey,GEN,Mirzapur,211401,ADS,Rahul Prakash,107007,BSP,Dhaneshwar,43539,63468,30.02
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,396,Mirzapur,GEN,Mirzapur,223907,BJP,Ratnakar Mishr,109196,SP,Kailash Chaurasiya,51784,57412,25.64
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,397,Majhawan,GEN,Mirzapur,236996,BJP,Shuchismita Maurya,107839,BSP,Ramesh Chand Bind,66680,41159,17.37
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,398,Chunar,GEN,Mirzapur,213574,BJP,Anurag Singh,105608,SP,Jagtamba Singh Patel,43380,62228,29.14
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,399,Marihan,GEN,Mirzapur,235686,BJP,Rama Shankar Singh,106517,INC,Lalitesh Pati Tripathi,59919,46598,19.77
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,400,Ghorawal,GEN,Sonbhadra,233805,BJP,Anil Kumar Maurya,114305,SP,Ramesh Chandra Dubey,56656,57649,24.66
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,401,Robertsganj,GEN,Sonbhadra,202275,BJP,Bhupesh Chaubey,89932,SP,Avinash Kushvaha,49394,40538,20.04
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,402,Obra,GEN,Sonbhadra,158538,BJP,Sanjiv Kumar,78058,SP,Ravi Gond,33789,44269,27.92
+ae-uttar-pradesh-2017,AE,Uttar Pradesh,2017,2017,official,403,Duddhi,GEN,Sonbhadra,188078,ADS,Har Iram,64399,BSP,Vijay Singh Gond,63314,1085,0.58

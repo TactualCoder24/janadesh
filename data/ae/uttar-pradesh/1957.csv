@@ -1,0 +1,338 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,1,Pithoragarh,SC,,24026,INC,Narendra Singh,14984,PSP,Khushi Ram,9042,5942,24.73
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,2,Almora,GEN,,29796,BJS,Govind Singh,13930,INC,Govardhan,12918,1012,3.4
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,3,Danpur,GEN,,15025,INC,Mohan Singh,9043,PSP,Jagannath,5982,3061,20.37
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,4,Ranikhet North,GEN,,21471,INC,Hari Datt,11650,PSP,Madan Mohan,8619,3031,14.12
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,5,Ranikhet South,GEN,,26979,INC,Jang Bahadur,10158,PSP,Govind Singh,7606,2552,9.46
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,6,Badrinath,GEN,,22911,IND,Ghansyam,16365,INC,Shridhar Azad,6546,9819,42.86
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,7,Kedarnath,GEN,,23983,INC,Narendra Singh,13083,IND,Gangadhar,10900,2183,9.1
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,8,Pauri,GEN,,16320,INC,Chandar Singh,11020,IND,Shridharanand,5300,5720,35.05
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,9,Lansdowne,GEN,,25817,INC,Ram Prasad,12824,IND,Padma Datt,10854,1970,7.63
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,10,Ganga Salan,GEN,,24848,INC,Jagmohan Singh,11818,IND,Pratap Singh,8051,3767,15.16
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,14,Mussoorie,GEN,,43476,IND,Gulab Singh,21074,INC,Surat Singh,17537,3537,8.14
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,15,Dehradun,GEN,,31098,INC,Brij Bhushan Saran,13793,IND,Durga Prasad,9218,4575,14.71
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,16,Hardwar,GEN,,38537,INC,Shanti Prapanna Sharma,21491,IND,Sumer Chand,7093,14398,37.36
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,17,Jwalapur,GEN,,48906,INC,Said Ahmed,30576,BJS,Nathu Ram,14353,16223,33.17
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,18,Roorkee,GEN,,42880,INC,Din Dayal Shastri,24326,IND,Baru Mal,12093,12233,28.53
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,19,Deoband,SC,,156897,IND,Yashpal Singh,57185,INC,Thakur Phool Singh,41104,16081,10.25
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,20,Saharanpur,GEN,,46964,INC,Manzurul Nabi,17278,IND,Brahma Datt Mayor,11462,5816,12.38
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,21,Muzaffarabad,GEN,,41131,INC,Mahmud Ali Khan,19034,IND,Jugul Kishore,8239,10795,26.25
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,22,Harora,SC,,126103,INC,Jai Gopal,27808,IND,Shakuntala Devi,22399,5409,4.29
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,23,Nakur,GEN,,53316,INC,Ch. Data Ram,24518,IND,Qazi Masood,17473,7045,13.21
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,24,Bhawan,GEN,,51191,PSP,Ghayur Ali Khan,25933,INC,Keshav Gupta,25258,675,1.32
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,25,Kairana,GEN,,68388,INC,Virendra Verma,24174,PSP,Sultan Singh,22733,1441,2.11
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,26,Muzaffar Nagar,GEN,,38430,INC,Dwarka Prasad,25251,PSP,Prem Sukh,8354,16897,43.97
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,27,Jansath,SC,,87985,INC,Ram Das,38816,IND,Ahmed Bakhsh,27443,11373,12.93
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,28,Shikarpur,SC,,91545,INC,Badam Singh,38771,IND,Rajendra Datt,17386,21385,23.36
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,29,Budhana,GEN,,61150,IND,Kunwar Asghar Ali,32725,INC,Shri Chand,28425,4300,7.03
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,30,Sardhana,SC,,127429,INC,Faten Singh Rana,51992,IND,Ramji Lal Sahayak,40212,11780,9.24
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,31,Kotana,GEN,,53526,INC,Ch. Charan Singh,27075,IND,Vijaipal Singh,26451,624,1.17
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,32,Baraut,GEN,,48405,IND,Acharya Dipankar,21107,INC,Harkhayal Singh,18490,2617,5.41
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,33,Baghpat,GEN,,39931,INC,Raghubir Singh,22145,CPI,Bharat Singh,10110,12035,30.14
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,34,Ghaziabad,GEN,,48131,INC,Teja Singh,17505,BJS,P. Chandra,9614,7891,16.39
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,35,Dasna,GEN,,53606,INC,Kr. Mahmood Ali Khan,26845,IND,Baljit Singh,26761,84,0.16
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,36,Modi Nagar,GEN,,49054,INC,Cichitra Narayan Sharma,34733,PSP,Hukam Singh,10689,24044,49.02
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,37,Hapur,SC,,120436,INC,Lutf Ali Khan,59737,IND,Veer Sen,31326,28411,23.59
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,38,Hastinapur,GEN,,49303,INC,Bishember Singh,25245,CPI,Pitam Singh,10365,14880,30.18
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,39,Meerut Cantonment,GEN,,46221,INC,Prakashwati Sud,24360,CPI,Shanti Swaroop,12976,11384,24.63
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,40,Kithore,SC,,110653,INC,Shradha Devi,64142,IND,Hari Singh,20721,43421,39.24
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,41,Meerut City,GEN,,52915,INC,Kailash Prakash,27059,IND,Aizaz Husain,18604,8455,15.98
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,42,Dadri,GEN,,43761,INC,Satyawati,19144,IND,Mahraj Singh,10394,8750,19.99
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,43,Sikandrabad,GEN,,48465,INC,Ram Chander Vikal,27427,PSP,Ali Hadi,8387,19040,39.29
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,44,Bulandshahr,GEN,,55188,PSP,Raghuraj Singh,32870,INC,Banarasi Dass,19105,13765,24.94
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,45,Khurja,SC,,113428,IND,Chattar Singh,30839,INC,Kewal Singh,30228,611,0.54
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,46,Debai,GEN,,56942,BJS,Himmat Singh,20413,INC,Chunni Lal,16755,3658,6.42
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,47,Anupshahr,GEN,,103233,INC,Din Dayal,37236,PSP,Dharam Singh,31347,5889,5.7
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,48,Siana,SC,,53903,INC,Irtaza Husain,20046,PSP,Har Pal,17207,2839,5.27
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,49,Agota,GEN,,50115,PSP,Jagbir Singh,21797,INC,Mohan Singh,21432,365,0.73
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,50,Nazibabad,GEN,,54930,INC,Hafiz Mohd. Ibrahim,32321,BJS,Naipal Singh,19312,13009,23.68
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,51,Afzalgarh,GEN,,50817,IND,Allah Bux,17178,INC,Ratan Lal,10795,6383,12.56
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,52,Bijnor,GEN,,41052,INC,Chandrawati,21771,CPI,Chandan Singh,19281,2490,6.07
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,53,Chandpur,GEN,,56124,IND,Nardeo Singh,20624,INC,Shive Kumar,20262,362,0.65
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,54,Nagina,GEN,,52618,INC,Govind Sahai,27266,BJS,Thamman Singh,15056,12210,23.2
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,55,Dhampur,SC,,97950,INC,Girdhari Lal,41106,BJS,Khub Singh,24873,16233,16.57
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,56,Hasanpur,SC,,76748,INC,Jagdish Prasad,26193,IND,Sukhan Lal,22550,3643,4.75
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,57,Bahjoi,GEN,,30711,PSP,Badhi Singh,14896,INC,Jagdish Saran Rastogi,13606,1290,4.2
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,58,Sambhal,GEN,,49830,IND,Mahmood Husain Khan,22351,INC,Zarif Husain,14570,7781,15.62
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,59,Amroha,GEN,,47480,IND,Ram Kumar,20843,INC,Latafat Husain,18538,2305,4.85
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,61,Thakurdwara,GEN,,44777,INC,Kishan Singh,22932,PSP,Harvansh Singh,11304,11628,25.97
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,62,Moradabad City,GEN,,49884,IND,Halimuddin,23212,INC,Wali Ahmad Khan,12862,10350,20.75
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,63,Moradabad Rural,GEN,,38608,IND,Khamani Singh,13467,INC,Dau Dayal Khanna,13271,196,0.51
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,64,Bilari,SC,,90168,INC,Jagdish Narain,22468,IND,Mahi Lal,17308,5160,5.72
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,65,Rampur,GEN,,32953,IND,Aslam Khan,17241,INC,Fazal Haq Khan,12415,4826,14.65
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,66,Shahabad,SC,,80926,INC,Kalyan Rai,39293,PSP,Baldeo Singh Arya,27362,11931,14.74
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,67,Suar Tanda,GEN,,46797,INC,Mahmood Ali Khan,24564,IND,Akhtar Ali Khan,16876,7688,16.43
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,68,Baheri,GEN,,42383,INC,Ram Murti,18843,PSP,Cheda Lal,16781,2062,4.87
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,69,Sirauli,GEN,,38192,INC,Vaidya Dharam Datt,18936,PSP,Bhawan Sahai,13683,5253,13.75
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,70,Aonla,GEN,,35874,INC,Nawal Kishore,17834,PSP,Brij Mohan Lal,14389,3445,9.6
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,71,Faridpur,SC,,66182,INC,Nathu Singh,20583,IND,Sunder Lal,16046,4537,6.86
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,72,Bareilly City,GEN,,43325,INC,Jagdish Saran Agarwal,18560,BJS,Ram Ballabh,11120,7440,17.17
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,73,Bareilly Cantt,GEN,,30319,INC,Mohd.Husain,12646,PSP,Krishna Murai Lal Asar,9106,3540,11.68
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,74,Bhojipura,GEN,,32109,INC,Baboo Ram,14659,PSP,Jai Dev,13200,1459,4.54
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,75,Nawabganj,GEN,,36431,PSP,Sheo Raj Bahadur,15192,INC,Naurang Lal,14382,810,2.22
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,76,Naini Tal,GEN,,36111,PSP,Narain Datt Tewari,15730,INC,Shyam Lal Varma,14176,1554,4.3
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,77,Kashipur,GEN,,49378,INC,Lakshman Datt,22843,PSP,Ram Datt,14311,8532,17.28
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,78,Tanakpur,GEN,,23597,PSP,Pratap Singh,9948,INC,Maqsood Alam Khan,9435,513,2.17
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,79,Pilibhit,GEN,,35411,INC,Niranjan Singh,9664,BJS,Ram Kirshna Sahu,6865,2799,7.9
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,80,Bisalpur,SC,,74970,PSP,Munendrapal Singh,28724,INC,Behari Lal,17246,11478,15.31
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,81,Powayan,SC,,105194,IND,Rajkumar Surendra Singh,45365,INC,Rama Dhar,15636,29729,28.26
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,82,Shahjahanpur,GEN,,42749,IND,Ashfaq Ali,11021,INC,Darshan Singh,5927,5094,11.92
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,83,Jamaur,GEN,,42898,IND,Dev Narain Bharti,8160,INC,Ram Bilas Singh,5547,2613,6.09
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,84,Tilhar,GEN,,35285,IND,Balak Ram,9914,INC,Damodar Dass,8276,1638,4.64
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,85,Khera Bajehra,GEN,,35848,IND,Room Singh,10117,INC,Surendra Vikram Singh,9922,195,0.54
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,86,Jalalabad,GEN,,36644,IND,Har Chandra Singh,10772,INC,Bhagwan Saran,9039,1733,4.73
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,87,Dataganj,GEN,,40533,INC,Harish Chandra Singh,19217,BJS,Onkar Singh,15587,3630,8.96
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,88,Usechat,GEN,,42537,IND,Moharik Ali Khan,9382,BJS,Nirottam Singh,7791,1591,3.74
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,89,Budaun,GEN,,45608,IND,Tika Ram,22286,INC,Asrar Ahmad,20833,1453,3.19
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,90,Ujhani,GEN,,32259,INC,Sri Krishan Goyal,24779,CPI,Nirottam Singh,4989,19790,61.35
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,91,Sahaswan,GEN,,38218,IND,Ulfat Singh,9885,INC,Mushtaq Ali,9304,581,1.52
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,92,Bisauli,SC,,78462,INC,Shiv Raj Singh,31704,PSP,Kesho Ram,23233,8471,10.8
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,93,Islamnagar,GEN,,35349,INC,Kailash Kumar Singh,12682,PSP,Suraj Pal Singh,11002,1680,4.75
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,94,Gunnaur,GEN,,32595,PSP,Jamuna Singh,14361,INC,Karan Singh,11007,3354,10.29
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,95,Tappal,GEN,,44978,INC,Deo Datta,24080,IND,Mahabir Singh,10730,13350,29.68
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,96,Aligarh,GEN,,41231,INC,Anant Ram Varma,20655,IND,L. N. Mathur,7270,13385,32.46
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,97,Koil,SC,,123836,INC,Mohan Lal Gautam,36472,IND,Ram Prasad Deshmukh,32820,3652,2.95
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,98,Atraulia,GEN,,54336,INC,Nek Ram Sharma,30168,IND,Babu Singh,24168,6000,11.04
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,99,Gangiri,GEN,,51228,INC,Sri Niwas,29918,IND,Shyam Sunde,13774,16144,31.51
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,100,Sikandara Rao,GEN,,49408,INC,Malkhan Singh,18707,BJS,Omkar,13450,5257,10.64
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,101,Hathras,SC,,118094,INC,Nand Kumar Deo Vashishtha,37072,IND,Har Dayal Singh,26896,10176,8.62
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,102,Iglas,GEN,,49361,IND,Kishori Raman Singh,19856,INC,Lakshmi Singh,12362,7494,15.18
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,103,Mathura,GEN,,47416,INC,Sri Nath,25923,BJS,Lakshman Prasad,17008,8915,18.8
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,104,Govardhan,GEN,,53318,INC,Jugal Kishore,21218,PSP,Kishun Lal,12715,8503,15.95
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,105,Chhata,GEN,,56508,INC,Ramhet Singh,23151,IND,Tikam Singh,17581,5570,9.86
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,106,Mat,SC,,96118,INC,Acharya Laxmi Raman,41951,PSP,Shyam Lal,17798,24153,25.13
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,107,Sadabad,GEN,,42643,IND,Tika Ram,22364,INC,Ashraf Ali Khan,17967,4397,10.31
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,108,Fatehpur Sikri,GEN,,50096,PSP,Swami Visheshwaranand,23832,INC,Champawati,14599,9233,18.43
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,109,Khairagarh,GEN,,38181,IND,Sri Krishna Dutt Paliwal,19411,INC,Jagan Prasad Rawat,13754,5657,14.82
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,110,Agra City I,GEN,,48277,INC,Adi Ram Singhal,27561,BJS,Baliji Bal Krishna,14148,13413,27.78
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,111,Agra City Ii,SC,,118368,INC,Chhatrapati Ambesh,46595,IND,Deoki Nandan Vibhav,39113,7482,6.32
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,112,Etmadpur,SC,,114237,IND,Ram Singh,27366,INC,Ganga Dhar,22121,5245,4.59
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,113,Firozabad,GEN,,53526,IND,Jagan Nath Lahri,16498,INC,Haidar Bux,11909,4589,8.57
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,114,Fatehabad,GEN,,37025,INC,Laxmi Narain Bansal,11529,IND,Hukam Singh,9408,2121,5.73
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,115,Bah,GEN,,53852,IND,Raja Mahendra Ripudaman Singh,34721,INC,Shambhu Nath Chaturvedi,12439,22282,41.38
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,116,Jalesar,SC,,109226,PSP,Raghubir Singh,26504,INC,Vachispati,21748,4756,4.35
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,117,Kasganj,GEN,,43631,INC,Kali Charan,15713,PSP,Himmat Singh,12416,3297,7.56
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,118,Sahawar,GEN,,41372,INC,Tirmal Singh,16537,IND,Ram Chandra Singh,7800,8737,21.12
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,119,Nidhpur,GEN,,42680,INC,Shmshul Islam,12958,IND,Vikramaditya Singh,10811,2147,5.03
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,120,Aliganj,GEN,,41296,IND,Bhup Kishore,10011,INC,Mahabir Singh Karunesh,9047,964,2.33
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,121,Sidhpura,GEN,,40299,INC,Chhotey Lal Paliwal,13006,IND,Mohan Singh,12058,948,2.35
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,122,Etah,GEN,,45719,IND,Ganga Prasad,14626,INC,Girdhar Gopal,13460,1166,2.55
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,123,Mainpuri,GEN,,36574,BJS,Malikhan Singh,10406,INC,Brijeshwar Sahai,9618,788,2.15
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,124,Ghiror,GEN,,43619,PSP,Jai Deo Singh,11592,BJS,Amrit Lal,10196,1396,3.2
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,125,Jasrana,GEN,,51913,INC,Ram Swarup,17844,PSP,Bishun Dayal,14549,3295,6.35
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,126,Shikohabad,GEN,,46664,IND,Layaq Singh,25758,INC,Maharaj Singh,13997,11761,25.2
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,127,Karhal,SC,,103808,PSP,Nathu Singh,33231,INC,Ram Din,24072,9159,8.82
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,128,Bhongaon,GEN,,37117,INC,Ganesh Chandra,8925,IND,Subedar Singh,5041,3884,10.46
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,129,Lalitpur,SC,,81888,INC,Gaijju Ram,25178,IND,Ram Nath Khera,22342,2836,3.46
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,130,Jhansi,GEN,,39223,INC,Atma Ram Govind Kher,26818,IND,Panna Lal Sharma,10762,16056,40.94
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,131,Mau,SC,,96197,INC,Beni Bai,46878,IND,Sudama Prasad Goswami,22529,24349,25.31
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,132,Garotha,GEN,,40638,INC,Lachman Rao Kadam,17384,IND,Prem Narain Tewari,12033,5351,13.17
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,133,Konch,GEN,,36804,INC,Chittar Singh,12054,PSP,Ganesh Prasad,10891,1163,3.16
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,134,Kalpi,SC,,151285,IND,Virendra Shah Judeo,41232,PSP,Garib Das,34729,6503,4.3
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,135,Jalaun,GEN,,52155,PSP,Govind Narain Tewari,26542,INC,Chaturbhuj,25613,929,1.78
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,136,Hamirpur,GEN,,41768,INC,Surendra Dutt Bajpai,16883,PSP,Udit Narain,11653,5230,12.52
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,137,Maudaha,GEN,,44874,INC,Ram Gopal,25475,PSP,Nawal Kishore,19399,6076,13.54
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,138,Rath,GEN,,45405,INC,Doogar Singh,24691,PSP,Ram Narain Singh,20714,3977,8.76
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,139,Mahoba,SC,,82760,INC,Brij Gopal,26641,PSP,Madanpal Singh,22221,4420,5.34
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,140,Banda,GEN,,30724,INC,Pahalwan Singh,17755,IND,Keshav Chandra Singh,7266,10489,34.14
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,141,Baberu,GEN,,28294,INC,Ram Sanehi Bhartiya,13166,PSP,Jageshwar,5853,7313,25.85
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,142,Karwi,SC,,61900,INC,Jagpat Singh,22173,RRP,Murli Manohar,16984,5189,8.38
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,143,Naraini,GEN,,24221,INC,Gopi Krishna Azad,6217,BJS,Matola Singh,5230,987,4.07
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,144,Kaimganj,GEN,,51842,INC,Sultan Alam Khan,18206,PSP,Makrand Singh,10346,7860,15.16
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,145,Shamsabad,GEN,,45644,PSP,Rajendra Singh Yadav,18818,INC,Sia Ram,16636,2182,4.78
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,146,Farrukhabad,GEN,,43814,INC,Ram Kishan,22140,BJS,Daya Ram,7097,15043,34.33
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,147,Bhojpur,GEN,,44053,INC,Awadesh Chandra Singh,14990,PSP,Mool Chand Verma,7808,7182,16.3
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,148,Kannauj,SC,,103723,PSP,Dwarka,44198,INC,Hori Lal,39098,5100,4.92
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,149,Chhibramau,GEN,,53787,PSP,Kotwal Singh Bhadoria,27549,INC,Mathura Prasad,18334,9215,17.13
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,150,Etawah,GEN,,36412,BJS,Bhuvesh Bhushan,12043,INC,Hakim Hazik,11288,755,2.07
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,151,Jaswant Nagar,GEN,,41592,IND,Abhe Ram,17851,INC,Prabal Pratap Singh,10297,7554,18.16
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,152,Bharthana,SC,,79658,INC,Ghasi Ram,17836,IND,Meharban Singh,17186,650,0.82
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,153,Bidhuna,GEN,,48225,PSP,Gaiendra Singh,18361,INC,Raghunath Sahai,11310,7051,14.62
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,154,Auraiya,SC,,92268,IND,Bhajan Lal,22188,INC,Satya Narain Datt,22119,69,0.07
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,155,Bilhaur,SC,,89208,INC,Murli Dhar,24111,IND,Brij Rani Devi,16342,7769,8.71
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,156,Akbarpur,GEN,,51304,IND,Balwan Singh,34617,INC,Ram Dulare,14680,19937,38.86
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,157,Kanpur City I,GEN,,38174,INC,Uma Shanker Shukla,18232,PSP,Shakuntala Srivastava,10057,8175,21.42
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,158,Kanpur City Ii,GEN,,39197,INC,Brahma Datta Dixit,18573,PSP,Ganesh Datta,13378,5195,13.25
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,159,Kanpur City Iii,GEN,,28708,INC,S . A . Hasan,14883,PSP,Sakhawat Hussain,6276,8607,29.98
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,160,Kanpur City Iv,GEN,,34332,INC,S . G . Datta,15573,CPI,Sant Singh Yusuf,11249,4324,12.59
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,161,Kanpur City V,GEN,,36618,INC,Dr. Jawaharlal Rohatgi,19196,PSP,Virendra Bahadur Singh,9758,9438,25.77
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,162,Kanpur Rural,GEN,,32605,IND,Moti Lal,15766,INC,Beni Singh,14028,1738,5.33
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,163,Derapur,GEN,,44930,INC,Shiva Ram,14696,IND,Chandra Shekhar Tiwari,14622,74,0.16
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,164,Bhognipur,GEN,,50835,IND,Ram Saroop,24727,INC,Ram Saroop Gupta,15774,8953,17.61
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,165,Ghatampur,SC,,122558,INC,Jawala Prasad,28952,IND,Brij Bihari Mehrotra,24355,4597,3.75
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,166,Fatehpur,SC,,63597,INC,Sheoraj Bali Singh,21559,PSP,Sukhrani,10802,10757,16.91
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,167,Khajuha,GEN,,33246,INC,Shabbir Hasan,12102,IND,Deep Narain Singh,8933,3169,9.53
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,168,Kishanpur,SC,,73560,INC,Jageshwar,25398,IND,Raghunath Sahai,17802,7596,10.33
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,169,Khaga,GEN,,30934,INC,Basudeo,16588,CPI,Chandra Kishore,4798,11790,38.11
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,170,Manjhanpur,SC,,61481,INC,Hemwati Nandan Bahuguna,33731,PSP,Jawahar Lal,18175,15556,25.3
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,171,Chail,SC,,54062,INC,Gokul Prasad,37164,PSP,Syed Muzaffar Husain,9003,28161,52.09
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,172,Allahabad City North,GEN,,43036,INC,Kailash Narain Gupta,23075,PSP,K . K . Bhatcharya,18681,4394,10.21
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,173,Allahabad City South,GEN,,41184,PSP,Kalyan Chandra Mohiley Alias Chhunan Guru,21600,INC,Baijnath Kapoor,19584,2016,4.9
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,174,Soraon West,GEN,,35607,INC,Parmanand Sinha,16709,IND,Ram Sajiwan,9039,7670,21.54
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,175,Soraon East,GEN,,37118,INC,Sangram Singh,22300,IND,Ram Nath,7525,14775,39.81
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,176,Phulpur,SC,,83983,INC,Shiv Murti,42976,IND,Sukhi Ram Bhartiya,20073,22903,27.27
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,177,Kewai,GEN,,36197,INC,Mahabir Prasad Shukla,23297,PSP,Ram Nath Dubey,7946,15351,42.41
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,178,Karchana,GEN,,42456,INC,Kamal Kumari Goindi,21638,PSP,Satya Narain Pandey,10670,10968,25.83
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,179,Meja,SC,,85899,INC,Jokhai,45846,PSP,Mangla Prasad,40053,5793,6.74
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,180,Mirzapur,GEN,,46623,INC,Amresh Chand,23519,BJS,Bhagwan Dass,23104,415,0.89
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,181,Kantit,SC,,61774,INC,Aziz Imam,32745,PSP,Ram Kisun,29029,3716,6.02
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,182,Robertsganj,SC,,75015,BJS,Anand Brahma Shah,36952,INC,Shobh Nath,24764,12188,16.25
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,183,Ahraura,GEN,,33187,INC,Raj Narain,17332,BJS,Tribhuan Singh,9020,8312,25.05
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,184,Chunar,GEN,,37790,INC,Raj Kumar,17881,IND,Vishram Singh,14609,3272,8.66
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,185,Chandauli,SC,,120182,INC,Kamlapati Tripathi,46596,IND,Ram Lakhan,39124,7472,6.22
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,186,Mahaich,GEN,,45155,INC,Kamta Pd. Vidyarthi,23564,IND,Achaibar,10400,13164,29.15
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,187,Moghal Sarai,GEN,,45533,INC,Shyam Lal,18260,IND,Uma Shankar,11394,6866,15.08
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,188,Katehari,GEN,,52107,INC,Lok Nath,24473,IND,Raghunath,20528,3945,7.57
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,189,Varanasi City South,GEN,,48933,INC,Sampurnanand Ji,29002,CPI,Rustam Satin,16578,12424,25.39
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,190,Varanasi City North,GEN,,41526,INC,Mohammad Abdus Samad,23665,BJS,Rama Nand Singh,13564,10101,24.32
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,191,Sheopur,GEN,,48412,INC,Mahnot Sajjan Devi,24522,PSP,Ram Narayan,18990,5532,11.43
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,192,Kolasla,GEN,,50483,CPI,Udal,22089,INC,Lal Bahadur,19823,2266,4.49
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,193,Kaswar Sarkari,GEN,,51434,IND,Raj Narain Singh,25367,INC,Rishi Narain Shastri,23467,1900,3.69
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,194,Kaswar Raja,GEN,,41000,INC,Raj Behari Singh,13628,IND,Gaya Prasad,10144,3484,8.5
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,195,Gyanpur,SC,,107910,INC,Bechan Ram Gupta,33349,IND,Ganesh Ram,27766,5583,5.17
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,196,Barsathi,GEN,,37070,INC,Ramesh Chand,18772,CPI,Ram Murti Singh,6465,12307,33.2
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,197,Mariahu,GEN,,41253,INC,Tara Devi,20712,BJS,Jagannath,10723,9989,24.21
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,198,Machhilishahr,GEN,,39475,INC,Rauf Jafri,22756,PSP,Keshari Pd,13909,8847,22.41
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,199,Garwara,GEN,,44907,INC,Nageshwar Prasad,19413,IND,Gauri Shankar,12379,7034,15.66
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,200,Shahganj,SC,,115403,IND,Kunwar Sripal,38391,INC,Lakshmi Shankar Yadav,37746,645,0.56
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,201,Ravi,GEN,,44884,INC,Ram Lakhan,17813,BJS,Jang Bahadur,8959,8854,19.73
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,202,Jaunpur,GEN,,54975,BJS,Yadvendra Dutt Dubey,34502,INC,Bhagwati Din Tewari,11933,22569,41.05
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,203,Kerakat,SC,,79009,INC,Lal Bahadur,39561,IND,Ram Samjhawan,9691,29870,37.81
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,204,Saidpur,GEN,,37614,INC,Atma,12562,IND,Kamla,9784,2778,7.39
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,205,Shadiabad,SC,,93589,PSP,Jamuna,18730,INC,Dev Ram,13448,5282,5.64
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,206,Karanda,GEN,,33003,INC,Bishwanath Singh Gautam,11801,IND,Dalsingar Dubey,9289,2512,7.61
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,207,Ghazipur,GEN,,41077,CPI,Pabbar Ram,17134,INC,Shushila Devi,16089,1045,2.54
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,208,Zamania,GEN,,47065,INC,Bashishta Narain Sharma,18403,PSP,Vishwanath Singh Gahmari,11319,7084,15.05
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,209,Mohammadabad,SC,,91623,CPI,Sarju Pande,27653,INC,Vijay Shankar Singh,26274,1379,1.51
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,210,Kopachit,GEN,,42167,INC,Mandhata,9046,CPI,Kamta,8248,798,1.89
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,211,Balia,GEN,,39455,PSP,Gauri Shankar,15463,INC,Kalyani Devi,11988,3475,8.81
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,212,Duaba,GEN,,29161,INC,Ram Nath Pathak,10534,IND,Surendra Vikram,8552,1982,6.8
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,213,Bansdih East,GEN,,30385,INC,Ram Lachhan,14201,PSP,Kedar Nath Singh,12093,2108,6.94
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,214,Bansdih West,GEN,,43855,INC,Sheo Mangal Singh,19127,IND,Baijnath Singh,9289,9838,22.43
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,215,Sikandrapur,GEN,,43061,INC,Jagarnath,19959,CPI,Baij Nath,17177,2782,6.46
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,216,Rasra,SC,,105312,INC,Ganga Pd. Singh,29064,CPI,Kapil Deo,24740,4324,4.11
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,217,Natthupur,GEN,,41943,PSP,Ram Sundar,20204,INC,Mangal Deo,14378,5826,13.89
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,218,Ghosi,GEN,,43767,CPI,Jharkhande Rai,19320,INC,Rameshwar Prasad,18829,491,1.12
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,219,Kopaganj,GEN,,46388,INC,M . A . Latif Nowani,12871,CPI,Jai Bahadur Singh,11016,1855,4.0
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,220,Mohammadabad Gohna,SC,,103996,CPI,Chandrajit,21774,INC,Padma Nath,19554,2220,2.13
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,221,Lalganj,SC,,97200,IND,Tej Bahadur,22483,INC,Dhani Ram,18779,3704,3.81
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,222,Mahul,SC,,78488,INC,Murli Dhar,20256,PSP,Ram Bachan,17867,2389,3.04
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,223,Nizamabad,GEN,,36113,INC,Chandra Bali Brahmachari,10593,IND,Anirudh Singh,8245,2348,6.5
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,224,Azamgarh,GEN,,33634,PSP,Bisram,14231,INC,Sheo Ram,8437,5794,17.23
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,225,Atraulia,GEN,,41850,PSP,Padmakar,17032,INC,Brij Behari,12787,4245,10.14
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,226,Gopalpur,GEN,,39864,INC,Mukti Nath,16702,IND,Bhima Prasad,12080,4622,11.59
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,227,Sagri,GEN,,42527,IND,Indra Bhushan,12650,CPI,Shambhu Narain,10475,2175,5.11
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,228,Salempur East,GEN,,30115,INC,Ayodhya Pd. Arya,13159,PSP,Kailash,7159,6000,19.92
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,229,Salempur South,GEN,,36861,INC,Sheo Bachan,11300,IND,Raja Audesh Pratap Mall,11086,214,0.58
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,230,Salempur West,GEN,,34431,IND,Ugrasen,16601,INC,Dev Nandan,10966,5635,16.37
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,231,Deoria South,GEN,,30548,INC,Deep Narain,11443,IND,Kishuna,11019,424,1.39
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,232,Silhat,SC,,60721,INC,Ramji Sahai,30777,IND,Chandrabali Singh,19946,10831,17.84
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,233,Deoria North,GEN,,35104,INC,Mohd. Farooq Chishti,13732,IND,Rama Shanker,13077,655,1.87
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,234,Hata,GEN,,30962,INC,Surya Bali,11915,PSP,Bankey Lal,11161,754,2.44
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,235,Sidhuwa Jobna,SC,,70745,INC,Raj Deo,35552,PSP,Sheo Prasad,13076,22476,31.77
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,236,Padrauna North,GEN,,34130,INC,Chanradeo,19360,PSP,Ram Prasad,9558,9802,28.72
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,237,Padrauna West,GEN,,28020,PSP,Brij Nandan,9920,INC,Mangal Upadhya,9457,463,1.65
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,238,Padrauna East,GEN,,29062,PSP,Genda Singh,19586,INC,Ram Lal,9476,10110,34.79
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,239,Padrauna South,GEN,,27953,PSP,Ramayan,14045,INC,Bhairo Nath,10563,3482,12.46
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,240,Tilpur,GEN,,42633,IND,Madan,22425,INC,Paripurnanand Verma,16030,6395,15.0
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,241,Maharajganj,SC,,113153,IND,Amar Nath,42733,INC,Duryodhan,18620,24113,21.31
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,242,Binaikpur,GEN,,36405,IND,Abdul Rauf Lari,19682,INC,Raghubar Prasad,12823,6859,18.84
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,243,Pharenda West,GEN,,35632,INC,Gauri Ram,19456,IND,Narsing Narain Pandey,16176,3280,9.21
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,244,Pharenda East,GEN,,34569,INC,Dwarika Pd,15316,IND,Ramanuj,14404,912,2.64
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,245,Gorakhpur,GEN,,41863,INC,Istifa Husain,28299,IND,Laxmi Shankar Verma,5811,22488,53.72
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,246,Maghar,GEN,,36160,INC,Keshbhan,19019,IND,Kamla,6044,12975,35.88
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,247,Maniram,GEN,,41298,INC,Keshav Pandey,20832,IND,Avaidyanathh,15153,5679,13.75
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,248,Pipraich,SC,,72536,INC,Achhaibar,29272,IND,Ram Surat,11521,17751,24.47
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,249,Bhawapar,GEN,,37233,INC,Bhagwati Prasad,21974,PSP,Paras Nath Rai,5915,16059,43.13
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,250,Bansgaon,SC,,59931,INC,Jasoda,24963,CPI,Ganesh Prasad,5315,19648,32.78
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,251,Chillupar,GEN,,36232,INC,Kailashpati,13178,CPI,Satya Deo,5054,8124,22.42
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,252,Mahauli,GEN,,34429,INC,Dhanushdhari,17445,BJS,Ram Vir,7028,10417,30.26
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,253,Khalilabad,SC,,88184,INC,Genda Devi,45824,IND,Raja Ram Sharma,20754,25070,28.43
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,254,Bansi East,SC,,124422,INC,Obaidur Rahman,37741,IND,Sohan Lal Dhusiya,34294,3447,2.77
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,255,Naugarh,GEN,,43258,INC,Mathura Prasad,27440,CPI,Bashishra Narain,7675,19765,45.69
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,256,Banganga East,GEN,,35829,INC,Mohd. Suleman,20552,BJS,Moti Lal,8278,12274,34.26
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,257,Banganga West,GEN,,48312,INC,Prabhu Dayal,20701,BJS,Madho Chandra Lal,15188,5513,11.41
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,258,Bansi West,GEN,,41092,INC,Ram Lakhan Misra,24542,IND,Harish Chandra Lal,11136,13406,32.62
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,259,Domariaganj North,GEN,,44162,INC,Rajendra Kishori,20800,IND,Bhanu Pratap Singh,17433,3367,7.62
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,260,Domariaganj South,GEN,,50026,IND,Baleshwari Pd. Singh,24196,INC,Mohd. Adil Abbasi,22106,2090,4.18
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,261,Basti,GEN,,39334,INC,Udai Shankar,22143,IND,Jantrai Prasad,9101,13042,33.16
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,262,Nagar,SC,,119310,INC,Kripa Shankar,41741,IND,Shakuntala Nayar,40381,1360,1.14
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,263,Harraiya West,GEN,,36063,INC,Ran Bahadur,14392,IND,Bhagwan Prasad,8632,5760,15.97
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,264,Harraiya East,GEN,,37584,INC,Sita Ram Shukla,10673,IND,Bhagwan Singh,10033,640,1.7
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,265,Kaisarganj,GEN,,39359,INC,Hukum Singh,23393,IND,Athar Mehdi,11519,11874,30.17
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,266,Fakharpur,SC,,76135,IND,Pratap Bahadur Singh,28388,INC,Dulara Devi,23193,5195,6.82
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,267,Nanpara,GEN,,38753,IND,Budhi Lal,15435,INC,Mohd. Saadat Ali Khan,9457,5978,15.43
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,268,Charda,GEN,,28688,INC,Hamidullah Khan,13540,IND,Mithoo Lal,10236,3304,11.52
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,269,Bahraich North,GEN,,31113,PSP,Zargham Haider,14864,INC,Triloki Nath Kaul,11991,2873,9.23
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,270,Bahraich South,GEN,,34337,IND,Birendra Bikram Singh,15832,INC,Basant Lal,10801,5031,14.65
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,271,Ikauna,SC,,61570,INC,Raj Kishore,28670,RRP,Sheo Saran Lal,18593,10077,16.37
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,272,Tulshipur,GEN,,50872,BJS,Dharmapal Singh,19918,INC,Ballabhaddar Prasad,19618,300,0.59
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,273,Balrampur,SC,,93001,BJS,Dashrath Prasad,37017,INC,Din Dayal Karun,31039,5978,6.43
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,274,Gonda North,GEN,,36065,BJS,Ram Abhilakh,10845,IND,Naurang Singh,10427,418,1.16
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,275,Gonda South,SC,,86283,IND,Ragho Ram,21329,INC,Lal Behari Tandon,20659,670,0.78
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,276,Utraula,GEN,,51656,INC,Ali Jarrar Jafery,23194,BJS,Suraj Lal,22297,897,1.74
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,277,Sadulla Nagar,GEN,,44350,IND,Raghuran Taj Bahadur Singh,12499,BJS,Abdul Wahid,8603,3896,8.78
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,278,Mankapur,GEN,,50850,IND,Raghavendra Pratap Singh,34194,INC,Brij Nandan,16656,17538,34.49
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,279,Mahadeva,GEN,,33694,IND,Baldeo Singh,12354,INC,Devendra Pratap Singh,12198,156,0.46
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,280,Tarabganj,GEN,,28012,INC,Shitla Prasad,12375,BJS,Main Bahadur Singh,5884,6491,23.17
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,281,Paharapur,GEN,,25311,IND,Lachmi Narain,12169,INC,Shanti Chand,8876,3293,13.01
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,282,Sarju,GEN,,33724,INC,Saraswati Devi,16854,IND,Girja Prasad,10452,6402,18.98
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,283,Bhitauli,GEN,,47798,INC,Vishal Singh,26193,IND,Ram Asrey,20298,5895,12.33
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,284,Bara Banki,SC,,135766,IND,Bhagavti Prasad,37921,INC,Nasirur Rahman,35315,2606,1.92
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,285,Pratap Ganj,SC,,117220,INC,Bindumati Devi,37568,IND,Jagjiwan Baksh,37229,339,0.29
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,286,Rudauli,GEN,,35058,BJS,Mukut Behari Lal,16022,INC,Latifur Rahman,15021,1001,2.86
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,287,Haidargarh,SC,,93177,IND,Bajrang Behari Lal,27614,INC,Jang Bahadur,19940,7674,8.24
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,288,Amsin,GEN,,35980,INC,Madan Gopal,14363,CPI,Har Govind Srivastava,5739,8624,23.97
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,289,Faizabad,GEN,,37154,INC,Madan Mohan,19668,BJS,Bhagwati Singh,7364,12304,33.12
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,290,Bikapur West,SC,,41393,INC,Brij Basi Lal,18186,BJS,Narain Das,15770,2416,5.84
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,291,Bikapur East,GEN,,35996,IND,Avadesh Pratap Singh,16882,INC,Mahadeo Varma,7037,9845,27.35
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,292,Tanda,SC,,104005,INC,Jai Ram Varma,39685,PSP,Sukh Ram,21077,18608,17.89
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,293,Surhurpur,GEN,,39133,IND,Ram Narain Tripathi,13225,INC,Mukhtar Ahmed Kidwai,10748,2477,6.33
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,294,Akbarpur,SC,,103293,IND,Devi Prasad,21443,INC,Maulvi S. Mohd. Naseer,19816,1627,1.58
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,295,Kadipur,SC,,71120,INC,Kashi Prasad,24170,CPI,Shanker,18679,5491,7.72
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,296,Baraunsa,GEN,,24698,INC,M. Abdul Sami,11493,IND,Ram Chandra Shukul,5384,6109,24.73
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,297,Issauli,GEN,,28390,BJS,Gaya Bux,12139,INC,Ram Bali,11744,395,1.39
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,298,Sultanpur,GEN,,36616,INC,Kuer Krishna,15969,PSP,Maqbool Khan,12475,3494,9.54
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,299,Musafirkhana,SC,,73460,INC,Gur Prasad Singh,21125,IND,Oudhesh Narain Singh,20220,905,1.23
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,300,Amethi,GEN,,31041,INC,Rama Kant Singh,16970,IND,Bijai Pal,8159,8811,28.39
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,301,Lambhua,GEN,,21084,INC,Prabhawati Devi,11917,IND,Savitri Devi,9167,2750,13.04
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,302,Patti,SC,,69345,INC,Ram Kinkar,23896,IND,Harkesh Bahadur,15537,8359,12.05
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,303,Konhdaur,GEN,,30648,INC,Ruknuddin Khan,16529,IND,Basdeo Singh,10996,5533,18.05
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,304,Pratapgarh South,GEN,,33474,INC,Bhagwati Prasad,18393,BJS,Babu Lal,10670,7723,23.07
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,305,Pratapgarh North,GEN,,30745,INC,Ram Adhar Tiwari,15691,IND,Balendra Bhusan Pratap Singh,12520,3171,10.31
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,306,Atheha,GEN,,32109,INC,Amola Devi,14101,IND,Kunwar Tej Bhan Singh,13283,818,2.55
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,307,Kunda,SC,,112343,IND,Nand Ram,38739,INC,Ram Naresh,31966,6773,6.03
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,308,Bachhrawan,SC,,73489,INC,Rameshwar Prasad,21077,IND,Chandrika Prasad,14800,6277,8.54
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,309,Rokha,GEN,,34180,INC,Wasi Naqvi,13873,BJS,Gopi Chandra,13747,126,0.37
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,310,Rae Bareli North,GEN,,39244,BJS,Jamuna Prasad,12704,INC,Ram Shankar,11476,1228,3.13
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,311,Salon,SC,,80482,INC,Sunita Chauhan,30795,PSP,Ram Prasad,27432,3363,4.18
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,312,Dalmau,GEN,,43639,IND,Sheo Shankar Singh,16321,INC,Shambhu,12925,3396,7.78
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,313,Sareni,GEN,,45435,INC,Guptar Singh,17853,BJS,Narendra Bahadur Singh,9884,7969,17.54
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,314,Purwa,GEN,,35640,IND,Parmeshwar Din Varma,12764,INC,Ramadhin Singh,10469,2295,6.44
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,315,Bhagwant Nagar,GEN,,40801,PSP,Bhagwati Singh Visharad,15238,INC,Deo Datta,14496,742,1.82
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,316,Unnao,GEN,,38423,PSP,Ch. Khazan Singh,20072,INC,Liladhar,18351,1721,4.48
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,317,Safipur,SC,,99286,IND,Sheo Gopal,29959,CPI,Mulla,26101,3858,3.89
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,318,Hasanganj,SC,,61573,CPI,Sajiwan Lal,25450,INC,Bhikha Lal,20188,5262,8.55
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,319,Mohanlalganj,SC,,71397,PSP,Ram Saran Yadav,23708,INC,Khayali Ram,19617,4091,5.73
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,320,Malihabad,GEN,,41043,INC,Ram Pal Trivedi,12531,CPI,Ahmad Wali Khan,11905,626,1.53
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,321,Lucknow City East,GEN,,43146,PSP,Triloki Singh,27271,INC,Chandra Bhanu Gupta,15875,11396,26.41
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,322,Lucknow City Central,GEN,,38411,INC,Mahabir Prasad Srivastava,18940,BJS,Krishna Gopal Kalantri,10413,8527,22.2
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,323,Lucknow City West,GEN,,39167,INC,Syed Ali Zaheer,20294,BJS,Raj Kumar,11120,9174,23.42
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,324,Lucknow Cantt,SC,,55099,INC,Basant Lal,18855,BJS,Shyam Manohar Misra,11640,7215,13.09
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,325,Shahabad,SC,,95817,INC,Vidyavati Bajpai,41781,PSP,Kanhaiya Lal Balmiki,19525,22256,23.23
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,326,Hardoi,SC,,93040,INC,Bulaqi Ram,42530,BJS,Mahesh Singh,27280,15250,16.39
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,327,Gondwa,GEN,,43899,BJS,Rajendra Singh,18848,INC,Laxmi Devi,17277,1571,3.58
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,328,Sandila,SC,,95246,PSP,Mohan Lal Varma,49081,INC,Shambhu Dayal,31276,17805,18.69
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,329,Bilgram,GEN,,39566,INC,Chandra Has Misra,19041,BJS,Triyugi Nath,11203,7838,19.81
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,330,Pali,GEN,,49122,INC,Hari Har Baksh Singh,24739,BJS,Sharda Baksh Singh,24383,356,0.72
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,331,Sidhauli,SC,,83831,INC,Baiju Ram,34118,PSP,Tara Chand Maheshwari,28133,5985,7.14
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,332,Misrikh,SC,,108814,IND,Avedhesh Kumar,33337,INC,Ganga Dhar Sharma,27135,6202,5.7
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,333,Sitapur,GEN,,45830,INC,Harish Chandra,19964,BJS,Sharda Nand,17617,2347,5.12
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,334,Khairabad,GEN,,40895,BJS,Tambreshwari Prasad Alias Bachcha Saheb,12370,INC,Krishna Chandra Gupta,12174,196,0.48
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,335,Biswan,SC,,93763,INC,Suresh Prakash Singh,32682,IND,Ganeshi Lal,21342,11340,12.09
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,336,Laharpur,GEN,,53446,IND,Pratap Bhan Prakash Singh,33409,INC,Bashir Ahmed,13828,19581,36.64
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,337,Dhaurehra,GEN,,29262,PSP,Jagannath Prasad,13741,INC,Ram Bhajan,9872,3869,13.22
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,338,Nighasan,GEN,,33430,PSP,Surath Bahadur Shah,16193,INC,Karan Singh,10864,5329,15.94
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,339,Sri Nagar,SC,,55515,PSP,Banshi Dhan,23199,INC,Chhedi Lal,18886,4313,7.77
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,340,Kheri,GEN,,36299,PSP,Sheo Prasad Nagar,15542,INC,Godawari,12454,3088,8.51
+ae-uttar-pradesh-1957,AE,Uttar Pradesh,1957,1957,official,341,Mohamdi,SC,,95011,BJS,Jagdish Narain Datta Singh,40046,INC,Manna Lal,33707,6339,6.67

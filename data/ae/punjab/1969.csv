@@ -1,0 +1,105 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-punjab-1969,AE,Punjab,1969,1969,official,1,Muktsar,SC,,51267,SAD,Guruev Singh,26958,INC,Matu Ram,23382,3576,6.98
+ae-punjab-1969,AE,Punjab,1969,1969,official,2,Giddar Baha,GEN,,50308,SAD,Parkash Singh,30625,INC,Mohinder Singh,19418,11207,22.28
+ae-punjab-1969,AE,Punjab,1969,1969,official,3,Malout,GEN,,45479,SAD,Gurmit Singh,14204,IND,Pritam Singh,12179,2025,4.45
+ae-punjab-1969,AE,Punjab,1969,1969,official,4,Lambi,SC,,37664,CPI,Dana Ram,15714,BJS,Charan Singh,11385,4329,11.49
+ae-punjab-1969,AE,Punjab,1969,1969,official,5,Abohar,GEN,,45297,BJS,Satya Dev,20936,IND,Parma Nand,16932,4004,8.84
+ae-punjab-1969,AE,Punjab,1969,1969,official,6,Fazilka,GEN,,44276,INC,Radha Krishan,22597,BJS,Aad Lal,19829,2768,6.25
+ae-punjab-1969,AE,Punjab,1969,1969,official,7,Jalalabad,GEN,,56421,INC,Lajinder Singh,31776,BJS,Bakhtawar Singh,11772,20004,35.45
+ae-punjab-1969,AE,Punjab,1969,1969,official,8,Guru Har Sahai,GEN,,45476,INC,Lachhman Singh,11162,IND,Mohinder Singh,10397,765,1.68
+ae-punjab-1969,AE,Punjab,1969,1969,official,9,Ferozepur,GEN,,39964,BJS,Balmukand,19776,INC,Gardhara Singh,17182,2594,6.49
+ae-punjab-1969,AE,Punjab,1969,1969,official,10,Ferozepur Cantonment,GEN,,34558,SAD,Mohinder Singh S/O F . Singh,20716,INC,Mohinder Singh S/O A . Singh,12679,8037,23.26
+ae-punjab-1969,AE,Punjab,1969,1969,official,11,Zira,GEN,,49788,INC,Metab Singh,24176,SAD,Gurdev Singh,19157,5019,10.08
+ae-punjab-1969,AE,Punjab,1969,1969,official,12,Dharamkot,GEN,,54327,PJP,Lachhman Singh,29129,SAD,Sohan Singh,22742,6387,11.76
+ae-punjab-1969,AE,Punjab,1969,1969,official,13,Nihal Singh Wala,SC,,44295,INC,Dalip Singh,25326,CPI,Munsha Singh,18969,6357,14.35
+ae-punjab-1969,AE,Punjab,1969,1969,official,14,Moga,GEN,,50504,SSP,Roop Lal,19978,SAD,Harbans Singh,17998,1980,3.92
+ae-punjab-1969,AE,Punjab,1969,1969,official,15,Bagha Purana,GEN,,53734,INC,Tej Singh,28865,SAD,Gurcharan Singh,24869,3996,7.44
+ae-punjab-1969,AE,Punjab,1969,1969,official,16,Khadoor Sahib,GEN,,48532,SAD,Mohan Singh,28065,INC,Harbhajan Singh,17516,10549,21.74
+ae-punjab-1969,AE,Punjab,1969,1969,official,17,Patti,GEN,,53395,SAD,Surinder Singh,24334,INC,Jaswant Singh,14139,10195,19.09
+ae-punjab-1969,AE,Punjab,1969,1969,official,18,Valtoha,GEN,,47542,INC,Gurdip Singh,13239,SAD,Narain Singh,13204,35,0.07
+ae-punjab-1969,AE,Punjab,1969,1969,official,19,Atari,SC,,41379,CPI(M),Darshan Singh,22270,INC,Piara Singh,14879,7391,17.86
+ae-punjab-1969,AE,Punjab,1969,1969,official,20,Tarn Taran,GEN,,52307,SAD,Manjinder Singh,27092,INC,Dilbag Singh,25215,1877,3.59
+ae-punjab-1969,AE,Punjab,1969,1969,official,21,Beas,GEN,,48598,SAD,Hari Singh,25433,INC,Sohan Singh,22750,2683,5.52
+ae-punjab-1969,AE,Punjab,1969,1969,official,22,Jandiala,SC,,39519,SAD,Tara Singh,19484,INC,Charan Singh,14969,4515,11.42
+ae-punjab-1969,AE,Punjab,1969,1969,official,23,Amritsar East,GEN,,38234,INC,Gian Chand,18761,BJS,Baldev Parkash,18718,43,0.11
+ae-punjab-1969,AE,Punjab,1969,1969,official,24,Amritsar South,GEN,,44204,PSP,Kirpal Singh,20282,BJS,Harbans Lal,15650,4632,10.48
+ae-punjab-1969,AE,Punjab,1969,1969,official,25,Amritsar Central,GEN,,38601,BJS,Balram Dass,20018,INC,Chandan Lal,17867,2151,5.57
+ae-punjab-1969,AE,Punjab,1969,1969,official,26,Amritsar West,GEN,,47121,CPI,Satya Pal,23075,INC,Jai Inder Singh,15875,7200,15.28
+ae-punjab-1969,AE,Punjab,1969,1969,official,27,Verka,SC,,44027,INC,Gurmej Singh,16045,SAD,Khazan Singh,14792,1253,2.85
+ae-punjab-1969,AE,Punjab,1969,1969,official,28,Majitha,GEN,,53173,SAD,Shashpal Singh,24061,INC,Parkash Kaur,20525,3536,6.65
+ae-punjab-1969,AE,Punjab,1969,1969,official,29,Ajnala,GEN,,53098,INC,Harinder Singh,27642,CPI(M),Dalip Singh,21716,5926,11.16
+ae-punjab-1969,AE,Punjab,1969,1969,official,30,Fatehgarh,GEN,,49076,INC,Santokh Singh,20193,SAD,Gurcharan Singh,15261,4932,10.05
+ae-punjab-1969,AE,Punjab,1969,1969,official,31,Batala,GEN,,45440,BJS,Bikaramajit Singh,22239,INC,Mohan Lal,20635,1604,3.53
+ae-punjab-1969,AE,Punjab,1969,1969,official,32,Sirihargobindpur,GEN,,41423,SAD,Karam Singh,22315,INC,Sikander Singh,16617,5698,13.76
+ae-punjab-1969,AE,Punjab,1969,1969,official,33,Qadian,GEN,,47330,SAD,Satnam Singh,27145,INC,Gurbachan Singh,20185,6960,14.71
+ae-punjab-1969,AE,Punjab,1969,1969,official,34,Dhariwal,GEN,,47143,SAD,Pritam Singh,19987,CPI,Raj Kumar,12449,7538,15.99
+ae-punjab-1969,AE,Punjab,1969,1969,official,35,Gurdaspur,GEN,,45554,SAD,Mohinder Singh,25510,INC,Prabodh Chandra,20044,5466,12.0
+ae-punjab-1969,AE,Punjab,1969,1969,official,36,Dina Nagar,SC,,43217,BJS,Gian Chand,20210,INC,Jai Muni,19972,238,0.55
+ae-punjab-1969,AE,Punjab,1969,1969,official,37,Narot Mehra,SC,,46035,INC,Sunder Singh,27510,BJS,Roop Chand,18525,8985,19.52
+ae-punjab-1969,AE,Punjab,1969,1969,official,38,Pathankot,GEN,,42899,INC,Ram Singh,18681,BJS,Chhajju Ram,11703,6978,16.27
+ae-punjab-1969,AE,Punjab,1969,1969,official,39,Balachaur,GEN,,44575,INC,Tulsi Ram,25895,SWA,Gurbakhash Singh,17308,8587,19.26
+ae-punjab-1969,AE,Punjab,1969,1969,official,40,Garhshankar,GEN,,45749,INC,Rattan Singh,17961,CPI,Darshan Singh Canadian,16296,1665,3.64
+ae-punjab-1969,AE,Punjab,1969,1969,official,41,Mahilpur,SC,,42483,SAD,Kartar Singh,22053,INC,Gurmail Singh,14224,7829,18.43
+ae-punjab-1969,AE,Punjab,1969,1969,official,42,Hoshiarpur,GEN,,42212,SSP,Balbir Singh,16155,INC,Amar Singh,12636,3519,8.34
+ae-punjab-1969,AE,Punjab,1969,1969,official,43,Sham Chaurasi,SC,,36911,INC,Guran Dass,13619,BJS,Lalji Ram,10401,3218,8.72
+ae-punjab-1969,AE,Punjab,1969,1969,official,44,Tanda,GEN,,46555,INC,Amir Singh Kalkat,15377,PJP,Jagit Singh Chohan,14325,1052,2.26
+ae-punjab-1969,AE,Punjab,1969,1969,official,45,Dasuya,GEN,,47218,SAD,Devinder Singh,19066,IND,Ram Parkash Dass,12203,6863,14.53
+ae-punjab-1969,AE,Punjab,1969,1969,official,46,Mukerian,GEN,,52391,INC,Kewal Krishan,25387,BJS,Gagan Singh,20987,4400,8.4
+ae-punjab-1969,AE,Punjab,1969,1969,official,47,Kapurthala,GEN,,52722,SAD,Bawa Harnam Singh,26921,INC,Kirpal Singh,21799,5122,9.72
+ae-punjab-1969,AE,Punjab,1969,1969,official,48,Sultanpur,GEN,,52029,SAD,Atma Singh,27246,INC,Pritam Singh,15148,12098,23.25
+ae-punjab-1969,AE,Punjab,1969,1969,official,49,Phagwara,SC,,46520,INC,Sadhu Ram,22289,BJS,Swarna,20736,1553,3.34
+ae-punjab-1969,AE,Punjab,1969,1969,official,50,Jullundur North,GEN,,42158,INC,Gurdial Saini,25437,BJS,Lal Chand Suberwal,15884,9553,22.66
+ae-punjab-1969,AE,Punjab,1969,1969,official,51,Jullundur South,GEN,,40456,BJS,Man Mohan Kalia,19655,INC,Kartar Singh,13956,5699,14.09
+ae-punjab-1969,AE,Punjab,1969,1969,official,52,Jullundur Cantonment,GEN,,34341,INC,Saroop Singh,13213,IND,Rajinder Singh,9926,3287,9.57
+ae-punjab-1969,AE,Punjab,1969,1969,official,53,Adampur,GEN,,44442,CPI,Kulwant Singh,17733,INC,Karam Singh,12890,4843,10.9
+ae-punjab-1969,AE,Punjab,1969,1969,official,54,Kartarpur,SC,,43417,INC,Gurbanta Singh,22120,SAD,Hari Singh,13512,8608,19.83
+ae-punjab-1969,AE,Punjab,1969,1969,official,55,Jamsher,SC,,38496,INC,Darshan Singh Kaypee,16315,SAD,Nazar Singh,13828,2487,6.46
+ae-punjab-1969,AE,Punjab,1969,1969,official,56,Nakodar,GEN,,46374,IND,Darbara Singh,24914,INC,Darshan Singh,18507,6407,13.82
+ae-punjab-1969,AE,Punjab,1969,1969,official,57,Nurmahal,GEN,,53129,SAD,Balwant Singh,26907,INC,Darbara Singh,23922,2985,5.62
+ae-punjab-1969,AE,Punjab,1969,1969,official,58,Bara Pind,GEN,,43601,INC,Umrao Singh,20999,CPI(M),Harkishan Singh Surjit,17139,3860,8.85
+ae-punjab-1969,AE,Punjab,1969,1969,official,59,Banga,SC,,41513,INC,Jagat Ram,20901,CPI(M),Nasib Chand,13500,7401,17.83
+ae-punjab-1969,AE,Punjab,1969,1969,official,60,Nawan Shahr,GEN,,53048,INC,Dilbag Singh,26552,SAD,Hardev Singh,25825,727,1.37
+ae-punjab-1969,AE,Punjab,1969,1969,official,61,Phillaur,GEN,,45374,INC,Surjit Singh Atwal,21037,SAD,Aqbal Singh,13305,7732,17.04
+ae-punjab-1969,AE,Punjab,1969,1969,official,62,Jagraon,GEN,,50595,INC,Nahar Singh,25266,SAD,Dalip Singh,24577,689,1.36
+ae-punjab-1969,AE,Punjab,1969,1969,official,63,Raikot,GEN,,48332,SAD,Jagdev Singh,26438,INC,Pal Singh,20981,5457,11.29
+ae-punjab-1969,AE,Punjab,1969,1969,official,64,Qila Raipur,GEN,,52156,SAD,Gurnam Singh,34642,IND,Lachhman Singh,16084,18558,35.58
+ae-punjab-1969,AE,Punjab,1969,1969,official,65,Dakha,SC,,38301,SAD,Basant Singh,22641,INC,Jagir Singh,11476,11165,29.15
+ae-punjab-1969,AE,Punjab,1969,1969,official,66,Ludhiana North,GEN,,47030,INC,Sardari Lal,26731,BJS,Kapur Chand,19203,7528,16.01
+ae-punjab-1969,AE,Punjab,1969,1969,official,67,Ludhiana South,GEN,,43311,INC,Joginder Paul,21407,BJS,Jagdish Prashad,15105,6302,14.55
+ae-punjab-1969,AE,Punjab,1969,1969,official,68,Kum Kalan,GEN,,56814,SAD,Partap Singh,28482,INC,Hardev Singh,22299,6183,10.88
+ae-punjab-1969,AE,Punjab,1969,1969,official,69,Payal,GEN,,53152,IND,Beant Singh,29088,SAD,Gian Singh,24064,5024,9.45
+ae-punjab-1969,AE,Punjab,1969,1969,official,70,Khanna,SC,,38046,SAD,Naurang Singh,19462,INC,Dhamma Singh,18584,878,2.31
+ae-punjab-1969,AE,Punjab,1969,1969,official,71,Samrala,GEN,,50209,SAD,Kapur Singh,22589,INC,Kapur Singh Nasrali,20923,1666,3.32
+ae-punjab-1969,AE,Punjab,1969,1969,official,72,Nangal,GEN,,31097,BJS,Bam Dev,10288,INC,Sarla Prasher,9925,363,1.17
+ae-punjab-1969,AE,Punjab,1969,1969,official,73,Anandpur Sahib,GEN,,39601,INC,Sadhu Singh,14814,IND,Shiv Singh,11690,3124,7.89
+ae-punjab-1969,AE,Punjab,1969,1969,official,74,Ropar,GEN,,38683,SAD,Ravi Indar Singh,21007,INC,Rajinder Singh,17039,3968,10.26
+ae-punjab-1969,AE,Punjab,1969,1969,official,75,Morinda,SC,,40898,SAD,Raja Singh,21075,INC,Prithvi Singh Azad,18493,2582,6.31
+ae-punjab-1969,AE,Punjab,1969,1969,official,76,Kharar,GEN,,44637,SAD,Sarjit Singh,23391,INC,Naranjan Singh,15812,7579,16.98
+ae-punjab-1969,AE,Punjab,1969,1969,official,77,Banur,GEN,,44170,IND,Balbir Singh,23666,INC,Prem Singh,16272,7394,16.74
+ae-punjab-1969,AE,Punjab,1969,1969,official,78,Rajpura,GEN,,41441,BJS,Harbans Lal,23755,INC,Shanti Parkash,13279,10476,25.28
+ae-punjab-1969,AE,Punjab,1969,1969,official,79,Raipur,GEN,,44749,SAD,Jasdev Singh,17648,INC,Sat Pal Kapur,16916,732,1.64
+ae-punjab-1969,AE,Punjab,1969,1969,official,80,Patiala,GEN,,39418,SAD,Ravel Singh S/O Tara Singh,13928,INC,Jagan Nath,12958,970,2.46
+ae-punjab-1969,AE,Punjab,1969,1969,official,81,Dakala,GEN,,40618,SWA,Basant Singh,20353,INC,Vir Pal Kaur,16259,4094,10.08
+ae-punjab-1969,AE,Punjab,1969,1969,official,82,Samana,SC,,46371,SAD,Pritam Singh,23520,INC,Harchand Singh,18282,5238,11.3
+ae-punjab-1969,AE,Punjab,1969,1969,official,83,Nabha,GEN,,48458,IND,Narinder Singh,17873,SAD,Gurdarshan Singh,7363,10510,21.69
+ae-punjab-1969,AE,Punjab,1969,1969,official,84,Amloh,SC,,42863,SAD,Dalip Singh,25875,INC,Bhag Singh,14494,11381,26.55
+ae-punjab-1969,AE,Punjab,1969,1969,official,85,Sirhind,GEN,,50469,SAD,Randhir Singh,26576,INC,Bhupinder Singh,17850,8726,17.29
+ae-punjab-1969,AE,Punjab,1969,1969,official,86,Dhuri,GEN,,43702,INC,Sant Singh,17926,CPI(M),Harnam Singh,17510,416,0.95
+ae-punjab-1969,AE,Punjab,1969,1969,official,87,Malerkotla,GEN,,47249,SAD,Nawab Iftikhar Ali Khan,27770,INC,Bara Singh,15298,12472,26.4
+ae-punjab-1969,AE,Punjab,1969,1969,official,88,Sherpur,SC,,38837,SAD,Kundan Singh,20498,INC,Jangir Singh,10191,10307,26.54
+ae-punjab-1969,AE,Punjab,1969,1969,official,89,Barnala,GEN,,48099,SAD,Surjeet Singh,25442,INC,Gurcharan Singh,22657,2785,5.79
+ae-punjab-1969,AE,Punjab,1969,1969,official,90,Bhadaur,SC,,32840,INC,Bachan Singh,16304,SAD,Dhanna Singh,16106,198,0.6
+ae-punjab-1969,AE,Punjab,1969,1969,official,91,Dhanaula,GEN,,42683,CPI(M),Hardit Singh,21653,INC,Devinder Singh,21030,623,1.46
+ae-punjab-1969,AE,Punjab,1969,1969,official,92,Sangrur,GEN,,43749,INC,Gurbakshs Singh,24334,SAD,Raghbir Singh,17702,6632,15.16
+ae-punjab-1969,AE,Punjab,1969,1969,official,93,Sunam,GEN,,43008,SAD,Gurbachan Singh,23911,INC,Gurdial Singh,19097,4814,11.19
+ae-punjab-1969,AE,Punjab,1969,1969,official,94,Lehra,GEN,,48047,SAD,Harchand Singh,27397,INC,Brish Bhan,18656,8741,18.19
+ae-punjab-1969,AE,Punjab,1969,1969,official,95,Sardulgarh,GEN,,52636,INC,Kirpal Singh,27396,SAD,Pritam Singh,18215,9181,17.44
+ae-punjab-1969,AE,Punjab,1969,1969,official,96,Budhlada,GEN,,43789,SAD,Parshotam Singh,19607,INC,Gurdev Singh,17736,1871,4.27
+ae-punjab-1969,AE,Punjab,1969,1969,official,97,Mansa,GEN,,44734,SAD,Sant Lakha Singh,16742,INC,Harcharan Singh,16333,409,0.91
+ae-punjab-1969,AE,Punjab,1969,1969,official,98,Talwandi Sabo,GEN,,42484,INC,Ajit Singh,14456,IND,Avtar Singh,13768,688,1.62
+ae-punjab-1969,AE,Punjab,1969,1969,official,99,Pakka Kalan,GEN,,45620,INC,Trilochan Singh,25064,SAD,Karnail Singh,18163,6901,15.13
+ae-punjab-1969,AE,Punjab,1969,1969,official,100,Bhatinda,GEN,,42036,SAD,Teja Singh,14793,INC,Som Chand,13047,1746,4.15
+ae-punjab-1969,AE,Punjab,1969,1969,official,101,Phul,GEN,,48694,CPI,Babu Singh,17886,INC,Harbans Singh,16519,1367,2.81
+ae-punjab-1969,AE,Punjab,1969,1969,official,102,Nathana,SC,,36021,SAD,Hardit Singh,19650,INC,Sarwan Singh,12269,7381,20.49
+ae-punjab-1969,AE,Punjab,1969,1969,official,103,Kot Kapura,GEN,,51127,INC,Harcharan Singh,28339,SAD,Harbhagwan Singh,22788,5551,10.86
+ae-punjab-1969,AE,Punjab,1969,1969,official,104,Faridkot,SC,,43393,SAD,Bhagat Singh,22363,INC,Surain Singh,21030,1333,3.07

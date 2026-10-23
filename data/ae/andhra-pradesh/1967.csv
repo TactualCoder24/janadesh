@@ -1,0 +1,286 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,1,Ichchapuram,GEN,,49910,SWA,L. K. Reddy,26571,INC,K. Deo,20138,6433,12.89
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,2,Sompeta,GEN,,54490,SWA,G. Latchanna,28524,INC,M.Tulasidas,25966,2558,4.69
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,3,Tekkali,GEN,,47570,SWA,N. Ramulu,20749,INC,B. Lakshminarayanamma,11802,8947,18.81
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,4,Harishchandra Puram,GEN,,39311,SWA,K. Krishnamurty,16060,INC,K. A. Bhutka,10388,5672,14.43
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,5,Narasannapeta,GEN,,43943,SWA,S. Jagannadham,21866,INC,M. V. V. Appalanaidu,12756,9110,20.73
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,6,Pathapatnam,SC,,31804,INC,P. Gunnayya,13419,SWA,S. Rajaiah,13025,394,1.24
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,7,Kothuru,ST,,36333,INC,M. Subbanna,13735,CPI(M),B. Lakshminarayana,12487,1248,3.43
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,8,Naguru,ST,,46391,SWA,P. R. R. Sethruchrla,18460,INC,C. C. D. Vyrichrla,16667,1793,3.86
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,9,Parvathipuram,GEN,,45488,SWA,V. Ramanaidu,23096,INC,P. N. Cheekati,16190,6906,15.18
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,10,Salur,ST,,41012,IND,B. Rajayya,17679,SWA,J. Mutyalu,10323,7356,17.94
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,11,Bobbili,GEN,,55569,IND,S. R. K. R. Ravu,42065,INC,L. Thentu,13504,28561,51.4
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,12,Pedamanapuram,GEN,,54393,IND,V. N. Appalanaidu,27725,INC,V. K. M. Naidu,26668,1057,1.94
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,13,Vunukuru,GEN,,48645,IND,M. B. Parankusam,22047,INC,P. Sangamnaidu,11545,10502,21.59
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,14,Palakonda,SC,,39323,SWA,J. Joji,17184,INC,K. Narasayya,15289,1895,4.82
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,15,Nagarikatakam,GEN,,48016,INC,T. Paparao,24186,SWA,D. Jagannadharao,20821,3365,7.01
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,16,Srikakulam,GEN,,49713,SWA,T. Satyanatayana,27764,INC,A. Tharitayya,18276,9488,19.09
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,17,Etcherla,GEN,,45541,INC,N. A. Naidu,20802,IND,B. Hariyappaduraddi,17904,2898,6.36
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,18,Ponduru,GEN,,42492,SWA,C. Satyanarayan,20773,INC,L. Lakshmanadas,17708,3065,7.21
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,19,Cheepurupalli,GEN,,40683,IND,T. R. Rao,24532,INC,K. S. Appalanaidu,7976,16556,40.7
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,20,Gajapathinagaram,GEN,,48849,IND,P. Sambasivaraju,32002,INC,T. S. Naidu,16847,15155,31.02
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,21,Vizianagaram,GEN,,47377,BJS,V. Ramrao,31283,INC,B. S. R. Murty,12924,18359,38.75
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,22,Bhogapuram,GEN,,42416,INC,K. A. Dora,23924,IND,M. Satyanarayana,18492,5432,12.81
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,23,Bhimli,GEN,,45244,INC,V. R. G. R. Pusapati,26174,IND,M. N. Rao,8858,17316,38.27
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,24,Visakhapatnam I,GEN,,49312,IND,V. Tenneti,29001,INC,V. B. Ankitham,14715,14286,28.97
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,25,Visakhapatnam Ii,GEN,,38502,CPI(M),P. S. Rao,12305,INC,P. M. Naidu,11246,1059,2.75
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,26,Jami,GEN,,54835,SWA,B.A. Gorrepati,30232,INC,D. Allu,24603,5629,10.27
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,27,Madugula,GEN,,48865,INC,R. K. Devi,34561,IND,S. Bhumireddy,14304,20257,41.46
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,28,Srungavarapukota,GEN,,50141,IND,A. Kolla,18754,INC,K. V. S. Padmanabharaju,16182,2572,5.13
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,29,Paderu,ST,,8916,INC,T. Chittinaidu,4104,IND,P. R. Rao,1588,2516,28.22
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,30,Gompa,GEN,,51988,INC,G. Krishnamnaidu,30330,SWA,S. Appalanaidu,21658,8672,16.68
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,31,Chodavaram,GEN,,58500,SWA,V. Palavelli,36900,INC,I. Satyanarayana,21600,15300,26.15
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,32,Anakapalle,GEN,,51881,CPI,K. G. Rao,20539,SWA,B. V. Naidu,12249,8290,15.98
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,33,Paravada,GEN,,38724,INC,S. R. S. Appalanaidu,26959,IND,B. R. Naidu,11765,15194,39.24
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,34,Yellamanchili,GEN,,50930,IND,N. Satyanarayana,22994,INC,V. S. Naidu,20639,2355,4.62
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,35,Payakaraopet,SC,,39125,INC,G. Suryanarayana,13804,SWA,B. Nagabhushanan,12165,1639,4.19
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,36,Narsipatnam,GEN,,59498,INC,S. S. Raju,36038,SWA,R. L. Patrudu,21190,14848,24.96
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,37,Chintapalli,ST,,30106,INC,D. K. Rao,13512,SWA,P. B. Padalu,8662,4850,16.11
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,38,Yellavaram,ST,,19672,INC,M. Chodi,7523,SWA,B. Karam,4193,3330,16.93
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,39,Burugupudi,GEN,,57600,INC,V. Kandru,30255,IND,R. Manyan,25065,5190,9.01
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,40,Rajahmundry,GEN,,55343,CPI,C. P. Chaudari,27003,INC,P. V. Rao,21853,5150,9.31
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,41,Kadiam,SC,,44880,INC,B. Subbarao,38359,IND,R. Chandramalla,4063,34296,76.42
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,42,Jaggampeta,GEN,,54428,IND,K. Pantam,28771,INC,V. Mutyalarao,22138,6633,12.19
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,43,Peddapuram,GEN,,58127,CPI,N. M. Vundavalli,23774,INC,K. M. Kondapalli,21470,2304,3.96
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,44,Prathipadu,GEN,,58072,IND,M. Veeraraghavarao,35239,INC,V. Jogiraju,22833,12406,21.36
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,45,Tuni,GEN,,56696,INC,V. V. Krishnamraju,32920,PSP,K. Janardhanarao,23776,9144,16.13
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,46,Pithapuram,GEN,,51613,INC,S. Yella,21053,IND,P. Tammiraju,18636,2417,4.68
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,47,Sampara,GEN,,54215,INC,V. Cherukuveda,25269,CPI,K. V. Gopalaswami,20050,5219,9.63
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,48,Kakinada,GEN,,45489,IND,C. V. K. Rao,25898,INC,B. R. Dantu,17077,8821,19.39
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,49,Tallarevu,SC,,37400,INC,E. Vadapalli,20735,CPI(M),S. Venkatarao,13390,7345,19.64
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,50,Anaparthi,GEN,,62464,INC,R. C. Valluri,25822,IND,V. Goluguri,25419,403,0.65
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,51,Ramachandrapuram,GEN,,50011,IND,N. Veerraju,14929,INC,N. Satyanarayanarao,12344,2585,5.17
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,52,Pamarru,GEN,,61434,IND,V. Sangitha,31659,INC,S. B. W. Rao,28933,2726,4.44
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,53,Cheyyeru,GEN,,60868,IND,C. B. Krishnamraju,38114,INC,P. V. Rao,22754,15360,25.23
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,54,Allavaram,SC,,34162,CPI,B. V. Ramanayya,12543,INC,C. Gangisetti,8625,3918,11.47
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,55,Amalapuram,GEN,,50430,IND,K. P. Rao,25383,INC,N. R. Raju,22091,3292,6.53
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,56,Kothapeta,GEN,,55703,INC,V. S. S. R. Mantena,28902,IND,S. Mutyarea,25759,3143,5.64
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,57,Nagaram,SC,,47965,INC,M. Geddam,23202,CPI,G. R. Neetipudi,11526,11676,24.34
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,58,Razole,GEN,,55024,INC,G. R. Nayinala,17825,IND,S. Balla,13680,4145,7.53
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,59,Narasapuram,GEN,,61091,CPI(M),S. R. Rudraraju,28228,INC,S. Parakala,23923,4305,7.05
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,60,Palakol,GEN,,54670,CPI(M),P. Seshavataram,27161,INC,U. S. Raju,19905,7256,13.27
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,61,Achanta,SC,,60912,INC,D. Perumallu,31630,CPI(M),D. S. Raju,23935,7695,12.63
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,62,Bhimavaram,GEN,,60197,IND,B. V. Raju,31839,INC,N. Venkatramayya,22632,9207,15.29
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,63,Undi,GEN,,58921,IND,K. K. Rao,31659,INC,G. Rangaraju,27262,4397,7.46
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,64,Penukonda,GEN,,57372,INC,J. Lakshmayya,30759,CPI,V. Satyanarayana,23784,6975,12.16
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,65,Tanuku,GEN,,67594,IND,G. Satyanarayana,36157,INC,M.H. Prasad,29276,6881,10.18
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,66,Attili,GEN,,60563,INC,K. Vijayanarasimharaju,28169,CPI,L. Apparao,19917,8252,13.63
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,67,Tadepalligudem,GEN,,56641,INC,A. Krishnarao,24129,IND,Y. Anjaneyulu,20529,3600,6.36
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,68,Unguturu,GEN,,59450,INC,C. S. C. V. M. Raju,31728,IND,V. R. P. Saradhi,27722,4006,6.74
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,69,Denduluru,GEN,,61991,INC,M. Ramamohanarao,32088,IND,K. V. Sadasivarao,28274,3814,6.15
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,70,Eluru,GEN,,47120,INC,M. Venkatanarayana,18003,CPI,A. S. Rao,13163,4840,10.27
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,71,Gopalapuram,SC,,47396,INC,T. V. Raghavulu,28793,CPI(M),C. V. Rao,9861,18932,39.94
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,72,Kovur,GEN,,65568,IND,K. B. Rayudu,34556,INC,A. Bapineedu,30168,4388,6.69
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,73,Polavaram,ST,,38050,INC,K. R. Reddi,25797,CPI,J. Sankurudu,12253,13544,35.6
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,74,Chintalapudi,GEN,,50212,INC,G. Vishnumurthy,21884,IND,I. Paparao,11059,10825,21.56
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,75,Jaggayyapet,GEN,,54854,INC,R. B. R. S. Sresti,27082,IND,T. R. Murty,14008,13074,23.83
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,76,Nandigama,GEN,,53883,INC,A. S. Rao,25162,CPI,P. Kodandaramayya,17431,7731,14.35
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,77,Vijayawada East,GEN,,50268,INC,V. S. C. R. Tenneti,26029,CPI,R. R. Katragadda,17544,8485,16.88
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,78,Vijayawada West,GEN,,54748,INC,Chitti,26295,CPI,P. Tammina,23747,2548,4.65
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,79,Kankipadu,GEN,,53432,INC,A. B. Rao,29897,CPI(M),K. V. S. V. P. Rao,23535,6362,11.91
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,80,Mylavaram,GEN,,64135,INC,C. V. Rao,40112,CPI,V. V. Rao,20387,19725,30.76
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,81,Tiruvuru,SC,,55229,INC,V. Kurmayya,26225,CPI(M),B. Sanjeevi,15782,10443,18.91
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,82,Nuzvid,GEN,,64762,INC,R. R. Meka,36468,IND,M. R. Tiruvur,28294,8174,12.62
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,83,Gannavaram,GEN,,51383,INC,V. Seetaramayya,27656,CPI(M),S. Manikonda,23727,3929,7.65
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,84,Vuyyur,GEN,,54899,IND,V. R. Kadiyala,28295,INC,V. Kakani,26604,1691,3.08
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,85,Gudivada,GEN,,54650,INC,M. K. Devi,24854,CPI(M),V. S. R. Puttagunta,15851,9003,16.47
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,86,Mudinepalli,GEN,,61399,IND,K. Ramanatham,31503,INC,B. Hanumantarao,29078,2425,3.95
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,87,Kaikalur,GEN,,57148,IND,C. Pandurangarao,28343,INC,K. Apparao,26649,1694,2.96
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,88,Malleswaram,GEN,,63419,IND,N. R. Buragadda,31944,INC,P. Pinnenti,23754,8190,12.91
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,89,Machilipatnam,GEN,,46516,INC,L. R. Pedasingu,22620,IND,S. V. Rao,19794,2826,6.08
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,90,Nidumolu,SC,,55405,INC,S. R. Kanumuri,21104,CPI(M),B. Gunturu,20775,329,0.59
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,91,Avanigadda,GEN,,59812,INC,S. R. Yarlagadda,24318,CPI(M),B. K. Sanka,15955,8363,13.98
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,92,Kuchinapudi,GEN,,52043,INC,B. Anagani,29526,IND,S. Evuru,19622,9904,19.03
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,93,Repalle,GEN,,47107,INC,Y. Chennaiah,26595,CPI(M),K. Satyanarayana,17551,9044,19.2
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,94,Vemuru,GEN,,65463,SWA,V. Yadlapati,35130,INC,V. Nannapaneni,30333,4797,7.33
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,95,Duggirala,GEN,,55201,IND,A. Ramireddy,22866,INC,B. Gopalareddy,22185,681,1.23
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,96,Tenali,GEN,,62665,INC,I. Doddapaneni,44909,IND,S. Chintamaneni,12574,32335,51.6
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,97,Ponnur,GEN,,56739,INC,A. P. Pamulapati,32996,CPI(M),V. Kolla,20821,12175,21.46
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,98,Bapatla,GEN,,57151,INC,K. P. Rao,32344,CPI(M),K. V. Rao,17117,15227,26.64
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,99,Chirala,GEN,,55080,INC,P. Kotaiah,25704,IND,K. Rosaiah,23138,2566,4.66
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,100,Parchur,GEN,,50554,INC,G. V. Reddy,28446,CPI(M),N. Venkataswamy,18019,10427,20.63
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,101,Ongole,GEN,,56736,INC,C. R. Reddy,27503,IND,B. V. Lakshminarayana,19491,8012,14.12
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,102,Santhanuthalapadu,GEN,,54125,INC,V. C. K. Rao,29478,CPI(M),T. Chenchaiah,19657,9821,18.15
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,103,Addanki,GEN,,59889,INC,P. Dasari,27517,SWA,V. Nagineni,25449,2068,3.45
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,104,Chilakaluripet,GEN,,63134,SWA,B. Kandimalla,29899,INC,V. Nuti,29227,672,1.06
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,105,Narasaraopet,GEN,,70659,INC,B. R. Kasu,42179,SWA,V. Kotnuri,28480,13699,19.39
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,106,Prathipadu,GEN,,59374,SWA,M. C. Nagaiah,26361,IND,E. C. R. Reddy,23723,2638,4.44
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,107,Guntur I,GEN,,48461,INC,S. Ankamma,18506,CPI,K. Mallayyalingam,11914,6592,13.6
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,108,Guntur Ii,GEN,,59776,INC,C. Hanumaiah,31936,CPI,K. Nagaiah,17877,14059,23.52
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,109,Mangalagiri,GEN,,55848,INC,T. N. Rao,18963,CPI,V. S. Krishna,17071,1892,3.39
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,110,Tadikonda,GEN,,49139,INC,G.V. Rattaiah,23449,CPI(M),K. Sivaramakrishnaiah,16419,7030,14.31
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,111,Sattenapalli,GEN,,60517,IND,G.K. Vavilala,30439,INC,N.R. Manukonia,27996,2443,4.04
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,112,Pedakurapadu,GEN,,61539,INC,R.R. Ganapa,38228,CPI(M),V.Puthumbaka,17709,20519,33.34
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,113,Gurzala,GEN,,48525,INC,K. Venkateswarlu,20876,IND,C. M. Gadipudi,13799,7077,14.58
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,114,Macherla,GEN,,55794,INC,L. Venna,23277,IND,N. Julakanti,23197,80,0.14
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,115,Vinukonda,GEN,,55689,INC,B. Jayaprade,27975,SWA,A. Venkateswarlu,17748,10227,18.36
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,116,Darsi,GEN,,57816,SWA,M. Ravipati,32931,INC,V. R. R. Dirisala,24885,8046,13.92
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,117,Podili,GEN,,54318,INC,N. S. Katuri,26543,CPI,K. R. S. Kommu,23758,2785,5.13
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,118,Kanigiri,GEN,,52619,INC,V. R. Puli,25620,CPI(M),P. R. Sura,23350,2270,4.31
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,119,Udayagiri,GEN,,54495,SWA,N. Dhanenkula,29500,INC,R. C. Kovi,19826,9674,17.75
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,120,Kandukur,GEN,,63942,INC,N. C. R. Naidu,34927,SWA,V. Y. K. Reddy,29015,5912,9.25
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,121,Kondapi,GEN,,51649,INC,C. R. Naidu,25218,CPI,G. Y. Reddy,23970,1248,2.42
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,122,Kavali,GEN,,50771,SWA,G. Subbanaidu,26540,INC,G. C. Kondaiah,24231,2309,4.55
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,123,Allur,GEN,,57560,IND,B. Papireddy,32822,INC,V. Vimaladevi,13389,19433,33.76
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,124,Kovur,GEN,,58482,INC,V. Venkureddy,31994,CPI(M),J. Kotaiah,23674,8320,14.23
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,125,Atmakur,GEN,,61564,SWA,R. R. Pellakure,33394,INC,S. R. Anam,28170,5224,8.49
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,126,Rapur,GEN,,60873,INC,C. S. R. Anam,36071,IND,R. R. Battepati,24802,11269,18.51
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,127,Nellore,GEN,,46156,BJS,M. R. Annadata,13806,CPI(M),V. Nidigallu,11951,1855,4.02
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,128,Sarvepalli,SC,,51270,CPI,V. Swarna,24069,IND,S. R. Jogi,23803,266,0.52
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,129,Gudur,GEN,,62021,IND,V. Ramachandrareddy,33126,INC,P. S. Naidu,25751,7375,11.89
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,130,Sullurpeta,SC,,51794,IND,P. Venkatasubbiah,24840,INC,M. Muniswamy,22987,1853,3.58
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,131,Venkatagiri,SC,,54390,IND,O. Venkatasubbaiah,31193,INC,A. Krishnaiah,23197,7996,14.7
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,132,Kalahasti,GEN,,62975,IND,G. S. R. Bojjala,34282,INC,B. R. Adduru,26531,7751,12.31
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,133,Satyavedu,SC,,42733,SWA,K. Munaswamy,20737,INC,T. Balakrishnaiah,11480,9257,21.66
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,134,Nagari,GEN,,54769,INC,G. N. Kilari,31292,SWA,K. B. Siddaiah,23477,7815,14.27
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,135,Puttur,GEN,,47333,CPI,G. Siviah,26810,INC,N. R. Pandigunta,15595,11215,23.69
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,136,Vepanjeri,SC,,49399,INC,V. Munisamappa,30329,SWA,T. Dorai,19070,11259,22.79
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,137,Chittoor,GEN,,56199,INC,D. A. Naidu,32559,SWA,P. V. Naidu,20979,11580,20.61
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,138,Bangaripoliem,SC,,44978,INC,M. Munaswamy,24857,SWA,G. Chinnasami,20121,4736,10.53
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,139,Kuppam,GEN,,38707,IND,D. Venkatesam,13542,INC,D. Ramabramham,12945,597,1.54
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,140,Palamaner,SC,,43417,SWA,T. C. Rajan,25779,INC,B. L. N. Naidu,16218,9561,22.02
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,141,Punganur,GEN,,53482,INC,V. R> Reddy,29452,SWA,B. M. Reddy,20937,8515,15.92
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,142,Madanapalle,GEN,,54292,INC,A. N. Rao,29600,SWA,R. R. Reddy,20272,9328,17.18
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,143,Thamballapalle,GEN,,48379,INC,T. N. Anasuyamma,27432,SWA,S. J. Reddy,13290,14142,29.23
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,144,Vayalpad,GEN,,52830,INC,P. T. Reddy,28856,IND,A. R. Nallari,22816,6040,11.43
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,145,Pileru,GEN,,61575,INC,V. C. R. Gurram,28816,SWA,R. R. Varanasi,20935,7881,12.8
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,146,Tirupati,GEN,,65271,SWA,E. R. Agarala,45931,INC,G. R. Pandraveti,11705,34226,52.44
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,147,Kodur,SC,,37277,SWA,N. Penchalaiah,16683,INC,P. V. Subbaiah,13677,3006,8.06
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,148,Rajampet,GEN,,56967,IND,Ratnasabhapathy,35845,INC,K. M. Reddy,21122,14723,25.84
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,149,Rayachoti,GEN,,54160,INC,M. K. Reddy,30775,IND,K. R. Gorla,23385,7390,13.64
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,150,Lakkireddipalli,GEN,,47716,INC,R. R. G. Reddy,34095,SWA,M. R. Galiveeti,6702,27393,57.41
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,151,Kadapa,GEN,,56649,INC,M. Rahamatulla,28742,SWA,V. R. Vaddamani,26734,2008,3.54
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,152,Badvel,GEN,,58737,INC,B. V. Reddy,34404,IND,P. B. Reddy,24333,10071,17.15
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,153,Mydukur,GEN,,59743,INC,S. P. N. Reddy,28368,IND,G. R. Reddy,27559,809,1.35
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,154,Proddatur,GEN,,54316,INC,R. S. R. Rajulapalle,27354,IND,Y. R. Panyam,25994,1360,2.5
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,155,Jammalamadugu,GEN,,52700,IND,R. Kunda,28648,INC,N. R. Thathireddy,23544,5104,9.69
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,156,Kamalapuram,GEN,,54512,IND,N. Pullareddy,27299,INC,V. V. Reddy,27213,86,0.16
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,157,Pulivendula,GEN,,53196,INC,B. R. Penchikala,43421,CPI(M),V. R. Ponnathota,9775,33646,63.25
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,158,Kadiri,GEN,,43112,INC,K. V. Reddy K. V,22235,CPI(M),S. A. Rawoof,9138,13097,30.38
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,159,Nallamada,GEN,,38586,INC,K. R. Reddy,16820,CPI(M),T. L. Reddy,14017,2803,7.26
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,160,Gorantla,GEN,,48166,INC,P. B. Reddy,31971,IND,T. M. Reddy,16195,15776,32.75
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,161,Hindupur,GEN,,40402,IND,A. Katnagante,16201,INC,K. R. H. Reddy,13875,2326,5.76
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,162,Madakasira,SC,,44644,SWA,M. B. R. Rao,28382,INC,R. Bhajana,14535,13847,31.02
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,163,Penukonda,GEN,,39753,INC,N. Reddy,21513,IND,Nanjireddy,15265,6248,15.72
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,164,Kalyandurg,SC,,42759,IND,T.C. Mareppa,19648,CPI,B.T. Pakitappa,13179,6469,15.13
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,165,Rayadurg,GEN,,56286,SWA,Tippeswamy,30801,INC,L.C. Reddy,25485,5316,9.44
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,166,Uravakonda,GEN,,46105,INC,C.V. Gurram,19078,IND,S.S. Reddy,13687,5391,11.69
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,167,Gooty,GEN,,51345,IND,R.R. Gaud,22729,INC,P.S. Thakkalapalle,18380,4349,8.47
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,168,Singanamala,GEN,,40846,INC,C.S. Kothuru,15473,CPI(M),R.R. Kummetha,13622,1851,4.53
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,169,Anantapur,GEN,,41695,CPI(M),N. Tarimela,20070,INC,V. Anantha,17610,2460,5.9
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,170,Dharmavaram,GEN,,50336,SWA,P. Venkatesan,26798,INC,P.V. Chouwdary,23538,3260,6.48
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,171,Tadpatri,GEN,,55641,INC,C. Subbarayudu,29707,IND,V.K. Obireddy,25934,3773,6.78
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,172,Allur,SC,,32438,SWA,D. Govindadass,16754,INC,S. Nagappa,14236,2518,7.76
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,173,Adoni,GEN,,39332,INC,T.G.L. Thimmaiah,24535,SWA,H. Saheb,12279,12256,31.16
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,174,Yemmiganur,GEN,,44891,INC,P. O. S. Raju,24501,SWA,Y. C. V. Gowd,17595,6906,15.38
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,175,Kodumur,SC,,54462,SWA,P. R. Rao,33457,INC,D. Muniswamy,21005,12452,22.86
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,176,Kurnool,GEN,,48648,INC,K. E. Madanna,23394,SWA,B. S. Khan,20776,2618,5.38
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,177,Pathikonda,GEN,,48674,CPI(M),K. E. Reddy,25100,INC,K. B. Narasappa,23574,1526,3.14
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,178,Dhone,GEN,,57486,SWA,K. V. K. Murthy,34092,INC,M. Seshanna,23394,10698,18.61
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,179,Koilkuntla,GEN,,58909,INC,B. V. S. Reddy,32092,IND,K. R. Reddy,26817,5275,8.95
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,180,Allagadda,GEN,,56087,IND,G. T. Reddy,40219,INC,S. S. Reddy,12244,27975,49.88
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,181,Panyam,GEN,,53397,IND,V. Reddy,26354,INC,E. A. Reddy,24770,1584,2.97
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,182,Nandikotkur,GEN,,64848,INC,C. R. Reddy,32951,IND,V. R. Atmakuru,30015,2936,4.53
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,183,Nandyal,GEN,,58689,INC,S. B. N. Saheb,29309,IND,C. Eswaraiah,17796,11513,19.62
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,184,Giddalur,GEN,,49144,IND,D. P. Rangareddi,29970,INC,A. R. Swami,5342,24628,50.11
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,185,Markapur,GEN,,54609,IND,C. Vengaiah,27335,INC,K. D. Reddy,24535,2800,5.13
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,186,Yerragondapalem,GEN,,43383,CPI,P. Subbayya,26451,INC,Y. Ramaiah,13780,12671,29.21
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,187,Achampet,SC,,32895,INC,P. Mahendranath,20166,CPI,Y. Peddaiah,7677,12489,37.97
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,188,Nagarkurnool,GEN,,50335,IND,V. N. Goud,29072,INC,K. J. Reddy,17498,11574,22.99
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,189,Kalwakurthy,GEN,,39799,IND,G. Reddy,19289,INC,S. Talpallikar,14546,4743,11.92
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,190,Shadnagar,SC,,20171,INC,K. Naganna,11367,SWA,B. M. Rao,5997,5370,26.62
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,191,Jadcherla,GEN,,35410,IND,L. N. Reddy,19135,INC,M. R. D. Reedy,14465,4670,13.19
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,192,Mahbubnagar,GEN,,34673,INC,M. I. Ali,24846,BJS,R. Reddy,7746,17100,49.32
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,193,Wanaparthy,GEN,,42927,INC,J. K. Devi,28310,IND,J. Reddy,13890,14420,33.59
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,194,Alampur,GEN,,41108,INC,T. C. Reddy,35780,IND,J. Reddy,4330,31450,76.51
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,195,Kollapur,GEN,,51049,IND,B. N. Reddy,25321,INC,K. Rangadas,23749,1572,3.08
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,196,Gadwal,GEN,,41941,IND,G. Reddy,21572,INC,D. K. S. Reddy,14145,7427,17.71
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,197,Amarchinta,GEN,,53997,IND,S. Bhopalb,28231,INC,J. Devamma,25766,2465,4.57
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,198,Makthal,GEN,,46130,INC,K. R. Rao,23130,IND,S. Rao,21093,2037,4.42
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,199,Kodangal,GEN,,38745,INC,K.A Reddy,23865,IND,M. Reddy,14880,8985,23.19
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,200,Tandur,GEN,,43074,INC,M.C. Reddy,29974,IND,V.R. Rao,11571,18403,42.72
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,201,Vicarabad,SC,,26580,INC,A. Ramaswamy,19501,IND,Devadasu,7079,12422,46.73
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,202,Pargi,GEN,,41324,IND,R. Reddy,21087,INC,A. Shareef,20237,850,2.06
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,203,Chevella,GEN,,41841,IND,S. Didge,24548,INC,G.R. Konda,17293,7255,17.34
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,204,Ibrahimpatnam,GEN,,46932,INC,M.N.L. Narsiah,20849,IND,D.M. Reddy,15581,5268,11.22
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,205,Musheerabad,GEN,,37070,INC,T. Anjiah,16811,CPI,S.N. Reddy,13011,3800,10.25
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,206,Gagan Mahal,GEN,,24859,INC,V. Naik,15415,BJS,A. V. Sarma,4373,11042,44.42
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,207,Maharajganj,GEN,,41164,SSP,B. V. Pitti,19077,INC,K. S. Gupta,13021,6056,14.71
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,208,Khairatabad,GEN,,36349,INC,B. V. Gurumurthy,22576,IND,S. Shankeriah,7037,15539,42.75
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,209,Asafnagar,GEN,,31305,INC,M. M. Hashim,15010,IND,I. Zabhi,11762,3248,10.38
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,210,Sitarambagh,GEN,,38694,IND,A. Hussain,17478,SSP,D. Goswamy,10824,6654,17.2
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,211,Malakpet,GEN,,35644,INC,B. S. .P. Reddy,17662,IND,A. Rahman,8692,8970,25.17
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,212,Yakutpura,GEN,,32238,IND,K. Nizamuddin,17543,BJS,S. R. Rao,7636,9907,30.73
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,213,Charminar,GEN,,35589,IND,S. S. Dwaisi,17902,BJS,C. L. Meghraj,10402,7500,21.07
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,214,Secunderabad,GEN,,25683,INC,K. S. Narayana,14871,IND,B. S. M. Singh,8658,6213,24.19
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,215,Secunderabad Cantonment,SC,,37917,INC,V. R. Rao,22643,IND,B.Devarajan,11558,11085,29.23
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,216,Medchal,SC,,28987,INC,S. Devi,19001,IND,K. R. Abbiah,4560,14441,49.82
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,217,Siddipet,GEN,,43771,INC,V. B. Raju,24238,CPI,A. G. Reddi,12995,11243,25.69
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,218,Dommat,GEN,,39505,IND,M. B. Reddi,16934,INC,K.. Moinuddin,13971,2963,7.5
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,219,Gajwel,SC,,40498,INC,G. Saidiah,21762,IND,J. H. Krishnamoorthy,16324,5438,13.43
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,220,Narsapur,GEN,,46868,INC,C. J. Rao,21860,CPI,C. V. Reddy,21169,691,1.47
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,221,Sangareddy,GEN,,50710,IND,N. Reddy,23404,INC,P. R. Reddy,21336,2068,4.08
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,222,Andole,SC,,39921,INC,C. R. Narsimha,22562,IND,K. Eshwarappa,12805,9757,24.44
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,223,Zahirabad,GEN,,41748,INC,M. B. Reddy,21450,IND,T. Lakshmareddy,15872,5578,13.36
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,224,Narayankhed,GEN,,42314,INC,S. R. Shetker,22449,IND,A. R. R. Patel,19865,2584,6.11
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,225,Medak,GEN,,39182,INC,R. Reddy,16251,IND,K. Sireddy,5537,10714,27.34
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,226,Ramayampet,GEN,,41861,INC,R. Rathnamma,26859,IND,U. Chandriah,15002,11857,28.32
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,228,Armur,GEN,,41166,INC,T.R.Reddy,25399,IND,G.S. Rao,15767,9632,23.4
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,229,Kamareddy,GEN,,39947,IND,M. Reddi,28782,INC,V.V. Reddy,9362,19420,48.61
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,230,Yellareddy,SC,,26316,RPI,J. E. Bai,12401,INC,T. N. Sadalaximi,7958,4443,16.88
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,231,Banswada,GEN,,42966,INC,M.S. Rao,24198,IND,K.L.N. Goud,15208,8990,20.92
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,232,Jukkal,GEN,,33231,IND,V. Reddy,18286,INC,N.R. Tammewar,14945,3341,10.05
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,233,Bodhan,GEN,,43488,IND,R.B. Rao,22872,INC,K.V. Reddy,14248,8624,19.83
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,234,Nizamabad,GEN,,34690,IND,K.V. Gangadhar,14234,INC,M. W. A. Baig,9625,4609,13.29
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,235,Mudhole,GEN,,46311,IND,Gaddenna,34610,INC,G. G. Reddy,11701,22909,49.47
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,236,Nirmal,GEN,,42765,INC,P. N. Reddy,24595,IND,L. P. Reddy,15308,9287,21.72
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,237,Boath,ST,,31230,INC,S. A. Devshah,16299,CPI,D. A. Rao,10676,5623,18.01
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,238,Adilabad,GEN,,41298,CPI,K. Ramkishtoo,17881,INC,A. V. Ramanna,16727,1154,2.79
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,239,Asifabad,ST,,30020,INC,K. B. Rao,16862,CPI,A. G. Reddy,10879,5983,19.93
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,240,Sirpur,GEN,,32378,INC,G. S. Reddy,14564,IND,M. Singh,8739,5825,17.99
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,241,Luxettipet,GEN,,50972,INC,J. V. N. Rao,36899,IND,T. R. Rao,10734,26165,51.33
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,242,Chinnur,SC,,37600,INC,K. Rajamallu,17328,IND,Rajamallaiah,14645,2683,7.14
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,243,Manthani,GEN,,42250,INC,P. V. N. Rao,25810,IND,K. M. R. Ura,16440,9370,22.18
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,244,Peddapalle,GEN,,47390,IND,J. M. Reddy,30325,INC,B. Ramulu,11105,19220,40.56
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,245,Mydaram,SC,,32268,INC,G. Ramulu,20241,CPI,P. Elpula,9006,11235,34.82
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,246,Huzurabad,GEN,,46361,INC,N. R. Polsani,23470,IND,R. R. Kotha,18197,5273,11.37
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,247,Kamalapur,GEN,,49237,INC,K. V. N. Reddy,30626,IND,S. R. Madadi,15716,14910,30.28
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,248,Indurthi,GEN,,45520,INC,B. L. Rao,17878,CPI,C. V. Rao,15397,2481,5.45
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,249,Nusthulapur,SC,,34759,INC,B. Rajaram,16308,IND,E. Malliah,10255,6053,17.41
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,250,Karimnagar,GEN,,43963,INC,J. Chokkarao,19263,IND,M. Ramgopalreddy,15967,3296,7.5
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,251,Buggaram,GEN,,34489,INC,Y. M. Reddy,24975,IND,A. N. Reddy,5018,19957,57.86
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,253,Metpalli,GEN,,48124,IND,C. S. Rao,20790,INC,V. R. Rao,11453,9337,19.4
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,254,Sircilla,GEN,,43951,CPI,C. R. Rao,23525,INC,J. N. Rao,15193,8332,18.96
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,255,Nerella,SC,,36636,IND,G. Bhoopathi,12243,CPI,J.M.R. Devi,10283,1960,5.35
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,256,Cheriyal,SC,,35178,CPI,B. Abraham,15195,INC,G. Ramalingam,12735,2460,6.99
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,257,Jangaon,GEN,,48533,INC,M. K. Ahmed,20956,CPI(M),E. N. Reddy,17174,3782,7.79
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,258,Chennur,GEN,,49125,INC,N. R. Devi,26990,CPI(M),N. Narsimhulu,20204,6786,13.81
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,259,Dornakal,GEN,,51231,INC,N. R. Reddy,35743,IND,V. Kakshminarayan,14001,21742,42.44
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,260,Mahabubabad,GEN,,53581,CPI,T. Satyanarayan,25635,INC,G. M. Rao,22164,3471,6.48
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,261,Narsampet,GEN,,55893,INC,K. S. Reddy,23395,CPI(M),A. V. Rao,17155,6240,11.16
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,262,Wardhannapet,GEN,,51028,IND,T. P. Rao,22966,INC,P. U. Reddy,13670,9296,18.22
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,263,Ghanpur (Station),GEN,,51741,IND,T. L. Reddy,20536,INC,T. H. Chary,17280,3256,6.29
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,264,Warangal,GEN,,42705,IND,T. S. Moorthy,25418,INC,B. N. B. Rao,9929,15489,36.27
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,265,Hasanparthy,SC,,41069,INC,R. N. Ramaiah,17820,IND,P. Kornelu,16701,1119,2.72
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,266,Parkal,GEN,,53451,BJS,C. J. Reddy,18751,INC,B. Kailasam,16889,1862,3.48
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,267,Mulug,GEN,,49332,IND,Santosh,18058,CPI(M),P. R. Narasaiah,13129,4929,9.99
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,268,Bhadrachalam,ST,,34995,INC,K. K. Dora,16855,CPI(M),S. Sitaramayya,9919,6936,19.82
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,269,Burgampahad,ST,,53142,INC,R. Komaram,27631,IND,P. Cheemala,13607,14024,26.39
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,270,Palwancha,GEN,,45652,INC,P. Panuganti,25926,CPI(M),S. Passa,8892,17034,37.31
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,271,Vemsoor,GEN,,53206,INC,J. V. Rao,37595,IND,M. Venkaiah,13220,24375,45.81
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,272,Madhira,GEN,,59231,INC,D. Venkaiah,26076,CPI(M),B. V. Rao,15672,10404,17.57
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,273,Palair,SC,,56617,INC,K. Santhaiah,25149,CPI(M),S. Sundaraiah,17324,7825,13.82
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,274,Khammam,GEN,,56564,CPI(M),M. Razabali,30344,INC,S. S. P. Rao,20820,9524,16.84
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,275,Yellanda,GEN,,46104,INC,G. S. Rao,18004,CPI,R. R. Bodempudi,12256,5748,12.47
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,276,Tungaturthi,GEN,,58309,CPI(M),B. N. Reddy,24226,INC,V. N. Reddy,22774,1452,2.49
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,277,Suryapet,SC,,56527,CPI(M),U. Malsoor,27180,INC,M. Mysaiah,23945,3235,5.72
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,278,Huzurnagar,GEN,,61670,INC,A. R. V. D. Rao,26618,CPI(M),D. Narasaiah,23730,2888,4.68
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,279,Miryalguda,GEN,,51072,INC,T. C. K. Reddy,21090,CPI(M),C. S. R. Reddy,20550,540,1.06
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,280,Chalakurthi,GEN,,37462,IND,N. Ramulu,13999,CPI(M),M. A. Reddy,7343,6656,17.77
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,281,Nakrekal,GEN,,49919,CPI(M),N. R. Reddy,24741,INC,Musapetakamala,17788,6953,13.93
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,282,Nalgonda,GEN,,42780,INC,C. S. Rao,19262,CPI(M),B. Yalamanda,12469,6793,15.88
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,283,Ramannapet,SC,,43098,INC,V. K. Ram,19432,CPI,S. Avilaiah,14864,4568,10.6
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,284,Alair,GEN,,53120,INC,A. P. Reddy,22404,CPI,P. C. Reddy,11801,10603,19.96
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,285,Bhongir,GEN,,49874,INC,K. L. Bapuji,28009,CPI,A. R. Reddy,13862,14147,28.37
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,286,Munugode,GEN,,44475,INC,G. R. Palvai,26204,CPI,U. N. Rao,10582,15622,35.13
+ae-andhra-pradesh-1967,AE,Andhra Pradesh,1967,1967,official,287,Devarakonda,GEN,,47233,INC,G. P. N. Reddy,31422,CPI,P. P. Reddy,10441,20981,44.42

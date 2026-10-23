@@ -1,0 +1,41 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,1,Hachhek,GEN,Mamit *,18362,INC,Lalrindika Ralte,6202,MNF,Lalrinenga Sailo,5836,366,1.99
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,2,Dampa,GEN,Mamit *,15294,MNF,Lalrintluanga Sailo,5840,INC,Lalrobiaka,4183,1657,10.83
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,3,Mamit,GEN,Mamit *,19236,MNF,H. Lalzirliana,6874,INC,John Rotluangliana,6467,407,2.12
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,4,Tuirial,GEN,Kolasib *,14184,IND,Andrew H. Thangliana,4387,MNF,Sailothanga Sailo,4183,204,1.44
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,5,Kolasib,GEN,Kolasib *,17705,MNF,K. Lalrinliana,5940,IND,Lalfamkima,5661,279,1.58
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,6,Serlui,GEN,Kolasib *,15921,MNF,Lalrinsanga Ralte,6128,INC,Lalhmachhuana,5201,927,5.82
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,7,Tuivawl,GEN,Aizawl,13159,MNF,Lalchhandama Ralte,5207,INC,R. L. Pianmawia,5204,3,0.02
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,8,Chalfilh,GEN,Aizawl,14897,MNF,Lalrinliana Sailo,5541,IND,F. Rualhleia,4534,1007,6.76
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,9,Tawi,GEN,Aizawl,13186,MNF,R.Lalzirliana,4940,IND,R. Lalthatluanga,4756,184,1.4
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,10,I,GEN,Aizawl,17620,IND,Vanlalhlana,7094,MNF,Lalringliana,5929,1165,6.61
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,11,Ii,GEN,Aizawl,18061,IND,Vanlalthlana,7775,MNF,Laltlanzova Khiangte,5974,1801,9.97
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,12,Aizawl North-Iii,GEN,Aizawl,14624,MNF,C Lalmuanpuia,5166,INC,Lal Thanzara,4732,434,2.97
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,13,I,GEN,Aizawl,19488,MNF,Zoramthanga,8358,IND,K Sapdanga,5854,2504,12.85
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,14,Aizawl East Ii,GEN,Aizawl,14176,MNF,Robert Romawia Royte,5869,IND,B Lalchhanzova,4377,1492,10.52
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,15,Aizawl West I,GEN,Aizawl,20318,IND,Lalduhoma,7889,MNF,K. Sangthuama,6829,1060,5.22
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,16,Aizawl West Ii,GEN,Aizawl,16836,MNF,Lalruatkima,7626,INC,Dr. Lalmalsawma Nghaka,4906,2720,16.16
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,17,Aizawl West Iii,GEN,Aizawl,16763,IND,V.L. Zaithanzama,6934,MNF,Vanlalzawma,5908,1026,6.12
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,18,Aizawl South I,GEN,Aizawl,17132,IND,C. Lalsawivunga,6808,MNF,K. Liantlinga,5759,1049,6.12
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,19,Aizawl South Ii,GEN,Aizawl,19418,IND,Lalchhuanthanga,7294,MNF,Denghmingthanga,7115,179,0.92
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,20,Aizawl South-Iii,GEN,Aizawl,17335,MNF,F. Lalnunmawia,7558,INC,K.S Thanga,5470,2088,12.04
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,21,Lengteng,GEN,Champhai *,14026,MNF,L.Thangmawia,6430,INC,H.Rohluna,4658,1772,12.63
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,22,Tuichang,GEN,Champhai *,12995,MNF,Tawnluia,5146,IND,W. Chhuanawma,4407,739,5.69
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,23,Champhai North,GEN,Champhai *,14713,MNF,Dr Zr.Thiamsanga,6057,INC,T.T. Zothansanga,4964,1093,7.43
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,24,Champhai South,GEN,Champhai *,14251,MNF,T.J Lalnuntluanga,5212,INC,Lal Thanhawla,4163,1049,7.36
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,25,East Tuipui,GEN,Champhai *,11725,MNF,Ramthanmawia,4384,IND,C.Laltanpuia,3797,587,5.01
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,26,Serchhip,GEN,Serchhip *,15502,IND,Lalduhoma,5481,INC,Lal Thanhawla,5071,410,2.64
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,27,Tuikum,GEN,Serchhip *,13588,MNF,Er. Lalrinawma,5439,INC,Sangzela Tlau,4042,1397,10.28
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,28,Hrangturzo,GEN,Serchhip *,12786,MNF,Lalchamliana,4572,INC,Vanlalawmpuii Chawngthu,3815,757,5.92
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,29,South Tuipui,GEN,Lunglei,12293,MNF,Dr R Lalthangliana,6126,INC,John Siamkunga,4657,1469,11.95
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,30,Lunglei North,GEN,Lunglei,14181,MNF,Vanlaltanpuia,5022,IND,V Malsawmtluanga,4627,395,2.79
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,31,Lunglei East,GEN,Lunglei,12295,MNF,Lawmawma Tochhawng,4063,IND,Lalrinpuii,3991,72,0.59
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,32,Lunglei West,GEN,Lunglei,11838,MNF,C.Lalrinsanga,4093,INC,Chalrosanga Ralte,4016,77,0.65
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,33,Lunglei South,GEN,Lunglei,14461,MNF,K Pachhunga,6245,INC,R Lalnunthara,3804,2441,16.88
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,34,Thorang,GEN,Lunglei,11141,INC,Zodintluanga Ralte,4499,MNF,R.Rohmingliana,3259,1240,11.13
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,35,West Tuipui,GEN,Lunglei,12847,INC,Nihar Kanti Chakma,5943,BJP,Kina Ranjan Chakma,3558,2385,18.56
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,36,Tuichawng,GEN,Lawngtlai,25847,BJP,Buddha Dhan Chakma,11419,MNF,Rasik Mohan Chakma,9825,1594,6.17
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,37,Lawngtlai West,GEN,Lawngtlai,21711,INC,C. Ngunlianchunga,10678,MNF,C. Ramhluna,9883,795,3.66
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,38,Lawngtlai East,GEN,Lawngtlai,17827,MNF,H. Biakzaua,8656,INC,H. Zothangliana,7712,944,5.3
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,39,Siaha,GEN,Saiha *,16236,MNF,Dr. K. Beichhua,8109,INC,S. Hiato,5641,2468,15.2
+ae-mizoram-2018,AE,Mizoram,2018,2018,official,40,Palak,GEN,Saiha *,14630,INC,K.T. Rokhaw,5492,MNF,M. Chakhu,4648,844,5.77

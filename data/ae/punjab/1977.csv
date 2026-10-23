@@ -1,0 +1,118 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-punjab-1977,AE,Punjab,1977,1977,official,1,Fatehgarh,GEN,,50641,SAD,Dr Jodh Singh,25052,INC,Santokh Sing Randhawa,24404,648,1.28
+ae-punjab-1977,AE,Punjab,1977,1977,official,2,Batala,GEN,,54255,JNP,Panna Lal Nayyar,28191,INC,Vishwa Mittar Sekhri,24999,3192,5.88
+ae-punjab-1977,AE,Punjab,1977,1977,official,3,Qadian,GEN,,54462,SAD,Mohinder Singh,31585,INC,Tript Raninder Singh,22218,9367,17.2
+ae-punjab-1977,AE,Punjab,1977,1977,official,4,Srihargobindpur,GEN,,41548,SAD,Natha Singh,21213,CPI,Gurnam Singh,16210,5003,12.04
+ae-punjab-1977,AE,Punjab,1977,1977,official,5,Kahnuwan,GEN,,44736,SAD,Ujagar Singh,23784,INC,Satnam Singh,19823,3961,8.85
+ae-punjab-1977,AE,Punjab,1977,1977,official,6,Dhariwal,GEN,,46472,SAD,Swaran Singh,22287,CPI,Raj Kumar,20621,1666,3.58
+ae-punjab-1977,AE,Punjab,1977,1977,official,7,Gurdaspur,GEN,,52929,INC,Khushal Behal,26991,JNP,Sardari Lal,25938,1053,1.99
+ae-punjab-1977,AE,Punjab,1977,1977,official,8,Dina Nagar,SC,,46505,JNP,Gian Chand,22651,INC,Jai Muni,20561,2090,4.49
+ae-punjab-1977,AE,Punjab,1977,1977,official,9,Narot Mehra,SC,,40905,INC,Sunder Singh,21408,JNP,Mahasha Puran Chand,19178,2230,5.45
+ae-punjab-1977,AE,Punjab,1977,1977,official,10,Pathankot,GEN,,43698,JNP,Om Parkash Bhardwaj,22820,INC,Ram Singh,20334,2486,5.69
+ae-punjab-1977,AE,Punjab,1977,1977,official,11,Sujanpur,GEN,,42246,INC,Chaman Lal,22584,JNP,Kesho Dass,17814,4770,11.29
+ae-punjab-1977,AE,Punjab,1977,1977,official,12,Beas,GEN,,51444,SAD,Jiwan Singh Umara Nangal,30368,INC,Sohan Singh Jallal Usman,20414,9954,19.35
+ae-punjab-1977,AE,Punjab,1977,1977,official,13,Majitha,GEN,,55604,SAD,Parkash Singh,28453,INC,Kirpal Singh,24016,4437,7.98
+ae-punjab-1977,AE,Punjab,1977,1977,official,14,Verka,SC,,46528,SAD,Khajan Singh,22838,INC,Gurmej Singh,21888,950,2.04
+ae-punjab-1977,AE,Punjab,1977,1977,official,15,Jandiala,SC,,40898,SAD,Dalbir Singh,19981,INC,Karnail Singh Marari,18446,1535,3.75
+ae-punjab-1977,AE,Punjab,1977,1977,official,16,Amritsar North,GEN,,53059,JNP,Harbans Lal Khanna,28306,INC,Partap Chand Bhandari,23536,4770,8.99
+ae-punjab-1977,AE,Punjab,1977,1977,official,17,Amritsar West,GEN,,53554,CPI,Satya Pal Dang,35556,JNP,Khushpal Singh,16644,18912,35.31
+ae-punjab-1977,AE,Punjab,1977,1977,official,18,Amritsar Central,GEN,,51934,JNP,Balramjidass Tandan,26802,INC,Darbari Lal,24176,2626,5.06
+ae-punjab-1977,AE,Punjab,1977,1977,official,19,Amritsar South,GEN,,54389,JNP,Kirpal Singh,32443,INC,Pirthipal Singh,20514,11929,21.93
+ae-punjab-1977,AE,Punjab,1977,1977,official,20,Ajnala,GEN,,57160,SAD,Shashpal Singh,28627,INC,Harcharan Singh,26591,2036,3.56
+ae-punjab-1977,AE,Punjab,1977,1977,official,21,Raja Sansi,GEN,,45122,CPI(M),Dalip Singh Tapiala,25867,INC,Amarjit Singh Kamaska,17535,8332,18.47
+ae-punjab-1977,AE,Punjab,1977,1977,official,22,Attari,SC,,31752,CPI(M),Darshan Singh,16737,INC,Gurdit Singh,12064,4673,14.72
+ae-punjab-1977,AE,Punjab,1977,1977,official,23,Tarn Taran,GEN,,50811,IND,Manjinder Singh Behla,18266,SAD,Prem Singh Lalpura,17197,1069,2.1
+ae-punjab-1977,AE,Punjab,1977,1977,official,24,Khadoor Sahib,SC,,34383,SAD,Naranjan Singh,16754,CPI,Swaran Singh,11659,5095,14.82
+ae-punjab-1977,AE,Punjab,1977,1977,official,25,Naushahra Panwan,GEN,,47741,SAD,Ranjit Singh,22428,IND,Surinder Singh,21584,844,1.77
+ae-punjab-1977,AE,Punjab,1977,1977,official,26,Patti,GEN,,45000,SAD,Niranjan Singh,24964,INC,Gurdip Singh,19513,5451,12.11
+ae-punjab-1977,AE,Punjab,1977,1977,official,27,Valtoha,GEN,,44758,SAD,Jagir Singh,20656,IND,Hazara Singh,12571,8085,18.06
+ae-punjab-1977,AE,Punjab,1977,1977,official,28,Adampur,GEN,,49825,JNP,Sarup Singh,19116,CPI,Kulwant Singh,15018,4098,8.22
+ae-punjab-1977,AE,Punjab,1977,1977,official,29,Jullundur Cantonment,GEN,,42992,JNP,Harbhajan Singh,17951,INC,Balbir Singh,16596,1355,3.15
+ae-punjab-1977,AE,Punjab,1977,1977,official,30,Jullundur North,GEN,,49994,JNP,Ramesh Chander,25542,INC,Gurdial Saini,22393,3149,6.3
+ae-punjab-1977,AE,Punjab,1977,1977,official,31,Jullundur Central,GEN,,42793,JNP,Man Mohan Kalia,25830,INC,Ashok Nanda,15391,10439,24.39
+ae-punjab-1977,AE,Punjab,1977,1977,official,32,Jullundur South,SC,,39633,INC,Darshan Singh,24628,JNP,Roshan Lal,12241,12387,31.25
+ae-punjab-1977,AE,Punjab,1977,1977,official,33,Kartarpur,SC,,50344,SAD,Bhagat Singh,23742,INC,Jagjit Singh,21983,1759,3.49
+ae-punjab-1977,AE,Punjab,1977,1977,official,34,Lohian,GEN,,55240,SAD,Balwant Singh,32694,IND,Charanjit Singh,21534,11160,20.2
+ae-punjab-1977,AE,Punjab,1977,1977,official,35,Nakodar,GEN,,53737,INC,Umrao Singh,22301,SAD,Pritam Singh Sarinh,21026,1275,2.37
+ae-punjab-1977,AE,Punjab,1977,1977,official,36,Nur Mahal,GEN,,54677,CPI(M),Sarwon Singh,31722,INC,Darshan Singh,22955,8767,16.03
+ae-punjab-1977,AE,Punjab,1977,1977,official,37,Banga,SC,,50596,CPI(M),Harbans Singh,23695,INC,Jagat Ram,22083,1612,3.19
+ae-punjab-1977,AE,Punjab,1977,1977,official,38,Nawan Shahr,GEN,,69856,SAD,Jatinder Singh,35457,INC,Dilbagh Singh,31822,3635,5.2
+ae-punjab-1977,AE,Punjab,1977,1977,official,39,Phillaur,SC,,48557,SAD,Sarwan Singh,24871,INC,Surinder Kumar,18951,5920,12.19
+ae-punjab-1977,AE,Punjab,1977,1977,official,40,Bholath,GEN,,46884,SAD,Sukhjinder Singh,29390,IND,Bawa Harnam Singh,16244,13146,28.04
+ae-punjab-1977,AE,Punjab,1977,1977,official,41,Kapurthala,GEN,,37244,JNP,Hukam Chand,18073,INC,Kirpal Singh,14864,3209,8.62
+ae-punjab-1977,AE,Punjab,1977,1977,official,42,Sultanpur,GEN,,41018,SAD,Atma Singh,27247,INC,Sadhu Singh,13057,14190,34.59
+ae-punjab-1977,AE,Punjab,1977,1977,official,43,Phagwara,SC,,49874,JNP,Sadhu Ram,25042,INC,Piara Ram Dhanowalia,20332,4710,9.44
+ae-punjab-1977,AE,Punjab,1977,1977,official,44,Balachaur,GEN,,46694,JNP,Ram Kishan,11344,IND,Tulsi Ram,10659,685,1.47
+ae-punjab-1977,AE,Punjab,1977,1977,official,45,Garhshankar,GEN,,41025,CPI,Darshan Singh,20373,JNP,Bhagya Chander,19250,1123,2.74
+ae-punjab-1977,AE,Punjab,1977,1977,official,46,Mahilpur,SC,,40054,SAD,Kartar Singh,23485,INC,Ram Rattan,13113,10372,25.9
+ae-punjab-1977,AE,Punjab,1977,1977,official,47,Hoshiarpur,GEN,,46158,JNP,Om Parkash,18751,INC,Kundan Singh,17808,943,2.04
+ae-punjab-1977,AE,Punjab,1977,1977,official,48,Sham Chaurasi,SC,,42880,CPI(M),Dev Raj Nasrala,23033,INC,Bhagat Guran Dass,16888,6145,14.33
+ae-punjab-1977,AE,Punjab,1977,1977,official,49,Tanda,GEN,,50218,SAD,Upkar Singh,26570,INC,Ajit Singh Jhikka,19353,7217,14.37
+ae-punjab-1977,AE,Punjab,1977,1977,official,50,Garhdiwala,SC,,40664,JNP,Dharam Paul,20969,INC,Gurmail Singh,14995,5974,14.69
+ae-punjab-1977,AE,Punjab,1977,1977,official,51,Dasuya,GEN,,42669,INC,Gurbachan Singh,18923,JNP,Hardyal Singh,17316,1607,3.77
+ae-punjab-1977,AE,Punjab,1977,1977,official,52,Mukerian,GEN,,52255,INC,Kewal Krishna,27803,JNP,Bishambar Nath,22090,5713,10.93
+ae-punjab-1977,AE,Punjab,1977,1977,official,53,Jagraon,GEN,,58317,SAD,Dalip Singh,22564,INC,Jagrup Singh,22408,156,0.27
+ae-punjab-1977,AE,Punjab,1977,1977,official,54,Raikot,GEN,,52167,SAD,Dev Raj Singh,25666,INC,Gurcharan Singh,21528,4138,7.93
+ae-punjab-1977,AE,Punjab,1977,1977,official,55,Dakha,SC,,52708,SAD,Charanjit Singh,31908,INC,Gurcharan Singh,20178,11730,22.25
+ae-punjab-1977,AE,Punjab,1977,1977,official,56,Qila Raipur,GEN,,51048,SAD,Arjan Singh,28694,IND,Anil Partap,22354,6340,12.42
+ae-punjab-1977,AE,Punjab,1977,1977,official,57,Ludhiana North,GEN,,55363,JNP,Kapoor Chand,28698,INC,Sardari Lal,25996,2702,4.88
+ae-punjab-1977,AE,Punjab,1977,1977,official,58,Ludhiana West,GEN,,47116,JNP,A. Vishwanathan,25118,INC,Joginder Pal Pandey,20070,5048,10.71
+ae-punjab-1977,AE,Punjab,1977,1977,official,59,Ludhiana East,GEN,,48087,INC,Om Parkash Gupta,17564,SAD,Surjan Singh,16535,1029,2.14
+ae-punjab-1977,AE,Punjab,1977,1977,official,60,Ludhiana Rural,GEN,,51365,SAD,Dhanraj Singh,26516,INC,Tarak Singh,22772,3744,7.29
+ae-punjab-1977,AE,Punjab,1977,1977,official,61,Payal,GEN,,56497,INC,Benat Singh,26370,SAD,Jarnail Singh,21110,5260,9.31
+ae-punjab-1977,AE,Punjab,1977,1977,official,62,Kum Kalan,SC,,47609,CPI(M),Daya Singh,23965,INC,Sham Singh Sandhu,19754,4211,8.84
+ae-punjab-1977,AE,Punjab,1977,1977,official,63,Samrala,GEN,,47580,SAD,Prehlad Singh,26284,CPI,Jagjit Singh,19658,6626,13.93
+ae-punjab-1977,AE,Punjab,1977,1977,official,64,Khanna,SC,,50018,SAD,Bachan Singh,24934,INC,Shamsher Singh,24041,893,1.79
+ae-punjab-1977,AE,Punjab,1977,1977,official,65,Nangal,GEN,,45671,JNP,Madan Mohan,17505,INC,Sarla Prashar,13898,3607,7.9
+ae-punjab-1977,AE,Punjab,1977,1977,official,66,Anandpur Sahib - Ropar,GEN,,43998,JNP,Madho Singh,15987,INC,Shiv Singh,11987,4000,9.09
+ae-punjab-1977,AE,Punjab,1977,1977,official,67,Chamkaur Sahib,SC,,46686,SAD,Satwant Kaur,29223,INC,Prithvi Singh Azad,17463,11760,25.19
+ae-punjab-1977,AE,Punjab,1977,1977,official,68,Morinda,GEN,,52857,SAD,Ravi Inder Singh,29222,INC,Randhir Singh,20973,8249,15.61
+ae-punjab-1977,AE,Punjab,1977,1977,official,69,Kharar,GEN,,44118,SAD,Bachittar Singh,26523,CPI,Shansher Singh Josh,17595,8928,20.24
+ae-punjab-1977,AE,Punjab,1977,1977,official,70,Banur,GEN,,51259,INC,Hans Raj Sharma,26525,JNP,Shri Chand Goyal,22570,3955,7.72
+ae-punjab-1977,AE,Punjab,1977,1977,official,71,Rajpura,GEN,,45915,JNP,Harbans Lal,28015,INC,Prem Singh Prem,15020,12995,28.3
+ae-punjab-1977,AE,Punjab,1977,1977,official,72,Ghanaur,GEN,,43094,SAD,Jasdev Kaur Sandhu,23960,INC,Gurdev Singh S/O Budh Ram,18565,5395,12.52
+ae-punjab-1977,AE,Punjab,1977,1977,official,73,Dakala,GEN,,49792,INC,Lal Singh,16930,JNP,Teja Singh,16325,605,1.22
+ae-punjab-1977,AE,Punjab,1977,1977,official,74,Shutrana,SC,,47195,CPI,Baldev Singh,22481,SAD,Gurdev Singh,22346,135,0.29
+ae-punjab-1977,AE,Punjab,1977,1977,official,75,Samana,GEN,,48038,SAD,Gurdev Singh,24580,INC,Brij Lal,18500,6080,12.66
+ae-punjab-1977,AE,Punjab,1977,1977,official,76,Patiala Town,GEN,,45094,SAD,Sardar Singh,17196,IND,Shambhu Prashad,16953,243,0.54
+ae-punjab-1977,AE,Punjab,1977,1977,official,77,Nabha,GEN,,64381,INC,Gurdarshan Singh,33644,SAD,Narinder Singh,27824,5820,9.04
+ae-punjab-1977,AE,Punjab,1977,1977,official,78,Amloh,SC,,55546,SAD,Dalip Singh Pandhi,32974,INC,Harchand Singh,20623,12351,22.24
+ae-punjab-1977,AE,Punjab,1977,1977,official,79,Sirhind,GEN,,58354,SAD,Randhir Singh,22497,INC,Harbhajan Singh,19639,2858,4.9
+ae-punjab-1977,AE,Punjab,1977,1977,official,80,Dhuri,GEN,,52717,SAD,Sant Singh,30433,CPI,Achhra Singh,21081,9352,17.74
+ae-punjab-1977,AE,Punjab,1977,1977,official,81,Malerkotla,GEN,,62547,SAD,Anwar Ahmad Khan,32546,INC,Sajida Begam,26861,5685,9.09
+ae-punjab-1977,AE,Punjab,1977,1977,official,82,Sherpur,SC,,42095,CPI(M),Chand Singh,27318,INC,Joginder Singh,14163,13155,31.25
+ae-punjab-1977,AE,Punjab,1977,1977,official,83,Barnala,GEN,,47993,SAD,Surjit Kaur,26250,INC,Som Dutt,18395,7855,16.37
+ae-punjab-1977,AE,Punjab,1977,1977,official,84,Bhadaur,SC,,42577,SAD,Kundan Singh,24962,INC,Bachan Singh,16269,8693,20.42
+ae-punjab-1977,AE,Punjab,1977,1977,official,85,Dhanaula,GEN,,48707,CPI(M),Sampuran Singh,25807,INC,Rajinder Kaur,22900,2907,5.97
+ae-punjab-1977,AE,Punjab,1977,1977,official,86,Sangrur,GEN,,46519,JNP,Gurdial Singh,18721,INC,Gurbux Singh,15925,2796,6.01
+ae-punjab-1977,AE,Punjab,1977,1977,official,87,Dirbha,GEN,,42794,SAD,Baldev Singh,25591,INC,Hari Singh,15573,10018,23.41
+ae-punjab-1977,AE,Punjab,1977,1977,official,88,Sunam,GEN,,47976,SAD,Sukhdev Singh,28871,INC,Kulbir Singh,18423,10448,21.78
+ae-punjab-1977,AE,Punjab,1977,1977,official,89,Lehra,GEN,,46319,IND,Chitwant Singh,18990,JNP,Brish Bhan,16060,2930,6.33
+ae-punjab-1977,AE,Punjab,1977,1977,official,90,Balluana,SC,,41775,INC,Ujagar Singh S/O Nadar Singh,21262,SAD,Shiv Chand,18748,2514,6.02
+ae-punjab-1977,AE,Punjab,1977,1977,official,91,Abohar,GEN,,49991,INC,Bal Ram,28823,JNP,Satya Dev,20364,8459,16.92
+ae-punjab-1977,AE,Punjab,1977,1977,official,92,Fazilka,GEN,,44320,INC,Kanshi Ram,23413,JNP,Aad Lal,19929,3484,7.86
+ae-punjab-1977,AE,Punjab,1977,1977,official,93,Jalalabad,GEN,,48204,CPI,Mehtab Singh,29926,IND,Rajinder Singh,12131,17795,36.92
+ae-punjab-1977,AE,Punjab,1977,1977,official,94,Guru Har Sahai,GEN,,51522,INC,Lachhman Singh,27829,JNP,Khushial Chand,20423,7406,14.37
+ae-punjab-1977,AE,Punjab,1977,1977,official,95,Firozepur,GEN,,45019,JNP,Gardhara Singh,21276,INC,Bal Mukand,21042,234,0.52
+ae-punjab-1977,AE,Punjab,1977,1977,official,96,Firozepur Cantonment,GEN,,45297,SAD,Harpreet Singh,24623,INC,Gurnaib Singh,19788,4835,10.67
+ae-punjab-1977,AE,Punjab,1977,1977,official,97,Zira,GEN,,46227,SAD,Hari Singh,26976,INC,Nasib Singh Gill,17720,9256,20.02
+ae-punjab-1977,AE,Punjab,1977,1977,official,98,Dharamkot,SC,,41054,CPI,Sarwan Singh,15370,IND,Mukhtiar Singh S/O Theja Singh,14389,981,2.39
+ae-punjab-1977,AE,Punjab,1977,1977,official,99,Moga,GEN,,51308,JNP,Rup Lal,28652,INC,Iqbal Singh,22656,5996,11.69
+ae-punjab-1977,AE,Punjab,1977,1977,official,100,Bagha Purana,GEN,,55064,SAD,Tej Singh,29665,INC,Gurdeep Singh,22776,6889,12.51
+ae-punjab-1977,AE,Punjab,1977,1977,official,101,Nihal Singh Wala,SC,,50815,SAD,Gurdev Singh,26345,CPI,Sagghar Singh,23806,2539,5.0
+ae-punjab-1977,AE,Punjab,1977,1977,official,102,Panjgrain,SC,,41023,SAD,Gurdev Singh,27763,INC,Surjit Singh,9694,18069,44.05
+ae-punjab-1977,AE,Punjab,1977,1977,official,103,Kot Kapura,GEN,,51161,SAD,Jaswinder Singh,35942,INC,Gurcharan Singh,14259,21683,42.38
+ae-punjab-1977,AE,Punjab,1977,1977,official,104,Faridkot,GEN,,53816,SAD,Manmohan Singh,31832,INC,Mehar Singh,21190,10642,19.77
+ae-punjab-1977,AE,Punjab,1977,1977,official,105,Muktsar,GEN,,53055,INC,Kanwarjit Singh,26459,SAD,Gurmit Singh,25455,1004,1.89
+ae-punjab-1977,AE,Punjab,1977,1977,official,106,Giddar Baha,GEN,,55431,SAD,Parkash Singh,34797,INC,Baldev Singh,20634,14163,25.55
+ae-punjab-1977,AE,Punjab,1977,1977,official,107,Malout,SC,,46102,CPI,Daua Ram,23678,SAD,Sujan Singh,21625,2053,4.45
+ae-punjab-1977,AE,Punjab,1977,1977,official,108,Lambi,GEN,,50328,SAD,Gurdas Singh,27938,INC,Gurdashan Singh,18658,9280,18.44
+ae-punjab-1977,AE,Punjab,1977,1977,official,109,Talwandi Sabo,GEN,,45323,SAD,Sukhdev Singh,25074,INC,Avtar Singh,19711,5363,11.83
+ae-punjab-1977,AE,Punjab,1977,1977,official,110,Pakka Kalan,SC,,43859,SAD,Sukhdev Singh,24528,CPI,Gursewak,18460,6068,13.84
+ae-punjab-1977,AE,Punjab,1977,1977,official,111,Bhatinda,GEN,,50234,JNP,Hitabhilashi,22941,INC,Ram Nath,19523,3418,6.8
+ae-punjab-1977,AE,Punjab,1977,1977,official,112,Nathana,SC,,40978,SAD,Teja Singh,26197,INC,Gulzar Singh,13972,12225,29.83
+ae-punjab-1977,AE,Punjab,1977,1977,official,113,Rampura Phul,GEN,,53714,CPI,Babu Singh,27755,SAD,Harbans Singh,25424,2331,4.34
+ae-punjab-1977,AE,Punjab,1977,1977,official,114,Joga,GEN,,50872,SAD,Baldev Singh,28025,INC,Harbans Singh,20974,7051,13.86
+ae-punjab-1977,AE,Punjab,1977,1977,official,115,Mansa,GEN,,48390,JNP,Des Raj,25208,CPI,Jangir Singh,21933,3275,6.77
+ae-punjab-1977,AE,Punjab,1977,1977,official,116,Budhlada,GEN,,48562,SAD,Tara Singh,25426,INC,Gurdev Singh,20477,4949,10.19
+ae-punjab-1977,AE,Punjab,1977,1977,official,117,Sardulgarh,GEN,,43377,SAD,Balwinder Singh,29065,INC,Kirpal Singh,13350,15715,36.23

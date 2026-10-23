@@ -1,0 +1,155 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-punjab-1962,AE,Punjab,1962,1962,official,1,Kulu,GEN,,20773,IND,Lal Chand,8282,INC,Raghuvir Singh,6862,1420,6.84
+ae-punjab-1962,AE,Punjab,1962,1962,official,2,Seraj,SC,,10641,IND,Bansi Ram,5755,INC,Jit Ram,3929,1826,17.16
+ae-punjab-1962,AE,Punjab,1962,1962,official,3,Palampur,GEN,,30689,INC,Pratap Singh,11757,CPI,Bansi Ram,10582,1175,3.83
+ae-punjab-1962,AE,Punjab,1962,1962,official,4,Kangra,GEN,,30789,INC,Amar Nath,11436,BJS,Durga Chand,11131,305,0.99
+ae-punjab-1962,AE,Punjab,1962,1962,official,5,Dharamsala,GEN,,21161,INC,Hari Ram,15459,IND,Hari Kishan,5702,9757,46.11
+ae-punjab-1962,AE,Punjab,1962,1962,official,6,Nurpur,GEN,,32194,INC,Ram Chandra,12811,IND,Sudarshan Singh,11092,1719,5.34
+ae-punjab-1962,AE,Punjab,1962,1962,official,7,Dera Gopipur,GEN,,31675,INC,Mehar Singh,10594,IND,Chura Mani,8935,1659,5.24
+ae-punjab-1962,AE,Punjab,1962,1962,official,8,Hamirpur,SC,,20340,INC,Rup Singh Phul,14481,REP,Shankar Singh,5298,9183,45.15
+ae-punjab-1962,AE,Punjab,1962,1962,official,9,Barsar,GEN,,39192,INC,Sarla Devi,25285,IND,Bhag Singh,13907,11378,29.03
+ae-punjab-1962,AE,Punjab,1962,1962,official,10,Nalagarh,SC,,31735,IND,Dasondhi Ram,14501,INC,Roshan Lal,8175,6326,19.93
+ae-punjab-1962,AE,Punjab,1962,1962,official,11,Rupar,GEN,,35738,CPI,Shamsher Singh,13542,INC,Sadhu Singh,12192,1350,3.78
+ae-punjab-1962,AE,Punjab,1962,1962,official,12,Morinda,SC,,40336,AD,Ajaib Singh,19592,INC,Prithvi Singh Azad,19320,272,0.67
+ae-punjab-1962,AE,Punjab,1962,1962,official,13,Chandigarh,GEN,,62351,INC,Narinjan Singh Talib,24418,IND,Amrik Singh,17946,6472,10.38
+ae-punjab-1962,AE,Punjab,1962,1962,official,14,Naraingarh,GEN,,45325,IND,Jagjit Singh,26903,INC,Sadhu Ram,18422,8481,18.71
+ae-punjab-1962,AE,Punjab,1962,1962,official,15,Sadhaura,GEN,,39407,INC,Gulab Singh,17782,CPI,Telu Ram,10217,7565,19.2
+ae-punjab-1962,AE,Punjab,1962,1962,official,16,Jagadhri,GEN,,43664,INC,Shanno Devi,17791,BJS,Inder Sain,12801,4990,11.43
+ae-punjab-1962,AE,Punjab,1962,1962,official,17,Molana,SC,,40998,INC,Ram Parkash,22674,REP,Ram Parshad,8423,14251,34.76
+ae-punjab-1962,AE,Punjab,1962,1962,official,18,Ambala Cantonment,GEN,,33091,INC,Dev Raj,17348,BJS,Sohan Lal,13056,4292,12.97
+ae-punjab-1962,AE,Punjab,1962,1962,official,19,Ambala City,GEN,,46452,INC,Abdul Ghaffar Khan,19750,BJS,Raghbir Sharan,15210,4540,9.77
+ae-punjab-1962,AE,Punjab,1962,1962,official,20,Simla,GEN,,23207,INC,Gian Chand,10185,PSP,Gauri Shankar,4857,5328,22.96
+ae-punjab-1962,AE,Punjab,1962,1962,official,21,Thanesar,GEN,,47273,INC,Benarsi Dass,15726,BJS,Baryam Singh,15511,215,0.45
+ae-punjab-1962,AE,Punjab,1962,1962,official,22,Radaur,SC,,44688,INC,Ran Singh,18092,BJS,Om Parkash,16495,1597,3.57
+ae-punjab-1962,AE,Punjab,1962,1962,official,23,Karnal,GEN,,35775,INC,Ram Piara,19679,BJS,Balbir Singh,14851,4828,13.5
+ae-punjab-1962,AE,Punjab,1962,1962,official,24,Butana,GEN,,48322,INC,Maltan Singh,18094,SWA,Shiv Ram,14116,3978,8.23
+ae-punjab-1962,AE,Punjab,1962,1962,official,25,Pehowa,GEN,,61847,INC,Pyara Singh,26321,IND,Narsingh Dass,18425,7896,12.77
+ae-punjab-1962,AE,Punjab,1962,1962,official,26,Kaithal,GEN,,49640,INC,Om Prabha,22183,BJS,Baru Ram,15595,6588,13.27
+ae-punjab-1962,AE,Punjab,1962,1962,official,27,Narwana,SC,,42290,SWA,Fakiria,19065,INC,Bhagat Ram,16838,2227,5.27
+ae-punjab-1962,AE,Punjab,1962,1962,official,28,Rajaund,GEN,,57292,INC,Parasanni Devi,29095,SWA,Jagjit Singh,20607,8488,14.82
+ae-punjab-1962,AE,Punjab,1962,1962,official,29,Jind,GEN,,44994,SWA,Ram Singh,21961,INC,Dal Singh,16188,5773,12.83
+ae-punjab-1962,AE,Punjab,1962,1962,official,30,Safidon,GEN,,53499,IND,Inder Singh,18279,INC,Shri Krishan,17520,759,1.42
+ae-punjab-1962,AE,Punjab,1962,1962,official,31,Pundri,GEN,,38586,IND,Ram Pal Singh,18755,INC,Gopi Chand,11258,7497,19.43
+ae-punjab-1962,AE,Punjab,1962,1962,official,32,Gharaunda,GEN,,43539,SWA,Rulya Ram,23164,INC,Mool Chand,17674,5490,12.61
+ae-punjab-1962,AE,Punjab,1962,1962,official,33,Panipat,GEN,,47146,BJS,Fateh Chand,19939,INC,Parma Nand,19635,304,0.64
+ae-punjab-1962,AE,Punjab,1962,1962,official,34,Sambhalka,GEN,,51339,INC,Chuhar Singh,29119,SWA,Dharam Singh,20943,8176,15.93
+ae-punjab-1962,AE,Punjab,1962,1962,official,35,Ganaur,GEN,,48058,IND,Chiranji Lal,27320,INC,Chander Bhan Chhikara,13688,13632,28.37
+ae-punjab-1962,AE,Punjab,1962,1962,official,36,Sonepat,GEN,,42411,BJS,Mukhtiar Singh,17986,INC,Ram Dhan,15910,2076,4.89
+ae-punjab-1962,AE,Punjab,1962,1962,official,37,Rai,GEN,,44824,INC,Rizaq Ram,17071,HLS,Nafe Singh,7111,9960,22.22
+ae-punjab-1962,AE,Punjab,1962,1962,official,38,Bahadurgarh,GEN,,51983,INC,Hardwari Lal,24045,HLS,Kanwal Singh,17307,6738,12.96
+ae-punjab-1962,AE,Punjab,1962,1962,official,39,Sampla,GEN,,46703,HLS,Ram Sarup,15626,INC,Maru Singh,12787,2839,6.08
+ae-punjab-1962,AE,Punjab,1962,1962,official,40,Rohtak,GEN,,48746,BJS,Mangal Sein,20027,INC,Dev Raj Sethi,16275,3752,7.7
+ae-punjab-1962,AE,Punjab,1962,1962,official,41,Gohana,GEN,,43760,HLS,Ram Dhari,15029,BJS,Harkishan,13555,1474,3.37
+ae-punjab-1962,AE,Punjab,1962,1962,official,42,Meham,SC,,43184,HLS,Ram Dhari,21620,INC,Chhaju Ram,17423,4197,9.72
+ae-punjab-1962,AE,Punjab,1962,1962,official,43,Kalanaur,GEN,,52124,INC,Ranbir Singh,17401,BJS,Nasib Singh,13944,3457,6.63
+ae-punjab-1962,AE,Punjab,1962,1962,official,44,Jhajjar,GEN,,58599,INC,Bhagwat Dayal,29404,HLS,Sher Singh,28122,1282,2.19
+ae-punjab-1962,AE,Punjab,1962,1962,official,45,Salhawas,SC,,47797,INC,Chand Ram,24248,IND,Attar Singh,20471,3777,7.9
+ae-punjab-1962,AE,Punjab,1962,1962,official,46,Gurgaon,GEN,,41855,INC,Kanihya Lal,22108,IND,Mahabir Singh,14615,7493,17.9
+ae-punjab-1962,AE,Punjab,1962,1962,official,47,Ballabgarh,SC,,41035,INC,Hira Lal,15059,IND,Dolti,10004,5055,12.32
+ae-punjab-1962,AE,Punjab,1962,1962,official,48,Palwal,GEN,,49081,INC,Roop Lal,25324,BJS,Mool Chand,23757,1567,3.19
+ae-punjab-1962,AE,Punjab,1962,1962,official,49,Hasanpur,GEN,,45233,IND,Har Kishan,21227,INC,Pratap Singh,17211,4016,8.88
+ae-punjab-1962,AE,Punjab,1962,1962,official,50,Ferozepur Jhirka,GEN,,39753,INC,Tayyab Husain Khan,16589,REP,Abdul Ghani,7023,9566,24.06
+ae-punjab-1962,AE,Punjab,1962,1962,official,51,Nuh,GEN,,41972,INC,Khurshed Ahmed,20362,IND,Ombir Singh,10041,10321,24.59
+ae-punjab-1962,AE,Punjab,1962,1962,official,52,Pataudi,GEN,,39516,INC,Babu Dayal,13090,IND,Sees Ram,12721,369,0.93
+ae-punjab-1962,AE,Punjab,1962,1962,official,53,Rewari,GEN,,51936,INC,Sumitra Devi,32124,IND,Hukam Singh,14561,17563,33.82
+ae-punjab-1962,AE,Punjab,1962,1962,official,54,Jatusana,GEN,,47024,IND,Nihal Singh,28546,INC,Abhai Singh,18478,10068,21.41
+ae-punjab-1962,AE,Punjab,1962,1962,official,55,Kanina,SC,,26957,BJS,Banwari Lal,12195,INC,Sis Ram,5850,6345,23.54
+ae-punjab-1962,AE,Punjab,1962,1962,official,56,Narnaul,GEN,,41434,INC,Ramsaran Chand Mittal,16931,IND,Madho Singh,16724,207,0.5
+ae-punjab-1962,AE,Punjab,1962,1962,official,57,Mahendragarh,GEN,,35551,INC,Nihal Singh,10589,BJS,Hari Singh,9389,1200,3.38
+ae-punjab-1962,AE,Punjab,1962,1962,official,58,Dadri,GEN,,41818,INC,Chandrawati,21155,CPI,Dharam Singh,14722,6433,15.38
+ae-punjab-1962,AE,Punjab,1962,1962,official,59,Bhiwani,GEN,,44486,INC,Sagar Ram,15086,IND,Banarsi Dass,11534,3552,7.98
+ae-punjab-1962,AE,Punjab,1962,1962,official,60,Tosham,GEN,,37805,IND,Jagan Nath,6017,INC,Nihal Singh,5754,263,0.7
+ae-punjab-1962,AE,Punjab,1962,1962,official,61,Hissar Sadar,GEN,,45611,SOC,Net Ram,18432,INC,Ranjit Singh,17115,1317,2.89
+ae-punjab-1962,AE,Punjab,1962,1962,official,62,Hansi,GEN,,60149,SOC,Tek Ram,16456,INC,Sarup Singh,14370,2086,3.47
+ae-punjab-1962,AE,Punjab,1962,1962,official,63,Narnaund,SC,,56985,IND,Amar Singh,32103,INC,Dalbir Singh,24882,7221,12.67
+ae-punjab-1962,AE,Punjab,1962,1962,official,64,Hissar City,GEN,,51150,SOC,Honna Mal,28916,INC,Balwant Rai,17636,11280,22.05
+ae-punjab-1962,AE,Punjab,1962,1962,official,65,Tohana,GEN,,45694,SOC,Manphul Singh,23814,INC,Suraj Mal,16637,7177,15.71
+ae-punjab-1962,AE,Punjab,1962,1962,official,66,Fatehabad,GEN,,65195,IND,Devi Lal,34662,INC,Mani Ram,27016,7646,11.73
+ae-punjab-1962,AE,Punjab,1962,1962,official,67,Sirsa,GEN,,52740,INC,Sita Ram,23878,PSP,Ram Parkash,9910,13968,26.48
+ae-punjab-1962,AE,Punjab,1962,1962,official,68,Dabwali,SC,,42522,INC,Kesara Ram,18865,IND,Prem Chandra,12511,6354,14.94
+ae-punjab-1962,AE,Punjab,1962,1962,official,69,Pakka Kalan,SC,,32150,AD,Hardit Singh,18639,INC,Dhanna Singh,8746,9893,30.77
+ae-punjab-1962,AE,Punjab,1962,1962,official,70,Talwandi Sabo,GEN,,48094,CPI,Jangir Singh,29584,INC,Sarwan Singh,16846,12738,26.49
+ae-punjab-1962,AE,Punjab,1962,1962,official,71,Mansa,GEN,,44792,AD,Surjit Singh,15069,INC,Inder Singh,11933,3136,7.0
+ae-punjab-1962,AE,Punjab,1962,1962,official,72,Budhlada,SC,,41100,AD,Tej Singh,16951,INC,Atma Singh,13225,3726,9.07
+ae-punjab-1962,AE,Punjab,1962,1962,official,73,Phul,GEN,,44401,CPI,Babu Singh,23446,INC,Sukhdev Singh,18418,5028,11.32
+ae-punjab-1962,AE,Punjab,1962,1962,official,74,Bhatinda,GEN,,52497,INC,Harbans Lal,24492,SWA,Mahesinder Singh,21612,2880,5.49
+ae-punjab-1962,AE,Punjab,1962,1962,official,75,Jaitu,GEN,,46113,INC,Tirlochan Singh,22174,AD,Ranjit Singh,21123,1051,2.28
+ae-punjab-1962,AE,Punjab,1962,1962,official,76,Faridkot,GEN,,51066,INC,Zail Singh,25095,AD,Jagdish Kaur,24359,736,1.44
+ae-punjab-1962,AE,Punjab,1962,1962,official,77,Muktsar,GEN,,55165,INC,Harcharan Singh,30826,AD,Niranjan Singh,16171,14655,26.57
+ae-punjab-1962,AE,Punjab,1962,1962,official,78,Malout,GEN,,57599,INC,Gurmit Singh,18524,CPI,Charanji Lal,15122,3402,5.91
+ae-punjab-1962,AE,Punjab,1962,1962,official,79,Lambi,SC,,42028,INC,Ujagar Singh,18160,AD,Teja Singh,18149,11,0.03
+ae-punjab-1962,AE,Punjab,1962,1962,official,80,Abohar,GEN,,41715,INC,Chandi Ram,18826,BJS,Gian Chand,14314,4512,10.82
+ae-punjab-1962,AE,Punjab,1962,1962,official,81,Fazilka,GEN,,37031,BJS,Sat Dev,15610,INC,Teg Ram,12740,2870,7.75
+ae-punjab-1962,AE,Punjab,1962,1962,official,82,Guru Har Sahai,GEN,,45453,IND,Jaswant Singh,22062,INC,Bakhtwar Singh,20477,1585,3.49
+ae-punjab-1962,AE,Punjab,1962,1962,official,83,Ferozepur,GEN,,39221,BJS,Kulbir Singh,20874,INC,Kundan Lal,16999,3875,9.88
+ae-punjab-1962,AE,Punjab,1962,1962,official,84,Zira,GEN,,39025,AD,Jagjit Singh,22904,INC,Gurdit Singh,11145,11759,30.13
+ae-punjab-1962,AE,Punjab,1962,1962,official,85,Dharamkot,SC,,39386,AD,Kultar Singh,23164,INC,Mukhtiar Singh,15289,7875,19.99
+ae-punjab-1962,AE,Punjab,1962,1962,official,86,Moga,GEN,,47133,AD,Gurcharan Singh,22155,INC,Jagraj Singh,20754,1401,2.97
+ae-punjab-1962,AE,Punjab,1962,1962,official,87,Baghapurana,SC,,45548,CPI,Deedar Singh,23432,INC,Sohan Singh,18882,4550,9.99
+ae-punjab-1962,AE,Punjab,1962,1962,official,88,Nihal Singh Wala,GEN,,46041,CPI,Gurbux Singh,23594,INC,Basant Singh,22447,1147,2.49
+ae-punjab-1962,AE,Punjab,1962,1962,official,89,Jagraon,GEN,,43343,AD,Lachhman Singh,22811,INC,Harparkash Kaur,15265,7546,17.41
+ae-punjab-1962,AE,Punjab,1962,1962,official,90,Sidhwan Bet,SC,,37067,AD,Ajit Kumar,23567,INC,Gopal Singh,11763,11804,31.85
+ae-punjab-1962,AE,Punjab,1962,1962,official,91,Raikot,GEN,,46858,AD,Gurnam Singh,23195,INC,Inder Mohan Singh,19467,3728,7.96
+ae-punjab-1962,AE,Punjab,1962,1962,official,92,Ludhiana South,GEN,,48624,AD,Shamsher Singh,24737,INC,Ram Dayal Singh,20525,4212,8.66
+ae-punjab-1962,AE,Punjab,1962,1962,official,93,Ludhiana City,GEN,,39258,INC,Dina Nath,19247,BJS,Lajpat Rai,14199,5048,12.86
+ae-punjab-1962,AE,Punjab,1962,1962,official,94,Ludhiana North,GEN,,59269,IND,Bachan Singh,22022,INC,Harbhagwan,20152,1870,3.16
+ae-punjab-1962,AE,Punjab,1962,1962,official,95,Khanna,SC,,39942,INC,Jagir Singh,17791,AD,Naurang Singh,13884,3907,9.78
+ae-punjab-1962,AE,Punjab,1962,1962,official,96,Samrala,GEN,,46137,INC,Ajmer Singh,18422,AD,Gurbux Singh,17430,992,2.15
+ae-punjab-1962,AE,Punjab,1962,1962,official,97,Nawanshahr,SC,,38484,INC,Jagat Ram,20582,REP,Harbhaj Ram,17202,3380,8.78
+ae-punjab-1962,AE,Punjab,1962,1962,official,98,Banga,GEN,,40077,INC,Dilbagh Singh,27936,AD,Haguranad Singh,10424,17512,43.7
+ae-punjab-1962,AE,Punjab,1962,1962,official,99,Phagwara,GEN,,53935,IND,Om Parkash,32603,INC,Hansraj Sharma,21332,11271,20.9
+ae-punjab-1962,AE,Punjab,1962,1962,official,100,Phillaur,GEN,,45363,IND,Hari Singh,23678,INC,Lekh Raj,20257,3421,7.54
+ae-punjab-1962,AE,Punjab,1962,1962,official,101,Nurmahal,GEN,,46035,INC,Darbara Singh,25010,CPI,Harikishan Singh,19512,5498,11.94
+ae-punjab-1962,AE,Punjab,1962,1962,official,102,Nakodar,GEN,,38437,INC,Darshan Singh,21719,AD,Pritam Singh,8980,12739,33.14
+ae-punjab-1962,AE,Punjab,1962,1962,official,103,Shahkot,SC,,33068,AD,Dalip Singh,14208,INC,Sant Ram,14040,168,0.51
+ae-punjab-1962,AE,Punjab,1962,1962,official,104,Jullundur Contonment,GEN,,38728,INC,Karam Singh Kirti,18622,AD,Gopal Singh,14021,4601,11.88
+ae-punjab-1962,AE,Punjab,1962,1962,official,105,Jullundur City South West,GEN,,41824,INC,Yash Paul,20288,BJS,Jagdish Narain,9783,10505,25.12
+ae-punjab-1962,AE,Punjab,1962,1962,official,106,Jullundur City North East,GEN,,48704,INC,Ram Kishan,29976,BJS,Durga Datt,16667,13309,27.33
+ae-punjab-1962,AE,Punjab,1962,1962,official,107,Kartarpur,SC,,48638,INC,Gurbanta Singh,24723,REP,Piara Ram,23915,808,1.66
+ae-punjab-1962,AE,Punjab,1962,1962,official,108,Kapurthala,GEN,,39827,AD,Lakhi Singh,19772,INC,Harnam Singh,19299,473,1.19
+ae-punjab-1962,AE,Punjab,1962,1962,official,109,Sultanpur,GEN,,39906,INC,Balwant Singh S/O Sunder Singh,21404,AD,Atma Singh,16162,5242,13.14
+ae-punjab-1962,AE,Punjab,1962,1962,official,110,Sarhali,GEN,,57657,INC,Partap Singh,28182,AD,Mohan Singh,28148,34,0.06
+ae-punjab-1962,AE,Punjab,1962,1962,official,111,Patti,GEN,,47444,AD,Hazara Singh,26976,INC,Hardip Singh,19339,7637,16.1
+ae-punjab-1962,AE,Punjab,1962,1962,official,112,Khalra,GEN,,40361,INC,Narain Singh,19090,IND,Gurwaryam Singh,18450,640,1.59
+ae-punjab-1962,AE,Punjab,1962,1962,official,113,Tarn Taran,GEN,,46568,INC,Gurdial Singh,27005,IND,Sampuran Singh,17729,9276,19.92
+ae-punjab-1962,AE,Punjab,1962,1962,official,114,Nagoke,SC,,36408,AD,Tara Singh,19891,INC,Amar Singh,13698,6193,17.01
+ae-punjab-1962,AE,Punjab,1962,1962,official,115,Jandiala,GEN,,39955,CPI,Makhan Singh,19549,INC,Sohan Singh,17431,2118,5.3
+ae-punjab-1962,AE,Punjab,1962,1962,official,116,Amritsar City East,GEN,,42389,BJS,Baldev Parkash,15614,INC,Sadhu Ram,14092,1522,3.59
+ae-punjab-1962,AE,Punjab,1962,1962,official,117,Amritsar City Civil Lines,GEN,,49073,INC,Jai Inder Singh,17842,PSP,Kirpal Singh,11716,6126,12.48
+ae-punjab-1962,AE,Punjab,1962,1962,official,118,Amritsar City West,GEN,,42285,BJS,Balramji Das,21432,INC,Chandan Lal,18427,3005,7.11
+ae-punjab-1962,AE,Punjab,1962,1962,official,119,Ajnala,GEN,,45325,INC,Harindar Singh,33236,CPI,Dalip Singh,12089,21147,46.66
+ae-punjab-1962,AE,Punjab,1962,1962,official,120,Majitha,GEN,,42543,INC,Parkash Kaur,21137,SWA,Parkash Singh,16220,4917,11.56
+ae-punjab-1962,AE,Punjab,1962,1962,official,121,Amritsar Sadar,SC,,48110,INC,Gurmej Singh,19289,CPI,Darshan Singh,16178,3111,6.47
+ae-punjab-1962,AE,Punjab,1962,1962,official,122,Beas,GEN,,44053,IND,Kartar Singh,22662,INC,Sohan Singh,21391,1271,2.89
+ae-punjab-1962,AE,Punjab,1962,1962,official,123,Sri Gobindpur,GEN,,47867,INC,Satnam Singh,22671,AD,Uttam Singh,15411,7260,15.17
+ae-punjab-1962,AE,Punjab,1962,1962,official,124,Batala,GEN,,49820,INC,Mohan Lal,27294,IND,Gurbachan Singh,12636,14658,29.42
+ae-punjab-1962,AE,Punjab,1962,1962,official,125,Fatehgarh,GEN,,39040,AD,Gurmej Singh,19139,INC,Joginder Singh,18178,961,2.46
+ae-punjab-1962,AE,Punjab,1962,1962,official,126,Dera Baba Nanak,GEN,,38225,AD,Makhan Singh,19693,INC,Waryam Singh,14157,5536,14.48
+ae-punjab-1962,AE,Punjab,1962,1962,official,127,Dhariwal,GEN,,37826,AD,Gurbaksh Singh,15740,INC,Gorakh Nath,13530,2210,5.84
+ae-punjab-1962,AE,Punjab,1962,1962,official,128,Narot Jaimal Singh,SC,,44536,INC,Sunder Singh,27179,BJS,Sat Pal,13484,13695,30.75
+ae-punjab-1962,AE,Punjab,1962,1962,official,129,Pathankot,GEN,,38136,INC,Bhagirath Lal,19222,BJS,Om Parkash,14883,4339,11.38
+ae-punjab-1962,AE,Punjab,1962,1962,official,130,Gurdaspur,GEN,,39912,INC,Prabodh Chandra,20130,AD,Gurbachan Singh,9722,10408,26.08
+ae-punjab-1962,AE,Punjab,1962,1962,official,131,Mukerian,GEN,,47089,INC,Rala Ram,17759,IND,Shanti Sarup,11486,6273,13.32
+ae-punjab-1962,AE,Punjab,1962,1962,official,132,Dasuya,GEN,,47835,INC,Kartar Singh,22803,IND,Jagjit Singh,22406,397,0.83
+ae-punjab-1962,AE,Punjab,1962,1962,official,133,Hariana,SC,,36186,INC,Bhagat Guran Dass,15659,REP,Lalji Ram,9852,5807,16.05
+ae-punjab-1962,AE,Punjab,1962,1962,official,134,Hoshiarpur,GEN,,41609,INC,Bal Krishan,18682,PSP,Balbir Singh,15110,3572,8.58
+ae-punjab-1962,AE,Punjab,1962,1962,official,135,Jahankhelan,SC,,40711,INC,Ram Rattan,20156,REP,Katar Singh,17723,2433,5.98
+ae-punjab-1962,AE,Punjab,1962,1962,official,136,Amb,GEN,,39496,IND,Mohan Lal,19193,INC,Amar Singh,16957,2236,5.66
+ae-punjab-1962,AE,Punjab,1962,1962,official,137,Una,GEN,,45453,INC,Surinder Nath,25309,CPI,Ram Kishan,12903,12406,27.29
+ae-punjab-1962,AE,Punjab,1962,1962,official,138,Mahilpur,SC,,38124,INC,Gurmail,21210,REP,Chanan Ram,15278,5932,15.56
+ae-punjab-1962,AE,Punjab,1962,1962,official,139,Garhshankar,GEN,,46626,INC,Rattan Singh,27795,CPI,Bhag Singh,11025,16770,35.97
+ae-punjab-1962,AE,Punjab,1962,1962,official,140,Anandpur,GEN,,42518,INC,Baloo Ram,25987,IND,Sucha Singh,12988,12999,30.57
+ae-punjab-1962,AE,Punjab,1962,1962,official,141,Rajpura,GEN,,50381,INC,Prem Singh,22788,CPI,Bhim Singh,15452,7336,14.56
+ae-punjab-1962,AE,Punjab,1962,1962,official,142,Raipur,GEN,,45214,INC,Jasdev Singh,21482,SWA,Surinder Nath,17029,4453,9.85
+ae-punjab-1962,AE,Punjab,1962,1962,official,143,Samana,SC,,48580,INC,Harchand Singh,23316,AD,Pritam Singh,21078,2238,4.61
+ae-punjab-1962,AE,Punjab,1962,1962,official,144,Patiala,GEN,,44992,INC,Ram Partap,18624,SWA,Basant Singh,18364,260,0.58
+ae-punjab-1962,AE,Punjab,1962,1962,official,145,Nabha,GEN,,47036,INC,Gurdarshan Singh,25689,AD,Gurdial Singh,16164,9525,20.25
+ae-punjab-1962,AE,Punjab,1962,1962,official,146,Sirhind,GEN,,49453,INC,Gian Singh,23006,AD,Gurdial Singh,21733,1273,2.57
+ae-punjab-1962,AE,Punjab,1962,1962,official,147,Payal,SC,,46426,INC,Bhag Singh,21759,AD,Mihan Singh,20408,1351,2.91
+ae-punjab-1962,AE,Punjab,1962,1962,official,148,Malerkotla,GEN,,51959,INC,Yusuf Zaman Begum,28013,AD,Gurdev Singh,18539,9474,18.23
+ae-punjab-1962,AE,Punjab,1962,1962,official,149,Mahal Kalan,GEN,,42251,CPI,Harnam Singh,19582,INC,Tirath Singh,16658,2924,6.92
+ae-punjab-1962,AE,Punjab,1962,1962,official,150,Barnala,GEN,,52828,AD,Gurbakshish Singh,26882,INC,Sampuran Singh,24789,2093,3.96
+ae-punjab-1962,AE,Punjab,1962,1962,official,151,Dhuri,SC,,42090,CPI,Bhan Singh,20658,INC,Lehna Singh,14212,6446,15.31
+ae-punjab-1962,AE,Punjab,1962,1962,official,152,Sangrur,GEN,,51415,CPI,Hardit Singh,26035,INC,Rajinder Singh,25380,655,1.27
+ae-punjab-1962,AE,Punjab,1962,1962,official,153,Sunam,GEN,,51435,INC,Brish Bhan,31080,AD,Gurdev Singh,18153,12927,25.13
+ae-punjab-1962,AE,Punjab,1962,1962,official,154,Lehra,SC,,43222,INC,Pritam Singh,18036,AD,Gurdev Singh,17690,346,0.8

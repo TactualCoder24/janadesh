@@ -1,0 +1,141 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-kerala-1991,AE,Kerala,1991,1991,official,1,Manjeshwar,GEN,,82812,IUML,Cherkalam Abdullah,29603,BJP,K.G. Marar,28531,1072,1.29
+ae-kerala-1991,AE,Kerala,1991,1991,official,2,Kasaragod,GEN,,85436,IUML,C.T. Ahamdali,39143,BJP,Sri Krishna Bhat,24269,14874,17.41
+ae-kerala-1991,AE,Kerala,1991,1991,official,3,Udma,GEN,,105330,CPI(M),P. Raghavan,47169,INC,K.Po. Kunhikannan,46212,957,0.91
+ae-kerala-1991,AE,Kerala,1991,1991,official,4,Hosdrug,SC,,121884,CPI,M. Narayanan,60536,INC,Kottara Vasudev,53858,6678,5.48
+ae-kerala-1991,AE,Kerala,1991,1991,official,5,Trikaripur,GEN,,128661,CPI(M),E.K. Nayanar,69437,INC,Sreedharan C.K,55105,14332,11.14
+ae-kerala-1991,AE,Kerala,1991,1991,official,6,Irikkur,GEN,,111537,INC,K.C. Joseph,62395,KEC,Goorge Sebastian,45647,16748,15.02
+ae-kerala-1991,AE,Kerala,1991,1991,official,7,Payyannur,GEN,,118597,CPI(M),C.P. Narayanan,66530,INC,M.P. Murali,48365,18165,15.32
+ae-kerala-1991,AE,Kerala,1991,1991,official,8,Taliparamba,GEN,,126043,CPI(M),Pacheni Kunhiaraman,65973,INC,M.K. Raghavan,55273,10700,8.49
+ae-kerala-1991,AE,Kerala,1991,1991,official,9,Azhikode,GEN,,97873,CPI(M),E.P. Jayarajan,51466,CPM(K),C.P. Moosankutty,43757,7709,7.88
+ae-kerala-1991,AE,Kerala,1991,1991,official,10,Kannur,GEN,,94004,INC,N. Ramakrishnan,51742,ICS(SCS),A.K. Saseendran,36937,14805,15.75
+ae-kerala-1991,AE,Kerala,1991,1991,official,11,Edakkad,GEN,,112124,CPI(M),O. Bharathan,54965,INC,K. Ssudhakaran,54746,219,0.2
+ae-kerala-1991,AE,Kerala,1991,1991,official,12,Thalassery,GEN,,98316,CPI(M),K.P. Mamoo Master,48936,INC,A.D. Mustaffa,41550,7386,7.51
+ae-kerala-1991,AE,Kerala,1991,1991,official,13,Peringalam,GEN,,100771,IUML,K.M. Sooppy,49183,JD,P.R. Karup,47534,1649,1.64
+ae-kerala-1991,AE,Kerala,1991,1991,official,14,Kuthuparamba,GEN,,110129,CPI(M),Pinaray Vijayan,58842,INC,P. Ramakrishnan,45782,13060,11.86
+ae-kerala-1991,AE,Kerala,1991,1991,official,15,Peravoor,GEN,,118830,INC,K.P. Noorudheen,60212,ICS(SCS),Ramachandran Kadannapally,51834,8378,7.05
+ae-kerala-1991,AE,Kerala,1991,1991,official,16,North Wynad,ST,,100229,INC,K. Raghavan Master,50685,CPI(M),K.C. Kuniharaman,43150,7535,7.52
+ae-kerala-1991,AE,Kerala,1991,1991,official,17,Badagara,GEN,,115175,JD,K. Chandrasekharan,59820,INC,K.C. Abu,47336,12484,10.84
+ae-kerala-1991,AE,Kerala,1991,1991,official,18,Nadapuram,GEN,,116110,CPI,Satyyan Mokeri,60053,IUML,P. Shaduli,52427,7626,6.57
+ae-kerala-1991,AE,Kerala,1991,1991,official,19,Meppayur,GEN,,115309,CPI(M),A. Kanaran,58362,INC,Kadameri Balakrishnan,49038,9324,8.09
+ae-kerala-1991,AE,Kerala,1991,1991,official,20,Quilandy,GEN,,119707,INC,M.T. Padma,56642,CPI,C. Kunhamed,54139,2503,2.09
+ae-kerala-1991,AE,Kerala,1991,1991,official,21,Perambra,GEN,,118988,CPI(M),N.K. Radha,58978,KEC,K.A. Devassia,54562,4416,3.71
+ae-kerala-1991,AE,Kerala,1991,1991,official,22,Balusseri,GEN,,105954,ICS(SCS),A.C. Shanmukhadas,52470,INC,P. Shankaran,42758,9712,9.17
+ae-kerala-1991,AE,Kerala,1991,1991,official,23,Koduvally,GEN,,112014,IUML,P.V. Mohammed,51793,JD,C. Mohasin,51395,398,0.36
+ae-kerala-1991,AE,Kerala,1991,1991,official,24,Calicut I,GEN,,109013,INC,A. Sujana Pal,53079,CPI(M),M. Dasan,49319,3760,3.45
+ae-kerala-1991,AE,Kerala,1991,1991,official,25,Calicut Ii,GEN,,107238,IUML,M.K. Muneer,52779,CPI(M),C.P. Kunhu,48896,3883,3.62
+ae-kerala-1991,AE,Kerala,1991,1991,official,26,Beypore,GEN,,127985,CPI(M),T.K. Hamza,66683,IND,K. Madhavan Kutty,60413,6270,4.9
+ae-kerala-1991,AE,Kerala,1991,1991,official,27,Kunnamangalam,SC,,103756,CPI(M),C.P. Balan Vudiar,47946,INC,A. Balaram,46788,1158,1.12
+ae-kerala-1991,AE,Kerala,1991,1991,official,28,Thiruvambady,GEN,,100749,IUML,A.V. Abdurahimanhat,50767,ICS(SCS),Cyriac John,44665,6102,6.06
+ae-kerala-1991,AE,Kerala,1991,1991,official,29,Kalpetta,GEN,,96534,INC,K.K. Ramachandran Master,46488,JD,K.K. Hemza,42696,3792,3.93
+ae-kerala-1991,AE,Kerala,1991,1991,official,30,Sulthanbathery,GEN,,111772,INC,K.C. Rosakutty,53050,CPI(M),Varghese Vaidyar,50544,2506,2.24
+ae-kerala-1991,AE,Kerala,1991,1991,official,31,Wandoor,SC,,103508,INC,Pandalam Sudhakaran,53104,CPI(M),Kunnath Velayudhan,45509,7595,7.34
+ae-kerala-1991,AE,Kerala,1991,1991,official,32,Nilambur,GEN,,119530,INC,Aryadan Muhammed,60558,IND,K. Abdurahiman Master,52874,7684,6.43
+ae-kerala-1991,AE,Kerala,1991,1991,official,33,Manjeri,GEN,,98780,IUML,Ishaque Kurikkal,57717,JD,K.P. Mohammed,35286,22431,22.71
+ae-kerala-1991,AE,Kerala,1991,1991,official,34,Malappuram,GEN,,78442,IUML,Yoonus Kunju,49713,ICS(SCS),Sebastian J. Kaloor,22604,27109,34.56
+ae-kerala-1991,AE,Kerala,1991,1991,official,35,Kondotty,GEN,,95870,IUML,K. Abu,54042,JD,Madathil Mohammedaji,33178,20864,21.76
+ae-kerala-1991,AE,Kerala,1991,1991,official,36,Tirurangadi,GEN,,85061,IUML,V.A. Beeran Sahib,47223,CPI,M. Rahmathulla,28021,19202,22.57
+ae-kerala-1991,AE,Kerala,1991,1991,official,37,Tanur,GEN,,77844,IUML,P. Seethi Haji,47424,CPI(M),M. Mohamed Master,21577,25847,33.2
+ae-kerala-1991,AE,Kerala,1991,1991,official,38,Tirur,GEN,,103850,IUML,E.T> Mohamed Basheer,52489,ICS(SCS),Kuruiyan Syed,39984,12505,12.04
+ae-kerala-1991,AE,Kerala,1991,1991,official,39,Ponnani,GEN,,99418,CPI(M),E.K. Imbichibava,49264,INC,P.T. Mohankrishnan,44180,5084,5.11
+ae-kerala-1991,AE,Kerala,1991,1991,official,40,Kuttippuram,GEN,,72778,IUML,P.K. Kunhalikutty,44865,CPI(M),V.P. Sakkariya,22539,22326,30.68
+ae-kerala-1991,AE,Kerala,1991,1991,official,41,Mankada,GEN,,96905,IUML,K.P.A. Majeed,48605,CPI(M),K. Ummer Master,42645,5960,6.15
+ae-kerala-1991,AE,Kerala,1991,1991,official,42,Perinthalmanna,GEN,,97603,IUML,Sooppy Nalakath,49766,IND,M.M. Mustafa,42827,6939,7.11
+ae-kerala-1991,AE,Kerala,1991,1991,official,43,Thrithala,SC,,94351,CPI(M),E. Sankaran,46187,IUML,K.P. Raman Master,40602,5585,5.92
+ae-kerala-1991,AE,Kerala,1991,1991,official,44,Pattambi,GEN,,89315,CPI,K.E. Esmail,43351,INC,Leela Damodara Memon,39681,3670,4.11
+ae-kerala-1991,AE,Kerala,1991,1991,official,45,Ottapalam,GEN,,87173,ICS(SCS),V.C. Kabeer Master,42771,INC,K. Sankaranarayanan,38501,4270,4.9
+ae-kerala-1991,AE,Kerala,1991,1991,official,46,Sreekrishnapuram,GEN,,106515,INC,P. Balan,51864,CPI(M),E.M. Sreedharan,50166,1698,1.59
+ae-kerala-1991,AE,Kerala,1991,1991,official,47,Mannarkad,GEN,,107281,IUML,Kalladi Mohammed,53884,CPI,P. Kumaran,49414,4470,4.17
+ae-kerala-1991,AE,Kerala,1991,1991,official,48,Malampuzha,GEN,,91015,CPI(M),T. Sivadasa Menon,50361,CPM(K),V. Krishnadas,32370,17991,19.77
+ae-kerala-1991,AE,Kerala,1991,1991,official,49,Palakkad,GEN,,91895,INC,C.M. Sundaram,41432,CPI(M),M.S. Gopalakirshnan,37925,3507,3.82
+ae-kerala-1991,AE,Kerala,1991,1991,official,50,Chittur,GEN,,94396,JD,K. Krishnankutty,47281,INC,K.A. Chandran,44170,3111,3.3
+ae-kerala-1991,AE,Kerala,1991,1991,official,51,Kollengode,GEN,,97160,CPI(M),T. Chathu,47058,INC,"A, Ramaswamy",45853,1205,1.24
+ae-kerala-1991,AE,Kerala,1991,1991,official,52,Coyalmannam,SC,,96131,CPI(M),M. Naryannan,50315,INC,M. Ayyappan Master,42597,7718,8.03
+ae-kerala-1991,AE,Kerala,1991,1991,official,53,Alathur,GEN,,101324,INC,A.V. Gopinathan,49512,CPI(M),V. Sukumaran Master,49174,338,0.33
+ae-kerala-1991,AE,Kerala,1991,1991,official,54,Chelakkara,SC,,95163,INC,M.P. Thami,47790,CPI(M),C. Kuttappan,43429,4361,4.58
+ae-kerala-1991,AE,Kerala,1991,1991,official,55,Wadakkanchery,GEN,,101570,INC,K.S. Narayanan Namboodiri,51414,KEC,K. Mohandas,43773,7641,7.52
+ae-kerala-1991,AE,Kerala,1991,1991,official,56,Kunnamkulam,GEN,,109122,INC,T.V. Chandramohan,53099,CPI(M),K.P. Aravindhakshan,50344,2755,2.52
+ae-kerala-1991,AE,Kerala,1991,1991,official,57,Cherpu,GEN,,101488,CPI,V.V. Raghavan,50767,INC,M.K. Abdul Salam,46309,4458,4.39
+ae-kerala-1991,AE,Kerala,1991,1991,official,58,Thrissur,GEN,,103422,INC,Therambil Ramakrishnan,53190,CPI(M),E.K. Menon,45899,7291,7.05
+ae-kerala-1991,AE,Kerala,1991,1991,official,59,Ollur,GEN,,115187,INC,P.P. George,57910,CPI,A.M. Paraman,52669,5241,4.55
+ae-kerala-1991,AE,Kerala,1991,1991,official,60,Kodakara,GEN,,105689,INC,K.P. Viswanathan,49971,CPI(M),P.R. Rajan,48360,1611,1.52
+ae-kerala-1991,AE,Kerala,1991,1991,official,61,Chalakkudy,GEN,,96762,INC,Rosamma Chacko,49482,JD,Jose Painadath,42742,6740,6.97
+ae-kerala-1991,AE,Kerala,1991,1991,official,62,Mala,GEN,,103205,INC,K. Karunakaran,50966,CPI,V.K. Rajan,48492,2474,2.4
+ae-kerala-1991,AE,Kerala,1991,1991,official,63,Irinjalakkuda,GEN,,102596,IND,Lonappan Nambadan,53351,KCM,A.L. Sebastian,43927,9424,9.19
+ae-kerala-1991,AE,Kerala,1991,1991,official,64,Manalur,GEN,,92522,INC,V.M. Sudheeran,45930,CPI(M),K.F. Davis,40414,5516,5.96
+ae-kerala-1991,AE,Kerala,1991,1991,official,65,Guruvayoor,GEN,,85368,IUML,P.M. Abubacker,40496,IND,K.K. Kammu,34820,5676,6.65
+ae-kerala-1991,AE,Kerala,1991,1991,official,66,Nattika,GEN,,93614,CPI,Krishnan Kaniyamparabil,44762,INC,Raghvan Pozhakadavil,43596,1166,1.25
+ae-kerala-1991,AE,Kerala,1991,1991,official,67,Kodungallur,GEN,,104250,CPI,Meenakshy Thampan,53542,IUML,T.A. Ahammed Kabeer,42353,11189,10.73
+ae-kerala-1991,AE,Kerala,1991,1991,official,68,Angamaly,GEN,,121055,INC,P.J. Joy,60441,KEC,M.V. Mani,52843,7598,6.28
+ae-kerala-1991,AE,Kerala,1991,1991,official,69,Vadakara,GEN,,109053,CPI(M),S. Sarma,52897,INC,M.I. Shanavas,52100,797,0.73
+ae-kerala-1991,AE,Kerala,1991,1991,official,70,Parur,GEN,,90245,CPI,P.Raju,43551,IND,Karthav,40719,2832,3.14
+ae-kerala-1991,AE,Kerala,1991,1991,official,71,Narakal,SC,,97963,INC,K. Kunjambu,49102,ICS(SCS),V.K. Babu,45555,3547,3.62
+ae-kerala-1991,AE,Kerala,1991,1991,official,72,Eranakulam,GEN,,103999,INC,George Eden,54263,IND,Everest Chammany,43441,10822,10.41
+ae-kerala-1991,AE,Kerala,1991,1991,official,73,Mattancherry,GEN,,64801,IUML,M.J. Zakaria,33736,IND,Jerson Kalappurakkal,24796,8940,13.8
+ae-kerala-1991,AE,Kerala,1991,1991,official,74,Palluruthy,GEN,,115429,INC,Dominic Presentation,60001,ICS(SCS),T.P. Peethabaran Master,52527,7474,6.47
+ae-kerala-1991,AE,Kerala,1991,1991,official,75,Thripunithura,GEN,,127751,INC,K. Babu,63887,CPI(M),M.M. Lawrance,58941,4946,3.87
+ae-kerala-1991,AE,Kerala,1991,1991,official,76,Aluva,GEN,,130232,INC,K. Mohamed Ali,64837,CPI(M),T.O. Khathir Pillai,56266,8571,6.58
+ae-kerala-1991,AE,Kerala,1991,1991,official,77,Perumbavoor,GEN,,108052,INC,P.P. Thankachan,52494,JD,Alumkal Devassy,49183,3311,3.06
+ae-kerala-1991,AE,Kerala,1991,1991,official,78,Kunnathunad,GEN,,112551,INC,T.H. Musthafa,56094,IND,Rukhiya Beevi Ali,48626,7468,6.64
+ae-kerala-1991,AE,Kerala,1991,1991,official,79,Piravom,GEN,,107773,KCM,T.M. Jacob,53751,CPI(M),Gopi Kottamurickal,50804,2947,2.73
+ae-kerala-1991,AE,Kerala,1991,1991,official,80,Muvattupuzha,GEN,,104423,KCM,Johny Nelloor,51783,IND,A.V. Issac,48004,3779,3.62
+ae-kerala-1991,AE,Kerala,1991,1991,official,81,Kothamangalam,GEN,,105480,INC,V.J. Faulose,51862,IND,T.M. Paily,44490,7372,6.99
+ae-kerala-1991,AE,Kerala,1991,1991,official,82,Thodupuzha,GEN,,115816,INC,P.T. Thomas,55666,KEC,P.C. Joseph,54574,1092,0.94
+ae-kerala-1991,AE,Kerala,1991,1991,official,83,Devikulam,SC,,98262,INC,K. Moni Alias A.K. Moni,51801,CPI(M),S. Sundramanickam,44859,6942,7.06
+ae-kerala-1991,AE,Kerala,1991,1991,official,84,Idukki,GEN,,105713,KCM,Mathew Stephen,52559,KEC,Johny Poomattom,48881,3678,3.48
+ae-kerala-1991,AE,Kerala,1991,1991,official,85,Udumbanchola,GEN,,121731,INC,E.M. Augusthy,59843,CPI(M),M. Jinadevan,56469,3374,2.77
+ae-kerala-1991,AE,Kerala,1991,1991,official,86,Peerumade,GEN,,91913,INC,K.K. Thomas,46868,CPI,C.A. Kurian,41827,5041,5.48
+ae-kerala-1991,AE,Kerala,1991,1991,official,87,Kanjirappally,GEN,,100673,INC,Geoge J. Mathew,45973,CPI(M),K.J. Thomas,44815,1158,1.15
+ae-kerala-1991,AE,Kerala,1991,1991,official,88,Vazhoor,GEN,,89014,KCM,K. Narayana Karup,43354,CPI,Kanam Rajendran,40804,2550,2.86
+ae-kerala-1991,AE,Kerala,1991,1991,official,89,Changanassery,GEN,,100536,KCM,C.F. Thomas,53742,CPI(M),M.T. Joseph,41965,11777,11.71
+ae-kerala-1991,AE,Kerala,1991,1991,official,90,Kottayam,GEN,,109616,CPI(M),T.K. Ramakrishnan,54182,INC,Cherian Philip,51500,2682,2.45
+ae-kerala-1991,AE,Kerala,1991,1991,official,91,Ettumanoor,GEN,,99560,KCM,Thomas Chazihikadan,49233,CPI(M),Vaikom Viswan,48347,886,0.89
+ae-kerala-1991,AE,Kerala,1991,1991,official,92,Puthuppally,GEN,,105671,INC,Commen Chandy,56150,CPI(M),Vasavan,42339,13811,13.07
+ae-kerala-1991,AE,Kerala,1991,1991,official,93,Poonjar,GEN,,81628,KCM,Joy Abraham,43936,JD,N.M. Joseph,33518,10418,12.76
+ae-kerala-1991,AE,Kerala,1991,1991,official,94,Pala,GEN,,92051,KCM,K.M. Mani,52310,IND,George C. Kappan,35021,17289,18.78
+ae-kerala-1991,AE,Kerala,1991,1991,official,95,Kaduthuruthy,GEN,,93580,KCM,P.M. Mathew,50324,KEC,E.J. Lukose,36592,13732,14.67
+ae-kerala-1991,AE,Kerala,1991,1991,official,96,Vaikom,SC,,104020,INC,K.K. Balakrishnan,50692,CPI,K.P. Sreedharan,49654,1038,1.0
+ae-kerala-1991,AE,Kerala,1991,1991,official,97,Aroor,GEN,,112605,CPI(M),K.R. Gouri Amma,56230,INC,P.J. Francis,52613,3617,3.21
+ae-kerala-1991,AE,Kerala,1991,1991,official,98,Sherthalai,GEN,,103710,CPI,C.K. Chandrappan,50844,INC,Vayalar Ravi,49853,991,0.96
+ae-kerala-1991,AE,Kerala,1991,1991,official,99,Mararikulam,GEN,,135507,CPI(M),V.S. Achuthanandan,71470,INC,D. Sugathan,61490,9980,7.36
+ae-kerala-1991,AE,Kerala,1991,1991,official,100,Alappuzha,GEN,,87475,NDP,K.P. Ramachandran Nair,42269,CPI,P.S. Somasekhara,41519,750,0.86
+ae-kerala-1991,AE,Kerala,1991,1991,official,101,Ambalapuzha,GEN,,98049,CPI(M),C.K. Sadasivan,48150,INC,V. Dinakaran,46617,1533,1.56
+ae-kerala-1991,AE,Kerala,1991,1991,official,102,Kuttanad,GEN,,86408,KEC,K.C. Joseph,45669,KCM,P.D. Luke,36673,8996,10.41
+ae-kerala-1991,AE,Kerala,1991,1991,official,103,Haripad,GEN,,107715,INC,K.K. Sreenivasan,52891,RSP,A.V. Thamarakshan,52376,515,0.48
+ae-kerala-1991,AE,Kerala,1991,1991,official,104,Kayamkulam,GEN,,96594,INC,Thachady Prabhakaran,46682,CPI(M),M.R. Gopalakrishnan,46649,33,0.03
+ae-kerala-1991,AE,Kerala,1991,1991,official,105,Thiruvalla,GEN,,76821,KCM,Mammen Mathai,35843,JD,Mathew T. Thomas,33950,1893,2.46
+ae-kerala-1991,AE,Kerala,1991,1991,official,106,Kallooppara,GEN,,75139,IND,Joseph M. Puthussery,35524,KEC,T.S. John,30288,5236,6.97
+ae-kerala-1991,AE,Kerala,1991,1991,official,107,Aranmula,GEN,,76007,NDP,R. Ramachandran Nair,37534,ICS(SCS),C.A. Mathew,32128,5406,7.11
+ae-kerala-1991,AE,Kerala,1991,1991,official,108,Chengannur,GEN,,85647,INC,Sobhana George,40208,ICS(SCS),Mammen Iype,36761,3447,4.02
+ae-kerala-1991,AE,Kerala,1991,1991,official,109,Mavelikara,GEN,,97749,INC,M. Murali,50292,CPI(M),S. Govinda Kurup,44322,5970,6.11
+ae-kerala-1991,AE,Kerala,1991,1991,official,110,Pandalam,SC,,107956,CPI(M),V. Kisavan,52768,INC,M.A. Kuttappan,51210,1558,1.44
+ae-kerala-1991,AE,Kerala,1991,1991,official,111,Ranni,GEN,,86193,INC,M.C. Cheriyan Moozhickal,41048,CPI(M),Idiculla Mappila,38809,2239,2.6
+ae-kerala-1991,AE,Kerala,1991,1991,official,112,Pathanamthitta,GEN,,82410,IND,K.K. Nair,47367,KEC,Eapen Varughese,29899,17468,21.2
+ae-kerala-1991,AE,Kerala,1991,1991,official,113,Konni,GEN,,88223,CPI(M),A.. Padma Kumar,42531,IND,C.P. Ramachandran Nair,41615,916,1.04
+ae-kerala-1991,AE,Kerala,1991,1991,official,114,Pathanapuram,GEN,,98257,CPI,K. Prakash Babu,50295,KCM,Vakkanand Radhakrishnan,44267,6028,6.13
+ae-kerala-1991,AE,Kerala,1991,1991,official,115,Punaloor,GEN,,107836,INC,Punalur Madhu,53050,CPI,Mullakkara Ratnakaran,51738,1312,1.22
+ae-kerala-1991,AE,Kerala,1991,1991,official,116,Chadayamangalam,GEN,,90394,CPI,E. Rajendran,46025,INC,A. Hidur Mohammed,40986,5039,5.57
+ae-kerala-1991,AE,Kerala,1991,1991,official,117,Kottarakkara,GEN,,92101,IND,R. Balakrishna Pillai,47122,CPI(M),George Mathew,41707,5415,5.88
+ae-kerala-1991,AE,Kerala,1991,1991,official,118,Neduvathur,SC,,94175,CPI(M),B. Raghavan,49296,INC,N. Narayanan,42112,7184,7.63
+ae-kerala-1991,AE,Kerala,1991,1991,official,119,Adoor,GEN,,86766,INC,Thiruvanchoor Radhakrishnan,44147,CPI(M),R. Unnikrishna Pillai,38380,5767,6.65
+ae-kerala-1991,AE,Kerala,1991,1991,official,120,Kunnathur,SC,,114226,RSP,T. Nanoomaster,56064,INC,V. Sasidharan,53462,2602,2.28
+ae-kerala-1991,AE,Kerala,1991,1991,official,121,Karunagappally,GEN,,103818,CPI,P.S Sreenivasan,53576,INC,Jameela Ibrahim,47326,6250,6.02
+ae-kerala-1991,AE,Kerala,1991,1991,official,122,Chavara,GEN,,100740,RSP,Baby John,51249,INC,Prathapa Varma Thampan,46925,4324,4.29
+ae-kerala-1991,AE,Kerala,1991,1991,official,123,Kundara,GEN,,94358,INC,Alphonsa John,46447,CPI(M),Mercykutty Amma J,45075,1372,1.45
+ae-kerala-1991,AE,Kerala,1991,1991,official,124,Quilon,GEN,,96456,INC,Kadavoor Sivadasan,48307,RSP,Babu Divakaran,43831,4476,4.64
+ae-kerala-1991,AE,Kerala,1991,1991,official,125,Eravipuram,GEN,,116116,IUML,P.K.K. Bava,55972,IND,V.P. Ramakrishna Pillai,55350,622,0.54
+ae-kerala-1991,AE,Kerala,1991,1991,official,126,Chathannur,GEN,,106323,INC,C.V. Padmarajan,53755,CPI,P. Ravindran,49244,4511,4.24
+ae-kerala-1991,AE,Kerala,1991,1991,official,127,Varkala,GEN,,85129,CPI(M),Varkala Radhakrishnan,42977,INC,Varkala Kahar,39680,3297,3.87
+ae-kerala-1991,AE,Kerala,1991,1991,official,128,Attingal,GEN,,86343,INC,T. Saratchandra Prasad,41964,CPI(M),Anathalavattom Anadan,41527,437,0.51
+ae-kerala-1991,AE,Kerala,1991,1991,official,129,Kilimanoor,SC,,102887,CPI,N. Rajan,51937,INC,Thankappan,47882,4055,3.94
+ae-kerala-1991,AE,Kerala,1991,1991,official,130,Vamanapuram,GEN,,106272,CPI(M),Kolaikode N. Krishna Nair,52248,INC,R.M. Parameswaran,50882,1366,1.29
+ae-kerala-1991,AE,Kerala,1991,1991,official,131,Eranad,GEN,,89671,INC,G. Karihikeyan,44302,RSP,K. Pankajakshan,40822,3480,3.88
+ae-kerala-1991,AE,Kerala,1991,1991,official,132,Nedumangad,GEN,,112537,INC,Palode Ravi,54678,CPI,K. Govinda Pillai,53739,939,0.83
+ae-kerala-1991,AE,Kerala,1991,1991,official,133,Kazhakkoottam,GEN,,105924,CPM(K),M.V. Raghavan,51243,CPI(M),A. Nabeesaummal,50554,689,0.65
+ae-kerala-1991,AE,Kerala,1991,1991,official,134,Trivandrum North,GEN,,114408,CPI(M),M. Vijaya Kumar,52865,NDP,T. Raveendtan Thampi,52525,340,0.3
+ae-kerala-1991,AE,Kerala,1991,1991,official,135,Trivandrum West,GEN,,87830,INC,M.M. Hassan,43620,KEC,Antony Raju,35121,8499,9.68
+ae-kerala-1991,AE,Kerala,1991,1991,official,136,Trivandrum East,GEN,,87830,INC,B. Vijaya Kumar,41230,ICS(SCS),K. Sankaranaraya Pillai,33302,7928,9.03
+ae-kerala-1991,AE,Kerala,1991,1991,official,137,Nemom,GEN,,106674,CPI(M),V.J. Thankappan,47063,CPM(K),Stanly Sathyanesan,40201,6862,6.43
+ae-kerala-1991,AE,Kerala,1991,1991,official,138,Kovalam,GEN,,104934,JD,A. Neela Lohitha Dajan Kadar,49515,INC,George Maserine,49494,21,0.02
+ae-kerala-1991,AE,Kerala,1991,1991,official,139,Neyyattinkara,GEN,,104187,INC,Thampanoor Ravi,49016,JD,S.R. Thanka Raj,47042,1974,1.89
+ae-kerala-1991,AE,Kerala,1991,1991,official,140,Parassala,GEN,,97950,INC,M.R. Raghu Chandra Bal,48423,CPI(M),Sathyanesan,40788,7635,7.79

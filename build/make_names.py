@@ -34,7 +34,7 @@ def main():
     total = {'ok': 0, 'miss': 0, 'bad': 0}
     for f in sorted(glob.glob(f'{D}/*.json')):
         base = os.path.basename(f)[:-5]
-        if base in ('index', 'search', 'polls'):
+        if base in ('index', 'search', 'polls', 'stats'):
             continue
         out = {}
         extra = {}

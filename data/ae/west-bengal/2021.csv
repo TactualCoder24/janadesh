@@ -1,0 +1,295 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,1,Mekliganj,GEN,Koch Bihar,196297,AITC,Adhikary Paresh Chandra,99338,BJP,Dadhiram Ray,84653,14685,7.48
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,2,Mathabhanga,GEN,Koch Bihar,212760,BJP,Sushil Barman,113249,AITC,Girindra Nath Barman,87115,26134,12.28
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,3,Coochbehar Uttar,GEN,Koch Bihar,242346,BJP,Sukumar Roy,120483,AITC,Binay Krishna Barman,105868,14615,6.03
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,4,Cooch Behar Dakshin,GEN,Koch Bihar,194041,BJP,Nikhil Ranjan Dey,91560,AITC,Avijit De Bhowmik,86629,4931,2.54
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,5,Sitalkuchi,GEN,Koch Bihar,243223,BJP,Baren Chandra Barman,124955,AITC,Partha Pratim Ray,107140,17815,7.32
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,6,Sitai,GEN,Koch Bihar,237001,AITC,Jagadish Chandra Barma Basunia,117908,BJP,Dipak Kumar Roy,107796,10112,4.27
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,7,Dinhata,GEN,Koch Bihar,242214,BJP,Nisith Pramanik,116035,AITC,Udayan Guha,115978,57,0.02
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,8,Natabari,GEN,Koch Bihar,216027,BJP,Mihir Goswami,111743,AITC,Rabindra Nath Ghosh,88303,23440,10.85
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,9,Tufanganj,GEN,Koch Bihar,207309,BJP,Malati Rava Roy,114503,AITC,Pranab Kumar Dey,83305,31198,15.05
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,10,Kumargram,GEN,Jalpaiguri,229771,BJP,Manoj Kumar Oraon,111974,AITC,Leos Kujur (Urao),100973,11001,4.79
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,11,Kalchini,GEN,Jalpaiguri,193438,BJP,Bishal Lama,103104,AITC,Passang Lama,74528,28576,14.77
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,12,Alipurduars,GEN,Jalpaiguri,220751,BJP,Suman Kanjilal,107333,AITC,Sourav Chakraborty (Ghutis),91326,16007,7.25
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,13,Falakata,GEN,Jalpaiguri,218530,BJP,Dipak Barman,102993,AITC,Subhash Chandra Roy,99003,3990,1.83
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,14,Madarihat,GEN,Jalpaiguri,164298,BJP,Manoj Tigga,90718,AITC,Rajesh Lakra,61033,29685,18.07
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,15,Dhupguri,GEN,Jalpaiguri,227339,BJP,Bishnu Pada Ray,104688,AITC,Mitali Roy,100333,4355,1.92
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,16,Maynaguri,GEN,Jalpaiguri,232998,BJP,Kaushik Roy,115306,AITC,Manoj Roy,103395,11911,5.11
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,17,Jalpaiguri,GEN,Jalpaiguri,222552,AITC,Dr. Pradip Kumar Barma,95668,BJP,Soujit Singha (Piku),94727,941,0.42
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,18,Rajganj,GEN,Jalpaiguri,212580,AITC,Khageswar Roy,104641,BJP,Supen Roy,88868,15773,7.42
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,19,Dabgram-Fulbari,GEN,Jalpaiguri,255590,BJP,Sikha Chatterjee,129088,AITC,Goutam Deb,101495,27593,10.8
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,20,Mal,GEN,Jalpaiguri,208556,AITC,Bulu Chik Baraik,99086,BJP,Mahesh Bagey,93621,5465,2.62
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,21,Nagrakata,GEN,Jalpaiguri,185715,BJP,Puna Bhengra,94722,AITC,Joseph Munda,71247,23475,12.64
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,22,Kalimpong,GEN,Darjiling,152703,IND,Ruden Sada Lepcha,58206,BJP,Suva Pradhan,54336,3870,2.53
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,23,Darjeeling,GEN,Darjiling,166035,BJP,Neeraj Tamang Zimba,68907,IND,Keshav Raj Sharma,47631,21276,12.81
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,24,Kurseong,GEN,Darjiling,173128,BJP,Bishnu Prasad Sharma (alias B.P. Bajgain),73475,IND,Tshering Lama,57960,15515,8.96
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,25,Matigara-Naxalbari,GEN,Darjiling,236679,BJP,Anandamay Barman,139785,AITC,Rajen Sundas,68937,70848,29.93
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,26,Siliguri,GEN,Darjiling,176576,BJP,Sankar Ghosh,89370,AITC,Dr. Omprakash Mishra,53784,35586,20.15
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,27,Phansidewa,GEN,Darjiling,205015,BJP,Durga Murmu,105651,AITC,Chhotan Kisku,77940,27711,13.52
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,28,Chopra,GEN,Uttar Dinajpur,202579,AITC,Hamidul Rahaman,124923,BJP,Md. Shahin Akhter,60018,64905,32.04
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,29,Islampur,GEN,Uttar Dinajpur,167998,AITC,Abdul Karim Chowdhary,100131,BJP,Saumyaroop Mandal,62691,37440,22.29
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,30,Goalpokhar,GEN,Uttar Dinajpur,159519,AITC,Md. Ghulam Rabbani,105649,BJP,Md. Ghulam Sarwar,32135,73514,46.08
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,31,Chakulia,GEN,Uttar Dinajpur,172214,AITC,Azad Minhajul Arfin,86311,BJP,Sachin Prasad,52474,33837,19.65
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,32,Karandighi,GEN,Uttar Dinajpur,210687,AITC,Goutam Paul,116594,BJP,Subhas Chandra Sinha S/O: Haranarayan Sinha,79968,36626,17.38
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,33,Hemtabad,GEN,Uttar Dinajpur,221141,AITC,Satyajit Barman,116425,BJP,Chandima Roy,89210,27215,12.31
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,34,Kaliaganj,GEN,Uttar Dinajpur,236719,BJP,Soumen Roy,116768,AITC,Tapan Deb Singha,94948,21820,9.22
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,35,Raiganj,GEN,Uttar Dinajpur,158879,BJP,Krishna Kalyani,79775,AITC,Agarwal Kanaia Lal,59027,20748,13.06
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,36,Itahar,GEN,Uttar Dinajpur,192746,AITC,Mosaraf Hussen,114645,BJP,Amit Kumar Kundu,70670,43975,22.82
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,37,Kushmandi,GEN,Dakshin Dinajpur *,182477,AITC,Rekha Roy,89968,BJP,Ranjit Kumar Roy,77384,12584,6.9
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,38,Kumarganj,GEN,Dakshin Dinajpur *,169803,AITC,Toraf Hossain Mandal,89763,BJP,Manas Sarkar,60396,29367,17.29
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,39,Balurghat,GEN,Dakshin Dinajpur *,150262,BJP,Ashok Kumar Lahiri,72129,AITC,Sekhar Dasgupta,58693,13436,8.94
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,40,Tapan,GEN,Dakshin Dinajpur *,184606,BJP,Budhrai Tudu,84381,AITC,Kalpana Kisku,82731,1650,0.89
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,41,Gangarampur,GEN,Dakshin Dinajpur *,188333,BJP,Satyendra Nath Ray,88724,AITC,Goutam Das,84132,4592,2.44
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,42,Harirampur,GEN,Dakshin Dinajpur *,185819,AITC,Biplab Mitra,96131,BJP,Nilanjan Roy,73459,22672,12.2
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,43,Habibpur,GEN,Maldah,195827,BJP,Joyel Murmu,94075,AITC,Prodip Baskey,74558,19517,9.97
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,44,Gazole,GEN,Maldah,219478,BJP,Chinmoy Deb Barman,100655,AITC,Basanti Barman,98857,1798,0.82
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,45,Chanchal,GEN,Maldah,198656,AITC,Nihar Ranjan Ghosh,115966,BJP,Dipankar Ram (Bankat),48628,67338,33.9
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,46,Harischandrapur,GEN,Maldah,202141,AITC,Tajmul Hossain,122527,BJP,Md. Matibur Rahaman,45054,77473,38.33
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,47,Malatipur,GEN,Maldah,183450,AITC,Abdur Rahim Boxi,126157,BJP,Mousumi Das,34208,91949,50.12
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,48,Ratua,GEN,Maldah,217097,AITC,Samar Mukherjee,130674,BJP,Abishek Singhania,55024,75650,34.85
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,49,Manikchak,GEN,Maldah,205624,AITC,Sabitri Mitra,110234,BJP,Gour Chandra Mandal,76356,33878,16.48
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,50,Maldaha,GEN,Maldah,203671,BJP,Gopal Chandra Saha,93398,AITC,Ujjwal Kumar Chowdhury,77942,15456,7.59
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,51,Englishbazar,GEN,Maldah,212479,BJP,Sreerupa Mitra Chaudhury(Nirbhoy Didi),107755,AITC,Krishnendu Narayan Choudhury,87656,20099,9.46
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,52,Mothabari,GEN,Maldah,161004,AITC,Yeasmin Sabina,97397,BJP,Shyamchand Ghosh,40824,56573,35.14
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,53,Sujapur,GEN,Maldah,206064,AITC,Md Abdul Ghani,152445,INC,Isha Khan Choudhury,22282,130163,63.17
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,54,Baisnabnagar,GEN,Maldah,206947,AITC,Chandana Sarkar,83061,BJP,Swadhin Kumar Sarkar,80590,2471,1.19
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,55,Farakka,GEN,Murshidabad,184786,AITC,Manirul Islam,102319,BJP,Ghosh Hemanta,42374,59945,32.44
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,56,Samserganj,GEN,Murshidabad,185518,AITC,Amirul Islam,96417,INC,Zaidur Rahaman,70038,26379,14.22
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,57,Suti,GEN,Murshidabad,213604,AITC,Emani Biswas,127351,BJP,Koushik Das,56650,70701,33.1
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,58,Jangipur,GEN,Murshidabad,193706,AITC,Jakir Hossain,136444,BJP,Sujit Das,43964,92480,47.74
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,59,Raghunathganj,GEN,Murshidabad,187540,AITC,Akhruzzaman,126834,BJP,Golam Modaswer,28521,98313,52.42
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,60,Sagardighi,GEN,Murshidabad,185111,AITC,Subrata Saha,95189,BJP,Khatun Mafuja,44983,50206,27.12
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,61,Lalgola,GEN,Murshidabad,189044,AITC,Ali Mohammad,107860,INC,Abu Hena,47153,60707,32.11
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,62,Bhagabangola,GEN,Murshidabad,222594,AITC,Idris Ali,153795,CPI(M),Md. Kamal Hossain,47787,106008,47.62
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,63,Raninagar,GEN,Murshidabad,219242,AITC,Abdul Soumik Hossain,134957,INC,Firoza Begam,55255,79702,36.35
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,64,Murshidabad,GEN,Murshidabad,226327,BJP,Gouri Sankar Ghosh,95967,AITC,Shaoni Singha Roy,93476,2491,1.1
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,65,Nabagram,GEN,Murshidabad,205887,AITC,Kanai Chandra Mondal,100455,BJP,Mohan Halder,64922,35533,17.26
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,66,Khargram,GEN,Murshidabad,184251,AITC,Ashis Marjit,93255,BJP,Aditya Moulik,60682,32573,17.68
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,67,Burwan,GEN,Murshidabad,174795,AITC,Jiban Krishna Saha,81890,BJP,Amiya Kumar Das,79141,2749,1.57
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,68,Kandi,GEN,Murshidabad,183350,AITC,Apurba Sarkar (David),95399,BJP,Goutam Roy,57319,38080,20.77
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,69,Bharatpur,GEN,Murshidabad,186603,AITC,Humayun Kabir,96226,BJP,Iman Kalyan Mukherjee,53143,43083,23.09
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,70,Rejinagar,GEN,Murshidabad,208885,AITC,Rabiul Alam Chowdhury,118494,BJP,Arabinda Biswas,50226,68268,32.68
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,71,Beldanga,GEN,Murshidabad,203143,AITC,Hasanuzzaman Sk,112862,BJP,Sumit Ghosh,59030,53832,26.5
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,72,Baharampur,GEN,Murshidabad,195082,BJP,Subrata Maitra (Kanchan),89340,AITC,Naru Gopal Mukherjee,62488,26852,13.76
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,73,Hariharpara,GEN,Murshidabad,214958,AITC,Niamot Sheikh,102660,INC,Mir Alamgir (Palash),88594,14066,6.54
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,74,Naoda,GEN,Murshidabad,201041,AITC,Sahina Momtaz Khan,117684,BJP,Anupam Mandal,43531,74153,36.88
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,75,Domkal,GEN,Murshidabad,223764,AITC,Jafikul Islam,127671,CPI(M),Md. Mostafijur Rahaman (Rana),80442,47229,21.11
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,76,Jalangi,GEN,Murshidabad,219616,AITC,Abdur Razzak,123840,CPI(M),Saiful Islam Molla,44564,79276,36.1
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,77,Karimpur,GEN,Nadia,220178,AITC,Bimalendu Sinha Roy,110911,BJP,Samarendranath Ghosh,87336,23575,10.71
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,78,Tehatta,GEN,Nadia,216373,AITC,Tapas Kumar Saha,97848,BJP,Ashutosh Paul,90933,6915,3.2
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,79,Palashipara,GEN,Nadia,201731,AITC,Dr. Manik Bhattacharya,110274,BJP,Bibhash Chandra Mandal,58938,51336,25.45
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,80,Kaliganj,GEN,Nadia,207328,AITC,Nasiruddin Ahamed (Lal),111696,BJP,Abhijit Ghosh,64709,46987,22.66
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,81,Nakashipara,GEN,Nadia,208424,AITC,Kallol Khan,104812,BJP,Santanu Dey,83541,21271,10.21
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,82,Chapra,GEN,Nadia,211152,AITC,Rukbanur Rahman,73866,IND,Jeber Sekh,61748,12118,5.74
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,83,Krishnanagar Uttar,GEN,Nadia,199954,BJP,Mukul Roy,109357,AITC,Koushani Mukherjee,74268,35089,17.55
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,84,Nabadwip,GEN,Nadia,208245,AITC,Pundarikakshya Saha,102170,BJP,Sidhartha Shankar Naskar,83599,18571,8.92
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,85,Krishnanagar Dakshin,GEN,Nadia,193520,AITC,Ujjal Biswas,91738,BJP,Mahadev Sarkar,82433,9305,4.81
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,86,Santipur,GEN,Nadia,217307,BJP,Jagannath Sarkar,109722,AITC,Ajoy Dey,93844,15878,7.31
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,87,Ranaghat Uttar Paschim,GEN,Nadia,220935,BJP,Parthasarathi Chatterjee,113637,AITC,Sankar Singha,90509,23128,10.47
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,88,Krishnaganj,GEN,Nadia,229839,BJP,Ashis Kumar Biswas,117668,AITC,Dr. Tapas Mandal,96391,21277,9.26
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,89,Ranaghat Uttar Purba,GEN,Nadia,212377,BJP,Ashim Biswas,116786,AITC,Samir Kumar Poddar,85004,31782,14.96
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,90,Ranaghat Dakshin,GEN,Nadia,240110,BJP,Mukut Mani Adhikari,119260,AITC,Barnali Dey Roy,102745,16515,6.88
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,91,Chakdaha,GEN,Nadia,210577,BJP,Bankim Chandra Ghosh,99368,AITC,Subhankar Singha (Jishu),87688,11680,5.55
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,92,Kalyani,GEN,Nadia,217761,BJP,Ambika Roy,97026,AITC,Aniruddha Biswas,94820,2206,1.01
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,93,Haringhata,GEN,Nadia,209447,BJP,Asim Kumar Sarkar,97666,AITC,Nilima Nag (Mallick),82466,15200,7.26
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,94,Bagda,GEN,North 24 Parganas,217771,BJP,Biswajit Das,108111,AITC,Paritosh Kumar Saha,98319,9792,4.5
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,95,Bangaon Uttar,GEN,North 24 Parganas,203342,BJP,Ashok Kirtania,97761,AITC,Shyamal Roy,87273,10488,5.16
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,96,Bangaon Dakshin,GEN,North 24 Parganas,206292,BJP,Swapan Majumder,97828,AITC,Alo Rani Sarkar,95824,2004,0.97
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,97,Gaighata,GEN,North 24 Parganas,211834,BJP,Subrata Thakur,100808,AITC,Narottam Biswas,91230,9578,4.52
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,98,Swarupnagar,GEN,North 24 Parganas,210548,AITC,Bina Mondal,99784,BJP,Brindaban Sarkar,64984,34800,16.53
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,99,Baduria,GEN,North 24 Parganas,210930,AITC,Abdur Rahim Quazi,109701,BJP,Sukalyan Baidya,53257,56444,26.76
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,100,Habra,GEN,North 24 Parganas,202881,AITC,Jyoti Priya Mallick,90533,BJP,Biswajit Sinha,86692,3841,1.89
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,101,Ashoknagar,GEN,North 24 Parganas,215113,AITC,Narayan Goswami,93587,BJP,Tanuja Chakraborty,70055,23532,10.94
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,102,Amdanga,GEN,North 24 Parganas,209418,AITC,Rafiqur Rahaman,88935,BJP,Joydev Manna,63455,25480,12.17
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,103,Bijpur,GEN,North 24 Parganas,137869,AITC,Subodh Adhikary,66625,BJP,Subhranshu Roy,53278,13347,9.68
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,104,Naihati,GEN,North 24 Parganas,154767,AITC,Partha Bhowmick,77753,BJP,Phalguni Patra,58898,18855,12.18
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,105,Bhatpara,GEN,North 24 Parganas,106037,BJP,Pawan Kumar Singh,57244,AITC,Jitendra Shaw (Jitu),43557,13687,12.91
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,106,Jagatdal,GEN,North 24 Parganas,178719,AITC,Somenath Shyam Ichini,87030,BJP,Arindam Bhattacharya,68666,18364,10.28
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,107,Noapara,GEN,North 24 Parganas,189748,AITC,Manju Basu,94203,BJP,Sunil Singh,67493,26710,14.08
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,108,Barrackpur,GEN,North 24 Parganas,146319,AITC,Raju Chakraborty (Raj),68887,BJP,Chandramani Shukla,59665,9222,6.3
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,109,Khardaha,GEN,North 24 Parganas,180732,AITC,Kajal Sinha,89807,BJP,Silbhadra Datta,61667,28140,15.57
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,110,Dum Dum Uttar,GEN,North 24 Parganas,211038,AITC,Chandrima Bhattacharya,95465,BJP,Dr. Archana Majumdar,66966,28499,13.5
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,111,Panihati,GEN,North 24 Parganas,172022,AITC,Nirmal Ghosh,86495,BJP,Sanmoy Bandyopadhyay,61318,25177,14.64
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,112,Kamarhati,GEN,North 24 Parganas,142757,AITC,Madan Mitra,73845,BJP,Anindya Banerjee,38437,35408,24.8
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,113,Baranagar,GEN,North 24 Parganas,157881,AITC,Tapas Roy,85615,BJP,Parno Mittra,50468,35147,22.26
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,114,Dum Dum,GEN,North 24 Parganas,183295,AITC,Brtya Basu,87999,BJP,Bimalshankar Nanda,61268,26731,14.58
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,115,Rajarhat New Town,GEN,North 24 Parganas,232874,AITC,Tapash Chatterjee,127374,BJP,Bhaskar Roy S/O - Dulal Roy,70942,56432,24.23
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,116,Bidhannagar,GEN,North 24 Parganas,159822,AITC,Sujit Bose S/O - Late Ajit Bose,75912,BJP,Sabya Sachi Dutta S/O - Late Gouri Sankar Dutta,67915,7997,5.0
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,117,Rajarhat  Gopalpur,GEN,North 24 Parganas,176465,AITC,Aditi Munshi,87650,BJP,Samik Bhattacharya,62354,25296,14.33
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,118,Madhyamgram,GEN,North 24 Parganas,227279,AITC,Rathin Ghosh,112741,BJP,Rajasree Rajbanshi,64615,48126,21.17
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,119,Barasat,GEN,North 24 Parganas,223019,AITC,Chiranjeet Chakrabarti,104431,BJP,Sankar Chatterjee,80648,23783,10.66
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,120,Deganga,GEN,North 24 Parganas,212280,AITC,Rahima Mondal,100105,RSMP,Karim Ali,67568,32537,15.33
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,121,Haroa,GEN,North 24 Parganas,224465,AITC,Islam Sk Nurul (Haji),130398,RSMP,Kutubuddin Fathe,49420,80978,36.08
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,122,Minakhan,GEN,North 24 Parganas,208412,AITC,Usha Rani Mondal,109818,BJP,Jayanta Mondal,53988,55830,26.79
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,123,Sandeshkhali,GEN,North 24 Parganas,203331,AITC,Sukumar Mahata,112450,BJP,Dr. Bhaskar Sardar,72765,39685,19.52
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,124,Basirhat Dakshin,GEN,North 24 Parganas,234048,AITC,Dr. Saptarshi Banerjee,115873,BJP,Tarak Nath Ghosh,91405,24468,10.45
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,125,Basirhat Uttar,GEN,North 24 Parganas,236474,AITC,Rafikul Islam Mondal,137216,RSMP,Md Baijid Amin,47865,89351,37.78
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,126,Hingalganj,GEN,North 24 Parganas,192945,AITC,Debes Mandal,104706,BJP,Nemai Das,79790,24916,12.91
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,127,Gosaba,GEN,South 24 Parganas,194791,AITC,Jayanta Naskar,105723,BJP,Barun Pramanik (Chitta),82014,23709,12.17
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,128,Basanti,GEN,South 24 Parganas,212003,AITC,Shyamal Mondal,111453,BJP,Ramesh Majhi,60811,50642,23.89
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,129,Kultali,GEN,South 24 Parganas,226303,AITC,Ganesh Chandra Mondal,117238,BJP,Mintu Halder,70061,47177,20.85
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,130,Patharpratima,GEN,South 24 Parganas,230572,AITC,Samir Kumar Jana,120181,BJP,Asit Kumar Haldar,98047,22134,9.6
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,131,Kakdwip,GEN,South 24 Parganas,218574,AITC,Manturam Pakhira,114493,BJP,Dipankar Jana,89191,25302,11.58
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,132,Sagar,GEN,South 24 Parganas,238042,AITC,Bankim Chandra Hazra,129000,BJP,Kamila Bikash,99154,29846,12.54
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,133,Kulpi,GEN,South 24 Parganas,191445,AITC,Jogaranjan Halder,96577,BJP,Pranab Kumar Mallik,62759,33818,17.66
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,134,Raidighi,GEN,South 24 Parganas,237258,AITC,Aloke Jaldata,115707,BJP,Santanu Bapuli,80139,35568,14.99
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,135,Mandirbazar,GEN,South 24 Parganas,197668,AITC,Joydeb Halder,95834,BJP,Dilip Kumar Jatua,72342,23492,11.88
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,136,Joynagar,GEN,South 24 Parganas,201267,AITC,Biswanath Das,104952,BJP,Rabin Sardar,66269,38683,19.22
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,137,Baruipur Purba,GEN,South 24 Parganas,223259,AITC,Bivas Sardar (Vobo),123243,BJP,Chandan Mondal,73602,49641,22.23
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,138,Canning Paschim,GEN,South 24 Parganas,215322,AITC,Paresh Ram Das,111059,BJP,Arnab Roy,75816,35243,16.37
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,139,Canning Purba,GEN,South 24 Parganas,230499,AITC,Saokat Molla,122301,RSMP,Gazi Shahabuddin Siraji,69294,53007,23.0
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,140,Baruipur Paschim,GEN,South 24 Parganas,209757,AITC,Biman Banerjee,121006,BJP,Debopam Chattopadhyaya(Babu),59096,61910,29.52
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,141,Magrahat Purba,GEN,South 24 Parganas,204673,AITC,Namita Saha,110945,BJP,Chandan Kumar Naskar,56866,54079,26.42
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,142,Magrahat Paschim,GEN,South 24 Parganas,191996,AITC,Gias Uddin Molla,97006,BJP,Dhurjati Saha (Manas),50065,46941,24.45
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,143,Diamond Harbour,GEN,South 24 Parganas,223948,AITC,Pannalal Halder,98478,BJP,Dipak Kumar Halder,81482,16996,7.59
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,144,Falta,GEN,South 24 Parganas,206747,AITC,Sankar Kumar Naskar,117179,BJP,Bidhan Parui,76405,40774,19.72
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,145,Satgachhia,GEN,South 24 Parganas,234169,AITC,Mohan Chandra Naskar,118635,BJP,Chandan Pal,95317,23318,9.96
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,146,Bishnupur,GEN,South 24 Parganas,235707,AITC,Dilip Mondal,136509,BJP,Agniswar Naskar,77677,58832,24.96
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,147,Sonarpur Dakshin,GEN,South 24 Parganas,230257,AITC,Arundhuti Maitra (Lovely),109222,BJP,Anjana Basu,83041,26181,11.37
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,148,Bhangar,GEN,South 24 Parganas,238942,RSMP,Md. Nawsad Siddique,109237,AITC,Karim Rezaul,83086,26151,10.94
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,149,Kasba,GEN,South 24 Parganas,220678,AITC,Ahmed Javed Khan,121372,BJP,Dr. Indranil Khan,57750,63622,28.83
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,150,Jadavpur,GEN,South 24 Parganas,212689,AITC,Debabrata Majumdar (Malay),98100,CPI(M),Dr. SUJAN CHAKRABORTY,59231,38869,18.28
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,151,Sonarpur Uttar,GEN,South 24 Parganas,238381,AITC,Firdousi Begum,119957,BJP,Ranjan Baidya,83867,36090,15.14
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,152,Tollyganj,GEN,South 24 Parganas,195055,AITC,Aroop Biswas,101440,BJP,Babul Supriyo,51360,50080,25.67
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,153,Behala Purba,GEN,South 24 Parganas,219037,AITC,Ratna Chatterjee,110968,BJP,Payel Sarkar,73540,37428,17.09
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,154,Behala Paschim,GEN,South 24 Parganas,229383,AITC,Partha Chatterjee,114778,BJP,Srabanti Chatterjee,63894,50884,22.18
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,155,Maheshtala,GEN,South 24 Parganas,217920,AITC,Dulal Chandra Das,124008,BJP,Umesh Das,66059,57949,26.59
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,156,Budge Budge,GEN,South 24 Parganas,214157,AITC,Ashok Kumar Deb,122357,BJP,Dr. Tarun Kumar Adak,77643,44714,20.88
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,157,Metiaburuz,GEN,South 24 Parganas,193574,AITC,Abdul Khaleque Molla,151066,BJP,Ramjit Prasad,31462,119604,61.79
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,158,Kolkata Port,GEN,Kolkata,151083,AITC,Firhad Hakim,105543,BJP,Awadh Kishore Gupta,36989,68554,45.38
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,159,Bhabanipur,GEN,Kolkata,125806,AITC,Sobhandeb Chattopadhyay,73505,BJP,Rudranil Ghosh,44786,28719,22.83
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,160,Rashbehari,GEN,Kolkata,122793,AITC,Debasish Kumar,65704,BJP,Lt. Gen. (Dr.) Subrata Saha,44290,21414,17.44
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,161,Ballygunge,GEN,Kolkata,149645,AITC,Subrata Mukherjee,106585,BJP,Lokenath Chatterjee,31226,75359,50.36
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,162,Chowrangee,GEN,Kolkata,110281,AITC,Bandyopadhyay Nayna,70101,BJP,Devdutta Maji,24757,45344,41.12
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,163,Entally,GEN,Kolkata,155883,AITC,Swarna Kamal Saha,101709,BJP,Priyanka Tibrewal,43452,58257,37.37
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,164,Beleghata,GEN,Kolkata,156942,AITC,Paresh Paul,103182,BJP,Kashinath Biswas,36042,67140,42.78
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,165,Jorasanko,GEN,Kolkata,97927,AITC,Vivek Gupta,52123,BJP,Meena Devi Purohit,39380,12743,13.01
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,166,Shyampukur,GEN,Kolkata,101907,AITC,Dr. SHASHI PANJA,55785,BJP,Sandipan Biswas,33265,22520,22.1
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,167,Maniktola,GEN,Kolkata,131547,AITC,Sadhan Pande,67577,BJP,Kalyan Chaubey,47339,20238,15.38
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,168,Kashipur-Belgachhia,GEN,Kolkata,133295,AITC,Atin Ghosh,76182,BJP,Sibaji Sinha Roy,40792,35390,26.55
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,169,Bally,GEN,Haora,124667,AITC,Rana Chatterjee,53347,BJP,Baishali Dalmiya,47110,6237,5.0
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,170,Howrah Uttar,GEN,Haora,148050,AITC,Gautam Chowdhuri,71575,BJP,Umesh Rai,66053,5522,3.73
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,171,Howrah Madhya,GEN,Haora,192409,AITC,"Arup Roy, S/o Late Prabhat Roy",111554,BJP,Sanjay Singh,65007,46547,24.19
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,172,Shibpur,GEN,Haora,180307,AITC,Manoj Tiwary,92372,BJP,Rathin Chakrabarty,59769,32603,18.08
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,173,Howrah Dakshin,GEN,Haora,213992,AITC,Nandita Chowdhury,116839,BJP,Rantidev Sengupta,66270,50569,23.63
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,174,Sankrail,GEN,Haora,220277,AITC,Priya Paul,111888,BJP,Probhakar Pandit,71461,40427,18.35
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,175,Panchla,GEN,Haora,214598,AITC,Gulsan Mullick,104572,BJP,Mohit Lal Ghanti,71821,32751,15.26
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,176,Uluberia Purba,GEN,Haora,190910,AITC,Bidesh Ranjan Bose,86526,BJP,Pratyush Mandal,69400,17126,8.97
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,177,Uluberia Uttar,GEN,Haora,184532,AITC,Dr. Nirmal Maji,91501,BJP,Chiran Bera,70498,21003,11.38
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,178,Uluberia Dakshin,GEN,Haora,200792,AITC,Pulak Roy,101880,BJP,Papia Dey (Adhikary),73442,28438,14.16
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,179,Shyampur,GEN,Haora,220747,AITC,Kalipada Mandal,114804,BJP,Tnusree Chakraborty,83293,31511,14.27
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,180,Bagnan,GEN,Haora,198387,AITC,Arunava Sen (Raja),106042,BJP,Anupam Mallik,75922,30120,15.18
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,181,Amta,GEN,Haora,207508,AITC,Sukanta Kumar Paul,102445,BJP,Debtanu Bhattacharya,76240,26205,12.63
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,182,Udaynarayanpur,GEN,Haora,196991,AITC,Samir Kumar Panja,101510,BJP,Sumit Ranjan Karar,87512,13998,7.11
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,183,Jagatballavpur,GEN,Haora,232952,AITC,Sitanath Ghosh,116562,BJP,Anupam Ghosh,87366,29196,12.53
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,184,Domjur,GEN,Haora,248896,AITC,Kalyan Ghosh,130499,BJP,Rajib Banerjee S/O- Late Dhananjoy Banerjee,87879,42620,17.12
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,185,Uttarpara,GEN,Hugli,196541,AITC,Kanchan Mullick,93878,BJP,Prabir Kumar Ghosal,57889,35989,18.31
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,186,Sreerampur,GEN,Hugli,185681,AITC,Dr. Sudipto Roy,93021,BJP,Kabir Shankar Bose,69588,23433,12.62
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,187,Champdani,GEN,Hugli,197784,AITC,Arindam Guin (Bubai),100972,BJP,Dilip Singh,70894,30078,15.21
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,188,Singur,GEN,Hugli,207593,AITC,Becharam Manna,101077,BJP,Rabindranath Bhattacharya,75154,25923,12.49
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,189,Chandannagar,GEN,Hugli,179155,AITC,Indranil Sen,86778,BJP,Deepanjan Kumar Guha,55749,31029,17.32
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,190,Chunchura,GEN,Hugli,250399,AITC,Asit Mazumder (Tapan),117104,BJP,Locket Chatterjee,98687,18417,7.36
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,191,Balagarh,GEN,Hugli,216852,AITC,Manoranjan Bapari,100364,BJP,Subhas Chandra Haldar,94580,5784,2.67
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,192,Pandua,GEN,Hugli,221500,AITC,Dr. Ratna De Nag,102874,BJP,Partha Sharma,71016,31858,14.38
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,193,Saptagram,GEN,Hugli,189153,AITC,Tapan Dasgupta,93328,BJP,Debabrata Biswas,83556,9772,5.17
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,194,Chanditala,GEN,Hugli,204950,AITC,Swati Khandoker,103118,BJP,Debashish Dasgupta(Yash D Guptaa),61771,41347,20.17
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,195,Jangipara,GEN,Hugli,207371,AITC,Snehasis Chakraborty,101885,BJP,Debjit Sarkar,83959,17926,8.64
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,196,Haripal,GEN,Hugli,217407,AITC,Dr. Karabi Manna,110215,BJP,Samiran Mitra,87143,23072,10.61
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,197,Dhanekhali,GEN,Hugli,231656,AITC,Asima Patra,124776,BJP,Tusar Kumar Majumdar,94617,30159,13.02
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,198,Tarakeswar,GEN,Hugli,203165,AITC,Ramendu Sinharay,96698,BJP,Dr. Swapan Dasgupta,89214,7484,3.68
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,199,Pursurah,GEN,Hugli,220286,BJP,Biman Ghosh,119334,AITC,Dilip Yadav,91156,28178,12.79
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,200,Arambag,GEN,Hugli,216789,BJP,Madhusudan Bag,103108,AITC,Sujata Mondal,95936,7172,3.31
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,201,Goghat,GEN,Hugli,217063,BJP,Biswanath Karak,102227,AITC,Manas Majumdar,98080,4147,1.91
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,202,Khanakul,GEN,Hugli,214713,BJP,Susanta Ghosh,107403,AITC,Munsi Nazbul Karim,94519,12884,6.0
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,203,Tamluk,GEN,Purba Medinapur,234895,AITC,Saumen Kumar Mahapatra,108243,BJP,Hare Krishna Bera,107450,793,0.34
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,204,Panskura Purba,GEN,Purba Medinapur,197217,AITC,Biplab Roy Chowdhury,91213,BJP,Debabrata Pattanayek,81553,9660,4.9
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,205,Panskura Paschim,GEN,Purba Medinapur,232804,AITC,Phiroja Bibi,111705,BJP,Sintu Senapati,102816,8889,3.82
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,206,Moyna,GEN,Purba Medinapur,223099,BJP,Ashoke Dinda,108109,AITC,Sangram Kumar Dolai,106849,1260,0.56
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,207,Nandakumar,GEN,Purba Medinapur,225802,AITC,Sukumar De,108181,BJP,Adhikary Nilanjan,102775,5406,2.39
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,208,Mahishadal,GEN,Purba Medinapur,217590,AITC,Tilak Kumar Chakraborty,101986,BJP,Biswanath Banerjee,99600,2386,1.1
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,209,Haldia,GEN,Purba Medinapur,219410,BJP,Tapasi Mondal,104126,AITC,Swapan Naskar,89118,15008,6.84
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,210,Nandigram,GEN,Purba Medinapur,227315,BJP,Adhikari Suvendu,110764,AITC,Mamata Banerjee,108808,1956,0.86
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,211,Chandipur,GEN,Purba Medinapur,219591,AITC,Soham Chakraborty,109770,BJP,Pulak Kanti Guria,96298,13472,6.14
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,212,Patashpur,GEN,Purba Medinapur,207966,AITC,Uttam Barik,105299,BJP,Ambujaksha Mahanti,95305,9994,4.81
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,213,Kanthi Uttar,GEN,Purba Medinapur,226924,BJP,Sumita Sinha,113524,AITC,Tarun Kumar Jana,104194,9330,4.11
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,214,Bhagabanpur,GEN,Purba Medinapur,221631,BJP,Rabindranath Maity,121480,AITC,Ardhendu Maity,93931,27549,12.43
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,215,Khejuri,GEN,Purba Medinapur,211485,BJP,Santanu Pramanik,110407,AITC,Partha Pratim Das,92442,17965,8.49
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,216,Kanthi Dakshin,GEN,Purba Medinapur,193811,BJP,Arup Kumar Das,98477,AITC,Jyotirmoy Kar,88184,10293,5.31
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,217,Ramnagar,GEN,Purba Medinapur,220827,AITC,Akhil Giri,112622,BJP,Swadesh Ranjan Nayak,100105,12517,5.67
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,218,Egra,GEN,Purba Medinapur,239424,AITC,Tarun Kumar Maity,125763,BJP,Arup Dash,107272,18491,7.72
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,219,Dantan,GEN,Paschim Medinapur,196548,AITC,Bikram Chandra Pradhan,95209,BJP,Saktipada Nayak,94586,623,0.32
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,220,Nayagram,GEN,Paschim Medinapur,189268,AITC,Dulal Murmu,100903,BJP,Bakul Murmu,78149,22754,12.02
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,221,Gopiballavpur,GEN,Paschim Medinapur,196279,AITC,Dr. Khagendra Nath Mahata,104115,BJP,Sanjit Mahata,80347,23768,12.11
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,222,Jhargram,GEN,Paschim Medinapur,198161,AITC,Birbaha Hansda,109493,BJP,Sukhamay Satpathy (Jahar),71253,38240,19.3
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,223,Keshiary,GEN,Paschim Medinapur,210111,AITC,Paresh Murmu,106366,BJP,Sonali Murmu Soren,91036,15330,7.3
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,224,Kharagpur Sadar,GEN,Paschim Medinapur,168742,BJP,Hiranmoy Chattopadhyaya,79607,AITC,Pradip Sarkar,75836,3771,2.23
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,225,Narayangarh,GEN,Paschim Medinapur,215994,AITC,Atta Surja Kanta,100894,BJP,Rama Prasad Giri,98478,2416,1.12
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,226,Sabang,GEN,Paschim Medinapur,234667,AITC,Manas Ranjan Bhunia,112098,BJP,Amulya Maity,102234,9864,4.2
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,227,Pingla,GEN,Paschim Medinapur,226596,AITC,Ajit Maity,112435,BJP,Antara Bhattacharyya,105779,6656,2.94
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,228,Kharagpur,GEN,Paschim Medinapur,197730,AITC,Dinen Roy,109727,BJP,Tapan Bhuya,73497,36230,18.32
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,229,Debra,GEN,Paschim Medinapur,203513,AITC,Humayun Kabir,95850,BJP,Bharati Ghosh,84624,11226,5.52
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,230,Daspur,GEN,Paschim Medinapur,221096,AITC,Mamata Bhunia,114753,BJP,Prasanta Bera,87911,26842,12.14
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,231,Ghatal,GEN,Paschim Medinapur,224070,BJP,Sital Kapat,105812,AITC,Shankar Dolai,104846,966,0.43
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,232,Chandrakona,GEN,Paschim Medinapur,246409,AITC,Arup Dhara,121846,BJP,Sibaram Das,110565,11281,4.58
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,233,Garbeta,GEN,Paschim Medinapur,204962,AITC,Uttara Singha (Hazra),94928,BJP,Madan Ruidas,84356,10572,5.16
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,234,Salboni,GEN,Paschim Medinapur,247230,AITC,Srikanta Mahata,126020,BJP,Rajib Kundu,93376,32644,13.2
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,235,Keshpur,GEN,Paschim Medinapur,226934,AITC,Seuli Saha,116992,BJP,Pritish Ranjan Kuar,96272,20720,9.13
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,236,Medinipur,GEN,Paschim Medinapur,234970,AITC,June Maliah,121175,BJP,Samit Kumar Dash,96778,24397,10.38
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,237,Binpur,GEN,Paschim Medinapur,185493,AITC,Debnath Hansda,100277,BJP,Palan Saren,60783,39494,21.29
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,238,Bandwan,GEN,Puruliya,238101,AITC,Rajib Lochan Saren,113337,BJP,Parcy Murmu,94506,18831,7.91
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,239,Balarampur,GEN,Puruliya,195524,BJP,Baneswar Mahato,89521,AITC,Shantiram Mahato,89098,423,0.22
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,240,Baghmundi,GEN,Puruliya,203917,AITC,Sushanta Mahato,75905,AJSU,Ashutosh Mahato,61936,13969,6.85
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,241,Joypur,GEN,Puruliya,199811,BJP,Nara Hari Mahato,74380,INC,Phanibhushan Kumar,62180,12200,6.11
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,242,Purulia,GEN,Puruliya,204280,BJP,Sudip Kumar Mukherjee,89733,AITC,Sujoy Banerjee,82715,7018,3.44
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,243,Manbazar,GEN,Puruliya,211438,AITC,Sandhyarani Tudu,103298,BJP,Gouri Singh Sardar,87782,15516,7.34
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,244,Kashipur,GEN,Puruliya,192491,BJP,Kamalakanta Hansda,92938,AITC,Swapan Kumar Beltharia,85551,7387,3.84
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,245,Para,GEN,Puruliya,190364,BJP,Nadiar Chand Bouri,87347,AITC,Umapada Bauri,83340,4007,2.1
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,246,Raghunathpur,GEN,Puruliya,211133,BJP,Vivekananda Bauri,95770,AITC,Bouri Hazari,90332,5438,2.58
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,247,Saltora,GEN,Bankura,199050,BJP,Bauri Chandana,91648,AITC,Sontosh Kumar Mondal,87503,4145,2.08
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,248,Chhatna,GEN,Bankura,193322,BJP,Satyanarayan Mukhopadhyay,90233,AITC,Subasish Batabyal,83069,7164,3.71
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,249,Ranibandh,GEN,Bankura,206944,AITC,Jyotsna Mandi,90928,BJP,Kshudiram Tudu,86989,3939,1.9
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,250,Raipur,GEN,Bankura,191490,AITC,Mrityunjoy Murmu,101043,BJP,Sudhanshu Hansda,81645,19398,10.13
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,251,Taldangra,GEN,Bankura,199668,AITC,Arup Chakraborty,92026,BJP,Shyamal Kumar Sarkar (Benu),79649,12377,6.2
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,252,Bankura,GEN,Bankura,213479,BJP,Niladri Sekhar Dana,95466,AITC,Sayantika Banerjee,93998,1468,0.69
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,253,Barjora,GEN,Bankura,214549,AITC,Alok Mukherjee,93290,BJP,Supriti Chatterjee,90021,3269,1.52
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,254,Onda,GEN,Bankura,220880,BJP,Amarnath Shakha,104940,AITC,Arup Kumar Khan,93389,11551,5.23
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,255,Bishnupur,GEN,Bankura,188050,BJP,Tanmay Ghosh (Bumba),89689,AITC,Archita Bid,78269,11420,6.07
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,256,Katulpur,GEN,Bankura,222267,BJP,Harakali Protiher,106022,AITC,Sangeeta Malik,94237,11785,5.3
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,257,Indus,GEN,Bankura,215271,BJP,Nirmal Kumar Dhara,104936,AITC,Runu Mete,97716,7220,3.35
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,258,Sonamukhi,GEN,Bankura,205663,BJP,Dibakar Gharami,98161,AITC,Dr. Shyamal Santra,87273,10888,5.29
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,259,Khandaghosh,GEN,Barddhaman,215953,AITC,Nabin Chandra Bag,104264,BJP,Bijan Mandal,83378,20886,9.67
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,260,Burdwan Dakshin,GEN,Barddhaman,201638,AITC,Khokan Das,91015,BJP,Sandip Nandi,82910,8105,4.02
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,261,Raina,GEN,Barddhaman,227603,AITC,Shampa Dhara,108752,BJP,Manik Roy,90547,18205,8.0
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,262,Jamalpur,GEN,Barddhaman,203825,AITC,Alok Kumar Majhi,96999,BJP,Balaram Bapari,79028,17971,8.82
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,263,Monteswar,GEN,Barddhaman,207425,AITC,Chowdhury Siddiqullah,105460,BJP,Saikat Panja,73655,31805,15.33
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,264,Kalna,GEN,Barddhaman,206444,AITC,Deboprasad Bag (Poltu),96073,BJP,Biswajit Kundu,88595,7478,3.62
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,265,Memari,GEN,Barddhaman,217129,AITC,Madhusudan Bhattacharya,104851,BJP,Bhismadeb Bhattacharya,81773,23078,10.63
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,266,Burdwan Uttar,GEN,Barddhaman,239529,AITC,Nisith Kumar Malik,111211,BJP,Radha Kanta Roy,93943,17268,7.21
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,267,Bhatar,GEN,Barddhaman,209822,AITC,Adhikari Mangobinda,108028,BJP,Mahendranath Kowar,76287,31741,15.13
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,268,Purbasthali Dakshin,GEN,Barddhaman,213791,AITC,Swapan Debnath,105698,BJP,Rajib Kumar Bhowmick,88288,17410,8.14
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,269,Purbasthali Uttar,GEN,Barddhaman,210993,AITC,Tapan Chatterjee,92421,BJP,Gobardhan Das,85715,6706,3.18
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,270,Katwa,GEN,Barddhaman,222679,AITC,Rabindranath Chatterjee,107894,BJP,Shyama Majumdar,98739,9155,4.11
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,271,Ketugram,GEN,Barddhaman,211697,AITC,Sekh Sahonawez,100226,BJP,Anadi Ghosh (Mathura),87543,12683,5.99
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,272,Mongalkote,GEN,Barddhaman,213503,AITC,Apurba Chowdhury (Achal),107596,BJP,Rana Protap Goswami,85259,22337,10.46
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,273,Ausgram,GEN,Barddhaman,213041,AITC,Abhedananda Thander,100392,BJP,Kalita Maji,88577,11815,5.55
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,274,Galsi,GEN,Barddhaman,220284,AITC,Nepal Ghorui,109504,BJP,Bikash Biswas,90242,19262,8.74
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,275,Pandabeswar,GEN,Barddhaman,161556,AITC,Narendranath Chakraborty,73922,BJP,Kumar Jitendra Tewari,70119,3803,2.35
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,276,Durgapur Purba,GEN,Barddhaman,190046,AITC,Pradip Mazumdar,79303,BJP,Colonel Diptansu Chaudhury,75557,3746,1.97
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,277,Durgapur Paschim,GEN,Barddhaman,194278,BJP,Lakshman Chandra Ghorui,91186,AITC,Biswanath Parial,76522,14664,7.55
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,278,Raniganj,GEN,Barddhaman,180205,AITC,Tapas Banerjee,78164,BJP,Dr. Bijan Mukherjee,74608,3556,1.97
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,279,Jamuria,GEN,Barddhaman,164350,AITC,Hareram Singh,71002,BJP,Tapas Kumar Roy,62951,8051,4.9
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,280,Asnsol Dakshin,GEN,Barddhaman,191271,BJP,Agnimitra Paul,87881,AITC,Sayani Ghosh,83394,4487,2.35
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,281,Asansol Uttar,GEN,Barddhaman,189559,AITC,Ghatak Moloy,100931,BJP,Krishnendu Mukherjee,79821,21110,11.14
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,282,Kulti,GEN,Barddhaman,171214,BJP,Ajay Kumar Poddar,81112,AITC,Ujjal Chatterjee,80433,679,0.4
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,283,Barabani,GEN,Barddhaman,166168,AITC,Bidhan Upadhyay,88430,BJP,Arijit Roy,64973,23457,14.12
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,284,Dubrajpur,GEN,Birbhum,201442,BJP,Anup Kumar Saha,98083,AITC,Debabrata Saha,94220,3863,1.92
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,285,Suri,GEN,Birbhum,216755,AITC,Bikash Roychoudhury,105871,BJP,Chattopadhyay Jagannath,98551,7320,3.38
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,286,Bolpur,GEN,Birbhum,226923,AITC,Sinha Chandranath,116443,BJP,Anirban Ganguly,94163,22280,9.82
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,287,Nanoor,GEN,Birbhum,233179,AITC,Bidhan Chandra Majhi,112116,BJP,Tarakeswar Saha,105446,6670,2.86
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,288,Labhpur,GEN,Birbhum,208970,AITC,Abhijit Sinha (Rana),108423,BJP,Biswajit Mondal,90448,17975,8.6
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,289,Sainthia,GEN,Birbhum,220124,AITC,Nilabati Saha,110572,BJP,Piya Saha,95329,15243,6.92
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,290,Mayureswar,GEN,Birbhum,196622,AITC,Abhijit Roy,100425,BJP,Shyamapada Mondal,88350,12075,6.14
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,291,Rampurhat,GEN,Birbhum,213942,AITC,Asish Banerjee,103276,BJP,Subhasis Choudhury (Khokan),94804,8472,3.96
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,292,Hansan,GEN,Birbhum,208186,AITC,Dr. ASOK KUMAR CHATTOPADHYAY,108289,BJP,Nikhil Banerjee,57676,50613,24.31
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,293,Nalhati,GEN,Birbhum,205796,AITC,Rajendra Prasad Singh (Raju Singh),117438,BJP,Tapas Kumar Yadav(Ananda Yadav),60533,56905,27.65
+ae-west-bengal-2021,AE,West Bengal,2021,2021,official,294,Murarai,GEN,Birbhum,216408,AITC,Dr Mosarraf Hossain,146496,BJP,Debasish Roy,48250,98246,45.4

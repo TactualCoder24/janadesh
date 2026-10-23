@@ -1,0 +1,71 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,1,Narela,GEN,,148132,AAP,Sharad Chauhan,88834,BJP,Neeldaman Khatri,51609,37225,25.13
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,2,Burari,GEN,,167448,AAP,Sanjeev Jha,106865,BJP,Gopal Jha,48643,58222,34.77
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,3,Timarpur,GEN,,116444,AAP,Pankaj Pushkar,59445,BJP,Rajni Abbi,40406,19039,16.35
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,4,Adarsh Nagar,GEN,,99791,AAP,Pawan Kumar,51252,BJP,Ram Kishan Singhal,31574,19678,19.72
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,5,Badli,GEN,,125254,AAP,Ajesh Yadav,64055,INC,Devender Yadav,32929,31126,24.85
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,6,Rithala,GEN,,148288,AAP,Mohinder Goyal,83975,BJP,Kulwant Rana,57699,26276,17.72
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,7,Bawana,GEN,,171161,AAP,Ved Parkash,99512,BJP,Gugan Singh,53333,46179,26.98
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,8,Mundka,GEN,,158128,AAP,Sukhvir Singh,90481,BJP,Azad Singh,51265,39216,24.8
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,9,Kirari,GEN,,143033,AAP,Rituraj Govind,88194,BJP,Anil Jha,47429,40765,28.5
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,10,Sultan Pur Majra,GEN,,108091,AAP,,75123,BJP,,14819,60304,55.79
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,11,Nangloi Jat,GEN,,139418,AAP,Raghuvinder Shokeen,76178,BJP,Manoj Kumar Shokeen,42299,33879,24.3
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,12,Mangol Puri,GEN,,118805,AAP,Rakhi Birla,55767,INC,Raj Kumar Chauhan,34857,20910,17.6
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,13,Rohini,GEN,,113054,BJP,Vijender Gupta,56335,AAP,C. L. Gupta Advocate,51281,5054,4.47
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,14,Shalimar Bagh,GEN,,110213,AAP,Bandana Kumari,57465,BJP,Rekha Gupta,47403,10062,9.13
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,15,Shakur Basti,GEN,,97922,AAP,Satyendar Jain,47658,BJP,S C Vats,44760,2898,2.96
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,16,Tri Nagar,GEN,,106471,AAP,Jitender Singh Tomar,59304,BJP,Nand Kishore Garg,38308,20996,19.72
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,17,Wazirpur,GEN,,105908,AAP,Rajesh Gupta,58091,BJP,Dr. Mahander Nagpal,37174,20917,19.75
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,18,Model Town,GEN,,99304,AAP,Akhilesh Pati Tripathi,52016,BJP,Vivek Garg,36107,15909,16.02
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,19,Sadar Bazar,GEN,,112357,AAP,Som Dutt,63594,BJP,Parveen Kumar Jain,31269,32325,28.77
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,20,Chandni Chowk,GEN,,71717,AAP,Alka Lamba,35392,BJP,Suman Kumar Gupta,17786,17606,24.55
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,21,Matia Mahal,GEN,,73932,AAP,Asim Ahmed Khan,43790,INC,Shoaib Iqbal,19777,24013,32.48
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,22,Ballimaran,GEN,,91532,AAP,Imran Hussain,54653,BJP,Shayam Lal Morwal,22242,32411,35.41
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,23,Karol Bagh,GEN,,105036,AAP,Vishesh Ravi,62811,BJP,Yogender Chandoliya,32183,30628,29.16
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,24,Patel Nagar,GEN,,105264,AAP,Hazari Lal Chauhan,62158,BJP,Krishna Tirath,30895,31263,29.7
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,25,Moti Nagar,GEN,,103393,AAP,Shiv Charan Goel,54933,BJP,Subhash Sachdeva,41047,13886,13.43
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,26,Madipur,GEN,,103916,AAP,Girish Soni,59481,BJP,Raj Kumar,33222,26259,25.27
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,27,Rajouri Garden,GEN,,104342,AAP,Jarnail Singh,48571,SAD,Manjinder Singh Sirsa,39691,8880,8.51
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,28,Hari Nagar,GEN,,102900,AAP,Jagdeep Singh,60207,BJP,Avtar Singh Hit,35861,24346,23.66
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,29,Tilak Nagar,GEN,,90340,AAP,Jarnail Singh,49777,BJP,Rajiv Babbar,32459,17318,19.17
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,30,Janakpuri,GEN,,110573,AAP,Rajesh Rishi,63823,BJP,Prof. Jagdish Mukhi,41089,22734,20.56
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,31,Vikaspuri,GEN,,185712,AAP,Mahinder Yadav,116126,BJP,Sanjay Singh,48025,68101,36.67
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,32,Uttam Nagar,GEN,,136670,AAP,Naresh Balyan,71055,BJP,Pawan Sharma,45894,25161,18.41
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,33,Dwarka,GEN,,117915,AAP,Adarsh Shastri,69664,BJP,Parduymn Rajput,35268,34396,29.17
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,34,Matiala,GEN,,200285,AAP,Gulab Singh,109976,BJP,Rajesh Gahlot,69499,40477,20.21
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,35,Najafgarh,GEN,,148217,AAP,Kailash Gahlot,51313,INLD,Bharat Singh,49875,1438,0.97
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,36,Bijwasan,GEN,,106886,AAP,Col Devinder Sehrawat,58776,BJP,Sat Prakash Rana,41108,17668,16.53
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,37,Palam,GEN,,132301,AAP,Bhavna Gaur,74036,BJP,Dharm Dev Solanki,46398,27638,20.89
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,38,Delhi Cantt,GEN,,67726,AAP,Surender Singh,35096,BJP,Karan Singh Tanwar,25302,9794,14.46
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,39,Rajinder Nagar,GEN,,102707,AAP,Vijender Garg Vijay,54835,BJP,R. P. Singh,36913,17922,17.45
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,40,New Delhi,GEN,,85294,AAP,Arvind Kejriwal,54707,BJP,Nupur Sharma,24505,30202,35.41
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,41,Jangpura,GEN,,82682,AAP,Praveen Kumar,39778,BJP,Maninder Singh Dhir,21257,18521,22.4
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,42,Kasturba Nagar,GEN,,90924,AAP,Madan Lal,46871,BJP,Ravinder Choudhry,32196,14675,16.14
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,43,Malviya Nagar,GEN,,84358,AAP,Somnath Bharti,46388,BJP,Dr. Nandani Sharma,31980,14408,17.08
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,44,RK Puram,GEN,,86947,AAP,Parmila Tokas,49360,BJP,Anil Kumar Sharma,32136,17224,19.81
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,45,Mehrauli,GEN,,99582,AAP,Naresh Yadav,50847,BJP,Sarita Chaudhary,36019,14828,14.89
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,46,Chhatarpur,GEN,,114107,AAP,Kartar Singh Tanwar,61948,BJP,Brahm Singh Tanwar,41580,20368,17.85
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,47,Deoli,GEN,,121692,AAP,Prakash,85927,BJP,Arvind Kumar,29012,56915,46.77
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,48,Ambedkar Nagar,GEN,,87900,AAP,,60116,BJP,,21808,38308,43.58
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,49,Sangam Vihar,GEN,,92053,AAP,Dinesh Mohaniya,60719,BJP,Shiv Charan Lal Gupta,23685,37034,40.23
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,50,Greater Kailash,GEN,,97971,AAP,Saurabh Bharadwaj,52219,BJP,Rakesh Kumar Gullaiya,39002,13217,13.49
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,51,Kalkaji,GEN,,93515,AAP,Avtar Singh Kalkaji,48366,BJP,Harmeet Singh Kalka,31010,17356,18.56
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,52,Tughlakabad,GEN,,89893,AAP,Sahi Ram,56093,BJP,Vikram Bidhuri,26698,29395,32.7
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,53,Badarpur,GEN,,136478,AAP,Narayan Dutt Sharma,75486,BJP,Ramvir Singh Bidhuri,37368,38118,27.93
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,54,Okhla,GEN,,142051,AAP,Amanatullah Khan,88881,BJP,Braham Singh,33865,55016,38.73
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,55,Trilokpuri,GEN,,116613,AAP,Raju Dhingan,68359,BJP,Kiran Vaidya,41211,27148,23.28
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,56,Kondli,GEN,,111092,AAP,Manoj Kumar,56279,BJP,Hukam Singh,34227,22052,19.85
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,57,Patparganj,GEN,,124747,AAP,Manish Sisodia,66914,BJP,Vinod Kumar Binny,41316,25598,20.52
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,58,Laxmi Nagar,GEN,,121897,AAP,Nitin Tyagi,51867,BJP,B. B. Tyagi,47552,4315,3.54
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,59,Vishwas Nagar,GEN,,121521,BJP,Om Prakash Sharma,54879,AAP,Dr. Atul Gupta,45279,9600,7.9
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,60,Krishna Nagar,GEN,,122308,AAP,,58696,BJP,,56666,2030,1.66
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,61,Gandhi Nagar,GEN,,103941,AAP,Anil Kumar Bajpai,47023,BJP,Jitender,40122,6901,6.64
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,62,Shahdara,GEN,,108777,AAP,Ram Niwas Goel,53833,BJP,Jitender Singh Shunty,43043,10790,9.92
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,63,Seemapuri,GEN,,117756,AAP,Rajendra Pal Gautam,74233,BJP,Karamvir,28803,45430,38.58
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,64,Rohtas Nagar,GEN,,124443,AAP,Sarita Singh,57194,BJP,Jitender Mahajan,49951,7243,5.82
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,65,Seelampur,GEN,,102855,AAP,Mohd. Ishraque,52723,BJP,Sanjay Jain,27061,25662,24.95
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,66,Ghonda,GEN,,124869,AAP,Shri Dutt Sharma,56141,BJP,Sahab Singh Chauhan,48674,7467,5.98
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,67,Babarpur,GEN,,118620,AAP,Gopal Rai,70152,BJP,Naresh Gaur,37674,32478,27.38
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,68,Gokalpur,GEN,,131259,AAP,Fateh Singh,63936,BJP,Ranjeet Singh,35243,28693,21.86
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,69,Mustafabad,GEN,,151558,BJP,Jagdish Pradhan,53545,INC,Hasan Ahmed,48014,5531,3.65
+ae-delhi-2015,AE,Delhi,2015,2015,official_winners_only,70,Karawal Nagar,GEN,,146362,AAP,Kapil Mishra,87598,BJP,Mohan Singh Bisht,49383,38215,26.11

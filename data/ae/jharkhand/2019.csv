@@ -1,0 +1,82 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,1,Rajmahal,GEN,Sahibganj,161119,BJP,Anant Kumar Ojha,68089,AJSU,Md. Tajuddin,58615,9474,5.88
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,2,Borio,ST,Sahibganj,134907,JMM,Lobin Hembrom,63946,BJP,Surya Narayan Hansada,49133,14813,10.98
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,3,Barhait,ST,Sahibganj,120082,JMM,Hemant Soren,64232,BJP,Simon Malto,41813,22419,18.67
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,4,Littipara,ST,Pakaur,112438,JMM,Dinesh William Marandi,51991,BJP,Daniel Kisku,41152,10839,9.64
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,5,Pakur,GEN,Sahibganj,200217,INC,Alamgir Alam,103833,BJP,Veni Prasad Gupta,51115,52718,26.33
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,6,Maheshpur,ST,Pakaur,134383,JMM,Stephen Marandi,72486,BJP,Mistry Soren,44763,27723,20.63
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,7,Shikaripara,ST,Dumka,127445,JMM,Nalin Soren,65991,BJP,Paritosh Soren,41496,24495,19.22
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,8,Nala,GEN,Jamtara,143792,JMM,Rabindra Nath Mahato,50284,BJP,Satyanand Jha,47394,2890,2.01
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,9,Jamtara,GEN,Jamtara,159490,INC,Irfan Ansari,84705,BJP,Birendra Mandal,55614,29091,18.24
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,10,Dumka,ST,Dumka,134200,JMM,Hemant Soren,65571,BJP,Lois Marandi,54902,10669,7.95
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,11,Jama,ST,Dumka,116015,JMM,Sita Murmu,49225,BJP,Suresh Murmu,47265,1960,1.69
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,12,Jarmundi,GEN,Dumka,137398,INC,Badal,44270,BJP,Devendra Kunwar,41659,2611,1.9
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,13,Madhupur,GEN,Deoghar,174669,JMM,Haji Hussain Ansari,67073,BJP,Raj Paliwar,49501,17572,10.06
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,14,Sarath,GEN,Deoghar,160528,BJP,Randhir Kumar Singh,68224,JVM,Uday Shankar Singh,46665,21559,13.43
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,15,Deoghar,SC,Deoghar,161297,BJP,Narayan Das,66148,RJD,Suresh Paswan,64325,1823,1.13
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,16,Poreyahat,GEN,Godda,164695,JVM,Pradeep Yadav,67525,BJP,Gajadhar Singh,55667,11858,7.2
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,17,Godda,GEN,Godda,180546,BJP,Amit Kumar Mandal,82582,RJD,Sanjay Prasad Yadav,78321,4261,2.36
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,18,Mahagama,GEN,Godda,166517,INC,Deepika Pandey Singh,75749,BJP,Ashok Kumar,65141,10608,6.37
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,19,Kodarma,GEN,Kodarma,174402,BJP,Dr. Neera Yadav,54675,RJD,Amitabh Kumar,53123,1552,0.89
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,20,Barkatha,GEN,Kodarma,168156,IND,Amit Kumar Yadav,57661,BJP,Janki Prasad Yadav,37953,19708,11.72
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,21,Barhi,GEN,Hazaribag,152734,INC,Umashankar Akela,71449,BJP,Manoj Kumar Yadav,61827,9622,6.3
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,22,Barkagaon,GEN,Hazaribag,176661,INC,Amba Prasad,77960,AJSU,Roshan Lal Choudhary,53104,24856,14.07
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,23,Ramgarh,GEN,Hazaribag,184975,INC,Mamta Devi,82684,AJSU,Sunita Choudhary,58933,23751,12.84
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,24,Mandu,GEN,Hazaribag,199835,BJP,Jai Prakash Bhai Patel,41706,AJSU,Nirmal Mahto,39987,1719,0.86
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,25,Hazaribagh,GEN,Hazaribag,174277,BJP,Manish Jaiswal,85605,INC,Dr. Ramchandra Prasad,43848,41757,23.96
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,26,Simaria,SC,Chatra,155873,BJP,Kishun Kumar Das,47151,AJSU,Manoj Kumar Chandra,38719,8432,5.41
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,27,Chatra,SC,Chatra,156559,RJD,Satyanand Bhokta,72659,BJP,Janardan Paswan,55484,17175,10.97
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,28,Dhanwar,GEN,Giridih,172467,JVM,Babulal Marandi,47566,BJP,Lakshman Prasad Singh,31613,15953,9.25
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,29,Bagodar,GEN,Giridih,176277,CPIML,Vinod Kumar Singh,81352,BJP,Nagendra Mahto,69294,12058,6.84
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,30,Jamua,SC,Giridih,149553,BJP,Kedar Hazra,50354,INC,Manju Kumari,34711,15643,10.46
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,31,Gandey,GEN,Giridih,155139,JMM,Dr Sarfraz Ahmad,53849,BJP,Jai Prakash Verma,46511,7338,4.73
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,32,Giridih,GEN,Giridih,129760,JMM,Sudivya Kumar,62531,BJP,Nirbhay Kumar Shahabadi,50243,12288,9.47
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,33,Dumri,GEN,Giridih,117312,JMM,Jagarnath Mahto,43851,AJSU,Yashoda Devi,22712,21139,18.02
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,34,Gomia,GEN,Bokaro,159606,AJSU,Lambodar Mahto,60491,JMM,Babita Devi,51281,9210,5.77
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,35,Bermo,GEN,Bokaro,166075,INC,Rajendra Pd. Singh,77856,BJP,Yogeshwar Mahto,55818,22038,13.27
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,36,Bokaro,GEN,Bokaro,236087,BJP,Biranchi Narayan,97787,INC,Shweta Singh,86195,11592,4.91
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,37,Chandankyari,SC,Bokaro,142238,BJP,Amar Kumar Bauri,54093,AJSU,Uma Kant Rajak,46740,7353,5.17
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,38,Sindri,GEN,Dhanbad,166080,BJP,Indrajit Mahato,59091,OTH,Anand Mahato,53062,6029,3.63
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,39,Nirsa,GEN,Dhanbad,186391,BJP,Aparna Sengupta,78676,OTH,Arup Chatterjee,56179,22497,12.07
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,40,Dhanbad,GEN,Dhanbad,188028,BJP,Raj Sinha,98358,INC,Mannan Mallick,73407,24951,13.27
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,41,Jharia,GEN,Dhanbad,143528,INC,Purnima Niraj Singh,72252,BJP,Ragini Singh,61330,10922,7.61
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,42,Tundi,GEN,Dhanbad,160301,JMM,Mathura Prasad Mahato,60097,BJP,Vikram Pandey,38841,21256,13.26
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,43,Baghmara,GEN,Dhanbad,163995,BJP,Dulu Mahato,71682,INC,Jaleshwar Mahato,70927,755,0.46
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,44,Baharagora,GEN,Purbi Singhbhum,162712,JMM,Samir Kr. Mohanty,100865,BJP,Kunal Shadangi,43249,57616,35.41
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,45,Ghatsila,ST,Purbi Singhbhum,150095,JMM,Ramdas Soren,56075,BJP,Lakhan Chandra Mardi,50147,5928,3.95
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,46,Potka,ST,Purbi Singhbhum,156459,JMM,Sanjib Sardar,87007,BJP,Menka Sardar,53149,33858,21.64
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,47,Jugsalai,SC,Purbi Singhbhum,177017,JMM,Mangal Kalindi,72489,BJP,Muchiram Bauri,54539,17950,10.14
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,48,Jamshedpur East,GEN,Purbi Singhbhum,132194,IND,Saryu Roy,56301,BJP,Raghubar Das,44245,12056,9.12
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,49,Jamshedpur West,GEN,Purbi Singhbhum,145401,INC,Banna Gupta,73107,BJP,Devendra Nath Singh,56052,17055,11.73
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,50,Ichagarh,GEN,Saraikela,167683,JMM,Sabita Mahato,49047,AJSU,Hare Lal Mahato,33100,15947,9.51
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,51,Saraikella,ST,Saraikela,176466,JMM,Champai Soren,85727,BJP,Ganesh Mahali,73692,12035,6.82
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,52,Chaibasa,ST,Pachim Singhbhum,121900,JMM,Deepak Birua,61401,BJP,J. B. Tubid,38288,23113,18.96
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,53,Majhganon,ST,Pachim Singhbhum,114541,JMM,Niral Purty,59080,BJP,Bhupendra Pingua,17926,41154,35.93
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,54,Jagannathpur,ST,Pachim Singhbhum,97212,INC,Sona Ram Sinku,27822,JVM,Mangal Singh Bobonga,17887,9935,10.22
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,55,Manoharpur,ST,Pachim Singhbhum,114990,JMM,Joba Majhi,48434,BJP,Gurucharan Nayak,33198,15236,13.25
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,56,Chakradharpur,ST,Pachim Singhbhum,113511,JMM,Sukhram Oraon,41738,BJP,Laxman Giluwa,30092,11646,10.26
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,57,Kharasawan,ST,Saraikela,132580,JMM,Dashrath Gagrai,63837,BJP,Jawahar Lal Banra,44003,19834,14.96
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,58,Tamar,ST,Ranchi,105633,JMM,Vikas Kumar Munda,41429,AJSU,Ram Durlav Singh Munda,18306,23123,21.89
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,59,Torpa,ST,Ranchi,100284,BJP,Koche Munda,37275,JMM,Sudeep Guria,29022,8253,8.23
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,60,Khunti,ST,Ranchi,112497,BJP,Nilkanth Singh Munda,50297,JMM,Sushil Pahan,27933,22364,19.88
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,61,Silli,GEN,Ranchi,138665,AJSU,Sudesh Kumar Mahto,73132,JMM,Seema Devi,55480,17652,12.73
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,62,Khijri,ST,Ranchi,169764,INC,Rajesh Kachhap,66106,BJP,Ram Kumar Pahan,61794,4312,2.54
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,63,Ranchi,GEN,Ranchi,137695,BJP,Chandreshwar Prasad Singh,64400,JMM,Mahua Maji,59636,4764,3.46
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,64,Hatia,GEN,Ranchi,177746,BJP,Navin Jaiswal,81479,INC,Ajay Nath Shahdeo,69996,11483,6.46
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,65,Kanke,SC,Ranchi,171113,BJP,Sammari Lal,75358,INC,Suresh Kumar Baitha,60180,15178,8.87
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,66,Mandar,ST,Ranchi,183241,JVM,Bandhu Tirkey,75403,BJP,Deo Kumar Dhan,56548,18855,10.29
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,67,Sisai,ST,Gumla,135213,JMM,Jiga Susaran Horo,78221,BJP,Dinesh Oraon,46162,32059,23.71
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,68,Gumla,ST,Gumla,122306,JMM,Bhushan Tirkey,58646,BJP,Mishir Kujur,51980,6666,5.45
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,69,Bishunpur,ST,Gumla,142295,JMM,Chamra Linda,69995,BJP,Ashok Oraon,54940,15055,10.58
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,70,Simdega,ST,Gumla,137277,INC,Bhushan Bara,56929,BJP,Shradhanand Besra,56654,275,0.2
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,71,Kolebira,ST,Simdega,118206,INC,Naman Bixal Kongari,45119,BJP,Sujan Jojo,33653,11466,9.7
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,72,Lohardaga,ST,Lohardaga,137965,INC,Rameshwar Oraon,58870,BJP,Sukhdeo Bhagat,35002,23868,17.3
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,73,Manika,ST,Latehar,100406,INC,Ramchandra Singh,49470,BJP,Raghupal Singh,38616,10854,10.81
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,74,Latehar,SC,Latehar,124350,JMM,Baidyanath Ram,52277,BJP,Prakash Ram,41123,11154,8.97
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,75,Panki,GEN,Palamu,131553,BJP,Kushwaha Shashi Bhushan Mehta,68907,INC,Devendra Kumar Singh,41400,27507,20.91
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,76,Daltonganj,GEN,Palamu,173906,BJP,Alok Kumar Chaurasiya,82727,INC,Krishna Nand Tripathi,65563,17164,9.87
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,77,Bishrampur,GEN,Garhwa,145957,BJP,Ramchandra Chandravanshi,31512,OTH,Rajesh Mehta,24915,6597,4.52
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,78,Chattarpur,SC,Palamu,108408,BJP,Pushpa Devi,42702,RJD,Vijay Kumar,24858,17844,16.46
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,79,Hussainabad,GEN,Palamu,134441,NCP,Kamlesh Kumar Singh,33879,RJD,Sanjay Kumar Singh Yadav,25799,8080,6.01
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,80,Garhwa,GEN,Garhwa,177579,JMM,Mithilesh Kumar Thakur,78951,BJP,Satyendra Nath Tiwari,61549,17402,9.8
+ae-jharkhand-2019,AE,Jharkhand,2019,2019,official_winners_only,81,Bhawanathpur,GEN,Garhwa,186663,BJP,Bhanu Pratap Shahi,70727,OTH,Sogra Bibi,41589,29138,15.61

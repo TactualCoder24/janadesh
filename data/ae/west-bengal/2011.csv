@@ -1,0 +1,295 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,1,Mekliganj,GEN,Koch Bihar,147357,AIFB,Adhikary Paresh,72040,INC,Jayanta Kumar Ray,39408,32632,22.14
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,2,Mathabhanga,GEN,Koch Bihar,168434,AITC,Binay Krishna Barman,78249,CPI(M),Ananta Roy,72925,5324,3.16
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,3,Cooch Behar Uttar,GEN,Koch Bihar,188032,AIFB,Nagendra Nath Roy,84825,AITC,Prasenjit Barman,82628,2197,1.17
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,4,Cooch Behar Dakshin,GEN,Koch Bihar,153115,AIFB,Akshay Thakur,72028,AITC,Abdul Jalil Ahmed,69165,2863,1.87
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,5,Sitalkuchi,GEN,Koch Bihar,191453,AITC,Hiten Barman,84651,CPI(M),Biswanath Pramanik,84394,257,0.13
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,6,Sitai,GEN,Koch Bihar,170962,INC,Keshab Ch. Ray,79791,AIFB,Dipak Kumar Roy,78214,1577,0.92
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,7,Dinhata,GEN,Koch Bihar,184184,AIFB,Udayan Guha,93050,IND,Dr. Md. Fazle Haque,63024,30026,16.3
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,8,Natabari,GEN,Koch Bihar,172296,AITC,Rabindra Nath Ghosh,81951,CPI(M),Tamser Ali,74386,7565,4.39
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,9,Tufanganj,GEN,Koch Bihar,163760,AITC,Arghya Roy Pradhan,73721,CPI(M),Dhananjoy Rava,67539,6182,3.78
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,10,Kumargram,GEN,Jalpaiguri,175181,RSP,Dasrath Tirkey,71545,AITC,Joachim Baxla,58964,12581,7.18
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,11,Kalchini,GEN,Jalpaiguri,154569,IND,Wilson Champramary,46455,RSP,Binay Bhusan Kerketta,39210,7245,4.69
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,12,Alipurduars,GEN,Jalpaiguri,172969,INC,Debaprasad Roy (Mithu),79605,RSP,Kshiti Goswami,72822,6783,3.92
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,13,Falakata,GEN,Jalpaiguri,164026,AITC,Anil Adhikari,77821,CPI(M),Rabindra Nath Barman,69775,8046,4.91
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,14,Madarihat,GEN,Jalpaiguri,133213,RSP,Kumari Kujur,42539,BJP,Manoj Tigga,34630,7909,5.94
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,15,Dhupguri,GEN,Jalpaiguri,174285,CPI(M),Mamata Roy,73644,AITC,Mina Barman,69406,4238,2.43
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,16,Maynaguri,GEN,Jalpaiguri,174276,RSP,Ananta Deb Adhikari,84887,AITC,Juthika Roy Basunia,68611,16276,9.34
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,17,Jalpaiguri,GEN,Jalpaiguri,177363,INC,Sukhbilas Barma,86273,AIFB,Gobinda Chandra Roy,75222,11051,6.23
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,18,Rajganj,GEN,Jalpaiguri,159838,AITC,Khageswar Roy,74546,CPI(M),Amulya Kumar Roy,67526,7020,4.39
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,19,Dabgram-Phulbari,GEN,Jalpaiguri,175296,AITC,Goutam Deb,84649,CPI(M),Dilip Singh,73413,11236,6.41
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,20,Mal,GEN,Jalpaiguri,156320,CPI(M),Bulu Chik Baraik,62037,INC,Hiraman Oraon,57821,4216,2.7
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,21,Nagrakata,GEN,Jalpaiguri,153753,INC,Joseph Munda,46537,CPI(M),Sukhmoith (Piting) Oraon,45774,763,0.5
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,22,Kalimpong,GEN,Darjiling,124885,GJM,Dr. Harka Bahadur,109102,GNLF,Prakash Dahal,7427,101675,81.41
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,23,Darjeeling,GEN,Darjiling,153523,GJM,Trilok Kumar Dewan,120532,GNLF,Bim Subba,13977,106555,69.41
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,24,Kurseong,GEN,Darjiling,154449,GJM,Rohit Sharma,114297,GNLF,Pemu Chhetri,21201,93096,60.28
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,25,Matigara-Naxalbari,GEN,Darjiling,164483,INC,Sankar Malakar,74334,CPI(M),Jharen Roy,67501,6833,4.15
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,26,Siliguri,GEN,Darjiling,149800,AITC,Rudra Nath,72019,CPI(M),Asok Narayan,67013,5006,3.34
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,27,Phansidewa,GEN,Darjiling,144271,INC,Sunil Chandra Tirkey,61388,CPI(M),Chhotan Kisku,59151,2237,1.55
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,28,Chopra,GEN,Uttar Dinajpur,144084,IND,Hamidul Rahaman,64289,CPI(M),Anwarul Haque,57719,6570,4.56
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,29,Islampur,GEN,Uttar Dinajpur,118907,AITC,Abdul Karim Chowdhary,49326,CPI(M),Sayeda Farhat Afroz,38054,11272,9.48
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,30,Goalpokhar,GEN,Uttar Dinajpur,124995,INC,Md. Ghulam Rabbani,61313,AIFB,Safiur Rahaman,47900,13413,10.73
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,31,Chakulia,GEN,Uttar Dinajpur,125198,AIFB,Ali Imran Ramz,65265,INC,Serajul Islam,44852,20413,16.3
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,32,Karandighi,GEN,Uttar Dinajpur,150100,AIFB,Gokul Roy,57023,INC,Subhas Goswami,51245,5778,3.85
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,33,Hemtabad,GEN,Uttar Dinajpur,157239,CPI(M),Khagendra Nath Sinha,71553,AITC,Shekhar Chandra Roy,35849,35704,22.71
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,34,Kaliaganj,GEN,Uttar Dinajpur,178324,INC,Pramatha Nath Ray,84873,CPI(M),Nani Gopal Roy,77583,7290,4.09
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,35,Raiganj,GEN,Uttar Dinajpur,126506,INC,Mohit Sengupta,62864,SP,Kiranmay Nanda,57455,5409,4.28
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,36,Itahar,GEN,Uttar Dinajpur,140402,AITC,Amal Acharjee,61707,CPI,Srikumar Mukherjee,54655,7052,5.02
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,37,Kushmandi,GEN,Dakshin Dinajpur *,139952,RSP,Narmada Chandra Roy,66368,INC,Parthasarathi Sarkar,62725,3643,2.6
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,38,Kumarganj,GEN,Dakshin Dinajpur *,132550,AITC,Begam Mahamuda,62212,CPI(M),Khatun Mafuja,57994,4218,3.18
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,39,Balurghat,GEN,Dakshin Dinajpur *,124366,AITC,Chakraborty Shankar,67495,RSP,Biswanath Choudhury,49204,18291,14.71
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,40,Tapan,GEN,Dakshin Dinajpur *,140753,AITC,Bachchu Hansda,72643,RSP,Khara Soren,53986,18657,13.26
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,41,Gangarampur,GEN,Dakshin Dinajpur *,143219,AITC,Satyendra Nath Roy,65666,CPI(M),Nandalal Hazra,64998,668,0.47
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,42,Harirampur,GEN,Dakshin Dinajpur *,137219,AITC,Biplab Mitra,65099,CPI(M),Narayan Biswas,58032,7067,5.15
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,43,Habibpur,GEN,Maldah,157662,CPI(M),Khagen Murmu,59286,AITC,Mohan Tudu,57028,2258,1.43
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,44,Gazole,GEN,Maldah,161941,INC,Sushil Chandra Ray,74654,CPI(M),Gobinda Mandal,69070,5584,3.45
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,45,Chanchal,GEN,Maldah,140852,INC,Asif Mehbub,68586,CPI(M),Anjuman Ara Begam,54399,14187,10.07
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,46,Harischandrapur,GEN,Maldah,134263,AIFB,Tajmul Hossain,62019,INC,Alam Mostaque,59578,2441,1.82
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,47,Malatipur,GEN,Maldah,126136,RSP,Abdur Rahim Boxi,54794,IND,Al-Beruni,48093,6701,5.31
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,48,Ratua,GEN,Maldah,155014,INC,Samar Mukherjee,74936,CPI(M),Sailen Sarkar,68075,6861,4.43
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,49,Manickchak,GEN,Maldah,139930,AITC,Sabitri Mitra,64641,CPI(M),Ratna Bhattacharya,58424,6217,4.44
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,50,Maldaha,GEN,Maldah,146409,INC,Bhupendra Nath Halder,68155,CPI(M),Rahul Ranjan Das,57400,10755,7.35
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,51,Englishbazar,GEN,Maldah,172662,INC,Krishnendu Narayan,89421,CPI(M),Samar Roy,67592,21829,12.64
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,52,Mothabari,GEN,Maldah,107599,INC,Sabina Yeasmin,47466,CPI(M),Naimuddin Sheikh,41446,6020,5.59
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,53,Sujapur,GEN,Maldah,133914,INC,Abu Nasar Khan,70640,CPI(M),Hazi Ketabuddin,53279,17361,12.96
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,54,Baishnab Nagar,GEN,Maldah,145489,INC,Isha Khan Choudhury,62589,CPI(M),Biswanath Ghosh,57566,5023,3.45
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,55,Farakka,GEN,Murshidabad,136127,INC,Mainul Haque,52780,CPI(M),Abdus Salam,48041,4739,3.48
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,56,Samserganj,GEN,Murshidabad,131671,CPI(M),Touab Ali,61138,INC,Mousumi Begum,53349,7789,5.92
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,57,Suti,GEN,Murshidabad,150337,INC,Emani Biswas,73465,RSP,Jane Alam Mian,56056,17409,11.58
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,58,Jangipur,GEN,Murshidabad,146904,INC,Md. Sohrab,68699,CPI(M),Purnima Bhattacharya,62363,6336,4.31
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,59,Raghunathganj,GEN,Murshidabad,146478,INC,Akhruzzaman,74683,RSP,Abul Hasnat,59143,15540,10.61
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,60,Sagardighi,GEN,Murshidabad,143876,AITC,Subrata Saha,54708,CPI(M),Ismail Sekh,50134,4574,3.18
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,61,Lalgola,GEN,Murshidabad,143013,INC,Abu Hena,74317,CPI(M),Md Yean Ali,58133,16184,11.32
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,62,Bhagabangola,GEN,Murshidabad,162748,SP,Chand Mohammad,62862,AITC,Sagir Hossain,49528,13334,8.19
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,63,Raninagar,GEN,Murshidabad,163811,INC,Firoza Begam,76092,AIFB,Mst. Maksuda Begum,75003,1089,0.66
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,64,Murshidabad,GEN,Murshidabad,163893,INC,Shaoni Singha Roy,75441,AIFB,Bivas Chakraborty,69089,6352,3.88
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,65,Nabagram,GEN,Murshidabad,160694,CPI(M),Kanai Chandra Mandal,78703,INC,Probal Sarkar,71147,7556,4.7
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,66,Khargram,GEN,Murshidabad,148299,INC,Ashis Marjit,74093,CPI(M),Goutam Mondal,65123,8970,6.05
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,67,Burwan,GEN,Murshidabad,140801,INC,Protima Rajak,66304,RSP,Binoy Sarkar,65688,616,0.44
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,68,Kandi,GEN,Murshidabad,144287,INC,Apurba Sarkar(David),66513,CPI,Ainal Haque,58703,7810,5.41
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,69,Bharatpur,GEN,Murshidabad,147875,RSP,Id Mohammad,70658,INC,Daliya Begum,68729,1929,1.3
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,70,Rejinagar,GEN,Murshidabad,155887,INC,Humayun Kabir,77542,RSP,Sirajul Islam Mondal,68781,8761,5.62
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,71,Beldanga,GEN,Murshidabad,149811,INC,Safiujjaman Seikh,67888,RSP,Md. Refatullah,54005,13883,9.27
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,72,Baharampur,GEN,Murshidabad,166821,INC,Manoj Chakraborty,91578,RSP,Tarit Kumar Brahmachari,48265,43313,25.96
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,73,Hariharpara,GEN,Murshidabad,163919,CPI(M),Insar Ali Biswas,58293,AITC,Niamot Sheikh,51935,6358,3.88
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,74,Naoda,GEN,Murshidabad,156508,INC,Abu Taher Khan,80758,RSP,Jayanta Kumar Biswas,66963,13795,8.81
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,75,Domkal,GEN,Murshidabad,173254,CPI(M),Anisur Rahaman,81812,INC,Soumik Hossain,78737,3075,1.77
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,76,Jalangi,GEN,Murshidabad,171834,CPI(M),Abdur Razzak,85144,AITC,Idris Ali,47283,37861,22.03
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,77,Karimpur,GEN,Nadia,178118,CPI(M),Samarendranath Ghosh,82244,AITC,Dr. Ramendra Nath,77159,5085,2.85
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,78,Tehatta,GEN,Nadia,176345,CPI(M),Ranjit Kumar Mandal,75445,IND,Tapas Kumar Saha,56248,19197,10.89
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,79,Palashipara,GEN,Nadia,159620,CPI(M),S.M. Sadi,73619,AITC,Manik Bhattacharjee,71967,1652,1.03
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,80,Kaliganj,GEN,Nadia,156551,AITC,Nasiruddin Ahamed(Lal),74091,RSP,Sankar Sarkar,56913,17178,10.97
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,81,Nakashipara,GEN,Nadia,163765,AITC,Kollol Khan,79644,CPI(M),Gayatri Sardar,63170,16474,10.06
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,82,Chapra,GEN,Nadia,164260,AITC,Rukbanur Rahman,77435,CPI(M),Shamsul Islam Mollah,74802,2633,1.6
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,83,Krishnanagar Uttar,GEN,Nadia,170529,AITC,Abani Mohan Joardar,96677,CPI(M),Ghosh Subinay,61567,35110,20.59
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,84,Nabadwip,GEN,Nadia,176069,AITC,Pundarikakshya Saha,94117,CPI(M),Biswas Sumit,71282,22835,12.97
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,85,Krishnanagar Dakshin,GEN,Nadia,153931,AITC,Ujjal Biswas,71392,CPI(M),Biswas Rama,60364,11028,7.16
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,86,Santipur,GEN,Nadia,171189,INC,Ajoy Dey,98902,RCPI(R),Iyar Mallik,60744,38158,22.29
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,87,Ranaghat Uttar Paschim,GEN,Nadia,186337,AITC,Partha Sarathi,101395,CPI(M),Bhattacharya Mina,74051,27344,14.67
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,88,Krishnaganj,GEN,Nadia,185075,AITC,Sushil Biswas,96550,CPI(M),Barun Biswas,75616,20934,11.31
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,89,Ranaghat Uttar Purba,GEN,Nadia,170505,AITC,Samir Kumar Poddar,93836,CPI(M),Archana Biswas,62644,31192,18.29
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,90,Ranaghat Dakshin,GEN,Nadia,194083,AITC,Abir Ranjan Biswas,99432,CPI(M),Aloke Kumar Das,79824,19608,10.1
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,91,Chakdaha,GEN,Nadia,173395,AITC,Naresh Chandra Chaki,88771,CPI(M),Biswanath Gupta,74672,14099,8.13
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,92,Kalyani,GEN,Nadia,179108,AITC,Dr. Ramendra Nath,92322,CPI(M),Jyotsna Sarkar (Sikder),76632,15690,8.76
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,93,Haringhata,GEN,Nadia,168580,AITC,Nilima Nag (Mallick),83366,CPI(M),Biswajit Paul,70363,13003,7.71
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,94,Bagdah,GEN,North 24 Parganas,173531,AITC,Upendra Nath Biswas,91821,AIFB,Mrinal Kanti Sikdar,70865,20956,12.08
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,95,Bongaon Uttar,GEN,North 24 Parganas,163641,AITC,Biswajit Das,89265,CPI(M),Dr. Biswajit Kumar,65645,23620,14.43
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,96,Bongaon Dakshin,GEN,North 24 Parganas,163230,AITC,Surajit Kumar Biswas,87677,CPI(M),Anuj Baran Sarkar,65788,21889,13.41
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,97,Gaighata,GEN,North 24 Parganas,164598,AITC,Manjul Krishna Thakur,91487,CPI,Manoj Kanti Biswas,66040,25447,15.46
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,98,Swarupnagar,GEN,North 24 Parganas,170899,AITC,Bina Mondal,83641,CPI(M),Siva Pada Das,76227,7414,4.34
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,99,Baduria,GEN,North 24 Parganas,169179,INC,Abdul Gaffar Quazi,89952,CPI(M),Md. Shelim Gain,66992,22960,13.57
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,100,Habra,GEN,North 24 Parganas,156753,AITC,Jyoti Priya Mallick,86218,CPI(M),Pranab Kumar,60826,25392,16.2
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,101,Ashoknagar,GEN,North 24 Parganas,170533,AITC,Dhiman Roy,94451,CPI(M),Satyasebi Kar,66759,27692,16.24
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,102,Amdanga,GEN,North 24 Parganas,162052,AITC,Rafiqur Rahaman,87162,CPI(M),Abdus Sattar,65605,21557,13.3
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,103,Bijpur,GEN,North 24 Parganas,127174,AITC,Subhranshu Roy,65479,CPI(M),Dr. Nirjharini,52867,12612,9.92
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,104,Naihati,GEN,North 24 Parganas,131522,AITC,Partha Bhowmick,75482,CPI(M),Ranjit Kundu,48012,27470,20.89
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,105,Bhatpara,GEN,North 24 Parganas,94353,AITC,Arjun Singh,66938,CPI(M),Nepaldeb Bhattacharyya,22553,44385,47.04
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,106,Jagatdal,GEN,North 24 Parganas,146910,AITC,Parash Dutta,86388,AIFB,Haripada Biswas,50356,36032,24.53
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,107,Noapara,GEN,North 24 Parganas,170021,AITC,Manju Basu,100369,CPI(M),Kusadhwaj Ghosh,59221,41148,24.2
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,108,Barrackpur,GEN,North 24 Parganas,132478,AITC,Silbhadra Datta,79515,CPI(M),Dr. Madhusudan Samanta,43392,36123,27.27
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,109,Khardaha,GEN,North 24 Parganas,148018,AITC,Amit Mitra,83608,CPI(M),Asim Kumar Dasgupta,57454,26154,17.67
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,110,Dum Dum Uttar,GEN,North 24 Parganas,177211,AITC,Chandrima Bhattacharya,94676,CPI(M),Rekha Goswami,75650,19026,10.74
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,111,Panihati,GEN,North 24 Parganas,151419,AITC,Nirmal Ghosh,88334,CPI(M),Ahibhusan,56902,31432,20.76
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,112,Kamarhati,GEN,North 24 Parganas,127866,AITC,Madan Mitra,74112,CPI(M),Manash Mukherjee,49758,24354,19.05
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,113,Baranagar,GEN,North 24 Parganas,148372,AITC,Tapas Roy,89883,RSP,Sukumar Ghosh,53055,36828,24.82
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,114,Dum Dum,GEN,North 24 Parganas,161095,AITC,Bratya Basu,92635,CPI(M),Gautam Deb,61138,31497,19.55
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,115,Rajarhat New Town,GEN,North 24 Parganas,164007,AITC,Sabyasachi Dutta,80738,CPI(M),Tapash Chatterjee,72991,7747,4.72
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,116,Bidhannagar,GEN,North 24 Parganas,148904,AITC,Sujit Bose,88642,CPI(M),Palash Das,52717,35925,24.13
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,117,Rajarhat Gopalpur,GEN,North 24 Parganas,150327,AITC,Purnendu Basu,89829,CPI(M),Rabindra Nath Mandal,54104,35725,23.76
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,118,Madhyamgram,GEN,North 24 Parganas,174600,AITC,Rathin Ghosh,99841,AIFB,Ranjit Chowdhury,65173,34668,19.86
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,119,Barasat,GEN,North 24 Parganas,178363,AITC,Chiranjeet Chakrabarti,103954,AIFB,Sanjib Chattopadhaya,63743,40211,22.54
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,120,Deganga,GEN,North 24 Parganas,158714,AITC,Dr. M. Nuruzzaman,78395,AIFB,Dr. Mortoza Hossain,61095,17300,10.9
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,121,Haroa,GEN,North 24 Parganas,167678,AITC,Julfikar Molla,76627,CPI(M),Imtiaz Hossain,75503,1124,0.67
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,122,Minakhan,GEN,North 24 Parganas,151102,AITC,Usha Rani Mondal,73533,CPI(M),Dilip Roy,66397,7136,4.72
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,123,Sandeshkhali,GEN,North 24 Parganas,154633,CPI(M),Nirapada Sardar,66815,AITC,Srimati Padma Mahato,62583,4232,2.74
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,124,Basirhat Dakshin,GEN,North 24 Parganas,186157,CPI(M),Narayan Mukherjee,66914,AITC,Narayan Goswami,54514,12400,6.66
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,125,Basirhat Uttar,GEN,North 24 Parganas,167248,CPI(M),Mostafa Bin Quasem,75575,AITC,Sardar Amjad Ali,71632,3943,2.36
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,126,Hingalganj,GEN,North 24 Parganas,158987,CPI,Anandamay Mandal,72741,AITC,Debes Mandal,71726,1015,0.64
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,127,Gosaba,GEN,South 24 Parganas,154586,AITC,Jayanta Naskar,78840,RSP,Samarendra Nath Mondal,68158,10682,6.91
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,128,Basanti,GEN,South 24 Parganas,148516,RSP,Subhas Naskar,72871,INC,Arnab Ray,66636,6235,4.2
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,129,Kultali,GEN,South 24 Parganas,167264,CPI(M),Ramsankar Halder,81297,SUCI,Joy Krishna Halder,76484,4813,2.88
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,130,Patharpratima,GEN,South 24 Parganas,182151,AITC,Samir Kumar Jana,95422,CPI(M),Jajneswar Das,80649,14773,8.11
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,131,Kakdwip,GEN,South 24 Parganas,164159,AITC,Manturam Pakhira,84483,CPI(M),Milan Bhattacharyya,73980,10503,6.4
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,132,Sagar,GEN,South 24 Parganas,187078,AITC,Bankim Chandra Hazra,94264,CPI(M),Milan Parua,86115,8149,4.36
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,133,Kulpi,GEN,South 24 Parganas,142683,AITC,Jogoranjan Halder,76693,CPI(M),Sakuntala Paik,58414,18279,12.81
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,134,Raidighi,GEN,South 24 Parganas,187370,AITC,Debasree Roy,93236,CPI(M),Kanti Ganguly,87683,5553,2.96
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,135,Mandirbazar,GEN,South 24 Parganas,155685,AITC,Joydeb Halder,83524,CPI(M),Dr. Sarat Chandra,64883,18641,11.97
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,136,Jaqynagar,GEN,South 24 Parganas,144940,SUCI,Tarun Kanti Naskar,71566,CPI(M),Shyamali Halder,44976,26590,18.35
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,137,Baruipur Purba,GEN,South 24 Parganas,160241,AITC,Nirmal Chandra Mandal,83636,CPI(M),Bimal Mistry,65157,18479,11.53
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,138,Canning Paschim,GEN,South 24 Parganas,153202,AITC,Shyamal Mondal,81736,CPI(M),Jaydeb Purkait,62122,19614,12.8
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,139,Canning Purba,GEN,South 24 Parganas,156727,CPI(M),Abdur Razzak Molla,85105,INC,Ibrahim Molya,63992,21113,13.47
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,140,Baruipur Paschim,GEN,South 24 Parganas,153252,AITC,Biman Banerjee,88187,CPI(M),Kanak Kanti Paria,56299,31888,20.81
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,141,Magrahat Purba,GEN,South 24 Parganas,151397,AITC,Namita Saha,75217,CPI(M),Chandan Saha,66414,8803,5.81
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,142,Magrahat Paschim,GEN,South 24 Parganas,141950,AITC,Giasuddin Molla,66878,CPI(M),Dr. Abul Hasnat,54908,11970,8.43
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,143,Diamond Harbour,GEN,South 24 Parganas,164210,AITC,Dipak Kumar Halder,87645,CPI(M),Subhra Sau,66871,20774,12.65
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,144,Falta,GEN,South 24 Parganas,156375,AITC,Tamonash Ghosh,86966,CPI(M),Ardhendu Sekhar Bindu,59295,27671,17.7
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,145,Satgachia,GEN,South 24 Parganas,183488,AITC,Sonali Guha (Bose),93902,CPI(M),Barun Naskar,75792,18110,9.87
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,146,Bishnupur,GEN,South 24 Parganas,177890,AITC,Dilip Mondal,95912,CPI(M),Sudhin Sinha,70862,25050,14.08
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,147,Sonarpur Dakshin,GEN,South 24 Parganas,169816,AITC,Jiban Mukhopadhyay,100243,CPI,Tarit,62469,37774,22.24
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,148,Bhangore,GEN,South 24 Parganas,173193,CPI(M),Badal Jamadar,81965,AITC,Arabul Islam,76859,5106,2.95
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,149,Kasba,GEN,South 24 Parganas,171839,AITC,Ahmed Javed Khan,92460,CPI(M),Shatarup Ghosh,72571,19889,11.57
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,150,Jadavpur,GEN,South 24 Parganas,197492,AITC,Manish Gupta,103972,CPI(M),Buddhadeb,87288,16684,8.45
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,151,Sonarpur Uttar,GEN,South 24 Parganas,162155,AITC,Firdousi Begum,89841,CPI(M),Shyamal Naskar,63817,26024,16.05
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,152,Tollygunj,GEN,South 24 Parganas,182917,AITC,Aroop Biswas,102743,CPI(M),Partha Pratim Biswas,75063,27680,15.13
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,153,Behala Purba,GEN,South 24 Parganas,193617,AITC,Sovan Chatterjee,116709,CPI(M),Kumkum Chakraborti,68536,48173,24.88
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,154,Behala Paschim,GEN,South 24 Parganas,203107,AITC,Partha Chatterjee,127870,CPI(M),Anupam Debsarkar,68849,59021,29.06
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,155,Maheshtala,GEN,South 24 Parganas,175656,AITC,Kasturi Das,92211,CPI(M),Sk.Md.Israil,67928,24283,13.82
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,156,Budge Budge,GEN,South 24 Parganas,166407,AITC,Ashok Kumar Deb,99915,CPI(M),Hrishikesh Podder,53426,46489,27.94
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,157,Metiaburuz,GEN,South 24 Parganas,132353,AITC,Mamtaj Begam,55003,CPI(M),Badruddoza Molla,48409,6594,4.98
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,158,Kokata Port,GEN,Kolkata,131314,AITC,Firhad Hakim,63866,AIFB,Moinuddin Shams,38833,25033,19.06
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,159,Bhabanipur,GEN,Kolkata,135716,AITC,Subrata Bakshi,87903,CPI(M),Narayan Prasad Jain,37967,49936,36.79
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,160,Rashbehari,GEN,Kolkata,135603,AITC,Sobhandeb,88892,CPI(M),Shantanu Basu,38998,49894,36.79
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,161,Ballygunge,GEN,Kolkata,145414,AITC,Subrata Mukherjee,88194,CPI(M),Dr. Fuad Halim,47009,41185,28.32
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,162,Chowrangee,GEN,Kolkata,110506,AITC,Sikha Chowdhury(Mitra),79450,RJD,Bimal Singh,21711,57739,52.25
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,163,Entally,GEN,Kolkata,134953,AITC,Swarna Kamal Saha,75891,CPI(M),Debesh Das,50895,24996,18.52
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,164,Beleghata,GEN,Kolkata,162195,AITC,Paresh Paul,93185,CPI(M),Anadi Kumar Sahu,61497,31688,19.54
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,165,Jorasanko,GEN,Kolkata,113419,AITC,Smita Bakshi,57970,CPI(M),Janki Singh,26461,31509,27.78
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,166,Shyampukur,GEN,Kolkata,125766,AITC,Dr. Shashi Panja,72904,AIFB,Jiban Prakash Saha,45868,27036,21.5
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,167,Maniktala,GEN,Kolkata,148273,AITC,Sadhan Pande,89039,CPI(M),Rupa Bagchi,52489,36550,24.65
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,168,Kashipur-Belgachia,GEN,Kolkata,141721,AITC,Mala Saha,87408,CPI(M),Kaninika Ghosh (Bose),47124,40284,28.42
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,169,Bally,GEN,Haora,104665,AITC,Sultan Singh,52770,CPI(M),Kanika Ganguly,46170,6600,6.31
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,170,Howrah Uttar,GEN,Haora,124794,AITC,Asok Ghosh,61466,CPI(M),Nimai Samanta,41858,19608,15.71
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,171,Howrah Madhya,GEN,Haora,166242,AITC,Arup Roy(Apu),103184,CPI(M),Arup Ray(Tukun),52514,50670,30.48
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,172,Shibpur,GEN,Haora,162923,AITC,Jatu Lahiri,100739,AIFB,Jagannath,54335,46404,28.48
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,173,Howrah Dakshin,GEN,Haora,180271,AITC,Brajamohan Majumder,101066,CPI(M),Krishna Kisor Ray(K.K.Ray),69644,31422,17.43
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,174,Sankrail,GEN,Haora,171897,AITC,Sital Kumar Sardar,88029,CPI(M),Dr. Anirban Hazra,70172,17857,10.39
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,175,Panchla,GEN,Haora,167440,AITC,Gulsan Mullick,76628,AIFB,Doli Roy,64510,12118,7.24
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,176,Uluberia Purba,GEN,Haora,148410,AITC,Haider Aziz Safwi,68975,CPI(M),Mohan Mondal,49391,19584,13.2
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,177,Uluberia Uttar,GEN,Haora,145804,AITC,Dr. Nirmal Maji,76469,CPI(M),Ghuku Bhim,58021,18448,12.65
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,178,Uluberia Dakshin,GEN,Haora,149029,AITC,Pulak Roy,73734,AIFB,Ahmed Kutubuddin Sk,61902,11832,7.94
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,179,Shyampur,GEN,Haora,175658,AITC,Kalipada Mandal,99501,AIFB,Minati Pramanik,64882,34619,19.71
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,180,Bagnan,GEN,Haora,154477,AITC,Arunava Sen (Raja),82730,CPI(M),Akkel Ali Khan,63460,19270,12.47
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,181,Amta,GEN,Haora,170337,INC,Asit Mitra,88264,CPI(M),Rabindranath Mitra,74545,13719,8.05
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,182,Udaynarayanpur,GEN,Haora,166723,AITC,Samir Kumar Panja,91879,CPI(M),Chandralekha Bag,67988,23891,14.33
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,183,Jagatballavpur,GEN,Haora,189311,AITC,Abul Kasem Molla,102580,CPI(M),Kazi Jafar Ahmed,74800,27780,14.67
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,184,Domjur,GEN,Haora,186878,AITC,Rajib Banerjee,101042,CPI(M),Mohanta Chatterjee,76056,24986,13.37
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,185,Uttarpara,GEN,Hugli,175268,AITC,Anup Ghosal,104753,CPI(M),Prof. Dr. Srutinath,61560,43193,24.64
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,186,Sreerampur,GEN,Hugli,152818,AITC,Dr. Sudipto Roy,97540,CPI,Partha Sarathi Rej,45849,51691,33.83
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,187,Champdani,GEN,Hugli,161777,AITC,Muzaffar Khan,92476,CPI(M),Jibesh Chakraborty,56163,36313,22.45
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,188,Singur,GEN,Hugli,175085,AITC,Rabindranath,100869,CPI(M),Dr. Asit Das,66058,34811,19.88
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,189,Chandannagore,GEN,Hugli,158710,AITC,Ashok Kumar Shaw,96430,CPI(M),Siba Prosad,53391,43039,27.12
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,190,Chunchura,GEN,Hugli,223566,AITC,Asit Mazumder (Tapan),127206,AIFB,Naren Dey,82614,44592,19.95
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,191,Balagarh,GEN,Hugli,183867,AITC,Asim Kumar Majhi,96254,CPI(M),Bhuban Pramanick,74671,21583,11.74
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,192,Pandua,GEN,Hugli,181878,CPI(M),Amjad Hossain Sk,84830,AITC,Nargis Begum,84433,397,0.22
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,193,Saptagram,GEN,Hugli,159787,AITC,Tapan Dasgupta,90289,CPI(M),Ashutosh Mukhopadhyay,59421,30868,19.32
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,194,Chanditala,GEN,Hugli,164700,AITC,Swati Khandoker,86394,CPI(M),Azim Ali Md Sk,69474,16920,10.27
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,195,Jangipara,GEN,Hugli,172409,AITC,Snehasis Chakraborty,87133,CPI(M),Sudarsan Raychaudhuri,74057,13076,7.58
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,196,Haripal,GEN,Hugli,182775,AITC,Becharam Manna,98146,CPI(M),Bharati Mukherjee,76073,22073,12.08
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,197,Dhanekhali,GEN,Hugli,196433,AITC,Asima Patra,100529,AIFB,Shrabani Sarkar,84252,16277,8.29
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,198,Tarakeswar,GEN,Hugli,176072,AITC,Rachhpal Singh,97022,CPI(M),Pratim Chatterjee,71550,25472,14.47
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,199,Pursurah,GEN,Hugli,191616,AITC,Parvez Rahman,107794,CPI(M),Saumendranath Bera,76104,31690,16.54
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,200,Arambag,GEN,Hugli,183653,AITC,Krishna Chandra Santra,98011,CPI(M),Asit Kumar Malik,78448,19563,10.65
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,201,Goghat,GEN,Hugli,176420,AIFB,Karak Biswanath,86514,INC,Debasish Medda,82249,4265,2.42
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,202,Khanakul,GEN,Hugli,184381,AITC,Iqbal Ahmed,102450,CPI(M),Subhra Parui,74571,27879,15.12
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,203,Tamluk,GEN,Purba Medinapur,188864,AITC,Saumen Kumar Mahapatra,99765,CPI,Jagannath Mitra,79089,20676,10.95
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,204,Panskura Purba,GEN,Purba Medinapur,163577,AITC,Biplab Roy Chowdhury,82957,CPI(M),Amiya Kumar Sahoo,69790,13167,8.05
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,205,Panskura Paschim,GEN,Purba Medinapur,186801,AITC,Omar Ali,93349,CPI,Nirmal Kumar Bera,84209,9140,4.89
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,206,Moyna,GEN,Purba Medinapur,178685,AITC,Bhushan Chandra Dolai,91038,CPI(M),Sk. Mujibur Rahaman,81081,9957,5.57
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,207,Nandakumar,GEN,Purba Medinapur,176131,AITC,Sukumar De,89717,SP,Brahmamay Nanda,77850,11867,6.74
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,208,Mahisadal,GEN,Purba Medinapur,172994,AITC,Sudarsan Ghosh,95640,CPI(M),Tamalika Ponda Seth,67478,28162,16.28
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,209,Haldia,GEN,Purba Medinapur,174469,AITC,Seuli Saha,89573,CPI(M),Nityananda Bera,77649,11924,6.83
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,210,Nandigram,GEN,Purba Medinapur,171671,AITC,Phiroja Bibi,103300,CPI,Paramananda Bharati,59660,43640,25.42
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,211,Chandipur,GEN,Purba Medinapur,173240,AITC,Amiya Kanti,88010,CPI(M),Bidyut Guchhait,76301,11709,6.76
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,212,Patashpur,GEN,Purba Medinapur,169153,AITC,Jyotirmoy Kar,84452,CPI,Makhan Lal Nayak,77802,6650,3.93
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,213,Kanthi Uttar,GEN,Purba Medinapur,183878,AITC,Banasri Maity,91528,CPI(M),Chakradhar Maikap,83573,7955,4.33
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,214,Bhagabanpur,GEN,Purba Medinapur,183656,AITC,Ardhendu Maity,93945,SP,Ranajit Manna,84948,8997,4.9
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,215,Khejuri,GEN,Purba Medinapur,165369,AITC,Ranajit Mondal,87833,SP,Asim Kumar Mandal,71673,16160,9.77
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,216,Kanthi Dakshin,GEN,Purba Medinapur,152187,AITC,Dibyendu Adhikari,86933,CPI,Uttam Pradhan,58296,28637,18.82
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,217,Ramnagar,GEN,Purba Medinapur,178479,AITC,Akhil Giri,93801,CPI(M),Swadesh Ranjan Nayak,77242,16559,9.28
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,218,Egra,GEN,Purba Medinapur,192326,AITC,Das Samares,99178,DSP(P),Hrishikesh Paria,83225,15953,8.29
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,219,Dantan,GEN,Paschim Medinapur,160317,CPI,Arun Mohapatra,79118,AITC,Shaibal Giri,74468,4650,2.9
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,220,Nayagram,GEN,Paschim Medinapur,150290,AITC,Dulal Murmu,75656,CPI(M),Bhutnath Saren,59382,16274,10.83
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,221,Gopiballavpur,GEN,Paschim Medinapur,158844,AITC,Chudamani Mahato,90070,CPI(M),Rabi Lal Maitra,58050,32020,20.16
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,222,Jhargram,GEN,Paschim Medinapur,155520,AITC,Sukumar Hansda,69464,CPI(M),Amar Basu,54191,15273,9.82
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,223,Keshiary,GEN,Paschim Medinapur,167437,CPI(M),Biram Mandi,76976,AITC,Shyam Charan Mandi,75939,1037,0.62
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,224,Kharagpur Sadar,GEN,Paschim Medinapur,136998,INC,Gyan Singh Sohanpal,75425,CPI(M),Anil Kumar Das,43056,32369,23.63
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,225,Narayangarh,GEN,Paschim Medinapur,177844,CPI(M),Surjya Kanta Mishra,89804,AITC,Atta Surja Kanta,82695,7109,4.0
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,226,Sabang,GEN,Paschim Medinapur,192676,INC,Manas Ranjan Bhunia,98755,CPI(M),Rampada Sahoo,85571,13184,6.84
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,227,Pingla,GEN,Paschim Medinapur,179364,DSP(P),Prabodh Chandra Sinha,84738,AITC,Ajit Maity,83504,1234,0.69
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,228,Kharagpur,GEN,Paschim Medinapur,150027,CPI(M),Haque Nazmul,70178,AITC,Bilkis Khanam,67674,2504,1.67
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,229,Debra,GEN,Paschim Medinapur,170479,AITC,Radhakanta Maiti,86215,CPI(M),Sk. Sorab Hossein,77402,8813,5.17
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,230,Daspur,GEN,Paschim Medinapur,199135,AITC,Ajit Bhunia,109048,CPI(M),Sunil Adhikari,84121,24927,12.52
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,231,Ghatal,GEN,Paschim Medinapur,194001,AITC,Shankar Dolai,101355,CPI(M),Chhabi Pakhira,85078,16277,8.39
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,232,Chandrakona,GEN,Paschim Medinapur,201017,CPI(M),Chhaya Dolai,97280,AITC,Sibaram Das,95984,1296,0.64
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,233,Garbeta,GEN,Paschim Medinapur,164757,CPI(M),Ghosh Susanta,86047,INC,Hema Choubey,70977,15070,9.15
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,234,Salboni,GEN,Paschim Medinapur,193685,AITC,Srikanta Mahata,92082,CPI(M),Abhiram Mahata,87727,4355,2.25
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,235,Keshpur,GEN,Paschim Medinapur,180456,CPI(M),Rameswar Doloi,103901,INC,Rajani Kanta Doloi,70059,33842,18.75
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,236,Medinipur,GEN,Paschim Medinapur,189348,AITC,Mrigendra Nath Maiti,103060,CPI,Santosh Rana,74840,28220,14.9
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,237,Binpur,GEN,Paschim Medinapur,147518,CPI(M),Dibakar Hansda,60728,JKP(N),Chunibala Hansda,53118,7610,5.16
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,238,Bandwan,GEN,Puruliya,180192,CPI(M),Besra Susanta,87183,INC,Sital Chandra Hembram,65163,22020,12.22
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,239,Balarampur,GEN,Puruliya,142484,AITC,Shantiram Mahato,65244,CPI(M),Gope Manindra,54716,10528,7.39
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,240,Baghmundi,GEN,Puruliya,156549,INC,Nepal Mahata,77458,AIFB,Mangal Mahato,59814,17644,11.27
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,241,Joypur,GEN,Puruliya,149606,AIFB,Dhirendra Nath Mahato,62060,IND,Shakti Pada Mahato,51449,10611,7.09
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,242,Purulia,GEN,Puruliya,154589,AITC,K.P. Singh Deo,83396,CPI(M),Kaushik Mazumdar,56909,26487,17.13
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,243,Manbazar,GEN,Puruliya,166995,AITC,Sandhyarani Tudu,78520,CPI(M),Himani Hansda,73354,5166,3.09
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,244,Kashipur,GEN,Puruliya,155376,AITC,Swapan Kumar Belthariya,69492,CPI(M),Subhas Chandra Mahata,65771,3721,2.39
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,245,Para,GEN,Puruliya,146031,INC,Umapada Bauri,62208,CPI(M),Dipak Bauri,61622,586,0.4
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,246,Raghunathpur,GEN,Puruliya,161543,AITC,Purna Chandra Bauri,78096,CPI(M),Dipali Bauri,65353,12743,7.89
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,247,Saltora,GEN,Bankura,163238,AITC,Swapan Bouri,82597,CPI(M),Sasthi Charan Bauri,69900,12697,7.78
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,248,Chhatna,GEN,Bankura,154316,AITC,Subhasis Batabyal,70340,RSP,Anath Bandhu Mondal,62576,7764,5.03
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,249,Ranibundh,GEN,Bankura,170373,CPI(M),Debalina Hembram,75388,AITC,Falguni Hembram,68529,6859,4.03
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,250,Raipur,GEN,Bankura,155490,CPI(M),Upen Kisku,69008,AITC,Pramila Murmu,68826,182,0.12
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,251,Taldangra,GEN,Bankura,157132,CPI(M),Manoranjan Patra,74779,INC,Arun Kumar Pathak,67614,7165,4.56
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,252,Bankura,GEN,Bankura,172154,AITC,Kashinath Mishra,92835,CPI(M),Pratip Mukherjee,63745,29090,16.9
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,253,Barjora,GEN,Bankura,177102,AITC,Asutosh Mukherjee,84457,CPI(M),Susmita Biswas,75966,8491,4.79
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,254,Onda,GEN,Bankura,174015,AITC,Arup Kumar Khan,75699,AIFB,Tarapada Chakrabarti,75103,596,0.34
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,255,Bishnupur,GEN,Bankura,154406,AITC,Shyama Prasad,77662,CPI(M),Ghosh Swapan,67805,9857,6.38
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,256,Katulpur,GEN,Bankura,175846,INC,Khan Saumitra,83355,CPI(M),Purnima Bagdi,81922,1433,0.81
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,257,Indus,GEN,Bankura,174492,AITC,Gurupada Mete,85589,CPI(M),Santanu Kumar Bora,81584,4005,2.3
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,258,Sonamukhi,GEN,Bankura,165070,AITC,Dipali Saha,82199,CPI(M),Chongre Manoranjan,74910,7289,4.42
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,259,Khandaghosh,GEN,Barddhaman,180926,CPI(M),Nabin Chandra Bag,94284,AITC,Alok Kumar Majhi,81137,13147,7.27
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,260,Bardhaman Dakshin,GEN,Barddhaman,186338,AITC,Rabiranjan,107520,CPI(M),Nirupam Sen,70604,36916,19.81
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,261,Raina,GEN,Barddhaman,193453,CPI(M),Khan Basudeb,98897,AITC,Nepal Ghorui,86676,12221,6.32
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,262,Jamalpur,GEN,Barddhaman,173255,AITC,Ujjal Pramanick,84434,CPI(M),Samar Hazra,81891,2543,1.47
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,263,Monteswar,GEN,Barddhaman,173187,CPI(M),Chowdhury Md,81822,AITC,Abu Ayesh Mondal,78524,3298,1.9
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,264,Kalna,GEN,Barddhaman,170270,AITC,Kundu Biswajit,85096,CPI(M),Sukul Chandra Sikdar,72459,12637,7.42
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,265,Memari,GEN,Barddhaman,184665,AITC,Abul Hasem Mondal,89083,CPI(M),Debashis Ghosh,85905,3178,1.72
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,266,Bardhaman Uttar,GEN,Barddhaman,193007,CPI(M),Aparna Saha,98182,AITC,Nisith Kumar Malik,83949,14233,7.37
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,267,Bhatar,GEN,Barddhaman,177377,AITC,Banamali Hazra,83883,CPI(M),Konar Srijit,83585,298,0.17
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,268,Purbasthali Dakshin,GEN,Barddhaman,173036,AITC,Swapan Debnath,86039,CPI(M),Aleya Begam Sekh,70181,15858,9.16
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,269,Purbasthali Uttar,GEN,Barddhaman,166806,AITC,Tapan Chatterjee,71107,CPI(M),Pradip Kumar Saha,68967,2140,1.28
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,270,Katwa,GEN,Barddhaman,186478,INC,Rabindranath,97951,CPI(M),Sudipta Bagchi,70426,27525,14.76
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,271,Ketugram,GEN,Barddhaman,169207,AITC,Sekh Sahonawez,77323,CPI(M),Abul Kadar Syed,75724,1599,0.94
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,272,Mangalkot,GEN,Barddhaman,175927,CPI(M),Sahajahan Choudhury,81316,AITC,Apurba Chaudhuri,81190,126,0.07
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,273,Ausgram,GEN,Barddhaman,174048,CPI(M),Basudev Mete,90863,INC,Chanchal Kumar Mondal,67767,23096,13.27
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,274,Galsi,GEN,Barddhaman,182112,AIFB,Sunil Kumar Mondal,92126,AITC,Joydeb Saha,81272,10854,5.96
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,275,Pandabeswar,GEN,Barddhaman,135317,CPI(M),Gauranga Chatterjee,67240,AITC,Zahir Alam,59429,7811,5.77
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,276,Durgapur Purba,GEN,Barddhaman,172983,AITC,Dr. Nikhil Kumar,87050,CPI(M),Alpana Chowdhury,78484,8566,4.95
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,277,Durgapur Paschim,GEN,Barddhaman,178008,AITC,Apurba Mukherjee,92454,CPI(M),Biprendu Chakraborty,75448,17006,9.55
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,278,Raniganj,GEN,Barddhaman,154308,AITC,Ali Sohrab,73810,CPI(M),Runu Dutta,72059,1751,1.13
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,279,Jamuria,GEN,Barddhaman,137095,CPI(M),Jahanara Khan,72411,AITC,Prabhat Kumar,58538,13873,10.12
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,280,Asansol Dakshin,GEN,Barddhaman,160811,AITC,Tapas Banerjee,89645,CPI(M),Ashok Kumar Mukherjee,61104,28541,17.75
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,281,Asansol Uttar,GEN,Barddhaman,154515,AITC,Ghatak Moloy,96011,CPI(M),Ranu Roychowdhury,48218,47793,30.93
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,282,Kulti,GEN,Barddhaman,138355,AITC,Ujjal Chatterjee,77610,AIFB,Acharya Maniklal,49044,28566,20.65
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,283,Barbani,GEN,Barddhaman,148578,AITC,Bidhan Upadhyay,78628,CPI(M),Abhas Raychaudhuri,58051,20577,13.85
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,284,Dubrajpur,GEN,Birbhum,158064,AIFB,Bijoy Bagdi,75347,AITC,Santoshi Saha,72634,2713,1.72
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,285,Suri,GEN,Birbhum,171123,AITC,Swapan Kanti Ghosh,88244,CPI(M),Abdul Gaffar,69127,19117,11.17
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,286,Bolpur,GEN,Birbhum,176993,AITC,Chandra Nath Sinha,89394,RSP,Tapan Hore,72767,16627,9.39
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,287,Nanoor,GEN,Birbhum,186584,AITC,Gadadhar Hazra,91818,CPI(M),Shyamali Pradhan,85955,5863,3.14
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,288,Labhpur,GEN,Birbhum,165056,AITC,Islam Monirul,78697,CPI(M),Nabanita Mukherjee,75691,3006,1.82
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,289,Sainthia,GEN,Birbhum,165253,CPI(M),Dhiren Bagdi,77512,AITC,Parikshit Bala,73194,4318,2.61
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,290,Mayureswar,GEN,Birbhum,159467,CPI(M),Asok Ray,67478,AITC,Jatil Mondal,60958,6520,4.09
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,291,Rampurhat,GEN,Birbhum,163905,AITC,Asish Banerjee,75066,AIFB,Rebati Bhattacharya,64828,10238,6.25
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,292,Hansan,GEN,Birbhum,157021,INC,Asit Mal,73370,RCPI(R),Kamal Hasan,46918,26452,16.85
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,293,Nalhati,GEN,Birbhum,155116,INC,Abhijit Mukherjee,76047,AIFB,Dipak Chatterjee,60887,15160,9.77
+ae-west-bengal-2011,AE,West Bengal,2011,2011,official,294,Murarai,GEN,Birbhum,162965,AITC,Nure Alam Chowdhury,77817,CPI(M),Elahi Kamre Dr,73414,4403,2.7

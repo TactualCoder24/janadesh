@@ -1,0 +1,61 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,1,Nartiang,ST,Jaintia Hills,30803,NPP,Sniawbhalang Dhar,17107,INC,Jopthiaw Lyngdoh,4305,12802,41.56
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,2,Jowai,ST,Jaintia Hills,27856,NPP,Wailadmiki Shylla,10107,UDP,Moonlight Pariat,6464,3643,13.08
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,3,Raliang,ST,Jaintia Hills,26352,NPP,Comingone Ymbon,11252,BJP,Lakhon Biam,6850,4402,16.7
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,4,Mowkaiaw,ST,Jaintia Hills,25955,UDP,Nujorki Sungoh,6737,NPP,Gilbert Sten,6297,440,1.7
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,5,Sutnga Saipung,ST,Jaintia Hills,31652,INC,Shitlang Pale,10675,NPP,Hopeful Bamon,7516,3159,9.98
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,6,Khliehriat,ST,Jaintia Hills,32395,UDP,Kyrmen Shylla,7113,BJP,Justine Dkhar,6464,649,2.0
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,7,Amlarem,ST,Jaintia Hills,27199,UDP,Lahkmen Rymbui,7022,NPP,Stephanson Mukhim,5890,1132,4.16
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,8,Mawhati,ST,Ri Bhoi  *,25176,NPP,Dasakhiatbha Lamare,4849,IND,Julias Kitbok Dorphang,4616,233,0.93
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,9,Nongpoh,ST,Ri Bhoi  *,23410,INC,Mayralborn Syiem,7771,UDP,Rona Khymdeit,7115,656,2.8
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,10,Jirang,ST,Ri Bhoi  *,26980,NPP,Sosthenes Sohtun,9554,INC,Witness Day Sancley,8284,1270,4.71
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,11,Umsning,ST,Ri Bhoi  *,23112,PDF,Jason Sawkmie Mawlong,5870,INC,Celestine Lyngdoh,5501,369,1.6
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,12,Umroi,ST,Ri Bhoi  *,20192,INC,George Bankyntiewlang Lyngdoh,10102,NPP,Ngaitlang Dhar,2664,7438,36.84
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,13,Mawryngkneng,ST,East Khasi Hills,24489,INC,David A Nongrum,6779,PDF,Highlander Kharmalki,4639,2140,8.74
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,14,Pynthorumkhrah,GEN,East Khasi Hills,22311,BJP,Alexander Laloo Hek,9997,PDF,James Ban Basaiawmoit,4801,5196,23.29
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,15,Mawlai,ST,East Khasi Hills,30630,INC,Process T. Sawkmie,9321,IND,Teiborlang Pathaw,6969,2352,7.68
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,16,East Shillong,ST,East Khasi Hills,17498,INC,Ampareen Lyngdoh,9343,BJP,Neil Antonio War,3001,6342,36.24
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,17,North Shillong,ST,East Khasi Hills,19527,KHNAM,Adelbert Nongrum,9225,BJP,Antonius Lyngdoh,2192,7033,36.02
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,18,West Shillong,GEN,East Khasi Hills,20132,INC,Mohendro Rapsang,6242,UDP,Paul Lyngdoh,6151,91,0.45
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,19,South Shillong,GEN,East Khasi Hills,22760,BJP,Sanbor Shullai,5588,INC,Manas Chaudhuri,5375,213,0.94
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,20,Mylliem,ST,East Khasi Hills,23146,PDF,Hamletson Dohling,7232,INC,Ronnie Lyngdoh,3648,3584,15.48
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,21,Nongthymmai,ST,East Khasi Hills,22666,INC,Charles Pyngrope,6854,UDP,Dr. Jemino Mawthoh,6754,100,0.44
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,22,Nongkrem,ST,East Khasi Hills,24285,IND,Lambor Malngiang,7170,HSPDP,Ardent Miller Basaiawmoit,6287,883,3.64
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,23,Sohiong,ST,East Khasi Hills,23823,HSPDP,Samlin Malngiang,9195,INC,H. Donkupar Lyngdoh,6653,2542,10.67
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,24,Mawphlang,ST,East Khasi Hills,23291,IND,Syntar Klas Sunn,6517,INC,Kennedy Cornelius Khyriem,6270,247,1.06
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,25,Mawsynram,ST,East Khasi Hills,24882,INC,Himalaya Muktan Shangpliang,7334,PDF,Pynshngainlang Syiem,6151,1183,4.75
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,26,Shella,ST,East Khasi Hills,20129,UDP,Donkupar Roy,5276,PDF,Leston Wanswett,4120,1156,5.74
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,27,Pynursla,ST,East Khasi Hills,28997,NPP,Prestone Tynsong,10611,UDP,Nehru Suting,6246,4365,15.05
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,28,Sohra,ST,East Khasi Hills,20023,PDF,Gavin Miguel Mylliem,6726,UDP,Titosstar Well Chyn,6475,251,1.25
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,29,Mawkynrew,ST,East Khasi Hills,26053,PDF,Banteidor Lyngdoh,7186,HSPDP,Martle Mukhim,5929,1257,4.82
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,30,Mairang,ST,West Khasi Hills,28403,UDP,Metbah Lyngdoh,9699,PDF,Councellor Singh Wahlang,7280,2419,8.52
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,31,Mawthadraishan,ST,West Khasi Hills,28289,UDP,Brolding Nongsiej,7373,HSPDP,Biolinda Nonglait,5596,1777,6.28
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,32,Nongstoin,ST,West Khasi Hills,26142,NPP,Macmillan Byrsat,8563,INC,Gabriel Wahlang,7913,650,2.49
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,33,Rambrai-Jyrngam,ST,West Khasi Hills,24171,INC,Kimfa Sidney Marbaniang,7191,HSPDP,K Phlastingwell Pangniang,5216,1975,8.17
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,34,Mawshynrut,ST,West Khasi Hills,25092,NPP,Gigur Myrthong,6618,HSPDP,Witting Mawsor,5688,930,3.71
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,35,Ranikor,ST,West Khasi Hills,24296,INC,Martin Danggo,8278,UDP,Pius Marwein,6598,1680,6.91
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,36,Mawkyrwat,ST,West Khasi Hills,25133,HSPDP,Renikton Lyngdoh Tongkhar,8092,INC,Carnes Sohshang,4425,3667,14.59
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,37,Kharkutta,ST,East Garo Hills,26069,NPP,Rupert Momin,9982,INC,Cherak Watre Momin,6878,3104,11.91
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,38,Mendipathar,ST,East Garo Hills,18934,INC,Marthon Sangma,6286,NPP,Frankenstein Momin,3634,2652,14.01
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,39,Resubelpara,ST,East Garo Hills,19353,NPP,Timothy Shira,9348,INC,Salseng Marak,5648,3700,19.12
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,40,Bajengdoba,ST,East Garo Hills,22015,NPP,Pongseng Marak,7117,INC,Brigady Napak Marak,5661,1456,6.61
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,41,Songsak,ST,East Garo Hills,21295,INC,Dr. Mukul Sangma,10223,NPP,Nihim Shira,3168,7055,33.13
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,42,Rongjeng,ST,East Garo Hills,22184,NPP,Jim Sangma,7567,IND,Walseng Sangma,5493,2074,9.35
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,43,Williamnagar,ST,East Garo Hills,23477,NPP,Marcuise N. Marak,7916,IND,Sengbath R Marak,6557,1359,5.79
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,44,Raksamgre,ST,West Garo Hills,21225,NPP,Benedic Marak,6646,INC,Limison Sangma,4939,1707,8.04
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,45,Tikrikilla,ST,West Garo Hills,24490,INC,Jimmy Sangma,6406,IND,Rahinath Barchung,6111,295,1.2
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,46,Phulbari,GEN,West Garo Hills,22457,NPP,S. G. Esmatur Mominin,8217,INC,Abu Taher Mondal,3738,4479,19.94
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,47,Rajabala,GEN,West Garo Hills,26183,INC,Dr. Azad Zaman,6683,IND,Ashahel Shira,4679,2004,7.65
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,48,Selsella,ST,West Garo Hills,26195,INC,Clement Marak,11100,NPP,Ferlin C. A. Sangma,8468,2632,10.05
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,49,Dadenggre,ST,West Garo Hills,24502,NPP,James Pangsang Kongkal Sangma,8990,IND,Rupa M. Marak,4911,4079,16.65
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,50,North Tura,ST,West Garo Hills,22452,NPP,Thomas Sangma,6929,INC,Noverfield R. Marak,6647,282,1.26
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,51,South Tura,ST,West Garo Hills,21425,NPP,Agatha Sangma,7760,BJP,Billykid Sangma,4114,3646,17.02
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,52,Rangsakona,ST,West Garo Hills,25784,INC,Zenith Sangma,12010,NPP,Subir Marak,6422,5588,21.67
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,53,Ampati,ST,West Garo Hills,23862,INC,Dr. Mukul Sangma,11737,BJP,Bakul Ch. Hajong,6286,5451,22.84
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,54,Mahendraganj,ST,West Garo Hills,25166,INC,Dikkanchi Shira,11083,BJP,Premananda Koch,5205,5878,23.36
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,55,Salmanpara,ST,West Garo Hills,21313,INC,Winnerson Sangma,7844,NPP,Ian Botham. Sangma,5297,2547,11.95
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,56,Gambegre,ST,West Garo Hills,21376,NCP,Saleng Sangma,6405,INC,Sadhiarani Sangma,4683,1722,8.06
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,57,Dalu,ST,West Garo Hills,15588,NPP,Brening Sangma,4255,INC,Dorendro Sangma,3207,1048,6.72
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,58,Rongara Siju,ST,South Garo Hills *,21868,NPP,Rakkam Sangma,7607,IND,Rophul Marak,5122,2485,11.36
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,59,Chokpot,ST,South Garo Hills *,21325,INC,Lazarus Sangma,6772,NPP,Secondson Sangma,4228,2544,11.93
+ae-meghalaya-2018,AE,Meghalaya,2018,2018,official_winners_only,60,Baghmara,ST,South Garo Hills *,22096,IND,Samuel Sangma,5232,NPP,Sengnal Sangmaa,4887,345,1.56

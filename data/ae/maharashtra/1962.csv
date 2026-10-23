@@ -1,0 +1,265 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,1,Colaba,GEN,,35906,INC,Kalaram Shankar Dharia,19351,SWA,Phiroze Jamshedji Shroff,7073,12278,34.19
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,2,Mandvi,GEN,,38500,INC,Abdul Kadar Salebhoy,19101,PSP,Manohar Gopinath Kotwal,8718,10383,26.97
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,3,Dongri,GEN,,37363,INC,Mustafa Gulamnabi Faki,18906,IND,Gulam Mahmud Haji Noor Mohamed Banatwalla,18457,449,1.2
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,4,Kumbharwada,GEN,,48088,INC,Bhanushankar Manchharam Yagnik,26545,PSP,Shantilal Girdharlal Patel,16833,9712,20.2
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,5,Dhobitalao,GEN,,28730,INC,Shivarayan Kailas,19144,IND,Marutirao Namdeo Tanpure,4661,14483,50.41
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,6,Girgaum,GEN,,49657,INC,Anant Narayan Namjoshi,24107,IND,Govind Moreshwar Pendse,13178,10929,22.01
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,7,Walkeshwar,GEN,,49199,INC,Maniben Nanubhai Desai,24351,SWA,Piloo Homi Mody,10187,14164,28.79
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,8,Mahalaxmi,GEN,,44690,INC,Jehangir Taleyarkhan Homi,26768,CPI,Shantaram Sawalram Mirajkar,8009,18759,41.98
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,9,Byculla,GEN,,55217,INC,Qamar Nayer Ahmed,19409,CPI,Bapurao Dhondiba Jagtap,16713,2696,4.88
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,10,Lovegrove,SC,,54417,INC,Puna Tabha Patel,24598,REP,Palji Hamabhai Boricha,18823,5775,10.61
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,11,Nagpada,GEN,,44263,INC,Vishwanath Rajanna Tulla,17625,IND,Mahmood Mahomed Mulla,12664,4961,11.21
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,12,Mazgaon,GEN,,41501,INC,Vithal Krishnaji Torasakar,19654,CPI,Ramchandr Krishnaji Bhogale,12263,7391,17.81
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,13,Sewree,GEN,,65706,CPI,Sawalram Gopal Patkar,33341,INC,Madhavrao Parsharam Thorat,24871,8470,12.89
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,14,Parel,GEN,,45375,INC,Madhavrao Ganpatrao Mani,20784,IND,Krishnaji Gangaram Desai,16203,4581,10.1
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,15,Matunga,GEN,,43720,INC,Liladhar Passu Shah,21258,PSP,M. Madhavan,18707,2551,5.83
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,16,Naigaum,SC,,52619,INC,Shakuntala Chintaman Salve,20731,REP,Wamanrao Siraram Pagare,16414,4317,8.2
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,17,Worli,GEN,,55407,INC,Madhav Narayan Birje,24041,REP,Vithal Yashwant Mohite,18008,6033,10.89
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,18,Dadar,GEN,,55125,IND,Pralhad Keshav Atre,22469,INC,Trimbak Ramchandra Narawane,21843,626,1.14
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,19,Mahim,GEN,,46118,PSP,Fredrick Michael Pinto,19036,INC,Lakshmikant Narayan Welingker,16729,2307,5.0
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,20,Parle Andheri,GEN,,74308,INC,Shantilal Harijivan Shah,34349,CPI,Balkrishana Shantaram Dhume,29127,5222,7.03
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,21,Bandra,GEN,,70312,INC,Purushottam Ganesh Kher,45235,SWA,Arthur William Felix Menezes,14548,30687,43.64
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,22,Kurla,GEN,,74795,INC,Anjanabai Narhar Magar,34153,REP,Manoharlal Mangalsain Marwah,24656,9497,12.7
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,23,Chembur,GEN,,105802,INC,Vadilal Chatrabhuj Gandhi,59446,CPI,Raghunath Janardan Dhupkar,19319,40127,37.93
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,24,Borivali,GEN,,93976,INC,Ishwarlal Pranjiwandas Parekh,55940,SOC,Padmakar Balkrishna Samant,16601,39339,41.86
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,25,Thana,GEN,,49455,INC,Champa Govardhan Mokal,20583,CPI,B. K. Khopkar,11432,9151,18.5
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,26,Bassein,GEN,,61857,INC,Hari Govindrao Vartak,36498,PSP,Sadananda Gopal Varti,20430,16068,25.98
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,27,Palghar,GEN,,49951,INC,Shridhar Sakharam Patil,21796,PSP,Navanitrai Bhogilal Shah,17447,4349,8.71
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,28,Dahanu,GEN,,32669,INC,Shamrao Ramchandra Patil,13533,CPI,Godavari Shamrao Parulekar,11403,2130,6.52
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,29,Kasa,ST,,33749,CPI,Dhakatya Posha Sutar,20032,INC,Mahadeo Gopal Kadu,9899,10133,30.02
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,30,Jawhar,ST,,31260,INC,Baburao Sadashiv Jadav,13819,BJS,Somnath Rama Wani,7176,6643,21.25
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,31,Bhiwandi,GEN,,45429,INC,Bango Nana Bhoir,20824,PWP,Bhalchandra Shivram Patil,20212,612,1.35
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,32,Mokhada,ST,,25085,INC,Malu Hari Veer,12189,PWP,Pandurang Ramchandra Patil,6954,5235,20.87
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,33,Murbad,GEN,,31675,INC,Shantaram Gopal Gholap,13855,PWP,Mukund Kanu Patil,8705,5150,16.26
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,34,Kalyan,GEN,,40247,PWP,Krishnarao Narayan Dhulup,14164,INC,Shankarrao Krishnarao Hande,13744,420,1.04
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,35,Ulhasnagar,GEN,,44260,SOC,Parcharam Kewalram Ailani (Alias Vidyarthi),17635,INC,Newandram Vishindas Gurbani,14425,3210,7.25
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,36,Panvel,GEN,,39454,PWP,Dinkar Balu Patil,18856,INC,Pratapsinha Vishwasrao Chavan,13772,5084,12.89
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,37,Pen,GEN,,39791,INC,Laxman Shankar Mhatre,19673,PWP,Tukaram Hari Vajekar,15326,4347,10.92
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,38,Khalapur,ST,,33129,PWP,Krishna Ramaji Mundhe,17027,INC,Govind Sonu Katkari,11850,5177,15.63
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,39,Alibag,GEN,,36493,INC,Dattatraya Krishnaji Khanvilkar,18762,PWP,Dattatraya Narayan Patil,13494,5268,14.44
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,40,Roha,GEN,,36631,PWP,Pandurang Ramaji Sanap,17466,INC,Yashwant Dwarkanath Deshmukh,15606,1860,5.08
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,41,Shriwardhan,GEN,,29019,INC,Abdul Rahim A. Gafoor Antulay,16684,PSP,Digambar Vinayak Purohit,7475,9209,31.73
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,42,Mangaon,SC,,24463,INC,Dattatraya Malogi Talegaonkar,13047,IND,Tanaji Ganpat Gaikwa,5132,7915,32.35
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,43,Mahad,GEN,,34013,PSP,Sakharam Vithoba Salunke,12664,INC,Shankar Babaji Sawant,12664,0,0.0
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,44,Shukrawar Peth,GEN,,52870,INC,Rambhau Vithal Telang,28434,PSP,Shridhar Mahadev Joshi,19263,9171,17.35
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,45,Kasba Peth,GEN,,49300,INC,Baburao Narayanrao Sans,27135,IND,Kaluram Udansing Pardeshi,10710,16425,33.32
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,46,Shivajinagar,GEN,,50531,INC,Sadashiv Govind Barve,30306,BJS,Ramchandra Kashinath Mhalagi,14723,15583,30.84
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,47,Poona Cantonment,GEN,,33021,INC,Krishnarao Tukaram Girme,17529,PSP,Jaysing Ganpat Sasane,6474,11055,33.48
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,48,Haveli,GEN,,52706,INC,Martand Dhondiba Magar,26927,PSP,Ram Dasharath Tupe,20124,6803,12.91
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,49,Kirkee,SC,,27315,INC,Ganpat Narayan Kamble,14893,IND,Ramchandra Giriju Randhir,2726,12167,44.54
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,50,Indapur,GEN,,40262,INC,Shankarrao Bajirao Patil,18676,PWP,Dinkarrao Shankarrao Patil,11122,7554,18.76
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,51,Baramati,GEN,,31476,INC,Malatibai Madhavrao Shirole,14751,PSP,Mansing Murlidhar Tule,5553,9198,29.22
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,52,Dhond,SC,,21087,INC,Vithal Ramchandra Pawar,12884,REP,Maruti Bandu Sawant,3428,9456,44.84
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,53,Sirur,GEN,,26699,INC,Raosaheb Baburao Pawar,12395,PSP,Shamkant Damodar More,11334,1061,3.97
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,54,Junnar,GEN,,40035,PSP,Vithalrao Narayanrao Awate,17826,INC,Shivaji Mahadeo Kale,17699,127,0.32
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,55,Ambegaon,GEN,,31328,INC,Annasaheb Gopalrao Awate,22111,PSP,Muruti Shripati Awate,4812,17299,55.22
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,56,Khed,GEN,,30651,INC,Vasantrao Marutrao Manjre,19267,BJS,Narayan Balwant Ghumatkar,5602,13665,44.58
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,57,Maval,GEN,,46228,INC,Namdeo Sadashiv Mohol,26247,BJS,Nathu Baburao Bhegade,13862,12385,26.79
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,58,Bhor,GEN,,36866,INC,Shankar Mahadeo Bhelke,23543,IND,Jaysing Parashuram Mali,7890,15653,42.46
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,59,Purandhar,GEN,,34895,INC,Dayaneshwar Raghunath Khalre,13911,IND,Vithal Sauloba Deshmukh,8361,5550,15.9
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,60,Ratnagiri Khed,GEN,,34550,INC,Hussain Misarikhan Dalwai,19505,PSP,Tanaji Balkrishna More,4926,14579,42.2
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,61,Dapoli,GEN,,26736,INC,Ramchandra Vithal Bhelose,14966,BJS,Sharad Govind Dandekar,6231,8735,32.67
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,62,Guhagar,GEN,,24180,PSP,Purushottam Vasudeo Mandlik,8232,INC,Mahadeo Soma Kesarkar,7590,642,2.66
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,63,Chiplun,GEN,,33199,INC,Parsharam Krishnaji Sawant,18452,PSP,Abubakarkhan Mahamadkhan Dalwai,5909,12543,37.78
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,64,Makhajan,SC,,20263,INC,Vithal Laxman Reelkar,9682,BJS,Shantaram Devram Kenavadekar,5094,4588,22.64
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,65,Sangameshwar,GEN,,18015,PSP,Jayaram Balkrishna Shetye Alias Bhai Shetye,6211,INC,Dhondiram Krishnaji Ghag,5793,418,2.32
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,66,Ratnagiri,GEN,,31917,INC,Shantaram Laxman Peje,16804,PSP,Mohan Shankar Todankar,6878,9926,31.1
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,67,Lanja,GEN,,18525,PSP,Shashishenkar Kashinath Athalye,9562,INC,Anna Shripat Vishwasrao,4336,5226,28.21
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,68,Rajapur,GEN,,21318,INC,Sahadeo Mukund Thakare,8408,PSP,Laxman Ranganath Matankar,6574,1834,8.6
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,69,Malwan,GEN,,28303,PSP,Shyam Gangaram Kocharekar,14232,INC,Narayan Govindrao Prabhugaonkar,8028,6204,21.92
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,70,Deogad,GEN,,25692,INC,Wamanrao Nagoji Rane,8616,PSP,Ramchandra Balkrishna Munja,8161,455,1.77
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,71,Kankaoli,GEN,,25521,PSP,Yeshwant Babaji Dalvi,10035,INC,Bhaskar Balkrishna Sawant,8679,1356,5.31
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,72,Vengurla,GEN,,34052,INC,Prataprao Deorao Bhonsale,13349,IND,Balasaheb Hanamantrao Khardekar,9948,3401,9.99
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,73,Sawantwadi,GEN,,31500,INC,Shivram Sawant Khem Sawant Bhonsale,25455,IND,Laxman Narayan Govekar,4978,20477,65.01
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,74,Chandgad,GEN,,40100,INC,Patil Vithalrao Kalajirao Chavan,23930,PWP,Ravalnath Bhagoji Madholkar,12447,11483,28.64
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,75,Gadhinglaj,GEN,,39375,INC,Nalawade Pandurang Alias Appasaheb Ramrao,22074,PWP,Daynandeo Santram Narvekar,10059,12015,30.51
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,76,Kagal,GEN,,38265,INC,Shamrao Bhivaji Patil,20739,IND,Sadashiv Dadu Mandlik,12292,8447,22.08
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,77,Bhudargad,GEN,,36719,INC,Anandrao Kondiba Desai,22171,CPI,Kaka Gopala Desai,10146,12025,32.75
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,78,Radhanagari,GEN,,34218,INC,Dnyandev Santaram Khandekar,19476,PWP,Dinkar Nathaji Nalavade,14742,4734,13.83
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,79,Panhala,GEN,,28727,PWP,Sadashiva Daulatrao Patil,15529,INC,Babajirao Balasaheb Desai,13198,2331,8.11
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,80,Shahuwadi,GEN,,36089,INC,Udayasing Nanasaheb Gaikwad,21249,PWP,Shankarrao Namdeo Patil,13327,7922,21.95
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,81,Kolhapur,GEN,,47672,PWP,Tryambak Sitaram Karkhanis,23984,INC,Pandurang Bapurao Salunkhe,19151,4833,10.14
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,82,Karvir,GEN,,45412,INC,Dinkarrao Vithalrao Mudrale,33363,IND,Ramchandr Ravaji Yadav,11198,22165,48.81
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,83,Hatkanangle,SC,,48506,INC,Keshav Narsinga Ghatage,34419,REP,Madhavrao Ishwarrao Kurane,11176,23243,47.92
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,84,Shirol,GEN,,60157,INC,Ratnappa Bharamappa Kumbhar,40986,IND,Satgonda Revagonda Patil,16335,24651,40.98
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,85,Jath,GEN,,42576,INC,Tukaram Krishnarao Shendge,28765,PWP,Shivaji Ramachandra Shedbale,9861,18904,44.4
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,86,Miraj,GEN,,53396,INC,Gundu Dasharath Patil,39921,CPI,Nivrutti Baburao Kalke,6041,33880,63.45
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,87,Sangli,GEN,,63004,INC,Vasantrao Banduji Patil,45672,PWP,Bhagwan Dnyandev Suryavanshi,6933,38739,61.49
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,88,Tasgaon,GEN,,53362,INC,Dhondiram Yeshwant Patil,33089,PWP,Ganpati Dada Lad,18932,14157,26.53
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,89,Khanapur,GEN,,43028,INC,Sampatrao Sitaram Mane,30767,PWP,Bhagwan Nanasaheb More,7887,22880,53.17
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,90,Vita,SC,,42997,INC,Bhagwanrao Lalasaheb Pawar,29528,REP,Piraji Tayappa Madhale,10927,18601,43.26
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,91,Walwa,GEN,,59934,INC,Rajara Anant Patil,44345,PWP,Narayan Dhyanu Patil,15589,28756,47.98
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,92,Shirala,GEN,,52746,INC,Vasantrao Anandrao Naik,35864,PWP,Tashwant Chandru Patil,11919,23945,45.4
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,93,Karad North,GEN,,56793,INC,Yeshvantrao Balavantrao Chavan,40713,PWP,Keshav Pataloji Pawar,15231,25482,44.87
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,94,Karad South,GEN,,42160,INC,Yashvantrao Jijaba Mohite,33390,PWP,Vasantrao Alias Dattajirao Keru Patil,6929,26461,62.76
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,95,Patan,GEN,,49514,INC,Daulatrao Shripattarao Desai,42965,PWP,Balasaheb Ganpatrao Patankar,4576,38389,77.53
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,96,Jaoli,GEN,,36890,INC,Bhiku Daji Bhilare,28423,PWP,Ganpat Shivram Bhilare,5656,22767,61.72
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,97,Wai,GEN,,44081,INC,Dadasaheb Khasherao Jagtap,27456,PWP,Balasaheb Bapusaheb Deshmukh,10684,16772,38.05
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,98,Satara,GEN,,51291,INC,Dhondiram Shidoji Jagtap,35390,IND,Vithalrao Nanasaheb Patil,12068,23322,45.47
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,99,Koregaon,GEN,,40471,INC,Tushar Pandurang Pawar,20609,IND,Vithal Pandurang Bhosale,8107,12502,30.89
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,100,Khatav,GEN,,43261,INC,Shivajirao Dadasaheb Pawar,24477,PSP,Keshav Shankar Patil,16205,8272,19.12
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,101,Phaltan,GEN,,45544,INC,Nimbalkar Malojjrao Mudhojirao Naik,33741,CPI,Haribhau Vithal Nimbalkar,9209,24532,53.86
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,102,Man,SC,,31518,INC,Laxman Babaji Bhingardeve,24624,REP,Khanderao Sakharam Savant,4061,20563,65.24
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,103,Akalkot,GEN,,35070,INC,Nirmalaraje Vijayasinh Bhosale,27291,IND,Shankareppa Basappa Lodapure,6306,20985,59.84
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,104,South Sholapur,GEN,,33161,INC,Virupakshappa Guruppa Shivdare,25277,IND,Vishwanath Ramchandra Lad,6089,19188,57.86
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,105,North Sholapur,GEN,,37494,INC,Govind Bhaurao Burgute,16987,PWP,Vishwasrao Kondiba Phate,11965,5022,13.39
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,106,Barsi,GEN,,50448,INC,Prabhatai Shankarrao Zadbuke,32757,IND,Narshing Tatya Deshmukh,7332,25425,50.4
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,107,Sholapur City North,GEN,,51935,CPI,Yankapa Ramaya Madur,23025,INC,Keshavlal Virchand Shah,20301,2724,5.25
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,108,Sholapur City South,GEN,,40265,INC,Rajaram Savalaram Dhavale,12904,PSP,Bhimrao Laxman Rone,10847,2057,5.11
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,109,Pandharpur,GEN,,47599,INC,Audumber Kondiba Patil,28246,IND,Jayawant Ghanashyam More,13275,14971,31.45
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,110,Malsiras,GEN,,54567,INC,Shankarrao Narayanrao Mohite,32685,IND,Shivajirao Bhawanrao Patil,20767,11918,21.84
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,111,Sangola,GEN,,35235,PWP,Ganpatrao Annasaheb Deshmukh,17800,INC,Keshavrao Shripatrao Raut,15743,2057,5.84
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,112,Mangalwedha,SC,,19939,INC,Ganpat Laxman Sonwane,14023,REP,Govind Pandurang Magade,2716,11307,56.71
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,113,Karmala,GEN,,42162,IND,Pandurang Mahadeo Jagtap,15543,INC,Namdeo Mahadeo Jagtap,14300,1243,2.95
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,114,Madha,SC,,25543,INC,Kashinath Babu Asware,16659,REP,Keru Appa Lankeshwar,8078,8581,33.59
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,115,Karjat,GEN,,34828,INC,Eknath Buwasaheb Nimbalkar,21381,IND,Hirabai Prabhakar Bhapkar,9230,12151,34.89
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,116,Shrigonda,SC,,24119,INC,Baburao Mahadeo Bharaskar,12961,REP,Prabhakar Janardhan Rohan,6429,6532,27.08
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,117,Pathardi,GEN,,36329,CPI,Narayan Ganpat Avhad,19723,INC,Trimbak Lahanu Garje,16606,3117,8.58
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,118,Shevgaon,GEN,,40818,INC,Marutrao Shankarao Ghule,24851,IND,Ekanath Laxman Bhagwat,14027,10824,26.52
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,119,Ahmednagar North,GEN,,37152,IND,Balasaheb Nabaji Nagwade,19372,INC,Vithalrao Ganpatrao Kute,16208,3164,8.52
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,120,Ahmednagar South,GEN,,34193,INC,Tryambak Shivram Bharade,17270,IND,Navashervan Navarozajisattha,12341,4929,14.42
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,121,Parner,GEN,,27221,INC,Dattatraya Koundiram Bhagat,7800,CPI,Bhaskarrao Tukaramji Auty,6787,1013,3.72
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,122,Rahuri,GEN,,42735,INC,Baburao Bapuji Tanapure,24482,CPI,Punjaji Bapu Kadu,15875,8607,20.14
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,123,Shirdi,GEN,,45165,INC,Karbhari Bhimaji Rohamare,28679,IND,Mohanrao Abasaheb Gade,16486,12193,27.0
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,124,Shrirampur,SC,,32851,INC,Baburao Sawleram Chaturbhuj,19619,REP,Waman Damodhar Wakchaure,8769,10850,33.03
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,125,Sangamner,GEN,,42319,INC,Bhikaji Jijaba Khatal,16854,IND,Datta Appaji Deshmukh,15907,947,2.24
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,126,Nagar Akola,ST,,34160,INC,Yeshwant Sakharam Bahangare,13589,CPI,Barku Alias Bapurao Krishnaji Deshmukh,12421,1168,3.42
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,127,Nasik,GEN,,41085,INC,Vasant Narayan Naik,20371,IND,Ramchandra Jagannath Pande,7657,12714,30.95
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,128,Bhagur,SC,,27936,INC,Dattaraya Tulsiram Kale,16289,REP,Janardan Sambhaji Unawane,8462,7827,28.02
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,129,Igatpuri,GEN,,30852,INC,Mulchand Shrimal Gothi,12829,CPI,Shabaji Ramchandra Khatale,11808,1021,3.31
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,130,Kalwan,ST,,27030,INC,Dongar Rama More,11689,IND,Ramdan Pandu Bagul,4660,7029,26.0
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,131,Dindori,GEN,,35914,INC,Raghunath Gopalrao Gunjal,14063,CPI,Fakirrao Sakharam Dawakhar,11290,2773,7.72
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,132,Peint,ST,,23711,INC,Kacharu Bhau Raut,9475,IND,Sitaram Sayaji Bhoye,8308,1167,4.92
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,133,Malegaon,GEN,,57287,INC,Haroon Ahmed Ansari,24011,PSP,A. Moulavi M. Usman Nihal,22962,1049,1.83
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,134,Nandgaon,GEN,,50882,INC,Vyankatrao Bhausaheb Hire,30651,PSP,Shivram Dadaji Hire,13912,16739,32.9
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,135,Baglan,GEN,,49676,INC,Pandit Dharma Sonawane,31383,REP,Narayan Mansaram Sonawane,8760,22623,45.54
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,136,Yeola,GEN,,46317,INC,Hirubhau Manaku Gavali,26040,CPI,Madhav Bayaji Gayakawad,10820,15220,32.86
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,137,Niphad,GEN,,40756,INC,Dattatraye Bhikaji Patil,22312,CPI,Narayan Lakhuji Shinde,11952,10360,25.42
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,138,Sinnar,GEN,,41844,INC,Shankar Balaji Waje,20027,CPI,Gangadhar Wamanrao Chavanke,16967,3060,7.31
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,139,Nandurbar,GEN,,42654,INC,Gajmal Tulshiram Patil,23697,IND,Shankarrao Chinduji Bedse,10688,13009,30.5
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,140,Sakri,ST,,38543,INC,Gokul Rupla Gavit,20032,CPI,Hiraman Bhavadu Pawar,11390,8642,22.42
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,141,Nawapur,ST,,18914,INC,Dharma Jayaram Kokani,6414,IND,Sattarsingh Sona Vasave,5136,1278,6.76
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,142,Taloda,ST,,19628,INC,Digambar Narshi Padvi,11998,BJS,Ramu Dharma Padvi,4064,7934,40.42
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,143,Shirpur,GEN,,40267,INC,Vyankatrao Tanaji Dhobi,24753,BJS,Prahladrao Madhavrao Patil,10916,13837,34.36
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,144,Akrani,ST,,25263,INC,Chandrasing Dhanaka Bhandari,12541,BJS,Parshi Tetya Pawara,4525,8016,31.73
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,145,Sindkheda,GEN,,49414,INC,Narayanrao Sahadeorao Patil,33584,PSP,Baburao Nabaji Desai,6045,27539,55.73
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,146,Dhulia South,GEN,,44031,INC,Bhagwatiprasad Rambharos Pande,21278,IND,Ramdas Bhagwan Choudhary,13903,7375,16.75
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,147,Dhulia North,GEN,,40487,INC,Chandrakant Nandeo Patil,25381,PWP,Zulal Bhilajirao Patil,7634,17747,43.83
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,148,Chopda,GEN,,44852,INC,Deorao Madhavrao Nikam,30352,PWP,Dasharath Hiraman Tayade,6818,23534,52.47
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,149,Amalner,ST,,36446,INC,Shahjahankhan Jalamkhan Tadvi,21817,BJS,Anilkumar Prashi Chavan,6018,15799,43.35
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,150,Parola,GEN,,44252,INC,Gulabrao Narayanrao Pawar,22750,BJS,Shrinivas Chunilal Agarwal,10065,12685,28.67
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,151,Chalisgaon,GEN,,42352,INC,Motiram Shamrao Suryananshi,23368,PSP,Deoram Ramji Chavan,10687,12681,29.94
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,152,Pachora,GEN,,40884,INC,Supadu Bhadu Patil,26413,PSP,Onkar Narayan Wagh,10759,15654,38.29
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,153,Jamner,GEN,,38731,INC,Abaji Nana Patil,28009,IND,Mahadeo Ramchandra Lale,8165,19844,51.24
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,154,Erandol,GEN,,43706,INC,Digambar Shankar Patil,22571,IND,Yogarajasinha Shankarsinha Parihar,11955,10616,24.29
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,155,Jalgaon,GEN,,35451,INC,Pratibha Narayanrao Patil,19524,CPI,Sadashiv Narayan Bhalerao,8043,11481,32.39
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,156,Bhusaval,GEN,,36429,INC,Dattatraya Senu Bhirud,18807,PSP,Vithal Kamji Choudhari,9058,9749,26.76
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,157,Yawal,GEN,,36896,INC,Ramabai Narayan Deshpande,15809,PSP,Ganpat Bhavadu Mahajan,15246,563,1.53
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,158,Raver,GEN,,48306,INC,Mahukar Dhanaji Chaudhari,28848,PSP,Gajananrao Raghunathrao Garud,18169,10679,22.11
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,159,Edlabad,SC,,37510,INC,Hiralal Indal Kalyani,24014,REP,Bhalerao Trambak Senu,7666,16348,43.58
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,160,Chikhli,GEN,,61442,INC,Santoshrao Narayan Patil,34254,BJS,Keshaorao Jayawantrao,18154,16100,26.2
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,161,Buldana,GEN,,44108,INC,Indirabai Ramrao Kotambkar,18266,BJS,Damodhar Zipra Varhade,9465,8801,19.95
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,162,Malkapur,GEN,,52019,INC,Bhiku Phakim Patil,22808,BJS,Waman Tukaram Naphade,15281,7527,14.47
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,163,Jalamb,GEN,,53670,PWP,Kashirao Raibhan Patil,25207,INC,Tulsiram Pandhari Dhokne,21774,3433,6.4
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,164,Khamgaon,GEN,,59601,INC,Govinddas Fatanlal Bhatiya,33288,IND,Tukaram Ganpat Khumkar,21319,11969,20.08
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,165,Mehkar,GEN,,50216,INC,Annasaheb Deshmukh Alias Shankarrao,25957,IND,Kisan Tukaram Sangle,18803,7154,14.25
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,166,Janefal,SC,,34874,INC,Balwanta Piraji Wankhede,16920,BJS,Mahadu Yeshwanta Bhalerao,7369,9551,27.39
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,167,Washim,GEN,,43485,INC,Ramrao Gopalrao Zanak,26891,IND,Dattatraya Krishnarao Abooj,7832,19059,43.83
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,168,Gowardhan,SC,,25537,INC,Rambahau Chinkaji Salve,10206,REP,Kachruji Muadhaji Jumde,6388,3818,14.95
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,169,Mangrulpir,GEN,,37179,INC,Shanta Raghunath Page,18055,IND,Tukaram Marotrao Nikam,12552,5503,14.8
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,170,Murtajapur,GEN,,50019,INC,Kusumtai Wamanrao Korpe,30177,REP,Pandurang Goturam Athawale,9908,20269,40.52
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,171,Borgaon,SC,,45975,INC,Dagad Zangoji Palaspagar,26786,REP,Shriram Daulat Gawai,12857,13929,30.3
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,172,Akola,GEN,,41382,INC,Madhusudhan Atmaram Vairale,18452,BJS,Harihar Krishnarao Puradu Pandhya,9258,9194,22.22
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,173,Balapur,GEN,,46317,IND,Shriram Haribhau Mankar,25173,INC,Kazi Syed Gayasuddin Syed Nasiruddin,19561,5612,12.12
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,174,Akot,GEN,,58120,INC,Gopalrao Bajirao Khedkar,26603,PWP,Devidas Moriti Korale,13967,12636,21.74
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,175,Daryapur,GEN,,58989,REP,Jagannath Deorao Patil,32181,INC,Narayanrao Uttamrao Deshmukh,25208,6973,11.82
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,176,Ashti,SC,,51995,INC,Ramdas Gangaramji Sonone,24396,REP,Krishnarao Bhanuji Shrungare,22833,1563,3.01
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,177,Melghat,GEN,,53064,IND,Mamraj Jagannath Khandelwal,29403,INC,Girjabai W/O Shanharrao Watane,23661,5742,10.82
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,178,Amravati,GEN,,53321,INC,Umerlalji Mathuradas Kedia,27838,IND,Gopal Dattatraya Kaloti,20878,6960,13.05
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,179,Badnera,GEN,,51731,INC,Purushottam Kashirao Deshmukh,21025,REP,Sukhadeorao Phagoji Tidke,15941,5084,9.83
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,180,Chandur,GEN,,60688,INC,Bhaurao Gulabrao Jadhao,31025,CPI,Wamanrao Deshmukh Alias Sudan Dattatraya,19052,11973,19.73
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,181,Achalpur,GEN,,59744,IND,Amasaheb Sadashivrao Watene,30184,INC,Krishnarao Gulabrao Deshmukh,28056,2128,3.56
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,182,Morsi,GEN,,60462,IND,Partapsinh Shankarrao,35464,INC,Laxmanrao Raghunathrao Tarar,21677,13787,22.8
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,183,Katol,GEN,,53924,INC,Shankarrao Daulatrao Gedam,25511,IND,Jiwanlal Sawangidas Chandak,25101,410,0.76
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,184,Kalameshwar,GEN,,50856,INC,Wheshrao Krishnarao Wankhede,26054,IND,Indubhushan Bhagwantrao Bhingare,16467,9587,18.85
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,185,Saoner,GEN,,41339,INC,Narendera Mahipati Tidke,21413,IND,Ramji Chimnaji Naik,9771,11642,28.16
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,186,Ramtek,GEN,,34169,INC,Pathan Mohammad Abdullakhan,11840,IND,Vishnu Mahadeo Dhoble,8283,3557,10.41
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,187,Nagpur I,GEN,,66069,IND,Vinayak Sakharam Dandekar,30643,INC,Maangopal Jodharaj Agarwal,15191,15452,23.39
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,188,Nagpur I I,GEN,,61499,IND,Dhondbaji Dashrath Hadav,33176,INC,Pratapsinhrao Laxmanrao Bhonsle,16175,17001,27.64
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,189,Nagpur,GEN,,43473,INC,Shusilabai Balraj,12859,CPI,Ardhendu Bhushan Hemendra Kumar Bardhan,12701,158,0.36
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,190,Nagpur I I I,SC,,61035,REP,D. P. Meshram,22353,IND,Panjabrao Hukum Shambhakar,19428,2925,4.79
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,191,Umrer,GEN,,41032,INC,Damu Sadashiv Tarnekar,13428,IND,Rajaram Laxman Mahale,7398,6030,14.7
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,192,Kamptee,SC,,47275,INC,Anantram Dayal Choudhari,20036,REP,Bhalchandra Haribhau Sontakhe,14986,5050,10.68
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,193,Bhandara,GEN,,42357,INC,Dada Da Jibaji Dhote,17855,REP,Sadanand Mangalram Ramteke,11364,6491,15.32
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,194,Adyar,SC,,38947,REP,Aba Dhondu Gosawi,15791,INC,Prabhavatibai Kashinath Gajabhiye,15583,208,0.53
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,195,Tumsar,GEN,,43130,INC,Ram Bakaramji Lanjewar,15453,PWP,Kesjaprap Losamrap Kawale,11040,4413,10.23
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,196,Tirora,GEN,,47487,INC,Shgaligram Ramratan Dixit,18425,REP,Narayan Hari Kjumbhare,15564,2861,6.02
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,197,Gondi,GEN,,49431,INC,Nanoharbhai Bababhai Patel,24118,PSP,Gopalnarayan Shivavinayak Bajpayee,22355,1763,3.57
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,198,Goregaon,GEN,,38068,PSP,Puranlal Dharmabhan Rahangdale,19271,INC,Pannalal Biharilal Dube,15303,3968,10.42
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,199,Amgaon,GEN,,26056,PSP,Narayan Mohani Bahekar,9631,BJS,Laxman Bisan Mankar,5260,4371,16.78
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,200,Sakoli,GEN,,53159,INC,Adkuji Sonuji Paulsagade,18535,BJS,Shamrao Paga Kapgate,14324,4211,7.92
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,201,Sadak Arjuni,SC,,36156,INC,Shrawan Mangruji Kanhekar,13111,REP,Maroti Waktu Sahkare,12224,887,2.45
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,202,Bhadrawati,GEN,,50904,INC,Ramchandra Janardhan Deotale,24414,PSP,Vithal Rao Laxman Rao Deotale,22604,1810,3.56
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,203,Chimur,GEN,,47514,INC,Marotrao Damodhar Tumpalliwar,23479,BJS,Balaji Deorao Borkar,9024,14455,30.42
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,204,Brahmapuri,SC,,39388,INC,Govinda Bijaji Meshram,23114,REP,Namdeorao Vishnuji Nagdovate,12419,10695,27.15
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,205,Armori,GEN,,38192,INC,Mhashakhetri Jagannath Temsaji,23500,REP,Kosare Hiraman Lahanu,14692,8808,23.06
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,206,Sironcha,GEN,,38531,IND,Vishweshwarrao Dharmarrao Atram,24955,INC,Murli Manoharrao Sriniwas Venkat,6915,18040,46.82
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,207,Dhanora,ST,,29450,IND,Raja Fatelalshah Rajaranshah Sayam,18466,PSP,Narayansinh Sampatsinh Weakey,7751,10715,36.38
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,208,Saoli,GEN,,46664,INC,Marotrao Sambashio Kannamwar,23696,IND,Damodhar Laxman Kale,22968,728,1.56
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,209,Rajura,GEN,,51882,INC,Vithalrao Laxmanrao Dhote,22818,IND,Yadaorao Ramchandrarao Dhote,22745,73,0.14
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,210,Chanda,GEN,,45279,IND,Ramchandrarao Rajeshwarrao Ptdukhe,21708,INC,Lanmanrao Krishnaji Wasekar,14099,7609,16.8
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,211,Hinganghat,GEN,,65240,IND,Vinayak Madhaorao Chaudhary,37523,INC,Keshaorao Motiram Zade,24847,12676,19.43
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,212,Wardha,GEN,,47047,INC,Bapuraoji Marotrao Deshmukh,22275,CPI,Ramchandra Marotrao Ghangare,11579,10696,22.73
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,213,Pulgaon,SC,,48242,INC,Shankarrao Vithlrao Sonawane,20621,REP,Dharmdas Sakharam,16044,4577,9.49
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,214,Arvi,GEN,,67143,IND,Narayanrao Rajeramji Kale,26337,INC,Mahadeo Tukaram Thakre,25156,1181,1.76
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,215,Wani,GEN,,46611,INC,Vithalrao Yeshwantrao Gohokar,27514,CPI,Namdeo Narayan Kale,13287,14227,30.52
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,216,Yelabara,ST,,39758,INC,Mahadeo Baliram Khandate,26975,IND,Sukhdeo Pundlik Wooike,10272,16703,42.01
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,217,Kelapur,GEN,,45467,INC,Tryambak Dattatraya Deshmukh,25324,IND,Prayagrao Bajirao Deshmukh,16479,8845,19.45
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,218,Yeotmal,GEN,,43777,IND,Jambuwantrao Bapuraoji Dhote,19137,INC,Chhabutai Uttamrao Dahake,18128,1009,2.3
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,219,Darwha,GEN,,50320,INC,Ali Hasan Jiwabhai Mamdani,27582,IND,Hanawantgir Mahadeogir,11701,15881,31.56
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,220,Digras,GEN,,53574,INC,Madhaorao Baburao Mahindre,24660,PWP,Govindrao Punjaji Buchake,22668,1992,3.72
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,221,Pusad,GEN,,59917,INC,Vasantrao Phulsing Naik,36946,IND,Nalinibai Godhajirao Mukhare,19402,17544,29.28
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,222,Umerkhed,SC,,44068,INC,Ramchandra Namdeo Shingankar,27748,IND,Vishwasrao Sukaji Kambale,9653,18095,41.06
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,223,Kinwat,GEN,,45897,INC,Uttamrao Baliram,30368,PWP,Vithalrao Raghoji,15529,14839,32.33
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,224,Hadgaon,GEN,,44648,INC,Bhimrao Keshavrao,21742,CPI,Nagorao Hanmantrao,13246,8496,19.03
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,225,Nanded,GEN,,41451,INC,S. Farook Pasha S. Makhdum Pasha,23929,CPI,Vithal Rao Devidas Rao,12620,11309,27.28
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,226,Dharmabad,GEN,,39147,INC,Shankarrao Bhaurao,25065,IND,Konbderao Manoharrao,10366,14699,37.55
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,227,Biloli,GEN,,37354,INC,Venkat Rao Baba Rao,21077,PSP,Shivraya Bhim Rao,9867,11210,30.01
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,228,Mukhed,SC,,29313,INC,Peraji Satwaji Sabne,19652,REP,Laxaya Maraya,4836,14816,50.54
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,229,Kandhar,GEN,,30763,PWP,Keshavrao Shankerrao,17611,INC,Sahebrao Sakoji,10493,7118,23.14
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,230,Ahmadpur,GEN,,42699,INC,Mahalingappa Alias Appasaheb Baslingappa,25068,CPI,Vithalrao Balkrishnarao,17631,7437,17.42
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,231,Udgir,SC,,30779,INC,Vithalrao Bapurao,21494,REP,Kisan Sakharam,7616,13878,45.09
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,232,Nilanga,GEN,,57881,INC,Shivajirao Bhaurao Patil,33125,PWP,Sripatrao Gayanurao,24756,8369,14.46
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,233,Latur,GEN,,40329,INC,Keshavrao Sitaram Sonwane,23049,IND,Ramchandra Govind,14036,9013,22.35
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,234,Ausa,GEN,,50168,PWP,Mallanath Gundanath,25296,INC,Devisingh Vanetsingh Chauhan,24872,424,0.85
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,235,Omerga,GEN,,40884,PWP,Vijaysing Shivram,18722,INC,Tatayarao Madhavrao,17846,876,2.14
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,236,Tuljapur,GEN,,37318,INC,Sahebrao Dadarao,20095,PWP,Devidas Nagoba,15404,4691,12.57
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,237,Osmanabad,GEN,,36085,INC,Vishwasrao Ganpatrao,17500,PWP,Narsingrao Balbhimrao,16490,1010,2.8
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,238,Parenda,GEN,,38021,PWP,Krishnaji Bajirao,16085,INC,Tarabai Mansinghrao,14188,1897,4.99
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,239,Kallam,SC,,29877,INC,Pralhadrao Sopan,14643,REP,Vithal Limbaji,12633,2010,6.73
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,240,Ashti,GEN,,35361,INC,Bhausaheb Kashinath,22638,CPI,Eknath Baburao,10960,11678,33.03
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,241,Bhir,GEN,,35855,CPI,Kashinath Tatyaba,18609,INC,Shantabai Ratanlal,13186,5423,15.12
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,242,Georai,GEN,,26868,INC,Sayajirao Trayambakrao,13408,CPI,Shivajirao Trimbakrao,12329,1079,4.02
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,243,Manjlegaon,GEN,,25499,INC,Sripad Rao Kadam,13881,CPI,Gangadharappa Burande,11618,2263,8.87
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,244,Chausala,GEN,,24892,INC,Bhaurao Bhagujirao,14113,PWP,Baburao Narsing Rao,8167,5946,23.89
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,245,Kaij,SC,,19674,INC,Govind Rao Gaikwad,11843,REP,Babu Rao Abarao,4171,7672,39.0
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,246,Renapur,GEN,,32048,CPI,Ganpathi Anna,18779,INC,Wamanrao Deshmukh,13269,5510,17.19
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,247,Pathri,GEN,,30578,PWP,Babarao Sopan,13758,INC,Sakhram Gopalrao,13616,142,0.46
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,248,Gangakhed,SC,,22487,INC,Devrao Mandeo,13637,REP,Trimbak Marothi,7868,5769,25.65
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,249,Parbhani,GEN,,33570,PWP,Sheshrao Apparao,17215,INC,Ambadasrao Ganeshrao,13179,4036,12.02
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,250,Basmath,GEN,,23501,INC,Rangrao Parashram,14847,PWP,Kamaji Jalbaji,5034,9813,41.76
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,251,Hingoli,GEN,,37955,INC,Narayan Rao Limbaji Rao,19892,PSP,Chandrakant Ramkrishna Patil,9012,10880,28.67
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,252,Kalamnuri,SC,,27999,INC,Surajmal Marauam,16663,IND,Pandit Badrinath,7831,8832,31.54
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,253,Partur,GEN,,29888,INC,Bhagwanrao Daulatrao,16032,PWP,Ankushrao Venkatrao Ghare,11923,4109,13.75
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,254,Jintur,GEN,,29125,INC,Wamanrao Anandrao,14097,PWP,Hariharrao Anandrao,8818,5279,18.13
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,255,Ambad,GEN,,21589,INC,Nanasaheb Sawalaram,10838,CPI,Jagannath Alias Jaiwant S/O Kundalik Rao,6405,4433,20.53
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,256,Jalna,GEN,,19248,INC,Dattatray Rao Khanderao Deshpande,11524,IND,Bhanudas Gangaram,4239,7285,37.85
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,257,Badnapur,SC,,25216,INC,Dhakaleshwar Makaji,16357,REP,T. G. Kharat,8859,7498,29.74
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,258,Bhokerdan,GEN,,51610,PWP,Bhaurao Narsingrao,32161,INC,Bhagwantrao Gambhirrao,15899,16262,31.51
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,259,Aurangabad,GEN,,33580,INC,Zakaria Rafiq Balumiya,18767,IND,Govinddas Mannulal,14813,3954,11.77
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,260,Paithan,GEN,,28465,INC,Kalyanrao Pandhorinath,16980,PSP,Kashinath (Babanrao ) Pralhadrao Kulkarni,8293,8687,30.52
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,261,Gangapur,GEN,,34221,INC,Yamajirao Mhatarrao,20600,CPI,Baburao Dattatraya,10590,10010,29.25
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,262,Vaijapur,GEN,,36582,INC,Girjabai Machhindranath,23830,PSP,Kishore Pawar Rameshwar Pawar,10659,13171,36.0
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,263,Kannad,GEN,,40978,INC,Kakasaheb Bhikanrao,21926,PSP,Kanhiram Gurudayal,6959,14967,36.52
+ae-maharashtra-1962,AE,Maharashtra,1962,1962,official,264,Sillod,GEN,,38623,INC,Baburao Janglu,26171,CPI,Karuna Chandragupta,9191,16980,43.96

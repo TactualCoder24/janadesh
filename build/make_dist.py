@@ -16,7 +16,7 @@ def run(script):
     if r.returncode: print(r.stderr); sys.exit(r.returncode)
 
 run('assemble.py')
-for extra in ['derive_home.py', 'make_search.py']:
+for extra in ['fix_independents.py', 'derive_home.py', 'make_search.py', 'derive_stats.py', 'make_opendata.py']:
     if os.path.exists(os.path.join(HERE, extra)): run(extra)
 
 if '--single' in sys.argv:

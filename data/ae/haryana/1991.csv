@@ -1,0 +1,91 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-haryana-1991,AE,Haryana,1991,1991,official,1,Kalka,GEN,,89873,INC,Purush Bhan,29025,HVP,Lachhman Singh,24034,4991,5.55
+ae-haryana-1991,AE,Haryana,1991,1991,official,2,Naraingarh,GEN,,68668,BSP,Surjeet Kumar,15407,INC,Ashok Kumar,10869,4538,6.61
+ae-haryana-1991,AE,Haryana,1991,1991,official,3,Sadhaura,SC,,74397,IND,Sher Singh,20159,JP,Ramji Lal,16786,3373,4.53
+ae-haryana-1991,AE,Haryana,1991,1991,official,4,Chhachhrauli,GEN,,71363,INC,Mohamad Aslam Khan,16916,BSP,Aman Kumar,16623,293,0.41
+ae-haryana-1991,AE,Haryana,1991,1991,official,5,Yamunanagar,GEN,,76197,INC,Rajesh Kumar,25885,BJP,Kamla Verma,20699,5186,6.81
+ae-haryana-1991,AE,Haryana,1991,1991,official,6,Jagadhri,GEN,,73791,HVP,Om Prakash Sharma,17316,BSP,Vishan Lal Saini,15671,1645,2.23
+ae-haryana-1991,AE,Haryana,1991,1991,official,7,Mullana,SC,,68227,INC,Phool Chand Mullana,23961,HVP,Faqir Chand,13254,10707,15.69
+ae-haryana-1991,AE,Haryana,1991,1991,official,8,Ambala Cantonment,GEN,,49912,INC,Brij Anand,27377,BJP,Anil Kumar,19360,8017,16.06
+ae-haryana-1991,AE,Haryana,1991,1991,official,9,Ambala City,GEN,,62241,INC,Sumer Chand Bhatt,20489,BJP,Faqir Chand Aggarwal,19388,1101,1.77
+ae-haryana-1991,AE,Haryana,1991,1991,official,10,Naggal,GEN,,71224,INC,Nirmal Singh,31407,JP,Gurbax Singh,20902,10505,14.75
+ae-haryana-1991,AE,Haryana,1991,1991,official,11,Indri,GEN,,73970,HVP,Janki Devi,13917,IND,Bhim Sain,13461,456,0.62
+ae-haryana-1991,AE,Haryana,1991,1991,official,12,Nilokheri,GEN,,69614,IND,Jai Singh,24099,JP,Ishwar Singh,11280,12819,18.41
+ae-haryana-1991,AE,Haryana,1991,1991,official,13,Karnal,GEN,,70660,INC,Jai Parkash,36485,BJP,Chetan Dass,16798,19687,27.86
+ae-haryana-1991,AE,Haryana,1991,1991,official,14,Jundla,SC,,60215,INC,Raj Kumar S/O Dass Ram,16511,JP,Nafe Singh,13947,2564,4.26
+ae-haryana-1991,AE,Haryana,1991,1991,official,15,Gharaunda,GEN,,69724,INC,Ram Pal Singh S/O Basant Singh,19466,BJP,Om Parkash,9692,9774,14.02
+ae-haryana-1991,AE,Haryana,1991,1991,official,16,Assandh,SC,,60144,JP,Krishan Lal,25144,INC,Karam Chand,17030,8114,13.49
+ae-haryana-1991,AE,Haryana,1991,1991,official,17,Panipat,GEN,,81340,INC,Balbir Paul Sahah,32745,IND,Om Parkash,24504,8241,10.13
+ae-haryana-1991,AE,Haryana,1991,1991,official,18,Sambhalka,GEN,,70625,JD,Hari Singh,24225,INC,Katar Singh,22479,1746,2.47
+ae-haryana-1991,AE,Haryana,1991,1991,official,19,Naultha,GEN,,65341,JP,Satbir Singh Kadyan,24582,INC,Satyabir Singh Malik,23634,948,1.45
+ae-haryana-1991,AE,Haryana,1991,1991,official,20,Shahabad,GEN,,69614,BJP,Kharaiti Lal,18165,JP,Onkar Singh,17524,641,0.92
+ae-haryana-1991,AE,Haryana,1991,1991,official,21,Radaur,SC,,65167,HVP,Lehri Singh,21645,JP,Banta Ram,19321,2324,3.57
+ae-haryana-1991,AE,Haryana,1991,1991,official,22,Thanesar,GEN,,72722,INC,Ram Parkash,24471,JP,Ashok Kumar,18458,6013,8.27
+ae-haryana-1991,AE,Haryana,1991,1991,official,23,Pehowa,GEN,,75861,JP,Jaswinder Singh,23236,IND,Balbir Singh,17344,5892,7.77
+ae-haryana-1991,AE,Haryana,1991,1991,official,24,Guhla,SC,,75242,JP,Amar Singh,34990,INC,Dillu Ram,31760,3230,4.29
+ae-haryana-1991,AE,Haryana,1991,1991,official,25,Kaithal,GEN,,66368,INC,Surender Kumar,17190,HVP,Charan Das,16753,437,0.66
+ae-haryana-1991,AE,Haryana,1991,1991,official,26,Pundri,GEN,,68206,INC,Ishwar S/O Sind Ram,22660,JP,Makhan Singh,14476,8184,12.0
+ae-haryana-1991,AE,Haryana,1991,1991,official,27,Pai,GEN,,64423,INC,Tejrndra Pal,26752,JP,Nar Singh,15904,10848,16.84
+ae-haryana-1991,AE,Haryana,1991,1991,official,28,Hassangarh,GEN,,56909,JP,Balwant Singh,27929,INC,Virendra Kumar,23100,4829,8.49
+ae-haryana-1991,AE,Haryana,1991,1991,official,29,Kiloi,GEN,,60580,INC,Krishan Murti,27265,JP,Shri Krishan,24038,3227,5.33
+ae-haryana-1991,AE,Haryana,1991,1991,official,30,Rohtak,GEN,,75590,INC,Subhash Chander,26398,HVP,Shrikishan Dass,23791,2607,3.45
+ae-haryana-1991,AE,Haryana,1991,1991,official,31,Meham,GEN,,68407,INC,Anand Singh,43608,JP,Sube Singh,17259,26349,38.52
+ae-haryana-1991,AE,Haryana,1991,1991,official,32,Kalanaur,SC,,53062,INC,Kartar Devi,26194,JP,Hardul,15859,10335,19.48
+ae-haryana-1991,AE,Haryana,1991,1991,official,33,Beri,GEN,,58489,INC,Om Parkash,25077,JP,Virender Pal,19521,5556,9.5
+ae-haryana-1991,AE,Haryana,1991,1991,official,34,Salhawas,GEN,,59718,JP,Zile Singh,18448,INC,Narvir Singh,17807,641,1.07
+ae-haryana-1991,AE,Haryana,1991,1991,official,35,Jhajjar,SC,,58987,JP,Daryao Singh,22305,INC,Banarasi Dass,20335,1970,3.34
+ae-haryana-1991,AE,Haryana,1991,1991,official,36,Badli,GEN,,56836,JP,Dhirpal Singh,29284,HVP,Manphool Singh,16908,12376,21.77
+ae-haryana-1991,AE,Haryana,1991,1991,official,37,Bahadurgarh,GEN,,67819,INC,Suraj Mal,20956,JP,Kaptan Chait Ram,17583,3373,4.97
+ae-haryana-1991,AE,Haryana,1991,1991,official,38,Baroda,SC,,58448,JP,Ramesh Kumar,31133,INC,Ram Dhari,20297,10836,18.54
+ae-haryana-1991,AE,Haryana,1991,1991,official,39,Gohana,GEN,,70624,IND,Kitab Singh,27057,INC,Ram Dhari,18349,8708,12.33
+ae-haryana-1991,AE,Haryana,1991,1991,official,40,Kailana,GEN,,68219,INC,Shanti Devi,30782,JP,Bed Singh Malik,22609,8173,11.98
+ae-haryana-1991,AE,Haryana,1991,1991,official,41,Sonepat,GEN,,69122,INC,Sham Dass,25623,JP,Satender,17023,8600,12.44
+ae-haryana-1991,AE,Haryana,1991,1991,official,42,Rai,GEN,,64710,JP,Jaipal,21195,INC,Jaswant Singh,20598,597,0.92
+ae-haryana-1991,AE,Haryana,1991,1991,official,43,Rohat,GEN,,54692,INC,Hukam Singh,19834,JP,Mohinder Singh,19796,38,0.07
+ae-haryana-1991,AE,Haryana,1991,1991,official,44,Kalayat,SC,,55360,JP,Bharath Singh,20049,INC,Jogi Ram S/O Datu Ram,17117,2932,5.3
+ae-haryana-1991,AE,Haryana,1991,1991,official,45,Narwana,GEN,,68176,INC,Shamsher Singh S/O Ganga Singh,23445,HVP,Gauri Shanker,16284,7161,10.5
+ae-haryana-1991,AE,Haryana,1991,1991,official,46,Uchana Kalan,GEN,,70646,INC,Virendar Singh,31937,JP,Des Raj,23093,8844,12.52
+ae-haryana-1991,AE,Haryana,1991,1991,official,47,Rajond,GEN,,56330,JP,Ram Kumar Katwal,20864,INC,Satvinder Singh,18245,2619,4.65
+ae-haryana-1991,AE,Haryana,1991,1991,official,48,Jind,GEN,,74294,INC,Mange Ram Gupta,35346,JP,Tek Ram S/O Jug Lal,19213,16133,21.72
+ae-haryana-1991,AE,Haryana,1991,1991,official,49,Julana,GEN,,61786,JP,Suraj Bhan,16157,INC,Parmender Singh,13154,3003,4.86
+ae-haryana-1991,AE,Haryana,1991,1991,official,50,Safidon,GEN,,68633,INC,Bachan Singh,22030,JP,Ram Phal,19433,2597,3.78
+ae-haryana-1991,AE,Haryana,1991,1991,official,51,Faridabad,GEN,,98931,INC,A. C. Chaudhary,45896,BJP,Chander Bhatia,23006,22890,23.14
+ae-haryana-1991,AE,Haryana,1991,1991,official,52,Mewla Maharajpur,GEN,,102406,INC,Mahender Pratap Singh,51775,HVP,Gajraj Bahadur,22341,29434,28.74
+ae-haryana-1991,AE,Haryana,1991,1991,official,53,Ballabgarh,GEN,,80500,INC,Rajinder Singh Bisla,32225,BJP,Anand Kumar Sharma,18632,13593,16.89
+ae-haryana-1991,AE,Haryana,1991,1991,official,54,Palwal,GEN,,71975,HVP,Karan Singh Dalal,27882,INC,Nitya Nand Sharma,18008,9874,13.72
+ae-haryana-1991,AE,Haryana,1991,1991,official,55,Hasanpur,SC,,67271,INC,Ram Rattan,24962,JP,Udai Bhan,24127,835,1.24
+ae-haryana-1991,AE,Haryana,1991,1991,official,56,Hathin,GEN,,64375,INC,Ajmat Khan,18250,JD,Bhagwan Saye,15334,2916,4.53
+ae-haryana-1991,AE,Haryana,1991,1991,official,57,Ferozepur Jhirka,GEN,,69826,INC,Shakrulla Khan,22661,JD,Ishaq,19184,3477,4.98
+ae-haryana-1991,AE,Haryana,1991,1991,official,58,Nuh,GEN,,60669,INC,Mohammad Iliyas,17274,IND,Hamid Hussain,13031,4243,6.99
+ae-haryana-1991,AE,Haryana,1991,1991,official,59,Taoru,GEN,,73117,IND,Zakir Hussain,28513,BJP,Suraj Pal Singh,22613,5900,8.07
+ae-haryana-1991,AE,Haryana,1991,1991,official,60,Sohna,GEN,,72974,INC,Dharam Pal,34047,JP,Aridaman Singh,16703,17344,23.77
+ae-haryana-1991,AE,Haryana,1991,1991,official,61,Gurgaon,GEN,,83844,INC,Dharambir S/O Pannu Ram,37081,IND,Gopi Chand,17879,19202,22.9
+ae-haryana-1991,AE,Haryana,1991,1991,official,62,Pataudi,SC,,61399,JP,Mohan Lal,21566,HVP,Narain Singh S/O Bichhla Ram,17004,4562,7.43
+ae-haryana-1991,AE,Haryana,1991,1991,official,63,Badhra,GEN,,61424,HVP,Attar Singh S/O Lok Ram,29250,JP,Dalbir,13480,15770,25.67
+ae-haryana-1991,AE,Haryana,1991,1991,official,64,Dadri,GEN,,62807,HVP,Daharampal Singh,20918,INC,Jagjeet Singh,20838,80,0.13
+ae-haryana-1991,AE,Haryana,1991,1991,official,65,Mundhal Khurd,GEN,,58271,HVP,Chhatter Singh Chauhan,26965,INC,Bir Singh,17006,9959,17.09
+ae-haryana-1991,AE,Haryana,1991,1991,official,66,Bhiwani,GEN,,62330,HVP,Ram Bhajan,29390,IND,Shiv Kumar S/O Kadar Nath,8472,20918,33.56
+ae-haryana-1991,AE,Haryana,1991,1991,official,67,Tosham,GEN,,69463,HVP,Bansi Lal,38272,INC,Dharambir,25507,12765,18.38
+ae-haryana-1991,AE,Haryana,1991,1991,official,68,Loharu,GEN,,60742,JD,Chandrawati,23953,JP,Sohanlal,11462,12491,20.56
+ae-haryana-1991,AE,Haryana,1991,1991,official,69,Bawani Khera,SC,,60023,HVP,Amar Singh,21869,JP,Jagan Nath,14892,6977,11.62
+ae-haryana-1991,AE,Haryana,1991,1991,official,70,Barwala,GEN,,71016,INC,Jogender Singh,30099,JD,Surender,19474,10625,14.96
+ae-haryana-1991,AE,Haryana,1991,1991,official,71,Narnaund,GEN,,62356,JD,Verender Singh,20011,INC,Jaswant Singh,19973,38,0.06
+ae-haryana-1991,AE,Haryana,1991,1991,official,72,Hansi,GEN,,67420,IND,Amir Chand,19689,JP,Attar Singh,11690,7999,11.86
+ae-haryana-1991,AE,Haryana,1991,1991,official,73,Bhattu Kalan,GEN,,68528,JP,Sampat Singh,25004,HVP,Mani Ram Godara,22330,2674,3.9
+ae-haryana-1991,AE,Haryana,1991,1991,official,74,Hissar,GEN,,79631,HVP,Om Parkash Jindal,37909,INC,Om Parkash Mahajan,33792,4117,5.17
+ae-haryana-1991,AE,Haryana,1991,1991,official,75,Ghirai,GEN,,68068,INC,Chhatarpal Singh,29927,JP,Devi Lal,27773,2154,3.16
+ae-haryana-1991,AE,Haryana,1991,1991,official,76,Tohana,GEN,,73707,INC,Harpal Singh,22279,IND,Vinod Kumar,19488,2791,3.79
+ae-haryana-1991,AE,Haryana,1991,1991,official,77,Ratia,SC,,63819,HVP,Pir Chand,13255,BJP,Ramswaroop S/O Sathu Singh,11988,1267,1.99
+ae-haryana-1991,AE,Haryana,1991,1991,official,78,Fatehabad,GEN,,77080,INC,Lila Krishan,24883,CPI(M),Prithvi Singh Gorkhpuria,19675,5208,6.76
+ae-haryana-1991,AE,Haryana,1991,1991,official,79,Adampur,GEN,,73243,INC,Bhajan Singh,48117,JP,Hari Singh,16521,31596,43.14
+ae-haryana-1991,AE,Haryana,1991,1991,official,80,Darba Kalan,GEN,,76746,JP,Mani Ram,35981,INC,Bharat Singh,29938,6043,7.87
+ae-haryana-1991,AE,Haryana,1991,1991,official,81,Ellenabad,SC,,78228,INC,Mani Ram,39595,JP,Bhagi Ram,25834,13761,17.59
+ae-haryana-1991,AE,Haryana,1991,1991,official,82,Sirsa,GEN,,82278,INC,Lachhman Dass,33102,BJP,Ganeshi Lal,14107,18995,23.09
+ae-haryana-1991,AE,Haryana,1991,1991,official,83,Rori,GEN,,76802,INC,Jagdish Mehra,34902,JP,Hari Singh,25602,9300,12.11
+ae-haryana-1991,AE,Haryana,1991,1991,official,84,Dabwali,SC,,73143,INC,Santosh Chauhan Sarwan,32296,JP,Gain Chand,19637,12659,17.31
+ae-haryana-1991,AE,Haryana,1991,1991,official,85,Bawal,SC,,66708,INC,Shakuntla Bhagwaria,31605,JP,Hargi Ram Bhagotia,21864,9741,14.6
+ae-haryana-1991,AE,Haryana,1991,1991,official,86,Rewari,GEN,,64269,INC,Ajay Singh,33922,HVP,Rajinder Singh,8098,25824,40.18
+ae-haryana-1991,AE,Haryana,1991,1991,official,87,Jatusana,GEN,,71085,INC,Rao Inderjeet Singh,34606,HVP,Jagdish Yadav,19380,15226,21.42
+ae-haryana-1991,AE,Haryana,1991,1991,official,88,Mahendragarh,GEN,,68271,BJP,Ram Bilash,18039,HVP,Dalip Singh,16413,1626,2.38
+ae-haryana-1991,AE,Haryana,1991,1991,official,89,Ateli,GEN,,65319,INC,Bamshi Singh,19343,JP,Ajit Singh,19277,66,0.1
+ae-haryana-1991,AE,Haryana,1991,1991,official,90,Narnaul,GEN,,68557,INC,Phusa Ram,29366,JP,Udmi Ram,11123,18243,26.61

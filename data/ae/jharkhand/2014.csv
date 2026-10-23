@@ -1,0 +1,82 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,1,Rajmahal,GEN,Sahibganj,147198,BJP,Anant Kumar Ojha,58453,JMM,Md. Tajuddin,57923,530,0.36
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,2,Borio,ST,Sahibganj,123252,BJP,Tala Marandi,44851,JMM,Lobin Hembrom,44297,554,0.45
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,3,Barhait,ST,Sahibganj,109707,JMM,Hemant Soren,50663,BJP,Hemlal Murmu,31135,19528,17.8
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,4,Littipara,ST,Pakaur,102723,JMM,Dr. Anil Murmu,47181,BJP,Simon Marandi,29564,17617,17.15
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,5,Pakur,GEN,Sahibganj,182917,INC,Alamgir Alam,64771,JMM,Akil Akhtar,50741,14030,7.67
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,6,Maheshpur,ST,Pakaur,122772,JMM,Stephen Marandi,39594,BJP,Devidhan Tudu,34892,4702,3.83
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,7,Shikaripara,ST,Dumka,116433,JMM,Nalin Soren,48960,JVM,Paritosh Soren,29586,19374,16.64
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,8,Nala,GEN,Jamtara,131367,JMM,Rabindra Nath Mahato,44271,BJP,Satya Nand Jha,38740,5531,4.21
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,9,Jamtara,GEN,Jamtara,145710,INC,Irfan Ansari,51261,BJP,Birendra Mandal,44325,6936,4.76
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,10,Dumka,ST,Dumka,122607,BJP,Louis Marandi,54744,JMM,Hemant Soren,50894,3850,3.14
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,11,Jama,ST,Dumka,105990,JMM,Sita Soren,42184,BJP,Suresh Murmu,40361,1823,1.72
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,12,Jarmundi,GEN,Dumka,125527,INC,Badal Patralekh,36190,JMM,Hari Narayan Ray,33955,2235,1.78
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,13,Madhupur,GEN,Deoghar,159577,BJP,Raj Paliwar,59586,JMM,Hazi Hussain Ansari,54065,5521,3.46
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,14,Sarath,GEN,Deoghar,146658,JVM,Randhir Kumar Singh,49541,BJP,Uday Shankar Singh,38556,10985,7.49
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,15,Deoghar,SC,Deoghar,147360,BJP,Narayan Das,62510,RJD,Suresh Paswan,31830,30680,20.82
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,16,Poreyahat,GEN,Godda,150465,JVM,Pradeep Yadav,53430,BJP,Devendranath Singh,44131,9299,6.18
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,17,Godda,GEN,Godda,151326,BJP,Raghu Nandan Mandal,73711,RJD,Sanjay Prasad Yadav,44550,29161,19.27
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,18,Mahagama,GEN,Godda,152132,BJP,Ashok Kumar,59757,JVM,Shahid Iqbal,33058,26699,17.55
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,19,Kodarma,GEN,Kodarma,159333,BJP,Dr. Neera Yadav,68322,RJD,Annpurna Devi,57440,10882,6.83
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,20,Barkatha,GEN,Kodarma,153626,JVM,Janki Prasad Yadav,49975,BJP,Amit Kumar Yadav,43492,6483,4.22
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,21,Barhi,GEN,Hazaribag,139540,INC,Manoj Yadav,46243,BJP,Umashankar Akela,40578,5665,4.06
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,22,Barkagaon,GEN,Hazaribag,161396,INC,Nirmala Devi,47192,AJSU,Roshan Lal Chaudhary,46886,306,0.19
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,23,Ramgarh,GEN,Hazaribag,168994,AJSU,Chandra Prakash Ch.,82908,INC,Shahzada Anwar,37838,45070,26.67
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,24,Mandu,GEN,Hazaribag,182568,JMM,Jai Prakash Bhai Patel,62767,BJP,Kumar Mahesh Singh,57162,5605,3.07
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,25,Hazaribagh,GEN,Hazaribag,159220,BJP,Manish Jaiswal,70789,IND,Pradip Prasad,49374,21415,13.45
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,26,Simaria,SC,Chatra,142404,JVM,Ganesh Ganjhu,51977,BJP,Sujeet Kumar Bharati,39916,12061,8.47
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,27,Chatra,SC,Chatra,143031,BJP,Jay Prakash Singh,54838,JVM,Satyanand Bhogta,38662,16176,11.31
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,28,Dhanwar,GEN,Giridih,157564,CPIML,Raj Kumar Yadav,45158,JVM,Babulal Marandi,35594,9564,6.07
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,29,Bagodar,GEN,Giridih,161047,BJP,Nagendra Mahto,62760,CPIML,Vinod Kumar Singh,59136,3624,2.25
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,30,Jamua,SC,Giridih,136633,BJP,Kedar Hazra,48258,JVM,Satya Narayan Das,28365,19893,14.56
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,31,Gandey,GEN,Giridih,141735,BJP,Jai Prakash Verma,40962,JMM,Salkhan Soren,32330,8632,6.09
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,32,Giridih,GEN,Giridih,118547,BJP,Nirbhay Shahabadi,45451,JMM,Sudivya Kumar,37591,7860,6.63
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,33,Dumri,GEN,Giridih,107177,JMM,Jagarnath Mahto,48283,BJP,Lalchand Mahto,28177,20106,18.76
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,34,Gomia,GEN,Bokaro,145816,JMM,Yogendra Prasad,80563,BJP,Madhav Lal Singh,49665,30898,21.19
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,35,Bermo,GEN,Bokaro,151724,BJP,Yogeshwar Mahto,65227,INC,Rajendra Prasad Singh,55016,10211,6.73
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,36,Bokaro,GEN,Bokaro,215689,BJP,Biranchi Narayan,93566,IND,Samresh Singh,34122,59444,27.56
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,37,Chandankyari,SC,Bokaro,129949,JVM,Amar Kumar Bauri,66508,AJSU,Umakant Rajak,38764,27744,21.35
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,38,Sindri,GEN,Dhanbad,151731,BJP,Fulchand Mandal,44017,MCC,Anand Mahato,39101,4916,3.24
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,39,Nirsa,GEN,Dhanbad,170289,MCC,,43679,BJP,,42811,868,0.51
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,40,Dhanbad,GEN,Dhanbad,171783,BJP,Raj Sinha,99926,INC,Mannan Mallick,59832,40094,23.34
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,41,Jharia,GEN,Dhanbad,131128,BJP,Sanjeev Singh,63126,INC,Niraj Singh,34408,28718,21.9
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,42,Tundi,GEN,Dhanbad,146453,AJSU,Raj Kishore Mahato,46001,JMM,Mathura Prasad Mahato,45078,923,0.63
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,43,Baghmara,GEN,Dhanbad,149825,BJP,Dulu Mahato,77385,JDU,Jaleshwar Mahato,50926,26459,17.66
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,44,Baharagora,GEN,Purbi Singhbhum,148655,JMM,Kunal Sarangi,53188,BJP,Dineshananda Goswami,39096,14092,9.48
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,45,Ghatsila,ST,Purbi Singhbhum,137127,BJP,Laxman Tudu,44539,JMM,Ramdas Soren,39109,5430,3.96
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,46,Potka,ST,Purbi Singhbhum,142941,BJP,Maneka Sardar,52445,JMM,Sanjib Sardar,47285,5160,3.61
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,47,Jugsalai,SC,Purbi Singhbhum,161724,AJSU,Ram Chandra Sahis,65142,JMM,Mangal Kalindi,45315,19827,12.26
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,48,Jamshedpur East,GEN,Purbi Singhbhum,120771,BJP,Raghubar Das,74250,INC,Anand Bihari Dubey,23889,50361,41.7
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,49,Jamshedpur West,GEN,Purbi Singhbhum,132837,BJP,Saryu Roy,66233,INC,Banna Gupta,58926,7307,5.5
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,50,Ichagarh,GEN,Saraikela,153195,BJP,Sadhu Charan Mahato,65338,JMM,Sabita Mahato,28831,36507,23.83
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,51,Saraikella,ST,Saraikela,161218,JMM,Champai Soren,73193,BJP,Ganesh Mahali,72323,870,0.54
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,52,Chaibasa,ST,Pachim Singhbhum,111367,JMM,Deepak Birua,54236,BJP,Jyoti Bhramar Tubid,26873,27363,24.57
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,53,Majhganon,ST,Pachim Singhbhum,104645,JMM,Niral Purty,36908,JBSP,Madhu Kora,27794,9114,8.71
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,54,Jaganathpur,ST,Pachim Singhbhum,88811,JBSP,Geeta Kora,38047,BJP,Mangal Singh Suren,18757,19290,21.72
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,55,Manoharpur,ST,Pachim Singhbhum,105057,JMM,Joba Manjhi,47443,BJP,Gurucharan Nayak,33786,13657,13.0
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,56,Chakradharpur,ST,Pachim Singhbhum,103704,JMM,Shashibhushan Samad,54320,BJP,Navami Oraon,32003,22317,21.52
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,57,Kharasawan,ST,Saraikela,121124,JMM,Dashrath Gagrai,59533,BJP,Arjun Munda,49649,9884,8.16
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,58,Tamar,ST,Ranchi,96505,AJSU,Vikash Kumar Munda,41372,IND,Gopal Krishna Patar,22640,18732,19.41
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,59,Torpa,ST,Ranchi,91616,JMM,Paulus Surin,28191,BJP,Koche Munda,28154,37,0.04
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,60,Khunti,ST,Ranchi,102778,BJP,Nilkanth Singh Munda,40340,JMM,Jidan Horo,21892,18448,17.95
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,61,Silli,GEN,Ranchi,126684,JMM,Amit Mahto,70576,AJSU,Sudesh Mahto,44251,26325,20.78
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,62,Khijri,ST,Ranchi,155096,BJP,Ramkumar Pahan,81395,INC,Sundri Devi,25529,55866,36.02
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,63,Ranchi,GEN,Ranchi,125798,BJP,C. P. Singh,80989,JMM,Mahua Maji,31210,49779,39.57
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,64,Hatia,GEN,Ranchi,162389,JVM,Navin Jaiswal,65686,BJP,Seema Sharma,59710,5976,3.68
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,65,Kanke,SC,Ranchi,156327,BJP,Dr. Jitu Charan Ram,87122,INC,Suresh Kumar Baitha,42083,45039,28.81
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,66,Mandar,ST,Ranchi,167409,BJP,Gangotri Kujur,47711,AITC,Bandhu Tirkey,41015,6696,4.0
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,67,Sisai,ST,Gumla,123534,BJP,Dinesh Oraon,38320,JMM,Jiga Susaran Horo,36084,2236,1.81
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,68,Gumla,ST,Gumla,111739,BJP,Shivshankar Oraon,43455,JMM,Bhushan Tirkey,39980,3475,3.11
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,69,Bishunpur,ST,Gumla,130001,JMM,Chamra Linda,49335,BJP,Samir Oraon,39754,9581,7.37
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,70,Simdega,ST,Gumla,125417,BJP,Vimla Pradhan,41864,JKP,Menon Ekka,38917,2947,2.35
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,71,Kolebira,ST,Simdega,107993,JKP,Anosh Ekka,42754,BJP,Manoj Nagesiya,27797,14957,13.85
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,72,Lohardaga,ST,Lohardaga,126045,AJSU,Kamal Kishore Bhagat,48918,INC,Sukhdeo Bhagat,48414,504,0.4
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,73,Manika,ST,Latehar,91733,BJP,Harikrishna Singh,22658,RJD,Ramchandra Singh,21887,771,0.84
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,74,Latehar,SC,Latehar,113607,JVM,Prakash Ram,50498,BJP,Brajmohan Ram,31492,19006,16.73
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,75,Panki,GEN,Palamu,120188,INC,Bidesh Singh,31525,IND,Shashi Bhushan Mehta,29999,1526,1.27
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,76,Daltonganj,GEN,Palamu,158881,JVM,Alok Chaurasiya,47315,INC,Krishna Nand Tripathi,43851,3464,2.18
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,77,Bishrampur,GEN,Garhwa,133347,BJP,R. Chandravanshi,30270,IND,Anju Singh,19189,11081,8.31
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,78,Chattarpur,SC,Palamu,99041,BJP,Radha Krishna Kishore,30326,RJD,Manoj Kumar,26266,4060,4.1
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,79,Hussainabad,GEN,Palamu,122826,BSP,Shivpujan Mehta,45446,NCP,Kamlesh Kumar Singh,23423,22023,17.93
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,80,Garhwa,GEN,Garhwa,162235,BJP,Satyendra Nath Tiwari,59946,RJD,Girinath Singh,42603,17343,10.69
+ae-jharkhand-2014,AE,Jharkhand,2014,2014,official_winners_only,81,Bhawanathpur,GEN,Garhwa,170535,NJSM,,47409,BJP,,45260,2149,1.26

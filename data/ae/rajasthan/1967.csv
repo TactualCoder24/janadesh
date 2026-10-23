@@ -1,0 +1,185 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,1,Bhadra,GEN,,53752,INC,H. Raj,23062,SWA,G. Shanker,16896,6166,11.47
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,2,Nohar,GEN,,47638,SWA,R. Chandra,23341,INC,P. Singh,17208,6133,12.87
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,3,Sangaria,SC,,34117,INC,Birbal,15946,BJS,B. Singh,6506,9440,27.67
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,4,Hanumangarh,GEN,,50745,INC,B. Prakash,20764,SWA,M. Ram,15085,5679,11.19
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,5,Ganganagar,GEN,,41143,SSP,K. Nath,20267,INC,R. Ram,11641,8626,20.97
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,6,Kesarisinghpur,SC,,27969,INC,M. Ram,11301,IND,R. Singh,7287,4014,14.35
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,7,Karanpur,GEN,,38665,INC,G. Singh,14520,IND,G. Singh,10203,4317,11.17
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,8,Raisingnagar,SC,,29239,INC,M. Raj,13339,SWA,B. Ram,12436,903,3.09
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,9,Suratgarh,GEN,,49882,INC,M. Singh,25547,IND,Amarchand,24335,1212,2.43
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,10,Lunkaransar,GEN,,32285,INC,Bhimsen,8455,IND,K. Ram,7160,1295,4.01
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,11,Bikaner,GEN,,39651,INC,G. Prasad,16581,PSP,M. Dhar,12213,4368,11.02
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,12,Kolayat,GEN,,33077,INC,K. Kanta,12362,SSP,M. Chand,8633,3729,11.27
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,13,Nokha,SC,,27256,IND,C. Lal,11390,SWA,U. Ram,6510,4880,17.9
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,14,Chhaper,SC,,36308,IND,R. Ram,16584,BJS,B. Lal,14385,2199,6.06
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,15,Sujangarh,GEN,,43951,BJS,L. Chand,15542,INC,P. Chand,11323,4219,9.6
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,16,Dungargarh,GEN,,43879,IND,D. Ram,23523,INC,M. Lal,14522,9001,20.51
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,17,Sardarshahar,GEN,,47461,IND,R. Singh,29557,INC,C. Mal,17904,11653,24.55
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,18,Churu,GEN,,39956,IND,M. Raj,16562,INC,M. Singh,13770,2792,6.99
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,19,Sadulpur,GEN,,45984,INC,S. Ram,18385,CPI(M),M. Singh,10620,7765,16.89
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,20,Pilani,GEN,,43805,SWA,M.C. Katewa,23115,INC,H. Lal,17277,5838,13.33
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,21,Surajgarh,SC,,38952,SWA,Surajmal,15589,INC,M.P. Bunka,14350,1239,3.18
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,22,Khetri,GEN,,43056,SWA,R. Singh,23981,INC,S.R. Ola,17447,6534,15.18
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,23,Gudha,GEN,,44804,INC,S. Singh,21875,SWA,I. Singh,21822,53,0.12
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,24,Nawal Garh,GEN,,42602,SWA,S. Basotia,18728,INC,K. Dev,15161,3567,8.37
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,25,Jhunjhunu,GEN,,41902,INC,Sumitra,20465,IND,N. Lal,13515,6950,16.59
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,26,Mandawa,GEN,,41354,INC,R. Narain,19504,SWA,A. Singh,9726,9778,23.64
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,27,Fatehpur,GEN,,46349,SWA,A. Ali,15828,INC,S. Mal,13943,1885,4.07
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,28,Lachhmangarh,SC,,41165,SWA,Nathmal,18288,INC,N. Lal,16257,2031,4.93
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,29,Sikar,GEN,,49154,INC,R. Singh,25048,PSP,B. Sodani,21471,3577,7.28
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,30,Danta Ramgarh,GEN,,52145,BJS,M. Singh,29669,INC,J. Singh,18363,11306,21.68
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,31,Khandela,GEN,,43564,IND,R. Chandra,19805,INC,D. Ram,17169,2636,6.05
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,32,Sri Madhopur,GEN,,44896,BJS,H. Singh,24511,INC,Muktilal,20385,4126,9.19
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,33,Neem Ka Thana,GEN,,46097,INC,M. Lal,18832,IND,R. Kamwar,14833,3999,8.68
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,34,Ghomu,GEN,,38602,SWA,R. Singh,23656,INC,R. Kishore,13548,10108,26.19
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,35,Amber,GEN,,37138,SWA,Sahdeo,22771,INC,Shakuntla,12815,9956,26.81
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,36,Hawamahal,GEN,,32867,IND,D. Lal,24457,INC,A.F. Siddiki,5550,18907,57.53
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,37,Johri Bazar,GEN,,35567,BJS,S.C. Agrawal,21586,INC,B. Chand,13056,8530,23.98
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,38,Kishanpole,GEN,,42992,BJS,B.S. Shekhwat,23719,INC,R.C. Swami,14998,8721,20.29
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,39,Gandhi Nagar,GEN,,34784,SWA,M.S. Powar,21352,INC,D.S. Tiwari,10922,10430,29.99
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,40,Phulera,GEN,,41825,INC,P.K. Choudhry,19860,SWA,B. Singh,17009,2851,6.82
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,41,Dudu,GEN,,36758,SWA,S. Lal,21405,INC,M. Lal,14290,7115,19.36
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,42,Phagi,SC,,34113,SWA,L.R. Sulania,18867,INC,R. Prashad,9009,9858,28.9
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,43,Lalsot,ST,,34575,SWA,S. Ram,17511,JTP,S. Ram,9719,7792,22.54
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,44,Sikrai,ST,,41991,INC,K. Lal,21586,SWA,R. Prasad,20405,1181,2.81
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,45,Bandikul,GEN,,38560,INC,B.N. Joshi,21172,SWA,M.B. Mathur,16183,4989,12.94
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,46,Dausa,SC,,34095,SWA,Doongaram,16973,INC,R. Lal,8451,8522,24.99
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,47,Bassi,SC,,26193,SWA,K. Lal,17336,INC,P. Lal,5599,11737,44.81
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,48,Jamuwa Ramgarh,GEN,,34472,SWA,N. Lal,19653,INC,B. Lal,7648,12005,34.83
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,49,Bairath,GEN,,38079,INC,D. Singh,18232,JTP,K. Devi,17063,1169,3.07
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,50,Kotputli,GEN,,39964,SWA,S. Ram,14602,INC,R.K. Singh,10957,3645,9.12
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,51,Bansur,GEN,,31685,IND,B. Prasad,13248,INC,R. Lal,8907,4341,13.7
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,52,Behror,GEN,,38821,SSP,A. Lal,19089,INC,G. Ram,17383,1706,4.39
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,53,Mandawar,GEN,,39841,INC,H. Prasad,15861,SSP,R. Singh,15416,445,1.12
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,54,Tijara,GEN,,40392,INC,Amimddin,17108,CPI,R. Ram,11335,5773,14.29
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,55,Khairthal,SC,,33835,INC,G. Chand,12013,SWA,D. Chand,6335,5678,16.78
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,56,Ramgarh,GEN,,39434,INC,S. Ram,13665,SWA,B. Behari,8063,5602,14.21
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,57,Alwar,GEN,,37150,CPI,R. Nand,11783,INC,U. Mathur,10645,1138,3.06
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,58,Thanagazi,GEN,,35298,INC,J. Krishna,12667,IND,L. Narain,11464,1203,3.41
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,59,Rajgarh,ST,,37321,SWA,S. Lal,20537,INC,H. Kishan,15003,5534,14.83
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,60,Kathumar,SC,,36824,BJS,G. Sahai,18507,INC,S. Ram,13409,5098,13.84
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,61,Kaman,GEN,,45798,INC,Majlis,11920,CPI,P. Chand,7492,4428,9.67
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,62,Deeg,GEN,,47326,SSP,Aditendra,16617,INC,K. Nath,8081,8536,18.04
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,63,Kumher,GEN,,52758,IND,M. Singh,37915,INC,B. Singh,12352,25563,48.45
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,64,Bharatpur,GEN,,48441,SSP,N. Singh,21479,SWA,K. Singh,7562,13917,28.73
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,65,Nadbai,SC,,33596,IND,Nathilal,12110,SSP,Sukhchand,10531,1579,4.7
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,66,Weir,GEN,,41711,SSP,R. Kishan,13980,INC,D. Prasad,9489,4491,10.77
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,67,Bayana,GEN,,45136,SSP,M.B. Lal,16024,IND,S. Singh,9293,6731,14.91
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,68,Rajakhera,GEN,,42116,INC,P. Singh,26366,SSP,M. Singh,7303,19063,45.26
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,69,Dholpur,GEN,,45065,INC,Banwarilal,20717,IND,M. Singh,20216,501,1.11
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,70,Bari,SC,,29565,INC,Balwant,7816,SSP,Tunda,6667,1149,3.89
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,71,Karauli,GEN,,24080,INC,B. Pal,12688,IND,K. Singh,3265,9423,39.13
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,72,Sapotra,ST,,22893,BJS,Ramkumar,14081,INC,N. Singh,7765,6316,27.59
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,73,Khandar,SC,,27933,SWA,C. Lal,15974,INC,M. Lal,9462,6512,23.31
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,74,Sawaimadhopur,GEN,,38372,SWA,H. Sharma,22351,INC,P. Hasan,13451,8900,23.19
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,75,Bamanwas,ST,,28578,SWA,P. Bamanwas,12535,INC,Bharatlal,10611,1924,6.73
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,76,Gangapur,GEN,,34433,INC,R. Palliwal,13371,BJS,G. Sahai,9825,3546,10.3
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,77,Hindaun,SC,,34162,BJS,S. Lal,15032,INC,U. Lal,13934,1098,3.21
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,78,Mahuwa,GEN,,38441,INC,S. Singh,22632,SWA,J. Narain,11969,10663,27.74
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,79,Todabhim,ST,,29250,INC,C. Lal,12144,IND,S. Ram,7956,4188,14.32
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,80,Niwai,SC,,37465,SWA,J. Narain,20644,INC,B. Lal,16402,4242,11.32
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,81,Tonk,GEN,,33600,INC,D. Vyas,17662,SWA,R. Krishan,13968,3694,10.99
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,82,Uniara,GEN,,32217,SWA,D. Singh,14530,INC,M. Kumar,13221,1309,4.06
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,83,Todaraisingh,GEN,,41204,INC,Jagannath,23022,SWA,N. Singh,17572,5450,13.23
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,84,Malpura,GEN,,44229,INC,D. Vyas,26408,SWA,G. Devi,17388,9020,20.39
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,85,Kishangarh,GEN,,43862,SWA,S. Singh,27861,IND,Ramchander,9156,18705,42.65
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,86,Ajmer East,GEN,,37686,BJS,Ambalal,16616,INC,J. Prasad,13418,3198,8.49
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,87,Ajmer West,GEN,,35961,BJS,Bhagwandas,19959,INC,Pohumal,12912,7047,19.6
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,88,Pushkar,GEN,,37586,INC,P. Misra,17023,BJS,S. Singh,14194,2829,7.53
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,89,Nasirabad,GEN,,33436,SWA,V. Singh,20427,INC,B. Kaul,11774,8653,25.88
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,90,Beawar,GEN,,41540,SWA,F. Singh,20240,INC,B. Lal,14187,6053,14.57
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,91,Masuda,GEN,,31309,INC,N. Singh,22386,BJS,M. Singh,7147,15239,48.67
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,92,Bhinai,SC,,29919,SWA,Jasraj,18662,INC,H. Chand,10702,7960,26.61
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,93,Kekri,SC,,33037,SWA,Devilal,17645,INC,J. Solanky,13961,3684,11.15
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,94,Hindoli,GEN,,35076,BJS,K. Singh,13772,INC,B. Prakash,13323,449,1.28
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,95,Patan,SC,,26201,INC,N. Lal,11630,BJS,M. Lal,11491,139,0.53
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,96,Bundi,GEN,,39718,INC,B. Sundar,18143,BJS,H. Prasad,11678,6465,16.28
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,97,Kota,GEN,,39649,BJS,K. Kumar,20525,INC,N. Lal,18679,1846,4.66
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,98,Digod,GEN,,37899,BJS,Brujballabh,21429,INC,R. Dayal,14464,6965,18.38
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,99,Pipalda,GEN,,32760,BJS,M. Singh,17436,INC,R. Chand,14668,2768,8.45
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,100,Baran,GEN,,38487,BJS,D. Dutt,20482,INC,R. Kishan,16074,4408,11.45
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,101,Kishanganj,ST,,26353,BJS,N. Lal,15966,INC,D. Ram,5819,10147,38.5
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,102,Chhabra,GEN,,26086,BJS,P. Singh,12759,INC,N. Bala,5966,6793,26.04
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,103,Atru,SC,,25147,BJS,R. Charan,13325,INC,M. Lal,8745,4580,18.21
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,104,Ramganj Mandi,GEN,,32363,BJS,J. Singh,16278,INC,Vidyasagar,10281,5997,18.53
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,105,Khanpur,GEN,,32716,BJS,H. Chandra,22374,IND,P. L. Senter,8061,14313,43.75
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,106,Aklera,GEN,,23774,SWA,B. Prasad,15762,INC,D. Chand,6020,9742,40.98
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,107,Jhalrapatan,GEN,,26958,IND,R. P. Bohra,17250,INC,Chandmal,7171,10079,37.39
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,108,Pirawa,GEN,,30908,SWA,K. Lal,10817,IND,G. Singh,10297,520,1.68
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,109,Dag,SC,,25491,BJS,Lachhman,14963,INC,R. Chandra,9646,5317,20.86
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,110,Begun,GEN,,31755,IND,H. Singh,10880,INC,K. C. Pankaj,9789,1091,3.44
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,111,Gangrar,SC,,24457,INC,D. G. Lal,15547,IND,B. Lal,4177,11370,46.49
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,112,Kapasan,GEN,,27933,INC,S. Lal,11370,IND,N. Lal,5999,5371,19.23
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,113,Chittorgarh,GEN,,27667,INC,R. Kumar,14788,BJS,M. Lal,11057,3731,13.49
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,114,Nibahera,GEN,,39223,INC,Shriniwas,20098,BJS,P. Singh,14665,5433,13.85
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,115,Badi Sadri,GEN,,26743,INC,L. Singh,13121,BJS,B. N. Sharma,7304,5817,21.75
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,116,Pratapgarh,ST,,35450,INC,Harlal,16750,SWA,Deva,11953,4797,13.53
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,117,Kushalgarh,ST,,44205,SSP,Heera,21662,INC,Varsing,21569,93,0.21
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,118,Pipalkhunt,ST,,45056,SSP,Vithal,29593,INC,Manji,14260,15333,34.03
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,119,Banswara,GEN,,42589,INC,H. Joshi,25430,SSP,Keshavchandra,12099,13331,31.3
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,120,Bagidora,ST,,45853,INC,Nathuram,24332,SSP,Kaluram,20252,4080,8.9
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,121,Sagwara,ST,,38819,INC,Bheekhabhai,28208,SWA,Lalshanker,9963,18245,47.0
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,122,Chorasi,ST,,34033,INC,Ratanlal,19128,SWA,Hiralal,12294,6834,20.08
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,123,Padwa,ST,,37972,INC,M. Kumar,22559,SWA,Amritlal,14733,7826,20.61
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,124,Dungarpur,GEN,,44086,SWA,Laxmansingh,21932,INC,Bhogilal,21653,279,0.63
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,125,Lasadia,ST,,34382,INC,J. Narain,27615,SWA,Dheela,5650,21965,63.89
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,126,Vallabhnagar,GEN,,40658,INC,G. Singh,20057,BJS,K. Singh,18828,1229,3.02
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,127,Mavli,GEN,,40069,INC,N. N. Acharya,20298,BJS,Jodhsingh,14291,6007,14.99
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,128,Rajsamand,SC,,37404,INC,Amritlal,19286,IND,Kailashchandra,8310,10976,29.34
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,129,Nathdwara,GEN,,35671,INC,Kishanlal,18313,BJS,V. Singh,14597,3716,10.42
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,130,Udaipur,GEN,,46375,INC,M. L. Sukhadia,24272,BJS,B. K. Shastri,20841,3431,7.4
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,131,Salumber,GEN,,37270,INC,R. Lal,23856,SWA,L. Lal,13414,10442,28.02
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,132,Sarada,ST,,31623,INC,Devilal,19706,SWA,Mava,11917,7789,24.63
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,133,Kherwara,ST,,30802,INC,Vidyasagar,15434,SWA,Ramjee,10710,4724,15.34
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,134,Phalasia,ST,,26069,SWA,Nathudas,18417,INC,Kadowa,7652,10765,41.29
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,135,Gogunda,ST,,30408,INC,D. Kumar,15631,SWA,Narain,14108,1523,5.01
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,136,Kumbhalgarh,GEN,,42390,INC,Heeralal,29658,IND,Kanhaiyalal,6667,22991,54.24
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,137,Bhim,GEN,,38791,INC,L. Kumari,24425,BJS,Shankarlal,9477,14948,38.53
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,138,Mandal,GEN,,24948,INC,S. Charan,17051,BJS,R. Prasad,5611,11440,45.86
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,139,Sahada,GEN,,37288,INC,J. Mal,26087,SWA,S. Lal,8984,17103,45.87
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,140,Bhilwara,GEN,,37924,INC,R. P. Lacha,20769,BJS,G. Lal,10373,10396,27.41
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,141,Mandalgarh,GEN,,32752,IND,M. Singh,18580,INC,G. Lal,10603,7977,24.36
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,142,Jahazpur,ST,,25523,INC,K. Mal,14102,SWA,B. Singh,9701,4401,17.24
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,143,Shahpura,SC,,28025,INC,Bhura,13998,SWA,Devi,12792,1206,4.3
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,144,Banera,GEN,,31072,INC,Y. Singh,16287,SSP,U. Singh,12399,3888,12.51
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,145,Asind,GEN,,28097,INC,Girdharilal,18449,IND,Shankardeo,5168,13281,47.27
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,146,Jaitaran,GEN,,46875,INC,S. Lal,21524,SWA,S. Singh,19325,2199,4.69
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,147,Sojat,GEN,,42981,SWA,P. Raj,18538,INC,T. Ram,16156,2382,5.54
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,148,Kharchi,GEN,,40866,SWA,S. Singh,18336,INC,M. Lal,11557,6779,16.59
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,149,Pali,GEN,,52494,INC,M. Chand,28938,SWA,K. Singh,22070,6868,13.08
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,150,Desuri,SC,,35676,SWA,Daulatram,18177,INC,D. Dangi,15261,2916,8.17
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,151,Sumerpur,GEN,,31841,SWA,P. Bafna,13552,INC,S. Singh,12058,1494,4.69
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,152,Bali,GEN,,35193,SWA,Prathvisingh,19468,INC,Mohanraj,11624,7844,22.29
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,153,Sirohi,GEN,,31236,INC,M. Singh,10940,BJS,P. Raj,7146,3794,12.15
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,154,Abu,ST,,29009,INC,Gama,13314,SWA,Anda,11977,1337,4.61
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,155,Reodar,SC,,24137,SWA,M. Lal,12155,INC,J. Mal,8621,3534,14.64
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,156,Sanchore,GEN,,33026,INC,Raghunathji,16771,BJS,L. Mehta,15199,1572,4.76
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,157,Raniwara,GEN,,28518,SWA,D. Singh,15128,INC,B. Raj,11485,3643,12.77
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,158,Bhinmal,GEN,,24203,SWA,A. Singh,12338,INC,M. Singh,10546,1792,7.4
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,159,Jalore,SC,,25123,SWA,J. Ram,15429,INC,V. Ram,6878,8551,34.04
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,160,Ahore,GEN,,36620,INC,M. Singh,11780,SWA,C. Singh,10270,1510,4.12
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,161,Siwana,GEN,,22949,SWA,Kaloo,10282,INC,H. Ram,7503,2779,12.11
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,162,Pachpadra,GEN,,38773,INC,M. Kor,24866,BJS,C. L. Sabeha,7702,17164,44.27
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,163,Barmer,GEN,,33816,INC,B. Chand,24527,IND,U. Singh,8119,16408,48.52
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,164,Gudamallani,GEN,,18801,INC,G. R. Chowdhary,11169,IND,D. Singh,7632,3537,18.81
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,165,Chohtan,GEN,,27276,IND,A. Badi,14056,SWA,F. Puri,10902,3154,11.56
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,166,Sheo,GEN,,20899,INC,H. Singh,11564,SWA,K. Singh,9335,2229,10.67
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,167,Jaisalmer,GEN,,22817,SWA,B. Singh,11897,INC,H. Singh,9188,2709,11.87
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,168,Shergarh,GEN,,28866,INC,K. Singh,15953,SWA,S. Singh,12913,3040,10.53
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,169,Jodhpur,GEN,,39287,INC,B. Khan,17971,BJS,G. Lodha,17531,440,1.12
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,170,Sardarpura,GEN,,39030,BJS,D. Dutt,19819,INC,M. L. Sankhla,16652,3167,8.11
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,171,Luni,GEN,,39539,INC,P. C. Bishnoi,23894,SWA,S. Singh,12646,11248,28.45
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,172,Bilara,SC,,40437,INC,K. R. Arya,19335,BJS,H. Dass,17349,1986,4.91
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,173,Bhopalgarh,GEN,,45716,INC,M. P. Ram,26104,SWA,R. Singh,19113,6991,15.29
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,174,Osian,GEN,,36183,INC,R. Singh,20236,SWA,J. Singh,14562,5674,15.68
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,175,Phalodi,GEN,,31934,IND,D. Chand,11297,SWA,B. Singh,8559,2738,8.57
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,176,Nagaur,GEN,,41885,INC,M. Usman,20767,SWA,B. Lal,19523,1244,2.97
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,177,Jayal,GEN,,54027,IND,R. Singh,21222,SWA,G. Singh,15945,5277,9.77
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,178,Ladnu,GEN,,39406,SWA,H. R. Burdak,20339,INC,Ramniwas,19067,1272,3.23
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,179,Deedwana,GEN,,43017,INC,M. D. Mathur,17595,BJS,R. Gaggar,13011,4584,10.66
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,180,Nawan,GEN,,41912,SWA,K. Lal,18645,INC,H. Singh,15612,3033,7.24
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,181,Makrana,GEN,,40227,SWA,V. Singh,15105,INC,G. Mustafa,13188,1917,4.77
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,182,Parbatsar,SC,,38909,SWA,P. Ram,18861,INC,J. Mal,18120,741,1.9
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,183,Degana,GEN,,45481,INC,G. Punia,20153,BJS,B. Lal,18432,1721,3.78
+ae-rajasthan-1967,AE,Rajasthan,1967,1967,official,184,Merta,GEN,,45627,SWA,Gordhan,23169,INC,N. Ram,22458,711,1.56

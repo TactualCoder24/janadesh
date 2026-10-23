@@ -1,0 +1,31 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-goa-1972,AE,Goa,1972,1972,official,1,Pernem,GEN,,8883,MAG,Rane Jaisingrao Abasaheb,5477,INC,Deshprabhu Raghunathrao,2828,2649,29.82
+ae-goa-1972,AE,Goa,1972,1972,official,2,Mandrem,GEN,,11318,MAG,B. B. Balkrishna,8254,INC,Kamulkar Vijay Maruti,2006,6248,55.2
+ae-goa-1972,AE,Goa,1972,1972,official,3,Siolim,GEN,,10975,MAG,C. Chandrakant Uttom,5638,UGS,S. Souzaw A. Tito Fermina,4789,849,7.74
+ae-goa-1972,AE,Goa,1972,1972,official,4,Calangute,GEN,,11823,UGS,Jagdish Bhujang Rao,6032,MAG,D. Cruz Anthony Manuel,5425,607,5.13
+ae-goa-1972,AE,Goa,1972,1972,official,5,Aldona,GEN,,8950,UGS,Sousa Silverio Jose,5733,IND,Silver Anacleto Mariand,1953,3780,42.23
+ae-goa-1972,AE,Goa,1972,1972,official,6,Mapusa,GEN,,11676,MAG,Pankar Raghuvir Shanu,5718,UGS,N. S. Pandurang,3532,2186,18.72
+ae-goa-1972,AE,Goa,1972,1972,official,7,Tivim,GEN,,9350,MAG,Achrekar Punaji Pandurang,5390,INC,Gopal Govind Mayekar,2361,3029,32.4
+ae-goa-1972,AE,Goa,1972,1972,official,8,Bicholim,GEN,,10072,MAG,K. S. Gurudutta,6589,INC,S. Ramesh Narayan,2393,4196,41.66
+ae-goa-1972,AE,Goa,1972,1972,official,9,Pale,GEN,,9543,MAG,S. U. A. Kashinath,4885,INC,S. U. Prabhakar Krishna,2706,2179,22.83
+ae-goa-1972,AE,Goa,1972,1972,official,10,Satari,GEN,,9660,MAG,R. S. P. Raoji,5005,SOP,Rane Jaisingrao Venkatrao,2322,2683,27.77
+ae-goa-1972,AE,Goa,1972,1972,official,11,Panaji,GEN,,9321,MAG,Naik Babana,3983,UGS,Desai Yeshwant Sitaram,3758,225,2.41
+ae-goa-1972,AE,Goa,1972,1972,official,12,Santa Cruz,GEN,,11452,UGS,Sequeira Jack Df Erasmo,6586,IND,Fernandes M. F. Diogo,4483,2103,18.36
+ae-goa-1972,AE,Goa,1972,1972,official,13,Santo Andre,GEN,,10577,UGS,P. T. Francisco Paulo,5335,MAG,Melo Agosttinho Santana,3969,1366,12.91
+ae-goa-1972,AE,Goa,1972,1972,official,14,St Estevam,GEN,,10930,MAG,Chodankar Vinayak Dharma,5956,UGS,P. P. Desai Shrikant Govind,3530,2426,22.2
+ae-goa-1972,AE,Goa,1972,1972,official,15,Marcaim,GEN,,9095,MAG,Bandodkar Krishna Raghu,7020,NMG,Kerkar Chandrakant Vijaya,1858,5162,56.76
+ae-goa-1972,AE,Goa,1972,1972,official,16,Ponda,GEN,,10380,MAG,R. Dass H Naik,6052,NMG,Vishwanath Yeshwant Naik,2259,3793,36.54
+ae-goa-1972,AE,Goa,1972,1972,official,17,Siroda,GEN,,9804,MAG,Jayakrishna Putu Naik,5908,UGS,Tendolkar N Narahari,1425,4483,45.73
+ae-goa-1972,AE,Goa,1972,1972,official,18,Sanguem,GEN,,8854,MAG,Morajker Vassudeu Datta,4580,INC,K. Devidas Pandurang,1989,2591,29.26
+ae-goa-1972,AE,Goa,1972,1972,official,19,Canacona,GEN,,10609,MAG,Ganaba Bhagdu Desai,5874,UGS,P.D. Shrirang Padmanaba,3441,2433,22.93
+ae-goa-1972,AE,Goa,1972,1972,official,20,Quepem,GEN,,7378,MAG,Kuttikar Dhulo Chimlo,3406,UGS,Dessai Molu Ganba,2815,591,8.01
+ae-goa-1972,AE,Goa,1972,1972,official,21,Curchorem,GEN,,9560,MAG,Prabhu Dessai Anil Hari,4055,UGS,Karmali B. Gopinath,2965,1090,11.4
+ae-goa-1972,AE,Goa,1972,1972,official,22,Cuncolim,GEN,,9132,UGS,Fernandes R Santano Joao,5337,MAG,Fernandes A.J. Guilman,3133,2204,24.13
+ae-goa-1972,AE,Goa,1972,1972,official,23,Benaulim,GEN,,8591,UGS,Sarmalkar V Narayan,6604,IND,Cardoso Felicio S,1796,4808,55.97
+ae-goa-1972,AE,Goa,1972,1972,official,24,Navelim,GEN,,10919,UGS,Vedho Leo Mauricio,7618,MAG,Miranda Elu Jose,2777,4841,44.34
+ae-goa-1972,AE,Goa,1972,1972,official,25,Margao,GEN,,8990,UGS,Ananta Narcinva Naik,4859,MAG,Virginkar Gopal Naraina,2469,2390,26.59
+ae-goa-1972,AE,Goa,1972,1972,official,26,Curtorim,GEN,,10446,UGS,F.E.S Silveira Martinho,7120,IND,Cardozoi Luis Piedade,2039,5081,48.64
+ae-goa-1972,AE,Goa,1972,1972,official,27,Cortalim,GEN,,9553,UGS,Barbosa Luis Paleixo,7431,INC,Telo Mascarenhas,1018,6413,67.13
+ae-goa-1972,AE,Goa,1972,1972,official,28,Mormugao,GEN,,14003,MAG,Joshi Vassant Subraya,5292,UGS,A L De Graca Antonio,4252,1040,7.43
+ae-goa-1972,AE,Goa,1972,1972,official,29,Daman,GEN,,15317,INC,H. Vallabhabhai Tendel,7729,IND,Lallubhai Jogibhat Patel,7350,379,2.47
+ae-goa-1972,AE,Goa,1972,1972,official,30,Diu,GEN,,7916,IND,Fordo Narayan Shrinivas,4598,INC,Modasia Balubhai Dharsi,3318,1280,16.17

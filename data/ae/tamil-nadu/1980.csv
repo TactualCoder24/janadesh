@@ -1,0 +1,235 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,1,Royapuram,GEN,Chennai,74319,DMK,"Ponnurangam,P",37390,CPI,"Pandian,D",36455,935,1.26
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,2,Harbour,GEN,Chennai,60430,DMK,"Selvarasan,A",32716,AIADMK,"Habibulla Baig, Dr",21701,11015,18.23
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,3,Dr. Radhakrishnan Nagar,GEN,Chennai,90648,INC,"Rajasekaran,V",44076,AIADMK,Isari D. Velan,36888,7188,7.93
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,4,Park Town,GEN,,68098,DMK,"Somu,N.V.N",38095,GKC,"Lalchand Daga,S",23197,14898,21.88
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,5,Perambur,SC,Chennai,90258,DMK,"Balan,S",49269,CPI(M),"Murugaian,V",40989,8280,9.17
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,6,Purasawalkam,GEN,,100724,DMK,Anbazhagan.K,52729,AIADMK,Valampuri John,47021,5708,5.67
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,7,Egmore,SC,Chennai,62427,INC,"Ellayaperumal,L",38200,INCU,"Sivanesan,D.R",23444,14756,23.64
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,8,Anna Nagar,GEN,Chennai,104731,DMK,M. Karunanidhi,51290,AIADMK,"Hande,H.V",50591,699,0.67
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,9,T-Nagar,GEN,Chennai,84164,GKC,"Sourirajan,K",42566,DMK,"Chandran Jeyapal,R.E",36100,6466,7.68
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,10,Thousand Lights,GEN,Chennai,80691,AIADMK,"Krishnasamy,K.A",40499,DMK,"Sadiq Pasha,S.J",40192,307,0.38
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,11,Chepauk,GEN,Chennai,58639,DMK,"Rahman Khan,A",32627,AIADMK,"Abdul Khader,M.S",23401,9226,15.73
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,12,Triplicane,GEN,,63798,INC,"Haja Shareeff,K.S.G",33664,INCU,"Sridharan,V.K",26786,6878,10.78
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,13,Mylapore,GEN,Chennai,83089,AIADMK,"Kapali, T.K",41260,DMK,Manoharan.K,37944,3316,3.99
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,14,Saidapet,GEN,Chennai,84261,DMK,"Purushothaman,D",40403,AIADMK,"Saithai Duraisamy,S",38706,1697,2.01
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,15,Gummidipoondi,GEN,Thiruvallur,85387,AIADMK,"Munirathinam,R.S",41845,DMK,"Venu,K",34019,7826,9.17
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,16,Ponneri,SC,Thiruvallur,83033,AIADMK,"Chakarapani,R",42408,DMK,"Nagalingam,P",27490,14918,17.97
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,17,Thiruvottiyur,GEN,Thiruvallur,102296,GKC,Kumari Ananthan,48451,INC,"Loganathan,T",44993,3458,3.38
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,18,Villivakkam,GEN,Chennai,119548,AIADMK,"Prabakaran,J.C.D",57192,DMK,"Suppu,K",56489,703,0.59
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,19,Alandur,GEN,Kancheepuram,100332,AIADMK,"Abdul Razack,K.M",50345,INC,"Sampath,N.P.L",44506,5839,5.82
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,20,Tambaram,GEN,Kancheepuram,116326,DMK,Pammal Nallathambi,59931,AIADMK,Munu Adhi,53746,6185,5.32
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,21,Tirupporur,SC,,65749,DMK,"Chockalingam,G",33287,AIADMK,"Govindarasan,M",30990,2297,3.49
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,22,Chengalpattu,GEN,Kancheepuram,76245,AIADMK,"Jagadeesan,Anoor,P.G",40466,INC,"Natarajan,K",35314,5152,6.76
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,23,Maduranthakam,GEN,Kancheepuram,82549,AIADMK,"Ugamchand,S.D",46922,DMK,"Arumugam,C",35113,11809,14.31
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,24,Acharapakkam,SC,,70347,AIADMK,"Ganesan,C",35233,DMK,"Manavalan,C.M",35114,119,0.17
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,25,Uthiramerur,GEN,Kancheepuram,88172,AIADMK,"Jagathrakshakan,S",43303,INC,"Ramadoss,S",41717,1586,1.8
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,26,Kancheepuram,GEN,Kancheepuram,95445,AIADMK,"Venkatasubramanian,P",46051,DMK,"Sambandan,V",43859,2192,2.3
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,27,Sriperumbudur,SC,Kancheepuram,70553,INC,D.Yasodha,37370,AIADMK,"Jaganathan,S",31341,6029,8.55
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,28,Poonamallee,GEN,Thiruvallur,77860,DMK,"Rajarathinam, D",38018,GKC,Sambandan,26930,11088,14.24
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,29,Thiruvallur,GEN,Thiruvallur,72595,AIADMK,"Pattabiraman,S",30121,INC,"Purushothaman,R",24585,5536,7.63
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,30,Tiruttani,GEN,Thiruvallur,72270,AIADMK,"Shanmugam, R",35845,INC,"Namashivayam, T",25754,10091,13.96
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,31,Pallipet,GEN,,75308,AIADMK,"Narasimhan, P.M",26377,INC,"Eakambara Reddy, A",25967,410,0.54
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,32,Arakkonam,SC,Vellore,74355,AIADMK,"Vijayasarathy, M",36314,INC,"Jayaraj, G",35393,921,1.24
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,33,Sholingur,GEN,Vellore,72442,AIADMK,"Gopal, C",35783,DMK,"Moorthy, K",35626,157,0.22
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,34,Ranipet,GEN,Vellore,82529,DMK,Durai Murugan,44318,AIADMK,"Renu, N",37064,7254,8.79
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,35,Arcot,GEN,Vellore,73695,AIADMK,"Sethuraman, A M",35998,INC,"Akber Pasha, B",34058,1940,2.63
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,36,Katpadi,GEN,Vellore,68676,CPI,"Poongavanam, N. A",31918,INC,"Shanmugasundaram, A. K",26639,5279,7.69
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,37,Gudiyattam,GEN,Vellore,70365,CPI(M),"Sundaram, K.R",30869,IND,"Wahab, K.A",20929,9940,14.13
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,38,Pernambattu,SC,,66323,AIADMK,"Moorthy, G",30048,INC,"Rajarathinam, C",24713,5335,8.04
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,39,Vaniyambadi,GEN,Vellore,72424,AIADMK,"Kulasekara Pandiyan, N",38049,IND,"Abdul Latheef, M",34375,3674,5.07
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,40,Natrampalli,GEN,,85881,AIADMK,"Anbazhagan, T",42786,DMK,"Raja, N. K",36161,6625,7.71
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,41,Tiruppattur,GEN,Vellore,78158,DMK,"Sundaram, B",42786,AIADMK,"Ramasamy, G",34682,8104,10.37
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,42,Chengam,SC,Tiruvannamalai,55816,AIADMK,"Swamikannu, T",26823,INC,"Arumugam, A",25987,836,1.5
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,43,Thandarambattu,GEN,,72540,DMK,"Venugopal, D",46326,GKC,"Kasinathan, U",25257,21069,29.04
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,44,Tiruvannamalai,GEN,Tiruvannamalai,92609,INC,"Narayanasamy, K",54437,AIADMK,"Shunmugam, P.U",36052,18385,19.85
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,45,Kalasapakkam,GEN,Tiruvannamalai,82443,DMK,"Thiruvengadam, P.S",44923,AIADMK,"Visvanathan, C. N",32972,11951,14.5
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,46,Polur,GEN,Tiruvannamalai,72475,INC,"Balaraman, L",35456,AIADMK,"Selvan, A",33303,2153,2.97
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,47,Anaicut,GEN,Vellore,66034,AIADMK,"Viswanathan,G",35242,INC,"Jeevarathinam, R",29287,5955,9.02
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,48,Vellore,GEN,Vellore,86803,DMK,"Devaraj, V.M",43126,AIADMK,"Ranganathan, A. K",38619,4507,5.19
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,49,Arani,GEN,Tiruvannamalai,84761,AIADMK,"Shanmugam, A. C",42928,DMK,"Selvarasu, E",37877,5051,5.96
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,50,Cheyyar,GEN,Tiruvannamalai,78432,DMK,Babu Janarthanan,43341,AIADMK,"Vizhi Vendan, K. A",35091,8250,10.52
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,51,Vandavasi,SC,Tiruvannamalai,76678,AIADMK,"Kuppusami, C",38501,DMK,"Kanniappan, C",36019,2482,3.24
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,52,Peranamallur,GEN,,74043,AIADMK,"Venkitesan, P. M",32645,INC,"Margabandu, R",31767,878,1.19
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,53,Melmalayanur,GEN,,81027,AIADMK,"Chinnadurai, A",39572,INC,"Perumal Nainar, V",39374,198,0.24
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,54,Gingee,GEN,Villupuram,83558,DMK,"Ramchandran, N",41708,AIADMK,"Krishnasamy, G",40075,1633,1.95
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,55,Tindivanam,GEN,Villupuram,70343,INC,"Thangamani Gounder, K. M",29778,AIADMK,Erajaram Reddy,24302,5476,7.78
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,56,Vanur,SC,Villupuram,73512,DMK,"Muthuvel, N",38883,AIADMK,"Ramajayam, M. N",33635,5248,7.14
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,57,Kandamangalam,SC,,69450,AIADMK,"Kannan, M",34368,INC,"Madhavan, P",32011,2357,3.39
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,58,Villupuram,GEN,Villupuram,88340,DMK,"Palaniappan, K. P",45952,AIADMK,"Rajarathinam, M",40792,5160,5.84
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,59,Mugaiyur,GEN,,74269,INC,"Sundaramurthy, R",39490,AIADMK,"Ragothuman, G",31889,7601,10.23
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,60,Thirunavalur,GEN,,75627,DMK,"Subramanian, V",36517,AIADMK,"Manoharan, T.N.G.A",36344,173,0.23
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,61,Ulundurpet,SC,Villupuram,72385,DMK,"Rangasamy, K",40068,AIADMK,"Natesan, Karu",30113,9955,13.75
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,62,Nellikuppam,GEN,,73455,DMK,"Krishnamoorthi, V",40526,CPI(M),"Govindarajan, C",28415,12111,16.49
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,63,Cuddalore,GEN,Cuddalore,82646,DMK,Babu Govindarajan,40539,AIADMK,"Ragupathi, A",37398,3141,3.8
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,64,Panruti,GEN,Cuddalore,85891,AIADMK,"Ramachandran, S",44557,DMK,Nandagopalakrishnan K,40070,4487,5.22
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,65,Kurinjipadi,GEN,Cuddalore,77231,AIADMK,"Thangarasu, A",38349,DMK,"Selvarasu, M",35390,2959,3.83
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,66,Bhuvanagiri,GEN,Cuddalore,83931,AIADMK,"Swaminathan, V .V",41207,IND,"Asanudeen, K.S",34883,6324,7.53
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,67,Kattumannarkoil,SC,Cuddalore,74022,DMK,"Ramalingam, E",44012,CPI(M),"Mahalingam, P.S",29350,14662,19.81
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,68,Chidambaram,GEN,Cuddalore,80699,AIADMK,"Ganapathy, K. R",41728,DMK,"Kaliyamoorthy, Durai",38461,3267,4.05
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,69,Vridhachalam,GEN,Cuddalore,87510,INC,"Thiyagarajan, R",45382,AIADMK,"Ramanathan, C",41234,4148,4.74
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,70,Mangalur,SC,,83178,AIADMK,"Kaliamoorthy, P",40678,INC,"Kamaraj, S",39495,1183,1.42
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,71,Rishivandiyam,GEN,Villupuram,74810,INC,"Sundaram, M",38238,AIADMK,"Deiveekan, M",33317,4921,6.58
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,72,Kallakurichi,GEN,Villupuram,75055,INC,"Sivaraman, S",39370,AIADMK,"Ambayiram, A",34123,5247,6.99
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,73,Sankarapuram,GEN,Villupuram,72831,AIADMK,"Kalitheerthan, S",36352,INC,"Muthusami, D",32811,3541,4.86
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,74,Hosur,GEN,Krishnagiri,51913,INC,"Venkata Reddy, T",25855,IND,"Kothandaramaiah, K.S",21443,4412,8.5
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,75,Thalli,GEN,Krishnagiri,61542,INC,"Rajaram Naidu, D.R",25558,JNP,"Vijayendriah, D. R",22601,2957,4.8
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,76,Kaveripattinam,GEN,,69296,AIADMK,"Samarasam, K",35434,DMK,"Venkatesan, S",31911,3523,5.08
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,77,Krishnagiri,GEN,Krishnagiri,56327,AIADMK,"Chinnarasu, K. R",28020,DMK,"Kamalanathan, M",26223,1797,3.19
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,78,Bargur,GEN,Krishnagiri,69665,AIADMK,"Doraisamy, Bn.S",39893,DMK,"Murugesan, K",29045,10848,15.57
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,79,Harur,SC,Dharmapuri,69383,AIADMK,"Sabapathy, C",40009,INC,"Natesan, T. V",27401,12608,18.17
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,80,Morappur,GEN,,75370,AIADMK,"Kuppusamy, N",43096,INC,"Balasubramanian, R",29967,13129,17.42
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,81,Palacodu,GEN,Dharmapuri,74487,AIADMK,"Munusamy, M.B",38999,INC,"Balasubhrmaniam , R",34864,4135,5.55
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,82,Dharmapuri,GEN,Dharmapuri,73671,AIADMK,"Aranganathan, S",33977,INC,"Vadivel, D.N",32472,1505,2.04
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,83,Pennagaram,GEN,Dharmapuri,65591,GKC,"Theertha Raman, P",34590,DMK,"Marumuthu, K",27481,7109,10.84
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,84,Mettur,GEN,Salem,83810,AIADMK,"Nachimuthu, K.P",48845,DMK,"Kandappan, S",29977,18868,22.51
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,85,Taramangalam,GEN,,82203,IND,"Semmalai, S",49597,INC,"Narayanan, R",27214,22383,27.23
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,86,Omalur,GEN,Salem,72846,AIADMK,"Sivaperuman, M",42399,DMK,"Marimuthu, C",30447,11952,16.41
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,87,Yercaud,ST,Salem,56218,AIADMK,Thiruman,28869,DMK,"Natesan, R",27020,1849,3.29
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,88,Salem-I,GEN,,97010,AIADMK,"Krishnaraj, G",50976,IND,Amanullah Khan,31745,19231,19.82
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,89,Salem-Ii,GEN,,79450,AIADMK,"Arumugam, M",40975,INC,"Anbalagan, K",36235,4740,5.97
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,90,Veerapandi,GEN,Salem,88061,AIADMK,"Vijayalakshmi, P",51034,DMK,"Srinivasan, K.P",35061,15973,18.14
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,91,Panamarathupatti,GEN,,77238,AIADMK,"Rajaram, K",44218,INC,"Santhanantham, P. M",31614,12604,16.32
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,92,Attur,GEN,Salem,71886,INC,"Palanimuthu, C",38416,AIADMK,"Kandasami, P",31525,6891,9.59
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,93,Talavasal,SC,,72935,INC,"Rajambal, T",38217,AIADMK,"Devarajan, M",34718,3499,4.8
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,94,Rasipuram,GEN,Namakkal,85463,AIADMK,"Ramalingam, K. P",49779,DMK,"Muthu, P.T",34175,15604,18.26
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,95,Senthamangalam,ST,Namakkal,69020,AIADMK,"Sivaprakasam, S",37577,INC,Vadama Gounder,30543,7034,10.19
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,96,Namakkal,SC,Namakkal,82757,AIADMK,Arunachalam R,42850,DMK,Veluswamy K,38957,3893,4.7
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,97,Kapilamalai,GEN,,86948,AIADMK,Velappan C. V,39224,INC,"Sengottaiyan, P",33823,5401,6.21
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,98,Tiruchengodu,GEN,Namakkal,124904,AIADMK,"Ponnaiyan, C",69122,INC,"Kaliyannan, T. M",52046,17076,13.67
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,99,Sankari,SC,Salem,80666,AIADMK,"Dhanapal, P",45664,DMK,"Varadarajan, R",33109,12555,15.56
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,100,Edappadi,GEN,Salem,97554,AIADMK,"Ganesan, I",37978,IND,"Natarajan, T",32159,5819,5.96
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,101,Mettuppalayam,GEN,Coimbatore,81860,AIADMK,"Palanisamy, S",48266,INC,"Vijayan, K",32311,15955,19.49
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,102,Avanashi,SC,Tiruppur,61409,CPI,"Arumugam, M",33294,INC,"Palanisamy, S. N",23623,9671,15.75
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,103,Thondamuthur,GEN,Coimbatore,100495,AIADMK,Chinnaraj,57822,DMK,"Manickkavachagam, R",42673,15149,15.07
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,104,Singanallur,GEN,Coimbatore,98582,DMK,"Kulasekar, A. D",44523,CPI(M),"Venkidu Alias Venkatasamy, R",41302,3221,3.27
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,105,Coimbatore North,GEN,Coimbatore,78959,AIADMK,"Aranganayagam, C",38061,DMK,"Ramanathan, M",35634,2427,3.07
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,106,Coimbatore South,GEN,Coimbatore,74172,CPI(M),"Ramani, K",33666,INC,Ganga Nair,33533,133,0.18
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,107,Perur,GEN,,98486,AIADMK,Kovaithambi,47308,DMK,"Natarasan, A",46823,485,0.49
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,108,Kinathukkadavu,GEN,Coimbatore,79915,AIADMK,"Kandasamy, K. V",42822,INC,"Doraiswamy, S. T",37093,5729,7.17
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,109,Pollachi,GEN,Coimbatore,93334,AIADMK,"Rathinam, M. V",52833,DMK,"Kannappan, M",39797,13036,13.97
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,110,Valparai,SC,Coimbatore,81658,CPI,"Karuppiah, A. T",46406,INC,Kovai Thangam,33354,13052,15.98
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,111,Udumalpet,GEN,Tiruppur,96619,AIADMK,"Kolandaivelu, P",50570,DMK,"Mariappan, R. T",46049,4521,4.68
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,112,Dharapuram,SC,Tiruppur,77285,AIADMK,"Periasamy, A",43319,DMK,"Palaniammal, V. P",32887,10432,13.5
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,113,Vellakoil,GEN,,90972,AIADMK,"Ramasami, D",56975,INC,"Nallasenapathy Sakkarai Mandradiar, N",32024,24951,27.43
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,114,Pongalur,GEN,,68370,AIADMK,"Kandaswamy, P",40116,INC,"Balasubramaniam, S. R",26420,13696,20.03
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,115,Palladam,GEN,Tiruppur,83337,AIADMK,Paramasiva Gounder,40305,INC,"Kumarasamy, K. N",32345,7960,9.55
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,116,Tiruppur,GEN,,111215,AIADMK,"Manimaran, R",63371,INC,Mohan Kandasamy Alias P. Kandasamy Gounder,39276,24095,21.67
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,117,Kangayam,GEN,Tiruppur,81914,AIADMK,"Krishnaswamy, K. G",45950,DMK,"Sivasabapathi, M",34341,11609,14.17
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,118,Modakkurichi,GEN,Erode,95526,AIADMK,"Balakrishnan, S",56049,DMK,"Ganesamoorthy, A",38402,17647,18.47
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,119,Perundurai,GEN,Erode,80837,CPI,"Nallapan, T. K",44210,INC,"Jaganathan, N. K. P",32543,11667,14.43
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,120,Erode,GEN,,110104,AIADMK,"Muthusamy, S",62342,INC,"Sainathan, R",43839,18503,16.81
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,121,Bhavani,GEN,Erode,72517,AIADMK,"Narayanan, P. G",44152,INC,"Madeswaran, M. P. V",22926,21226,29.27
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,122,Andhiyur,SC,Tiruppur,60462,AIADMK,"Guruswamy, P",34498,DMK,"Vadivel, T. G",20662,13836,22.88
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,123,Gobichettipalayam,GEN,Tiruppur,75278,AIADMK,"Sengottayan, K. A",44703,INC,"Subramaniam, K. M",29690,15013,19.94
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,124,Bhavanisagar,GEN,Erode,79858,AIADMK,"Subramaniam, G. K",38557,DMK,Sampoornam Swamynathan,27852,10705,13.41
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,125,Sathyamangalam,GEN,,70132,AIADMK,"Rangasamy, R",35096,INC,"Rasappa, C. R",35036,60,0.09
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,126,Coonoor,SC,Nilgiris,60555,DMK,"Ranganathan, M",34424,AIADMK,"Periasamy, C",22756,11668,19.27
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,127,Udhagamandalam,GEN,Nilgiris,68560,INC,"Kallan, K",35528,AIADMK,"Gopalan, B",25628,9900,14.44
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,128,Gudalur,GEN,Nilgiris,62990,DMK,"Hutchi, K",36780,CPI,"Narayanan Nair, M. S",23636,13144,20.87
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,129,Palani,SC,Dindigul,78830,CPI(M),"Palanivel, N",41874,INC,"Mani, S. R. P",35646,6228,7.9
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,130,Oddamchatram,GEN,Dindigul,77922,AIADMK,"Kuppuswamy, K",35269,INC,"Palaniswamy, S. K",23882,11387,14.61
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,131,Periyakulam,GEN,Theni,81051,AIADMK,"Gopalakrishnan, K",43774,INC,"Sheik Abdul Kader, K",34938,8836,10.9
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,132,Theni,GEN,,92949,AIADMK,"Jeyaraman, V. R",51534,INC,"Alagar Raja, N. R",41415,10119,10.89
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,133,Bodinayakkanur,GEN,Theni,85275,AIADMK,"Subramanian, K. M. S",50972,INC,"Ramachandran, K. S. M",34013,16959,19.89
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,134,Cumbum,GEN,Theni,96696,AIADMK,"Gopalan, R. T",47577,DMK,"Cumbum Mahandiran, A.K",35395,12182,12.6
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,135,Andipatti,GEN,Theni,74415,AIADMK,"Rajendran, S. S",44490,INC,"Kandasamy, K",16508,27982,37.6
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,136,Sedapatti,GEN,,70169,AIADMK,"Muthiah, R",42012,DMK,"Thangarasan, R. S",28157,13855,19.75
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,137,Thirumangalam,GEN,Madurai,75766,INC,"Chitthan, N. S. V",35181,AIFB,"Perumal, A. R",31679,3502,4.62
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,138,Usilampatti,GEN,Madurai,71029,AIFB,"Andi Thevar, S",33857,IND,"Muthuramalingam, P. K. M",21534,12323,17.35
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,139,Nilakkottai,SC,Dindigul,79372,IND,"Ponnammal, A. S",48892,DMK,"Manivasagam, A",30480,18412,23.2
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,140,Sholavandan,GEN,Madurai,82975,INC,"Chandrasekaran, A",41720,AIADMK,"Manian, P. S",41255,465,0.56
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,141,Thirupparankundram,GEN,Madurai,101180,AIADMK,"Kalimuthu, K",61247,DMK,"Seeni Thevar, P",38740,22507,22.24
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,142,Madurai West,GEN,Madurai,95646,AIADMK,"Ramachandran, M. G",57019,DMK,"Muthuramalingam, Pon",35953,21066,22.02
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,143,Madurai Central,GEN,Madurai,78617,IND,"Nedumaran, P",45700,DMK,"Palanivel Rajan, P. T. R",31566,14134,17.98
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,144,Madurai East,GEN,Madurai,74701,CPI(M),"Sankariah, N",36862,INC,"Ramamoorthy, M. A",30923,5939,7.95
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,145,Samayanallur,SC,,94410,AIADMK,"Baluchamy, A",50612,DMK,"Subashchandra Bose, P",42958,7654,8.11
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,146,Melur,GEN,Madurai,98912,INC,"Veeranambalam, K. V",54003,AIADMK,"Paramasivan, A. M",41849,12154,12.29
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,147,Natham,GEN,Dindigul,70261,INC,"Andi Ambalam, M",36859,IND,"Alagarsamy, T",32471,4388,6.25
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,148,Dindigul,GEN,Dindigul,100547,IND,"Varadarajan, N",55195,INC,"Abdul Khader, N",43676,11519,11.46
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,149,Athoor,GEN,Dindigul,95171,AIADMK,"Vellaisamy, A",55359,DMK,Rajambal,38990,16369,17.2
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,150,Vedasandur,GEN,Dindigul,90985,AIADMK,"Balasubramanian, V. P",58128,INC,"Raju, G. P. V",32857,25271,27.77
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,151,Aravakurichi,GEN,Karur,87482,AIADMK,"Sennimalai Alias, Kandahsamy P. S",45145,INC,"Shanmugam, K",40233,4912,5.61
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,152,Karur,GEN,Karur,106981,AIADMK,"Chinnasamy, M",54331,DMK,"Nallasamy, S",46025,8306,7.76
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,153,Krishnarajapuram,SC,Karur,78847,INC,"Thangavelraj, P. M",43623,AIADMK,"Rengaraju, O",34584,9039,11.46
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,154,Marungapuri,GEN,,76282,AIADMK,"Raj Kumar, M. A",32021,INC,"Ramanathan, V",28444,3577,4.69
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,155,Kulithalai,GEN,Karur,84072,CPI,"Karuppaiah, R",44525,INC,"Srinivasa Reddiar, P. E",36336,8189,9.74
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,156,Thottiyam,GEN,,87268,INC,"Periasami, R",37426,IND,"Jayaraj, T. P. K",37119,307,0.35
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,157,Uppiliapuram,ST,,87465,AIADMK,"Arengarajan, V",43263,INC,"Palanimuthu, R",40997,2266,2.59
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,158,Musiri,GEN,Tiruchirappalli,102868,AIADMK,"Rajamanickam, M. K",53697,DMK,"Natarajan, R",49171,4526,4.4
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,159,Lalgudi,GEN,Tiruchirappalli,99995,DMK,Anbil Dharmalingam,40899,IND,"Swamickan, A",38099,2800,2.8
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,160,Perambalur,SC,Perambalur,69977,DMK,"Raju, J. S",28680,AIADMK,"Angamuthu, M",24224,4456,6.37
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,161,Varahur,SC,,74110,AIADMK,"Perumal, N",39476,INC,"Chinnaian, P",33277,6199,8.36
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,162,Ariyalur,GEN,Ariyalur,87531,DMK,"Arumugam, T",45980,AIADMK,Asokan,36776,9204,10.52
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,163,Andimadam,GEN,,71532,AIADMK,"Krishnamoorthy, S",36120,DMK,"Sivasubramanian, S",35412,708,0.99
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,164,Jayankondam,GEN,Ariyalur,87102,INC,"Thangavelu, P",39862,AIADMK,"Selvarajan, T",34955,4907,5.63
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,165,Srirangam,GEN,Tiruchirappalli,91921,AIADMK,"Soundararajan, R",49160,INC,"Swaminathan, V",42761,6399,6.96
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,166,Tiruchirapalli-I,GEN,,71182,AIADMK,"Musiri Putthan, P",35361,DMK,"Krishnamurthi, A. V",33183,2178,3.06
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,167,Tiruchirapalli-Ii,GEN,,77496,AIADMK,"Soundararajan, K",43029,IND,"Kader Mohideen, M. K",34467,8562,11.05
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,168,Thiruverumbur,GEN,Tiruchirappalli,90703,AIADMK,"Gurusamy Alias Annadasan, N",51012,DMK,"Murugesan, K. S",39047,11965,13.19
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,169,Sirkazhi,SC,Nagapattinam,85388,AIADMK,"Balasubramanian, K",49334,DMK,"Subravelu, K",36054,13280,15.55
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,170,Poompuhar,GEN,Nagapattinam,84879,AIADMK,"Vijayabalan, N",45292,DMK,"Ganesan, S",39587,5705,6.72
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,171,Mayuram,GEN,Nagapattinam,77045,DMK,"Kittappa, N",37671,AIADMK,Bala Velayutham,37001,670,0.87
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,172,Kuttalam,GEN,,82892,DMK,"Rajamanickam, R",44254,CPI(M),"Veeraiyan, G",33364,10890,13.14
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,173,Nannilam,SC,Thiruvarur,85013,AIADMK,"Kalaiarasan, A",44829,DMK,"Manimaran, M",39689,5140,6.05
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,174,Thiruvarur,SC,Thiruvarur,90786,CPI(M),"Sellamuthu, M",45557,DMK,"Kuppusamy, Kovi",43959,1598,1.76
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,175,Nagapattinam,GEN,Nagapattinam,85843,CPI(M),"Umanath, R",44105,INC,"Ramanatha Thevar, S. S. R",41738,2367,2.76
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,176,Vedaranyam,GEN,Nagapattinam,85955,AIADMK,"Manickam, M. S",52311,DMK,"Meenatchisundaram, M",32656,19655,22.87
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,177,Thiruthuraipoondi,SC,Thiruvarur,101396,CPI(M),"Uthirapathi, P",62051,INC,"Vedaiyan, V",39345,22706,22.39
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,178,Mannargudi,GEN,Thiruvarur,91996,CPI,"Ambikapathy, M",51818,INC,Gopalasamy Thenkondar M,33496,18322,19.92
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,179,Pattukkottai,GEN,Thanjavur,96249,AIADMK,"Somasundaram, S. D",52900,INC,"Marimuthu, A. R",42302,10598,11.01
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,180,Peravurani,GEN,Thanjavur,95643,AIADMK,"Govendan, M. R",56010,INC,"Palanivel, A",39633,16377,17.12
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,181,Orathanadu,GEN,Thanjavur,93047,INC,"Veeraswamy, T",47021,AIADMK,"Thailappan, T. M",45402,1619,1.74
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,182,Thiruvonam,GEN,,90663,INC,"Sivagnanam, N",44748,AIADMK,Durai Govindarajan,44686,62,0.07
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,183,Thanjavur,GEN,Thanjavur,80781,DMK,"Natarajan, S",40880,IND,"Ramamurthy, A",39901,979,1.21
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,184,Thiruvaiyaru,GEN,Thanjavur,77322,AIADMK,"Subramanian, M",42636,DMK,"Elangovan, G",32967,9669,12.5
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,185,Papanasam,GEN,Thanjavur,71766,INC,"Rajaraman, S",36101,AIADMK,"Narayanaswamy, Govi",33152,2949,4.11
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,186,Valangiman,SC,,72479,AIADMK,Gomathy,40667,DMK,"Chellappa, A",29502,11165,15.4
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,187,Kumbakonam,GEN,Thanjavur,80453,INC,"Pakeer Mohamed, E. S. M",45038,AIADMK,"Eradha, S. R",35415,9623,11.96
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,188,Thiruvidaimarudur,GEN,Thanjavur,88054,DMK,"Ramalingam, S",46943,AIADMK,"Rajamaniekam, K",41111,5832,6.62
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,189,Thirumaiyam,GEN,Pudukkottai,86344,INC,"Sundararaj, N",39479,AIADMK,Pulavar Ponnambalam,39256,223,0.26
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,190,Kolathur,SC,Chennai,88754,AIADMK,"Marimuthu, T",50810,DMK,"Thamizhselvan, A. Keerai",37200,13610,15.33
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,191,Pudukkottai,GEN,Pudukkottai,95877,INC,Rajkumar Vijaya Regunatha Thondaiman,47660,CPI,"Subbiah, K. R",46387,1273,1.33
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,192,Alangudi,GEN,Pudukkottai,107011,AIADMK,"Thirumaran, P",59206,INC,"Pushparaju, T",44605,14601,13.64
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,193,Aranthangi,GEN,Pudukkottai,102604,AIADMK,"Thirunavukkarasu, S",50792,IND,"Mohamed Mashood, M",36519,14273,13.91
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,194,Tirupathur,GEN,Sivaganga,81776,INC,"Valmigi, V",34342,IND,"Madhavan, S",20116,14226,17.4
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,195,Karaikudi,GEN,Sivaganga,89886,DMK,"Chidambaram, C. T",46541,AIADMK,"Kaliappan, P",42648,3893,4.33
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,196,Tiruvadanai,GEN,Ramanathapuram,90601,AIADMK,"Anguchamy, S",34392,INC,"Ramanathan Thevar, A. T. M",32406,1986,2.19
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,197,Ilayangudi,GEN,,74048,CPI,"Sivasamy, S",34437,DMK,"Malaikkannan, V",34381,56,0.08
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,198,Sivaganga,GEN,Sivaganga,72579,INC,"Subramanian, O",41327,IND,"Natarajasamy, N",29875,11452,15.78
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,199,Manamadurai,SC,Sivaganga,76077,IND,"Paramalai, K",38435,INC,"Krishnan, U",36824,1611,2.12
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,200,Paramakudi,SC,Ramanathapuram,80616,AIADMK,"Thavasi, R",43710,DMK,"Elamaran, A",34876,8834,10.96
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,201,Ramanathapuram,GEN,Ramanathapuram,81527,AIADMK,"Ramasamy, T",46987,INC,Zeenath Sheriffdeen,32755,14232,17.46
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,202,Kadaladi,GEN,,78284,AIADMK,"Sathiamoorthy, S",40246,IND,"Abdul Cadir, T. S. O",37010,3236,4.13
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,203,Mudhukulathur,GEN,Ramanathapuram,83043,IND,"Dhanukkodi Thevar,K",42711,INC,"Balakrishnan, S",37175,5536,6.67
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,204,Aruppukkottai,GEN,Virudhunagar,79347,AIADMK,"Pituhai, M",42589,DMK,"Thangapandian, V",30904,11685,14.73
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,205,Sattur,GEN,Virudhunagar,99314,AIADMK,"Ramachandran, K. K. Ss. R",54720,DMK,"Saudi Sundara Barati, S",43795,10925,11.0
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,206,Virudhunagar,GEN,Virudhunagar,82454,AIADMK,"Sundararajan, M",40285,DMK,"Srinivasan, P",29665,10620,12.88
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,207,Sivakasi,GEN,Virudhunagar,86561,AIADMK,"Balakrishnan, V",53081,DMK,"Alagu Thevar, S",27348,25733,29.73
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,208,Srivilliputhur,GEN,Virudhunagar,89536,AIADMK,Thamaraikkani R,46882,INC,Karruppiah Thevar P,29216,17666,19.73
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,209,Rajapalayam,SC,Virudhunagar,87003,IND,Mokkian P,38339,INC,Pottu Pottan K,29758,8581,9.86
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,210,Vilathikulam,GEN,Thoothukkudi,75766,AIADMK,Perumal R.K,40728,DMK,Kumaragurubara Ramanathan S,34088,6640,8.76
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,211,Ottapidaram,SC,Thoothukkudi,63464,CPI,"Appadurai, M",33071,INC,"Veluchami, O. S",30393,2678,4.22
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,212,Kovilpatti,GEN,Thoothukkudi,76777,CPI,"Alagarasamy, S",39442,INC,"Jeyalakshmi, V",30792,8650,11.27
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,213,Sankarankovil,SC,Tirunelveli,65107,AIADMK,"Durairaj, P",31818,DMK,"Madan, K",29436,2382,3.66
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,214,Vasudevanallur,SC,Tirunelveli,65541,CPI(M),"Krishnan, R",33107,INC,"Eswaran, R",29921,3186,4.86
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,215,Kadayanallur,GEN,Tirunelveli,75380,IND,Shahul Hameed A,38225,AIADMK,"Gani A. M. Alias Mohideen Pitchai, A",36354,1871,2.48
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,216,Tenkasi,GEN,Tirunelveli,73457,AIADMK,Sattanatha Karayalar A. K,36638,INC,"Ramanan Alias Venkataramanan, T. R",35963,675,0.92
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,217,Alangulam,GEN,Tirunelveli,76604,GKC,"Navaneetha Krishna Pandian, R",41271,DMK,"Dorai Singh, E",34587,6684,8.73
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,218,Tirunelveli,GEN,Tirunelveli,83394,AIADMK,"Nedunchezhiyan, V. R",48338,INC,Rajathi Kunchithapatham,34142,14196,17.02
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,219,Palayamkottai,GEN,Tirunelveli,77729,AIADMK,"Karuppasami Pandian, V. R",45049,DMK,"Seetharaman, Suba",32680,12369,15.91
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,220,Cheranmahadevi,GEN,,74274,AIADMK,"Pandian, P. H",42793,INC,"Ratnasabhapathy, V",30683,12110,16.3
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,221,Ambasamudram,GEN,Tirunelveli,65966,CPI(M),Easwarmoorthy Alias Soranam,31262,INC,Sangumuthu Thevarm S,26975,4287,6.5
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,222,Nanguneri,GEN,Tirunelveli,70383,AIADMK,"John Vincent, N",36725,INC,"Thangaraj, J",32676,4049,5.75
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,223,Radhapuram,GEN,Tirunelveli,70519,GKC,"Muthu Ramalingam, S",38044,DMK,Nellai Nedumaran,31408,6636,9.41
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,224,Sattangulam,GEN,,59900,GKC,"Ramasamy, S. N",24700,INC,"Dhanuskodi Athithan, R",23688,1012,1.69
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,225,Tiruchendur,GEN,Thoothukkudi,71730,AIADMK,"Kesava Athithan, S",35499,DMK,Samsudin Alias Kathiravan,34294,1205,1.68
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,226,Srivaikuntam,GEN,Thoothukkudi,67968,AIADMK,"Ramasubramanian, E",26502,INC,"Shanmugam, V",24404,2098,3.09
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,227,Thoothukkudi,GEN,Thoothukkudi,94032,AIADMK,"Rajendran, S. N",54171,DMK,"Krishnan, R",39365,14806,15.75
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,228,Kanniyakumari,GEN,Kanniyakumari,74851,AIADMK,"Muthukrishnan, S",35613,INC,"Mathevan Pillai, A",28515,7098,9.48
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,229,Nagercoil,GEN,Kanniyakumari,71824,AIADMK,"Vincent, M",39328,DMK,"Thiraviam, A",30045,9283,12.92
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,230,Kollachal,GEN,Kanniyakumari,64076,DMK,Retnaraj,42949,AIADMK,"Sanotsham, M",21127,21822,34.06
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,231,Padmanabhapuram,GEN,Kanniyakumari,53017,JNP,"Muthammad Ismail, P",19758,GKC,"Lawrence, K",17434,2324,4.38
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,232,Thiruvattar,GEN,,61757,CPI(M),Hemachandran J,29463,INC,Thobias P,17099,12364,20.02
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,233,Vilavancode,GEN,Kanniyakumari,63673,CPI(M),Moni D,34170,DMK,Davis Raj P,25348,8822,13.86
+ae-tamil-nadu-1980,AE,Tamil Nadu,1980,1980,official,234,Killiyoor,GEN,Kanniyakumari,58073,JNP,Vijayaraghavan P,31521,DMK,Russel Raj C,16691,14830,25.54

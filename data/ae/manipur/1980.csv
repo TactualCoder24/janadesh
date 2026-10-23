@@ -1,0 +1,61 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-manipur-1980,AE,Manipur,1980,1980,official,1,Khundrakpam,GEN,Imphal East *,10599,CPI(M),Yumlembam Kulla,2241,IND,Langonjan Tikendra,1645,596,5.62
+ae-manipur-1980,AE,Manipur,1980,1980,official,2,Heingang,GEN,Imphal East *,11682,IND,Waikhom Jagor,3388,INC,Longjan Ningthemjao,2387,1001,8.57
+ae-manipur-1980,AE,Manipur,1980,1980,official,3,Khurai,GEN,Imphal East *,11330,MPP,Chandam Nanihar,2577,INC,Atomba Nagiranbamcha,2392,185,1.63
+ae-manipur-1980,AE,Manipur,1980,1980,official,4,Khetrigao,GEN,Imphal East *,12114,INCU,Muhammaddin,2361,CPI,Moirangthem Ibohal,2045,316,2.61
+ae-manipur-1980,AE,Manipur,1980,1980,official,5,Thongju,GEN,Imphal East *,12215,IND,Oinam Tomba,3241,MPP,Walkhom Tolen,2302,939,7.69
+ae-manipur-1980,AE,Manipur,1980,1980,official,6,Keirao,GEN,Imphal East *,11643,IND,Abdul Matalip,2985,CPI,Takhellambam Tomba,2705,280,2.4
+ae-manipur-1980,AE,Manipur,1980,1980,official,7,Andro,GEN,Senapati,13131,INCU,Lait0Ngbam Amujao,6905,JNP,Ashraf Ali,5704,1201,9.15
+ae-manipur-1980,AE,Manipur,1980,1980,official,8,Lamlai,GEN,Imphal East *,10205,CPI,Pheiroijam Parijat,4197,INC,Yumkhibam Kerani,3114,1083,10.61
+ae-manipur-1980,AE,Manipur,1980,1980,official,9,Thangmeiband,GEN,Imphal East *,10044,IND,K. Radhabinod,2274,MPP,Gangummei,1299,975,9.71
+ae-manipur-1980,AE,Manipur,1980,1980,official,10,Uripok,GEN,Imphal East *,7981,IND,Paonam Achow,2140,JNP,L. Raghumani,1242,898,11.25
+ae-manipur-1980,AE,Manipur,1980,1980,official,11,Sagolband,GEN,Imphal East *,9792,MPP,M. Kumar,1862,IND,Salam Damodar,1134,728,7.43
+ae-manipur-1980,AE,Manipur,1980,1980,official,12,Keisamthong,GEN,Imphal East *,13156,MPP,Lasihram Manobi,1998,INCU,P. Shyamkishore,1649,349,2.65
+ae-manipur-1980,AE,Manipur,1980,1980,official,13,Singjamei,GEN,Imphal East *,9815,INCU,I. Tompok Singh,2309,JNP,Th Chandrasekhar,1766,543,5.53
+ae-manipur-1980,AE,Manipur,1980,1980,official,14,Yaiskul,GEN,Imphal East *,10836,INC,R. K. Dorendra,4609,JNP,Ayekpam Biramangol Singh,2744,1865,17.21
+ae-manipur-1980,AE,Manipur,1980,1980,official,15,Wangkhei,GEN,Imphal East *,12615,JNP,Yumkham Irabot,4052,INC,Ahamadullah Mirza,2914,1138,9.02
+ae-manipur-1980,AE,Manipur,1980,1980,official,16,Sekmai,SC,Imphal West,10241,JNP,Kh. Chaoba,3568,INC,Khangembam Leirijao,2580,988,9.65
+ae-manipur-1980,AE,Manipur,1980,1980,official,17,Lamsang,GEN,Imphal West,12131,IND,Phuritsabam Sagar Singh,2329,CPI,Khundongbam Jugeshwar,2260,69,0.57
+ae-manipur-1980,AE,Manipur,1980,1980,official,18,Konthoujam,GEN,Imphal West,12534,INC,Hemam Lokhon,2711,CPI,Thangjam Babu,2581,130,1.04
+ae-manipur-1980,AE,Manipur,1980,1980,official,19,Patsoi,GEN,Imphal West,12180,JNP,Leisangthem Chandramani,3225,MPP,Nongmaithem Ibomcha,2718,507,4.16
+ae-manipur-1980,AE,Manipur,1980,1980,official,20,Langthabal,GEN,Imphal East *,11243,JNP,Okram Joy,4063,INCU,Karam Babudhom,3479,584,5.19
+ae-manipur-1980,AE,Manipur,1980,1980,official,21,Naoriya Pakhanglakpa,GEN,Imphal West,13787,INCU,Wahengam Angau,5320,MPP,Akoijam Ibobi,4180,1140,8.27
+ae-manipur-1980,AE,Manipur,1980,1980,official,22,Wangoi,GEN,Thoubal,11239,INC,Chungkhom Rajmuhon,4749,JNP,Wahengbem Nipamcha,4063,686,6.1
+ae-manipur-1980,AE,Manipur,1980,1980,official,23,Mayang Imphal,GEN,Imphal West,12515,INC,Khunujam Amutombi,4569,JNP,Md. Abdul Latif,2795,1774,14.17
+ae-manipur-1980,AE,Manipur,1980,1980,official,24,Nambol,GEN,Bishnupur,13760,JNP,Th. Chaoba,4678,INC,Hidangmayum Shyam Kiswar Sharma,4506,172,1.25
+ae-manipur-1980,AE,Manipur,1980,1980,official,25,Oinam,GEN,Bishnupur,12327,JNP,Yamnam Yaima Singh,4220,INC,Keisham Bira,3998,222,1.8
+ae-manipur-1980,AE,Manipur,1980,1980,official,26,Bishenpur,GEN,Bishnupur,12393,INCU,Khundrakpam Pulinkant Singh,2531,IND,Konthoujam Gojendro Singh,2257,274,2.21
+ae-manipur-1980,AE,Manipur,1980,1980,official,27,Moirang,GEN,Bishnupur,14943,JNP,Mairembam Koireng,5052,JNPS,Hemam Nilamani,4582,470,3.15
+ae-manipur-1980,AE,Manipur,1980,1980,official,28,Thanga,GEN,Bishnupur,10073,IND,Haojam Kangjamba Singh,3711,JNPS,Kaisanam Yaima,2958,753,7.48
+ae-manipur-1980,AE,Manipur,1980,1980,official,29,Kumbi,GEN,Bishnupur,11401,INC,Khangembam Manimohan Singh,2650,INCU,Shanasham Bira Singh,2643,7,0.06
+ae-manipur-1980,AE,Manipur,1980,1980,official,30,Lilong,GEN,Thoubal,12420,INC,Md. Helaluddin Khan,7629,JNP,Md. Alimuddin,4680,2949,23.74
+ae-manipur-1980,AE,Manipur,1980,1980,official,31,Thoubal,GEN,Thoubal,13747,MPP,Thodam Krishna,3701,INCU,Akoijam Ibomcha,3633,68,0.49
+ae-manipur-1980,AE,Manipur,1980,1980,official,32,Wangkhem,GEN,Senapati,13068,IND,Pangambam Munal,2991,INCU,Iboton,2114,877,6.71
+ae-manipur-1980,AE,Manipur,1980,1980,official,33,Heirok,GEN,Thoubal,12593,JNP,Moirangthem Ibotombi,4936,INC,Nongmeikapam Nilakamal,4754,182,1.45
+ae-manipur-1980,AE,Manipur,1980,1980,official,34,Wangjing Tentha,GEN,Thoubal,12499,IND,Laishram Saratchandra,3221,CPI,Moirangthem Nara,2432,789,6.31
+ae-manipur-1980,AE,Manipur,1980,1980,official,35,Khangabo,GEN,Thoubal,12590,CPI,Thokehom Achouba,3139,IND,Md. Abdul Jabar,2812,327,2.6
+ae-manipur-1980,AE,Manipur,1980,1980,official,36,Wabgai,GEN,Thoubal,12263,IND,Abdul Salam,2634,MPP,Noarem Mahondas,1768,866,7.06
+ae-manipur-1980,AE,Manipur,1980,1980,official,37,Kakching,GEN,Thoubal,11449,CPI,Kshetri Irabot,4365,JNP,Yengkhom Thambal,3916,449,3.92
+ae-manipur-1980,AE,Manipur,1980,1980,official,38,Hiyanglam,GEN,Thoubal,12319,CPI,Elangbam Babudhon,3487,INCU,Elangbam Biramani,3027,460,3.73
+ae-manipur-1980,AE,Manipur,1980,1980,official,39,Sugnoo,GEN,Thoubal,12345,CPI,Mayanglambam Nila Singh,3836,INCU,Mayanglambam Babu,2923,913,7.4
+ae-manipur-1980,AE,Manipur,1980,1980,official,40,Jiribam,GEN,Imphal East *,10287,IND,Devendra Singh,6731,JNP,S. Bijoy,3003,3728,36.24
+ae-manipur-1980,AE,Manipur,1980,1980,official,41,Chandel,ST,Chandel,17966,KNA,Satkholal,6075,INC,Lh. Angno,3251,2824,15.72
+ae-manipur-1980,AE,Manipur,1980,1980,official,42,Tengnoupal,ST,Chandel,14351,KNA,Jainson Haokip,5055,INC,K. Leithil,3512,1543,10.75
+ae-manipur-1980,AE,Manipur,1980,1980,official,43,Phungyar,ST,Ukhrul,11661,INC,Rishang Keishing,5440,JNP,M. C. Ngathingkhui,3045,2395,20.54
+ae-manipur-1980,AE,Manipur,1980,1980,official,44,Ukhrul,ST,Ukhrul,12657,JNP,Yangmaso Shaiza,6191,INC,S. Zingthan,5040,1151,9.09
+ae-manipur-1980,AE,Manipur,1980,1980,official,45,Chingai,ST,Ukhrul,13499,JNP,Somi A. Shimray,5472,IND,P. Pater,5060,412,3.05
+ae-manipur-1980,AE,Manipur,1980,1980,official,46,Saikul,ST,Senapati,12811,INCU,Holkholet Khongsai,2456,KNA,K. S. Seiboy,2136,320,2.5
+ae-manipur-1980,AE,Manipur,1980,1980,official,47,Karong,ST,Senapati,16686,IND,Vio,6057,JNP,K. S. Bengamin Banee,4407,1650,9.89
+ae-manipur-1980,AE,Manipur,1980,1980,official,48,Mao,ST,Senapati,19110,INC,Soshow Lorho,6897,JNP,Kh. Thekho,5576,1321,6.91
+ae-manipur-1980,AE,Manipur,1980,1980,official,49,Tadubi,ST,Senapati,15754,IND,Luikang,5218,MPP,Haokholet,3907,1311,8.32
+ae-manipur-1980,AE,Manipur,1980,1980,official,50,Kangpokpi,GEN,Senapati,11115,INC,Kishore Thapa,5353,IND,Taokhosli Kipgen,3233,2120,19.07
+ae-manipur-1980,AE,Manipur,1980,1980,official,51,Saitu,ST,Senapati,14102,IND,L. S. John,2615,JNP,Althing (Lhingjaneng),2496,119,0.84
+ae-manipur-1980,AE,Manipur,1980,1980,official,52,Tamei,ST,Tamenglong,11667,INC,I. D. Dijuanang,5211,IND,Ilunang,3054,2157,18.49
+ae-manipur-1980,AE,Manipur,1980,1980,official,53,Tamenglong,ST,Tamenglong,9205,IND,K. Huriang,3318,JNP,Phenrong,2043,1275,13.85
+ae-manipur-1980,AE,Manipur,1980,1980,official,54,Nungba,ST,Tamenglong,9223,IND,Saikhangam,2905,JNP,Jangamlung,2168,737,7.99
+ae-manipur-1980,AE,Manipur,1980,1980,official,55,Tipaimukh,ST,Churachandpur,9002,INC,Mgurdinglien,3872,IND,Selkai Hrangchal,3556,316,3.51
+ae-manipur-1980,AE,Manipur,1980,1980,official,56,Thanlon,ST,Churachandpur,10553,INC,Phungzathang,5264,IND,Thangkhangin,3344,1920,18.19
+ae-manipur-1980,AE,Manipur,1980,1980,official,57,Henglep,ST,Churachandpur,12820,IND,Holkhomang,3233,INC,Mangkhothong,3091,142,1.11
+ae-manipur-1980,AE,Manipur,1980,1980,official,58,Churachandpur,ST,Churachandpur,10943,IND,K. Vungzalian,4431,INC,Baukholal Thangjem,3231,1200,10.97
+ae-manipur-1980,AE,Manipur,1980,1980,official,59,Saikot,ST,Churachandpur,13142,IND,Ngulkhohau,3719,KNA,T. Kholly,2335,1384,10.53
+ae-manipur-1980,AE,Manipur,1980,1980,official,60,Singhat,ST,Churachandpur,11251,INC,Thangkhanlal,3701,INCU,Haulianthang,3365,336,2.99

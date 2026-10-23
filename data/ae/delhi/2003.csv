@@ -1,0 +1,71 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-delhi-2003,AE,Delhi,2003,2003,official,1,Sarojini Nagar,GEN,,40484,INC,Ashok Ahuja,21125,BJP,Ram Bhaj,18370,2755,6.81
+ae-delhi-2003,AE,Delhi,2003,2003,official,2,Gole Market,GEN,,39037,INC,Sheila Dikshit,25156,BJP,Poonam Azad,12221,12935,33.14
+ae-delhi-2003,AE,Delhi,2003,2003,official,3,Minto Road,GEN,,44630,INC,Tajdar Babar,29038,BJP,Manoj Jain,10377,18661,41.81
+ae-delhi-2003,AE,Delhi,2003,2003,official,4,Kasturba Nagar,GEN,,39428,BJP,Sushil Choudery,17949,INC,Ashok Chopra,17266,683,1.73
+ae-delhi-2003,AE,Delhi,2003,2003,official,5,Jangpura,GEN,,47820,INC,Tarvinder Singh Marwah,32937,BJP,Kuldeep Singh Bhogal,12710,20227,42.3
+ae-delhi-2003,AE,Delhi,2003,2003,official,6,Okhla,GEN,,54491,INC,Parvez Hashmi,29876,BJP,Rajpal Singh,15227,14649,26.88
+ae-delhi-2003,AE,Delhi,2003,2003,official,7,Kalkaji,GEN,,55703,INC,Subhash Chopra,35721,BJP,Purnima Sethi,18077,17644,31.68
+ae-delhi-2003,AE,Delhi,2003,2003,official,8,Malviya Nagar,GEN,,52903,INC,Dr. Yoganand Shastri,25448,BJP,Monika Arora,20928,4520,8.54
+ae-delhi-2003,AE,Delhi,2003,2003,official,9,Hauz Khas,GEN,,41660,INC,Kiran Walia,23561,BJP,Arti Mehra,16637,6924,16.62
+ae-delhi-2003,AE,Delhi,2003,2003,official,10,R .K. Puram,GEN,,41849,INC,Barkha Singh,22591,BJP,Ajit Singh,17006,5585,13.35
+ae-delhi-2003,AE,Delhi,2003,2003,official,11,Delhi Cantonment,GEN,,41200,BJP,Karan Singh Tanwar,21638,INC,Kiran Choudhry,17872,3766,9.14
+ae-delhi-2003,AE,Delhi,2003,2003,official,12,Janak Puri,GEN,,59105,BJP,Jagdish Mukhi,35281,INC,Shiv Kumar Sondhi,22390,12891,21.81
+ae-delhi-2003,AE,Delhi,2003,2003,official,13,Hari Nagar,GEN,,60102,BJP,Harsharan Singh Balli,32971,INC,"O.P.Wadhwa, Advocate",26180,6791,11.3
+ae-delhi-2003,AE,Delhi,2003,2003,official,14,Tilak Nagar,GEN,,62153,BJP,O.P. Babbar,32298,INC,Jaspal Singh,26670,5628,9.06
+ae-delhi-2003,AE,Delhi,2003,2003,official,15,Rajouri Garden,GEN,,57242,INC,Ajay Makan,39515,BJP,Sarabjit Singh,15028,24487,42.78
+ae-delhi-2003,AE,Delhi,2003,2003,official,16,Madipur,SC,,65406,INC,Mala Ram Gangwal,33329,BJP,Kailash,26990,6339,9.69
+ae-delhi-2003,AE,Delhi,2003,2003,official,17,Tri Nagar,GEN,,57458,INC,Anil Bhardwaj,32449,BJP,Nand Kishore Garg,23958,8491,14.78
+ae-delhi-2003,AE,Delhi,2003,2003,official,18,Shakur Basti,GEN,,69736,INC,S.C.Vats,39200,BJP,Shyam Lal Garg,25200,14000,20.08
+ae-delhi-2003,AE,Delhi,2003,2003,official,19,Shalimar Bagh,GEN,,62703,BJP,Ravinder Nath Bansal,34288,INC,B.S. Walia,27404,6884,10.98
+ae-delhi-2003,AE,Delhi,2003,2003,official,20,Badli,GEN,,129748,BJP,Jai Bhagwan Aggarwal,69189,INC,Dharm Vir Yadav,52625,16564,12.77
+ae-delhi-2003,AE,Delhi,2003,2003,official,21,Sahibabad Daulatpur,GEN,,101466,BJP,Kulwant Rana,48528,INC,Ramesh Kumar,42672,5856,5.77
+ae-delhi-2003,AE,Delhi,2003,2003,official,22,Bawana,SC,,99051,INC,Surender Kumar,50327,BJP,Rajkumar,35805,14522,14.66
+ae-delhi-2003,AE,Delhi,2003,2003,official,23,Sultanpur Majra,SC,,69189,INC,Jai Kishan,36164,BJP,Satish Kumar,17243,18921,27.35
+ae-delhi-2003,AE,Delhi,2003,2003,official,24,Mangol Puri,SC,,57282,INC,Rajkumar Chauhan,39147,BSP,Megh Singh,8832,30315,52.92
+ae-delhi-2003,AE,Delhi,2003,2003,official,25,Nangloi Jat,GEN,,79921,INC,Bijender Singh,42158,BJP,Devinder Singh,34116,8042,10.06
+ae-delhi-2003,AE,Delhi,2003,2003,official,26,Vishnu Garden,GEN,,61464,BJP,A.Dayanand Chandila. A,31211,INC,Mahender Singh Sathi,27951,3260,5.3
+ae-delhi-2003,AE,Delhi,2003,2003,official,27,Hastsal,GEN,,145137,INC,Mukesh Sharma,70495,BJP,Rajesh,51207,19288,13.29
+ae-delhi-2003,AE,Delhi,2003,2003,official,28,Najaf Garh,GEN,,92406,IND,Ranbir Singh,43342,INC,Kanwal Singh,26252,17090,18.49
+ae-delhi-2003,AE,Delhi,2003,2003,official,29,Nasirpur,GEN,,98922,INC,Mahabal Mishra,45948,IND,Vinod Kumar Sharma,40430,5518,5.58
+ae-delhi-2003,AE,Delhi,2003,2003,official,30,Palam,GEN,,90754,BJP,Dharam Dev Solanki,43521,INC,Sumesh,41204,2317,2.55
+ae-delhi-2003,AE,Delhi,2003,2003,official,31,Mahipalpur,GEN,,66097,INC,Vijay Singh Lochav,30230,BJP,Sat Parkash Rana,25272,4958,7.5
+ae-delhi-2003,AE,Delhi,2003,2003,official,32,Mehrauli,GEN,,71880,INC,Balram Tanwar,40595,BJP,Brahm Singh Tanwar,28939,11656,16.22
+ae-delhi-2003,AE,Delhi,2003,2003,official,33,Saket,GEN,,59487,BJP,Vijay Jolly,17323,INC,Rohit Manchanda,17202,121,0.2
+ae-delhi-2003,AE,Delhi,2003,2003,official,34,Dr. Ambedkar Nagar,SC,,48695,INC,Ch. Prem Singh,25880,BJP,Suresh Chand,17519,8361,17.17
+ae-delhi-2003,AE,Delhi,2003,2003,official,35,Tughlakabad,GEN,,82885,BJP,Ramesh Bidhuri,41523,IND,Shish Pal Singh,17540,23983,28.94
+ae-delhi-2003,AE,Delhi,2003,2003,official,36,Badarpur,GEN,,105005,NCP,Rambir Singh Bidhuri,40224,INC,Ram Singh Netaji,39788,436,0.42
+ae-delhi-2003,AE,Delhi,2003,2003,official,37,Trilokpuri,SC,,66470,INC,Brahm Pal,26469,BJP,Sunil Kumar,20254,6215,9.35
+ae-delhi-2003,AE,Delhi,2003,2003,official,38,Patpar Ganj,SC,,69195,INC,Amrish Singh Gautam,36930,BJP,Gian Chand,18932,17998,26.01
+ae-delhi-2003,AE,Delhi,2003,2003,official,39,Mandawali,GEN,,64278,INC,Meera Bhardwaj,27409,BJP,Virender Juyal,21175,6234,9.7
+ae-delhi-2003,AE,Delhi,2003,2003,official,40,Geeta Colony,GEN,,68097,INC,Dr. Ashok Kumar Walia,45163,BJP,Naveen Kumar,20311,24852,36.49
+ae-delhi-2003,AE,Delhi,2003,2003,official,41,Gandhi Nagar,GEN,,48677,INC,Arvinder Singh Lovely,35791,BJP,Tarjeet Singh,11806,23985,49.27
+ae-delhi-2003,AE,Delhi,2003,2003,official,42,Krishna Nagar,GEN,,59614,BJP,Dr. Harsh Vardhan,35477,INC,Narinder Kumar,21404,14073,23.61
+ae-delhi-2003,AE,Delhi,2003,2003,official,43,Vishwas Nagar,GEN,,79443,INC,Naseeb Singh,48897,BJP,Madan Lal Gaba,26948,21949,27.63
+ae-delhi-2003,AE,Delhi,2003,2003,official,44,Shahdara,GEN,,61646,INC,Narender Nath,26423,IND,Jitender Singh Shunty,13238,13185,21.39
+ae-delhi-2003,AE,Delhi,2003,2003,official,45,Seema Puri,SC,,61495,INC,Veer Singh Dhingan,31051,BJP,Kamala,13961,17090,27.79
+ae-delhi-2003,AE,Delhi,2003,2003,official,46,Nand Nagari,SC,,68109,INC,Baljor Singh,30408,BSP,Satish Kumar,19063,11345,16.66
+ae-delhi-2003,AE,Delhi,2003,2003,official,47,Rohtas Nagar,GEN,,61366,INC,Ram Babu Sharma,29886,BJP,Alok Kumar,23523,6363,10.37
+ae-delhi-2003,AE,Delhi,2003,2003,official,48,Babarpur,GEN,,53934,INC,Vinay Sharma,25630,BJP,Naresh Gaud,21371,4259,7.9
+ae-delhi-2003,AE,Delhi,2003,2003,official,49,Seelam Pur,GEN,,54413,INC,Chaudhry Mateen Ahmed,34085,BJP,Sanjay Kumar Jain,12373,21712,39.9
+ae-delhi-2003,AE,Delhi,2003,2003,official,50,Ghonda,GEN,,55535,INC,Bheeshma Sharma,26785,BSP,Rohtash Kumar,13177,13608,24.5
+ae-delhi-2003,AE,Delhi,2003,2003,official,51,Yamuna Vihar,GEN,,67255,BJP,Sahab Singh Chauhan,31001,INC,Diwan Singh,29442,1559,2.32
+ae-delhi-2003,AE,Delhi,2003,2003,official,52,Karawal Nagar,GEN,,105982,BJP,Mohan Singh Bisht,44884,INC,Hasan Ahmed,29657,15227,14.37
+ae-delhi-2003,AE,Delhi,2003,2003,official,53,Wazirpur,GEN,,59730,BJP,Mange Ram Garg,27052,INC,Rattan Chand Jain,24545,2507,4.2
+ae-delhi-2003,AE,Delhi,2003,2003,official,54,Narela,SC,,75408,INC,Charan Singh Kandera,36501,BJP,Laxman Singh,28698,7803,10.35
+ae-delhi-2003,AE,Delhi,2003,2003,official,55,Bhalswa Jahangirpur,GEN,,97905,INC,J.S. Chauhan,39356,NCP,Jitender Kumar,27084,12272,12.53
+ae-delhi-2003,AE,Delhi,2003,2003,official,56,Adarsh Nagar,GEN,,62159,INC,Mangat Ram,29290,BJP,Ravinder Singh,19958,9332,15.01
+ae-delhi-2003,AE,Delhi,2003,2003,official,57,Pahar Ganj,GEN,,47456,INC,Anjali Rai,28225,BJP,Virender Babbar,16885,11340,23.9
+ae-delhi-2003,AE,Delhi,2003,2003,official,58,Matia Mahal,GEN,,48308,JDS,Shoaib Iqbal,25222,INC,Azhar Shagufa,17524,7698,15.94
+ae-delhi-2003,AE,Delhi,2003,2003,official,59,Balli Maran,GEN,,48537,INC,Haroon Yusuf,31357,IND,Satish Chand Jain,8766,22591,46.54
+ae-delhi-2003,AE,Delhi,2003,2003,official,60,Chandni Chowk,GEN,,44642,INC,Parlad Singh Sawhney,26744,BJP,Dharamvir Sharma,15878,10866,24.34
+ae-delhi-2003,AE,Delhi,2003,2003,official,61,Timarpur,GEN,,55609,INC,Surinder Pal Singh,29952,BJP,Rajendra Gupta,23978,5974,10.74
+ae-delhi-2003,AE,Delhi,2003,2003,official,62,Model Town,GEN,,54596,INC,Kanwar Karan Singh,24660,BJP,Ashok Aggarwal,19944,4716,8.64
+ae-delhi-2003,AE,Delhi,2003,2003,official,63,Kamla Nagar,GEN,,51850,INC,Shadi Ram,27789,BJP,Surya Parkash,22627,5162,9.96
+ae-delhi-2003,AE,Delhi,2003,2003,official,64,Sadar Bazar,GEN,,50168,INC,Rajesh Jain,33144,BJP,Prof. Raghuvansh Singhal,15065,18079,36.04
+ae-delhi-2003,AE,Delhi,2003,2003,official,65,Moti Nagar,GEN,,60393,BJP,Madan Lal Khurana,37051,INC,Alka Lamba,21861,15190,25.15
+ae-delhi-2003,AE,Delhi,2003,2003,official,66,Patel Nagar,GEN,,54689,INC,Rama Kant Goswami,32833,BJP,Mahesh Chadha,18657,14176,25.92
+ae-delhi-2003,AE,Delhi,2003,2003,official,67,Rajinder Nagar,GEN,,52743,BJP,Puran Chand Yogi,22069,INC,Raj Kumar Kohli,21178,891,1.69
+ae-delhi-2003,AE,Delhi,2003,2003,official,68,Karol Bagh,SC,,46562,BJP,Surender Pal Ratawal,21812,INC,Durgesh Mohanpuria,20953,859,1.84
+ae-delhi-2003,AE,Delhi,2003,2003,official,69,Ramnagar,SC,,49666,BJP,Moti Lal Sodi,22319,INC,Darshna,21221,1098,2.21
+ae-delhi-2003,AE,Delhi,2003,2003,official,70,Baljit Nagar,SC,,54443,INC,Krishna Tirath,30132,BJP,K.C. Ravi,19202,10930,20.08

@@ -1,0 +1,235 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,1,Royapuram,GEN,Chennai,77702,DMK,"Era, Mathivanan",44893,AIADMK,D. Jayakumar,27485,17408,22.4
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,2,Harbour,GEN,Chennai,55638,DMK,Anbazhagan.K,39263,INC,Earnest Paul,9007,30256,54.38
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,3,Dr. Radhakrishnan Nagar,GEN,Chennai,120928,DMK,"Sarkunam, S.P",75125,AIADMK,"Raveendran,R.M.D",32044,43081,35.63
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,4,Park Town,GEN,,65124,DMK,T. Rajhendherr,44565,INC,S.V. Shankar,15086,29479,45.27
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,5,Perambur,SC,Chennai,134760,DMK,Chengaisivam,90683,AIADMK,"Neelakandan,V",32332,58351,43.3
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,6,Purasawalkam,GEN,,139022,TMC(M),"Ranganathan,B",98157,INC,"Gnanam,J. Kathipara",25543,72614,52.23
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,7,Egmore,SC,Chennai,70359,DMK,"Ellam Vazhuthi,I",51061,INC,"Lakshmi,N",13876,37185,52.85
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,8,Anna Nagar,GEN,Chennai,154842,DMK,"Arcot Veeraswami,N",103819,INC,"Balasubramanian, R",34802,69017,44.57
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,9,T-Nagar,GEN,Chennai,113853,TMC(M),"Chellakumar, A",76461,AIADMK,"Vijayan, S",27463,48998,43.04
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,10,Thousand Lights,GEN,Chennai,95968,DMK,"Stalin, M. K",66905,AIADMK,Zeenath Sheriffdeen,22028,44877,46.76
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,11,Chepauk,GEN,Chennai,59827,DMK,M. Karunanidhi,46097,INC,N.S.S.Nellai Kannan,10313,35784,59.81
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,12,Triplicane,GEN,,71898,DMK,"Nanjil Manoharan, K",50401,AIADMK,"Wahab, A",15390,35011,48.7
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,13,Mylapore,GEN,Chennai,118565,DMK,"Ramajayam, N.P",79736,AIADMK,"Sampath, T.K",27932,51804,43.69
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,14,Saidapet,GEN,Chennai,130871,DMK,"Saidai Kittu, K",76031,AIADMK,"Saidai Duraisamy, S",46178,29853,22.81
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,15,Gummidipoondi,GEN,Thiruvallur,124675,DMK,"Venu, K",61946,AIADMK,"Munirathinam, R.S",40321,21625,17.35
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,16,Ponneri,SC,Thiruvallur,141856,DMK,"Sundaram, K",87547,AIADMK,"Gunasekaran, G",42156,45391,32.0
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,17,Thiruvottiyur,GEN,Thiruvallur,180624,DMK,"Vijayan, T.C",115939,AIADMK,"Balraj, B",40917,75022,41.53
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,18,Villivakkam,GEN,Chennai,276880,TMC(M),"Haroon Rasheed, J.M",194471,INC,"Mohan, M.G",46724,147747,53.36
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,19,Alandur,GEN,Kancheepuram,177478,DMK,"Shanmugam, C",117545,AIADMK,"Purushothaman, K",41551,75994,42.82
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,20,Tambaram,GEN,Kancheepuram,256370,DMK,"Vaidyalingam, M.A",166401,INC,"Madhavan, K.B",52442,113959,44.45
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,21,Tirupporur,SC,,122935,DMK,"Chokkalingam, G",62414,AIADMK,"Loganathan, N.K",30518,31896,25.95
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,22,Chengalpattu,GEN,Kancheepuram,115493,DMK,"Tamilmani, V",66443,AIADMK,"Kumarasamy, C.V.N",29638,36805,31.87
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,23,Maduranthakam,GEN,Kancheepuram,107573,DMK,"Venkatesan, S.K",53563,AIADMK,"U. Kamchand, S.D",42970,10593,9.85
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,24,Acharapakkam,SC,,97170,DMK,"Mathivanan, S",54558,AIADMK,"Bhuvaraghamoorthy, A",29187,25371,26.11
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,25,Uthiramerur,GEN,Kancheepuram,125058,DMK,K. Sundar,66086,AIADMK,N.K. Gnanasekaran,32994,33092,26.46
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,26,Kancheepuram,GEN,Kancheepuram,139031,DMK,P. Murugesan,77723,AIADMK,S.S. Thirunavukarasu,45094,32629,23.47
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,27,Sriperumbudur,SC,Kancheepuram,121900,DMK,"Kothandam, E",71575,INC,"Chinnandi, K.N",35139,36436,29.89
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,28,Poonamallee,GEN,Thiruvallur,142348,TMC(M),"Sudarsanam, D",75731,INC,P. Krishnamoorthy,25220,50511,35.48
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,29,Thiruvallur,GEN,Thiruvallur,107657,DMK,Subramani @ C.S. Mani,65432,AIADMK,"Kanagaraaj, G",32178,33254,30.89
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,30,Tiruttani,GEN,Thiruvallur,107691,DMK,"Sivaji, E.A.P",58049,AIADMK,"Hari, G",28507,29542,27.43
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,31,Pallipet,GEN,,119117,TMC(M),E.S.S. Raman,79848,INC,B. Thangavel,21356,58492,49.1
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,32,Arakkonam,SC,Vellore,121374,DMK,"Thamizh Chelvan, R",70550,PMK,"Elumalai, R",23730,46820,38.57
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,33,Sholingur,GEN,Vellore,120293,TMC(M),"Munirathinam, A.M",65361,PMK,"Shanmugham, S",31431,33930,28.21
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,34,Ranipet,GEN,Vellore,140434,DMK,"Gandhi, R",71346,AIADMK,"Masilamani, M",37219,34127,24.3
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,35,Arcot,GEN,Vellore,107214,DMK,"Subramani, P.N",62974,AIADMK,"Ramadoss, K.V",36567,26407,24.63
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,36,Katpadi,GEN,Vellore,123266,DMK,Duraimurugan,75439,AIADMK,"Pandurangan, K",34432,41007,33.27
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,37,Gudiyattam,GEN,Vellore,100453,DMK,"Dhanapal, V.G",48837,INC,"Ramgopal, S",19701,29136,29.0
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,38,Pernambattu,SC,,109071,DMK,V. Govindan,63655,AIADMK,I. Tamizharasan,32481,31174,28.58
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,39,Vaniyambadi,GEN,Vellore,110189,DMK,"Abdul Latheef, M",74223,INC,"Kuppusamy, K",26970,47253,42.88
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,40,Natrampalli,GEN,,126395,DMK,R. Mahendran,50118,IND,T. Anbazhagan,46897,3221,2.55
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,41,Tiruppattur,GEN,Vellore,123897,DMK,"Shanmugam, G",66207,AIADMK,"Mani, P.G",34549,31658,25.55
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,42,Chengam,SC,Tiruvannamalai,99747,DMK,"Nannan, K.V",58958,AIADMK,"Thamizharasan, C.K",32325,26633,26.7
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,43,Thandarambattu,GEN,,115376,TMC(M),"Manivarma, K",72636,AIADMK,"Kuppusamy, A.P",32822,39814,34.51
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,44,Tiruvannamalai,GEN,Tiruvannamalai,125822,DMK,"Pitchandi, K",83731,INC,"Arunachalam, A",30753,52978,42.11
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,45,Kalasapakkam,GEN,Tiruvannamalai,122092,DMK,"Thiruvengadam, P.S",72177,INC,"Sundarasami, M",37647,34530,28.28
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,46,Polur,GEN,Tiruvannamalai,106525,DMK,A. Rajendran,59070,AIADMK,Agri. S. Krishnamoorthy,34917,24153,22.67
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,47,Anaicut,GEN,Vellore,105716,DMK,"Gopu, C",58982,AIADMK,"Suryakala, C.M",27366,31616,29.91
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,48,Vellore,GEN,Vellore,116193,TMC(M),C. Gnanasekaran,82339,INC,S.B. Bhaskaran,21451,60888,52.4
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,49,Arani,GEN,Tiruvannamalai,122867,DMK,R. Sivanandam,63014,AIADMK,"Chinnakulamdai, M",44835,18179,14.8
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,50,Cheyyar,GEN,Tiruvannamalai,116620,DMK,V. Anbalagan,71416,AIADMK,P. Chandran,33930,37486,32.14
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,51,Vandavasi,SC,Tiruvannamalai,109686,DMK,"Anandan, Bala",65775,AIADMK,"Gunaseelan, V",26029,39746,36.24
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,52,Peranamallur,GEN,,111005,DMK,N. Pandurangan,57907,AIADMK,C. Srinivasan,30114,27793,25.04
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,53,Melmalayanur,GEN,,111439,DMK,"Gnanasekar, A",50905,INC,Dharmarasan,22491,28414,25.5
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,54,Gingee,GEN,Villupuram,120477,DMK,T. Natarajan,51327,INC,T.N. Muruganandam,25893,25434,21.11
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,55,Tindivanam,GEN,Villupuram,100106,DMK,"Sedunathan, R",45448,PMK,"Karunanithi, M",20068,25380,25.35
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,56,Vanur,SC,Villupuram,117386,DMK,"Marimuthu, A",58966,AIADMK,"Erasendiran, S.P",35024,23942,20.4
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,57,Kandamangalam,SC,,118298,DMK,S. Alaguvelu,64256,AIADMK,V. Subramaniyan,34261,29995,25.36
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,58,Villupuram,GEN,Villupuram,128581,DMK,Deivasigamani @ Ponmudy,74891,AIADMK,"Panneerselvam, S.S",33305,41586,32.34
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,59,Mugaiyur,GEN,,110432,DMK,"Sampath, A.G",68215,AIADMK,"Arangarathan, T.M",26619,41596,37.67
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,60,Thirunavalur,GEN,,106548,DMK,A.J. Manikkannan,43983,AIADMK,K.G.P. Gnanamoorthy,31547,12436,11.67
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,61,Ulundurpet,SC,Villupuram,123463,DMK,A. Mani,67088,AIADMK,M. Anandan,46113,20975,16.99
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,62,Nellikuppam,GEN,,107689,DMK,"Mani, A",57977,AIADMK,"Dhamodaran, M.C",32594,25383,23.57
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,63,Cuddalore,GEN,Cuddalore,119606,DMK,E. Pugazhendhi,74480,INC,K.V. Rajendiran,25853,48627,40.66
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,64,Panruti,GEN,Cuddalore,118663,DMK,V. Ramaswamy,68021,AIADMK,R. Rajendran,28891,39130,32.98
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,65,Kurinjipadi,GEN,Cuddalore,122122,DMK,M.R.K. Panneerselvam,67152,AIADMK,N. Pandarinathan,28139,39013,31.95
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,66,Bhuvanagiri,GEN,Cuddalore,112920,DMK,A.V. Abdul Naser,49457,PMK,P.D. Elangovan,30112,19345,17.13
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,67,Kattumannarkoil,SC,Cuddalore,102498,DMK,"Ramalingam, E",46978,HRPI,"Elayaperumal, L",37159,9819,9.58
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,68,Chidambaram,GEN,Cuddalore,103050,TMC(M),S. Azhagiri,52066,INC,A. Radhakrishnan,23050,29016,28.16
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,69,Vridhachalam,GEN,Cuddalore,131213,DMK,Tamizharasan M.A.B.L. Kuzhandai,49103,PMK,"Govindasamy, R",42218,6885,5.25
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,70,Mangalur,SC,,119195,TMC(M),S. Puratchimani,50908,INC,V.M.S. Saravanakumar,31620,19288,16.18
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,71,Rishivandiyam,GEN,Villupuram,106344,TMC(M),"Sivaraj, S",65230,AIADMK,"Annadurai, P",25166,40064,37.67
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,72,Kallakurichi,GEN,Villupuram,111956,DMK,R. Mookkappan,66981,AIADMK,P. Mohan,35336,31645,28.27
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,73,Sankarapuram,GEN,Villupuram,116754,DMK,T. Udhayasuriyan,62673,AIADMK,A. Saruvar Kasim,40515,22158,18.98
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,74,Hosur,GEN,Krishnagiri,118830,JD,"Venkatasamy, B",41456,TMC(M),"Venkatareddy, T",39719,1737,1.46
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,75,Thalli,GEN,Krishnagiri,91819,CPI,"Raja Reddi, S",26427,INC,Venkatarama Reddi,18938,7489,8.16
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,76,Kaveripattinam,GEN,,116681,DMK,"Venkatesan, P.V.S",72945,AIADMK,"Munusamy, K.P",37086,35859,30.73
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,77,Krishnagiri,GEN,Krishnagiri,105829,DMK,Kanchana Kamalanathan,67849,AIADMK,"Kathavarayan, K.P",32238,35611,33.65
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,78,Bargur,GEN,Krishnagiri,116643,DMK,"Sugavanam, E.G",59148,AIADMK,Jayalalitha J,50782,8366,7.17
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,79,Harur,SC,Dharmapuri,126930,DMK,Vedammal,70561,INC,J. Natesan,34158,36403,28.68
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,80,Morappur,GEN,,110250,DMK,"Mullaiventhan, V",59518,AIADMK,"Singaram, K",31244,28274,25.65
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,81,Palacodu,GEN,Dharmapuri,114419,DMK,Venkatachalam. G.L,56917,AIADMK,"Gopal, C",34844,22073,19.29
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,82,Dharmapuri,GEN,Dharmapuri,115730,DMK,"Manokaran, K",63973,INC,Mase Harur,26951,37022,31.99
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,83,Pennagaram,GEN,Dharmapuri,110373,PMK,"Mani, G.K",34906,CPI,"Arumugam, M",34500,406,0.37
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,84,Mettur,GEN,Salem,115540,DMK,"Gopal, P",50799,PMK,"Balakrishnan, R",30793,20006,17.32
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,85,Taramangalam,GEN,,114293,PMK,"Govindan, P",50502,DMK,"Elavarasan, P",25795,24707,21.62
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,86,Omalur,GEN,Salem,102232,TMC(M),"Sekaran, R.R",41523,AIADMK,"Krishnan, C",33593,7930,7.76
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,87,Yercaud,ST,Salem,86302,DMK,"Perumal, V",38964,AIADMK,"Gunasekaran, R",29570,9394,10.89
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,88,Salem-I,GEN,,114875,DMK,"Dhanapalan, K.R.G",67566,INC,"Natarajan, A.T",37299,30267,26.35
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,89,Salem-Ii,GEN,,115771,DMK,"Thangavel, A.L",63588,AIADMK,"Semmalai, S",36097,27491,23.75
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,90,Veerapandi,GEN,Salem,139054,DMK,"Arumugam, S",75563,AIADMK,"Arjunan, K",54412,21151,15.21
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,91,Panamarathupatti,GEN,,113204,DMK,S.R. Sivalingam,56330,AIADMK,P. Vijayalakshmi Palanisamy,43159,13171,11.63
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,92,Attur,GEN,Salem,103824,DMK,"Ramasamy, A.M",59353,AIADMK,"Murugesan, A.K",37057,22296,21.47
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,93,Talavasal,SC,,109395,TMC(M),"Rani, K",63132,INC,"Kaliaperumal, K",35750,27382,25.03
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,94,Rasipuram,GEN,Namakkal,111500,AIADMK,P.R. Sundaram,42294,DMK,R.R. Damayandhi,41840,454,0.41
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,95,Senthamangalam,ST,Namakkal,104512,DMK,"Chandrasekaran, C",58673,AIADMK,"Kalavathi, K",38748,19925,19.06
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,96,Namakkal,SC,Namakkal,123665,DMK,"Veisamy, K",76860,AIADMK,"Anbaiagan, S",38795,38065,30.78
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,97,Kapilamalai,GEN,,115369,DMK,"Veerappan, K.K",64605,AIADMK,"Rajalingam, R",34895,29710,25.75
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,98,Tiruchengodu,GEN,Namakkal,166010,DMK,"Arumugam, T.P",96456,AIADMK,"Chinnusamy, S",53836,42620,25.67
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,99,Sankari,SC,Salem,117976,DMK,"Muthu, V",64216,AIADMK,"Ramasamy, K.K",42880,21336,18.09
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,100,Edappadi,GEN,Salem,131287,PMK,"Ganesan, I",49465,DMK,"Murugesan, P.A",40273,9192,7.0
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,101,Mettuppalayam,GEN,Coimbatore,129404,DMK,"Arunkumar, B",71954,AIADMK,"Doraiswamy, K",41202,30752,23.76
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,102,Avanashi,SC,Tiruppur,116757,DMK,G. Elango,66006,AIADMK,M. Thiagarajan,39549,26457,22.66
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,103,Thondamuthur,GEN,Coimbatore,187656,DMK,"Ramachandran, C.R",113025,AIADMK,"Malaravan, T",50888,62137,33.11
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,104,Singanallur,GEN,Coimbatore,153574,DMK,"Palaniswamy, N",92379,AIADMK,"Duraisamy, R",33967,58412,38.04
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,105,Coimbatore North,GEN,Coimbatore,82686,DMK,"Dhandapani, C.T",51652,INC,Raja Thangavel,13353,38299,46.32
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,106,Coimbatore South,GEN,Coimbatore,89906,TMC(M),V.K. Lakshmanan,61860,INC,R.S. Velan,14174,47686,53.04
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,107,Perur,GEN,,158182,DMK,A. Natarasan,96507,AIADMK,R. Thirumalaisamy,38934,57573,36.4
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,108,Kinathukkadavu,GEN,Coimbatore,99612,DMK,"Shanmugham, M",49231,AIADMK,"Mylswamy, K.M",35267,13964,14.02
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,109,Pollachi,GEN,Coimbatore,119324,DMK,"Raju, S",58709,AIADMK,"Jayaraman, V",36895,21814,18.28
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,110,Valparai,SC,Coimbatore,92918,DMK,"Singaravelu, V.P",55284,AIADMK,Kurichimanimaran,30012,25272,27.2
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,111,Udumalpet,GEN,Tiruppur,131906,DMK,"Selvaraj, D",69286,AIADMK,"Shanmugavel, C",44966,24320,18.44
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,112,Dharapuram,SC,Tiruppur,111772,DMK,R. Saraswathy,62027,AIADMK,P. Easwaramurthi,38989,23038,20.61
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,113,Vellakoil,GEN,,116407,DMK,"Saminathan, M.P",57467,AIADMK,Dhurai Ramaswamy,50553,6914,5.94
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,114,Pongalur,GEN,,97324,TMC(M),"Mohan Kandaswamy, P",51827,INC,Thalapathy Murugesan,29886,21941,22.54
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,115,Palladam,GEN,Tiruppur,132825,DMK,"Ponmudi, S.S",73901,AIADMK,"Duraimurugan, K.S",41361,32540,24.5
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,116,Tiruppur,GEN,,200542,CPI,"Subbarayan, K",101392,AIADMK,"Sivasamy, C",60337,41055,20.47
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,117,Kangayam,GEN,Tiruppur,112575,DMK,"Rajkumar Manraadiar, N.S",63801,AIADMK,"Ramasamy, N",37792,26009,23.1
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,118,Modakkurichi,GEN,Erode,117215,DMK,Subbulakshmi Jegadeesan,64436,AIADMK,"Kittusamy, R.N",24896,39540,33.73
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,119,Perundurai,GEN,Erode,121693,CPI,"Periyasamy, N",60587,AIADMK,"Periyasamy, P",43036,17551,14.42
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,120,Erode,GEN,,175129,DMK,N.K.K. Periasamy,104726,AIADMK,S. Muthusamy,56889,47837,27.32
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,121,Bhavani,GEN,Erode,111769,TMC(M),"Balasubramanian, S.N",57256,AIADMK,"Manivannan, K.S",28427,28829,25.79
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,122,Andhiyur,SC,Tiruppur,99181,DMK,"Selvarasu, P",52535,AIADMK,"Subramaniam, M",27541,24994,25.2
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,123,Gobichettipalayam,GEN,Tiruppur,111375,DMK,"Venkidu, G.P",59983,AIADMK,"Sengottayan, K.A",45254,14729,13.22
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,124,Bhavanisagar,GEN,Erode,115646,DMK,"Andamuthu, V.A",63483,AIADMK,"Chinnasamy, V.K",40032,23451,20.28
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,125,Sathyamangalam,GEN,,104586,DMK,S.K. Rajendran,50885,AIADMK,T.R. Attiannan,42101,8784,8.4
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,126,Coonoor,SC,Nilgiris,99459,DMK,"Thangavel, N",63919,AIADMK,"Karuppusamy, S",28404,35515,35.71
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,127,Udhagamandalam,GEN,Nilgiris,99128,DMK,T. Gundan,69636,INC,H.M. Raju,22456,47180,47.6
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,128,Gudalur,GEN,Nilgiris,123784,DMK,"Mubarak, B.M",73565,AIADMK,"Raju, K.R",27660,45905,37.08
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,129,Palani,SC,Dindigul,117924,DMK,"Poovendhan, T",68246,AIADMK,"Karuppuchamy, P",31586,36660,31.09
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,130,Oddamchatram,GEN,Dindigul,113331,DMK,"Sakkarapani, R",66379,AIADMK,"Sellamuthu, K",29556,36823,32.49
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,131,Periyakulam,GEN,Theni,114283,DMK,"Mookaiah, L",53427,AIADMK,"Kader Mohideen, K.M",31520,21907,19.17
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,132,Theni,GEN,,123522,TMC(M),"Alagaraja, N.R",77522,AIADMK,"Nedunchezhiyan, V.R",28378,49144,39.79
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,133,Bodinayakkanur,GEN,Theni,107079,DMK,"Sudalaimuthu, A",54893,AIADMK,"Jeyakumar, S.P",28806,26087,24.36
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,134,Cumbum,GEN,Theni,107265,TMC(M),"Ramachandran, O.R",58628,IND,"Gopalan, R.T",22888,35740,33.32
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,135,Andipatti,GEN,Theni,113000,DMK,"Aasiyan, P",50736,AIADMK,"Muthiah, A",37035,13701,12.12
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,136,Sedapatti,GEN,,98401,DMK,G. Thalapathi,48899,AIADMK,R. Muthiah,38698,10201,10.37
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,137,Thirumangalam,GEN,Madurai,106622,DMK,M. Muthuramalingam,56950,AIADMK,S. Andithevar,28025,28925,27.13
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,138,Usilampatti,GEN,Madurai,98877,AIFB,P.N. Vallarasu,75324,AIADMK,P. Veluchamy,19421,55903,56.54
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,139,Nilakkottai,SC,Dindigul,109289,TMC(M),"Ponnammal, A.S",59541,INC,"Rasu, A",27538,32003,29.28
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,140,Sholavandan,GEN,Madurai,105796,DMK,L. Santhanam,52151,AIADMK,A.M. Paramasivan,33343,18808,17.78
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,141,Thirupparankundram,GEN,Madurai,163580,DMK,"Ramachandran, C",99379,AIADMK,"Shanmugam, S.V",37970,61409,37.54
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,142,Madurai West,GEN,Madurai,98890,DMK,P.T.R. Palanivel Rajan,61723,INC,R. Muthusamy,17465,44258,44.75
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,143,Madurai Central,GEN,Madurai,81403,TMC(M),"Deivanayagam, A",38010,JP,"Chandraleka, V.S",20069,17941,22.04
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,144,Madurai East,GEN,Madurai,85381,DMK,"Velusamy, V",39478,AIADMK,"Janardhanan, T.R",20181,19297,22.6
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,145,Samayanallur,SC,,169638,DMK,"Selvaraj, S",101807,AIADMK,"Raja Selvaraj, R",46159,55648,32.8
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,146,Melur,GEN,Madurai,118949,TMC(M),K.V.V. Rajamanickam,73999,INC,C.R. Sundararajan,29258,44741,37.61
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,147,Natham,GEN,Dindigul,109063,TMC(M),M. Andi Ambalam,62527,INC,S. Asai Alangaram,26891,35636,32.67
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,148,Dindigul,GEN,Dindigul,143986,DMK,"Manimaran, R",94353,AIADMK,"Marutharaj, V",29229,65124,45.23
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,149,Athoor,GEN,Dindigul,128403,DMK,"Periasamy, I",82294,AIADMK,"Chinnamuthu, C",32002,50292,39.17
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,150,Vedasandur,GEN,Dindigul,137863,DMK,S.V. Krishnan,60639,AIADMK,S. Gandhirajan,39870,20769,15.06
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,151,Aravakurichi,GEN,Karur,107268,DMK,"Mohammed Ismail, S.S",41153,AIADMK,"Duraisamy, V.K",32059,9094,8.48
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,152,Karur,GEN,Karur,147217,DMK,Vasuki Murugesan,79302,AIADMK,"Chinnasamy, M",47294,32008,21.74
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,153,Krishnarajapuram,SC,Karur,114484,DMK,S. Nagarathinam,57638,AIADMK,A. Arivalagan,42461,15177,13.26
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,154,Marungapuri,GEN,,120318,DMK,B.M. Senguttuvan,56380,AIADMK,K. Solairaj,49986,6394,5.31
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,155,Kulithalai,GEN,Karur,123046,DMK,R. Selvam,60521,AIADMK,A. Pappasundaram,42771,17750,14.43
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,156,Thottiyam,GEN,,114846,DMK,K. Kannaiyan,74903,AIADMK,N. Nedumaran,33921,40982,35.68
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,157,Uppiliapuram,ST,,113142,DMK,"Karuppusami, T",70372,AIADMK,"Saroja, R",35804,34568,30.55
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,158,Musiri,GEN,Tiruchirappalli,131898,DMK,"Jothi Kannan, M.N",67319,AIADMK,"Mallika Chinnasamy, C",39551,27768,21.05
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,159,Lalgudi,GEN,Tiruchirappalli,122840,DMK,K.N. Nehru,84113,INC,J. Logambal,24609,59504,48.44
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,160,Perambalur,SC,Perambalur,117875,DMK,"Devarajan, M",64918,AIADMK,"Murugesan, S",41517,23401,19.85
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,161,Varahur,SC,,107909,DMK,Duraisamy,56076,AIADMK,"Palanimuthu, A",34925,21151,19.6
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,162,Ariyalur,GEN,Ariyalur,116854,TMC(M),"Amaramoorthy, D",62157,AIADMK,"Elavarasan, A",37263,24894,21.3
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,163,Andimadam,GEN,,104995,PMK,Rajendiran @ Deeran,49853,DMK,Sivasubramaniyan,36451,13402,12.76
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,164,Jayankondam,GEN,Ariyalur,122101,DMK,Ganesan K.C,52421,PMK,Gurunathan Alias Guru,39931,12490,10.23
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,165,Srirangam,GEN,Tiruchirappalli,131623,DMK,Mayavan T.P,73371,AIADMK,Paranjothi M,43512,29859,22.69
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,166,Tiruchirapalli-I,GEN,,75701,DMK,B. Baranikumar,48045,AIADMK,Pa. Krishnan,20535,27510,36.34
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,167,Tiruchirapalli-Ii,GEN,,104123,DMK,Anbil Poyyamozhi,71058,AIADMK,Selvaraj P,26229,44829,43.05
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,168,Thiruverumbur,GEN,Tiruchirappalli,125709,DMK,K. Durai,78692,AIADMK,T. Rathinavel,31939,46753,37.19
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,169,Sirkazhi,SC,Nagapattinam,107973,DMK,M. Panneerselvam,63975,AIADMK,V. Bharathi,34281,29694,27.5
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,170,Poompuhar,GEN,Nagapattinam,102827,DMK,Mohanadasan G,51285,AIADMK,Vijayabalan N,32872,18413,17.91
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,171,Mayuram,GEN,Nagapattinam,103459,TMC(M),"Abul Hasan, M.M.S",60522,INC,Rama Chidambaram,25918,34604,33.45
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,172,Kuttalam,GEN,,112557,DMK,Kalayanam Kuttalam P,60940,AIADMK,Rajendran M,35219,25721,22.85
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,173,Nannilam,SC,Thiruvarur,108798,TMC(M),Padma,66773,AIADMK,K. Gopal,30800,35973,33.06
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,174,Thiruvarur,SC,Thiruvarur,115293,DMK,Asohan A,69212,INC,Arumuga Pandian P,24845,44367,38.48
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,175,Nagapattinam,GEN,Nagapattinam,106542,DMK,G. Nizamudeen,46533,AIADMK,R. Jeevanantham,26805,19728,18.52
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,176,Vedaranyam,GEN,Nagapattinam,115473,DMK,Vedarathinam S.K,54185,INC,Balasubramaniam P.C.V,31393,22792,19.74
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,177,Thiruthuraipoondi,SC,Thiruvarur,124786,CPI,Palanisami G,79103,INC,Gopalsami K,25415,53688,43.02
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,178,Mannargudi,GEN,Thiruvarur,120076,CPI,V. Sivapunniam,71803,AIADMK,K. Kaliyaperumal,31969,39834,33.17
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,179,Pattukkottai,GEN,Thanjavur,117423,DMK,Balasubramanian P,69880,AIADMK,Baskaran Seeni,36259,33621,28.63
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,180,Peravurani,GEN,Thanjavur,119484,TMC(M),Thirugnanasambandam V,70112,INC,Sakthivel K,30472,39640,33.18
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,181,Orathanadu,GEN,Thanjavur,119175,DMK,Rajamanickam P,68213,AIADMK,Suriyamoorthy V,37864,30349,25.47
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,182,Thiruvonam,GEN,,126215,DMK,Ramachandran N,72403,AIADMK,Thangamuthu K,40853,31550,25.0
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,183,Thanjavur,GEN,Thanjavur,120738,DMK,Ubayadullah S.N.M,79471,AIADMK,Somasundaram S.D,34389,45082,37.34
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,184,Thiruvaiyaru,GEN,Thanjavur,101974,DMK,Chandrasekaran D,57429,AIADMK,Subramanian M,30418,27011,26.49
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,185,Papanasam,GEN,Thanjavur,103810,TMC(M),N. Karuppanna Odayar,58757,IND,R. Thirunavukkarasu,20415,38342,36.93
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,186,Valangiman,SC,,94555,DMK,Gomathi Srinivasan,48019,AIADMK,Vivekanandan V,27508,20511,21.69
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,187,Kumbakonam,GEN,Thanjavur,113224,DMK,Mani K.S,69849,AIADMK,Eramanatham Erama,34539,35310,31.19
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,188,Thiruvidaimarudur,GEN,Thanjavur,118155,DMK,Ramalingam S,70500,INC,Loganathan T.R,28559,41941,35.5
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,189,Thirumaiyam,GEN,Pudukkottai,113093,TMC(M),Chinnaiah V,53552,AIADMK,Regupathy S,41664,11888,10.51
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,190,Kolathur,SC,Chennai,132474,DMK,Selvaraj Alias Kavithaipithan,72706,AIADMK,Karuppayee A,48550,24156,18.23
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,191,Pudukkottai,GEN,Pudukkottai,139794,DMK,Periannan A,79205,INC,Swaminathan S.C,36422,42783,30.6
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,192,Alangudi,GEN,Pudukkottai,138176,IND,Venkatachalam A,35345,CPI,Erasasekaran S,34693,652,0.47
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,193,Aranthangi,GEN,Pudukkottai,140242,AIADMK,"Thirunavukkarasu, S",70260,DMK,"Shanmugam, S",56028,14232,10.15
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,194,Tirupathur,GEN,Sivaganga,103819,DMK,R. Sivaraman,58925,AIADMK,S. Kannappan,39648,19277,18.57
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,195,Karaikudi,GEN,Sivaganga,122076,TMC(M),"Sundaram, N",76888,AIADMK,Raju M,26504,50384,41.27
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,196,Tiruvadanai,GEN,Ramanathapuram,111436,TMC(M),"Ramasamy, Kr",68837,INC,"Sakthivel, D",17437,51400,46.13
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,197,Ilayangudi,GEN,,87260,DMK,"Tamilkudimagan, M",43080,AIADMK,"Nadarajan, V.D",28276,14804,16.97
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,198,Sivaganga,GEN,Sivaganga,106254,DMK,"Kiruttinan Pasumpon, Tha",64438,AIADMK,K.R. Muruganandam,31437,33001,31.06
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,199,Manamadurai,SC,Sivaganga,99629,CPI,"Thangamani, K",49639,AIADMK,"Gunasekaran, M",31869,17770,17.84
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,200,Paramakudi,SC,Ramanathapuram,103001,DMK,"Thisaiveeran, U",44472,IND,"Muniasamy, K",25571,18901,18.35
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,201,Ramanathapuram,GEN,Ramanathapuram,116745,DMK,"Rahmankhan, A",59794,AIADMK,"Sekar, S.K.G",23903,35891,30.74
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,202,Kadaladi,GEN,,105258,DMK,S.P. Thangavelan,56031,AIADMK,V. Sathiyamoorthy,36061,19970,18.97
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,203,Mudhukulathur,GEN,Ramanathapuram,93599,TMC(M),S. Balakrishnan,41850,IND,V. Bose,19322,22528,24.07
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,204,Aruppukkottai,GEN,Virudhunagar,103165,DMK,"Thangapandian, V",45081,AIADMK,"Sundarapandian, K",28716,16365,15.86
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,205,Sattur,GEN,Virudhunagar,136502,DMK,"Vijayakumar, K.M",58972,AIADMK,"Ramachandran, K.K.S.S.R",49608,9364,6.86
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,206,Virudhunagar,GEN,Virudhunagar,113773,DMK,"Seenivasan, A.R.R",47247,INC,"Karikolraj, G",23760,23487,20.64
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,207,Sivakasi,GEN,Virudhunagar,152781,TMC(M),"Chokkar, R",61322,AIADMK,N. Alagarsamy,42590,18732,12.26
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,208,Srivilliputhur,GEN,Virudhunagar,128393,AIADMK,R. Thamaraikkani,49436,CPI,T. Ramasamy,40769,8667,6.75
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,209,Rajapalayam,SC,Virudhunagar,129427,DMK,V.P. Rajan,49984,AIADMK,P. Prabakar,31045,18939,14.63
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,210,Vilathikulam,GEN,Thoothukkudi,94040,DMK,"Ravisankar, K",30190,MDMK,"Gopalsamy, Vai",29556,634,0.67
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,211,Ottapidaram,SC,Thoothukkudi,89974,JP,"Krishnasamy, K",24585,AIADMK,"Paulraj, S",23437,1148,1.28
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,212,Kovilpatti,GEN,Thoothukkudi,111727,CPI,"Ayyalusamy, L",39315,MDMK,"Radhakrishnan, K.S",31828,7487,6.7
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,213,Sankarankovil,SC,Tirunelveli,111752,AIADMK,"Karuppasamy, C",37933,DMK,"Rasiah @ Raja, S",37333,600,0.54
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,214,Vasudevanallur,SC,Tirunelveli,100597,TMC(M),"Eswaran, R",32693,INC,"Suresh Babu, P",32077,616,0.61
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,215,Kadayanallur,GEN,Tirunelveli,106563,DMK,"Naina Mohamed, K",49641,AIADMK,"Gani, A.M",32949,16692,15.66
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,216,Tenkasi,GEN,Tirunelveli,115038,TMC(M),"Ravi Arunan, K",60758,INC,Aladi Sankaraiya,29998,30760,26.74
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,217,Alangulam,GEN,Tirunelveli,115771,DMK,Aladi Aruna,53374,INC,"Kamaraj, M.S",29038,24336,21.02
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,218,Tirunelveli,GEN,Tirunelveli,114165,DMK,"Subramanian, A.L",59914,AIADMK,"Karuppasamy Pandian, V",36590,23324,20.43
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,219,Palayamkottai,GEN,Tirunelveli,113210,DMK,Mohamed Kodar Maideen,71303,AIADMK,"Dharmalingam, P",26939,44364,39.19
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,220,Cheranmahadevi,GEN,,98977,TMC(M),"Veldurai, P",39004,IND,"Pandian, P.H",26897,12107,12.23
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,221,Ambasamudram,GEN,Tirunelveli,94324,DMK,R. Avudaiappan,46116,AIADMK,R. Murugaiah Pandian,26427,19689,20.87
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,222,Nanguneri,GEN,Tirunelveli,92737,CPI,"Krishnan, S.V",37342,AIADMK,"Karunakaran, A.S.A",34193,3149,3.4
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,223,Radhapuram,GEN,Tirunelveli,98294,TMC(M),"Appavu, M",45808,INC,"Chandrasekaran, S.K",16862,28946,29.45
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,224,Sattangulam,GEN,,81403,TMC(M),"Mani Nadar, S.S",44376,INC,"Kasianantham, B",19140,25236,31.0
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,225,Tiruchendur,GEN,Thoothukkudi,99973,DMK,S. Jennifer Chandran,59206,AIADMK,T. Thamotharan,28175,31031,31.04
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,226,Srivaikuntam,GEN,Thoothukkudi,86719,DMK,S. David Selwyn,36917,INC,S. Danielraj,23708,13209,15.23
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,227,Thoothukkudi,GEN,Thoothukkudi,148087,DMK,N. Periasamy,56511,IND,J.L.P. Bono Venture Roche,35140,21371,14.43
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,228,Kanniyakumari,GEN,Kanniyakumari,97985,DMK,N. Suresh Rajan,42755,AIADMK,S. Thanu Pillai,20892,21863,22.31
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,229,Nagercoil,GEN,Kanniyakumari,105560,TMC(M),"Moses, M",51086,BJP,"Velpandian, S",22608,28478,26.98
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,230,Kollachal,GEN,Kanniyakumari,96181,DMK,"Bernard, Era",41217,BJP,S.P. Kutty,33791,7426,7.72
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,231,Padmanabhapuram,GEN,Kanniyakumari,86408,BJP,"Velayuthan, C",27443,DMK,Bala Janathipathy,22903,4540,5.25
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,232,Thiruvattar,GEN,,91005,DMK,V. Alban,37523,CPI(M),J. Hema Chandran,25169,12354,13.58
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,233,Vilavancode,GEN,Kanniyakumari,98891,CPI(M),D. Mony,42867,DMK,V. Thankaraj,21585,21282,21.52
+ae-tamil-nadu-1996,AE,Tamil Nadu,1996,1996,official,234,Killiyoor,GEN,Kanniyakumari,80576,TMC(M),Kumaradas,33227,BJP,C. Santhakumar,22810,10417,12.93

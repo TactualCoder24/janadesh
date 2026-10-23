@@ -1,0 +1,200 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,1,Sadulshahar,GEN,Ganganagar,182806,INC,Jagdish Chander,73153,BJP,Gurveer Singh Brar,63477,9676,5.29
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,2,Ganganagar,GEN,Ganganagar,168321,IND,Raj Kumar Gaur,44998,INC,Ashok Chandak,35818,9180,5.45
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,3,Karanpur,GEN,Ganganagar,188166,INC,Gurmeet Singh Kooner,73896,IND,Prithipal Singh,45520,28376,15.08
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,4,Suratgarh,GEN,Ganganagar,189606,BJP,Rampratap Kasniyan,69032,INC,Hanuman Meel,58797,10235,5.4
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,5,Raisingh Nagar,GEN,Ganganagar,200750,BJP,Balveer Singh Luthra,76935,CPI(M),Shyopat Ram,43264,33671,16.77
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,6,Anupgarh,GEN,Ganganagar,180314,BJP,Santosh,79383,INC,Kuldeep Indora,58259,21124,11.72
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,7,Sangaria,GEN,Hanumangarh *,198759,BJP,Gurdeep Singh,99064,INC,Shabnam Godara,92526,6538,3.29
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,8,Hanumangarh,GEN,Hanumangarh *,221409,INC,Vinod Kumar,111207,BJP,Rampratap,95685,15522,7.01
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,9,Pilibanga,GEN,Hanumangarh *,223776,BJP,Dharmendra Kumar,106414,INC,Vinod Kumar,106136,278,0.12
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,10,Nohar,GEN,Hanumangarh *,201754,INC,Amit Chachan,93851,BJP,Abhishek Matoria,80124,13727,6.8
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,11,Bhadra,GEN,Hanumangarh *,199836,CPI(M),Balwan Poonia,82204,BJP,Sanjeev Kumar,59051,23153,11.59
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,12,Khajuwala,GEN,Bikaner,151305,INC,Govind Ram,82994,BJP,Dr. Vishwanath,51905,31089,20.55
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,13,Bikaner West,GEN,Bikaner,155998,INC,Bulaki Das Kalla,75128,BJP,Gopal Krishn,68938,6190,3.97
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,14,Bikaner East,GEN,Bikaner,152412,BJP,Siddhi Kumari,73174,INC,Kanhaiya Lal Jhanwar,66113,7061,4.63
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,15,Kolayat,GEN,Bikaner,175721,INC,Bhanwar Singh Bhati,89505,BJP,Poonam Kanwar Bhati,78489,11016,6.27
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,16,Lunkaransar,GEN,Bikaner,170820,BJP,Sumit Godara,72822,INC,Virendra Beniwal,61969,10853,6.35
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,17,Shree Dungargarh,GEN,Churu,173282,CPI(M),Girdharilal,72376,INC,Mangalaram,48480,23896,13.79
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,18,Nokha,GEN,Bikaner,188251,BJP,Biharilal,86917,INC,Rameshwar Dudi,78254,8663,4.6
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,19,Sadulpur,GEN,Churu,176387,INC,Krishna Poonia,70020,BSP,Manoj Nyangali,51936,18084,10.25
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,20,Taranagar,GEN,Churu,177401,INC,Narendra Budaniya,56968,BJP,Rakesh Jangir,44413,12555,7.08
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,21,Sardarshahar,GEN,Churu,202804,INC,Bhanwarlal Sharma,95282,BJP,Ashok Kumar,78466,16816,8.29
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,22,Churu,GEN,Churu,178871,BJP,Rajendra Rathore,87233,INC,Rafique Mandelia,85383,1850,1.03
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,23,Ratangarh,GEN,Churu,183906,BJP,Abhinesh Maharshi,71201,IND,Poosaram Godara,59320,11881,6.46
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,24,Sujangarh,GEN,Churu,179472,INC,Master Bhanwarlal Meghwal,83632,BJP,Khemaram,44883,38749,21.59
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,25,Pilani,GEN,Jhunjhunun,159750,INC,J.P. Chandelia,84715,BJP,Kailash Chand,71176,13539,8.48
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,26,Surajgarh,GEN,Jhunjhunun,192888,BJP,Subhash Poonia S/O Lokram Poonia,79913,INC,Sharwan Kumar S/O Gokal Ram,76488,3425,1.78
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,27,Jhunjhunu,GEN,Jhunjhunun,167616,INC,Brijendra Singh Ola,76177,BJP,Rajendra Singh Bhamboo,35612,40565,24.2
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,28,Mandawa,GEN,Jhunjhunun,164536,BJP,Narendra Kumar,80599,INC,Kum. Rita Choudhary,78253,2346,1.43
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,29,Nawalgarh,GEN,Jhunjhunun,184902,INC,Dr. Rajkumar Sharma,79570,BJP,Ravi Saini,43070,36500,19.74
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,30,Udaipurwati,GEN,Jhunjhunun,172176,BSP,Rajendrasingh Gudha,59362,BJP,Shubhkaran Choudhary,53828,5534,3.21
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,31,Khetri,GEN,Jhunjhunun,151763,INC,Jitendra Singh,57153,BJP,Dharmpal,56196,957,0.63
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,32,Fatehpur,GEN,Sikar,169462,INC,Hakam Ali Khan,80354,BJP,Sunita Kumari,79494,860,0.51
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,33,Lachhmangarh,GEN,Sikar,188263,INC,Govind Singh Dotasara,98227,BJP,Dinesh Joshi,76175,22052,11.71
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,34,Dhod,GEN,Sikar,188464,INC,Parasram Mordia,75142,CPI(M),Pema Ram,61089,14053,7.46
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,35,Sikar,GEN,Sikar,188280,INC,Rajendra Pareek,83472,BJP,Ratanlal Jaldhari,68292,15180,8.06
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,36,Dantaramgarh,GEN,Sikar,187366,INC,Virendra Singh,64931,BJP,Harish Chand Kumawat,64011,920,0.49
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,37,Khandela,GEN,Sikar,170269,IND,Mahadeo Singh,53864,BJP,Banshidhar Bajiya,49516,4348,2.55
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,38,Neem Ka Thana,GEN,Sikar,177510,INC,Suresh Modi,66287,BJP,Prem Singh Bajore,53672,12615,7.11
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,39,Srimadhopur,GEN,Sikar,183911,INC,Deependra Singh,90941,BJP,Jhabar Singh Kharra,79131,11810,6.42
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,40,Kotputli,GEN,Jaipur,157638,INC,Rajendra Singh Yadav,57114,BJP,Mukesh Goyal,43238,13876,8.8
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,41,Viratnagar,GEN,Jaipur,153849,INC,Indraj Singh Gurjar,59427,IND,Kuldeep Dhankad,40060,19367,12.59
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,42,Shahpura,GEN,Jaipur,172569,IND,Alok Beniwal,66538,INC,Manish Yadav,62683,3855,2.23
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,43,Chomu,GEN,Jaipur,184543,BJP,Ramlal Sharma,70183,INC,Bhagwan Sahai Saini,68895,1288,0.7
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,44,Phulera,GEN,Jaipur,180254,BJP,Nirmal Kumawat,73530,INC,Vidhyadhar Singh,72398,1132,0.63
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,45,Dudu,GEN,Jaipur,175957,IND,Babulal Nagar,68769,BJP,Dr. Prem Chand Bairwa,53990,14779,8.4
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,46,Jhotwara,GEN,Jaipur,259160,INC,Lalchand Kataria,127185,BJP,Rajpal Singh Shekhawat,116438,10747,4.15
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,47,Amber,GEN,Jaipur,197806,BJP,Satish Poonia,93132,INC,Prashant Sharma,79856,13276,6.71
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,48,Jamwa Ramgarh,GEN,Jaipur,159452,INC,Gopal Lal Meena,89165,BJP,Mahendra Pal Meena,67481,21684,13.6
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,49,Hawa Mahal,GEN,Jaipur,168517,INC,Dr. Mahesh Joshi,85474,BJP,Surendra Pareek,76192,9282,5.51
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,50,Vidhyadhar Nagar,GEN,Jaipur,222560,BJP,Narpat Singh Rajvi,95599,INC,Sitaram Agarwal,64367,31232,14.03
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,51,Civil Lines,GEN,Jaipur,162238,INC,Pratap Singh Khachariyawas,87937,BJP,Arun Chaturvedi,69859,18078,11.14
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,52,Kishan Pole,GEN,Jaipur,141591,INC,Amin Kagzi,71189,BJP,Mohan Lal Gupta,62419,8770,6.19
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,53,Adarsh Nagar,GEN,Jaipur,172753,INC,Rafeek Khan,88541,BJP,Ashok Parnami,75988,12553,7.27
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,54,Malviya Nagar,GEN,Jaipur,143224,BJP,Kalicharan Saraf,70221,INC,Dr. Archana Sharma,68517,1704,1.19
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,55,Sanganer,GEN,Jaipur,205007,BJP,Ashok Lahoty,107947,INC,Pushpendra Bhardwaj,72542,35405,17.27
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,56,Bagru,GEN,Jaipur,210510,INC,Ganga Devi,96635,BJP,Kailash Chand Verma,91292,5343,2.54
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,57,Bassi,GEN,Jaipur,167200,IND,Laxman Meena,79878,BJP,Kanhaiyalal,37114,42764,25.58
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,58,Chaksu,GEN,Jaipur,156984,INC,Ved Prakash Solanki,70007,BJP,Ramavatar Bairwa,66576,3431,2.19
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,59,Tijara,GEN,Alwar,182588,BSP,Sandeep Kumar,59468,INC,Aimaduddin Ahmad Khan Urf Durru Mian,55011,4457,2.44
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,60,Kishangarh Bas,GEN,Alwar,178510,BSP,Deepchand,73799,BJP,Ramhet Singh Yadav,63883,9916,5.55
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,61,Mundawar,GEN,Alwar,159759,BJP,Manjeet Dharampal Choudhary,73191,BSP,Lalit Yadav,55589,17602,11.02
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,62,Behror,GEN,Alwar,159691,IND,Baljeet Yadav,55160,INC,Ramchandra Yadav,51324,3836,2.4
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,63,Bansur,GEN,Alwar,166230,INC,Shakuntala Rawat,65656,IND,Devi Singh Shekhawat,47736,17920,10.78
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,64,Thanagazi,GEN,Alwar,154660,IND,Kanti Prasad,64079,BJP,Hem Singh,22735,41344,26.73
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,65,Alwar Rural,GEN,Alwar,173167,INC,Tika Ram Jully,85752,BJP,Master Ramkishan,59275,26477,15.29
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,66,Alwar Urban,GEN,Alwar,165893,BJP,Sanjay Sharma,85041,INC,Shweta Saini,63033,22008,13.27
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,68,Rajgarh Laxmangarh,GEN,Alwar,169426,INC,Johari Lal Meena,82876,BJP,Vijay Samarth Lal,52578,30298,17.88
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,69,Kathumar,GEN,Alwar,144551,INC,Babulal,54110,BJP,Babulal Manager,39942,14168,9.8
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,70,Kaman,GEN,Bharatpur,189751,INC,Zahida Khan,110789,BJP,Jawahar Singh Beadham,71168,39621,20.88
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,71,Nagar,GEN,Bharatpur,169879,BSP,Wajib Ali,62644,SP,Nem Singh,37177,25467,14.99
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,72,Deeg-Kumher,GEN,Bharatpur,161294,INC,Vishvendra Singh,73730,BJP,Dr. Shailesh Singh,65512,8218,5.1
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,73,Bharatpur,GEN,Bharatpur,172818,RLD,Dr. Subhash Garg,52869,BJP,Vijay Bansal(Pappu Banda),37159,15710,9.09
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,74,Nadbai,GEN,Bharatpur,179771,BSP,Joginder Singh Awana,50976,BJP,Krishnendra Kaur (Deepa),46882,4094,2.28
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,75,Weir,GEN,Bharatpur,165853,INC,Bhajan Lal Jatav,78716,BJP,Ramswaroop Koli,63433,15283,9.21
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,76,Bayana,GEN,Bharatpur,171440,INC,Amar Singh,86962,BJP,Dr. Ritu Banawat,80267,6695,3.91
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,77,Baseri,GEN,Dhaulpur,118871,INC,Khiladi Lal Bairwa,54297,BJP,Chhitriya Lal Jatav,36741,17556,14.77
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,78,Bari,GEN,Dhaulpur,179981,INC,Girraj Singh,79712,BJP,Jasvant Singh,60029,19683,10.94
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,79,Dholpur,GEN,Dhaulpur,145757,BJP,Shobharani Kushwah,67349,INC,Dr. Shiv Charan Singh Kushawah,47989,19360,13.28
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,80,Rajakhera,GEN,Dhaulpur,141942,INC,Rohit Bohra,76278,BJP,Ashok Sharma,61287,14991,10.56
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,81,Todabhim,GEN,Karauli *,162687,INC,Prithviraj,107691,BJP,Ramesh Chand,34385,73306,45.06
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,82,Hindaun,GEN,Karauli *,184237,INC,Bharosi Lal,104694,BJP,Manju Khairwal,77914,26780,14.54
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,83,Karauli,GEN,Karauli *,169721,BSP,Lakhan Singh,61163,INC,Darshan Singh,51601,9562,5.63
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,84,Sapotra,GEN,Karauli *,168503,INC,Ramesh Chand Meena,76399,BJP,Golma,62295,14104,8.37
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,85,Bandikui,GEN,Dausa *,158582,INC,Gajraj Khatana,56433,BJP,Ram Kishor Saini,51669,4764,3.0
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,86,Mahuwa,GEN,Dausa *,146151,IND,Om Prakash Hudla,51310,BJP,Rajendra,41325,9985,6.83
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,87,Sikrai,GEN,Dausa *,167031,INC,Mamta Bhupesh,96454,BJP,Vikram Bansiwal,62671,33783,20.23
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,88,Dausa,GEN,Dausa *,170718,INC,Murari Lal,99004,BJP,Shankar Lal Sharma,48056,50948,29.84
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,89,Lalsot,GEN,Dausa *,171515,INC,Parsadi Lal,88828,BJP,Rambilas,79754,9074,5.29
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,90,Gangapur,GEN,Sawai Madhopur,156865,IND,Ramkesh,58744,BJP,Mansingh Gurjar,48678,10066,6.42
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,91,Bamanwas,GEN,Sawai Madhopur,139371,INC,Indra,73656,IND,Nawal Kishore Meena,35143,38513,27.63
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,92,Sawai Madhopur,GEN,Sawai Madhopur,162790,INC,Danish Abrar,85655,BJP,Asha Meena,60456,25199,15.48
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,93,Khandar,GEN,Sawai Madhopur,155208,INC,Ashok,89028,BJP,Jitendra Kumar Gothwal,61079,27949,18.01
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,94,Malpura,GEN,Tonk,176704,BJP,Kanhiya Lal,93237,RLD,Ranveer Phalwan,63451,29786,16.86
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,95,Niwai,GEN,Tonk,171675,INC,Prashant Bairwa,105784,BJP,Ram Sahay Verma,61895,43889,25.57
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,96,Tonk,GEN,Tonk,170081,INC,Sachin Pilot,109040,BJP,Yoonus Khan,54861,54179,31.85
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,97,Uniara,GEN,Tonk,185559,INC,Harish Chandra Meena,95540,BJP,Rajendra Gurjar,74064,21476,11.57
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,98,Kishangarh,GEN,Ajmer,195448,IND,Suresh Tak,82678,BJP,Vikash Choudhary,65226,17452,8.93
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,99,Pushkar,GEN,Ajmer,170656,BJP,Suresh Singh Rawat,84860,INC,Nasim Akhtar Insaf,75471,9389,5.5
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,100,Ajmer North,GEN,Ajmer,131201,BJP,Vasudev Devnani,67881,INC,Mahendra Singh Ralawata,59251,8630,6.58
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,101,Ajmer South,GEN,Ajmer,135640,BJP,Anita Bhadel,69064,INC,Hemant Bhati,63364,5700,4.2
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,102,Nasirabad,GEN,Ajmer,168139,BJP,Ramswaroop Lamba,89409,INC,Ramnarain,72725,16684,9.92
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,103,Beawar,GEN,Ajmer,162479,BJP,Shankar Singh Rawat,69932,INC,Parasmal Jain,65430,4502,2.77
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,104,Masuda,GEN,Ajmer,183139,INC,Rakesh Pareek,86008,BJP,Sushil Kanwar,82634,3374,1.84
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,105,Kekri,GEN,Ajmer,178170,INC,Raghu Sharma,95795,BJP,Rajendra Vinayaka,76334,19461,10.92
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,106,Ladnun,GEN,Nagaur,164123,INC,Mukesh Kumar Bhakar,65041,BJP,Manohar Singh,52094,12947,7.89
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,107,Deedwana,GEN,Nagaur,164505,INC,Chetan Singh Choudhary,92981,BJP,Jitendra Singh,52379,40602,24.68
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,108,Jayal,GEN,Nagaur,159847,INC,Manju Devi,68415,RLTP,Anil,49811,18604,11.64
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,109,Nagaur,GEN,Nagaur,174052,BJP,Mohan Ram Choudhary,86315,INC,Habibur Rehman Ashrafi Lamba,73307,13008,7.47
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,110,Khinwsar,GEN,Nagaur,183774,RLTP,Hanuman Beniwal,83096,INC,Savai Singh Chaudhary,66148,16948,9.22
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,111,Merta,GEN,Nagaur,176301,RLTP,Indira Devi,57662,IND,Laxman Ram Meghwal,44827,12835,7.28
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,112,Degana,GEN,Nagaur,170655,INC,Vijaypal Mirdha,75362,BJP,Ajay Singh Kilak,53824,21538,12.62
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,113,Makrana,GEN,Nagaur,184377,BJP,Roopa Ram,87201,INC,Jakir Hussain Gesawat,85713,1488,0.81
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,114,Parbatsar,GEN,Nagaur,168138,INC,Ramniwas Gawriya,76373,BJP,Man Singh Kinsariya,61888,14485,8.61
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,115,Nawan,GEN,Nagaur,173703,INC,Mahendra Choudhary,72168,BJP,Vijay Singh,69912,2256,1.3
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,116,Jaitaran,GEN,Pali,193124,BJP,Avinash,65607,INC,Dilip Choudhary,53419,12188,6.31
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,117,Sojat,GEN,Pali,146916,BJP,Shobha Chauhan,80645,INC,Shobha Solanki,48247,32398,22.05
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,118,Pali,GEN,Pali,169939,BJP,Gyanchand Parakh,75480,IND,Bheemraj Bhati,56094,19386,11.41
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,119,Marwar Junction,GEN,Pali,161804,IND,Khushveer Singh,58921,BJP,Kesaram Choudhary,58670,251,0.16
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,120,Bali,GEN,Pali,191065,BJP,Pushpendra Singh,96238,NCP,Ummed Singh,68051,28187,14.75
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,121,Sumerpur,GEN,Pali,172566,BJP,Joraram Kumawat,96617,INC,Ranju Ramawat,63685,32932,19.08
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,122,Phalodi,GEN,Jodhpur,172458,BJP,Pabba Ram,60735,INC,Mahesh Kumar,51998,8737,5.07
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,123,Lohawat,GEN,Jodhpur,180154,INC,Kisana Ram Vishnoi,106084,BJP,Gajendra Singh,65208,40876,22.69
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,124,Shergarh,GEN,Jodhpur,193351,INC,Meena Kanwar,99916,BJP,Babu Singh Rathore,75220,24696,12.77
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,125,Osian,GEN,Jodhpur,182780,INC,Divya Maderna,83629,BJP,Bhera Ram Choudhary,56039,27590,15.09
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,126,Bhopalgarh,GEN,Jodhpur,188826,RLTP,Pukhraj,68386,INC,Bhanwarlal Balai,63424,4962,2.63
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,127,Sardarpura,GEN,Jodhpur,152597,INC,Ashok Gehlot,97081,BJP,Shambhu Singh,51484,45597,29.88
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,128,Jodhpur,GEN,Jodhpur,126332,INC,Manisha Panwar,64172,BJP,Atul Bhansali,58323,5849,4.63
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,129,Soorsagar,GEN,Jodhpur,175174,BJP,Suryakanta Vyas,86885,INC,Professor Ayyub Khan,81122,5763,3.29
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,130,Luni,GEN,Jodhpur,220756,INC,Mahendra Vishnoi,84979,BJP,Jogaram Patel,75822,9157,4.15
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,131,Bilara,GEN,Jodhpur,182737,INC,Heeraram,75671,BJP,Arjun Lal,66053,9618,5.26
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,132,Jaisalmer,GEN,Jaisalmer,186218,INC,Rooparam,106531,BJP,Sangsingh Bhati,76753,29778,15.99
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,133,Pokaran,GEN,Jaisalmer,170947,INC,Shale Mohammad,82964,BJP,Pratappuri,82092,872,0.51
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,134,Sheo,GEN,Barmer,201417,INC,Ameen Khan,84338,BJP,Khangar Singh Sodha,60784,23554,11.69
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,135,Barmer,GEN,Barmer,186366,INC,Mewaram Jain,97874,BJP,Col. Sonaram Choudhary (Retd),64827,33047,17.73
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,136,Baytu,GEN,Barmer,175955,INC,Harish Choudhary,57703,RLTP,Ummeda Ram,43900,13803,7.84
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,137,Pachpadra,GEN,Barmer,158840,INC,Madan Prajapat,69393,BJP,Amara Ram,66998,2395,1.51
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,138,Siwana,GEN,Barmer,158831,BJP,Hameer Singh Bhayal,50657,IND,Balaram,49700,957,0.6
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,139,Gudhamalani,GEN,Barmer,188979,INC,Hemaram Choudhary,93433,BJP,Ladu Ram,79869,13564,7.18
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,140,Chohtan,GEN,Barmer,195725,INC,Padmaram,83601,BJP,Adu Ram Meghwal,79339,4262,2.18
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,141,Ahore,GEN,Jalor,149015,BJP,Chhagansingh,74928,INC,Savaram Patel,43880,31048,20.84
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,142,Jalore,GEN,Jalor,158970,BJP,Jogeshwar Garg,95086,INC,Manju Meghwal,59852,35234,22.16
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,143,Bhinmal,GEN,Jalor,179400,BJP,Pooraram Choudhary,78893,INC,Samarjit Singh,69247,9646,5.38
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,144,Sanchore,GEN,Jalor,224159,INC,Sukhram Vishnoi,84689,BJP,Dana Ram Choudhary,58771,25918,11.56
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,145,Raniwara,GEN,Jalor,182614,BJP,Narayan Singh Dewal,88887,INC,Ratan,85482,3405,1.86
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,146,Sirohi,GEN,Sirohi,175863,IND,Sanyam Lodha,81272,BJP,Otaram Devasi,71019,10253,5.83
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,147,Pindwara Abu,GEN,Sirohi,134849,BJP,Sama Ram Grasiya,69360,INC,Lala Ram Grasiya,42386,26974,20.0
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,148,Reodar,GEN,Sirohi,170712,BJP,Jagasi Ram,87861,INC,Neeraj Dangi,73257,14604,8.55
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,149,Gogunda,GEN,Udaipur,176278,BJP,Pratap Lal Bheel (Gameti),82307,INC,Dr. Mangi Lal Garasiya,77896,4411,2.5
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,150,Jhadol,GEN,Udaipur,189155,BJP,Babu Lal,87527,INC,Sunil Kumar Bhajat,74580,12947,6.84
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,151,Kherwara,GEN,Udaipur,186378,INC,Dayaram Parmar,93155,BJP,Nanalal Ahari,68164,24991,13.41
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,152,Udaipur Rural,GEN,Udaipur,185462,BJP,Phool Singh Meena,97382,INC,Vivek Katara,78675,18707,10.09
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,153,Udaipur,GEN,Udaipur,156620,BJP,Gulab Chand Kataria,74660,INC,Girija Vyas,65353,9307,5.94
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,154,Mavli,GEN,Udaipur,183087,BJP,Dharmnarayan Joshi,99723,INC,Pushkar Lal Dangi,72745,26978,14.74
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,155,Vallabh Nagar,GEN,Udaipur,185236,INC,Gajendra Singh Shaktawat,66306,JSR,M. Randhir Singh Bhinder,62587,3719,2.01
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,156,Salumber,GEN,Udaipur,178658,BJP,Amrit Lal Meena,87472,INC,Raguvir Singh,65554,21918,12.27
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,157,Dhariyawad,GEN,Udaipur,188508,BJP,Gotam Lal,96457,INC,Nagraj,72615,23842,12.65
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,158,Dungarpur,GEN,Dungarpur,158178,INC,Ganesh Ghogra,75482,BJP,Madhavlal Varahat,47584,27898,17.64
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,159,Aspur,GEN,Dungarpur,158038,BJP,Gopichand Meena,57062,BTP,Umesh,51732,5330,3.37
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,160,Sagwara,GEN,Dungarpur,170576,BTP,Ramprasad,58406,BJP,Shankarlal,53824,4582,2.69
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,161,Chorasi,GEN,Dungarpur,163089,BTP,Rajkumar Roat,64119,BJP,Sushil Katara,51185,12934,7.93
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,162,Ghatol,GEN,Banswara,213406,BJP,Harendra Ninama,101121,INC,Nanalal Ninama,96672,4449,2.08
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,163,Garhi,GEN,Banswara,201169,BJP,Kailash Chandra Meena,99350,INC,Kanta Bhil,74949,24401,12.13
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,164,Banswara,GEN,Banswara,199968,INC,Arjun Singh Bamniya,88447,BJP,Hakru Maida,70081,18366,9.18
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,165,Bagidora,GEN,Banswara,192281,INC,Mahendrajeet Singh Malviya,97638,BJP,Khemraj Garasiya,76328,21310,11.08
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,166,Kushalgarh,GEN,Banswara,184617,IND,Ramila Khadiya,94344,BJP,Bhima Bhai,75394,18950,10.26
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,167,Kapasan,GEN,Chittaurgarh,190582,BJP,Arjun Lal Jingar,81470,INC,Anandi Ram,74468,7002,3.67
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,168,Begun,GEN,Chittaurgarh,213779,INC,Bidhuri Rajendra Singh,99259,BJP,Dr. Suresh Dhaker,97598,1661,0.78
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,169,Chittorgarh,GEN,Chittaurgarh,197503,BJP,Chandrabhan Singh Aakya,106563,INC,Surendra Singh Jadawat,82669,23894,12.1
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,170,Nimbahera,GEN,Chittaurgarh,215408,INC,Anjana Udailal,110037,BJP,Shrichand Kriplani,98129,11908,5.53
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,171,Bari Sadri,GEN,Chittaurgarh,198015,BJP,Lalit Kumar Ostwal,97111,INC,Prakash Choudhary,88301,8810,4.45
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,172,Pratapgarh,GEN,Chittaurgarh,192014,INC,Ramlal,100625,BJP,Hemant,83945,16680,8.69
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,173,Bhim,GEN,Rajsamand *,138160,INC,Sudarshan Singh Rawat,49355,BJP,Hari Singh Chouhan (Rawat),45641,3714,2.69
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,174,Kumbhalgarh,GEN,Rajsamand *,136293,BJP,Surendra Singh Rathore,70803,INC,Ganesh Singh,52360,18443,13.53
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,175,Rajsamand,GEN,Rajsamand *,159703,BJP,Kiran Maheshwari,89709,INC,Narayan Singh Bhati,65086,24623,15.42
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,176,Nathdwara,GEN,Rajsamand *,169088,INC,C. P. Joshi,88384,BJP,Mahesh Pratap Singh,71444,16940,10.02
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,177,Asind,GEN,Bhilwara,196293,BJP,Jabbar Singh Sankhala,70249,INC,Manish Mewara,70095,154,0.08
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,178,Mandal,GEN,Bhilwara,187631,INC,Ramlal Jat,59645,IND,Pradhyuman Singh (Happy Banna),51580,8065,4.3
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,179,Sahara,GEN,Bhilwara,171566,INC,Kailash Chandra Trivedi,65420,BJP,Roop Lal Jat,58414,7006,4.08
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,180,Bhilwara,GEN,Bhilwara,173881,BJP,Vitthal Shankar Awasthi,93198,IND,Om Prakash Naraniwal,43620,49578,28.51
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,181,Shahpura,GEN,Bhilwara,165171,BJP,Kailash Chandra Meghwal,101451,INC,Mahaveer Prasad,26909,74542,45.13
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,182,Jahazpur,GEN,Bhilwara,180895,BJP,Gopi Chand Meena,94970,INC,Dheeraj Gurjar,81717,13253,7.33
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,183,Mandalgarh,GEN,Bhilwara,181475,BJP,Gopal Lal Sharma,68481,INC,Vivek Dhakar,58148,10333,5.69
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,184,Hindoli,GEN,Bundi,194347,INC,Ashok,109958,BJP,Omendra Singh Hada,79417,30541,15.71
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,185,Keshoraipatan,GEN,Bundi,180905,BJP,Chandrakanta Meghwal,72596,INC,Rakesh Boyat,65477,7119,3.94
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,186,Bundi,GEN,Bundi,216116,BJP,Ashok Dogra,97370,INC,Harimohan Sharma,96657,713,0.33
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,187,Pipalda,GEN,Kota,142263,INC,Ramnarain Meena,72690,BJP,Mamta Sharma,57785,14905,10.48
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,188,Sangod,GEN,Kota,153350,INC,Bharat Singh Kundanpur,74154,BJP,Heera Lal Nagar,72286,1868,1.22
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,189,Kota North,GEN,Kota,175178,INC,Shanti Kumar Dhariwal,94728,BJP,Prahlad Gunjal,76783,17945,10.24
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,190,Kota South,GEN,Kota,168302,BJP,Sandeep Sharma,82739,INC,Rakhi Gautam,75205,7534,4.48
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,191,Ladpura,GEN,Kota,195793,BJP,Kalpana Devi,104912,INC,Gulanaj Guddu,83256,21656,11.06
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,192,Ramganj Mandi,GEN,Kota,174327,BJP,Madan Dilawar,90817,INC,Ramgopal,77938,12879,7.39
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,193,Anta,GEN,Baran *,165948,INC,Pramod Bhaya,97160,BJP,Prabhu Lal Saini,63097,34063,20.53
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,194,Kishanganj,GEN,Baran *,166916,INC,Nirmala Sahariya,87765,BJP,Lalit Meena,73629,14136,8.47
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,195,Baran-Atru,GEN,Baran *,169151,INC,Pana Chand Meghwal,86986,BJP,Baboo Lal Verma,74738,12248,7.24
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,196,Chhabra,GEN,Baran *,177143,BJP,Pratap Singh,79707,INC,Karan Singh,75963,3744,2.11
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,197,Dag,GEN,Jhalawar,193841,BJP,Kaluram,103665,INC,Madan Lal,84152,19513,10.07
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,198,Jhalrapatan,GEN,Jhalawar,212043,BJP,Vasundhara Raje,116484,INC,Manvendra Singh,81504,34980,16.5
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,199,Khanpur,GEN,Jhalawar,180839,BJP,Narendra Nagar,85984,INC,Suresh,83719,2265,1.25
+ae-rajasthan-2018,AE,Rajasthan,2018,2018,official,200,Manohar Thana,GEN,Jhalawar,202582,BJP,Govind Prasad,110215,INC,Kailash Chand,88346,21869,10.8

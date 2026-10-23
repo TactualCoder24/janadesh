@@ -1,0 +1,426 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,1,Uttar Kashi,SC,,33420,JNP,Barfia Lal,19120,INC,Baldev Singh Arya,14300,4820,14.42
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,2,Tehri,GEN,,32142,CPI,Govind Singh Negi,12192,JNP,Bachan Singh Negi,10356,1836,5.71
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,3,Devprayag,GEN,,33476,IND,Indramani Badoni,17228,JNP,Govind Prasad Gairola,11740,5488,16.39
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,4,Lansdowne,GEN,,32817,JNP,Bharat Singh,14465,INC,Sarat Chand,7139,7326,22.32
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,5,Pauri,GEN,,25612,JNP,Bhagwati Charan Nirmohi,11943,INC,Chandra Singh Rawat,7622,4321,16.87
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,6,Karanprayag,GEN,,24590,JNP,Shivanand Nautiyal,17543,INC,Bhargai Datt,5683,11860,48.23
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,7,Badrikedar,GEN,,42336,JNP,Pratap Singh,25097,INC,Narendra Singh Bhandari,11335,13762,32.51
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,8,Didihat,GEN,,30069,JNP,Narayan Singh Bhainsora,15246,INC,Charu Chandra Ojha,9165,6081,20.22
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,9,Pithoragarh,GEN,,29740,JNP,Kamal Kishan Pandey,11930,INC,Jodh Singh Dhek,9476,2454,8.25
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,10,Almora,GEN,,39074,JNP,Shoban Singh Jina,25382,INC,Rama Pant,13692,11690,29.92
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,11,Bageshwar,SC,,28860,JNP,Pooran Chandra,14603,INC,Gopal Ram Dass,13089,1514,5.25
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,12,Ranikhet,GEN,,35991,JNP,Govind Singh Mehra,13061,INC,Budhi Singh,10951,2110,5.86
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,13,Naini Tal,GEN,,43703,JNP,Ram Datt Joshi,21192,INC,Dungar Singh Bisht,21112,80,0.18
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,14,Khatima,GEN,,37075,JNP,Srichandra,18429,INC,Indra Lal,16904,1525,4.11
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,15,Haldwani,GEN,,55554,INC,Deo Bahadur Singh,27918,JNP,Indira Hridayesh,19598,8320,14.98
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,16,Kashipur,GEN,,64904,INC,Narain Datt,32802,JNP,Govind Singh,25384,7418,11.43
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,17,Seohara,GEN,,72335,JNP,Abdul Waheed,36134,INC,Sheonath Singh,26258,9876,13.65
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,18,Dhampur,GEN,,62109,JNP,Haripal Singh Shastri,23242,INC,Sattar Ahmad,22548,694,1.12
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,19,Afzalgarh,GEN,,60931,JNP,M. Jaleel Ahmad,20272,INC,Azizur-Rehman,19309,963,1.58
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,20,Nagina,SC,,51013,JNP,Mangal Ram Premi,26698,INC,Bishan Lal,21980,4718,9.25
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,21,Nazibabad,SC,,46127,JNP,Mukandi Singh,26564,INC,Sukhan Singh,13290,13274,28.78
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,22,Bijnor,GEN,,66806,JNP,Kunwar Satya Vir,39939,INC,Kesho Saran Sharma,19306,20633,30.88
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,23,Chandpur,GEN,,73370,JNP,Dharam Vir Singh,36560,INC,Jagjit Singh,28735,7825,10.67
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,24,Kanth,GEN,,52570,JNP,Hargovind Singh,19081,INC,Naunihal Singh,16552,2529,4.81
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,25,Amroha,GEN,,65364,JNP,Leelwat Singh,26449,INC,Khursheed Ahmed,20982,5467,8.36
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,26,Hasanpur,GEN,,69602,JNP,Rama Shanker Kaushik,31175,IND,Rizwan Husain,19424,11751,16.88
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,27,Gangeshwari,SC,,43465,JNP,Hardev Singh,14373,IND,Jitendra Pal Singh,7792,6581,15.14
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,28,Sambhal,GEN,,65979,JNP,Shafiqur-Rehman Barq,21188,INC,Sharyatullah,19764,1424,2.16
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,29,Bahjoi,GEN,,55392,JNP,Sultan Singh,20410,INC,Vijender Singh Urf Vijender Pal Singh,18845,1565,2.83
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,30,Chandausi,SC,,36360,JNP,Karan Singh,17731,INC,Jiraj Singh,11595,6136,16.88
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,31,Kundarki,GEN,,47847,JNP,Akbar Husain,19655,IND,Har Gyan Singh,9463,10192,21.3
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,32,Moradabad West,GEN,,47567,JNP,Khiali Ram Shastri,17970,INC,Raj Pal Singh,14960,3010,6.33
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,33,Moradabad,GEN,,47309,JNP,Dinesh Chandra Rastogi,19987,IUML,Mukhtar Ahamad,8637,11350,23.99
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,34,Moradabad Rural,GEN,,51183,IND,Riyasat Husain,16557,JNP,Om Prakash,15338,1219,2.38
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,35,Thakurdwara,GEN,,60693,JNP,Mukeemur Rehman,23230,CPI(M),Ahmad Husain,13020,10210,16.82
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,36,Suar Tanda,GEN,,54877,INC,Maqbool Ahmad,20728,JNP,Sahukat Ali Khan,16275,4453,8.11
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,37,Rampur,GEN,,64369,INC,Manzoor Ali Khan Alias Shannu Khan,35989,JNP,Mohammad Azam Khan,27636,8353,12.98
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,38,Bilaspur,GEN,,65359,JNP,Sohan Lal,31204,INC,Chanchal Singh,27004,4200,6.43
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,39,Shahabad,SC,,48761,JNP,Jagan Singh,26355,INC,Banshi Dhar,17460,8895,18.24
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,40,Bisauli,GEN,,56862,IND,Brij Ballabh,18404,JNP,Banwari,16486,1918,3.37
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,41,Gunnour,GEN,,65592,IND,Sheoraj Singh,40307,INC,Jugal Kishore,16415,23892,36.43
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,42,Sahaswan,GEN,,44174,JNP,Naresh Pal Singh Yadav,16622,INC,Pati Ram Yadav,11809,4813,10.9
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,43,Bilsi,SC,,54999,JNP,Son Pal Alias Sphan Lal Pippal,28635,INC,Keshon Ram,26364,2271,4.13
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,44,Budaun,GEN,,62823,JNP,Krishan Swaroop,30338,INC,Purshottum Lall Badhwar ( Rajaji ),27230,3108,4.95
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,45,Usehat,GEN,,64971,JNP,Bhagwan Singh,20063,IND,Fakhre Alam,19148,915,1.41
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,46,Binawar,GEN,,52479,JNP,Ali Asghar Husain,20989,INC,Mohammad Asrar Ahmad,20167,822,1.57
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,47,Dataganj,GEN,,64911,JNP,Avenesh Kumar Singh,30835,INC,Santosh Kumari,28902,1933,2.98
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,48,Aonla,GEN,,42866,JNP,Shiam Bihari Singh,28216,INC,Umrai Prasad,10255,17961,41.9
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,49,Sunha,GEN,,50183,INC,Rameshwar Nath Chaubey,21123,JNP,Mahavir Sahay,16926,4197,8.36
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,50,Faridpur,SC,,28232,JNP,Sia Ram Sagar,12876,INC,Hem Raj,10650,2226,7.88
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,51,Bareilly Cantt,GEN,,62747,INC,Ashfaq Ahmad,27483,JNP,Badam Singh,22502,4981,7.94
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,52,Bareilly City,GEN,,55206,JNP,Satya Prakash,31237,INC,Ram Singh Khanna,22728,8509,15.41
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,53,Nawabganj,GEN,,51089,INC,Chatram Gangwar S/O Karhey Ram,16012,JNP,Baldeo Raj,13624,2388,4.67
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,54,Bhojipura,GEN,,58955,IND,Hamid Raza Khan,17917,INC,Bhanu Pratap Singh,16750,1167,1.98
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,55,Kawar,GEN,,58897,INC,Acharya Dharam Dutt Vaidya,19068,JNP,Misar Yar Khan,13133,5935,10.08
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,56,Baheri,GEN,,63641,INC,Rafiq Ahmad Khan,16912,JNP,Anand Veer Balyan,14810,2102,3.3
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,57,Pilibhit,GEN,,46354,JNP,Dhirendra Sahai,23714,INC,Syd. Ali Asharfi,9908,13806,29.78
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,58,Barkhera,SC,,31288,JNP,Kishan Lal,20010,INC,Behari Lal,8708,11302,36.12
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,59,Bisalpur,GEN,,56027,JNP,Munendra Pal Singh,32807,INC,Tej Bahadur,18782,14025,25.03
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,60,Puranpur,GEN,,54065,JNP,Baboo Ram Prabhati,24134,IND,Har Narain,22276,1858,3.44
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,61,Powayan,SC,,46152,JNP,Suraj Prasad,25203,INC,Roop Ram,18240,6963,15.09
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,62,Nigohi,GEN,,60842,INC,Jagdish Singh,12992,JNP,Narendra Pal Singh,12193,799,1.31
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,63,Tilhar,GEN,,64404,INC,Satya Pal Singh,25247,JNP,Room Singh,23796,1451,2.25
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,64,Jalalabad,GEN,,62301,IND,Kanhai Singh,29288,JNP,Dal Singh Yadav,19151,10137,16.27
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,65,Dadraul,GEN,,58859,IND,Mansoor Ali,19479,INC,Kheoraj,17063,2416,4.1
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,66,Shahjahanpur,GEN,,51578,JNP,Mohd. Rafi Khan,29736,INC,Nawab Sadiq Ali Khan,16229,13507,26.19
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,67,Mohammadi,SC,,56660,JNP,Manna Lal,28525,INC,Sewa Ram,25956,2569,4.53
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,68,Haiderabad,GEN,,57067,JNP,Raghav Ram Misra,25119,INC,Makhan Lal Misra,18015,7104,12.45
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,69,Paila,GEN,,46044,JNP,Nanga Ram,23123,INC,Chheda Lal Choudhary,18824,4299,9.34
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,70,Lakhimpur,GEN,,63984,JNP,Naresh Chandra,31136,INC,Mohd. Jafar Ali,26845,4291,6.71
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,71,Sri Nagar,GEN,,51032,JNP,Raj Brij Raj Singh,22214,INC,Tej Narain Trivedi,20325,1889,3.7
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,72,Nighasan,GEN,,56934,JNP,Ram Charan Shah,26364,INC,Ram Asrey,20124,6240,10.96
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,73,Dhaurehara,GEN,,65735,IND,Jagannath Prasad,26827,JNP,Raghunandan Singh,11396,15431,23.47
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,74,Behta,GEN,,50433,JNP,Mukhtar Anis,21686,INC,Krishna Kant Awasthi,19076,2610,5.18
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,75,Biswan,GEN,,56941,JNP,Gaya Prasad Mehrotra Alias Manney Babu,28673,INC,R. K. Bhargava,22553,6120,10.75
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,76,Mahmoodabad,GEN,,70740,JNP,Ram Narain Verma,35967,INC,Ammar Rizvi,29743,6224,8.8
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,77,Sidhauli,SC,,51790,JNP,Ganesh Lal Chaudhari Vakil S/O Mool Chand,23598,INC,Shyam Lal Rawat,19936,3662,7.07
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,78,Laharpur,GEN,,47228,JNP,Abid Ali,23239,INC,Aziz Ahmad Ansari,17091,6148,13.02
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,79,Sitapur,GEN,,48045,JNP,Rajendra Kumar,24125,INC,Shyam Kishore,20680,3445,7.17
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,80,Hargaon,SC,,51480,JNP,Gokaran Prasad,26279,INC,Chaudhari Paragi Lal,22779,3500,6.8
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,81,Misrikh,GEN,,64354,INC,Ram Ratan Singh,22065,JNP,Avadhesh Kumar Sinha,21381,684,1.06
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,82,Machhretha,SC,,50537,JNP,Lal Das,23957,INC,Chaudhari Virendra Kumar,22181,1776,3.51
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,83,Beniganj,SC,,37865,INC,Binari Lal Hans,16788,JNP,Angney Lal,15135,1653,4.37
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,84,Sandila,GEN,,58978,IND,Kudsai Begam,22855,JNP,Kashi Nath,18039,4816,8.17
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,85,Ahirori,SC,,42350,INC,Manni Lal,18630,JNP,Shambhu Dayal,11290,7340,17.33
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,86,Hardoi,GEN,,55408,INC,Dharmgaj Singh,27117,JNP,Udai Pratap Singh,22316,4801,8.66
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,87,Bawan,SC,,46327,INC,Puran Lal,21431,JNP,Chhotey Lal,21272,159,0.34
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,88,Pihani,GEN,,48933,JNP,Ashok Bajpai,22932,INC,Mahesh Singh,21156,1776,3.63
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,89,Shahabad,GEN,,51472,IND,Brij Ballabh Singh,15673,INC,Ram Autar Dixit,15397,276,0.54
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,90,Bilgram,GEN,,68307,JNP,Sharda Bhakt Singh,33878,INC,Hari Shankar,27649,6229,9.12
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,91,Mallawan,GEN,,64367,IND,Ram Asrey,23974,INC,Lalan Sharma,19655,4319,6.71
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,92,Bangarmau,GEN,,57559,JNP,Jagdish Prasad Trivedi,25429,INC,Gopi Nath Dixit,23070,2359,4.1
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,93,Safipur,SC,,40046,JNP,Sunder Lal,19011,INC,Badri Prasad,14463,4548,11.36
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,94,Unnao,GEN,,52331,JNP,Chandra Pal Singh,22082,IND,Anwar Ahmad,9913,12169,23.25
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,95,Hadha,GEN,,59956,JNP,Hemraj,31770,INC,Sachchida Nand,17981,13789,23.0
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,96,Bhagwant Nagar,GEN,,65895,JNP,Deoki Nandan,36428,INC,Bhagwati Singh Visharad,25817,10611,16.1
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,97,Purwa,GEN,,53933,JNP,Chandra Bhushan Singh,19706,INC,Samad Yar Beg,13464,6242,11.57
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,98,Hasanganj,SC,,38328,JNP,Chandra Pal,21080,IND,Sia Ram,12203,8877,23.16
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,99,Malihabad,SC,,37206,JNP,Man Singh Azad,16743,INC,Kailash Pati,14426,2317,6.23
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,100,Mohana,GEN,,60405,JNP,Bhagauti Singh,32824,INC,Chandra Shekhar Trivedi,21350,11474,19.0
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,101,Lucknow East,GEN,,40254,INC,Swaroop Kumari Bakshi,19391,JNP,Akshaiwar Mal,17385,2006,4.98
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,102,Lucknow West,GEN,,46811,JNP,D. P. Bora,29246,INC,Mohd. Shakeel Ahmad,12452,16794,35.88
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,103,Lucknow Central,GEN,,49362,JNP,Ram Prakash,30509,INC,Ramesh Chandra Srivastava,13627,16882,34.2
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,104,Lucknow Cantt,GEN,,40872,JNP,Krishna Kant Misra,22028,INC,Avatar Singh,10046,11982,29.32
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,105,Sarojini Nagar,GEN,,57376,JNP,Chheda Singh Chauhan,23465,INC,Viaji Kumar,20598,2867,5.0
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,106,Mohanlalganj,SC,,36933,JNP,Sant Baksh,24858,INC,Narain Dass,10722,14136,38.27
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,107,Bachhrawan,SC,,46206,INC,Ram Dulare,19257,JNP,Ram Prasad S/O Shital Deen,18402,855,1.85
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,108,Tiloi,GEN,,52008,INC,Mohan Singh,15988,IND,Ram Gopal Tripathi,13688,2300,4.42
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,109,Rae Bareli,GEN,,51969,INC,Mohan Lal Tripathi,22927,JNP,Uma Shanker Yadava,20772,2155,4.15
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,110,Sataon,GEN,,49722,INC,Ram Deo Yadav,22622,JNP,Ram Krishna,16271,6351,12.77
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,111,Sareni,GEN,,60073,INC,Sunita Chauhan,28457,JNP,Amrendra Bahadur Singh,24978,3479,5.79
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,112,Dalmau,GEN,,58739,INC,Munnoo Lal Divedi,19632,JNP,Rajendra Pratap Singh,17599,2033,3.46
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,113,Salon,SC,,41294,JNP,Deena Nath Sewak,21381,INC,Shiva Balak,19913,1468,3.55
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,114,Kunda,GEN,,55558,JNP,Shashi Prabha,27975,IND,Neaz Hasan Khan,19401,8574,15.43
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,115,Bihar,SC,,27353,JNP,Babu Lal,13330,IND,Ram Swarup Bhartiya,6703,6627,24.23
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,116,Rampurkhas,GEN,,43465,IND,Kunwar Tejbhan Singh,17953,JNP,Raja Ram Kisan,13830,4123,9.49
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,117,Garwara,GEN,,45863,JNP,Vidaya Shanker,11937,INC,Ram Naresh Shukla,9621,2316,5.05
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,118,Pratapgarh,GEN,,45808,JNP,Sangam Lal,18822,IND,Dinesh Pratap Singh,5010,13812,30.15
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,119,Birapur,GEN,,58995,JNP,Ram Dev Dubey,20352,INC,Prabhakar Nath Diwedi,16641,3711,6.29
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,120,Patti,GEN,,54524,JNP,Rajpati Misra,25966,INC,Basudev Singh,16412,9554,17.52
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,121,Amethi,GEN,,41421,JNP,Haricharan Yadav,18304,INC,Baij Nath Singh Vaidya,13983,4321,10.43
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,122,Gauriganj,GEN,,35106,JNP,Tej Bhan Singh,15947,INC,Rajpati Devi,13188,2759,7.86
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,123,Jagdishpur,SC,,21196,JNP,Ram Pher Kori,11396,INC,Ram Sewak Dhobi,5464,5932,27.99
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,124,Isauli,GEN,,32809,JNP,Ram Baran Verma,16029,INC,Ambika Prasad Singh,9402,6627,20.2
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,125,Sultanpur,GEN,,38348,JNP,Jitendra Kumar Agarwal,24962,INC,Mohd. Zaman,10243,14719,38.38
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,126,Jaisinghpur,GEN,,43987,JNP,Maqbool Husain Khan,23685,INC,Shiv Kumar,13026,10659,24.23
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,127,Chanda,GEN,,47714,JNP,Udai Pratap Singh,25922,INC,Sripati Misra,14428,11494,24.09
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,128,Kadipur,SC,,52130,JNP,Brij Lal,28449,INC,Jai Raj Gautam,17588,10861,20.83
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,129,Katehari,GEN,,57600,JNP,Ravindra Nath Tewari,26383,INC,Bhagauti Prasad Shukla,17998,8385,14.56
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,130,Akbarpur,GEN,,72509,JNP,Hari Ram Verma,28603,INC,Priya Darshi Jetali,24625,3978,5.49
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,131,Jalalpur,GEN,,54744,CPI(M),Bhagauti Prasad,16035,IND,Jagdamba Prasad,15139,896,1.64
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,132,Jahangirganj,SC,,43277,JNP,Ramrati Devi,19428,INC,Prabhu Ram,15091,4337,10.02
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,133,Tanda,GEN,,62751,JNP,Abdul Hafeez,29000,INC,Jai Ram Verma,25350,3650,5.82
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,134,Ayodhya,GEN,,60462,JNP,Jai Shanker Pandey,24247,INC,Khatri Nirmal Kumar,23831,416,0.69
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,135,Bikapur,GEN,,48305,JNP,Sri Ram Dwivedi,26686,INC,Sita Ram Nishad,16792,9894,20.48
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,136,Milkipur,GEN,,54686,CPI,Mitra Sen,25861,JNP,Dharam Chandra,11252,14609,26.71
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,137,Sohawal,SC,,48082,JNP,Avdhesh Prasad,28090,INC,Huvraj,17512,10578,22.0
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,138,Rudauli,GEN,,50714,JNP,Pradeep Kumar Yadav,30694,INC,Krishan Magan Singh,12055,18639,36.75
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,139,Dariyabad,SC,,45970,JNP,Asharfi Lal,28761,INC,A. Haseeb,12600,16161,35.16
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,140,Sidhaur,GEN,,39765,JNP,Ram Sagar,27147,INC,Anand Prakash,8752,18395,46.26
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,141,Haidergarh,GEN,,47819,IND,Sunder Lal,16195,JNP,Jang Bahadur,14992,1203,2.52
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,142,Masauli,GEN,,69473,JNP,Beni Prasad,38160,INC,Kidwai Mohsina,26413,11747,16.91
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,143,Nawabganj,GEN,,63308,JNP,Mohd. Shamim Ansari,35059,CPI,Ram Chandra Bux Singh,25059,10000,15.8
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,144,Fatehpur,SC,,40410,JNP,Nanhey Lal Kureel,22090,INC,Medi Lal,14134,7956,19.69
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,145,Ramnagar,GEN,,55030,JNP,Masudal Hasan Nomani,23847,INC,Ram Asrey Verma,14045,9802,17.81
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,146,Kaiserganj,GEN,,54611,JNP,Babu Lal Verma,27043,INC,Kunwar Bahadur Singh,25501,1542,2.82
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,147,Fakharpur,GEN,,45461,JNP,Shakuntla Nayar,24847,INC,Ram Harsh Chaudhary,10632,14215,31.27
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,148,Mahsi,GEN,,47017,JNP,Sukhad Raj Singh,23423,INC,Satish Kumar Singh,21110,2313,4.92
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,149,Nanpara,GEN,,63581,CPI,Fazlur Rehman Ansari,30427,JNP,Jata Shankar Singh,29434,993,1.56
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,150,Charda,SC,,32870,JNP,Gajadhar Prasad,18470,INC,Bindra Prasad,11974,6496,19.76
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,151,Bhinga,GEN,,29074,JNP,Kamla Prasad Verma,17785,INC,Ambika Prasad Shukla,11289,6496,22.34
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,152,Bahraich,GEN,,47570,JNP,Khan Mohd. Atif Khan,23139,INC,Kedar Nath Agarwal,20215,2924,6.15
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,153,Ikauna,SC,,27244,JNP,Vishnu Dayal,16580,INC,Ram Sagar Rao,7765,8815,32.36
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,154,Gainsari,GEN,,46995,JNP,Vindu Lal,25012,INC,Shayam Narain Yadav,16680,8332,17.73
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,155,Tulsipur,GEN,,42183,INC,Mangal Deo,20481,JNP,Madan Mohan Hazara,17280,3201,7.59
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,156,Balrampur,GEN,,41420,JNP,Ashfaq,18909,INC,Man Bahadur,15526,3383,8.17
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,157,Utraula,GEN,,48112,JNP,Rajendra Prasad Chaudhary,22819,INC,Ibney Hasan,17982,4837,10.05
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,158,Sadulla Nagar,GEN,,57582,JNP,Dashrath Singh,28415,INC,Mohd. Umar,17279,11136,19.34
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,159,Mankapur,SC,,44238,INC,Ganga Prasad,20011,JNP,Lallo,18776,1235,2.79
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,160,Mujehna,GEN,,45055,JNP,Vishnu Pratap Singh,18977,INC,Deep Narain Ban Mahant,17323,1654,3.67
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,161,Gonda,GEN,,38594,JNP,Fajulal Bari Alias Bone Bhai,19688,INC,Raghu Raj Pd. Upadhaya,11210,8478,21.97
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,162,Katra Bazar,GEN,,38311,JNP,Deep Narain,16132,INC,Triloki Nath,9547,6585,17.19
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,163,Colonelganj,GEN,,43114,JNP,Triveni Singh,22227,INC,Umeshwar Prasad Alias Umeshwar Pratap Singh,16344,5883,13.65
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,164,Dixir,SC,,25950,JNP,Ram Pati,16650,INC,Ram Garib,8378,8272,31.88
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,165,Harraiya,GEN,,66364,JNP,Sukhpal Pandey,33238,INC,Surendra Pratap Narain,18782,14456,21.78
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,166,Captainganj,GEN,,62563,JNP,Om Parkash Alias Milan Singh,33811,INC,Ram Lakhan,18641,15170,24.25
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,167,Nagar East,SC,,52843,JNP,Girdhari Lal,33388,INC,Sohan Lal Dhusia,16343,17045,32.26
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,168,Basti,GEN,,65404,JNP,Jagdamba Prasad Singh,36181,INC,Shyama Devi,23126,13055,19.96
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,169,Ramnagar,GEN,,69938,JNP,Babu Ram Verma,30828,INC,Jagdambika Pal,20266,10562,15.1
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,170,Domariaganj,GEN,,74250,JNP,Malik Mohd. Kamal Yusuf,45324,INC,Jealil Abbasi,21052,24272,32.69
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,171,Itwa,GEN,,51301,JNP,Vishwa Nath Pandey,23794,INC,Gopi Nath Kameshwarpuri,14343,9451,18.42
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,172,Shohratgarh,GEN,,63101,JNP,Sheo Lal Mittal,32236,INC,Kamla Sahni,21465,10771,17.07
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,173,Naugarh,GEN,,57804,INC,Mathura Prasad Pandey,23209,JNP,Ram Rokha Yadav,20323,2886,4.99
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,174,Bansi,GEN,,61983,JNP,Harish Chandra Alias Harish Ji,37435,INC,Raj Bahadur Chand,24548,12887,20.79
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,175,Khesraha,GEN,,77273,JNP,Diwakar Vikram Singh,46083,INC,Daya Shankar,25936,20147,26.07
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,176,Mendhwal,GEN,,61067,JNP,Chandra Shekhar Singh,31367,INC,Mohd. Nabi,21292,10075,16.5
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,177,Khalilabad,SC,,60993,JNP,Ram Asrey,35714,INC,Ram Pat,19573,16141,26.46
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,178,Hainsarbazar,SC,,47284,JNP,Bhisham,25016,INC,Daya Ram,15620,9396,19.87
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,179,Bansgaon,SC,,49831,JNP,Babu Lal,28653,INC,Mahabir Prasad,21178,7475,15.0
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,180,Dhuriapur,GEN,,54486,JNP,Jagdish Prasad,22027,INC,Markandey Chandra,18452,3575,6.56
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,181,Chillupar,GEN,,56700,JNP,Kalp Nath Singh,31889,INC,Bhigu Nath Chaturvedi,20201,11688,20.61
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,182,Kauri Ram,GEN,,65332,JNP,Rarvinder,34821,INC,Arvind Pati,23462,11359,17.39
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,183,Mundera Bazar,SC,,41999,JNP,Sharda Devi,23570,INC,Ram Pati,11107,12463,29.67
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,184,Pipraich,GEN,,51927,JNP,Madhukar Didhe,33450,INC,Vishwanath,14938,18512,35.65
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,185,Gorakhpur,GEN,,46209,JNP,Avdhesh Kumar Shrivastava,32728,INC,Jamir Ahmad Payam,11961,20767,44.94
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,186,Maniram,GEN,,66460,JNP,Avedya Nath,41104,INC,Ram Krihan Dwivedi,18724,22380,33.67
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,187,Sahjanwa,GEN,,63246,JNP,Sharda Prasad Rawat,33453,INC,Dhruv Narain Singh,20371,13082,20.68
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,188,Paniara,GEN,,60158,IND,Gunjeshwar,32639,INC,Bir Bahadur Singh,17365,15274,25.39
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,189,Pharenda,GEN,,59595,CPI,Shyam Narain Tewari,26559,JNP,Harsh Wardhan Singh,19451,7108,11.93
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,190,Luxmipur,GEN,,62419,JNP,Abdul Rauf Lari,29227,INC,Ram Lagan Dube,21634,7593,12.16
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,191,Siswa,GEN,,68707,JNP,Sharda Prasad Jaiswal,29961,INC,Yadvendra Singh Alias Lallanji,29096,865,1.26
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,192,Maharajganj,SC,,38062,IND,Dukhi Prasad,26300,INC,Duryodhan,7688,18612,48.9
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,193,Shyam Deurwa,GEN,,67276,JNP,Janardan Prasad Ojha,36576,INC,Abdul Hai Siddiqi,11570,25006,37.17
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,194,Naurangia,SC,,53235,JNP,Narain Urf Bhulai Bhai,30956,INC,Baij Nath Prasad,22279,8677,16.3
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,195,Ramkola,GEN,,53400,JNP,Bankey Lal,24799,INC,Surendra Singh,14344,10455,19.58
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,196,Hata,SC,,47556,JNP,Basant,34909,INC,Gulab Chand Sonker,11955,22954,48.27
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,197,Padrauna,GEN,,64195,JNP,Purushottam Kaushik,32726,INC,Iqbal Ahmad Jamali,23089,9637,15.01
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,198,Seorahi,GEN,,44141,JNP,Kripashanker Arya,22536,INC,Siraj Ahmad,15702,6834,15.48
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,199,Fazilnagar,GEN,,66942,JNP,Ramesh Naresh Pandey,42270,INC,Ramayan Rai,22415,19855,29.66
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,200,Kasia,GEN,,67470,JNP,Rajmangal Pandey,48134,INC,Sheoautar Mani Tripathi,13882,34252,50.77
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,201,Gauri Bazar,GEN,,61254,JNP,Virender,22364,INC,Anirudh,13655,8709,14.22
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,202,Rudrapur,GEN,,56703,JNP,Pradeep Kumar,29249,INC,Rajendra Prasad Gupta,16714,12535,22.11
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,203,Deoria,GEN,,58767,JNP,Krishna Rai,25218,INC,Mahendra Singh Yadava,17691,7527,12.81
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,204,Bhatpar Rani,GEN,,68185,JNP,Raj Mangal,29567,IND,Haribansh Sahai,18930,10637,15.6
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,205,Salempur,GEN,,62374,JNP,Hari Kewal Prasad,32805,INC,Awadhesh Pratap Mall,23884,8921,14.3
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,206,Barhaj,GEN,,60141,JNP,Mohan Singh,32924,INC,Surendra Prasad Misra,20094,12830,21.33
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,207,Natthupur,GEN,,62593,JNP,Jagdish,20551,INC,Raj Kumar Rai,19842,709,1.13
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,208,Ghosi,GEN,,65741,JNP,Vikrama Rai,30440,CPI,Zafar Azami,27533,2907,4.42
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,209,Sagri,GEN,,67527,JNP,Ram Janam,27089,INC,Ram Sunder,17697,9392,13.91
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,210,Gopalpur,GEN,,57394,JNP,Ramadhar,28221,INC,Dal Singar,26553,1668,2.91
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,211,Azamgarh,GEN,,62232,INC,Bhima Prasad,33524,JNP,Kapildeo,28708,4816,7.74
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,212,Nizamabad,GEN,,69912,JNP,M. Masaud,33587,INC,Chandrabali Brahmachari,24237,9350,13.37
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,213,Atraulia,GEN,,62575,INC,Durg Vijai,23046,JNP,Jang Bahadur,20505,2541,4.06
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,214,Phulpur,GEN,,55529,JNP,Padmakar,27238,INC,Abul Kalam,19317,7921,14.26
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,215,Saraimir,SC,,47823,JNP,Daya Ram Bhasker,22220,INC,Bhikha Ram,17851,4369,9.14
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,216,Mehnagar,SC,,58126,JNP,Bhuddhoo,27267,INC,Chhangur,22141,5126,8.82
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,217,Lalganj,GEN,,66075,JNP,Ish Dutt,28618,INC,Triveni,22820,5798,8.77
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,218,Mubarakpur,GEN,,56620,JNP,Bhabhi,28346,INC,A. Hageez Bharati,20282,8064,14.24
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,219,Muhammadabad Gohna,SC,,53412,JNP,Sheo Prasad,30488,CPI,Tapeshwar,20498,9990,18.7
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,220,Mau,GEN,,73428,JNP,Ramji,33798,CPI,Abdul Baqi,33690,108,0.15
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,221,Rasra,SC,,51394,JNP,Mannu Ram,23649,CPI,Raghunath,22951,698,1.36
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,222,Siar,GEN,,60505,JNP,Rafiullah,21681,IND,Baban,19314,2367,3.91
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,223,Chilkahar,GEN,,58513,JNP,Ram Govin,27917,INC,Jitendra Bahadur,21186,6731,11.5
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,224,Sikanderpur,GEN,,71798,JNP,Sheo Mangal Singh,38900,INC,Nirbhai Narain Singh Alias Lal Babu,27758,11142,15.52
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,225,Bansdih,GEN,,73448,INC,Bachcha Pathak,35171,JNP,Chandrika Prasad,33083,2088,2.84
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,226,Doaba,GEN,,65239,JNP,Manager Singh,39840,INC,Banwari,18238,21602,33.11
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,227,Balia,GEN,,55618,JNP,Shambhu Nath Choudhari,29506,INC,Kashi Nath Misra,21931,7575,13.62
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,228,Kopachit,GEN,,64539,JNP,Gauri Shanker,30382,INC,Digvijay,18461,11921,18.47
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,229,Zahoorabad,GEN,,68059,CPI,Jairam,31965,JNP,Krishna Kant Alias Vishwanath Singh,19224,12741,18.72
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,230,Mohammadabad,GEN,,58518,JNP,Ram Janam Rai,22371,INC,Krishna Nand Rai,20378,1993,3.41
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,231,Dildarnagar,GEN,,54462,JNP,Avadhesh Narain,18532,INC,Ramji,16286,2246,4.12
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,232,Zamania,GEN,,48677,JNP,Dharam Ram,23363,INC,Ram Soorat Singh,17429,5934,12.19
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,233,Ghazipur,GEN,,54431,JNP,Mohd. Khalilullan Kuraishi,25710,INC,Sri Narayan Singh,22549,3161,5.81
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,234,Jakhania,SC,,56400,JNP,Dev Ram,33936,INC,Jhilmit,15437,18499,32.8
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,235,Sadat,GEN,,69744,JNP,Kali Charan,39370,CPI,Subedar,18923,20447,29.32
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,236,Saidpur,GEN,,72337,JNP,Udai Narain,26483,IND,Ram Karan,24077,2406,3.33
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,237,Dhanapur,GEN,,58919,JNP,Kailash Nath,28231,INC,Narendra Kumar Shashtri,19418,8813,14.96
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,238,Chandauli,GEN,,72498,JNP,Ram Pyare,31785,INC,Rama Singh,30198,1587,2.19
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,239,Chakiya,SC,,57621,JNP,Shyam Deo,30202,INC,Bechan Ram,17709,12493,21.68
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,240,Mughalsarai,GEN,,59945,JNP,Ganji Prasad,24659,IND,Yadunath Singh,20360,4299,7.17
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,241,Varanasi Cantonment,GEN,,49276,JNP,Shatroodh Prakash,28973,INC,Kiran Kumar Sharma,13256,15717,31.9
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,242,Varanasi South,GEN,,59906,JNP,Raj Bali Tiwari,36016,INC,Raj Kumar,13283,22733,37.95
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,243,Varanasi North,GEN,,57971,JNP,Mushtaq Ahmed,38562,INC,Abdul Aziz,15462,23100,39.85
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,244,Chiraigaon,GEN,,56217,JNP,Udai Nath,25339,IND,Kharban,9757,15582,27.72
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,245,Kolasla,GEN,,75108,CPI,Udal,34513,JNP,Nihala Singh,24635,9878,13.15
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,246,Gangapur,GEN,,65704,JNP,Baldeo,34345,INC,Ram Sagar,17809,16536,25.17
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,247,Aurai,GEN,,67424,JNP,Bechuram,28578,INC,Bansnarain,24287,4291,6.36
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,248,Gyanpur,GEN,,76028,INC,Shyamdhar Mishra,37502,JNP,Ram Rati Bind,32593,4909,6.46
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,249,Bhadohi,SC,,48381,JNP,Mithai Lal,23239,INC,Moolchand,22871,368,0.76
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,250,Barsathi,GEN,,46465,INC,Ram Krishan,23138,JNP,Najju Ram,20862,2276,4.9
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,251,Mariahu,GEN,,63436,INC,Raj Kishore,31155,JNP,Daya Shankar,28305,2850,4.49
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,252,Kerakat,SC,,50964,JNP,Shambhu Nath,23955,INC,Shyam Lal,23130,825,1.62
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,253,Bayalsi,GEN,,68952,INC,Chandra Sen,35970,JNP,Uma Nath,32982,2988,4.33
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,254,Jaunpur,GEN,,58079,INC,Kamala Prasad Singh,22696,JNP,Om Prakash,21150,1546,2.66
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,255,Rari,GEN,,70700,JNP,Raj Bahadur Yadava,34730,INC,Surya Nath Upadhyay,33511,1219,1.72
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,256,Shahganj,SC,,50662,JNP,Chhotey Lal,27802,INC,Lalta Prasad,17999,9803,19.35
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,257,Khutahan,GEN,,71647,INC,Lakshmi Shanker,32492,JNP,Ram Das,28719,3773,5.27
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,258,Garwara,GEN,,51999,INC,Ram Shiromani,23157,JNP,Rajwant,21798,1359,2.61
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,259,Machhilishahr,GEN,,54193,INC,Arun Kumar,17504,JNP,Agha Zaidi,15012,2492,4.6
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,260,Dudhi,SC,,35048,JNP,Ishwar Prasad,24423,INC,Ram Pyare,10184,14239,40.63
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,261,Robertsganj,SC,,51532,JNP,Subedar Prasad,32657,INC,Kanaujiya Ram Murti,14674,17983,34.9
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,262,Rajgarh,GEN,,75145,JNP,Rajnarain,43157,INC,Lokpati,27781,15376,20.46
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,263,Chunar,GEN,,77691,JNP,Om Prakash,46801,INC,Rama Shankar Singh,21361,25440,32.75
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,264,Majhwa,GEN,,53499,JNP,Shivdas,30038,INC,Rudra Prasad,21991,8047,15.04
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,265,Mirzapur,GEN,,62284,JNP,Raj Nath Singh,35110,INC,Azahar Imam,22355,12755,20.48
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,266,Chhanbey,SC,,46615,INC,Purushottam Das,21104,JNP,Jokhan,20280,824,1.77
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,267,Meja,SC,,48769,JNP,Jawahar Lal,23202,INC,Ram Deo,21430,1772,3.63
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,268,Karchana,GEN,,69927,JNP,Rewati Raman Singh ( Maniji ),39980,INC,Krishna Prakash ( K. P. Tiwari ),24697,15283,21.86
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,269,Bara,GEN,,59016,JNP,Guru Prasad,17968,INC,Ramakant Misra,17862,106,0.18
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,270,Jhusi,GEN,,54235,JNP,Keshari Nath Tripathi,21999,INC,Vidhya Dhar,15817,6182,11.4
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,271,Handia,GEN,,59118,JNP,Athai Ram,25001,INC,Rajendra Prasad Tripathi,22376,2625,4.44
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,272,Pratappur,GEN,,62210,JNP,Har Pratap Singh,25767,INC,Shyam Surat Upadhyay,25163,604,0.97
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,273,Soraon,GEN,,46809,JNP,Jang Bahadur Singh Patel,21605,INC,Mohammad Amin,13849,7756,16.57
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,274,Nawabganj,GEN,,47462,JNP,Muzaffer Hasan,17671,INC,Ram Pujan Patel,15703,1968,4.15
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,275,Allahabad North,GEN,,48795,JNP,Baba Ram Adhar Yadav,29174,INC,Rajendra Kumari Bajpayee,15331,13843,28.37
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,276,Allahabad South,GEN,,47209,JNP,Satya Prakash Malviya,32232,INC,Shyam Sundar Sharma,11930,20302,43.0
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,277,Allahabad West,GEN,,41810,JNP,Habib Ahmad,25325,INC,Sunit Chandra Vyas,9104,16221,38.8
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,278,Chail,SC,,48726,JNP,Kanhaiya Lal Sonkar,23146,INC,Dharamvir,20578,2568,5.27
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,279,Manjhanpur,SC,,42012,JNP,Nathu Ram Shikshak,25228,INC,Chote Lal,13366,11862,28.23
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,280,Sirathu,SC,,42182,JNP,Baij Nath Prasad Kushwaha,18981,INC,Faridul Hasan Usmani Urf. Akhtar,12710,6271,14.87
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,281,Khaga,GEN,,57309,JNP,Chhotey Lal,27481,INC,Krishna Dutta Alias Balraj,18424,9057,15.8
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,282,Kishanpur,SC,,33675,JNP,Jageshwar,15864,INC,Indrajeet,13127,2737,8.13
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,283,Haswa,GEN,,55537,JNP,Umakant Bajpayee Alias Bhaiya Ji,27722,INC,Jai Narain Singh,22305,5417,9.75
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,284,Fatehpur,GEN,,57704,JNP,Khan Ghufran Zahidi,29422,INC,Salahuddin Alias Nabban,17616,11806,20.46
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,285,Jahanabad,GEN,,66679,JNP,Quasim Hasan,29849,IND,Chhatra Pal,14343,15506,23.25
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,286,Bindki,GEN,,51923,JNP,Jagannath Singh,30970,INC,Rabendra Pal Singh,12718,18252,35.15
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,287,Arya Nagar,GEN,,51534,JNP,Babu Badre,26641,INC,Andul Rahman Khan Nashtar,19779,6862,13.32
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,288,Sisamau,SC,,54485,JNP,Moti Ram,28567,INC,Sheo Lal,19623,8944,16.42
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,289,Generalganj,GEN,,54412,JNP,Reoti Raman Rastogi,32031,INC,Virendra Tiwari,19278,12753,23.44
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,290,Kanpur Cantonment,GEN,,46007,JNP,Babu Ram Shukla,26845,INC,Rajendra Kumar,14331,12514,27.2
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,291,Govind Nagar,GEN,,57135,JNP,Ganesh Dutt Vajpayee,34018,CPI,Ajit Singh,19856,14162,24.79
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,292,Kalyanpur,GEN,,50057,JNP,Pushpa Talwar,27446,INC,Ram Narain Pathak,18053,9393,18.76
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,293,Sarsaul,GEN,,61808,JNP,Jauhari Lal,29117,INC,Devendra Bahadur Singh Chandel,26790,2327,3.76
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,294,Ghatampur,GEN,,65024,JNP,Ram Asrey,29382,INC,Kunwar Shiv Nath Singh Kushwaha,23690,5692,8.75
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,295,Bhognipur,SC,,51608,JNP,Mauji Lal Kureel,25798,INC,Keshari Lal,19990,5808,11.25
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,296,Rajpur,GEN,,67368,JNP,Ashwani Kumar Chaturvedi Rakesh,22136,SSD,Ram Sarup Verma,21663,473,0.7
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,297,Sarvankhera,GEN,,61073,JNP,Prabhu Dayal Yadav,20418,CPI,Ranjeet Singh Sengar,14952,5466,8.95
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,298,Chaubepur,GEN,,62140,JNP,Hari Krishna Srivastava,31472,INC,Jagdish Awadthi,19153,12319,19.82
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,299,Bilhaur,SC,,57678,JNP,Moti Lal Dehlvi,34982,INC,Hanuman Prasad Kureel,20995,13987,24.25
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,300,Derapur,GEN,,66384,JNP,Bhagwan Deen Kushwaha,36101,INC,Chaudhari Ram Pal Singh Yadav,24990,11111,16.74
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,301,Auraiya,GEN,,75029,JNP,Bharat Singh Chauhan,40432,IND,Satya Narain Dube,32565,7867,10.49
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,302,Ajitmal,SC,,46935,JNP,Gauri Shankar,23586,INC,Tula Ram,11267,12319,26.25
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,303,Lakhna,SC,,58151,JNP,Ram Lakhan,30436,INC,Maharani,17650,12786,21.99
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,304,Etawah,GEN,,60946,JNP,Satya Deo Tripathi,36260,INC,Sukhda Misra,23986,12274,20.14
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,305,Jaswant Nagar,GEN,,65338,JNP,Mulayam Singh Yadav,41985,IND,Gorey Lal Shakya,15523,26462,40.5
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,306,Bharthana,GEN,,72413,JNP,Mahendra Singh,40520,INC,Raghuraj Singh,18095,22425,30.97
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,307,Bidhuna,GEN,,70972,JNP,Asuan Singh,45341,INC,Gajendra Singh,22854,22487,31.68
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,308,Kannauj,SC,,51016,JNP,Jhan Lal Ahirwar,29759,INC,Bihari Lal,18483,11276,22.1
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,309,Umarda,GEN,,55174,JNP,Ram Bux,27704,IND,Kr. Yogindra Singh,10314,17390,31.52
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,310,Chhibramau,GEN,,52642,JNP,Banshgopal Chaubey,21755,INC,Jagdishwar Dayal Agnihotri Alias Dr. Manna,18586,3169,6.02
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,311,Kamalganj,GEN,,62719,JNP,Anwar Ahmad,22771,INC,Anwar Jamil,21398,1373,2.19
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,312,Farrukhabad,GEN,,58449,JNP,Braham Datt Dwivedi,28106,INC,Bimal Prasad Tiwari,15998,12108,20.72
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,313,Kaimganj,GEN,,87436,JNP,Girish Chandra Tiwari,45145,INC,Anwar Khan,36980,8165,9.34
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,314,Mohammadi,GEN,,60972,INC,Rajendra Singh Yadav,32555,IND,Sohbat Singh,17170,15385,25.23
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,315,Manikpur,SC,,40590,JNP,Ramesh Chand,20749,INC,Shiromani,14972,5777,14.23
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,316,Karwi,GEN,,66829,CPI,Ram Sajiwan,33460,JNP,Vinai Kumar,30342,3118,4.67
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,317,Baberu,GEN,,70310,CPI,Deo Kumar,35905,JNP,Ayodhya Prasad Singh,29295,6610,9.4
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,318,Tindwari,GEN,,61204,JNP,Jagannath Singh,29130,INC,Jagroop Singh,24724,4406,7.2
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,319,Banda,GEN,,67602,JNP,Jamuna Prasad,33180,CPI,Drujan Bhai,31211,1969,2.91
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,320,Naraini,GEN,,62208,CPI,Surendra Pal,30737,JNP,Goswami Radhakrishna,28746,1991,3.2
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,321,Hamirpur,GEN,,68993,JNP,Onkar Nath,32588,INC,Pratap Narain,27168,5420,7.86
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,322,Maudaha,GEN,,63584,JNP,Laxmi Narain,25992,INC,Kuwar Bahadur Mishra,23459,2533,3.98
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,323,Rath,GEN,,78545,JNP,Bal Krishna,41157,INC,Swami Prasad Singh,36090,5067,6.45
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,324,Charkhari,SC,,44514,INC,Mohan Lal,15854,IND,Thakur Das,14296,1558,3.5
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,325,Mahoba,GEN,,60094,JNP,Udit Narain,31147,CPI,Kranti Kumar,21304,9843,16.38
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,326,Mehroni,GEN,,68923,JNP,Ranvir Singh,33319,INC,Krishna Chnad Sharma,23573,9746,14.14
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,327,Lalitpur,GEN,,58454,JNP,Sudama Prasad Goswami,27833,CPI,Chandan Singh Cormade,20107,7726,13.22
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,328,Jhansi,GEN,,55823,JNP,Surya Mukhi Sharma,23882,INC,Meghraj Singh Kushwaha,18202,5680,10.18
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,329,Babina,SC,,71056,JNP,Bhagwat Dayal,35503,INC,Beni Bai,31628,3875,5.45
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,330,Mauranipur,SC,,65319,JNP,Prem Narain,29453,INC,Bhagirath,28665,788,1.21
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,331,Garoutha,GEN,,83949,INC,Ranjeet Singh Joo Deo,35194,JNP,Vishwa Nath Singh,25878,9316,11.1
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,332,Konch,SC,,65619,JNP,Kaushal Kishore,32795,INC,Chaudhary Shayam Lal,30444,2351,3.58
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,333,Orai,GEN,,75423,JNP,Shyam Sundar,37032,INC,Indraj M.M. Singh,33332,3700,4.91
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,334,Kalpi,GEN,,70559,JNP,Shanker Singh,29926,CPI,Lal Singh,28702,1224,1.73
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,335,Madhogarh,GEN,,67946,JNP,Krishna Kumar,30028,INC,Rajendra Shah,19131,10897,16.04
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,336,Bhongra,GEN,,51385,JNP,Hari Ram Shakya,30587,CPI,Jagdish Narain,9585,21002,40.87
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,337,Kishni,SC,,54197,JNP,Hakim Lal,43291,INC,Munshi Lal,8797,34494,63.65
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,338,Karhal,GEN,,65341,JNP,Nathu Singh,39148,INC,Sheo Vaksh Singh Rathaur,20167,18981,29.05
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,339,Shikohabad,GEN,,48270,JNP,Ganga Sahai Yadav,24596,INC,Durga Vijai Singh,9065,15531,32.18
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,340,Jasrana,GEN,,50807,JNP,Balbir Singh,28471,INC,Vishnu Dayal,17034,11437,22.51
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,341,Ghiror,GEN,,51267,JNP,Virendra Pati Yadav,28753,CPI,Lallu Singh Chauhan,19246,9507,18.54
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,342,Mainpuri,GEN,,61232,JNP,Malikhan Singh,32648,INC,Raghubir Singh,23734,8914,14.56
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,343,Aliganj,GEN,,82572,JNP,Genda Lal,41453,INC,Latoori Singh,41119,334,0.4
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,344,Patiali,GEN,,57686,JNP,Jasvir Singh,25017,INC,Malik Mhod. Zamir Ahmad,15667,9350,16.21
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,345,Sakit,GEN,,44447,JNP,Pyarey Lal,20566,INC,Raiendra Pal Singh,14054,6512,14.65
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,346,Soron,GEN,,39699,JNP,Ram Pratap,11468,INC,Hubb Lal Sharma,8225,3243,8.17
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,347,Kasganj,GEN,,53134,JNP,Net Ram Singh,34029,INC,Manpal Singh,16262,17767,33.44
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,348,Etah,GEN,,56016,JNP,Ganga Prasad,27271,IND,Badan Singh,14010,13261,23.67
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,349,Nidhauli Kalan,GEN,,46437,JNP,Ram Singh,22377,INC,Ganga Singh,11389,10988,23.66
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,350,Jalesar,SC,,50988,JNP,Madhav,31649,INC,Het Ram Singh,15637,16012,31.4
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,351,Firozabad,GEN,,64682,JNP,Raghubar Dayal Verma,30726,INC,Abdul Alim,16548,14178,21.92
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,352,Bah,GEN,,73979,JNP,Raja Mahendra Ripudaman Singh,44787,INC,Amar Chand,25288,19499,26.36
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,353,Fatehabad,GEN,,54352,JNP,Hukam Singh Parihar,26881,INC,Lakshmi Narain,20795,6086,11.2
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,354,Tundla,SC,,50353,JNP,Rajesh Kumar Singh,30758,INC,Ramji Lal Kain,18051,12707,25.24
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,355,Etmadpur,SC,,38652,JNP,Chandra Bhan Maurya,20916,INC,Phool Singh Soni,14548,6368,16.48
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,356,Dayal Bagh,GEN,,45362,JNP,Shyam Dutt Paliwal,25102,INC,Hukum Singh,15269,9833,21.68
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,357,Agra Cantonment,GEN,,59684,INC,Dr. Krishan Vir Singh Kaushal,27485,JNP,Ramesh Kant Lobania,26271,1214,2.03
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,358,Agra East,GEN,,56099,INC,Surendra Kumar Kalra (Sindhu),25472,JNP,Dr. Prakash Narain Gupta,24916,556,0.99
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,359,Agra West,SC,,51202,INC,Gulab Sehra,24211,JNP,Lachhaman Das,21792,2419,4.72
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,360,Kheragarh,GEN,,58719,JNP,Guru Dott Solanki,27307,INC,Bahadur Singh,16390,10917,18.59
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,361,Fatehpur Sikri,GEN,,65956,JNP,Badan Singh,41037,INC,Bijendra Singh,18113,22924,34.76
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,362,Goverdhan,SC,,45612,JNP,Gyanendra Swarup,27702,INC,Puran Singh,9267,18435,40.42
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,363,Mathura,GEN,,61729,JNP,Kanhaiya Lal,37813,INC,Laxmi Raman,21354,16459,26.66
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,364,Chhata,GEN,,53893,JNP,Lakhi Singh,29557,INC,Tej Pal Singh,20437,9120,16.92
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,365,Mat,GEN,,58210,JNP,Radhey Shyam,22337,INC,Lok Mani,15527,6810,11.7
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,366,Gokul,GEN,,49410,JNP,Onkar Singh,35620,INC,Ramesh Chand,11945,23675,47.92
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,367,Sadabad,GEN,,56923,JNP,H.C. Tiwari,36094,INC,Onkar Singh,17008,19086,33.53
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,368,Hathras,GEN,,61134,JNP,Ram Saran Singh,21339,INC,Prem Chandra Sharma,20783,556,0.91
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,369,Sasni,SC,,52848,JNP,Bangali Singh,30974,INC,Dharam Pal Singh,16026,14948,28.28
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,370,Sikandara Rao,GEN,,52225,JNP,Nem Singh Chauhan,27090,INC,Omkar Singh,15456,11634,22.28
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,371,Gangiri,GEN,,55656,JNP,Babu Singh,32093,INC,Anisur Rehman Sherwani,18851,13242,23.79
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,372,Atraulia,GEN,,74853,JNP,Kalyan Singh,44439,INC,Amar Singh,25321,19118,25.54
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,373,Aligarh,GEN,,63347,JNP,Moziz Ali Beg,30775,INC,Khawaza Halleem,28072,2703,4.27
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,374,Koil,SC,,56914,JNP,Kishan Lal Diler,33778,INC,Puran Chand,19769,14009,24.61
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,375,Iglas,GEN,,58800,JNP,Rajendra Singh,36097,INC,Mukhtyar Singh,18026,18071,30.73
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,376,Barauli,GEN,,51463,JNP,Sangram Singh,28915,INC,Surendra Singh,15261,13654,26.53
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,377,Khair,GEN,,57077,JNP,Piarey Lal,30707,INC,Shiv Raj Singh,16365,14342,25.13
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,378,Jewar,SC,,40418,JNP,Aidal Singh,24066,INC,Sukhram Singh,13775,10291,25.46
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,379,Khurja,GEN,,62223,JNP,Banarsi Dass,37138,INC,Ishwari Singh,19211,17927,28.81
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,380,Debai,GEN,,65257,JNP,Himmat Singh,34685,INC,Om Prakash Giri,25590,9095,13.94
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,381,Anupshahr,GEN,,65827,JNP,Beni Prasad,33645,INC,Acharya Vachaspati,22443,11202,17.02
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,382,Siana,GEN,,58787,JNP,Areef Mohammad Khan,25661,INC,Mumtaz Mohammad Khan,20840,4821,8.2
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,383,Agota,GEN,,56736,JNP,Gajendra Singh,32355,INC,Jagbir Singh Sirohi,17188,15167,26.73
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,384,Bulandshahr,GEN,,56926,JNP,Vijai Raj Singh,28136,INC,Iqbal Ahmad,16956,11180,19.64
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,385,Shikarpur,SC,,53374,JNP,Trilok Chadra,33646,INC,Dharam Singh,16553,17093,32.02
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,386,Sikandrabad,GEN,,57709,JNP,Pratap Singh,33613,INC,Rajendra Singh Solanki,18080,15533,26.92
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,387,Dadri,GEN,,55908,JNP,Tej Singh,35907,INC,Rati Ram,13255,22652,40.52
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,388,Ghaziabad,GEN,,61478,JNP,Rajendra,28647,INC,Pyare Lal,28313,334,0.54
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,389,Muradnagar,GEN,,67588,JNP,Anwar,35222,INC,Rajpal Singh,31896,3326,4.92
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,390,Modi Nagar,GEN,,68116,JNP,Sohan Bir,34909,INC,Duli Chand Arya,28381,6528,9.58
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,391,Hapur,SC,,63019,JNP,Banarsi Das,34625,INC,Bhoop Singh Kain,27410,7215,11.45
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,392,Garh Mukteshwar,GEN,,74428,JNP,Sakhawat Hussain,40340,INC,Kishori Lal,24031,16309,21.91
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,393,Kithore,GEN,,66359,JNP,Ram Dayal,34382,INC,Ashraf Ali,25155,9227,13.9
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,394,Hastinapur,SC,,68864,JNP,Reoti Sharan Maurya,31170,INC,Jhaggar Singh,30748,422,0.61
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,395,Sardhana,GEN,,72082,JNP,Balvir Singh,29680,INC,Nazir Ahmand,26269,3411,4.73
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,396,Meerut Cantonment,GEN,,61192,INC,Ajit Singh,29659,JNP,Ratan Lal Garg,28328,1331,2.18
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,397,Meerut,GEN,,78498,INC,Manzoor Ahmed,42004,JNP,Mohan Lal Kapoor,34903,7101,9.05
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,398,Kharkhauda,GEN,,70215,JNP,Abdul Halim Khan,32748,INC,Jai Pal,28223,4525,6.44
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,399,Siwal Khas,SC,,57729,JNP,Hari Singh,28116,INC,Harbans Singh,28002,114,0.2
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,400,Khekra,GEN,,56921,JNP,Chhajju Singh,29035,INC,Chandre,20766,8269,14.53
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,401,Baghpat,GEN,,74350,JNP,Ismail,39186,INC,Rajender Prasad,27095,12091,16.26
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,402,Barnawa,GEN,,67333,JNP,Dharam Vir Singh,41348,INC,Tej Pal Singh,17706,23642,35.11
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,403,Chaprauli,GEN,,82413,JNP,Narendra Singh,68858,INC,Riazuddin,12431,56427,68.47
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,404,Kandhla,GEN,,62209,JNP,Ajab Singh,36265,INC,Mohd. Said,25944,10321,16.59
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,405,Khatauli,GEN,,63204,JNP,Laxman Singh,32940,INC,Anand Prakash Tyagi,24400,8540,13.51
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,406,Jansath,SC,,53863,JNP,Qabool Singh,28936,INC,Atar Singh,19095,9841,18.27
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,407,Morna,GEN,,64965,JNP,Narayan Singh,28074,INC,Nazar Mohammad,24659,3415,5.26
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,408,Muzaffar Nagar,GEN,,65140,JNP,Malti Sharma,39590,INC,Ratan Lal,21682,17908,27.49
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,409,Charthawal,SC,,56596,JNP,Nand Ram,31135,INC,Phool Singh,25461,5674,10.03
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,410,Baghra,GEN,,62526,IND,Babu Singh,26262,INC,Virendra Verma,22044,4218,6.75
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,411,Kairana,GEN,,68851,JNP,Bashir Ahmad,35330,INC,Hukam Singh,29275,6055,8.79
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,412,Thana Bhawan,GEN,,50583,JNP,Mool Chand,21727,INC,Malkhan Singh,19197,2530,5.0
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,413,Nakur,GEN,,72411,INC,Yash Pal Singh,36673,JNP,Ram Saran,34167,2506,3.46
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,414,Sarsawa,GEN,,58272,JNP,Ajab Singh,26251,INC,Abdul Malik,21980,4271,7.33
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,415,Nagal,SC,,62270,JNP,Ram Singh,34316,INC,Hari Ram,27954,6362,10.22
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,416,Deoband,GEN,,72448,JNP,Mohd. Usman,37300,INC,Mahabir Singh,34653,2647,3.65
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,417,Harora,SC,,55261,JNP,Bimla Rakesh,25336,INC,Shakuntala Devi,23647,1689,3.06
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,418,Saharanpur,GEN,,69172,JNP,Sumer Chand,38506,INC,Prem Nath,28373,10133,14.65
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,419,Muzaffarabad,GEN,,62960,JNP,Haji Shamshad Ahmad,26181,INC,Mohd. Aslam,16528,9653,15.33
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,420,Roorkee,GEN,,58061,JNP,Rao Mushtaq,25798,INC,Pirthi Singh,22910,2888,4.97
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,421,Laksar,GEN,,66530,JNP,Kazi Mohd. Mohiuddin,36634,INC,Rehat Singh,26702,9932,14.93
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,422,Hardwar,GEN,,56381,JNP,Raj Kumar Sharma,29827,CPI,Rajendra Kumar Garg,13506,16321,28.95
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,423,Mussoorie,GEN,,50756,JNP,Ranjeet Singh,25399,INC,Kishori Lal Seklani,25357,42,0.08
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,424,Dehradun,GEN,,54931,JNP,Devendra Dutt Shastri,27155,INC,Bhola Dutta Saklani,25877,1278,2.33
+ae-uttar-pradesh-1977,AE,Uttar Pradesh,1977,1977,official,425,Chakrata,ST,,45894,JNP,Survir Singh,24349,INC,Gulab Singh,21545,2804,6.11

@@ -1,0 +1,82 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-haryana-1967,AE,Haryana,1967,1967,official,1,Kalka,GEN,,39477,IND,L. Singh,12787,INC,K. Lal,12086,701,1.78
+ae-haryana-1967,AE,Haryana,1967,1967,official,2,Naraingarh,GEN,,36803,INC,L. Singh,16691,BJS,R. N. Sarup,8528,8163,22.18
+ae-haryana-1967,AE,Haryana,1967,1967,official,3,Chhachroli,SC,,36543,INC,R. Parkash,15525,IND,P. Chand,14605,920,2.52
+ae-haryana-1967,AE,Haryana,1967,1967,official,4,Jagadhri,GEN,,35664,BJS,D. Prakash,14665,INC,G. Singh,12856,1809,5.07
+ae-haryana-1967,AE,Haryana,1967,1967,official,5,Yamunanagar,GEN,,42039,INC,B. Dayal,22043,BJS,R. Lal,15419,6624,15.76
+ae-haryana-1967,AE,Haryana,1967,1967,official,6,Mullana,SC,,31777,RPI,R. Prasad,16694,INC,S. Ram,12321,4373,13.76
+ae-haryana-1967,AE,Haryana,1967,1967,official,7,Naggal,GEN,,32204,INC,Lakhwati,17494,IND,M. Singh,12430,5064,15.72
+ae-haryana-1967,AE,Haryana,1967,1967,official,8,Ambala Cantonment,GEN,,27233,INC,D. R. Anand,11343,BJS,P. Nath,10845,498,1.83
+ae-haryana-1967,AE,Haryana,1967,1967,official,9,Ambala,GEN,,31461,BJS,F. Chand,15887,INC,A. G. Khan,8973,6914,21.98
+ae-haryana-1967,AE,Haryana,1967,1967,official,10,Shahabad,GEN,,31864,INC,J. Chander,11074,BJS,K. Chand,10778,296,0.93
+ae-haryana-1967,AE,Haryana,1967,1967,official,11,Thanesar,GEN,,35551,INC,D. Prakash,18659,BJS,B. Singh,14822,3837,10.79
+ae-haryana-1967,AE,Haryana,1967,1967,official,12,Babain,SC,,36015,INC,C. Ram,21884,BJS,R. Dia,11724,10160,28.21
+ae-haryana-1967,AE,Haryana,1967,1967,official,13,Nilokheri,GEN,,31369,BJS,S. Ram,10605,IND,C. Singh,9294,1311,4.18
+ae-haryana-1967,AE,Haryana,1967,1967,official,14,Indri,GEN,,36351,INC,P. Devi,17056,BJS,T. Ram,5885,11171,30.73
+ae-haryana-1967,AE,Haryana,1967,1967,official,15,Karnal,GEN,,37293,BJS,R. Lal,11702,INC,L. Ram,9215,2487,6.67
+ae-haryana-1967,AE,Haryana,1967,1967,official,16,Jundla,SC,,31255,INC,R. Kishan,10843,RPI,B. Ram,10696,147,0.47
+ae-haryana-1967,AE,Haryana,1967,1967,official,17,Gharaunda,GEN,,40574,INC,M. Chand,13906,BJS,R. Singh,12736,1170,2.88
+ae-haryana-1967,AE,Haryana,1967,1967,official,18,Sambhalka,GEN,,39746,BJS,Randhir,12215,INC,K. Singh,12101,114,0.29
+ae-haryana-1967,AE,Haryana,1967,1967,official,19,Panipat,GEN,,41159,BJS,F. Chand,20459,INC,H. Rai,18134,2325,5.65
+ae-haryana-1967,AE,Haryana,1967,1967,official,20,Naultha,GEN,,35619,INC,M. Singh,12943,IND,D. Singh,9504,3439,9.65
+ae-haryana-1967,AE,Haryana,1967,1967,official,21,Rajaund,SC,,40643,INC,R. Singh,16992,SWA,B. Singh,10932,6060,14.91
+ae-haryana-1967,AE,Haryana,1967,1967,official,22,Pundri,GEN,,41074,INC,R. P. Singh,20143,IND,I. Singh,13670,6473,15.76
+ae-haryana-1967,AE,Haryana,1967,1967,official,23,Sherhada,GEN,,40449,IND,P. A. J. Singh,12080,INC,S. Singh,11641,439,1.09
+ae-haryana-1967,AE,Haryana,1967,1967,official,24,Kaithal,GEN,,42538,INC,O. Prabha,21933,SWA,A. Chand,20015,1918,4.51
+ae-haryana-1967,AE,Haryana,1967,1967,official,25,Pehowa,GEN,,37744,SWA,C. Lal,13010,INC,M. Singh,11117,1893,5.02
+ae-haryana-1967,AE,Haryana,1967,1967,official,26,Kalyat,SC,,37762,SWA,Maru,15910,INC,B. Ram,15552,358,0.95
+ae-haryana-1967,AE,Haryana,1967,1967,official,27,Narwana,GEN,,42538,RPI,S. Singh,21130,INC,K. Ram,19611,1519,3.57
+ae-haryana-1967,AE,Haryana,1967,1967,official,28,Jind,GEN,,44021,INC,D. Kishan,26089,IND,I. Singh,15548,10541,23.95
+ae-haryana-1967,AE,Haryana,1967,1967,official,29,Julana,GEN,,38291,INC,D. Singh,21534,BJS,G. Ram,12211,9323,24.35
+ae-haryana-1967,AE,Haryana,1967,1967,official,30,Safidon,GEN,,36350,INC,S. Krishan,17692,IND,S. Narain,11721,5971,16.43
+ae-haryana-1967,AE,Haryana,1967,1967,official,31,Meham,GEN,,38580,IND,M. Singh,18875,INC,B. Prasad,13361,5514,14.29
+ae-haryana-1967,AE,Haryana,1967,1967,official,32,Baroda,SC,,36322,INC,R. Dhari,13164,BJS,D. Singh,11637,1527,4.2
+ae-haryana-1967,AE,Haryana,1967,1967,official,33,Gohana,GEN,,38785,INC,R. Dhari,19898,IND,H. Kishan,11901,7997,20.62
+ae-haryana-1967,AE,Haryana,1967,1967,official,34,Kailana,GEN,,38798,INC,R. Singh,18847,IND,C. Lal,17436,1411,3.64
+ae-haryana-1967,AE,Haryana,1967,1967,official,35,Sonepat,GEN,,39213,INC,M. Lal,17930,BJS,M. Singh,17035,895,2.28
+ae-haryana-1967,AE,Haryana,1967,1967,official,36,Rai,GEN,,37568,INC,R. Ram,20115,IND,Banwari,16206,3909,10.41
+ae-haryana-1967,AE,Haryana,1967,1967,official,37,Rohat,SC,,31069,IND,B. Singh,13001,INC,S. Ram,11220,1781,5.73
+ae-haryana-1967,AE,Haryana,1967,1967,official,38,Hassangarh,GEN,,35563,INC,S. Chand,11167,IND,H. Singh,9058,2109,5.93
+ae-haryana-1967,AE,Haryana,1967,1967,official,39,Kiloi,GEN,,39195,IND,S. Nath,21079,INC,R. Singh,12406,8673,22.13
+ae-haryana-1967,AE,Haryana,1967,1967,official,40,Rohtak,GEN,,42735,BJS,M. Sein,23672,INC,T. Chand,18558,5114,11.97
+ae-haryana-1967,AE,Haryana,1967,1967,official,41,Kalanaur,GEN,,35356,BJS,N. Singh,18103,INC,S. Singh,9972,8131,23.0
+ae-haryana-1967,AE,Haryana,1967,1967,official,42,Beri,GEN,,43004,INC,P. S. Daulata,22577,IND,N. Kumar,8624,13953,32.45
+ae-haryana-1967,AE,Haryana,1967,1967,official,43,Salhawas,SC,,37821,INC,P. Chand,14219,IND,A. Singh,13278,941,2.49
+ae-haryana-1967,AE,Haryana,1967,1967,official,44,Jhajjar,GEN,,47454,IND,M. Singh,15024,INC,C. Singh,10902,4122,8.69
+ae-haryana-1967,AE,Haryana,1967,1967,official,45,Bhadurgarh,GEN,,43491,INC,H. Lal,24737,IND,H. Singh,11726,13011,29.92
+ae-haryana-1967,AE,Haryana,1967,1967,official,46,Faridabad,GEN,,40828,INC,K. D. Kapil,13037,IND,K. Kumar,7206,5831,14.28
+ae-haryana-1967,AE,Haryana,1967,1967,official,47,Ballabhgarh,GEN,,41430,INC,T. Ram,15308,IND,S. Singh,12906,2402,5.8
+ae-haryana-1967,AE,Haryana,1967,1967,official,48,Palwal,GEN,,42465,IND,Dhan Singh,11374,BJS,M. Chand,11012,362,0.85
+ae-haryana-1967,AE,Haryana,1967,1967,official,49,Hasanpur,SC,,36941,IND,G. Lal,10458,INC,M. Singh,10098,360,0.97
+ae-haryana-1967,AE,Haryana,1967,1967,official,50,Ferozpur Jhirka,GEN,,36200,SWA,D. Mohammad,19040,INC,T. Huisain,17160,1880,5.19
+ae-haryana-1967,AE,Haryana,1967,1967,official,51,Nuh,GEN,,36657,IND,R. Khan,15212,INC,K. Ahmed,14171,1041,2.84
+ae-haryana-1967,AE,Haryana,1967,1967,official,52,Hathin,GEN,,35711,INC,D. Singh,17921,IND,R. Singh,9190,8731,24.45
+ae-haryana-1967,AE,Haryana,1967,1967,official,53,Sohna,GEN,,39055,IND,M. Singh,15733,INC,B. Dayal,13051,2682,6.87
+ae-haryana-1967,AE,Haryana,1967,1967,official,54,Gurgaon,GEN,,39362,BJS,P. S. Thapran,20792,INC,K. L. Paswal,16567,4225,10.73
+ae-haryana-1967,AE,Haryana,1967,1967,official,55,Pataudi,GEN,,44812,INC,B. Singh,22517,IND,S. Ram,21531,986,2.2
+ae-haryana-1967,AE,Haryana,1967,1967,official,56,Rewari,GEN,,32990,INC,S. Devi,18474,BJS,A. Singh,13108,5366,16.27
+ae-haryana-1967,AE,Haryana,1967,1967,official,57,Bawal,SC,,28295,IND,K. Lal,8227,INC,R. Parshad,7314,913,3.23
+ae-haryana-1967,AE,Haryana,1967,1967,official,58,Jatusana,GEN,,38040,IND,J. Singh,18443,INC,N. Singh,16742,1701,4.47
+ae-haryana-1967,AE,Haryana,1967,1967,official,59,Ateli,GEN,,36098,INC,N. Singh,17607,IND,R. Jiwan,16640,967,2.68
+ae-haryana-1967,AE,Haryana,1967,1967,official,60,Narnaul,GEN,,31853,BJS,B. Lal,10330,INC,R. S. C. Mittal,9776,554,1.74
+ae-haryana-1967,AE,Haryana,1967,1967,official,61,Mahendragarh,GEN,,32907,IND,H. Singh,9558,INC,R. Singh,8472,1086,3.3
+ae-haryana-1967,AE,Haryana,1967,1967,official,62,Kanina,GEN,,30966,IND,D. Singh,17381,INC,B. Dhar,12236,5145,16.61
+ae-haryana-1967,AE,Haryana,1967,1967,official,63,Badhra,GEN,,40411,IND,A. Singh,15003,INC,Chandrawati,9635,5368,13.28
+ae-haryana-1967,AE,Haryana,1967,1967,official,64,Dadri,SC,,35614,INC,G. Rai,13782,SSP,H. Singh,12400,1382,3.88
+ae-haryana-1967,AE,Haryana,1967,1967,official,65,Loharu,GEN,,35463,INC,H. Nand,16240,SSP,T. Ram,13111,3129,8.82
+ae-haryana-1967,AE,Haryana,1967,1967,official,66,Tosham,GEN,,33875,INC,B. Lal,11511,SSP,M. R. D. Ram,6142,5369,15.85
+ae-haryana-1967,AE,Haryana,1967,1967,official,67,Bhiwani,GEN,,35364,BJS,B. Dev,17591,INC,S. Ram,13423,4168,11.79
+ae-haryana-1967,AE,Haryana,1967,1967,official,68,Mundhal Khurd,GEN,,34885,IND,J. Singh,11163,INC,S. Singh,9985,1178,3.38
+ae-haryana-1967,AE,Haryana,1967,1967,official,69,Narnaund,GEN,,38302,INC,R. Datt,13417,IND,J. Singh,10391,3026,7.9
+ae-haryana-1967,AE,Haryana,1967,1967,official,70,Hansi,GEN,,38018,INC,H. Singh,16435,IND,K. Singh,6771,9664,25.42
+ae-haryana-1967,AE,Haryana,1967,1967,official,71,Bawanikhera,SC,,31979,INC,J. Nath,17179,IND,F. Singh,6866,10313,32.25
+ae-haryana-1967,AE,Haryana,1967,1967,official,72,Adampur,GEN,,39059,INC,H. Singh,16955,IND,R. Singh,16704,251,0.64
+ae-haryana-1967,AE,Haryana,1967,1967,official,73,Hissar,GEN,,35767,INC,S. Lata,11285,IND,B. Rai,11061,224,0.63
+ae-haryana-1967,AE,Haryana,1967,1967,official,74,Barwala,SC,,37093,INC,P. Singh,19936,SSP,A. Singh,13423,6513,17.56
+ae-haryana-1967,AE,Haryana,1967,1967,official,75,Tohana,GEN,,36985,INC,H. Singh,19196,SSP,S. Singh,13534,5662,15.31
+ae-haryana-1967,AE,Haryana,1967,1967,official,76,Fatehabad,GEN,,43830,INC,G. Rai,22830,IND,M. Ram,9660,13170,30.05
+ae-haryana-1967,AE,Haryana,1967,1967,official,77,Badopal,GEN,,40984,INC,M. Ram,27034,IND,C. Lal,9289,17745,43.3
+ae-haryana-1967,AE,Haryana,1967,1967,official,78,Sirsa,GEN,,36694,BJS,L. Dass,18805,INC,S. Ram,13738,5067,13.81
+ae-haryana-1967,AE,Haryana,1967,1967,official,79,Rori,GEN,,42361,INC,P. S. Dass,18432,IND,D. Singh,15260,3172,7.49
+ae-haryana-1967,AE,Haryana,1967,1967,official,80,Dabwali,SC,,32800,INC,K. Ram,15221,IND,P. Chander,14351,870,2.65
+ae-haryana-1967,AE,Haryana,1967,1967,official,81,Ellenabad,GEN,,39486,INC,P. Singh,20208,IND,L. Chand,17561,2647,6.7

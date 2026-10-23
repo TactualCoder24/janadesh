@@ -1,0 +1,521 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ls-1967,LS,India,1967,1967,official,1,Andaman & Nicobar Islands,GEN,Andaman & Nicobar Islands,36732,INC,K. R. Ganesh,19310,IND,P. K. S. Prasad,9270,10040,27.33
+ls-1967,LS,India,1967,1967,official,2,Adilabad,GEN,Andhra Pradesh,269666,INC,P.G. Reddy,160494,CPI,D.S. Rao,86244,74250,27.53
+ls-1967,LS,India,1967,1967,official,3,Amalapuram,GEN,Andhra Pradesh,343508,INC,S. Bayya,141722,CPI,D. Eda,78456,63266,18.42
+ls-1967,LS,India,1967,1967,official,4,Anakapalli,GEN,Andhra Pradesh,364889,INC,M. Suryanarayanamurthy,165121,SWA,V.V. Ramana,162097,3024,0.83
+ls-1967,LS,India,1967,1967,official,5,Anantapur,GEN,Andhra Pradesh,334266,INC,P. A. Reddy,135685,CPI,I. Sadasivan,73071,62614,18.73
+ls-1967,LS,India,1967,1967,official,6,Bhadrachalam,GEN,Andhra Pradesh,234098,INC,B.K. Radhabai,121630,CPI(M),K.P. Santharaju,54395,67235,28.72
+ls-1967,LS,India,1967,1967,official,7,Bobbili,GEN,Andhra Pradesh,330872,INC,K.N. Rao,146553,IND,S. Subbinaidu,71356,75197,22.73
+ls-1967,LS,India,1967,1967,official,8,Chittoor,GEN,Andhra Pradesh,345525,INC,N.P.C. Naidu,186594,SWA,N.G. Ranga,158931,27663,8.01
+ls-1967,LS,India,1967,1967,official,9,Cuddapah,GEN,Andhra Pradesh,389302,CPI,Y.E. Reddy,191736,INC,K. Ramasubbamma,154017,37719,9.69
+ls-1967,LS,India,1967,1967,official,10,Eluru,GEN,Andhra Pradesh,390577,INC,K. Suryanarayan,163360,CPI,V. Vimaludevi,161407,1953,0.5
+ls-1967,LS,India,1967,1967,official,11,Gudivada,GEN,Andhra Pradesh,393197,INC,M. Ankineedu,139238,CPI(M),Y. Nagabhushanam,99040,40198,10.22
+ls-1967,LS,India,1967,1967,official,12,Guntur,GEN,Andhra Pradesh,400113,INC,K. Raghuramaiah,237225,IND,N.V. Laxminarasimharao,120193,117032,29.25
+ls-1967,LS,India,1967,1967,official,13,Hindupur,GEN,Andhra Pradesh,306444,INC,S. R. Neelam,144438,SWA,K. V. S. Reedy,102202,42236,13.78
+ls-1967,LS,India,1967,1967,official,14,Hyderabad,GEN,Andhra Pradesh,255801,INC,G. S. Melkote,115709,IND,V. R. Rao,70124,45585,17.82
+ls-1967,LS,India,1967,1967,official,15,Kakinada,GEN,Andhra Pradesh,380303,INC,T.R. Mosaliganti,168647,CPI,P.S. Sarma,138647,30000,7.89
+ls-1967,LS,India,1967,1967,official,16,Karimnagar,GEN,Andhra Pradesh,273552,INC,J. R. Rao,87933,IND,V. Iswaraiah,85757,2176,0.8
+ls-1967,LS,India,1967,1967,official,17,Kavali,GEN,Andhra Pradesh,386472,INC,R.D. Reddy,208098,SWA,D.K. Choudary,159944,48154,12.46
+ls-1967,LS,India,1967,1967,official,18,Khammam,GEN,Andhra Pradesh,377538,INC,T. Lakshmikantamma,200534,CPI(M),M. K. Rao,89206,111328,29.49
+ls-1967,LS,India,1967,1967,official,19,Kurnool,GEN,Andhra Pradesh,327922,SWA,Y. G. Linganagowda,160080,INC,D. Sanjeevayya,149297,10783,3.29
+ls-1967,LS,India,1967,1967,official,20,Machilipatnam,GEN,Andhra Pradesh,383978,INC,Y.A. Arasad,199885,CPI(M),M.H. Rao,122293,77592,20.21
+ls-1967,LS,India,1967,1967,official,21,Mahabubnagar,GEN,Andhra Pradesh,300928,INC,J. R. Rao,177320,IND,M. Kistayya,87503,89817,29.85
+ls-1967,LS,India,1967,1967,official,22,Medak,GEN,Andhra Pradesh,283505,INC,S. L. Bai,127917,IND,K. Ramiah,43252,84665,29.86
+ls-1967,LS,India,1967,1967,official,23,Miryalguda,GEN,Andhra Pradesh,311098,INC,"G. S, Reddy",164336,CPI,D. V. Rao,122292,42044,13.51
+ls-1967,LS,India,1967,1967,official,24,Nagarkurnool,GEN,Andhra Pradesh,273395,INC,J. B. M. Rao,129636,IND,Y. Danayya,89977,39659,14.51
+ls-1967,LS,India,1967,1967,official,25,Nalgonda,GEN,Andhra Pradesh,272093,INC,M. Y. Salim,169953,CPI,B. D. Hiksham,77675,92278,33.91
+ls-1967,LS,India,1967,1967,official,26,Nandyal,GEN,Andhra Pradesh,396034,INC,P. V.Subbaiah,262256,CPI,S. Reddy,93431,168825,42.63
+ls-1967,LS,India,1967,1967,official,27,Narasapur,GEN,Andhra Pradesh,415896,INC,D. Balaramarajau,185274,CPI(M),U. Raman,148721,36553,8.79
+ls-1967,LS,India,1967,1967,official,28,Narasaraopet,GEN,Andhra Pradesh,399094,INC,M. Sudarsanam,185963,SWA,T.K. Chowdary,121532,64431,16.14
+ls-1967,LS,India,1967,1967,official,29,Nellore,GEN,Andhra Pradesh,397413,INC,B. Anjanappa,130981,IND,E.V. Chinnaiah,113998,16983,4.27
+ls-1967,LS,India,1967,1967,official,30,Nizamabad,GEN,Andhra Pradesh,280051,IND,M.N. Reddy,149632,INC,H.C. Heda,79387,70245,25.08
+ls-1967,LS,India,1967,1967,official,31,Ongole,GEN,Andhra Pradesh,393257,INC,K. Jaggaiah,212071,CPI(M),M. Narayanaswamy,131613,80458,20.46
+ls-1967,LS,India,1967,1967,official,32,Parvathipuram,GEN,Andhra Pradesh,286438,SWA,V.N. Rao,161009,INC,B. Satyanarayana,125429,35580,12.42
+ls-1967,LS,India,1967,1967,official,33,Peddapalli,GEN,Andhra Pradesh,301122,INC,M.R. Krishna,155550,IND,Palanivelu,83355,72195,23.98
+ls-1967,LS,India,1967,1967,official,34,Rajahmundry,GEN,Andhra Pradesh,396308,INC,D.S. Raju,227154,IND,N.R. Motha,92241,134913,34.04
+ls-1967,LS,India,1967,1967,official,35,Rajampet,GEN,Andhra Pradesh,360841,INC,P. Parthasarathy,189874,SWA,C.L.N. Reddy,123325,66549,18.44
+ls-1967,LS,India,1967,1967,official,36,Secunderabad,GEN,Andhra Pradesh,234774,INC,B. A. Mirza,119346,IND,A. Lakshminarayana,36814,82532,35.15
+ls-1967,LS,India,1967,1967,official,37,Siddipet,GEN,Andhra Pradesh,309833,INC,G. Venkatswamy,161273,CPI,A. R. Devraj,63443,97830,31.58
+ls-1967,LS,India,1967,1967,official,38,Srikakulam,GEN,Andhra Pradesh,336648,SWA,G. Latchanna,189771,INC,B. Rajagopalrao,129413,60358,17.93
+ls-1967,LS,India,1967,1967,official,39,Tirupati,GEN,Andhra Pradesh,379285,INC,C. Dass,146238,SWA,C.V.S. Moorthy,139469,6769,1.78
+ls-1967,LS,India,1967,1967,official,40,Vijayawada,GEN,Andhra Pradesh,0,INC,K.L. Rao,0,,,,0,
+ls-1967,LS,India,1967,1967,official,41,Visakhapatnam,GEN,Andhra Pradesh,325335,IND,T. Viswanatham,136766,INC,P. Venkatrao,102693,34073,10.47
+ls-1967,LS,India,1967,1967,official,42,Warangal,GEN,Andhra Pradesh,343863,INC,R. S. Reddy,146715,BJS,L. S. Raju,76770,69945,20.34
+ls-1967,LS,India,1967,1967,official,43,Autonomous District,GEN,Assam,183311,AHL,G. G. Swell,112492,INC,B. G. Momin,70819,41673,22.73
+ls-1967,LS,India,1967,1967,official,44,Barpeta,GEN,Assam,288160,INC,F. A. Ahmed,173240,BJS,P. L. Choudhury,114920,58320,20.24
+ls-1967,LS,India,1967,1967,official,45,Cachar,GEN,Assam,196152,INC,J. Chanda,89713,IND,A. F. G. Osmani,43203,46510,23.71
+ls-1967,LS,India,1967,1967,official,46,Dhubri,GEN,Assam,269431,PSP,J. Ahmed,144141,INC,A. Ali,77833,66308,24.61
+ls-1967,LS,India,1967,1967,official,47,Dibrugarh,GEN,Assam,203497,INC,J. N. Hazarika,77657,SSP,A. K. Sarma,54760,22897,11.25
+ls-1967,LS,India,1967,1967,official,48,Gauhati,GEN,Assam,261339,CPI,D. Kalita,90208,INC,R. D. Barkataki,88658,1550,0.59
+ls-1967,LS,India,1967,1967,official,49,Jorhat,GEN,Assam,200103,INC,R. Barua,92519,PSP,M. C. Barua,47741,44778,22.38
+ls-1967,LS,India,1967,1967,official,50,Kaliabor,GEN,Assam,216215,INC,B. Barua,106672,SSP,K. Bezbaruah,58783,47889,22.15
+ls-1967,LS,India,1967,1967,official,51,Karimganj,GEN,Assam,291322,INC,N. R. Laskar,171048,IND,M. Choudhury,94125,76923,26.4
+ls-1967,LS,India,1967,1967,official,52,Kokrajhar,GEN,Assam,0,INC,R. Brahma,0,,,,0,
+ls-1967,LS,India,1967,1967,official,53,Lakhimpur,GEN,Assam,202022,INC,B. Sastri,102739,CPI,S. Goswami,49053,53686,26.57
+ls-1967,LS,India,1967,1967,official,54,Mangaldoi,GEN,Assam,212048,PSP,N. Barua,107718,INC,D. D. Das,70718,37000,17.45
+ls-1967,LS,India,1967,1967,official,55,Nowgong,GEN,Assam,236948,INC,L. Keteki,103752,CPI,K. Bora,57086,46666,19.69
+ls-1967,LS,India,1967,1967,official,56,Tezpur,GEN,Assam,227219,INC,B. C. Bhagavati,144347,PSP,G. Mahanta,82872,61475,27.06
+ls-1967,LS,India,1967,1967,official,57,Araria,GEN,Bihar,234073,INC,T. M. Ram,119954,BJS,J. Ram,49305,70649,30.18
+ls-1967,LS,India,1967,1967,official,58,Aurangabad,GEN,Bihar,241829,INC,M. Singh,96335,SSP,M. Singh,38656,57679,23.85
+ls-1967,LS,India,1967,1967,official,59,Bagaha,GEN,Bihar,189532,INC,B. Raut,93073,SSP,Vidyakishore,42363,50710,26.76
+ls-1967,LS,India,1967,1967,official,60,Banka,GEN,Bihar,250122,BJS,B. S. Sharma,81297,INC,S. Devi,63730,17567,7.02
+ls-1967,LS,India,1967,1967,official,61,Barh,GEN,Bihar,314436,INC,T. Sinha,107020,PSP,R. L. Chandapuri,79566,27454,8.73
+ls-1967,LS,India,1967,1967,official,62,Begusarai,GEN,Bihar,340152,CPI,Y. Sharma,180883,INC,M. P. Mishra,92181,88702,26.08
+ls-1967,LS,India,1967,1967,official,63,Bettiah,GEN,Bihar,229265,INC,K. N. Tiwari,78294,SSP,J. K. Shukla,32811,45483,19.84
+ls-1967,LS,India,1967,1967,official,64,Bhagalpur,GEN,Bihar,287929,INC,B. J. Azad,110377,CPI,R. Tewary,75563,34814,12.09
+ls-1967,LS,India,1967,1967,official,65,Bikramganj,GEN,Bihar,327993,SSP,S. Shastry,150426,INC,H. Misra,95510,54916,16.74
+ls-1967,LS,India,1967,1967,official,66,Buxar,GEN,Bihar,282823,INC,R. S. Singh,94032,SSP,R. Singh,59809,34223,12.1
+ls-1967,LS,India,1967,1967,official,67,Chapra,GEN,Bihar,278618,INC,R. P. Singh,83267,SSP,H. P. Yadav,55058,28209,10.12
+ls-1967,LS,India,1967,1967,official,68,Chatra,GEN,Bihar,191850,IND,V. Raje,66329,INC,S. P. Bhadani,44350,21979,11.46
+ls-1967,LS,India,1967,1967,official,69,Darbhanga,GEN,Bihar,331895,INC,S. N. Sinha,143335,SSP,D. Podar,90262,53073,15.99
+ls-1967,LS,India,1967,1967,official,70,Dhanbad,GEN,Bihar,186070,JKD,L. R. Lakshmi,68034,INC,A. P. Sharma,47767,20267,10.89
+ls-1967,LS,India,1967,1967,official,71,Dumka,GEN,Bihar,154814,INC,S. C. Besra,60108,CPI,B. Marandi,48068,12040,7.78
+ls-1967,LS,India,1967,1967,official,72,Gaya,GEN,Bihar,204474,INC,R. Das,70950,SSP,S. Prasad,36962,33988,16.62
+ls-1967,LS,India,1967,1967,official,73,Giridih,GEN,Bihar,200083,INC,A. I. Ahmad,70219,IND,M. S. Oberay,66388,3831,1.91
+ls-1967,LS,India,1967,1967,official,74,Godda,GEN,Bihar,213427,INC,P. H. Singhka,81560,BJS,S. Tulsiyan,59698,21862,10.24
+ls-1967,LS,India,1967,1967,official,75,Gopalganj,GEN,Bihar,240388,INC,D. N. Tiwary,71957,SSP,C. Singh,68941,3016,1.25
+ls-1967,LS,India,1967,1967,official,76,Hajipur,GEN,Bihar,332668,INC,V. Chaudhary,100645,SSP,S. Rai,72115,28530,8.58
+ls-1967,LS,India,1967,1967,official,77,Hazaribagh,GEN,Bihar,188537,IND,B. N. Singh,83618,INC,D. Pandey,63860,19758,10.48
+ls-1967,LS,India,1967,1967,official,78,Jahanabad,GEN,Bihar,275130,CPI,C. S. Singh,112287,INC,S. Devi,60875,51412,18.69
+ls-1967,LS,India,1967,1967,official,79,Jainagar,GEN,Bihar,301124,CPI,B. Jha,154080,INC,S. Das,98307,55773,18.52
+ls-1967,LS,India,1967,1967,official,80,Jamshedpur,GEN,Bihar,202331,INC,S. C. Prasad,75219,CPI,U. Mishra,34517,40702,20.12
+ls-1967,LS,India,1967,1967,official,81,Jamui,GEN,Bihar,315070,INC,N. T. Das,127018,CPI,B. Manjhi,112166,14852,4.71
+ls-1967,LS,India,1967,1967,official,82,Katihar,GEN,Bihar,260820,INC,S. Keshari,58776,PSP,P. Gupta,57803,973,0.37
+ls-1967,LS,India,1967,1967,official,83,Kesaria,GEN,Bihar,237929,CPI,K. M. Madhukar,120795,INC,B. P. Yadav,117134,3661,1.54
+ls-1967,LS,India,1967,1967,official,84,Khagaria,GEN,Bihar,341632,SSP,K. Singh,205253,INC,J. L. Mandal,109008,96245,28.17
+ls-1967,LS,India,1967,1967,official,85,Khunti,GEN,Bihar,179856,INC,J. Singh,46737,IND,P. Kachchap,41460,5277,2.93
+ls-1967,LS,India,1967,1967,official,86,Kishanganj,GEN,Bihar,197407,PSP,L. L. Kapoor,84834,INC,M. Tahir,50551,34283,17.37
+ls-1967,LS,India,1967,1967,official,87,Lohardaga,GEN,Bihar,156439,INC,K. Doraon,62260,BJS,S. Baraik,28774,33486,21.41
+ls-1967,LS,India,1967,1967,official,88,Madhepura,GEN,Bihar,282104,SSP,B. P. Mandal,145911,INC,K. K. Mandal,108485,37426,13.27
+ls-1967,LS,India,1967,1967,official,89,Madhubani,GEN,Bihar,308109,SSP,S. C. Jha,83690,INC,Y. Jha,67283,16407,5.33
+ls-1967,LS,India,1967,1967,official,90,Maharajganj,GEN,Bihar,271134,INC,M. P. Singh,96212,CPI,I. Sinha,78968,17244,6.36
+ls-1967,LS,India,1967,1967,official,91,Monghyr,GEN,Bihar,306778,SSP,L. M. Ramchandra,168111,INC,C. S. Singh,71427,96684,31.52
+ls-1967,LS,India,1967,1967,official,92,Motihari,GEN,Bihar,222581,INC,B. Misra,86765,PSP,A. Kuer,51581,35184,15.81
+ls-1967,LS,India,1967,1967,official,93,Muzaffarpur,GEN,Bihar,317818,INC,D. N. Singh,145929,SSP,R. Sahni,108700,37229,11.71
+ls-1967,LS,India,1967,1967,official,94,Nalanda,GEN,Bihar,316464,INC,S. Prasad,148410,BJS,K. N. P. Singh,70317,78093,24.68
+ls-1967,LS,India,1967,1967,official,95,Nawada,GEN,Bihar,293718,IND,M. S. P. N. Puri,110766,INC,G. P. Sinha,90546,20220,6.88
+ls-1967,LS,India,1967,1967,official,96,Palamu,GEN,Bihar,215077,INC,K. Kumari,92686,SSP,J. Ram,50922,41764,19.42
+ls-1967,LS,India,1967,1967,official,97,Patna,GEN,Bihar,313578,CPI,R. A. Shastri,148963,INC,R. D. Sinha,66822,82141,26.19
+ls-1967,LS,India,1967,1967,official,98,Pupri,GEN,Bihar,331782,INC,S. P. Sahu,128966,SWA,K. P. Singh,49988,78978,23.8
+ls-1967,LS,India,1967,1967,official,99,Purnea,GEN,Bihar,234639,INC,P. G. S. Gupta,73842,SSP,B. Gupta,69222,4620,1.97
+ls-1967,LS,India,1967,1967,official,100,Rajmahal,GEN,Bihar,148837,INC,I. Marandi,41515,SWA,R. S. Besra,35110,6405,4.3
+ls-1967,LS,India,1967,1967,official,101,Ranchi,GEN,Bihar,170008,INC,P. K. Ghosh,33257,BJS,A. N. S. Sinha,29090,4167,2.45
+ls-1967,LS,India,1967,1967,official,102,Rosera,GEN,Bihar,279747,SSP,K. Paswan,124908,INC,R. Sahu,113520,11388,4.07
+ls-1967,LS,India,1967,1967,official,103,Saharsa,GEN,Bihar,311124,SSP,G. Thakur,124018,INC,L. Choudhury,119399,4619,1.48
+ls-1967,LS,India,1967,1967,official,104,Samastipur,GEN,Bihar,311276,INC,Y. P. Mandal,128148,SSP,C. L. Rai,96476,31672,10.17
+ls-1967,LS,India,1967,1967,official,105,Sasaram,GEN,Bihar,277107,INC,J. Ram,149355,PSP,S. Ram,38689,110666,39.94
+ls-1967,LS,India,1967,1967,official,106,Shahabad,GEN,Bihar,297839,INC,B. Bhagat,129407,SSP,S. N. Singh,122180,7227,2.43
+ls-1967,LS,India,1967,1967,official,107,Singhbhum,GEN,Bihar,133549,IND,K. Birua,31254,BJS,M.L. Soy,27627,3627,2.72
+ls-1967,LS,India,1967,1967,official,108,Sitamarhi,GEN,Bihar,364388,INC,N.P. Yadav,141337,SSP,T. Y. K. Singh,140820,517,0.14
+ls-1967,LS,India,1967,1967,official,109,Siwan,GEN,Bihar,249789,INC,M. Yusuf,98206,SSP,H. Singh,72429,25777,10.32
+ls-1967,LS,India,1967,1967,official,110,Chandigarh,GEN,Chandigarh,49155,BJS,C. Goyal,23939,INC,A. Nath,11323,12616,25.67
+ls-1967,LS,India,1967,1967,official,111,Dadra & Nagar Haveli,GEN,Dadra & Nagar Haveli,21248,INC,S. R. Delkar,10654,CPI(M),S. S. Dhanarya,4248,6406,30.15
+ls-1967,LS,India,1967,1967,official,112,Chandni Chowk,GEN,Delhi,133786,BJS,R. Gopal,58928,INC,S. Nath,41778,17150,12.82
+ls-1967,LS,India,1967,1967,official,113,Delhi Sadar,GEN,Delhi,155227,BJS,K. L. Gupta,73801,INC,A. N. Chawla,64096,9705,6.25
+ls-1967,LS,India,1967,1967,official,114,East Delhi,GEN,Delhi,170761,BJS,H. Devgun,83261,INC,B. Mohan,77645,5616,3.29
+ls-1967,LS,India,1967,1967,official,115,Karol Bagh,GEN,Delhi,154995,BJS,R. S. Vidhyarthi,62292,INC,N. Prabhakar,57798,4494,2.9
+ls-1967,LS,India,1967,1967,official,116,New Delhi,GEN,Delhi,148359,BJS,M.L Sondhi,82173,INC,M.C. Khanna,57313,24860,16.76
+ls-1967,LS,India,1967,1967,official,117,Outer Delhi,GEN,Delhi,164305,INC,B. Parkash,67017,BJS,M. Singh,57794,9223,5.61
+ls-1967,LS,India,1967,1967,official,118,South Delhi,GEN,Delhi,193728,BJS,B. Madhok,105611,INC,R. Singh,69290,36321,18.75
+ls-1967,LS,India,1967,1967,official,119,Marmagoa,GEN,"Goa, Daman & Diu",138032,UGS,S.E.D Jesus,54327,IND,S.S. Kavaleker,51775,2552,1.85
+ls-1967,LS,India,1967,1967,official,120,Panjim,GEN,"Goa, Daman & Diu",139754,IND,S. J. Jaganath,56764,UGS,K. B. Mangesh,45810,10954,7.84
+ls-1967,LS,India,1967,1967,official,121,Ahmedabad,GEN,Gujarat,300524,IND,I.Yagnik,179844,INC,S.R. Vasavada,95047,84797,28.22
+ls-1967,LS,India,1967,1967,official,122,Amreli,GEN,Gujarat,224785,INC,J.V. Shah,117812,PSP,N.C. Shah,68224,49588,22.06
+ls-1967,LS,India,1967,1967,official,123,Anand,GEN,Gujarat,342566,INC,N.R. Mahida,181894,SWA,H.M. Patel,160672,21222,6.2
+ls-1967,LS,India,1967,1967,official,124,Banaskantha,GEN,Gujarat,229914,SWA,M. Amersey,110028,INC,G.G. Mehta,105621,4407,1.92
+ls-1967,LS,India,1967,1967,official,125,Bhavnagar,GEN,Gujarat,230559,INC,J.N. Mehta,91993,SWA,S.K. Gohil,86900,5093,2.21
+ls-1967,LS,India,1967,1967,official,126,Broach,GEN,Gujarat,282885,INC,M.B. Rana,134148,SWA,U.N. Mahida,96291,37857,13.38
+ls-1967,LS,India,1967,1967,official,127,Bulsar,GEN,Gujarat,274776,INC,N.N. Patel,185241,SWA,G.B. Patel,89535,95706,34.83
+ls-1967,LS,India,1967,1967,official,128,Dabhoi,GEN,Gujarat,291317,INC,M.M. Patel,159453,SWA,P.K. Patel,131864,27589,9.47
+ls-1967,LS,India,1967,1967,official,129,Dhandhuka,GEN,Gujarat,266086,SWA,R.K. Amin,148372,INC,P.B. Patwari,117714,30658,11.52
+ls-1967,LS,India,1967,1967,official,130,Dohad,GEN,Gujarat,232398,INC,B.R. Parmar,113926,SWA,L.B. Patel,105842,8084,3.48
+ls-1967,LS,India,1967,1967,official,131,Gandhinagar,GEN,Gujarat,333158,INC,S.M. Solanki,156148,RPI,K.U. Parmar,126308,29840,8.96
+ls-1967,LS,India,1967,1967,official,132,Godhra,GEN,Gujarat,258182,SWA,P.H. Mody,122813,INC,M.M. Gandhi,98364,24449,9.47
+ls-1967,LS,India,1967,1967,official,133,Jamnagar,GEN,Gujarat,220176,SWA,N. Dandekar,111636,INC,M.M. Shah,98603,13033,5.92
+ls-1967,LS,India,1967,1967,official,134,Junagadh,GEN,Gujarat,220275,SWA,V.J. Shah,108303,INC,C.R. Raja,97417,10886,4.94
+ls-1967,LS,India,1967,1967,official,135,Kaira,GEN,Gujarat,312044,SWA,P.N. Solanki,163997,INC,D.D. Desai,136257,27740,8.89
+ls-1967,LS,India,1967,1967,official,136,Kutch,GEN,Gujarat,207031,INC,T.M. Sheth,106853,SWA,H. Vijayrajji,100178,6675,3.22
+ls-1967,LS,India,1967,1967,official,137,Mandvi,GEN,Gujarat,250792,INC,C.M. Kedaria,143412,SWA,A.D. Chaudhari,81675,61737,24.62
+ls-1967,LS,India,1967,1967,official,138,Mehsana,GEN,Gujarat,345464,SWA,R.J. Amin,191205,INC,S.P. Patel,154259,36946,10.69
+ls-1967,LS,India,1967,1967,official,139,Patan,GEN,Gujarat,304182,SWA,D.R. Parmar,140754,INC,S.R. Solanki,125753,15001,4.93
+ls-1967,LS,India,1967,1967,official,140,Rajkot,GEN,Gujarat,275609,SWA,M.R. Masani,128537,INC,V. Patel,122061,6476,2.35
+ls-1967,LS,India,1967,1967,official,141,Sabarkantha,GEN,Gujarat,264612,SWA,C.C. Desai,151011,INC,P.K. Japee,106212,44799,16.93
+ls-1967,LS,India,1967,1967,official,142,Surat,GEN,Gujarat,249079,INC,M.R. Desai,163836,IND,J.D. Chauhan,40928,122908,49.34
+ls-1967,LS,India,1967,1967,official,143,Surendranagar,GEN,Gujarat,273550,SWA,Meghrajji,169191,INC,V.J. Dagli,97190,72001,26.32
+ls-1967,LS,India,1967,1967,official,144,Vadodara,GEN,Gujarat,289247,SWA,P.C. Patel,152903,INC,N.D. Choksi,130586,22317,7.72
+ls-1967,LS,India,1967,1967,official,145,Ambala,GEN,Haryana,316269,BJS,S. Bhan,128003,INC,P. Wati,119303,8700,2.75
+ls-1967,LS,India,1967,1967,official,146,Gurgaon,GEN,Haryana,349394,IND,A. Gani,88326,INC,G. Singh,87018,1308,0.37
+ls-1967,LS,India,1967,1967,official,147,Hissar,GEN,Haryana,321280,INC,R. Kishan,115963,SSP,M. Ram,108784,7179,2.23
+ls-1967,LS,India,1967,1967,official,148,Jhajjar,GEN,Haryana,356287,INC,S. Singh,209492,IND,M. Parshad,67401,142091,39.88
+ls-1967,LS,India,1967,1967,official,149,Kaithal,GEN,Haryana,357691,INC,G.L. Nanda,180770,SWA,I. Singh,153760,27010,7.55
+ls-1967,LS,India,1967,1967,official,150,Karnal,GEN,Haryana,336205,INC,M. Ram,168204,BJS,R. Nand,168001,203,0.06
+ls-1967,LS,India,1967,1967,official,151,Mahendragarh,GEN,Haryana,313998,INC,G. Singh,93903,BJS,M. Chand,47165,46738,14.88
+ls-1967,LS,India,1967,1967,official,152,Rohtak,GEN,Haryana,350700,INC,R. Singh,176258,BJS,R. Sarup,120662,55596,15.85
+ls-1967,LS,India,1967,1967,official,153,Sirsa,GEN,Haryana,350395,INC,D. Singh,193919,IND,T. Singh,34638,159281,45.46
+ls-1967,LS,India,1967,1967,official,154,Chamba,GEN,Himachal Pradesh,119451,INC,V. Chand,39363,SWA,B. Parkash,34502,4861,4.07
+ls-1967,LS,India,1967,1967,official,155,Hamirpur,GEN,Himachal Pradesh,142167,INC,P. C. Verma,72705,BJS,Jagdev,69462,3243,2.28
+ls-1967,LS,India,1967,1967,official,156,Kangra,GEN,Himachal Pradesh,134001,INC,H. Raj,44262,BJS,S. Kumar,38860,5402,4.03
+ls-1967,LS,India,1967,1967,official,157,Mahasu,GEN,Himachal Pradesh,129252,INC,V. Singh,83782,IND,N. Kishore,24272,59510,46.04
+ls-1967,LS,India,1967,1967,official,158,Mandi,GEN,Himachal Pradesh,121181,INC,L. Sen,62596,IND,I. Singh,28331,34265,28.28
+ls-1967,LS,India,1967,1967,official,159,Shimla,GEN,Himachal Pradesh,130712,INC,P. Singh,72870,BJS,S. Singh,39740,33130,25.35
+ls-1967,LS,India,1967,1967,official,160,Anantnag,GEN,Jammu & Kashmir,0,INC,M.S. Qureshi,0,,,,0,
+ls-1967,LS,India,1967,1967,official,161,Baramulla,GEN,Jammu & Kashmir,183023,INC,S.A. Agha,101769,JKNC,A.G. Malik,81254,20515,11.21
+ls-1967,LS,India,1967,1967,official,162,Jammu,GEN,Jammu & Kashmir,287117,INC,I.J. Malhotra,139036,BJS,A. Rehman,80868,58168,20.26
+ls-1967,LS,India,1967,1967,official,163,Ladakh,GEN,Jammu & Kashmir,0,INC,K. Bakula,0,,,,0,
+ls-1967,LS,India,1967,1967,official,164,Srinagar,GEN,Jammu & Kashmir,127068,JKNC,B.G. Mohamad,59415,INC,A.M. Tariq,50179,9236,7.27
+ls-1967,LS,India,1967,1967,official,165,Udhampur,GEN,Jammu & Kashmir,245416,INC,G.S. Brigadier,134684,BJS,B. Singh,77806,56878,23.18
+ls-1967,LS,India,1967,1967,official,166,Adoor,GEN,Kerala,346612,CPI,P. C. Adichan,179068,INC,R. Achuthan,102670,76398,22.04
+ls-1967,LS,India,1967,1967,official,167,Ambalapuzha,GEN,Kerala,356335,CPI(M),S. Gopalan,176552,INC,P. S. Karthikeyan,126275,50277,14.11
+ls-1967,LS,India,1967,1967,official,168,Badagara,GEN,Kerala,330691,SSP,A. Sreedharan,215597,INC,M. K. Prabhakaran,115094,100503,30.39
+ls-1967,LS,India,1967,1967,official,169,Chirayinkil,GEN,Kerala,299809,CPI(M),K. Anirudhan,157040,INC,R. Sankar,127697,29343,9.79
+ls-1967,LS,India,1967,1967,official,170,Ernakulam,GEN,Kerala,360368,CPI(M),V. V. Menon,176624,INC,A. M. Thomas,160018,16606,4.61
+ls-1967,LS,India,1967,1967,official,171,Kasaragod,GEN,Kerala,335921,CPI(M),A. K. Gopalan,206480,INC,T. V. C. Nair,87970,118510,35.28
+ls-1967,LS,India,1967,1967,official,172,Kollam,GEN,Kerala,359484,IND,N.S. Nair,207338,INC,A.A. Rahim,127480,79858,22.21
+ls-1967,LS,India,1967,1967,official,173,Kottayam,GEN,Kerala,335297,CPI(M),K. M. Abraham,145571,INC,M. Maniyangadan,96990,48581,14.49
+ls-1967,LS,India,1967,1967,official,174,Kozhikode,GEN,Kerala,373554,IUML,E. S. Sait,215136,INC,N. K. S. Nair,133263,81873,21.92
+ls-1967,LS,India,1967,1967,official,175,Manjeri,GEN,Kerala,289970,IUML,M. M. Ismail,198732,INC,A. N. Beevi,91238,107494,37.07
+ls-1967,LS,India,1967,1967,official,176,Mavelikara,GEN,Kerala,350041,SSP,G. P. Mangalathumadom,147872,INC,M. P. S. V. Pillai,129178,18694,5.34
+ls-1967,LS,India,1967,1967,official,177,Mukundapuram,GEN,Kerala,353296,INC,P. G. Menon,175778,IND,C. G. Janardhanan,170440,5338,1.51
+ls-1967,LS,India,1967,1967,official,178,Muvattupuzha,GEN,Kerala,317602,CPI(M),P. P. Esthose,140403,INC,K. M. Chandy,98249,42154,13.27
+ls-1967,LS,India,1967,1967,official,179,Palakkad,GEN,Kerala,267538,CPI(M),E. K. Nayanar,158230,INC,C. S. Devan,90872,67358,25.18
+ls-1967,LS,India,1967,1967,official,180,Peermade,GEN,Kerala,306410,CPI,P. K. V. Nair,142089,SWA,P. D. Thommen,99623,42466,13.86
+ls-1967,LS,India,1967,1967,official,181,Ponnani,GEN,Kerala,266056,CPI(M),C. K. Chakrapani,157753,INC,V. Eacharan,94973,62780,23.6
+ls-1967,LS,India,1967,1967,official,182,Tellicherry,GEN,Kerala,358436,CPI(M),P. Gopalan,221374,INC,T. M. Abdulla,137062,84312,23.52
+ls-1967,LS,India,1967,1967,official,183,Thiruvananthapuram,GEN,Kerala,310998,SSP,P. Viswambharan,153040,INC,G.C. Pillai,148562,4478,1.44
+ls-1967,LS,India,1967,1967,official,184,Thrissur,GEN,Kerala,353059,CPI,C. Janardhanan,180195,INC,K. K. V. Panicker,159326,20869,5.91
+ls-1967,LS,India,1967,1967,official,185,Lakshadweep,GEN,Lakshadweep,11807,IND,M.S. Padanatha,4151,,A. T. Arnakad,,4151,35.16
+ls-1967,LS,India,1967,1967,official,186,Balaghat,GEN,Madhya Pradesh,248228,INC,C.R. Gautam,125540,RPI,R. Bhanware,48323,77217,31.11
+ls-1967,LS,India,1967,1967,official,187,Bastar,GEN,Madhya Pradesh,193182,IND,J. Sundarlal,53798,BJS,R. Jhadoo,36531,17267,8.94
+ls-1967,LS,India,1967,1967,official,188,Betul,GEN,Madhya Pradesh,224269,INC,S.N. Kumar,102661,BJS,R.S.D. Prasad,88762,13899,6.2
+ls-1967,LS,India,1967,1967,official,189,Bhind,GEN,Madhya Pradesh,301340,BJS,Y.S. Kushwah,137586,INC,V. Singh,66377,71209,23.63
+ls-1967,LS,India,1967,1967,official,190,Bhopal,GEN,Madhya Pradesh,284134,BJS,J.R. Joshi,138698,INC,M. Sultan,94767,43931,15.46
+ls-1967,LS,India,1967,1967,official,191,Bilaspur,GEN,Madhya Pradesh,216395,INC,Amarsingh,98430,BJS,Madanlal,96889,1541,0.71
+ls-1967,LS,India,1967,1967,official,192,Chhindwara,GEN,Madhya Pradesh,192699,INC,G.R. Mishra,86171,BJS,H.S. Agarwal,38188,47983,24.9
+ls-1967,LS,India,1967,1967,official,193,Damoh,GEN,Madhya Pradesh,263448,INC,M.J.B. Patel,127111,BJS,W. Shastri,67490,59621,22.63
+ls-1967,LS,India,1967,1967,official,194,Dhar,GEN,Madhya Pradesh,246360,BJS,Bharatsingh,133435,INC,Jamunadevi,112925,20510,8.33
+ls-1967,LS,India,1967,1967,official,195,Durg,GEN,Madhya Pradesh,263248,INC,V.Y. Tamaskar,108498,IND,M. Bakaliwal,74180,34318,13.04
+ls-1967,LS,India,1967,1967,official,196,Guna,GEN,Madhya Pradesh,293407,SWA,V.R. Scindhia,231186,INC,D.K. Jadhav,44997,186189,63.46
+ls-1967,LS,India,1967,1967,official,197,Gwalior,GEN,Madhya Pradesh,308618,BJS,R. Avtar,193614,INC,Vaidehicharan,45147,148467,48.11
+ls-1967,LS,India,1967,1967,official,198,Hoshangabad,GEN,Madhya Pradesh,240232,INC,C.N.S. Daulatsingh,131271,PSP,K.H. Vishnu,108961,22310,9.29
+ls-1967,LS,India,1967,1967,official,199,Indore,GEN,Madhya Pradesh,308422,INC,P.C. Sethi,134468,IND,H. Daji,100350,34118,11.06
+ls-1967,LS,India,1967,1967,official,200,Jabalpur,GEN,Madhya Pradesh,271608,INC,G. Das,139427,BJS,S. Chandra,74697,64730,23.83
+ls-1967,LS,India,1967,1967,official,201,Janjgir,GEN,Madhya Pradesh,219485,INC,Minimata,136589,BJS,S.Lal,55349,81240,37.01
+ls-1967,LS,India,1967,1967,official,202,Jhabua,GEN,Madhya Pradesh,215823,INC,Sursingh,87419,SSP,Sadi,59034,28385,13.15
+ls-1967,LS,India,1967,1967,official,203,Kanker,GEN,Madhya Pradesh,232028,BJS,T.L.P. Shah,90460,INC,S. Devi,86937,3523,1.52
+ls-1967,LS,India,1967,1967,official,204,Khandwa,GEN,Madhya Pradesh,290372,INC,G. Dikshit,125236,BJS,M. Bhatt,123538,1698,0.58
+ls-1967,LS,India,1967,1967,official,205,Khargone,GEN,Madhya Pradesh,237420,INC,S.C.K. Bajpai,113236,BJS,R.V. Bade,104072,9164,3.86
+ls-1967,LS,India,1967,1967,official,206,Mahasamund,GEN,Madhya Pradesh,193246,INC,V. Shukla,103885,BJS,D. Singh,37799,66086,34.2
+ls-1967,LS,India,1967,1967,official,207,Mandla,GEN,Madhya Pradesh,157653,INC,M. Uikey,67390,PSP,Dhokalsing,33569,33821,21.45
+ls-1967,LS,India,1967,1967,official,208,Mandsaur,GEN,Madhya Pradesh,283706,BJS,K.S. Singh,148654,INC,Manaklal,119863,28791,10.15
+ls-1967,LS,India,1967,1967,official,209,Morena,GEN,Madhya Pradesh,257007,IND,Atamdas,118167,INC,S. Prasad,37858,80309,31.25
+ls-1967,LS,India,1967,1967,official,210,Raigarh,GEN,Madhya Pradesh,236458,INC,R. Gandha,104980,BJS,Narhariprasad,75834,29146,12.33
+ls-1967,LS,India,1967,1967,official,211,Raipur,GEN,Madhya Pradesh,277371,INC,L. Gupta,103863,JAC,J. B. Kriplani,79448,24415,8.8
+ls-1967,LS,India,1967,1967,official,212,Rajnandgaon,GEN,Madhya Pradesh,249807,INC,P. Devi,132444,CPI,P. Roy,46004,86440,34.6
+ls-1967,LS,India,1967,1967,official,213,Rewa,GEN,Madhya Pradesh,319657,INC,S.N. Shukla,140468,SSP,M. Singh,82629,57839,18.09
+ls-1967,LS,India,1967,1967,official,214,Sagar,GEN,Madhya Pradesh,249703,BJS,Ramsingh,112943,INC,S. Rai,112646,297,0.12
+ls-1967,LS,India,1967,1967,official,215,Sarguja,GEN,Madhya Pradesh,152033,INC,B. Singh,63385,BJS,S. Ram,52958,10427,6.86
+ls-1967,LS,India,1967,1967,official,216,Satna,GEN,Madhya Pradesh,270307,INC,D.V. Singh,132260,BJS,V.B.S. Deo,95681,36579,13.53
+ls-1967,LS,India,1967,1967,official,217,Shahdol,GEN,Madhya Pradesh,178017,INC,G. Kumari,117146,BJS,S. Singh,19342,97804,54.94
+ls-1967,LS,India,1967,1967,official,218,Shajapur,GEN,Madhya Pradesh,272216,BJS,P. Baboorao,133652,INC,L. Joshi,93748,39904,14.66
+ls-1967,LS,India,1967,1967,official,219,Sidhi,GEN,Madhya Pradesh,238369,INC,B.P. Singh,132069,PSP,R.S. Tiwari,49686,82383,34.56
+ls-1967,LS,India,1967,1967,official,220,Tikamgarh,GEN,Madhya Pradesh,276107,INC,N. Ram,111230,IND,R. Das,44252,66978,24.26
+ls-1967,LS,India,1967,1967,official,221,Ujjain,GEN,Madhya Pradesh,315969,BJS,Hukumchand,176171,INC,D. Suryavanshi,120840,55331,17.51
+ls-1967,LS,India,1967,1967,official,222,Vidisha,GEN,Madhya Pradesh,276429,BJS,S. Sharma,158105,INC,R. Pandey,93168,64937,23.49
+ls-1967,LS,India,1967,1967,official,223,Chengalpattu,GEN,Madras,417217,DMK,C. C. Babu,255845,INC,D. V. Alagesan,150114,105731,25.34
+ls-1967,LS,India,1967,1967,official,224,Chennai North,GEN,Madras,404452,DMK,K. Manoharan,227783,INC,S. C. C. A. Pillai,166449,61334,15.16
+ls-1967,LS,India,1967,1967,official,225,Chennai South,GEN,Madras,417783,DMK,C. N. Annadurai,248099,INC,K. Gurumurti,166121,81978,19.62
+ls-1967,LS,India,1967,1967,official,226,Chidambaram,GEN,Madras,392957,DMK,V. Mayavan,205193,INC,L. Elayaperumal,187764,17429,4.44
+ls-1967,LS,India,1967,1967,official,227,Coimbatore,GEN,Madras,415791,CPI(M),K. Ramani,240856,INC,N. Mahalingam,174935,65921,15.85
+ls-1967,LS,India,1967,1967,official,228,Cuddalore,GEN,Madras,403169,DMK,V. K. Gounder,225571,INC,S. Radhakrishnan,177598,47973,11.9
+ls-1967,LS,India,1967,1967,official,229,Dharapuram,GEN,Madras,416332,DMK,C. T. Dhandapani,259768,INC,S.R. Arumugham,148902,110866,26.63
+ls-1967,LS,India,1967,1967,official,230,Dindigul,GEN,Madras,416784,DMK,N. Anbuchezhian,260065,INC,T. S. S. Ramachndran,156719,103346,24.8
+ls-1967,LS,India,1967,1967,official,231,Gobichettipalayam,GEN,Madras,373870,DMK,P. A. Saminathan,203798,INC,C. Subramaniam,154853,48945,13.09
+ls-1967,LS,India,1967,1967,official,232,Kallakurichi,GEN,Madras,365563,DMK,M. Deiveekan,193043,INC,K. Parthasarathy,166520,26523,7.26
+ls-1967,LS,India,1967,1967,official,233,Karur,GEN,Madras,395042,SWA,M. Gounder,209380,INC,R. Chettiar,185662,23718,6.0
+ls-1967,LS,India,1967,1967,official,234,Krishnagiri,GEN,Madras,325111,DMK,M. Kamalanathan,165079,INC,T. S. Pattabiraman,146785,18294,5.63
+ls-1967,LS,India,1967,1967,official,235,Kumbakonam,GEN,Madras,426088,DMK,S. Era,213866,INC,C. R. P. Raman,193827,20039,4.7
+ls-1967,LS,India,1967,1967,official,236,Madurai,GEN,Madras,434374,CPI(M),P. Ramamurti,261390,INC,S. C. Thevar,155922,105468,24.28
+ls-1967,LS,India,1967,1967,official,237,Mayuram,GEN,Madras,367276,DMK,K. Subravelu,209660,INC,M. Chandrasekhar,157616,52044,14.17
+ls-1967,LS,India,1967,1967,official,238,Mettur,GEN,Madras,346274,DMK,S. Kandappan,184004,INC,G. Venkatraman,127159,56845,16.42
+ls-1967,LS,India,1967,1967,official,239,Nagapattinam,GEN,Madras,392927,INC,V. Sambasivam,164167,CPI(M),V. P. Chintan,152948,11219,2.86
+ls-1967,LS,India,1967,1967,official,240,Nagercoil,GEN,Madras,337681,INC,A. Nesamony,180265,SWA,M. Mathias,128251,52014,15.4
+ls-1967,LS,India,1967,1967,official,241,Nilgiris,GEN,Madras,348997,SWA,M. K. N. Gowder,167712,INC,A. Devi,148010,19702,5.65
+ls-1967,LS,India,1967,1967,official,242,Perambalur,GEN,Madras,426054,DMK,A. Durairasu,229941,INC,P. K. Ramaswamy,196113,33828,7.94
+ls-1967,LS,India,1967,1967,official,243,Periyakulam,GEN,Madras,404894,SWA,H. Ajmalkhan,183593,INC,M. Ibrahim,155972,27621,6.82
+ls-1967,LS,India,1967,1967,official,244,Pollachi,GEN,Madras,404753,DMK,Narayanan,237035,INC,S. K. Paramasivam,155281,81754,20.2
+ls-1967,LS,India,1967,1967,official,245,Pudukkottai,GEN,Madras,413384,CPI(M),R. Umanath,199469,INC,A. N. Chettiar,190087,9382,2.27
+ls-1967,LS,India,1967,1967,official,246,Ramanathapuram,GEN,Madras,381977,IND,M. Sheriff,180392,INC,S. Balakrishnan,148367,32025,8.38
+ls-1967,LS,India,1967,1967,official,247,Salem,GEN,Madras,384419,DMK,K. Rajaram,219380,INC,R. Ramakrishnan,155871,63509,16.52
+ls-1967,LS,India,1967,1967,official,248,Sivaganga,GEN,Madras,423378,DMK,Kiruttinan,225106,INC,Subramanian,166889,58217,13.75
+ls-1967,LS,India,1967,1967,official,249,Sivakasi,GEN,Madras,412809,SWA,P. Ramamoorthy,194364,INC,P. A.Nadar,162692,31672,7.67
+ls-1967,LS,India,1967,1967,official,250,Sriperumbudur,GEN,Madras,448018,DMK,P. Sivasankaran,271528,INC,K. Sambandan,169763,101765,22.71
+ls-1967,LS,India,1967,1967,official,251,Tenkasi,GEN,Madras,401617,INC,R. S. Arumugam,166737,SWA,Velu,160991,5746,1.43
+ls-1967,LS,India,1967,1967,official,252,Thanjavur,GEN,Madras,428254,DMK,D.S. Gopalar,225414,INC,R. Venkataraman,202840,22574,5.27
+ls-1967,LS,India,1967,1967,official,253,Tindivanam,GEN,Madras,405713,DMK,T. D. R. Naidu,201009,INC,Lakshminarayanan,168939,32070,7.9
+ls-1967,LS,India,1967,1967,official,254,Tiruchendur,GEN,Madras,390339,SWA,Santosham,183053,INC,K. T. Kosalram,182659,394,0.1
+ls-1967,LS,India,1967,1967,official,255,Tiruchengode,GEN,Madras,420276,DMK,K. Anbazhagan,232365,INC,T. M. Kaliannan,184114,48251,11.48
+ls-1967,LS,India,1967,1967,official,256,Tiruchirappalli,GEN,Madras,403213,CPI(M),K. A. Nambiar,202879,INC,V. A. Muthiah,200334,2545,0.63
+ls-1967,LS,India,1967,1967,official,257,Tirunelveli,GEN,Madras,388325,SWA,S. Xavier,186864,INC,A. P. C. Veerabahu,144873,41991,10.81
+ls-1967,LS,India,1967,1967,official,258,Tiruppattur,GEN,Madras,347387,DMK,R. M. Gounder,188309,INC,T. A. Wahid,159078,29231,8.41
+ls-1967,LS,India,1967,1967,official,259,Tiruttani,GEN,Madras,404990,DMK,S. K. Sambandhan,225229,INC,A. Krishnaswamy,149680,75549,18.65
+ls-1967,LS,India,1967,1967,official,260,Vandavasi,GEN,Madras,386421,DMK,G. Viswanathan,213537,INC,M. K. Gounder,132878,80659,20.87
+ls-1967,LS,India,1967,1967,official,261,Vellore,GEN,Madras,365185,DMK,Kuchelar,203887,INC,A. Jayaraman,134155,69732,19.09
+ls-1967,LS,India,1967,1967,official,262,Ahmednagar,GEN,Maharashtra,277354,INC,A. V. Patil,142925,CPI,E. L. Bhagwat,92285,50640,18.26
+ls-1967,LS,India,1967,1967,official,263,Akola,GEN,Maharashtra,343314,INC,K. M. A. H. Sardarkhan,188248,RPI,S. S. Khandare,141953,46295,13.48
+ls-1967,LS,India,1967,1967,official,264,Amravati,GEN,Maharashtra,341874,INC,K. G. Deshmukh,162887,RPI,R. S. Guwai,141813,21074,6.16
+ls-1967,LS,India,1967,1967,official,265,Aurangabad,GEN,Maharashtra,243415,INC,B. D. Deshmukh,135865,CPI,S. G. Sardesai,52401,83464,34.29
+ls-1967,LS,India,1967,1967,official,266,Baramati,GEN,Maharashtra,267298,INC,T. S. Jadhav,166392,RPI,B. D. Kamble,71819,94573,35.38
+ls-1967,LS,India,1967,1967,official,267,Bhandara,GEN,Maharashtra,342725,INC,A. R. Mehata,152206,RPI,N. H. Kumbhare,96334,55872,16.3
+ls-1967,LS,India,1967,1967,official,268,Bhir,GEN,Maharashtra,261368,CPI,N. R. Patil,125216,INC,D. M. Mantri,111119,14097,5.39
+ls-1967,LS,India,1967,1967,official,269,Bhiwandi,GEN,Maharashtra,315088,INC,S. D. Baswant,136904,PWP,V. K. Patil,86030,50874,16.15
+ls-1967,LS,India,1967,1967,official,270,Buldhana,GEN,Maharashtra,330510,INC,S. R. Rane,172178,BJS,K. N. Sancheti,77274,94904,28.71
+ls-1967,LS,India,1967,1967,official,271,Chanda,GEN,Maharashtra,277050,IND,K. M. Kaushik,139310,INC,Tai Kannamwar,122474,16836,6.08
+ls-1967,LS,India,1967,1967,official,272,Chimur,GEN,Maharashtra,312051,INC,R. M. Hajarnawis,123336,RPI,H. G. Gajbhiye,78113,45223,14.49
+ls-1967,LS,India,1967,1967,official,273,Dahanu,GEN,Maharashtra,231471,INC,Y. M. Mukne,109864,SSP,C. A. Nandkar,73924,35940,15.53
+ls-1967,LS,India,1967,1967,official,274,Dhule,GEN,Maharashtra,289719,INC,C. A. Patil,164349,PWP,Z. B. Patil,82966,81383,28.09
+ls-1967,LS,India,1967,1967,official,275,Hatkanangle,GEN,Maharashtra,345439,PWP,M. V. R. C. Bhosale,189415,INC,S. P. T. Thorat,145138,44277,12.82
+ls-1967,LS,India,1967,1967,official,276,Jalgaon,GEN,Maharashtra,292901,INC,S. S. Samadali,125638,PSP,G. R. Garud,59577,66061,22.55
+ls-1967,LS,India,1967,1967,official,277,Jalna,GEN,Maharashtra,228492,INC,V. N. Jadhav,110423,CPI,M. B. Gaikawad,66873,43550,19.06
+ls-1967,LS,India,1967,1967,official,278,Karad,GEN,Maharashtra,320476,INC,D. R. Chavan,239362,PWP,D. K. Patil,67940,171422,53.49
+ls-1967,LS,India,1967,1967,official,279,Khamgaon,GEN,Maharashtra,331231,INC,A. S. Kasture,188450,RPI,D. B. Dabhade,112155,76295,23.03
+ls-1967,LS,India,1967,1967,official,280,Khed,GEN,Maharashtra,268506,INC,R. K. Khadilkar,157229,SSP,B. P. Adhav,80902,76327,28.43
+ls-1967,LS,India,1967,1967,official,281,Kolaba,GEN,Maharashtra,312356,PWP,D. K. Kunte,164464,INC,V. S. Randive,129656,34808,11.14
+ls-1967,LS,India,1967,1967,official,282,Kolhapur,GEN,Maharashtra,309531,INC,S. D. Mane,158327,PWP,D. S. Narvekar,125617,32710,10.57
+ls-1967,LS,India,1967,1967,official,283,Kopargaon,GEN,Maharashtra,299909,INC,A. P. Shince,138774,CPI,P. B. Kadu,123812,14962,4.99
+ls-1967,LS,India,1967,1967,official,284,Latur,GEN,Maharashtra,231251,INC,T. D. Kamble,125896,RPI,M. Mangaldas,87222,38674,16.72
+ls-1967,LS,India,1967,1967,official,285,Malegaon,GEN,Maharashtra,271132,INC,Z. M. Kahandole,140167,RPI,D. R. More,130965,9202,3.39
+ls-1967,LS,India,1967,1967,official,286,Mumbai Central,GEN,Maharashtra,347573,INC,R. D. Bhandare,158060,RPI,P. K. Atre,151108,6952,2.0
+ls-1967,LS,India,1967,1967,official,287,Mumbai North East,GEN,Maharashtra,426119,INC,S. G. Barve,171902,IND,V. K. K. Menon,158733,13169,3.09
+ls-1967,LS,India,1967,1967,official,288,Mumbai North West,GEN,Maharashtra,391965,INC,S. H. Shah,124071,IND,H. R. Gokhale,122707,1364,0.35
+ls-1967,LS,India,1967,1967,official,289,Mumbai South,GEN,Maharashtra,304813,SSP,G. Fernandes,147841,INC,S. K. Patil,118407,29434,9.66
+ls-1967,LS,India,1967,1967,official,290,Mumbai South Central,GEN,Maharashtra,334405,CPI,S. A.Dange,142718,INC,H. J. Mahindra,135714,7004,2.09
+ls-1967,LS,India,1967,1967,official,291,Nagpur,GEN,Maharashtra,354903,INC,N. R. Deoghare,129736,CPI,A. Bardhan,97767,31969,9.01
+ls-1967,LS,India,1967,1967,official,292,Nanded,GEN,Maharashtra,289543,INC,V. B. Tarodekar,147868,RPI,Y. R. Athwale,99863,48005,16.58
+ls-1967,LS,India,1967,1967,official,293,Nandurbar,GEN,Maharashtra,260587,INC,T. H. Gavit,150027,BJS,M. B. More,110560,39467,15.15
+ls-1967,LS,India,1967,1967,official,294,Nashik,GEN,Maharashtra,274957,INC,B. R. Kavade,155632,RPI,B. K. Gaikwad,119325,36307,13.2
+ls-1967,LS,India,1967,1967,official,295,Osmanabad,GEN,Maharashtra,322468,INC,T. A. Patil,162146,RPI,H. N. Sonule,136955,25191,7.81
+ls-1967,LS,India,1967,1967,official,296,Pandharpur,GEN,Maharashtra,318557,INC,T. H. Sonavane,159818,RPI,N. S. Kambale,158739,1079,0.34
+ls-1967,LS,India,1967,1967,official,297,Parbhani,GEN,Maharashtra,240752,INC,S. S. Deshmukh,115884,PWP,S. M. Naik,89415,26469,10.99
+ls-1967,LS,India,1967,1967,official,298,Pune,GEN,Maharashtra,291250,SSP,S. M. Joshi,150696,INC,N. V. Gadgil,137158,13538,4.65
+ls-1967,LS,India,1967,1967,official,299,Rajapur,GEN,Maharashtra,221993,PSP,N. B. Pai,126653,INC,S. S. Ajagaonkar,67569,59084,26.62
+ls-1967,LS,India,1967,1967,official,300,Ramtek,GEN,Maharashtra,336011,INC,A. G. Sonar,183258,RPI,R. N. Patil,77909,105349,31.35
+ls-1967,LS,India,1967,1967,official,301,Ratnagiri,GEN,Maharashtra,256229,INC,S. Mukherjee,112138,BJS,R. V. Kalaskar,61699,50439,19.69
+ls-1967,LS,India,1967,1967,official,302,Sangli,GEN,Maharashtra,343408,INC,S. D. Patil,204185,PWP,B. D. Patil,95293,108892,31.71
+ls-1967,LS,India,1967,1967,official,303,Satara,GEN,Maharashtra,302276,INC,Y. B. Chavan,207895,PWP,K. P .Pawar,80059,127836,42.29
+ls-1967,LS,India,1967,1967,official,304,Sholapur,GEN,Maharashtra,271266,INC,S. F. Damani,116734,IND,S. M . Dhanashetti,93021,23713,8.74
+ls-1967,LS,India,1967,1967,official,305,Wardha,GEN,Maharashtra,358361,INC,K. J. Bajaj,144756,IND,V. D. Raje Atram,115652,29104,8.12
+ls-1967,LS,India,1967,1967,official,306,Yeotmal,GEN,Maharashtra,351675,INC,D. S. Patil,167416,IND,J. B. Dhote,153768,13648,3.88
+ls-1967,LS,India,1967,1967,official,307,Inner Manipur,GEN,Manipur,199320,CPI,M. Meghachandra,91131,INC,R. K. J. Singh,74148,16983,8.52
+ls-1967,LS,India,1967,1967,official,308,Outer Manipur,GEN,Manipur,115842,IND,P. Haokip,30403,INC,Rishang,28862,1541,1.33
+ls-1967,LS,India,1967,1967,official,309,Bagalkot,GEN,Mysore,299603,INC,S. B. Patil,183984,IND,A. D. Tondihal,58304,125680,41.95
+ls-1967,LS,India,1967,1967,official,310,Bangalore,GEN,Mysore,273294,INC,K. Hanumanthiah,130814,IND,T. Subramanya,80194,50620,18.52
+ls-1967,LS,India,1967,1967,official,311,Belgaum,GEN,Mysore,312909,INC,N. M. Nabisab,192046,RPI,K. D. Appa,69729,122317,39.09
+ls-1967,LS,India,1967,1967,official,312,Bellary,GEN,Mysore,322424,INC,V. K. R. V. Rao,173402,SWA,Y. Mahabaleswarappa,149022,24380,7.56
+ls-1967,LS,India,1967,1967,official,313,Bidar,GEN,Mysore,275877,INC,R. Veerappa,136413,RPI,T. Masaji,76093,60320,21.86
+ls-1967,LS,India,1967,1967,official,314,Bijapur,GEN,Mysore,228385,SWA,G. D. Patil,113208,INC,R. G. Dubey,111104,2104,0.92
+ls-1967,LS,India,1967,1967,official,315,Chamarajanagar,GEN,Mysore,292289,INC,S. M. Siddaiah,108831,SWA,N. C. B. Rangaiah,79854,28977,9.91
+ls-1967,LS,India,1967,1967,official,316,Chikkodi,GEN,Mysore,284430,INC,B. Sahankaranand,192986,RPI,M. S. Nanasab,91444,101542,35.7
+ls-1967,LS,India,1967,1967,official,317,Chikmagalur,GEN,Mysore,247089,PSP,M. Huchegowda,106812,INC,A. M. Basavegowda,88589,18223,7.38
+ls-1967,LS,India,1967,1967,official,318,Chitradurga,GEN,Mysore,326134,SWA,J. M. Imam,164548,INC,S. Veerabasappa,132616,31932,9.79
+ls-1967,LS,India,1967,1967,official,319,Dharwad North,GEN,Mysore,270595,INC,M. S. Bindurao,169173,BJS,J. R. Anantrao,81743,87430,32.31
+ls-1967,LS,India,1967,1967,official,320,Dharwad South,GEN,Mysore,292907,INC,M. F. Hussensab,147272,PSP,C. A. Rahim,82641,64631,22.07
+ls-1967,LS,India,1967,1967,official,321,Gulbarga,GEN,Mysore,231737,INC,M. Yeshvantappa,136188,SWA,M. Virupakshayya,77911,58277,25.15
+ls-1967,LS,India,1967,1967,official,322,Hassan,GEN,Mysore,294788,SWA,N. Shivappa,168620,INC,H. Ramaswamy,126168,42452,14.4
+ls-1967,LS,India,1967,1967,official,323,Hoskote,GEN,Mysore,293679,INC,M. V. Krishnappa,160374,IND,S. A. Reddy,98578,61796,21.04
+ls-1967,LS,India,1967,1967,official,324,Kanakapura,GEN,Mysore,266380,INC,M. V. Rajasekharan,121394,IND,M. B. Das,73198,48196,18.09
+ls-1967,LS,India,1967,1967,official,325,Kanara,GEN,Mysore,280032,IND,D. D. Dattatraya,143287,INC,N. G. Vaman,115490,27797,9.93
+ls-1967,LS,India,1967,1967,official,326,Kolar,GEN,Mysore,276300,INC,G. Y. Krishnan,131041,IND,Thirumalappa,67152,63889,23.12
+ls-1967,LS,India,1967,1967,official,327,Koppal,GEN,Mysore,308778,INC,A. Sanganna,166690,IND,S. S. Alwandi,142088,24602,7.97
+ls-1967,LS,India,1967,1967,official,328,Madhugiri,GEN,Mysore,286089,INC,Malimariyappa,156423,SWA,N. C. Thimmareddi,65256,91167,31.87
+ls-1967,LS,India,1967,1967,official,329,Mandya,GEN,Mysore,338928,INC,M. K. Shivananjappa,192706,IND,J. Devaiah,146222,46484,13.72
+ls-1967,LS,India,1967,1967,official,330,Mangalore,GEN,Mysore,304756,INC,C. M. Poonacha,125162,IND,K. R. Karanth,96640,28522,9.36
+ls-1967,LS,India,1967,1967,official,331,Mysore,GEN,Mysore,271520,INC,H. D. Tulasidas,108855,IND,B. N. Kengegowda,93566,15289,5.63
+ls-1967,LS,India,1967,1967,official,332,Raichur,GEN,Mysore,223105,SWA,R. V. Naik,117272,INC,J. R. Chandriki,105833,11439,5.13
+ls-1967,LS,India,1967,1967,official,333,Shimoga,GEN,Mysore,296470,SSP,J. H. Patel,161262,INC,H.S. Rudrappa,135208,26054,8.79
+ls-1967,LS,India,1967,1967,official,334,Tumkur,GEN,Mysore,268779,PSP,K. Lakkappa,115312,INC,C. R. Basappa,115051,261,0.1
+ls-1967,LS,India,1967,1967,official,335,Udipi,GEN,Mysore,294141,SWA,J. M. L. Prabhu,122836,INC,S. S. Kolkebail,91526,31310,10.64
+ls-1967,LS,India,1967,1967,official,336,Nagaland,GEN,Nagaland,0,NNO,Chubatoshi,0,,,,0,
+ls-1967,LS,India,1967,1967,official,337,Angul,GEN,Odisha,165296,SWA,D. Deblal,79961,INC,P.G.D.B. Kumar,48440,31521,19.07
+ls-1967,LS,India,1967,1967,official,338,Balasore,GEN,Odisha,227196,PSP,S. Kundu,113022,INC,K. K. Pattanayak,77653,35369,15.57
+ls-1967,LS,India,1967,1967,official,339,Bhadrak,GEN,Odisha,294244,IND,D. Jena,104484,SWA,B. C. Das,83387,21097,7.17
+ls-1967,LS,India,1967,1967,official,340,Bhanjanagar,GEN,Odisha,215089,INC,A. T. Sarma,69120,CPI,D. Panda,64425,4695,2.18
+ls-1967,LS,India,1967,1967,official,341,Bhubaneswar,GEN,Odisha,225102,INC,C. Panigrahi,79899,CPI,P. Patnaik,59168,20731,9.21
+ls-1967,LS,India,1967,1967,official,342,Bolangir,GEN,Odisha,203887,SWA,R. R. S. Deo,143083,INC,N. Mishra,60804,82279,40.36
+ls-1967,LS,India,1967,1967,official,343,Chatrapur,GEN,Odisha,201619,INC,J. R. Rachakonda,107071,SWA,J. Praharaja,65410,41661,20.66
+ls-1967,LS,India,1967,1967,official,344,Cuttack,GEN,Odisha,264300,PSP,S. Misra,103710,INC,B. C. Mohanti,91572,12138,4.59
+ls-1967,LS,India,1967,1967,official,345,Dhenkanal,GEN,Odisha,229151,SWA,R.K.P.S.D.M. Bahadur,144806,INC,M.M. Pradhan,56761,88045,38.42
+ls-1967,LS,India,1967,1967,official,346,Jajpur,GEN,Odisha,278377,PSP,B. Behera,171207,INC,R. C. Mallick,107170,64037,23.0
+ls-1967,LS,India,1967,1967,official,347,Kalahandi,GEN,Odisha,157993,SWA,P. K. Deo,108336,INC,A. Pattajoshi,49657,58679,37.14
+ls-1967,LS,India,1967,1967,official,348,Kendrapara,GEN,Odisha,329767,PSP,S. Dwivedy,220582,INC,S. Mohantty,109185,111397,33.78
+ls-1967,LS,India,1967,1967,official,349,Keonjhar,GEN,Odisha,118988,SWA,G. Naik,79906,INC,K. Naik,39082,40824,34.31
+ls-1967,LS,India,1967,1967,official,350,Koraput,GEN,Odisha,116702,INC,U. Ramachandra,59846,SWA,D. Soboro,56856,2990,2.56
+ls-1967,LS,India,1967,1967,official,351,Mayurbhanj,GEN,Odisha,147652,SWA,M. Majhi,76929,INC,D. C. Tudu,39903,37026,25.08
+ls-1967,LS,India,1967,1967,official,352,Nabarangpur,GEN,Odisha,112832,INC,K. Pradhani,51163,SWA,N. Majhi,49276,1887,1.67
+ls-1967,LS,India,1967,1967,official,353,Phulbani,GEN,Odisha,136609,SWA,A. Dipa,64531,INC,T. Naik,42920,21611,15.82
+ls-1967,LS,India,1967,1967,official,354,Puri,GEN,Odisha,243164,SSP,R. Ray,143901,INC,B. Misra,84643,59258,24.37
+ls-1967,LS,India,1967,1967,official,355,Sambalpur,GEN,Odisha,191927,INC,S. Supakar,57349,SWA,S. Satpathy,41587,15762,8.21
+ls-1967,LS,India,1967,1967,official,356,Sundargarh,GEN,Odisha,202097,SWA,D. Amat,105272,INC,I. Maghi,60454,44818,22.18
+ls-1967,LS,India,1967,1967,official,357,Puducherry,GEN,Puducherry,158872,INC,N. Sethuraman,63286,IND,S. Sadagopan,52861,10425,6.56
+ls-1967,LS,India,1967,1967,official,358,Amritsar,GEN,Punjab,327638,BJS,Y.D. Sharma,104035,INC,S.S. Majithia,92760,11275,3.44
+ls-1967,LS,India,1967,1967,official,359,Bhatinda,GEN,Punjab,319550,ADS,K. Singh,150415,INC,D. Singh,88783,61632,19.29
+ls-1967,LS,India,1967,1967,official,360,Fazilka,GEN,Punjab,328284,INC,I. Singh,118948,CPI,A. Singh,92453,26495,8.07
+ls-1967,LS,India,1967,1967,official,361,Ferozepur,GEN,Punjab,326573,ADS,S. Singh,162198,INC,J. Nath,149558,12640,3.87
+ls-1967,LS,India,1967,1967,official,362,Gurdaspur,GEN,Punjab,334534,INC,D. Chand,105971,BJS,K. Lal,83225,22746,6.8
+ls-1967,LS,India,1967,1967,official,363,Hoshiarpur,GEN,Punjab,327723,INC,R. Kishan,95877,BJS,J. Singh,94366,1511,0.46
+ls-1967,LS,India,1967,1967,official,364,Jalandhar,GEN,Punjab,313790,INC,S. Singh,122923,SWA,S.P. Singh,91443,31480,10.03
+ls-1967,LS,India,1967,1967,official,365,Ludhiana,GEN,Punjab,362471,INC,D. Singh,132660,ADS,M. Singh,119586,13074,3.61
+ls-1967,LS,India,1967,1967,official,366,Patiala,GEN,Punjab,315610,INC,M. Kaur,189825,CPI,T. Singh,79615,110210,34.92
+ls-1967,LS,India,1967,1967,official,367,Phillaur,GEN,Punjab,329026,INC,S. Ram,136046,RPI,D. Chand,104760,31286,9.51
+ls-1967,LS,India,1967,1967,official,368,Ropar,GEN,Punjab,335930,INC,B. Singh,127986,ADS,B. Singh,123914,4072,1.21
+ls-1967,LS,India,1967,1967,official,369,Sangrur,GEN,Punjab,318791,ADS,N. Kaur,174371,INC,R. Singh,76159,98212,30.81
+ls-1967,LS,India,1967,1967,official,370,Tarn Taran,GEN,Punjab,344631,INC,G.S. Dhillon,161050,ADS,R. Singh,115858,45192,13.11
+ls-1967,LS,India,1967,1967,official,371,Ajmer,GEN,Rajasthan,300251,INC,V. N> Bhargava,145823,BJS,S. Sharda,108602,37221,12.4
+ls-1967,LS,India,1967,1967,official,372,Alwar,GEN,Rajasthan,299728,INC,B. Nath,108117,SSP,K. Ram,73531,34586,11.54
+ls-1967,LS,India,1967,1967,official,373,Banswara,GEN,Rajasthan,334038,INC,Hirji,173577,SWA,Vijaypal,140948,32629,9.77
+ls-1967,LS,India,1967,1967,official,374,Barmer,GEN,Rajasthan,216740,INC,A. Nahta,118410,SWA,T. Singh,88477,29933,13.81
+ls-1967,LS,India,1967,1967,official,375,Bharatpur,GEN,Rajasthan,344086,IND,B. Singh,210966,INC,R. Bahadur,115873,95093,27.64
+ls-1967,LS,India,1967,1967,official,376,Bhilwara,GEN,Rajasthan,247991,INC,R. Chandra,135466,BJS,Umashanker,56030,79436,32.03
+ls-1967,LS,India,1967,1967,official,377,Bikaner,GEN,Rajasthan,303703,IND,K. Singh,215636,,A. C. Godaara,,215636,71.0
+ls-1967,LS,India,1967,1967,official,378,Chittorgarh,GEN,Rajasthan,255765,INC,O. L. Bohra,117821,BJS,B. N. Sharma,82720,35101,13.72
+ls-1967,LS,India,1967,1967,official,379,Dausa,GEN,Rajasthan,298647,SWA,R. C. Ganpat,148239,INC,H. S. Rawat,103148,45091,15.1
+ls-1967,LS,India,1967,1967,official,380,Ganganagar,GEN,Rajasthan,317791,INC,P. Lal,117966,SWA,G. Chand,61588,56378,17.74
+ls-1967,LS,India,1967,1967,official,381,Hindaun,GEN,Rajasthan,295041,INC,J. Prasad,140538,SSP,N. Singh,99441,41097,13.93
+ls-1967,LS,India,1967,1967,official,382,Jaipur,GEN,Rajasthan,307619,SWA,G. Devi,196892,INC,R. Kasliwal,102641,94251,30.64
+ls-1967,LS,India,1967,1967,official,383,Jalore,GEN,Rajasthan,237070,SWA,D. Patodia,117468,INC,S. Mehta,108092,9376,3.95
+ls-1967,LS,India,1967,1967,official,384,Jhalawar,GEN,Rajasthan,228069,BJS,B. Singh,143882,INC,N. Mal,62649,81233,35.62
+ls-1967,LS,India,1967,1967,official,385,Jhunjhunu,GEN,Rajasthan,355248,SWA,R. K. Birla,150596,INC,M. R. S. R. Kumar,104023,46573,13.11
+ls-1967,LS,India,1967,1967,official,386,Jodhpur,GEN,Rajasthan,319667,INC,N. K. Sanghi,152016,SWA,L. M. Singhvi,131668,20348,6.37
+ls-1967,LS,India,1967,1967,official,387,Kota,GEN,Rajasthan,276633,BJS,Onkarlal,151258,INC,Onkarlal,125375,25883,9.36
+ls-1967,LS,India,1967,1967,official,388,Nagaur,GEN,Rajasthan,351074,SWA,N. Kumar,167326,INC,O. Singh,143530,23796,6.78
+ls-1967,LS,India,1967,1967,official,389,Pali,GEN,Rajasthan,299148,SWA,S. K. Tapuriah,147509,INC,H. Chandra,121438,26071,8.72
+ls-1967,LS,India,1967,1967,official,390,Sawai Madhopur,GEN,Rajasthan,266269,SWA,M. Lal,163843,INC,R. Bujethia,102426,61417,23.07
+ls-1967,LS,India,1967,1967,official,391,Sikar,GEN,Rajasthan,364648,BJS,S. Saboo,130945,INC,T. Rameshwar,110837,20108,5.51
+ls-1967,LS,India,1967,1967,official,392,Tonk,GEN,Rajasthan,295695,SWA,J. Lal,145032,INC,N. Prakash,130225,14807,5.01
+ls-1967,LS,India,1967,1967,official,393,Udaipur,GEN,Rajasthan,299498,INC,Dhuleshwar,182502,SWA,Hurma,116996,65506,21.87
+ls-1967,LS,India,1967,1967,official,394,Tripura East,GEN,Tripura,220650,INC,S. M. M. K. B. K. D .Bahadur,129618,CPI(M),D. Deb,91032,38586,17.49
+ls-1967,LS,India,1967,1967,official,395,Tripura West,GEN,Tripura,218108,INC,J. K. Choudhury,125965,CPI(M),B. C. Dutta,92143,33822,15.51
+ls-1967,LS,India,1967,1967,official,396,Agra,GEN,Uttar Pradesh,283820,INC,S.A. Singh,95828,BJS,H. Rani,68095,27733,9.77
+ls-1967,LS,India,1967,1967,official,397,Akbarpur,GEN,Uttar Pradesh,270279,RPI,R. J. Ram,99198,INC,P. Lal,95672,3526,1.3
+ls-1967,LS,India,1967,1967,official,398,Aligarh,GEN,Uttar Pradesh,278403,IND,S.K. Shastri,77284,INC,R.M. Pratap,50934,26350,9.46
+ls-1967,LS,India,1967,1967,official,399,Allahabad,GEN,Uttar Pradesh,231820,INC,H. Krishna,114131,SSP,S. Jaiswal,97587,16544,7.14
+ls-1967,LS,India,1967,1967,official,400,Almora,GEN,Uttar Pradesh,126850,INC,J. B. Singh,59388,BJS,G. Singh,48754,10634,8.38
+ls-1967,LS,India,1967,1967,official,401,Amethi,GEN,Uttar Pradesh,176560,INC,V. D. Bajpai,63231,BJS,G. Prasad,59566,3665,2.08
+ls-1967,LS,India,1967,1967,official,402,Amroha,GEN,Uttar Pradesh,273066,CPI,I. Sambhali,70306,BJS,R. Singh,66249,4057,1.49
+ls-1967,LS,India,1967,1967,official,403,Aonla,GEN,Uttar Pradesh,266072,INC,S. Shyam,84151,BJS,B.R. Singh,83019,1132,0.43
+ls-1967,LS,India,1967,1967,official,404,Azamgarh,GEN,Uttar Pradesh,237908,INC,C. Jeet,88690,SSP,V. Rai,67537,21153,8.89
+ls-1967,LS,India,1967,1967,official,405,Baghpat,GEN,Uttar Pradesh,308102,IND,R.S. Shastri,154518,INC,K.C. Sharma,66960,87558,28.42
+ls-1967,LS,India,1967,1967,official,406,Bahraich,GEN,Uttar Pradesh,211024,BJS,K. K. Nayar,100203,INC,B. L. Agarwal,53571,46632,22.1
+ls-1967,LS,India,1967,1967,official,407,Ballia,GEN,Uttar Pradesh,242605,INC,C. Prasad,64643,SSP,Rameshwar,44930,19713,8.13
+ls-1967,LS,India,1967,1967,official,408,Balrampur,GEN,Uttar Pradesh,282161,BJS,A. Behari,142446,INC,S. Joshi,110704,31742,11.25
+ls-1967,LS,India,1967,1967,official,409,Banda,GEN,Uttar Pradesh,231287,CPI,Jageshwar,66042,BJS,A.P. Misra,58573,7469,3.23
+ls-1967,LS,India,1967,1967,official,410,Bansgaon,GEN,Uttar Pradesh,217561,SSP,Molahu,89770,INC,M. Prasad,81164,8606,3.96
+ls-1967,LS,India,1967,1967,official,411,Barabanki,GEN,Uttar Pradesh,285759,SSP,R. S. Yadav,118233,INC,H. K. Kidwai,104859,13374,4.68
+ls-1967,LS,India,1967,1967,official,412,Bareilly,GEN,Uttar Pradesh,269283,BJS,B. B. Lal,112698,INC,S. Chandra,72050,40648,15.09
+ls-1967,LS,India,1967,1967,official,413,Basti,GEN,Uttar Pradesh,228113,INC,S. Narain,88637,BJS,R. Piarey,69847,18790,8.24
+ls-1967,LS,India,1967,1967,official,414,Bijnor,GEN,Uttar Pradesh,300782,INC,S. R. Nand,103874,BJS,S. Ram,71093,32781,10.9
+ls-1967,LS,India,1967,1967,official,415,Bilhaur,GEN,Uttar Pradesh,258357,INC,S. Rohtagi,81936,PSP,B. Singh,65289,16647,6.44
+ls-1967,LS,India,1967,1967,official,416,Budaun,GEN,Uttar Pradesh,290825,BJS,O. Singh,110341,INC,A. Harvani,54670,55671,19.14
+ls-1967,LS,India,1967,1967,official,417,Bulandshahr,GEN,Uttar Pradesh,296685,INC,S.P. Singh,91351,RPI,S.P. Gautam,70695,20656,6.96
+ls-1967,LS,India,1967,1967,official,418,Chail,GEN,Uttar Pradesh,201075,INC,M. Din,85916,IND,C.C. Lal,59982,25934,12.9
+ls-1967,LS,India,1967,1967,official,419,Chandauli,GEN,Uttar Pradesh,266035,SSP,Nihal,84409,INC,T. Narain,82814,1595,0.6
+ls-1967,LS,India,1967,1967,official,420,Dehra Dun,GEN,Uttar Pradesh,303933,IND,K.Y. Singh,151465,INC,M. Tyagi,111353,40112,13.2
+ls-1967,LS,India,1967,1967,official,421,Deoria,GEN,Uttar Pradesh,260421,INC,B. Rai,106557,SSP,Rameshwar,71578,34979,13.43
+ls-1967,LS,India,1967,1967,official,422,Domariyaganj,GEN,Uttar Pradesh,279114,BJS,N. S. Sharma,128569,INC,K. D. Malviya,98577,29992,10.75
+ls-1967,LS,India,1967,1967,official,423,Etah,GEN,Uttar Pradesh,272420,INC,Rohanlal,102847,BJS,R. Singh,87464,15383,5.65
+ls-1967,LS,India,1967,1967,official,424,Etawah,GEN,Uttar Pradesh,264886,SSP,A. Singh,106857,INC,G.N. Dixit,61509,45348,17.12
+ls-1967,LS,India,1967,1967,official,425,Faizabad,GEN,Uttar Pradesh,223275,INC,R. K. Sinha,83532,BJS,C. B. Agarwala,66623,16909,7.57
+ls-1967,LS,India,1967,1967,official,426,Farrukhabad,GEN,Uttar Pradesh,279780,INC,A.C. Singh,99835,BJS,D.R. Shakya,75147,24688,8.82
+ls-1967,LS,India,1967,1967,official,427,Fatehpur Sikri,GEN,Uttar Pradesh,248460,INC,S.B. Singh,101649,IND,B.L. Verma,76092,25557,10.29
+ls-1967,LS,India,1967,1967,official,428,Firozabad,GEN,Uttar Pradesh,236939,SSP,S.C. Lal,83638,INC,C. Ambesh,70357,13281,5.61
+ls-1967,LS,India,1967,1967,official,429,Garhwal,GEN,Uttar Pradesh,163664,INC,B. Darshan,89060,SWA,R. Sundriyal,29137,59923,36.61
+ls-1967,LS,India,1967,1967,official,430,Ghatampur,GEN,Uttar Pradesh,284882,INC,T. Ram,98771,SSP,M. Lal,90233,8538,3.0
+ls-1967,LS,India,1967,1967,official,431,Ghazipur,GEN,Uttar Pradesh,263266,CPI,S. Pandey,94266,INC,V. S. Gahmari,91026,3240,1.23
+ls-1967,LS,India,1967,1967,official,432,Ghosi,GEN,Uttar Pradesh,278070,CPI,J. Bahadur,68850,INC,P. B. B. Misra,64562,4288,1.54
+ls-1967,LS,India,1967,1967,official,433,Gonda,GEN,Uttar Pradesh,231524,INC,S. Kripalani,104904,SWA,K. D. R. Pandey,93243,11661,5.04
+ls-1967,LS,India,1967,1967,official,434,Gorakhpur,GEN,Uttar Pradesh,253135,IND,D. V. Nath,121490,INC,S. L. Saxena,78775,42715,16.87
+ls-1967,LS,India,1967,1967,official,435,Hamirpur,GEN,Uttar Pradesh,255667,BJS,S.B. Ji,138382,INC,M.L. Dwivedi,79257,59125,23.13
+ls-1967,LS,India,1967,1967,official,436,Hapur,GEN,Uttar Pradesh,339663,IND,P.V. Shastri,149943,RPI,B.P. Mourya,101875,48068,14.15
+ls-1967,LS,India,1967,1967,official,437,Hardoi,GEN,Uttar Pradesh,256766,INC,K. Lal,81126,BJS,P. Lal,63571,17555,6.84
+ls-1967,LS,India,1967,1967,official,438,Hathras,GEN,Uttar Pradesh,270068,INC,"N, Deo",87947,IND,C.P. Sheilani,80828,7119,2.64
+ls-1967,LS,India,1967,1967,official,439,Jalaun,GEN,Uttar Pradesh,316599,INC,C.R. Sewak,124040,BJS,P.L. Ahirwar,99927,24113,7.62
+ls-1967,LS,India,1967,1967,official,440,Jaunpur,GEN,Uttar Pradesh,270052,INC,R. Deo,162644,BJS,K. Shripal,79569,83075,30.76
+ls-1967,LS,India,1967,1967,official,441,Jhansi,GEN,Uttar Pradesh,254274,INC,S. Nayar,103073,BJS,R. Khera,65695,37378,14.7
+ls-1967,LS,India,1967,1967,official,442,Kairana,GEN,Uttar Pradesh,289163,SSP,G.A. Khan,76415,INC,A.P. Jain,74750,1665,0.58
+ls-1967,LS,India,1967,1967,official,443,Kaiserganj,GEN,Uttar Pradesh,225841,BJS,S. Nayar,116371,SWA,B. Kunwar,45955,70416,31.18
+ls-1967,LS,India,1967,1967,official,444,Kannauj,GEN,Uttar Pradesh,283423,SSP,R.M. Lohia,93578,INC,S.N. Misra,93106,472,0.17
+ls-1967,LS,India,1967,1967,official,445,Kanpur,GEN,Uttar Pradesh,240823,IND,S.M. Banerji,77882,INC,G. Dutt,71365,6517,2.71
+ls-1967,LS,India,1967,1967,official,446,Kasganj,GEN,Uttar Pradesh,291913,INC,M.A. Khan,93928,BJS,S. Chandra,87829,6099,2.09
+ls-1967,LS,India,1967,1967,official,447,Khalilabad,GEN,Uttar Pradesh,275756,BJS,R. Singh,124489,INC,K. Shanker,102844,21645,7.85
+ls-1967,LS,India,1967,1967,official,448,Kheri,GEN,Uttar Pradesh,228773,INC,B. Verma,77369,BJS,Y. D. Singh,76022,1347,0.59
+ls-1967,LS,India,1967,1967,official,449,Khurja,GEN,Uttar Pradesh,267211,PSP,R. Charan,86416,INC,K.L. Bajmiki,85399,1017,0.38
+ls-1967,LS,India,1967,1967,official,450,Lalganj,GEN,Uttar Pradesh,238207,INC,R. Dhan,96084,SSP,V. Prasad,59226,36858,15.47
+ls-1967,LS,India,1967,1967,official,451,Lucknow,GEN,Uttar Pradesh,253175,IND,A. N. Mulla,92535,INC,V. R. Mohan,71563,20972,8.28
+ls-1967,LS,India,1967,1967,official,452,Machhlishahr,GEN,Uttar Pradesh,240152,INC,Mageshwar,111377,BJS,Y. D. Dubey,80502,30875,12.86
+ls-1967,LS,India,1967,1967,official,453,Maharajganj,GEN,Uttar Pradesh,236414,INC,M. Prasad,94864,BJS,R. Ratan,48137,46727,19.76
+ls-1967,LS,India,1967,1967,official,454,Mainpuri,GEN,Uttar Pradesh,283663,INC,M. Singh,74952,BJS,P.S. Chauhan,44864,30088,10.61
+ls-1967,LS,India,1967,1967,official,455,Mathura,GEN,Uttar Pradesh,303146,IND,G.S.S.A.B. Singh,172785,INC,D.S. Chaudhary,88354,84431,27.85
+ls-1967,LS,India,1967,1967,official,456,Meerut,GEN,Uttar Pradesh,297463,SSP,M.S. Bharti,146172,INC,S. Khan,107276,38896,13.08
+ls-1967,LS,India,1967,1967,official,457,Mirzapur,GEN,Uttar Pradesh,290977,BJS,V. Narain,111512,INC,S. Misra,94241,17271,5.94
+ls-1967,LS,India,1967,1967,official,458,Misrikh,GEN,Uttar Pradesh,234094,INC,S. Prasad,70476,BJS,G. Prasad,65542,4934,2.11
+ls-1967,LS,India,1967,1967,official,459,Mohanlalganj,GEN,Uttar Pradesh,218305,INC,G. Devi,90283,BJS,R. Baksh,54479,35804,16.4
+ls-1967,LS,India,1967,1967,official,460,Moradabad,GEN,Uttar Pradesh,258239,BJS,O. P. T. Pursharthi,78497,INC,M. S. Fakhri,51192,27305,10.57
+ls-1967,LS,India,1967,1967,official,461,Muzaffarnagar,GEN,Uttar Pradesh,297481,CPI,L.A. Khan,74755,IND,B. Swarup,63153,11602,3.9
+ls-1967,LS,India,1967,1967,official,462,Nainital,GEN,Uttar Pradesh,229490,INC,K. C. Pant,91048,IND,D. K. Pande,57189,33859,14.75
+ls-1967,LS,India,1967,1967,official,463,Padrauna,GEN,Uttar Pradesh,250009,INC,K. N. Pandey,102527,BJS,Rameshwar,89112,13415,5.37
+ls-1967,LS,India,1967,1967,official,464,Phulpur,GEN,Uttar Pradesh,222397,INC,V. L. Pandit,95306,SSP,Janeshwar,59123,36183,16.27
+ls-1967,LS,India,1967,1967,official,465,Pilibhit,GEN,Uttar Pradesh,251169,PSP,M. Swaroop,70927,INC,M. S. H. Khan,66823,4104,1.63
+ls-1967,LS,India,1967,1967,official,466,Pratapgarh,GEN,Uttar Pradesh,215031,INC,R. D. Singh,102825,SSP,B. Singh,81133,21692,10.09
+ls-1967,LS,India,1967,1967,official,467,Rae Bareli,GEN,Uttar Pradesh,260203,INC,I. N. Gandhi,143602,IND,B. C. Seth,51899,91703,35.24
+ls-1967,LS,India,1967,1967,official,468,Rampur,GEN,Uttar Pradesh,322046,SWA,N. S. Z. A. Khan,168447,BJS,S. Ketu,119548,48899,15.18
+ls-1967,LS,India,1967,1967,official,469,Ramsanehighat,GEN,Uttar Pradesh,217404,INC,B. Kureel,89685,SSP,S. Kailash,76216,13469,6.2
+ls-1967,LS,India,1967,1967,official,470,Robertsganj,GEN,Uttar Pradesh,235039,INC,R. Swarup,108240,BJS,Sarbajit,90864,17376,7.39
+ls-1967,LS,India,1967,1967,official,471,Saharanpur,GEN,Uttar Pradesh,308279,INC,S. Lal,120891,SSP,S. Singh,83239,37652,12.21
+ls-1967,LS,India,1967,1967,official,472,Saidpur,GEN,Uttar Pradesh,256798,INC,S. Nath,79201,BJS,R. J. Ram,65764,13437,5.23
+ls-1967,LS,India,1967,1967,official,473,Salempur,GEN,Uttar Pradesh,263003,INC,V. Pandey,86702,SSP,R. Naresh,62401,24301,9.24
+ls-1967,LS,India,1967,1967,official,474,Shahabad,GEN,Uttar Pradesh,251547,BJS,J. B. Singh,83811,INC,N. R. Prasad,82298,1513,0.6
+ls-1967,LS,India,1967,1967,official,475,Shahjahanpur,GEN,Uttar Pradesh,239546,INC,P. K. Khanna,40031,IND,M. S. Khan,36949,3082,1.29
+ls-1967,LS,India,1967,1967,official,476,Sitapur,GEN,Uttar Pradesh,260561,BJS,S. Nand,102742,INC,Jagannath,76668,26074,10.01
+ls-1967,LS,India,1967,1967,official,477,Sultanpur,GEN,Uttar Pradesh,223807,INC,G. Sahai,125453,BJS,J. K. Agarwal,79443,46010,20.56
+ls-1967,LS,India,1967,1967,official,478,Tehri Garhwal,GEN,Uttar Pradesh,162096,INC,M. M. Shah,75781,CPI,G. Singh,34887,40894,25.23
+ls-1967,LS,India,1967,1967,official,479,Unnao,GEN,Uttar Pradesh,238001,INC,K. Dev,93820,PSP,K. Singh,59434,34386,14.45
+ls-1967,LS,India,1967,1967,official,480,Varanasi,GEN,Uttar Pradesh,281745,CPI(M),S. N. Singh,105784,INC,R. Singh,87617,18167,6.45
+ls-1967,LS,India,1967,1967,official,481,Alipurduars,GEN,West Bengal,375470,CPI,I. Gupta,121694,INC,P. Sarkar,121107,587,0.16
+ls-1967,LS,India,1967,1967,official,482,Arambagh,GEN,West Bengal,335426,AIFB,A. Bose,208724,INC,S. Choudhury,126702,82022,24.45
+ls-1967,LS,India,1967,1967,official,483,Asansol,GEN,West Bengal,244739,SSP,D. Sen,99276,INC,J. N. Mukhopadhyay,92284,6992,2.86
+ls-1967,LS,India,1967,1967,official,484,Ausgram,GEN,West Bengal,296950,CPI(M),B. Das,152904,INC,D. M. Mohan,144046,8858,2.98
+ls-1967,LS,India,1967,1967,official,485,Balurghat,GEN,West Bengal,282516,INC,J.N.Pramanik,130379,CPI(M),D. P. Kanti,106930,23449,8.3
+ls-1967,LS,India,1967,1967,official,486,Bankura,GEN,West Bengal,259170,CPI,J. M. Biswas,120590,INC,A. Ghose,90820,29770,11.49
+ls-1967,LS,India,1967,1967,official,487,Barasat,GEN,West Bengal,352320,CPI,R. N. Sen,143883,INC,A. C. Guha,111312,32571,9.24
+ls-1967,LS,India,1967,1967,official,488,Barrackpore,GEN,West Bengal,414329,CPI(M),M. Ismail,162231,CPI,R. Chakraborty,136319,25912,6.25
+ls-1967,LS,India,1967,1967,official,489,Basirhat,GEN,West Bengal,339343,BAC,H. Kabir,240491,INC,A. K. M. Ishaque,98852,141639,41.74
+ls-1967,LS,India,1967,1967,official,490,Berhampore,GEN,West Bengal,315591,IND,T. Chaudhuri,155789,INC,D. Sinha,147161,8628,2.73
+ls-1967,LS,India,1967,1967,official,491,Birbhum,GEN,West Bengal,230785,INC,S. K. Saha,83696,AIFB,G. Bauri,51479,32217,13.96
+ls-1967,LS,India,1967,1967,official,492,Bolpur,GEN,West Bengal,249890,INC,A. K. Chanda,131761,CPI(M),S. Roy,118129,13632,5.46
+ls-1967,LS,India,1967,1967,official,493,Burdwan,GEN,West Bengal,278894,IND,N. C. Chatterjee,143015,INC,C. Chittaranjan,106929,36086,12.94
+ls-1967,LS,India,1967,1967,official,494,Contai,GEN,West Bengal,354309,PSP,G. Samar,165472,INC,R. Pal,148303,17169,4.85
+ls-1967,LS,India,1967,1967,official,495,Cooch Behar,GEN,West Bengal,325537,AIFB,B. K. D. Chowdhury,167971,INC,P. C. Barman,124135,43836,13.47
+ls-1967,LS,India,1967,1967,official,496,Darjeeling,GEN,West Bengal,248199,IND,M. Basu,97476,INC,T. Manaen,95645,1831,0.74
+ls-1967,LS,India,1967,1967,official,497,Diamond Harbour,GEN,West Bengal,383972,CPI(M),J. Basu,196176,INC,S. B. Das,125202,70974,18.48
+ls-1967,LS,India,1967,1967,official,498,Ghatal,GEN,West Bengal,333179,INC,G. Parimal,138572,CPI,P. Kar,109662,28910,8.68
+ls-1967,LS,India,1967,1967,official,499,Hooghly,GEN,West Bengal,386888,CPI(M),B. K. Modak,198229,INC,P. K. Palit,188659,9570,2.47
+ls-1967,LS,India,1967,1967,official,500,Howrah,GEN,West Bengal,378270,INC,K. K. Chatterjee,176469,CPI(M),S. Mukherjee,134175,42294,11.18
+ls-1967,LS,India,1967,1967,official,501,Jalpaiguri,GEN,West Bengal,276216,INC,B. N. Katham,121613,IND,A. H. Besterwitch,104725,16888,6.11
+ls-1967,LS,India,1967,1967,official,502,Jangipur,GEN,West Bengal,282760,INC,H. L. Haque,130927,IND,J. Gupta,79238,51689,18.28
+ls-1967,LS,India,1967,1967,official,503,Jhargram,GEN,West Bengal,275032,BAC,A. K. Kisku,160399,INC,S. C. Hansda,114633,45766,16.64
+ls-1967,LS,India,1967,1967,official,504,Joynagar,GEN,West Bengal,358439,IND,C. Roy,157545,INC,P. Koyal,128474,29071,8.11
+ls-1967,LS,India,1967,1967,official,505,Katwa,GEN,West Bengal,323692,INC,D. Sen,161274,CPI(M),S. K. Mukherjee,150319,10955,3.38
+ls-1967,LS,India,1967,1967,official,506,Kolkata North East,GEN,West Bengal,345250,CPI,H. Mukherjee,130600,INC,B. C. Paul,116457,14143,4.1
+ls-1967,LS,India,1967,1967,official,507,Kolkata North West,GEN,West Bengal,338740,INC,A. K. Sen,154664,IND,S. P. Roy,89838,64826,19.14
+ls-1967,LS,India,1967,1967,official,508,Kolkata South,GEN,West Bengal,309428,CPI(M),G. Ghosh,155574,INC,B. B. Ghosh,116287,39287,12.7
+ls-1967,LS,India,1967,1967,official,509,Krishnanagar,GEN,West Bengal,326856,IND,H. Chattopadhyay,155309,INC,C. P. Mukherjee,122512,32797,10.03
+ls-1967,LS,India,1967,1967,official,510,Malda,GEN,West Bengal,295333,INC,U. Roy,123105,IND,S. K. Misra,95356,27749,9.4
+ls-1967,LS,India,1967,1967,official,511,Mathurapur,GEN,West Bengal,403600,CPI,K. Haldar,185300,INC,P. S. Naskar,172185,13115,3.25
+ls-1967,LS,India,1967,1967,official,512,Medinipur,GEN,West Bengal,327531,BAC,S. N. Maity,185407,INC,G. K. Singha,142124,43283,13.21
+ls-1967,LS,India,1967,1967,official,513,Murshidabad,GEN,West Bengal,292619,IND,S. Badrudduja,141402,INC,M. K. Bukhsh,126436,14966,5.11
+ls-1967,LS,India,1967,1967,official,514,Nabadwip,GEN,West Bengal,351830,BAC,P. R. Thakur,215463,INC,J. C. Biswas,136367,79096,22.48
+ls-1967,LS,India,1967,1967,official,515,Purulia,GEN,West Bengal,266623,IND,B. Mahato,120189,INC,S. Mahato,88784,31405,11.78
+ls-1967,LS,India,1967,1967,official,516,Raiganj,GEN,West Bengal,262413,INC,C. K. Bhattacharyya,70743,AIFB,N.K. Bose,69753,990,0.38
+ls-1967,LS,India,1967,1967,official,517,Srerampur,GEN,West Bengal,361133,INC,B. Ghosh,160662,CPI(M),D. N. Bhattacharya,137826,22836,6.32
+ls-1967,LS,India,1967,1967,official,518,Tamluk,GEN,West Bengal,406922,BAC,S. C. Samanta,278623,INC,G. Bhowmik,128299,150324,36.94
+ls-1967,LS,India,1967,1967,official,519,Uluberia,GEN,West Bengal,370582,INC,J. K. Mondal,143787,CPI(M),S. P. Bhattacharyya,125762,18025,4.86
+ls-1967,LS,India,1967,1967,official,520,Vishnupur,GEN,West Bengal,301325,INC,P. Mondal,148024,BAC,M. M. Mallick,106834,41190,13.67

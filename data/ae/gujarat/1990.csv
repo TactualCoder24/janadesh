@@ -1,0 +1,183 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,1,Abdasa,GEN,,62846,BJP,Chheda Tarachand Jagshibhai,37897,INC,Mahesh Thakkar,23187,14710,23.41
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,2,Mandvi,GEN,,64205,BJP,Mehta Sureshchandra Rupshanker,39837,INC,Jaykumar Sangvi,22929,16908,26.33
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,3,Bhuj,GEN,,71673,BJP,Gadhavi Pushpdan Shambhudan,38764,INC,Hakumatsinh Gajubha Jadeja Jadeja,30574,8190,11.43
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,4,Mundra,SC,,44267,BJP,Sodham Parbat Maya,25834,INC,Danicha Valjibhai Punanchand,14999,10835,24.48
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,5,Anjar,GEN,,63693,INC,Navinbhai Shastri,17687,IND,Ayer Siddharth Khimjibhai,16549,1138,1.79
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,6,Rapar,GEN,,65785,INC,Patel Harilal Nanji,33984,BJP,Jadeja Murubha Ramubha,25731,8253,12.55
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,7,Dasada,SC,,60157,BJP,Fakirbhai Raghabhai Vaghela,28385,INC,Chavada Shantaben Khimjibhai,24470,3915,6.51
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,8,Wadhwan,GEN,,60776,BJP,Jhala Ranjitsingh Jitubha,26396,JD,Jashubhai Bhadresiwala,16950,9446,15.54
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,9,Limbdi,GEN,,66623,BJP,Rana Jitubha Kesarsinh,23809,JD,Gohil Nagarbhai Hamalbhai,15288,8521,12.79
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,10,Chotila,GEN,,43372,JD,Karamshibhai Kanjibhai Makwana,26455,INC,Olakiya Ambabhai Bhadabhai,8942,17513,40.38
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,11,Halvad,GEN,,57780,BJP,Songara Bhagvandas Kalu,19522,INC,Jhala Jivubhabahai Ghelubhabhai,17244,2278,3.94
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,12,Dhrangadhra,GEN,,67966,JD,Chhaganlal Gogibhai Patel,29794,INC,Sanghavi Arvindbhai Sakarchand,20011,9783,14.39
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,13,Morvi,GEN,,63845,IND,Patel Babubhai Jashbhai,37975,INC,Shersiya Jayantilal Jeraj Patel,23767,14208,22.25
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,14,Tankara,GEN,,80757,BJP,Keshubhai Savdas Patel,48015,JD,Boda Vaghjibhai Rugnathbhai,23341,24674,30.55
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,15,Wankaner,GEN,,67795,INC,Amiyalbhai Badi,23838,BJP,Mehta Lalitbhai Amratlal,17455,6383,9.42
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,16,Jasdan,GEN,,59384,IND,Bhanbhaniya Bhikhalal Bhimjibhai,19112,JD,Bavaliya Kunvarjibhai Mohanbhai,10925,8187,13.79
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,17,Rajkot-I,GEN,,66820,INC,Jadeja Manoharsinhji Pradyumansinhji,34085,BJP,Shukal Chimanbhai Haribhai,30641,3444,5.15
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,18,Rajkot-Ii,GEN,,49773,BJP,Vajbhai Vala,31864,INC,Sudhir Joshi,16388,15476,31.09
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,19,Rajkot Rural,SC,,46193,BJP,Babariya Madhubhai Hamirbhai,22378,INC,Karshan Mohanbhai Vaghela,13053,9325,20.19
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,20,Gondal,GEN,,65507,IND,Jadeja Mahipatsinh Bhavubha,31119,JD,Donga Madhusudhan Devshibhai,21141,9978,15.23
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,21,Jetpur,GEN,,63229,BJP,Korat Savji Jivaraj,40757,INC,Dilip Bhai Patel,17181,23576,37.29
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,22,Dhoraji,GEN,,68983,BJP,Radadiya Vithalbhai Hansrajbhai,33479,INC,Sojitra Chhaganlal Shambhubhai,17677,15802,22.91
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,23,Upleta,GEN,,62644,JD,Kalawadia Naranbhai Premjibhai,32479,INC,Kalaria Jayantilal Bhagwanji,28358,4121,6.58
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,24,Jodiya,GEN,,65645,BJP,Kasundra Maganbhai Ammanbhai,32451,INC,Bhimani Dayabhai Devsibhai,11889,20562,31.32
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,25,Jamnagar,GEN,,48667,BJP,Sanghavi Vasantkumar M. (Vasantbhai Sanghavai),25708,INC,Baloch M.K,14686,11022,22.65
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,26,Jamnagar Rural,SC,,35229,JD,Dineshbhai Parmar,22828,INC,Parmar Manjibhai Nathubhai,9158,13670,38.8
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,27,Kalawad,GEN,,59352,BJP,Patel Raghavji Hansraj,44009,INC,Patel Chhaganbhai Meghjibhai,12396,31613,53.26
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,28,Jamjodhpur,GEN,,55315,JD,Vachhani Mahanlal Karamshibhal,22850,IND,Bariya Hardas Jethabhai,20285,2565,4.64
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,29,Bhanvad,GEN,,47307,JD,Lal Haridas Jivandas (Babubhai Lal),17934,INC,Goriya Markhibhai Jethabhai,15001,2933,6.2
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,30,Khambhalia,GEN,,55906,INC,Varotaria Ranmal Narhabhai,25898,BJP,Tanna Jagjivandas Jamnadas (Jugubhai Tanna),15733,10165,18.18
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,31,Dwarka,GEN,,62731,IND,Manek Pabubha Virambha,25667,JD,Gojiya Khimabhai Devabhai,17395,8272,13.19
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,32,Porbandar,GEN,,48389,JD,Lakhani Shashikant Anandlal,16460,INC,Odedra Bharatbhai Maldevji,15483,977,2.02
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,33,Kutiyana,GEN,,48779,JD,Jadija Santokben Sarman,41909,INC,Agath Laxmanbhai Bhimabhai,5359,36550,74.93
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,34,Mangrol,GEN,,64369,INC,Chudasama Chandrikaben Kanji,29750,JD,Jadeja Aebhabhai Arjanbhai,17332,12418,19.29
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,35,Manavadar,GEN,,76512,INC,Chavada Javahar Pethalaji,38687,JD,Patel Jirambhai Anandbhai,37167,1520,1.99
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,36,Keshod,SC,,49371,JD,Dhula Hamirbhai Hadabhai,24675,INC,Vanavi Devajibhai Bhikhabhai,12091,12584,25.49
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,37,Talala,GEN,,62573,INC,Jora Jethalal Ranabai,25691,BJP,Padhiyar Narsinh Dhanjibhai,21098,4593,7.34
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,38,Somnath,GEN,,89389,JD,Barad Jashubhai Dhanabhai,44723,BJP,Chudasma Hirabhai Ramabhai,26443,18280,20.45
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,39,Una,GEN,,65872,JD,Vansh Punja Bhima,35685,INC,Zala Ukabhai Sidibhai,27350,8335,12.65
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,40,Visavadar,GEN,,65056,JD,Bhesaniya Kuraji Dunger,37193,BJP,Shastri Krushnaswarup Narayanswarup,18551,18642,28.66
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,41,Maliya,GEN,,68819,BJP,Solanki Devanand Samatbhai,36298,JD,Chikhaliya Bhavanben Devbhai,24233,12065,17.53
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,42,Junagadh,GEN,,60321,IND,Mashru Mahendra Liladhar,26943,JD,Gajera Bhikhabhai Chana Bhai,13633,13310,22.07
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,43,Babra,GEN,,58815,JD,Thummar Virjibhai Kishavbhai,28576,INC,Khokhariya Valji Nanjibhai,16128,12448,21.16
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,44,Lathi,GEN,,57405,JD,Thakarshibhai Kanjibhai Metaliya,31039,INC,Khodidas Thakkar,24192,6847,11.93
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,45,Amreli,GEN,,58569,BJP,Sanghani Dilipbhai,38498,IND,Vagadiya Jivrajbhai Mohanbhai,9798,28700,49.0
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,46,Dhari,GEN,,61323,JD,Dhanak Vajubhai Girdharibhai,34005,INC,Gadhia Manubhai Raghavbhai,13550,20455,33.36
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,47,Kodinar,GEN,,63442,JD,Barad Dhirsinh Karashanbhai,22252,INC,Kamaliya Arsibhai Kanabhai,18624,3628,5.72
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,48,Rajula,GEN,,53975,JD,Bhuva Madhubhai Harjibhai,25859,INC,Pratapbhai Suragbhai Varu,13429,12430,23.03
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,49,Botad,GEN,,74534,JD,Godhani Dalsukhbhai Jerambhai,36065,IND,Shah Kantilal Mansukhlal,19697,16368,21.96
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,50,Gadhada,SC,,58942,BJP,Ranva Maganlal Haribhai,36448,INC,Gohil Kantibhai Valjibhai (Kantibhai Gohil),19567,16881,28.64
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,51,Palitana,GEN,,73083,JD,Pravinshihn\Ji Jadeja,36080,IND,Balar Gordhabhai Haribhai,17562,18518,25.34
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,52,Sihor,GEN,,70891,JD,Vaghani Nanubhai Vithalbhai,31816,INC,Amarshibhai Patel,17644,14172,19.99
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,53,Kundla,GEN,,59172,IND,Lallubhai Sheth,24121,INC,Patel Dhirubhai Thakrshibhai (Dhirubhai,20786,3335,5.64
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,54,Mahuva,GEN,,55529,JD,Chabildas Mehta,40445,INC,Vajubhjai Jani,10570,29875,53.8
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,55,Talaja,GEN,,59407,JD,Natubhai Bhikhabhai Dabhi,27414,INC,Bhadrasinh Jamsinh Vaja,16916,10498,17.67
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,56,Ghogho,GEN,,57165,JD,Nanabhai Royala,20431,INC,Goyil Dilipsinh Ajitsinh,13308,7123,12.46
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,57,Bhavnagar North,GEN,,52632,BJP,Trivedi Mahendrabhai Shanti Lal,24397,CPI(M),Arun Subodhbhai Maheta,18246,6151,11.69
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,58,Bhavnagar South,GEN,,58351,INC,Gohil Shaktisinh Harishchandrasinhji,19623,JNP,Patel Thakarshibhai Ramjibhai (Falki),10995,8628,14.79
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,59,Dhandhuka,GEN,,59259,BJP,Parikh Dilipbhai Ramanlal,24639,INC,Shah Natvarlal 'Chandulal,19153,5486,9.26
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,60,Dholka,GEN,,70964,BJP,Chudasma Bhupendrasinh M,34875,INC,Makwana Parsotambhai R,26679,8196,11.55
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,61,Bavla,SC,,75130,JD,Gohel Dhulabhai Dalabhai,39402,INC,Chavada Motilal Mavjibhai,22108,17294,23.02
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,62,Mandal,GEN,,60989,BJP,Chauhan Jorubha Jethubhai,23672,IND,Jayantilal Mahadevbhai Patel,20906,2766,4.54
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,63,Viramgam,GEN,,67817,BJP,Jadeja Hardattsinh Jilubha (Tomtbhai),42056,INC,Patel Daudabhai Miyabhai,20695,21361,31.5
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,64,Sarkhej,GEN,,186609,BJP,Patel Harishchandra Lavjibhai,81850,JD,Patel Vishnubhai Natwarlal,55232,26618,14.26
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,65,Daskroi,GEN,,84302,BJP,Thakor Madhubhai Somaji,45709,INC,Arjanbhai Chhaganbhai Bharvad,34438,11271,13.37
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,66,Dehgam,GEN,,74535,BJP,Vitthalbhai B. Shah,30101,INC,Kamlaben Khumansingh,20303,9798,13.15
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,67,Sabarmati,GEN,,117779,JD,Amin Narhari Hirabhai,52888,BJP,Patel Natverbhai Ramdas,43444,9444,8.02
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,68,Ellis Bridge,GEN,,81792,JD,Babubhai Vasanvala,64054,INC,K.S. Shastri,10594,53460,65.36
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,69,Dariapur-Kazipur,GEN,,56815,BJP,Barot Bharatkumar Chimamanlal,24720,INC,Surenderkumar Netrapalsinh Rajput,21532,3188,5.61
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,70,Shahpur,GEN,,53903,BJP,Kaushikbhai Jamnadas Patel,22583,JD,Pankajkumar Jayantilal Shah,16522,6061,11.24
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,71,Kalupur,GEN,,58833,BJP,Bhupendra Sevakram Patni,31255,JD,Shaikh Mohammed Faruk Husenmiya,24186,7069,12.02
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,72,Asarwa,GEN,,97356,BJP,Patel Vithalbhai S,42864,INC,Prabodh Raval,39613,3251,3.34
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,73,Rakhial,GEN,,68177,BJP,Kanubhai Bhagvanbhai Kothiya,29989,JD,Karsanbhai Haribhai Gaudani,19940,10049,14.74
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,74,Shaher Kotda,SC,,51612,INC,Manubhai Parmar,23614,BJP,Solanki Gopaldas Mujibhai,21948,1666,3.23
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,75,Khadia,GEN,,50563,BJP,Ashok Bhatt,42345,INC,Vasdev Bhatt,4820,37525,74.21
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,76,Jamalpur,GEN,,58256,INC,Kazi Sirajuddin Abdul Jabar,19689,BJP,Girishchandra Khemchandbhai Parmar (Girish,18570,1119,1.92
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,77,Maninagar,GEN,,104330,BJP,Patel Kamleshbhai Govindbhai,55610,JD,Kapasi Jayantibhai Himmatbhai,25146,30464,29.2
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,78,Naroda,GEN,,108874,BJP,Gopaldas Bhojwani,69067,INC,Gitaben Dixini,19403,49664,45.62
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,79,Gandhi Nagar,GEN,,107496,JD,Popatlal V. Patel,33887,INC,Kasam Bapu,28483,5404,5.03
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,80,Kalol,GEN,,83897,BJP,Patel Vitthalbhai Somabhai (Ganesh Thresarwala),29415,INC,Chaudhary Laxmansinh Gobarji,23745,5670,6.76
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,81,Kadi,GEN,,92943,BJP,Patel Nitin Kumar Ratilal,34370,INC,Karsanji Maganji Thakor,31632,2738,2.95
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,82,Jotana,SC,,75457,BJP,Sollanki Kantilal Bhalabhai,41127,INC,Lauva Punamchand Mohanlal,30572,10555,13.99
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,83,Mehsana,GEN,,85430,BJP,Khodabhai N. Patel,44007,INC,Thhakor Mathurji Punjaji,40493,3514,4.11
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,84,Mansa,GEN,,97360,INC,Chavada Iswarsinh Shivaji,52315,JD,Patel Kantilal Bholidas,41902,10413,10.7
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,85,Vijapur,GEN,,100218,INC,Naresh Kumar Gangaram Raval,36359,JD,Atmarambhai Maganlal Patel,34562,1797,1.79
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,86,Visnagar,GEN,,108998,JD,Partel Bholabhai Chaturbhai,46664,INC,Ramniklal Maniyar,38117,8547,7.84
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,87,Kheralu,GEN,,73218,JD,Thakor Shankarji Okhaji,53065,INC,Thalor Hajurji Hajaji,19331,33734,46.07
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,88,Unjha,GEN,,96090,JD,Patel Chimanbhai Jivabhai,82973,INC,Shraddha Panchotiya,12498,70475,73.34
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,89,Sidhpur,GEN,,77965,BJP,Jayanarayan Vyas,43150,INC,Raval Narendrabhai Mohanlal,24761,18389,23.59
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,90,Vagdod,GEN,,80139,JD,Thakor Chamanji Dansangji,45044,INC,Keshaji Shankarji Thakor,27661,17383,21.69
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,91,Patan,GEN,,73956,BJP,Aravindkumar Tribhovandas Patel,24302,IND,Patel Kantilal Nanalal,21107,3195,4.32
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,92,Chanasma,GEN,,76602,IND,Gandaji Chelaji Thakor,30382,JD,Patel Nathalal Manilal,26198,4184,5.46
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,93,Sami,GEN,,75219,BJP,Dilip Viraji Thakor,34923,INC,Rathod Bhavsinh Dahyabhai,24297,10626,14.13
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,94,Radhanpur,GEN,,74033,JD,Mulani Himmatlal T,28744,INC,Zula Khodidan Bhimjibhai,23582,5162,6.97
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,95,Vav,GEN,,87904,JD,Patel Mavjibhai Chatarabhai,36339,INC,Patel Parbatbhai Savabhai,32088,4251,4.84
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,96,Deodar,GEN,,76672,JD,Patel Bhemabhai Ramsinghbhai,29118,INC,Vaghela Mansinhji Pratapsinhaji,28440,678,0.88
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,97,Kankrej,GEN,,69027,JD,Khanpura Dharshibhai Lakhabhai,28595,BJP,Vaghela Magansing Chamansing,20587,8008,11.6
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,98,Deesa,GEN,,70939,JD,Vaghela Liladharbhai Khodaji,28027,BJP,Jani Hareshkumar Shamjibhai,17901,10126,14.27
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,99,Dhanera,GEN,,85675,BJP,Patel Harjivanbhai Hirabhai,42252,INC,Desai Govabhai Hamirabhai,40049,2203,2.57
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,100,Palanpur,GEN,,70612,BJP,Bachani Lekhraj Hemraj,24498,JD,Solanki Rayamalji Hemaji,23655,843,1.19
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,101,Vadgam,SC,,61880,JD,Parmar Mukul Jivrambhai,33511,HMS,Parmar Narayanbhai Jechandbhai,12787,20724,33.49
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,102,Danta,GEN,,79053,BJP,Kachoriya Kantibhai Dharmdas,29774,JD,Chawda Narpatsinh Gagusinh,21638,8136,10.29
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,103,Khedbrahma,ST,,58266,BJP,Bara Becharbhai Khatuji,33273,INC,Damor Jagdishchandraji Doljibhai,24847,8426,14.46
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,104,Idar,SC,,72503,JD,Karsandas Soneri,48592,INC,Lalit Parmar,11444,37148,51.24
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,105,Bhiloda,GEN,,77004,INC,Upendra Trivedi,41280,JD,Patel Khemabhaihirabhai,32931,8349,10.84
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,106,Himatnagar,GEN,,67953,JD,Patel Bhagwandas Haribhai,32988,INC,Zala Ranjitsinh Gulabsinh,16188,16800,24.72
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,107,Prantij,GEN,,77226,BJP,Zalavinendrasinh Dlipsinh,41058,INC,Patel Govindbhai Prabhudas,34891,6167,7.99
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,108,Modasa,GEN,,79219,JD,Patel Haribhai Chhaganbhai,25321,BJP,Dilipsinh Vakhatsinhji,19458,5863,7.4
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,109,Bayad,GEN,,76216,BJP,Solanki Chandrabhansinh Mulsinhji,26561,INC,Solanki Ramsinhji Rupsinhji,25278,1283,1.68
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,110,Meghraj,GEN,,68402,BJP,Damor Hiraji Valaji,40725,INC,Pandya Gunvantlal Manilal,16683,24042,35.15
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,111,Santrampur,GEN,,64653,JD,Pandya Prabodhkant Damodar,29479,INC,Rayka Sagarbhai Kalyanbhai,27314,2165,3.35
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,112,Jhalod,ST,,49073,INC,Munla Virjibhai Limbabhai,25186,BJP,Baria Ramsinh Kidiyabhai,12538,12648,25.77
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,113,Limdi,ST,,38886,JD,Kishori Bachubhai Nathabbhai,13332,INC,Sangada Kalubhai Veljibhai,13162,170,0.44
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,114,Dohad,ST,,50608,BJP,Damor Tersinhbhai Badiyabhai,20056,INC,Patel Lalitkumar Bhagwandas,19337,719,1.42
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,115,Limkheda,ST,,41372,JD,Pasaya Nagarsinh Gulabsinh,29000,INC,Solanki Ratansing Bhagabhai,7378,21622,52.26
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,116,Devgadh Baria,GEN,,52369,INC,Urvashidevi,25338,JD,Kandoi Jayrajbhai Biharisinh,18193,7145,13.64
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,117,Rajgadh,GEN,,49269,INC,Vakil Parmar Laxmanisnh Motisinh,19054,JD,Chauhan Natwarsinh Khumansinh,17838,1216,2.47
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,118,Halol,GEN,,64269,INC,Udesinh Baria,29177,JD,Patel Rajendrasinh Balwantsinh,22663,6514,10.14
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,119,Kalol,GEN,,55263,IND,Chauhan Gababhai Somabhai,20068,JD,Chavda Laxmansinh Gabusinh,17059,3009,5.44
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,120,Godhra,GEN,,67071,JD,C. K. Raulji,31677,BJP,Solanki Gopalsinh Gulabsinh,23338,8339,12.43
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,121,Shehra,GEN,,62001,INC,Parmar Jashvantsinh Mansukhbhai,26320,JD,Patel Babubhai Khatubhai,24443,1877,3.03
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,122,Lunavada,GEN,,78099,INC,Solanki Dhirendrasinh Virbhadrasinh,32707,JD,Patel Hirabhai Haridas,24256,8451,10.82
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,123,Randhikpur,ST,,52715,JD,Damor Bijalbhai Valabhai,35934,INC,Gondiya Badiybhai Muljibhai,14525,21409,40.61
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,124,Balasinor,GEN,,69396,BJP,Chauhan Mansinh Kohyabhai,38788,JD,Patel Kishorbhai Karshanbhai,19302,19486,28.08
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,125,Kapadvanj,GEN,,77700,INC,Rathod Ratansinh Adesinh,37151,BJP,Manilal Devjibhai Patel,33626,3525,4.54
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,126,Thasra,GEN,,82150,JD,Parmar Ramsinh Prabhat Bhai,37241,INC,Rathod Bharatsinh Vajesinh,24709,12532,15.26
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,127,Umreth,GEN,,75475,JD,Shelat Subhashcnhandra Someshwar,35790,INC,Khambholja Hariharbhai Umiyashanker,24537,11253,14.91
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,128,Kathlal,GEN,,74375,JD,Thakor Dilipsinh Juwansinh,35809,INC,Zala Maganbhai Gokalbhai,24523,11286,15.17
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,129,Mehmedabad,GEN,,70875,JD,Chauhan Sundersinh Bhalabhai,37942,INC,Mahida Gambhirsinh Shivsinhjee,22207,15735,22.2
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,130,Mahudha,GEN,,77938,INC,Thakor Natwarsinh Fulsinh,31150,BJP,Kishorsinh Solanki,24379,6771,8.69
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,131,Nadiad,GEN,,87338,JD,Patel Dinsha Jhaverbhai,70016,INC,Desai Kirtibhai Satchndra,16088,53928,61.75
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,132,Chakalasi,GEN,,85782,INC,Vaghela Shankarbhai Desaibhai,49833,JD,Patel Vinubhai Nathabhai,31109,18724,21.83
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,133,Anand,GEN,,86568,JD,Patel Ghanshyambhai Ravjibhai,42480,INC,Solanki Ranchhodbhai Shanabhai,40736,1744,2.01
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,134,Sarsa,GEN,,70893,INC,Patel Jayantbhai Ramanbhai,28793,BJP,Patel Maheshbhai Viththalbhai,20060,8733,12.32
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,135,Petlad,GEN,,80060,JD,Niranjan Pursottamdas Patel,35512,INC,Chauhan Govindbhai Shankerbhai,24280,11232,14.03
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,136,Sojitra,SC,,69670,BJP,Parmar Janadanbhai Madhusudanbhai,33290,INC,Makwana Shantaben Yogendrakumar,31354,1936,2.78
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,137,Matar,GEN,,80952,JD,Chavda Dhirubhai Amarsinh,40645,INC,Parmar Mulrajsinh Madhavsinh,26498,14147,17.48
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,138,Borsad,GEN,,87527,INC,Solanki Madhavsinh Fulsinh,63011,BJP,Patel Jayantibhai Talsibhai,23172,39839,45.52
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,139,Bhadran,GEN,,93267,INC,Parmar Dhirsinh Chhatrasinh,59132,JD,Jadav Himmatsinh Khodsinh,33380,25752,27.61
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,140,Cambay,GEN,,66964,BJP,Khatri Jayendrakumar Bhagvandas,33604,IND,Chavda Jashwantsinh Dipsinh,14813,18791,28.06
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,141,Chhota Udaipur,ST,,55387,INC,Rathwa Sukhrambhai Hariaybhai,25946,JD,Rathwa Gulabbhai Bhai,23983,1963,3.54
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,142,Jetpur,GEN,,68754,JD,Mohansinh Rathwa,42556,INC,Rathwa Arjunsinh Revabhai,22304,20252,29.46
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,143,Nasvadi,ST,,54895,JD,Kanubhai Jivrambhai Vasava,34157,INC,Bhil Meghabhai Jagabhai,16033,18124,33.02
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,144,Sankheda,ST,,60940,JD,Tadvi Babarbhai Ambalal,31431,INC,Tadvi Bhaijibhai Bhanabhai,22137,9294,15.25
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,145,Dabhoi,GEN,,65353,IND,Umakant Joshi,35775,BJP,Patel Maheshbhai Manubhai,13107,22668,34.69
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,146,Savli,GEN,,75656,JD,Chauhan Khumansinh Raysinh,33597,INC,Parmar Prabhatsinh Jorsinh,32926,671,0.89
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,147,Baroda City,GEN,,93724,BJP,Nalin Bhatt,33796,INC,Bhikhabhai Muljibhai Rabari,29545,4251,4.54
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,148,Sayajiganj,GEN,,109084,JD,Jaspalsing,48999,INC,Anuj Lalitchandra Patel,41531,7468,6.85
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,149,Raopura,GEN,,74294,JD,Yogesh Patel,38078,INC,Thakor Rameshbhai Ramsinghbhai,17690,20388,27.44
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,150,Vaghodia,GEN,,67618,JD,Pradip Jayswal,16086,IND,Madhu Shrivastav,15451,635,0.94
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,151,Baroda Rural,GEN,,75556,JD,Gohil Mangaisinh Shankarbhai,43899,INC,Chauhan Himmarsinh Prabhatsinh,27575,16324,21.61
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,152,Padra,GEN,,83454,JD,Patel Narendrabhai Mahijibhai,35851,INC,Parmar Jitubhai Sombhai,29875,5976,7.16
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,153,Karjan,SC,,68141,JD,Dabhi Chandubhai Motibhai,47523,INC,Dabhi Bhailalbhai Kanjibhai,17047,30476,44.72
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,154,Jambusar,GEN,,79753,BJP,Mori Punjabhai Badharbhai,38453,INC,Maganbhai Bhukhanbhai Solanki,35256,3197,4.01
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,155,Vagra,GEN,,92768,BJP,Chauhan Vikram Singhji Ajitsinhji,44630,INC,Patel Mohmed Hafeji Ismail Bhai,43888,742,0.8
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,156,Broach,GEN,,80196,BJP,Shah Bipinchandra Ishwarlal,40131,INC,Patel Ishwarbhai Narottambhai,18236,21895,27.3
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,157,Ankleshwar,GEN,,74453,BJP,Patel Thakorbhai Gumanbhai,45496,INC,Patel Mohanbhai Becharbhai,22674,22822,30.65
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,158,Jhagadia,ST,,64979,JD,Vasava Chhotubhai Amarsangbhai,44489,INC,Vasava Chandubhai Maganbhai,9979,34510,53.11
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,159,Dediapada,ST,,57287,BJP,Vasava Motilal Puniyabhai,20606,JD,Vasava Sumanbhai Ramjibhai,18028,2578,4.5
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,160,Rajpipla,ST,,67955,JD,Arya Dhanjibhai Chhotabhai,21982,BJP,Vasava Mansukhbhai Dhanjibhai,20509,1473,2.17
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,161,Nijhar,ST,,55405,INC,Vasava Govindbhai Barkiabhai,30104,BJP,Padvi Subhashbhai Rotubhai,18424,11680,21.08
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,162,Mangrol,ST,,48400,JD,Vasava Kuwarjibhai Sonajibhai,24608,CPI(M),Chaudhari Ramanbhai Kansarbhai,11847,12761,26.37
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,163,Songadh,ST,,47874,JD,Vasava Nagarbhai Deviliabhai,27297,INC,Gamit Vasanjibhai Ganjibhai,13913,13384,27.96
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,164,Vyara,ST,,71004,IND,Chaudhary Amarsinh Zinabhai,34320,INC,Amarsingh Bhailabhai Chaudhary,32612,1708,2.41
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,165,Mahuva,ST,,68032,IND,Patel Mansinhbhai Kalyanjibhai,30325,INC,Vahia Ishverbhai Narsinhbhai,24250,6075,8.93
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,166,Bardoli,ST,,62844,JD,Rathod Pravinbhai Chhaganbhai,36726,INC,Halpati Jitubhai Chhitubhai,24062,12664,20.15
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,167,Kamrej,ST,,67722,INC,Rathod Dahiben Rambhai,34553,BJP,Rathod Pravinbhai Babubhai,32613,1940,2.86
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,168,Olpad,GEN,,88555,BJP,Patel Bhagubhai Gomanbhai (Vimal),42041,INC,Mahendra Patel,30661,11380,12.85
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,169,Surat City North,GEN,,61596,BJP,Kanubhai Mavani,45711,INC,Kheni Zinabhai P,11312,34399,55.85
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,170,Surat City East,GEN,,51326,BJP,Kapadia Madanlal K. Mohanlal,35104,DMM,Pardewala Mahmood Jeruddin,9109,25995,50.65
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,171,Surat City West,GEN,,89209,BJP,Chapatwala Hemantbhai Champaklal,58898,INC,Kadir Pirzada,28642,30256,33.92
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,172,Chorasi,GEN,,112457,YVP,Manubhai Dahyalbhai Patel,41701,JD,Shaikh Zamir Ahmed Azmi,32594,9107,8.1
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,173,Jalalpore,GEN,,71207,INC,Patel Chhaganbhai Devabhai,33111,IND,Patel Vasantbhai Parbhubhai,29111,4000,5.62
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,174,Navsari,ST,,67915,BJP,Patel Mangubhai Chhaganbhai,34118,INC,Talaviya Mohanbhai Ranchhodbhai,27774,6344,9.34
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,175,Gandevi,GEN,,76630,JD,Naik Thakorbhai Ballabbhai,28190,BJP,Karsanbhai Bhikhabhai Patel,27074,1116,1.46
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,176,Chikhli,ST,,73289,BJP,Kanjibhai Maganbhai Patel,39644,INC,Bhartiben Nardevbhai Patel,18576,21068,28.75
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,177,Dangs-Bansda,ST,,52887,JD,Bhoye Madhubhai Jelyabhai,26941,INC,Patel Chandarbhai Haribhai,18825,8116,15.35
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,178,Bulsar,GEN,,73541,BJP,Desai Dolatrai Nathubhai,35526,JD,Keshavbhai Ratanjibhai Patel,28990,6536,8.89
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,179,Dharampur,ST,,58705,BJP,Chaudhari Manibhai Ramjibhai,22576,JD,Raut Mdhubhai Bapubhai,16652,5924,10.09
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,180,Mota Pondha,ST,,52068,INC,Patel Barjulbhai Navlabhai,24858,JD,Patel Ramanlal Nagarji,18634,6224,11.95
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,181,Pardi,ST,,62960,INC,Patel Ramanlaldevabhai,22628,BJP,Patel Khalapabhai Chhaganbhai,21614,1014,1.61
+ae-gujarat-1990,AE,Gujarat,1990,1990,official,182,Umbergaon,ST,,67149,INC,Chhotubhai Vestabhai Patel,31822,JD,Patkar Ramanbhai Nanubhai,23735,8087,12.04

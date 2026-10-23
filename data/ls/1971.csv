@@ -1,0 +1,519 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ls-1971,LS,India,1971,1971,official,1,Andaman & Nicobar Islands,GEN,Andaman & Nicobar Islands,44525,INC,K .R. Ganesh,27373,IND,P. K. S. Prasad,10040,17333,38.93
+ls-1971,LS,India,1971,1971,official,2,Adilabad,GEN,Andhra Pradesh,288014,INC,P. Ganga Reddy,151482,TPS,K. V. Kishan Rao,136532,14950,5.19
+ls-1971,LS,India,1971,1971,official,3,Amalapuram,GEN,Andhra Pradesh,366997,INC,B. S. Murthy,301405,NCO,Penumala Gopalakrishna,43846,257559,70.18
+ls-1971,LS,India,1971,1971,official,4,Anakapalli,GEN,Andhra Pradesh,311610,INC,S. R. A. S. Appaluanidu,215209,SWA,V. V. Ramana,69115,146094,46.88
+ls-1971,LS,India,1971,1971,official,5,Anantapur,GEN,Andhra Pradesh,320204,INC,Antony Reddi Ponnapati,200701,NCO,Neelam Sanjeeva Reddy,111644,89057,27.81
+ls-1971,LS,India,1971,1971,official,6,Bhadrachalam,GEN,Andhra Pradesh,197066,INC,B. Radhabai Ananda Rao,115367,CPI,Nupa Bojji,47319,68048,34.53
+ls-1971,LS,India,1971,1971,official,7,Bobbili,GEN,Andhra Pradesh,263917,INC,Karri Narayana Rao,223043,SWA,Routhu Chandrasekhara Rao,40874,182169,69.03
+ls-1971,LS,India,1971,1971,official,8,Chittoor,GEN,Andhra Pradesh,361365,INC,P. Narasimha Reddy,245052,NCO,K. P. Chengalraya Naidu,116313,128739,35.63
+ls-1971,LS,India,1971,1971,official,9,Cuddapah,GEN,Andhra Pradesh,333068,CPI,Yieswara Reddy,200713,NCO,Vutukuru Rami Reddy,107099,93614,28.11
+ls-1971,LS,India,1971,1971,official,10,Eluru,GEN,Andhra Pradesh,355815,INC,Kommareddi Suryanarayana,235933,CPI,V. V. G. Tilak,60878,175055,49.2
+ls-1971,LS,India,1971,1971,official,11,Gudivada,GEN,Andhra Pradesh,393804,INC,Ankinedu Maganti,279225,SWA,H. R. Sayoji Ra,68791,210434,53.44
+ls-1971,LS,India,1971,1971,official,12,Guntur,GEN,Andhra Pradesh,416439,INC,Kotha Raghuramaiah,260086,BJS,Jupudi Yagna Narayana,69068,191018,45.87
+ls-1971,LS,India,1971,1971,official,13,Hindupur,GEN,Andhra Pradesh,284476,INC,P. Bayapa Reddy,198127,NCO,P. Ravindra Reddy,74117,124010,43.59
+ls-1971,LS,India,1971,1971,official,14,Hyderabad,GEN,Andhra Pradesh,235624,TPS,G. S. Melkote,134941,IND,Badr-Ud-Dintyabji,85529,49412,20.97
+ls-1971,LS,India,1971,1971,official,15,Kakinada,GEN,Andhra Pradesh,357923,INC,M. S. Sanjeevi Rao,313060,BJS,P. V. N. Raju,20134,292926,81.84
+ls-1971,LS,India,1971,1971,official,16,Karimnagar,GEN,Andhra Pradesh,253987,TPS,M. Satyanarayan Rao,119869,INC,V. Jalapathi Rao,109848,10021,3.95
+ls-1971,LS,India,1971,1971,official,17,Kavali,GEN,Andhra Pradesh,328563,INC,Puli Venkata Reddy,196492,NCO,Rebala Dasaratha Rama Reddy,65378,131114,39.91
+ls-1971,LS,India,1971,1971,official,18,Khammam,GEN,Andhra Pradesh,373103,INC,T. Lakshmi Kantamma,137830,TPS,Chekuri Kasaiah,121369,16461,4.41
+ls-1971,LS,India,1971,1971,official,19,Kurnool,GEN,Andhra Pradesh,310626,INC,Kodanda Rami Reddy,270697,SWA,Y. Gadiingana Gowdu,29344,241353,77.7
+ls-1971,LS,India,1971,1971,official,20,Machilipatnam,GEN,Andhra Pradesh,369425,INC,Meduri Nageswarrao,278514,SWA,Venkataswamy Mandala,73640,204874,55.46
+ls-1971,LS,India,1971,1971,official,21,Mahabubnagar,GEN,Andhra Pradesh,264624,TPS,J. Rameshwar Rao,127949,INC,D. K. Satya Reddy,110459,17490,6.61
+ls-1971,LS,India,1971,1971,official,22,Medak,GEN,Andhra Pradesh,260974,TPS,Mallikarjun,152975,INC,Narsimha Reddy,99544,53431,20.47
+ls-1971,LS,India,1971,1971,official,23,Miryalguda,GEN,Andhra Pradesh,331199,CPI(M),Bhimreddy Narsimha Reddy,115199,TPS,Keesara Jithender Reddy,107515,7684,2.32
+ls-1971,LS,India,1971,1971,official,24,Nagarkurnool,GEN,Andhra Pradesh,265064,TPS,M. Bheeshmadev,149781,INC,P. Mahendranath,104381,45400,17.13
+ls-1971,LS,India,1971,1971,official,25,Nalgonda,GEN,Andhra Pradesh,314400,TPS,Kancherla Ram Krishna Reddy,111704,INC,Vedire Narsimha Reddy,106306,5398,1.72
+ls-1971,LS,India,1971,1971,official,26,Nandyal,GEN,Andhra Pradesh,341077,INC,Rendekanti Venkata Subbaiah,225740,NCO,Kanala Anki Reddy,95284,130456,38.25
+ls-1971,LS,India,1971,1971,official,27,Narasapur,GEN,Andhra Pradesh,393058,INC,M. T. Raju,285356,CPI(M),Uddaraju Raman,92601,192755,49.04
+ls-1971,LS,India,1971,1971,official,28,Narasaraopet,GEN,Andhra Pradesh,365920,INC,Maddi Sudarsanam,237264,IND,Yeeram China Narasimharao,106413,130851,35.76
+ls-1971,LS,India,1971,1971,official,29,Nellore,GEN,Andhra Pradesh,356071,INC,Doddav Arapukamakshiah,235658,BJS,Bangapulakshman,61724,173934,48.85
+ls-1971,LS,India,1971,1971,official,30,Nizamabad,GEN,Andhra Pradesh,300276,INC,Ram Gopal Reddy M,155323,TPS,Ananth Reddy K,95586,59737,19.89
+ls-1971,LS,India,1971,1971,official,31,Ongole,GEN,Andhra Pradesh,401483,INC,P. Ankineedu Prasada Rao,284597,SWA,Gogineni Bharati Devi,104703,179894,44.81
+ls-1971,LS,India,1971,1971,official,32,Parvathipuram,GEN,Andhra Pradesh,258699,INC,Biddika Satyannarayana,190975,SWA,Narasimharo Viswasarai,38847,152128,58.81
+ls-1971,LS,India,1971,1971,official,33,Peddapalli,GEN,Andhra Pradesh,248372,TPS,V. Tulasiram,165054,INC,M. R. Krishna,56323,108731,43.78
+ls-1971,LS,India,1971,1971,official,34,Rajahmundry,GEN,Andhra Pradesh,387240,INC,S. B. P. Pattabhi Ramarao,250124,CPI,Prabhakara Chowdary Chitturi,53642,196482,50.74
+ls-1971,LS,India,1971,1971,official,35,Rajampet,GEN,Andhra Pradesh,333833,INC,Parthasarathi Pothuraju,243603,NCO,Yesoda Reddy,65735,177868,53.28
+ls-1971,LS,India,1971,1971,official,36,Secunderabad,GEN,Andhra Pradesh,216812,TPS,M. M. Hashim,98620,INC,K. L. Narayan,74977,23643,10.9
+ls-1971,LS,India,1971,1971,official,37,Siddipet,GEN,Andhra Pradesh,260358,TPS,G. Venkat Swamy,169436,CPI,A. R. Devraj,79851,89585,34.41
+ls-1971,LS,India,1971,1971,official,38,Srikakulam,GEN,Andhra Pradesh,335617,INC,Rajagopalarao Bodepalli,233171,SWA,N. G. Ranga,95710,137461,40.96
+ls-1971,LS,India,1971,1971,official,39,Tirupati,GEN,Andhra Pradesh,308015,INC,Balakrishnaiah Thamburu,231262,SWA,C. V. Siddaiahmurthy,76753,154509,50.16
+ls-1971,LS,India,1971,1971,official,40,Vijayawada,GEN,Andhra Pradesh,360503,INC,K. L. Rao,251917,CPI,D. Nagabhushana Rao,95913,156004,43.27
+ls-1971,LS,India,1971,1971,official,41,Visakhapatnam,GEN,Andhra Pradesh,320085,IND,P. V. G. Raju,184464,,Tenneti Viswanatham,,184464,57.63
+ls-1971,LS,India,1971,1971,official,42,Warangal,GEN,Andhra Pradesh,327677,TPS,S. B. Giri,182258,INC,K. Sudarsana Reddy,88618,93640,28.58
+ls-1971,LS,India,1971,1971,official,43,Autonomous District,GEN,Assam,177140,AHL,G. G. Swell,90772,IND,Hopingstone Lyngdoh,59228,31544,17.81
+ls-1971,LS,India,1971,1971,official,44,Barpeta,GEN,Assam,289618,INC,Fakhruddin Ali Ahmed,210662,BJS,Khanindra Chandra Barua,74542,136120,47.0
+ls-1971,LS,India,1971,1971,official,45,Cachar,GEN,Assam,199438,INC,Jyotsna Chanda,100798,IND,A. F. Golam Osmani,37794,63004,31.59
+ls-1971,LS,India,1971,1971,official,46,Dhubri,GEN,Assam,260763,INC,Moinul Haque Chowdhury,180226,PSP,Jahan Uddin Ahmed,30478,149748,57.43
+ls-1971,LS,India,1971,1971,official,47,Dibrugarh,GEN,Assam,197306,INC,Robindra Nath Kakoty,115921,CPI,Barin Chowdhury,24913,91008,46.13
+ls-1971,LS,India,1971,1971,official,48,Gauhati,GEN,Assam,221191,INC,Dinesh Chandra Goswami,140483,CPI,Dhireswar Kalita,44482,96001,43.4
+ls-1971,LS,India,1971,1971,official,49,Jorhat,GEN,Assam,186023,INC,Tarun Gogoi,102820,RCI,Khogen Bar Baruah,31810,71010,38.17
+ls-1971,LS,India,1971,1971,official,50,Kaliabor,GEN,Assam,195099,INC,Bedabrata Barua,128268,CPI,Jadu Nath Saikia,27580,100688,51.61
+ls-1971,LS,India,1971,1971,official,51,Karimganj,GEN,Assam,203558,INC,Nihar Ranjan Laskar,149328,CPI(M),Harinarayan Rabidas,27582,121746,59.81
+ls-1971,LS,India,1971,1971,official,52,Kokrajhar,GEN,Assam,258998,INC,Dharanidhar Basumatary,150987,IND,Samar Brahma Choudhury,93301,57686,22.27
+ls-1971,LS,India,1971,1971,official,53,Lakhimpur,GEN,Assam,208553,INC,Biswanarayan Shastri,89070,IND,Khagendra Nath Saikia,45358,43712,20.96
+ls-1971,LS,India,1971,1971,official,54,Mangaldoi,GEN,Assam,181544,INC,Dharani Dhar Das,90058,PSP,Hem Barua,50485,39573,21.8
+ls-1971,LS,India,1971,1971,official,55,Nowgong,GEN,Assam,227522,INC,Liladhar Kotoki,132209,CPI,Phani Bora,49392,82817,36.4
+ls-1971,LS,India,1971,1971,official,56,Tezpur,GEN,Assam,219787,INC,Kamala Prasad Agarwala,133673,IND,Francis Hans,36223,97450,44.34
+ls-1971,LS,India,1971,1971,official,57,Araria,GEN,Bihar,201554,INC,Tul Mohan Ram,134162,NCO,Dumar Lal Baitha,50977,83185,41.27
+ls-1971,LS,India,1971,1971,official,58,Aurangabad,GEN,Bihar,353902,NCO,Satyendra Narayan Sinha,216647,INC,Mudrika Sinha,125548,91099,25.74
+ls-1971,LS,India,1971,1971,official,59,Bagaha,GEN,Bihar,196690,INC,Bhola Raut,139634,BJS,Kanchanbaitha,47995,91639,46.59
+ls-1971,LS,India,1971,1971,official,60,Banka,GEN,Bihar,268529,INC,Shiv Chandika Prasad,80017,CPI,Vasudeo Yadav,68942,11075,4.12
+ls-1971,LS,India,1971,1971,official,61,Barh,GEN,Bihar,383527,INC,Dharamvir Singh,184484,NCO,Tarkeshwari Sinha,153044,31440,8.2
+ls-1971,LS,India,1971,1971,official,62,Begusarai,GEN,Bihar,350598,NCO,Shyamnandan Mishra,134836,CPI,Yogendra Sharma,129374,5462,1.56
+ls-1971,LS,India,1971,1971,official,63,Bettiah,GEN,Bihar,200763,INC,Kamal Nath Tiwari,145965,IND,Ranvijai Sahi,35588,110377,54.98
+ls-1971,LS,India,1971,1971,official,64,Bhagalpur,GEN,Bihar,313210,INC,Bhagwat Jha Azad,146881,CPI,Rameshwar Nath Tewari,85842,61039,19.49
+ls-1971,LS,India,1971,1971,official,65,Bikramganj,GEN,Bihar,338893,INC,Sheo Pujan Singh,188414,BJS,Kumar Balawant Singh,93368,95046,28.05
+ls-1971,LS,India,1971,1971,official,66,Buxar,GEN,Bihar,286063,INC,Anant Prasad Sharma,112541,NCO,Ram Subhag Singh,82477,30064,10.51
+ls-1971,LS,India,1971,1971,official,67,Chapra,GEN,Bihar,306889,INC,Ram Shekhar Prasad Singh,129134,BKD,Satyadeo Singh,89964,39170,12.76
+ls-1971,LS,India,1971,1971,official,68,Chatra,GEN,Bihar,156765,INC,Shankar Dyal Singh,67786,JAP,Vijay Raje,57705,10081,6.43
+ls-1971,LS,India,1971,1971,official,69,Darbhanga,GEN,Bihar,379320,INC,Vinoda Nand Jha,130263,BJS,Surendra Jha Suman,73117,57146,15.07
+ls-1971,LS,India,1971,1971,official,70,Dhanbad,GEN,Bihar,231189,INC,Ram Narain Sharma,107308,CPI(M),Vinod Vihari Mahto,36385,70923,30.68
+ls-1971,LS,India,1971,1971,official,71,Dumka,GEN,Bihar,160670,INC,Satya Charan Besra,56888,CPI,Satrughan Besra,46804,10084,6.28
+ls-1971,LS,India,1971,1971,official,72,Gaya,GEN,Bihar,247558,BJS,Ishwar Choudhary,111038,INC,Suresh Kumar,103939,7099,2.87
+ls-1971,LS,India,1971,1971,official,73,Giridih,GEN,Bihar,175164,INC,Chapalendu Bhattacharyya,67046,NCO,Krishna Ballabh Sahay,62892,4154,2.37
+ls-1971,LS,India,1971,1971,official,74,Godda,GEN,Bihar,192169,INC,Jagdish N. Mandal,91549,NCO,Prabhudayal Himat Singhka,43408,48141,25.05
+ls-1971,LS,India,1971,1971,official,75,Gopalganj,GEN,Bihar,310197,INC,Dwarika Nath Tiwary,191101,SSP,Sabha Pati Singh,110555,80546,25.97
+ls-1971,LS,India,1971,1971,official,76,Hajipur,GEN,Bihar,398371,NCO,Digvijay Narain Singh,142771,INC,Valmiki Chaudhary,135687,7084,1.78
+ls-1971,LS,India,1971,1971,official,77,Hazaribagh,GEN,Bihar,173136,INC,Damodar Pandey,56831,JAP,Lalita Rajya Lakshmi,45843,10988,6.35
+ls-1971,LS,India,1971,1971,official,78,Jahanabad,GEN,Bihar,388073,CPI,Chandra Shekhar Sinha,163733,BJS,Vivekanand Sharma,141315,22418,5.78
+ls-1971,LS,India,1971,1971,official,79,Jainagar,GEN,Bihar,340491,CPI,Bhogendra Jha,119333,INC,Mahendra Narain Jha,88403,30930,9.08
+ls-1971,LS,India,1971,1971,official,80,Jamshedpur,GEN,Bihar,174641,INC,Sardar Swaran Singh,48073,CPI,Kedar Das,47867,206,0.12
+ls-1971,LS,India,1971,1971,official,81,Jamui,GEN,Bihar,333686,CPI,Bhola Manjhi,162266,NCO,Nayan Tara Das,121137,41129,12.33
+ls-1971,LS,India,1971,1971,official,82,Katihar,GEN,Bihar,275063,BJS,Gyaneshwar Prasad Yadav,96422,INC,Sita Ram Keshri,83533,12889,4.69
+ls-1971,LS,India,1971,1971,official,83,Kesaria,GEN,Bihar,243666,CPI,Kamla Mishra Madhukar,127338,NCO,Basudeo Narain Singh,77051,50287,20.64
+ls-1971,LS,India,1971,1971,official,84,Khagaria,GEN,Bihar,346362,SSP,Shivshankar Prasad Yadav,73594,INC,Sumitra Devi,73046,548,0.16
+ls-1971,LS,India,1971,1971,official,85,Khunti,GEN,Bihar,165380,IND,Nirel Enem Horo,50489,BJS,Kadia Munda,47675,2814,1.7
+ls-1971,LS,India,1971,1971,official,86,Kishanganj,GEN,Bihar,209499,INC,Jamilur Rahman,122619,BJS,Bal Krishna Jha,41705,80914,38.62
+ls-1971,LS,India,1971,1971,official,87,Lohardaga,GEN,Bihar,190411,INC,Kartik Oraon,102376,BJS,Ropna Oraon,35890,66486,34.92
+ls-1971,LS,India,1971,1971,official,88,Madhepura,GEN,Bihar,316462,INC,Rajendra Prasad Yadav,146232,SHD,Bindeshwari Pd. Mandal,118323,27909,8.82
+ls-1971,LS,India,1971,1971,official,89,Madhubani,GEN,Bihar,354091,INC,Jagannath Mishra,196735,SSP,Vinayak Pd. Yadav,108834,87901,24.82
+ls-1971,LS,India,1971,1971,official,90,Maharajganj,GEN,Bihar,292007,SSP,Ramdeo Singh,98386,CPI,Indra Deep Singh,97378,1008,0.35
+ls-1971,LS,India,1971,1971,official,91,Monghyr,GEN,Bihar,381100,INC,Deonandan Prasad Yadav,150482,SSP,Madhu Limye,124806,25676,6.74
+ls-1971,LS,India,1971,1971,official,92,Motihari,GEN,Bihar,228806,INC,Bibhuti Mishra,155863,BJS,Harishanker Sharma,25957,129906,56.78
+ls-1971,LS,India,1971,1971,official,93,Muzaffarpur,GEN,Bihar,405050,INC,Nawal Kishore Sinha,245007,NCO,Mahesh Prasad Singh,156433,88574,21.87
+ls-1971,LS,India,1971,1971,official,94,Nalanda,GEN,Bihar,385637,INC,Sedheshwar Prasad,223398,BJS,Shyam Sunder Prasad,93698,129700,33.63
+ls-1971,LS,India,1971,1971,official,95,Nawada,GEN,Bihar,393906,INC,Sukhdeo Prasad Verma,152569,IND,Mahanth Surya Prakash Narayan Puri,99288,53281,13.53
+ls-1971,LS,India,1971,1971,official,96,Palamu,GEN,Bihar,166533,INC,Kamla Kumari,85371,BJS,Ramdeo Ram,51148,34223,20.55
+ls-1971,LS,India,1971,1971,official,97,Patna,GEN,Bihar,378108,CPI,Ramavatar Shastri,191911,BJS,Kailash Pati Mishra,114485,77426,20.48
+ls-1971,LS,India,1971,1971,official,98,Pupri,GEN,Bihar,406683,INC,Hari Kishore Singh,219521,BJS,Tapeshwar Rai,134488,85033,20.91
+ls-1971,LS,India,1971,1971,official,99,Purnea,GEN,Bihar,205478,INC,Mohammad Tahir,56977,CPI,Z. A. Ahmad,36813,20164,9.81
+ls-1971,LS,India,1971,1971,official,100,Rajmahal,GEN,Bihar,124991,INC,Iswar Marandi,55958,PHJ,Justin Richard,37193,18765,15.01
+ls-1971,LS,India,1971,1971,official,101,Ranchi,GEN,Bihar,183503,INC,Prashant Kumar Ghosh,79497,BJS,Rudra Pratap Sarangi,63077,16420,8.95
+ls-1971,LS,India,1971,1971,official,102,Rosera,GEN,Bihar,242429,INC,Ram Bhagat Paswan,103429,SSP,Ramsewak Hazari,71722,31707,13.08
+ls-1971,LS,India,1971,1971,official,103,Saharsa,GEN,Bihar,320563,INC,Chiranjib Jha,156166,SSP,Gunanand Thakur,79828,76338,23.81
+ls-1971,LS,India,1971,1971,official,104,Samastipur,GEN,Bihar,339464,INC,Yamuna Prasad Mandal,166827,BJS,Valmiki Prasad Singh,91111,75716,22.3
+ls-1971,LS,India,1971,1971,official,105,Sasaram,GEN,Bihar,314291,INC,Jag Jiwan Ram,210353,NCO,Mahabir Pasawan,88153,122200,38.88
+ls-1971,LS,India,1971,1971,official,106,Shahabad,GEN,Bihar,355988,INC,Bali Ram Bhagat,193396,NCO,Tapeshwar Singh,121953,71443,20.07
+ls-1971,LS,India,1971,1971,official,107,Singhbhum,GEN,Bihar,80919,JKP,Moran Singh Purty,32935,IND,Devendra Nath Champia,20596,12339,15.25
+ls-1971,LS,India,1971,1971,official,108,Sitamarhi,GEN,Bihar,420977,INC,Nagendra Prasad Yadav,217416,SSP,Thakur Jugal Kishore Singh,188691,28725,6.82
+ls-1971,LS,India,1971,1971,official,109,Siwan,GEN,Bihar,306005,INC,Mohamad Yusuf,159794,BJS,Janardan Tiwari,132573,27221,8.9
+ls-1971,LS,India,1971,1971,official,110,Chandigarh,GEN,Chandigarh,72302,INC,Amar Nath Vidyalankar,48335,BJS,Shri Chand Goyal,16854,31481,43.54
+ls-1971,LS,India,1971,1971,official,111,Dadra & Nagar Haveli,GEN,Dadra & Nagar Haveli,21658,INC,Ramubhai Ravjibhai Patel,8484,NCO,Samjibhai Rupjibhai Delkar,7138,1346,6.21
+ls-1971,LS,India,1971,1971,official,112,Chandni Chowk,GEN,Delhi,138600,INC,Subhadra Joshi,88907,BJS,Ram Gopal Shalwale,43684,45223,32.63
+ls-1971,LS,India,1971,1971,official,113,Delhi Sadar,GEN,Delhi,156907,INC,Amar Nath Chawla,98108,BJS,Kanwar Lal Gupta,55305,42803,27.28
+ls-1971,LS,India,1971,1971,official,114,East Delhi,GEN,Delhi,228685,INC,H. K. L. Bhagat,146632,BJS,Hardyal Devgun,72382,74250,32.47
+ls-1971,LS,India,1971,1971,official,115,Karol Bagh,GEN,Delhi,161358,INC,Sohan Lal,109531,BJS,Ram Sarup Vidyarthi,48351,61180,37.92
+ls-1971,LS,India,1971,1971,official,116,New Delhi,GEN,Delhi,127165,INC,Mukul Banerji,81867,BJS,M. L. Sondhi,37334,44533,35.02
+ls-1971,LS,India,1971,1971,official,117,Outer Delhi,GEN,Delhi,215208,INC,Dalip Singh,142222,BJS,Mir Singh,29920,112302,52.18
+ls-1971,LS,India,1971,1971,official,118,South Delhi,GEN,Delhi,269961,INC,Shashi Bhushan,168406,BJS,Balraj Madhok,96816,71590,26.52
+ls-1971,LS,India,1971,1971,official,119,Marmagoa,GEN,"Goa, Daman & Diu",116473,UGS,Sequeira Erasmo De Jesus Jack,58401,IND,Da Costa Roque Redualdo Antonio,44156,14245,12.23
+ls-1971,LS,India,1971,1971,official,120,Panaji,GEN,"Goa, Daman & Diu",119432,INC,Kakodkar Purshottam,57627,MAG,Shenvi Talauliker Madhav Upendra,54597,3030,2.54
+ls-1971,LS,India,1971,1971,official,121,Ahmedabad,GEN,Gujarat,336157,INC,Indulal Kanaiyalal Yagnik,193834,NCO,Jaykrishna Harivallabhdas,137374,56460,16.8
+ls-1971,LS,India,1971,1971,official,122,Amreli,GEN,Gujarat,222996,INC,Jivraj Narayan Mehta,124893,NCO,Narsinhdas Gordhandas Gondhiya,86075,38818,17.41
+ls-1971,LS,India,1971,1971,official,123,Anand,GEN,Gujarat,302516,NCO,Pravinsinhji Natvarsinhji Solanki,168586,INC,Narendrasinhji Ranjitsinjhi Mahida,124982,43604,14.41
+ls-1971,LS,India,1971,1971,official,124,Banaskantha,GEN,Gujarat,220560,INC,Popatlal M. Joshi,116352,NCO,S. K. Patil,92945,23407,10.61
+ls-1971,LS,India,1971,1971,official,125,Bhavnagar,GEN,Gujarat,209706,NCO,Prasanwvadan Manilal Mehta,102173,INC,Jashvant Mehta,83195,18978,9.05
+ls-1971,LS,India,1971,1971,official,126,Broach,GEN,Gujarat,288419,INC,T. S. Mansinhji Bhasahes,159217,NCO,Gulam Mohmed Suleman Matadar,106085,53132,18.42
+ls-1971,LS,India,1971,1971,official,127,Bulsar,GEN,Gujarat,243137,NCO,Nanubhai Nichhabhai Patel,144694,INC,Gamanbhai Vajirbhai Patel,86561,58133,23.91
+ls-1971,LS,India,1971,1971,official,128,Dabhoi,GEN,Gujarat,302526,INC,Prabhudas Khushalbhai Patel,163779,NCO,Manubhai Motibhai Patel,134104,29675,9.81
+ls-1971,LS,India,1971,1971,official,129,Dhandhuka,GEN,Gujarat,237511,SWA,H. M. Patel,94127,INC,Vadilal Lallubhai,83136,10991,4.63
+ls-1971,LS,India,1971,1971,official,130,Dohad,GEN,Gujarat,163462,NCO,Bhaljibhai Ravjibhai Parmar,95186,INC,Somjibhai Punjabhai Damor,68276,26910,16.46
+ls-1971,LS,India,1971,1971,official,131,Gandhinagar,GEN,Gujarat,292810,NCO,Somchandbhai Manubhai Solanki,139417,INC,Narsinhbhai Karsanbhai Makwana,135915,3502,1.2
+ls-1971,LS,India,1971,1971,official,132,Godhra,GEN,Gujarat,194897,SWA,Piloo Homi Mody,104396,INC,Pratapsinh Hirabhai Patel,90501,13895,7.13
+ls-1971,LS,India,1971,1971,official,133,Jamnagar,GEN,Gujarat,213541,INC,Daulatsinhji Pratapsnji Jadeja,145277,SWA,Jagubhai Doahi,61333,83944,39.31
+ls-1971,LS,India,1971,1971,official,134,Junagadh,GEN,Gujarat,198856,INC,Nanjibhai Ravjibhai Vekaria,107471,NCO,Virendrakumar Shah,52941,54530,27.42
+ls-1971,LS,India,1971,1971,official,135,Kaira,GEN,Gujarat,295323,NCO,Dharmasinh Dadubhai Desai,159195,INC,Ajitsinh Fulsinhji Dabhi,124744,34451,11.67
+ls-1971,LS,India,1971,1971,official,136,Kutch,GEN,Gujarat,209830,INC,Mahipatray M. Mehta,104286,NCO,Yuvraj Prithviraj Sinhji Madansinhji,102307,1979,0.94
+ls-1971,LS,India,1971,1971,official,137,Mandvi,GEN,Gujarat,257319,INC,Amarsinhbhai Zinabhai Chaudhari,127746,NCO,Chhaganbhai Madaribhai Kedaria,116173,11573,4.5
+ls-1971,LS,India,1971,1971,official,138,Mehsana,GEN,Gujarat,324395,NCO,Natwarlal Amrutlal Patel,181057,INC,Sankalchandbhai Kalidas Patel,83743,97314,30.0
+ls-1971,LS,India,1971,1971,official,139,Patan,GEN,Gujarat,248799,NCO,Khemchanbhai Somabhai Chavda,138470,INC,Dahyabhai Ramjibhai Parmar,84988,53482,21.5
+ls-1971,LS,India,1971,1971,official,140,Rajkot,GEN,Gujarat,228653,INC,Ghanshyambhai Oza,142481,SWA,Minoo Masani,75002,67479,29.51
+ls-1971,LS,India,1971,1971,official,141,Sabarkantha,GEN,Gujarat,271304,NCO,Chandulal Chunilal Desai,137159,INC,Gopaldas Benidas Patel,122781,14378,5.3
+ls-1971,LS,India,1971,1971,official,142,Surat,GEN,Gujarat,318788,NCO,Morarji Ranchhodji Desai,170321,INC,Gordhandas Ranchhoddas Chokhawala,138797,31524,9.89
+ls-1971,LS,India,1971,1971,official,143,Surendranagar,GEN,Gujarat,278789,INC,Rasiklal Parikh,136566,IND,Shriraj Meghrajji,127875,8691,3.12
+ls-1971,LS,India,1971,1971,official,144,Vadodara,GEN,Gujarat,269744,NCO,Fatesinhrao Pratap Sinhrao,169382,PSP,Sanatkumar Maganlal Mehta,97418,71964,26.68
+ls-1971,LS,India,1971,1971,official,145,Ambala,GEN,Haryana,287719,INC,Ram Prakash,196709,BJS,Suraj Bhan,74433,122276,42.5
+ls-1971,LS,India,1971,1971,official,146,Gurgaon,GEN,Haryana,387206,INC,Tayyab Hussain,199333,IND,K. Narendra,131391,67942,17.55
+ls-1971,LS,India,1971,1971,official,147,Hissar,GEN,Haryana,315311,INC,Mani Ram Godara,170204,SSP,Mani Ram Bagri,86510,83694,26.54
+ls-1971,LS,India,1971,1971,official,148,Jhajjar,GEN,Haryana,362654,INC,Sher Singh,189860,NCO,Rizaq Ram,143245,46615,12.85
+ls-1971,LS,India,1971,1971,official,149,Kaithal,GEN,Haryana,342698,INC,Gulzari Lal Nanda,155000,NCO,Inder Singh,129462,25538,7.45
+ls-1971,LS,India,1971,1971,official,150,Karnal,GEN,Haryana,316780,INC,Madho Ram,152249,BJS,Rameshwara Nand,116988,35261,11.13
+ls-1971,LS,India,1971,1971,official,151,Mahendragarh,GEN,Haryana,340031,VHP,Birender Singh,159125,INC,Nihal Singh,157226,1899,0.56
+ls-1971,LS,India,1971,1971,official,152,Rohtak,GEN,Haryana,322537,BJS,Mukhtiar Singh,143409,INC,Randhir Singh,138738,4671,1.45
+ls-1971,LS,India,1971,1971,official,153,Sirsa,GEN,Haryana,317602,INC,Dalbir Singh,213610,VHP,Jagan Nath,91987,121623,38.29
+ls-1971,LS,India,1971,1971,official,154,Hamirpur,GEN,Himachal Pradesh,197189,INC,Narain Chand,153937,BJS,Jagdev Chand,32154,121783,61.76
+ls-1971,LS,India,1971,1971,official,155,Kangra,GEN,Himachal Pradesh,168680,INC,Vikram Chand,111276,BJS,Sarwan Kumar,40388,70888,42.03
+ls-1971,LS,India,1971,1971,official,156,Mandi,GEN,Himachal Pradesh,159764,INC,Virbhadra Singh,114957,LRP,Mandhar Lal,25780,89177,55.82
+ls-1971,LS,India,1971,1971,official,157,Shimla,GEN,Himachal Pradesh,156429,INC,Partap Singh,136789,NCO,Rup Singh Phul,9238,127551,81.54
+ls-1971,LS,India,1971,1971,official,158,Anantnag,GEN,Jammu & Kashmir,250148,INC,Mohmad Shaffi Qureshi,150827,IND,Peep Gulam Nabi Shah,90434,60393,24.14
+ls-1971,LS,India,1971,1971,official,159,Baramulla,GEN,Jammu & Kashmir,182378,INC,Syed Ahmad Aga,93041,IND,Syed Ali Shah Gilani,78543,14498,7.95
+ls-1971,LS,India,1971,1971,official,160,Jammu,GEN,Jammu & Kashmir,281511,INC,Inderjit Malhotra,169009,BJS,Abdul Rehman,84213,84796,30.12
+ls-1971,LS,India,1971,1971,official,161,Ladakh,GEN,Jammu & Kashmir,37509,INC,Kushok Bakula,20783,IND,Sonam Wahgdus,16726,4057,10.82
+ls-1971,LS,India,1971,1971,official,162,Srinagar,GEN,Jammu & Kashmir,208723,IND,Shamim Ahmad Shamim,128948,INC,Bakhshi Gulam Mohd,71140,57808,27.7
+ls-1971,LS,India,1971,1971,official,163,Udhampur,GEN,Jammu & Kashmir,206477,INC,Karan Singh,125890,BJS,Baldev Singh,53303,72587,35.16
+ls-1971,LS,India,1971,1971,official,164,Adoor,GEN,Kerala,310477,CPI,K. Bhargavi,202569,CPI(M),P. K. Kunjachan,93672,108897,35.07
+ls-1971,LS,India,1971,1971,official,165,Ambalapuzha,GEN,Kerala,405239,RSP,K. Balakrishnan,213487,CPI(M),Suseela Gopalan,187569,25918,6.4
+ls-1971,LS,India,1971,1971,official,166,Badagara,GEN,Kerala,376203,INC,K. P. Unnikrishnan,198939,IND,A. V. Raghavan,141135,57804,15.37
+ls-1971,LS,India,1971,1971,official,167,Chirayinkil,GEN,Kerala,317053,INC,Vayalar Ravi,182431,CPI(M),V. Radhakrishnan,133159,49272,15.54
+ls-1971,LS,India,1971,1971,official,168,Ernakulam,GEN,Kerala,379497,INC,Henry Austin,190602,CPI(M),V. Viswanatha Menon,167932,22670,5.97
+ls-1971,LS,India,1971,1971,official,169,Kasaragod,GEN,Kerala,412062,INC,Ramachandran Kadannappalli,189486,CPI(M),E. K. Nayanar,161082,28404,6.89
+ls-1971,LS,India,1971,1971,official,170,Kollam,GEN,Kerala,312078,RSP,N. Sreekantan Nair,206309,IND,G. Janardhana Kurup,93925,112384,36.01
+ls-1971,LS,India,1971,1971,official,171,Kottayam,GEN,Kerala,328170,KEC,Varkey George,167793,IND,R. Ramachandran Nair,141778,26015,7.93
+ls-1971,LS,India,1971,1971,official,172,Kozhikode,GEN,Kerala,363094,IUML,Ibrahim Sulaiman Sait,195206,IND,Palat Kunni Koya,123130,72076,19.85
+ls-1971,LS,India,1971,1971,official,173,Manjeri,GEN,Kerala,253690,IUML,Muhammad Ismail Sahib,171496,IND,S. P. Muhammed Ali,51659,119837,47.24
+ls-1971,LS,India,1971,1971,official,174,Mavelikara,GEN,Kerala,378862,KEC,R. Balakrishna Pillai,212210,CPI(M),S. Ramachandran Pillai,156683,55527,14.66
+ls-1971,LS,India,1971,1971,official,175,Mukundapuram,GEN,Kerala,371286,INC,A. C. George,215636,CPI(M),C. O. Paul,143026,72610,19.56
+ls-1971,LS,India,1971,1971,official,176,Muvattupuzha,GEN,Kerala,318351,INC,C. M. Stephen,178244,IND,George Joseph (Mundakal Baby),140107,38137,11.98
+ls-1971,LS,India,1971,1971,official,177,Palakkad,GEN,Kerala,334513,CPI(M),A. K. Gopalan,191089,IND,T. C. Govindan,138823,52266,15.62
+ls-1971,LS,India,1971,1971,official,178,Peermade,GEN,Kerala,267826,KEC,M. M. Joseph,162428,IND,V. I. Thomas (Thampi),87804,74624,27.86
+ls-1971,LS,India,1971,1971,official,179,Ponnani,GEN,Kerala,297537,CPI(M),M. K. Krishnan,146186,INC,K. Kunhambu,134263,11923,4.01
+ls-1971,LS,India,1971,1971,official,180,Tellicherry,GEN,Kerala,397743,CPI,C. K. Chandrappan,204483,CPI(M),Pattiam Gopalan,164659,39824,10.01
+ls-1971,LS,India,1971,1971,official,181,Thiruvananthapuram,GEN,Kerala,316793,IND,V. K. Krishna Menon,167872,PSP,D. Damodaran Potti,143745,24127,7.62
+ls-1971,LS,India,1971,1971,official,182,Thrissur,GEN,Kerala,388389,CPI,C. Janardhanan,186709,CPI(M),K. P. Aravindakshan,166385,20324,5.23
+ls-1971,LS,India,1971,1971,official,183,Lakshadweep,GEN,Lakshadweep,0,INC,Sadanatha Mohammed Sayeed,0,,,,0,
+ls-1971,LS,India,1971,1971,official,184,Balaghat,GEN,Madhya Pradesh,216434,INC,Chintaman Rao Gautam,128111,IND,Ramcharan Bhanwarre,40741,87370,40.37
+ls-1971,LS,India,1971,1971,official,185,Bastar,GEN,Madhya Pradesh,200216,IND,Lambodar Baliyar,42207,BJS,Piluram Kriparam,28252,13955,6.97
+ls-1971,LS,India,1971,1971,official,186,Betul,GEN,Madhya Pradesh,219745,INC,Narendra Kuma Salve,143918,BJS,Vasant Kumar Pandit,75827,68091,30.99
+ls-1971,LS,India,1971,1971,official,187,Bhind,GEN,Madhya Pradesh,351178,BJS,Vijaya Raje Scindia,213771,INC,Narsinghrao Dixit,122533,91238,25.98
+ls-1971,LS,India,1971,1971,official,188,Bhopal,GEN,Madhya Pradesh,312141,INC,Shankar Dayal Sharma Khushilal Vaidya,158805,BJS,Bhanu Prakash Singh,127393,31412,10.06
+ls-1971,LS,India,1971,1971,official,189,Bilaspur,GEN,Madhya Pradesh,210342,INC,Ramgopal Tiwari,92928,BJS,Manharanlal Pandey,84618,8310,3.95
+ls-1971,LS,India,1971,1971,official,190,Chhindwara,GEN,Madhya Pradesh,197209,INC,Gargishanker Ramkrishna,103847,BJS,Gupta Purushottamdas,85613,18234,9.25
+ls-1971,LS,India,1971,1971,official,191,Damoh,GEN,Madhya Pradesh,237176,INC,Varah Giri Shanker Giri,145124,NCO,Vijai Kumar Malaiya,74495,70629,29.78
+ls-1971,LS,India,1971,1971,official,192,Dhar,GEN,Madhya Pradesh,223218,BJS,Bharatsingh,117437,INC,Fatebhanusingh,96816,20621,9.24
+ls-1971,LS,India,1971,1971,official,193,Durg,GEN,Madhya Pradesh,241960,INC,Chandoolal Chandrakar,163195,NCO,Mohanlal Bakliwal,42188,121007,50.01
+ls-1971,LS,India,1971,1971,official,194,Guna,GEN,Madhya Pradesh,304152,BJS,Madhav Rao Jiwajirao Scindia,209950,INC,Devrao Krishna Rao Jadhav,68860,141090,46.39
+ls-1971,LS,India,1971,1971,official,195,Gwalior,GEN,Madhya Pradesh,318552,BJS,Atalbehari Vajpai,188995,INC,Gautam Sharma,118685,70310,22.07
+ls-1971,LS,India,1971,1971,official,196,Hoshangabad,GEN,Madhya Pradesh,197631,INC,Chaudhary Nitiraj Singh Daulat Singh,127605,IND,Dwarka Prasad Pathak,70026,57579,29.13
+ls-1971,LS,India,1971,1971,official,197,Indore,GEN,Madhya Pradesh,303695,INC,Prakash Chandra Sethi,136534,BJS,Satya Bhan Singhal,90836,45698,15.05
+ls-1971,LS,India,1971,1971,official,198,Jabalpur,GEN,Madhya Pradesh,198742,INC,Govind Das,139370,BJS,Baboorao Paranjpe,47249,92121,46.35
+ls-1971,LS,India,1971,1971,official,199,Janjgir,GEN,Madhya Pradesh,139749,INC,Minimata Agamdas,85768,BJS,Sunderlal Dhanuji,46050,39718,28.42
+ls-1971,LS,India,1971,1971,official,200,Jhabua,GEN,Madhya Pradesh,181734,SSP,Bhagirath Bhanwar,100036,INC,Sur Singh,73443,26593,14.63
+ls-1971,LS,India,1971,1971,official,201,Kanker,GEN,Madhya Pradesh,191545,INC,Arvind Vishramsingh,99494,BJS,Brijlalsingh Barsai,92051,7443,3.89
+ls-1971,LS,India,1971,1971,official,202,Khandwa,GEN,Madhya Pradesh,278024,INC,Gangacharan Dikshit,143124,BJS,Virendra Kumar Anand,102234,40890,14.71
+ls-1971,LS,India,1971,1971,official,203,Khargone,GEN,Madhya Pradesh,258552,BJS,Ramchandra Bade,143005,INC,Amolakchand Chhajed,107384,35621,13.78
+ls-1971,LS,India,1971,1971,official,204,Mahasamund,GEN,Madhya Pradesh,169680,INC,Krishna Agrawal,82804,BJS,Gyashtri Kumari,67247,15557,9.17
+ls-1971,LS,India,1971,1971,official,205,Mandla,GEN,Madhya Pradesh,113615,INC,Mangru Uikey,54021,BJS,Shyamlal,43118,10903,9.6
+ls-1971,LS,India,1971,1971,official,206,Mandsaur,GEN,Madhya Pradesh,301660,BJS,Laxminarayan Pandey,149147,INC,Balkavi Bairagi (Nandramdas),141544,7603,2.52
+ls-1971,LS,India,1971,1971,official,207,Morena,GEN,Madhya Pradesh,212431,BJS,Hukamchand Kachhway,104896,INC,Atam Das,78799,26097,12.28
+ls-1971,LS,India,1971,1971,official,208,Raigarh,GEN,Madhya Pradesh,198042,INC,Umedsingh,101686,BJS,Laljitsingh Daljitsingh,74031,27655,13.96
+ls-1971,LS,India,1971,1971,official,209,Raipur,GEN,Madhya Pradesh,232524,INC,Vidyacharan Shukla,138333,BJS,Baburao Patel,53429,84904,36.51
+ls-1971,LS,India,1971,1971,official,210,Rajnandgaon,GEN,Madhya Pradesh,254578,INC,Ramsahai Pandey,157256,NCO,Padmawati Devi,58286,98970,38.88
+ls-1971,LS,India,1971,1971,official,211,Rewa,GEN,Madhya Pradesh,349241,IND,Maharaja Martand Singh,259136,INC,Shambhu Nath Shukla,59442,199694,57.18
+ls-1971,LS,India,1971,1971,official,212,Sagar,GEN,Madhya Pradesh,255136,INC,Sahodra Bai Rai,148141,BJS,Amarsingh Paramsingh,88419,59722,23.41
+ls-1971,LS,India,1971,1971,official,213,Sarguja,GEN,Madhya Pradesh,150048,INC,Babunath Singh,78859,BJS,Larang Sai,54818,24041,16.02
+ls-1971,LS,India,1971,1971,official,214,Satna,GEN,Madhya Pradesh,298990,BJS,Narendra Singh,160084,INC,Lalta Prasad Khare,121280,38804,12.98
+ls-1971,LS,India,1971,1971,official,215,Shahdol,GEN,Madhya Pradesh,166321,IND,Dhan Shah,126609,INC,Girja Kumari,29165,97444,58.59
+ls-1971,LS,India,1971,1971,official,216,Shajapur,GEN,Madhya Pradesh,296842,BJS,Jagannathrao Joshi,158959,INC,Nandkishore Bhatt,130429,28530,9.61
+ls-1971,LS,India,1971,1971,official,217,Sidhi,GEN,Madhya Pradesh,222369,IND,Ranbahadur Singh,158021,INC,Keshav Prasad Singh,52617,105404,47.4
+ls-1971,LS,India,1971,1971,official,218,Tikamgarh,GEN,Madhya Pradesh,234587,INC,Nathu Ram Bhamora,136555,BJS,Nathu Ram Maharajpur,54980,81575,34.77
+ls-1971,LS,India,1971,1971,official,219,Ujjain,GEN,Madhya Pradesh,302780,BJS,Phoolchand Verma,150457,INC,Bapulal Malviya,141861,8596,2.84
+ls-1971,LS,India,1971,1971,official,220,Vidisha,GEN,Madhya Pradesh,290918,BJS,Ramnath Geonka,151386,INC,Manibhai J. Patel,119322,32064,11.02
+ls-1971,LS,India,1971,1971,official,221,Ahmednagar,GEN,Maharashtra,277789,INC,Annasaheb Pandurang Shinde,152262,IND,Prabhakar Kondaji Bhapkar,104419,47843,17.22
+ls-1971,LS,India,1971,1971,official,222,Akola,GEN,Maharashtra,364488,INC,K. M. Asgar Hussain Sardarkhan,255162,BJS,Motiram Udebhan Lahane,88713,166449,45.67
+ls-1971,LS,India,1971,1971,official,223,Amravati,GEN,Maharashtra,349190,INC,Krishna Gulab Deshmukh,271002,RPK,Sukhadeo Fagoji Tidke,55098,215904,61.83
+ls-1971,LS,India,1971,1971,official,224,Aurangabad,GEN,Maharashtra,267240,INC,Manik Rao Palodkar,194926,BJS,Ram Bhau Eknath Gavande,47015,147911,55.35
+ls-1971,LS,India,1971,1971,official,225,Baramati,GEN,Maharashtra,259322,INC,Raghunath Keshav Khadilkar,185637,IND,Ramrao Sahebrao Kakade,54677,130960,50.5
+ls-1971,LS,India,1971,1971,official,226,Bhandara,GEN,Maharashtra,319877,INC,Vishmbhardas Jwalaprasadji Dube,244946,NCO,Ranjitram Ashok Mehta,53998,190948,59.69
+ls-1971,LS,India,1971,1971,official,227,Bhir,GEN,Maharashtra,269273,INC,Pandit Sayajirao Trimbakrao,187132,CPI(M),Burande Gangadhar Maharudra,32551,154581,57.41
+ls-1971,LS,India,1971,1971,official,228,Bhiwandi,GEN,Maharashtra,333654,INC,Shrikrishna Vaijanath Dhamankar,163684,IND,Ram Jethmalani,97203,66481,19.93
+ls-1971,LS,India,1971,1971,official,229,Buldhana,GEN,Maharashtra,308127,INC,Yadav Shivram Mahajan,206180,BJS,Uttamrao Laxman Patil,92457,113723,36.91
+ls-1971,LS,India,1971,1971,official,230,Chanda,GEN,Maharashtra,325223,INC,Abdul Shafi,161707,IND,Atram Raje Vishweshwarrao Dharmarao,149423,12284,3.78
+ls-1971,LS,India,1971,1971,official,231,Chimur,GEN,Maharashtra,341351,INC,Krishnarao Dagoji Thakur,233928,RPK,Hansraj Ganapatrao Gajbhiye,77662,156266,45.78
+ls-1971,LS,India,1971,1971,official,232,Dahanu,GEN,Maharashtra,225528,INC,Laxman Karadya Dumada,128228,CPI(M),Lahanu Shidawa Kom,34628,93600,41.5
+ls-1971,LS,India,1971,1971,official,233,Dhule,GEN,Maharashtra,286594,INC,Chudaman Ananda Patil,204461,NCO,Sonusingh Dhansing Patil,71748,132713,46.31
+ls-1971,LS,India,1971,1971,official,234,Hatkanangle,GEN,Maharashtra,373141,INC,Dattatraya Baburao Kadam,227363,PWP,Tryambak Seetaram Karkhanis,142372,84991,22.78
+ls-1971,LS,India,1971,1971,official,235,Jalgaon,GEN,Maharashtra,301863,INC,Krishnarao Madhavrao Patil,189304,PSP,Gajananrao Raghunathrao Garud,61335,127969,42.39
+ls-1971,LS,India,1971,1971,official,236,Jalna,GEN,Maharashtra,248088,INC,Baburao Janglu Kale,182017,SSP,Saheb Sakharam Bapu Solanke,55441,126576,51.02
+ls-1971,LS,India,1971,1971,official,237,Karad,GEN,Maharashtra,305307,INC,Dajisaheb Ramrao Chavan,263356,PWP,Vithal Ramchandra Baravade,19893,243463,79.74
+ls-1971,LS,India,1971,1971,official,238,Khamgaon,GEN,Maharashtra,282975,INC,Arjun Shripat Kasture,228216,RPK,Dagadu Zangoji Palaspagar,47371,180845,63.91
+ls-1971,LS,India,1971,1971,official,239,Khed,GEN,Maharashtra,262971,INC,Anantrao Vithalrao Patil,198644,SSP,Babasaheb Pandurang Adhav,53549,145095,55.18
+ls-1971,LS,India,1971,1971,official,240,Kolaba,GEN,Maharashtra,290800,INC,Sawant Shankar Babaji,128082,PWP,Datta Patil,81883,46199,15.89
+ls-1971,LS,India,1971,1971,official,241,Kolhapur,GEN,Maharashtra,311856,INC,Rajaram Dadasaheb Nimbalkar,203631,PWP,Dajiba Balavant Desai,95967,107664,34.52
+ls-1971,LS,India,1971,1971,official,242,Kopargaon,GEN,Maharashtra,295819,INC,Eknath Vithalrao Vikhe,179492,CPI,Punjaji Bapuji Kadu,110050,69442,23.47
+ls-1971,LS,India,1971,1971,official,243,Latur,GEN,Maharashtra,241364,INC,Tulshiram Dashrath Kamble,156771,SSP,Tukaram Sadashiv Shingare,65277,91494,37.91
+ls-1971,LS,India,1971,1971,official,244,Malegaon,GEN,Maharashtra,272028,INC,Zamru Manglu Kahandole,204538,BKD,Arjun Tulshiram Pawar,56459,148079,54.44
+ls-1971,LS,India,1971,1971,official,245,Mumbai Central,GEN,Maharashtra,352284,INC,R. D. Bhandare,216114,SHS,Manohar Joshi,116572,99542,28.26
+ls-1971,LS,India,1971,1971,official,246,Mumbai North East,GEN,Maharashtra,521432,INC,Rajaram Gopal Kulkarni Alias Raja,283792,BJS,Mukundrao Sundarrao Agaskar,108513,175279,33.61
+ls-1971,LS,India,1971,1971,official,247,Mumbai North West,GEN,Maharashtra,446516,INC,Hari Ramachandra Gokhale,267164,NCO,Shanti Patel,162271,104893,23.49
+ls-1971,LS,India,1971,1971,official,248,Mumbai South,GEN,Maharashtra,293850,INC,Kailas Narain Narula Shivnarain,138408,IND,Tata Naval Hormasji,118659,19749,6.72
+ls-1971,LS,India,1971,1971,official,249,Mumbai South Central,GEN,Maharashtra,333368,INC,Kader Abdul Saledbnoy,164199,SHS,Shankar Dattatray Pradhan,74206,89993,27.0
+ls-1971,LS,India,1971,1971,official,250,Nagpur,GEN,Maharashtra,338491,AIFB,Jambuwantrao Bapurao Bhote,125552,INC,Rikhabchand Kalyanmal Sharma,123496,2056,0.61
+ls-1971,LS,India,1971,1971,official,251,Nanded,GEN,Maharashtra,334960,INC,Venkatrao Babarao Tarodekar,215848,RPK,Yeshwant Bhimrao Ambedkar,85757,130091,38.84
+ls-1971,LS,India,1971,1971,official,252,Nandurbar,GEN,Maharashtra,240090,INC,Tukaram Huraji Gavit,157728,BJS,Madhav Bandu More,65694,92034,38.33
+ls-1971,LS,India,1971,1971,official,253,Nashik,GEN,Maharashtra,281736,INC,Bhanudas Ramchandra Kavde,208898,BKD,Dhairyashilrao Yashwantrao Pawar,63157,145741,51.73
+ls-1971,LS,India,1971,1971,official,254,Osmanabad,GEN,Maharashtra,309390,INC,Tulshiram Abaji Patil,178391,PWP,Balbhimrao Narsingrao Deshmukh,121246,57145,18.47
+ls-1971,LS,India,1971,1971,official,255,Pandharpur,GEN,Maharashtra,221462,RPG,Nivrutti Satvaji Kamble,153794,RPK,Ramchandra Sakharam Ranshrungare,41422,112372,50.74
+ls-1971,LS,India,1971,1971,official,256,Parbhani,GEN,Maharashtra,245759,INC,Shivaji Rao Shankar Rao Deshmukh,140401,PWP,Annasaheb Ramchanda Rao Savane,83106,57295,23.31
+ls-1971,LS,India,1971,1971,official,257,Pune,GEN,Maharashtra,352998,INC,Mohan Manikchand Dharia,208150,BJS,Ramchandra Kashinath Mhalgi,113662,94488,26.77
+ls-1971,LS,India,1971,1971,official,258,Rajapur,GEN,Maharashtra,214864,PSP,Madhu Dandavate,98747,INC,Shiwaram Sawani Khem Sawana Bhonsale,95553,3194,1.49
+ls-1971,LS,India,1971,1971,official,259,Ramtek,GEN,Maharashtra,337351,INC,Amrut Ganpat Sonar,280054,AIFB,Anandrao Jairam Kalamkar,48312,231742,68.69
+ls-1971,LS,India,1971,1971,official,260,Ratnagiri,GEN,Maharashtra,267971,INC,Shantaram Laxuman Peje,167740,BJS,Chanrakant Kashinath Parulekar,79502,88238,32.93
+ls-1971,LS,India,1971,1971,official,261,Sangli,GEN,Maharashtra,323810,INC,Ganapati Tukaram Gotkhinde,253122,PWP,Bhagwanrao Dnyandeo Suryawanshi,34866,218256,67.4
+ls-1971,LS,India,1971,1971,official,262,Satara,GEN,Maharashtra,318695,INC,Yeshawantro Balawantrao Chavan,246100,PWP,Keshavrao Patloji Pawar,69270,176830,55.49
+ls-1971,LS,India,1971,1971,official,263,Sholapur,GEN,Maharashtra,286725,INC,Surajratan Fatehchand Damani,188577,IND,Rangnath Madhav Vaidya,98148,90429,31.54
+ls-1971,LS,India,1971,1971,official,264,Wardha,GEN,Maharashtra,396997,INC,Jagjiwanrao Ganpatrao Kadam,300645,IND,Ramchandra Marotrao Ghangare,51128,249517,62.85
+ls-1971,LS,India,1971,1971,official,265,Yeotmal,GEN,Maharashtra,380488,INC,Sadashiorao Bapuji Thakre,205086,AIFB,Jambuwantrao Bapuraoji Dhote,170048,35038,9.21
+ls-1971,LS,India,1971,1971,official,266,Inner Manipur,GEN,Manipur,139684,INC,N. Tomsi Singh,40933,CPI,M. Meghachandra,38900,2033,1.46
+ls-1971,LS,India,1971,1971,official,267,Outer Manipur,GEN,Manipur,120077,INC,Paokai,37041,IND,Rishang,34999,2042,1.7
+ls-1971,LS,India,1971,1971,official,268,Bagalkot,GEN,Mysore,289410,INC,Sanganagouda Basanagouda Patil,197589,NCO,Shivaputrappa Shivabasappa Melligeri,91821,105768,36.55
+ls-1971,LS,India,1971,1971,official,269,Bangalore,GEN,Mysore,279159,INC,K. Hanumanthaiya,181819,BJS,M. Gopala Krishna Adiga,77789,104030,37.27
+ls-1971,LS,India,1971,1971,official,270,Belgaum,GEN,Mysore,268114,INC,Kotrasetti Appaya Karavirappa,164979,NCO,Naghanoor Mugutasab Nabisab,87803,77176,28.78
+ls-1971,LS,India,1971,1971,official,271,Bellary,GEN,Mysore,317637,INC,V. K. R. V. Rao,230901,SWA,Y. Mahabaleswarappa,78041,152860,48.12
+ls-1971,LS,India,1971,1971,official,272,Bidar,GEN,Mysore,271685,INC,Shanker Dev Balaji Rao,207423,NCO,Ramchandra Veerappa,54749,152674,56.2
+ls-1971,LS,India,1971,1971,official,273,Bijapur,GEN,Mysore,215279,INC,Bhimappa Ellappa Choudhari,131486,NCO,Basagondappa Kadappa Gudadinni,83793,47693,22.15
+ls-1971,LS,India,1971,1971,official,274,Chamarajanagar,GEN,Mysore,272680,INC,S. M. Siddaiya,168894,NCO,N. C. Biligirirangaiah,96272,72622,26.63
+ls-1971,LS,India,1971,1971,official,275,Chikkodi,GEN,Mysore,270333,INC,B. Shankaranand,177967,NCO,Karale Laxman Beema,80224,97743,36.16
+ls-1971,LS,India,1971,1971,official,276,Chikmagalur,GEN,Mysore,261299,INC,D. B. Chandre Gowda,188151,BJS,B. V. Chandra Sekhar,67742,120409,46.08
+ls-1971,LS,India,1971,1971,official,277,Chitradurga,GEN,Mysore,336581,INC,Kondajji Basappa,251005,SWA,J. Mohamed Imam,81303,169702,50.42
+ls-1971,LS,India,1971,1971,official,278,Dharwad North,GEN,Mysore,283437,INC,Sarojini Bindurao Mahishi,189382,NCO,Wali Rachapa Gangappa,91313,98069,34.6
+ls-1971,LS,India,1971,1971,official,279,Dharwad South,GEN,Mysore,286803,INC,Momsin Fhakruddin Musensab,197901,NCO,Mamle-Desai Revansiddhappa Bullappa,83959,113942,39.73
+ls-1971,LS,India,1971,1971,official,280,Gulbarga,GEN,Mysore,251645,INC,Dharamao Sharanappa Afzalpurkar,171264,NCO,Sharanbasappa Appa Doddappa,75690,95574,37.98
+ls-1971,LS,India,1971,1971,official,281,Hassan,GEN,Mysore,258416,INC,Nuggehalli Shivappa,161072,PSP,S. Shivappa,85727,75345,29.16
+ls-1971,LS,India,1971,1971,official,282,Hoskote,GEN,Mysore,311375,INC,M. V. Krishnappa,240244,NCO,M. Chandrasekher,53610,186634,59.94
+ls-1971,LS,India,1971,1971,official,283,Kanakapura,GEN,Mysore,305086,INC,C. K. Jaffer Sharief,243987,NCO,M. V. Rajasekharan,57468,186519,61.14
+ls-1971,LS,India,1971,1971,official,284,Kanara,GEN,Mysore,237771,INC,Naik Balakrishna Venkanna,161296,IND,Dinkar Desai,64517,96779,40.7
+ls-1971,LS,India,1971,1971,official,285,Kolar,GEN,Mysore,266912,INC,G. V. Krishnan,217037,CPI(M),G. Narayanaswamy,22518,194519,72.88
+ls-1971,LS,India,1971,1971,official,286,Koppal,GEN,Mysore,271970,INC,Sidrameshwar Swamy Bassayya,204285,IND,Shivamurthy Swamy Hiremath Alwandi,67685,136600,50.23
+ls-1971,LS,India,1971,1971,official,287,Madhugiri,GEN,Mysore,295368,INC,K. Mallanna,247907,NCO,B. N. Ramegowda,36914,210993,71.43
+ls-1971,LS,India,1971,1971,official,288,Mandya,GEN,Mysore,382186,INC,S. M. Krishna,272174,NCO,M. D. Chowdaiah,110012,162162,42.43
+ls-1971,LS,India,1971,1971,official,289,Mangalore,GEN,Mysore,318180,INC,K. K. Shetty,205516,NCO,Cheppudira Muthnna Poonacha,84286,121230,38.1
+ls-1971,LS,India,1971,1971,official,290,Mysore,GEN,Mysore,287227,INC,M. D. Tulsidas,213724,NCO,M. L. Thimme Gowda,68219,145505,50.66
+ls-1971,LS,India,1971,1971,official,291,Raichur,GEN,Mysore,211863,INC,Pampangodda Sakreppa Gowda Athnoor,157858,SWA,Raja Venkatappa Naik,54005,103853,49.02
+ls-1971,LS,India,1971,1971,official,292,Shimoga,GEN,Mysore,294487,INC,T. V. Chandrashekarappa Veerabasappa,211553,SSP,J. H. Patel,79111,132442,44.97
+ls-1971,LS,India,1971,1971,official,293,Tumkur,GEN,Mysore,323210,INC,K. Lakkappa,240718,NCO,M. R. Ramanna,78939,161779,50.05
+ls-1971,LS,India,1971,1971,official,294,Udipi,GEN,Mysore,277198,INC,P. Ranganath Shenoy,182409,SWA,J. M. Lobo Prabhu,54644,127765,46.09
+ls-1971,LS,India,1971,1971,official,295,Nagaland,GEN,Nagaland,148025,UFN,A. Kevichusa,89514,NNO,S. Chubatoshi Jamir,58511,31003,20.94
+ls-1971,LS,India,1971,1971,official,296,Angul,GEN,Odisha,165985,INC,Pratap Gangadebbad Kumar,55615,SWA,Dhirenranath Deblal,40319,15296,9.22
+ls-1971,LS,India,1971,1971,official,297,Balasore,GEN,Odisha,260557,INC,Shyamsundar Mohapatra,98926,PSP,Samarendra Kundu,75139,23787,9.13
+ls-1971,LS,India,1971,1971,official,298,Bhadrak,GEN,Odisha,315271,INC,Arjun Sethi,143450,UTC,Sidheswar Jena,97121,46329,14.69
+ls-1971,LS,India,1971,1971,official,299,Bhanjanagar,GEN,Odisha,246583,CPI,Dutikrishna Panda,102956,UTC,Bijaya Nanda Pattanayak,100098,2858,1.16
+ls-1971,LS,India,1971,1971,official,300,Bhubaneswar,GEN,Odisha,251868,INC,Chintamani Panigrahi,125646,UTC,Bibudhendra Misra,51952,73694,29.26
+ls-1971,LS,India,1971,1971,official,301,Bolangir,GEN,Odisha,201903,SWA,Raj Raj Singh Deo,124945,INC,Sadananda Misra,53969,70976,35.15
+ls-1971,LS,India,1971,1971,official,302,Chatrapur,GEN,Odisha,249115,INC,Jaganath Rao R,150279,UTC,Brundaban Naiyak,64346,85933,34.5
+ls-1971,LS,India,1971,1971,official,303,Cuttack,GEN,Odisha,283990,INC,Janki Ballav Patnaik,154707,UTC,Biren Mitra,74615,80092,28.2
+ls-1971,LS,India,1971,1971,official,304,Dhenkanal,GEN,Odisha,230851,INC,Devendra Satpathy,97491,SWA,R. K. P. S. Mahindra Bahadur,65832,31659,13.71
+ls-1971,LS,India,1971,1971,official,305,Jajpur,GEN,Odisha,295273,INC,Anandi Charan Das,149208,UTC,Rama Chandra Mallick,73070,76138,25.79
+ls-1971,LS,India,1971,1971,official,306,Kalahandi,GEN,Odisha,156644,SWA,Pratap Keshari Deo,89098,INC,Arjun Pattjoshi,23224,65874,42.05
+ls-1971,LS,India,1971,1971,official,307,Kendrapara,GEN,Odisha,355622,UTC,Surendra Mohanty,123680,PSP,Surendra Nath Dwivedi,120707,2973,0.84
+ls-1971,LS,India,1971,1971,official,308,Keonjhar,GEN,Odisha,146552,INC,Kumar Majhi,63705,UTC,Bairiganjan Naik,44193,19512,13.31
+ls-1971,LS,India,1971,1971,official,309,Koraput,GEN,Odisha,163425,INC,Bhagirathi Gomango,70012,SWA,Babaji Haraka,53338,16674,10.2
+ls-1971,LS,India,1971,1971,official,310,Mayurbhanj,GEN,Odisha,175264,INC,Manmohan Tudu,50515,SWA,Mahendra Majhi,42868,7647,4.36
+ls-1971,LS,India,1971,1971,official,311,Nabarangpur,GEN,Odisha,130343,INC,Khagipathi Pradhani,54609,UTC,Mudi Nayak,44992,9617,7.38
+ls-1971,LS,India,1971,1971,official,312,Phulbani,GEN,Odisha,151940,SWA,Boksi Nayak,68705,INC,Trinath Nayak,48003,20702,13.63
+ls-1971,LS,India,1971,1971,official,313,Puri,GEN,Odisha,289995,INC,Banamali Patanaik,117354,UTC,Padma Charan Samatasinhar,70577,46777,16.13
+ls-1971,LS,India,1971,1971,official,314,Sambalpur,GEN,Odisha,195957,INC,Banamali Babu,79788,CPI,Prasanna Kumar Panda,37081,42707,21.79
+ls-1971,LS,India,1971,1971,official,315,Sundargarh,GEN,Odisha,194914,INC,Gajadhar Majhi,68285,SWA,Devananda Amat,50306,17979,9.22
+ls-1971,LS,India,1971,1971,official,316,Puducherry,GEN,Puducherry,170088,INC,S. Mohan Kumaramangalam,112714,NCO,N. Sethuramane,47550,65164,38.31
+ls-1971,LS,India,1971,1971,official,317,Amritsar,GEN,Punjab,341269,INC,Durga Das Bhatia,182177,SAD,Karnail Singh,79236,102941,30.16
+ls-1971,LS,India,1971,1971,official,318,Bhatinda,GEN,Punjab,268362,CPI,Bhan Singh Bhaura,138092,SAD,Bhagat Singh,119769,18323,6.83
+ls-1971,LS,India,1971,1971,official,319,Fazilka,GEN,Punjab,344914,SAD,Gurdas Singh,152677,INC,Iqbal Singh,147354,5323,1.54
+ls-1971,LS,India,1971,1971,official,320,Ferozepur,GEN,Punjab,285096,INC,Mohinder Singh,160813,SAD,Gurcharan Singh,107887,52926,18.56
+ls-1971,LS,India,1971,1971,official,321,Gurdaspur,GEN,Punjab,295123,INC,Prabodh Chandra,184788,NCO,Mohan Lal,90941,93847,31.8
+ls-1971,LS,India,1971,1971,official,322,Hoshiarpur,GEN,Punjab,319858,INC,Darbara Singh,172451,SAD,Kartar Singh,71616,100835,31.52
+ls-1971,LS,India,1971,1971,official,323,Jalandhar,GEN,Punjab,317358,INC,Swaran Singh,170164,SAD,Iqbal Singh Dhillon,76695,93469,29.45
+ls-1971,LS,India,1971,1971,official,324,Ludhiana,GEN,Punjab,366294,INC,Devinder Singh Garcha,200597,SAD,Kapur Singh,127491,73106,19.96
+ls-1971,LS,India,1971,1971,official,325,Patiala,GEN,Punjab,307991,INC,Sat Pal,147436,SAD,Gian Singh,105739,41697,13.54
+ls-1971,LS,India,1971,1971,official,326,Phillaur,GEN,Punjab,303598,INC,Sadhu Ram,181438,SAD,Hari Singh,75780,105658,34.8
+ls-1971,LS,India,1971,1971,official,327,Ropar,GEN,Punjab,318717,INC,Buta Singh,168243,SAD,Ajaib Singh Sandhu,126993,41250,12.94
+ls-1971,LS,India,1971,1971,official,328,Sangrur,GEN,Punjab,304473,CPI,Teja Singh,115708,SAD,Baldev Singh,115498,210,0.07
+ls-1971,LS,India,1971,1971,official,329,Tarn Taran,GEN,Punjab,304416,INC,Girdial Singh Dhillon,158401,SAD,Prem Singh Lalpura,98421,59980,19.7
+ls-1971,LS,India,1971,1971,official,330,Ajmer,GEN,Rajasthan,262745,INC,Bashweshwar Nath Bhargava,166940,NCO,Mukut Beharilal,80033,86907,33.08
+ls-1971,LS,India,1971,1971,official,331,Alwar,GEN,Rajasthan,313591,INC,Hari Prasad,147519,VHP,Kumar Sumitradevi,73382,74137,23.64
+ls-1971,LS,India,1971,1971,official,332,Banswara,GEN,Rajasthan,281778,INC,Hiralal,118643,SSP,Prabhulal,117499,1144,0.41
+ls-1971,LS,India,1971,1971,official,333,Barmer,GEN,Rajasthan,295727,INC,Amrit Nahata,166605,BJS,Bhairon Singh Shekhawat,116032,50573,17.1
+ls-1971,LS,India,1971,1971,official,334,Bharatpur,GEN,Rajasthan,337954,INC,Raj Bahadur,195555,BKD,Beijendra Singh,127992,67563,19.99
+ls-1971,LS,India,1971,1971,official,335,Bhilwara,GEN,Rajasthan,292728,BJS,Hamendra Singh,142824,INC,Ramesh Chandra,123365,19459,6.65
+ls-1971,LS,India,1971,1971,official,336,Bikaner,GEN,Rajasthan,334790,IND,Karni Singh,164551,INC,Bhimsen,116119,48432,14.47
+ls-1971,LS,India,1971,1971,official,337,Chittorgarh,GEN,Rajasthan,255251,BJS,Jhunjhunwala Bishwanath,128217,INC,Bhanwarlal Jhanwar,109245,18972,7.43
+ls-1971,LS,India,1971,1971,official,338,Dausa,GEN,Rajasthan,276091,INC,Nawal Kishore Sharma,123648,SWA,Somani Hira Lal,102431,21217,7.68
+ls-1971,LS,India,1971,1971,official,339,Ganganagar,GEN,Rajasthan,273183,INC,Panna Lal Barupal,157863,IND,Ganesh Ram,91955,65908,24.13
+ls-1971,LS,India,1971,1971,official,340,Hindaun,GEN,Rajasthan,267817,INC,Jagannath Prasad,188273,SSP,Shyam Sunder,56774,131499,49.1
+ls-1971,LS,India,1971,1971,official,341,Jaipur,GEN,Rajasthan,321010,SWA,Gyatri Devi,180059,INC,P. K. Choudhary,129415,50644,15.78
+ls-1971,LS,India,1971,1971,official,342,Jalore,GEN,Rajasthan,252887,INC,Narendra Kumar Sanghi,138728,SWA,Deoki Nandan Patodia,97711,41017,16.22
+ls-1971,LS,India,1971,1971,official,343,Jhalawar,GEN,Rajasthan,282443,BJS,Brij Raj Singh,186694,INC,Nathu Lal Jain,95749,90945,32.2
+ls-1971,LS,India,1971,1971,official,344,Jhunjhunu,GEN,Rajasthan,373426,INC,Shivnath Singh,223286,SWA,K. K. Birla,124337,98949,26.5
+ls-1971,LS,India,1971,1971,official,345,Jodhpur,GEN,Rajasthan,364567,IND,Krishna Kumari,186746,INC,Anand Singh Kachhawa,165249,21497,5.9
+ls-1971,LS,India,1971,1971,official,346,Kota,GEN,Rajasthan,284523,BJS,Onkar Lal,156135,INC,Dhanna Lal,122884,33251,11.69
+ls-1971,LS,India,1971,1971,official,347,Nagaur,GEN,Rajasthan,404927,INC,Nathoo Ram,244913,SWA,Nand Kumar,144018,100895,24.92
+ls-1971,LS,India,1971,1971,official,348,Pali,GEN,Rajasthan,298485,INC,Mool Chand Daga,162536,IND,Madho Singh,123876,38660,12.95
+ls-1971,LS,India,1971,1971,official,349,Sawai Madhopur,GEN,Rajasthan,255469,INC,Chhutta Lal,129019,SWA,Meetha Lal Meena,111253,17766,6.95
+ls-1971,LS,India,1971,1971,official,350,Sikar,GEN,Rajasthan,380160,INC,Shrikishan,212263,BJS,Surendra Kumar Taparia,78354,133909,35.22
+ls-1971,LS,India,1971,1971,official,351,Tonk,GEN,Rajasthan,242795,SWA,Ram Kanwar,116230,INC,Narain Prakash,114395,1835,0.76
+ls-1971,LS,India,1971,1971,official,352,Udaipur,GEN,Rajasthan,272532,SWA,Laliya,137968,INC,Dhuleshwar,134564,3404,1.25
+ls-1971,LS,India,1971,1971,official,353,Chengalpattu,GEN,Tamil Nadu,419362,DMK,C. Chittibabu,251687,NCO,P. M. Muthukumarappa,132931,118756,28.32
+ls-1971,LS,India,1971,1971,official,354,Chennai North,GEN,Tamil Nadu,445954,DMK,K. Manoharan,245401,NCO,S. G. Vinayagamoorthy,193807,51594,11.57
+ls-1971,LS,India,1971,1971,official,355,Chennai South,GEN,Tamil Nadu,486911,DMK,Murasoli Naran,253626,SWA,Nara Simhan,233285,20341,4.18
+ls-1971,LS,India,1971,1971,official,356,Chidambaram,GEN,Tamil Nadu,397418,DMK,V. Mayavan,203059,NCO,L. Elayaperumal,180661,22398,5.64
+ls-1971,LS,India,1971,1971,official,357,Coimbatore,GEN,Tamil Nadu,404983,CPI,K. Balathandayutham,214824,NCO,Ramaswamy,137771,77053,19.03
+ls-1971,LS,India,1971,1971,official,358,Cuddalore,GEN,Tamil Nadu,423381,INC,S. Radhakrishnan,229934,NCO,R. Muthukumaran,193447,36487,8.62
+ls-1971,LS,India,1971,1971,official,359,Dharapuram,GEN,Tamil Nadu,404040,DMK,C. T. Dhandapani,260113,NCO,K. Paramalai,143927,116186,28.76
+ls-1971,LS,India,1971,1971,official,360,Dindigul,GEN,Tamil Nadu,415251,DMK,M. Rajangam,248638,SWA,K. Chemachamy,151003,97635,23.51
+ls-1971,LS,India,1971,1971,official,361,Gobichettipalayam,GEN,Tamil Nadu,378832,DMK,P. A. Saminathan,219662,NCO,E. V. K. Sampath,159170,60492,15.97
+ls-1971,LS,India,1971,1971,official,362,Kallakurichi,GEN,Tamil Nadu,393466,DMK,M. Devekan,207721,NCO,K. Veerasamy,185745,21976,5.59
+ls-1971,LS,India,1971,1971,official,363,Karur,GEN,Tamil Nadu,403337,INC,Gopal,238315,NCO,V. Ramanathan,165022,73293,18.17
+ls-1971,LS,India,1971,1971,official,364,Krishnagiri,GEN,Tamil Nadu,337308,INC,T. Thirthagiri Gounder,186114,SWA,T. M. Thirupathy,151194,34920,10.35
+ls-1971,LS,India,1971,1971,official,365,Kumbakonam,GEN,Tamil Nadu,446341,DMK,Era Sezhiyan,242547,NCO,C. R. Ramasamy,203794,38753,8.68
+ls-1971,LS,India,1971,1971,official,366,Madurai,GEN,Tamil Nadu,444896,INC,R. V. Swaminathan,227060,NCO,S. Chinna Karuppa Thevar,154701,72359,16.26
+ls-1971,LS,India,1971,1971,official,367,Mayuram,GEN,Tamil Nadu,385064,DMK,K. Subravelu,207304,NCO,K. Rajangam,140931,66373,17.24
+ls-1971,LS,India,1971,1971,official,368,Mettur,GEN,Tamil Nadu,337348,INC,G. Bhuvarahan,201744,NCO,K. Ramamurthy,135604,66140,19.61
+ls-1971,LS,India,1971,1971,official,369,Nagapattinam,GEN,Tamil Nadu,399812,CPI,M. Kathamuthu,219684,NCO,V. Sabasivam,131957,87727,21.94
+ls-1971,LS,India,1971,1971,official,370,Nagercoil,GEN,Tamil Nadu,368919,NCO,K. Kamaraj Nadar,215324,DMK,M. C. Balan,114771,100553,27.26
+ls-1971,LS,India,1971,1971,official,371,Nilgiris,GEN,Tamil Nadu,370214,DMK,J. Matha Gowder,215654,NCO,Akkamma Devi,154560,61094,16.5
+ls-1971,LS,India,1971,1971,official,372,Perambalur,GEN,Tamil Nadu,455879,DMK,A. Durairasu,258724,NCO,M. Ayyakunnu,197155,61569,13.51
+ls-1971,LS,India,1971,1971,official,373,Periyakulam,GEN,Tamil Nadu,388500,IND,S. M. Mohammed Sheriff,175940,SWA,Ajmalkhan,134015,41925,10.79
+ls-1971,LS,India,1971,1971,official,374,Pollachi,GEN,Tamil Nadu,414215,DMK,Narayanan,267811,SSP,K. R. Nallasivam,141605,126206,30.47
+ls-1971,LS,India,1971,1971,official,375,Pudukkottai,GEN,Tamil Nadu,455327,DMK,K. Veeriah,251861,NCO,R. Vijaya Reghunatha Thondaiman,203466,48395,10.63
+ls-1971,LS,India,1971,1971,official,376,Ramanathapuram,GEN,Tamil Nadu,358348,AIFB,P. K. Mookkiah Thevar,208431,NCO,S. Balakrishnan,139276,69155,19.3
+ls-1971,LS,India,1971,1971,official,377,Salem,GEN,Tamil Nadu,412959,DMK,E. R. Krishnan,230736,NCO,M. P. Subramanyam,175940,54796,13.27
+ls-1971,LS,India,1971,1971,official,378,Sivaganga,GEN,Tamil Nadu,446300,DMK,Tha Kiruttinan,273194,NCO,Kannappa Valliappan,173106,100088,22.43
+ls-1971,LS,India,1971,1971,official,379,Sivakasi,GEN,Tamil Nadu,394679,INC,V. Jeyalakshmi,235491,SWA,R. Gopalakrishnan,149829,85662,21.7
+ls-1971,LS,India,1971,1971,official,380,Sriperumbudur,GEN,Tamil Nadu,501280,DMK,T. S. Latchumanan,300663,NCO,P. Kakkan,200617,100046,19.96
+ls-1971,LS,India,1971,1971,official,381,Tenkasi,GEN,Tamil Nadu,402276,INC,A. M. Cnellachami,223182,NCO,R. S. Arumugam,154272,68910,17.13
+ls-1971,LS,India,1971,1971,official,382,Thanjavur,GEN,Tamil Nadu,469379,DMK,S. D. Somasundaram,268980,NCO,R. Krishnasamy Gopalar,168972,100008,21.31
+ls-1971,LS,India,1971,1971,official,383,Tindivanam,GEN,Tamil Nadu,379685,INC,M .R. Lakshminarayanan,212309,SWA,M. P. Radhakrishnan,150834,61475,16.19
+ls-1971,LS,India,1971,1971,official,384,Tiruchendur,GEN,Tamil Nadu,411385,DMK,M. S. Sivasamy,202783,SWA,M. Mathias,202757,26,0.01
+ls-1971,LS,India,1971,1971,official,385,Tiruchengode,GEN,Tamil Nadu,427646,DMK,M. Muthusami,238746,NCO,T. M. Kaliyannan,178699,60047,14.04
+ls-1971,LS,India,1971,1971,official,386,Tiruchirappalli,GEN,Tamil Nadu,441143,CPI,M. Kalyanasundaram,217677,NCO,S. P. Thangavelu,197127,20550,4.66
+ls-1971,LS,India,1971,1971,official,387,Tirunelveli,GEN,Tamil Nadu,380778,CPI,"S. A, Muruganantham",214214,SWA,S. Palaniswaminathan,154277,59937,15.74
+ls-1971,LS,India,1971,1971,official,388,Tiruppattur,GEN,Tamil Nadu,360061,DMK,C. K. Chinnaraji Gounder,207562,SWA,N. Parthasarathy,152499,55063,15.29
+ls-1971,LS,India,1971,1971,official,389,Tiruttani,GEN,Tamil Nadu,398731,INC,O. V. Alagesa Mudaliar,241418,NCO,P. Ramachandran,157313,84105,21.09
+ls-1971,LS,India,1971,1971,official,390,Vandavasi,GEN,Tamil Nadu,400062,DMK,G. Viswanathan,230003,NCO,A. Krishnaswamy,142048,87955,21.99
+ls-1971,LS,India,1971,1971,official,391,Vellore,GEN,Tamil Nadu,387742,DMK,R. P. Ulaganambi,221512,NCO,T. Manavalan,136191,85321,22.0
+ls-1971,LS,India,1971,1971,official,392,Tripura East,GEN,Tripura,217207,CPI(M),Dasaratha Deb,91192,INC,Ramendra Kishore Deb Barma,69750,21442,9.87
+ls-1971,LS,India,1971,1971,official,393,Tripura West,GEN,Tripura,195354,CPI(M),Biren Dutta,88264,INC,Anil Kumar Sen,80026,8238,4.22
+ls-1971,LS,India,1971,1971,official,394,Agra,GEN,Uttar Pradesh,271289,INC,Achal Singh,160242,BKD,Babu Lal Singhal,47181,113061,41.68
+ls-1971,LS,India,1971,1971,official,395,Akbarpur,GEN,Uttar Pradesh,217242,INC,Ramji Ram,133758,BKD,Ram Kishore,66874,66884,30.79
+ls-1971,LS,India,1971,1971,official,396,Aligarh,GEN,Uttar Pradesh,332317,BKD,Shive Kumar Shastri,160198,INC,Mohd. Younus Saleem,124317,35881,10.8
+ls-1971,LS,India,1971,1971,official,397,Allahabad,GEN,Uttar Pradesh,242841,INC,Hemwate Nadan Bahuguna,142886,NCO,Mangla Prasad,46998,95888,39.49
+ls-1971,LS,India,1971,1971,official,398,Almora,GEN,Uttar Pradesh,133719,INC,Narendra Singh,89751,BJS,Shobhan Singh Jina,35330,54421,40.7
+ls-1971,LS,India,1971,1971,official,399,Amethi,GEN,Uttar Pradesh,155026,INC,Vidya Dhar Bajpai,96312,BJS,Gokul Prasad Pathak,21335,74977,48.36
+ls-1971,LS,India,1971,1971,official,400,Amroha,GEN,Uttar Pradesh,268312,CPI,Ishaque Sambhali,92580,IND,Chandra Pal Singh,61538,31042,11.57
+ls-1971,LS,India,1971,1971,official,401,Aonla,GEN,Uttar Pradesh,226910,INC,Savitri Shyam,77102,BJS,Brij Raj Singh,66721,10381,4.57
+ls-1971,LS,India,1971,1971,official,402,Azamgarh,GEN,Uttar Pradesh,248287,INC,Chandrajeet,117719,SSP,Vishram,61050,56669,22.82
+ls-1971,LS,India,1971,1971,official,403,Baghpat,GEN,Uttar Pradesh,333849,INC,Ram Chandra Vikal,170270,BKD,Raghuvir Singh,122660,47610,14.26
+ls-1971,LS,India,1971,1971,official,404,Bahraich,GEN,Uttar Pradesh,170652,INC,Badlu Ram,94666,BJS,Om Prakash Tyagi,69171,25495,14.94
+ls-1971,LS,India,1971,1971,official,405,Ballia,GEN,Uttar Pradesh,258781,INC,Chandrika Prasad,167724,NCO,Sheodutt,50207,117517,45.41
+ls-1971,LS,India,1971,1971,official,406,Balrampur,GEN,Uttar Pradesh,239676,INC,Chandra Bhal Mani Tewari,118820,BJS,Pratap Narain Tewari,113115,5705,2.38
+ls-1971,LS,India,1971,1971,official,407,Banda,GEN,Uttar Pradesh,219910,BJS,Ram Ratan Sharma,96770,CPI,Deo Kumar,89728,7042,3.2
+ls-1971,LS,India,1971,1971,official,408,Bansgaon,GEN,Uttar Pradesh,170701,INC,Ram Surat,117860,SSP,Molhu,27836,90024,52.74
+ls-1971,LS,India,1971,1971,official,409,Barabanki,GEN,Uttar Pradesh,257976,INC,Kunwar Rudra Pratap Singh,152477,SSP,Ram Sevak Yadav,94132,58345,22.62
+ls-1971,LS,India,1971,1971,official,410,Bareilly,GEN,Uttar Pradesh,223305,INC,Satish Chandra,115495,BJS,Harish Kumar Gangwar,90150,25345,11.35
+ls-1971,LS,India,1971,1971,official,411,Basti,GEN,Uttar Pradesh,181228,INC,Anant Prasad Dhusia,105848,NCO,Sheo Narain,33739,72109,39.79
+ls-1971,LS,India,1971,1971,official,412,Bijnor,GEN,Uttar Pradesh,217319,INC,Swami Ramanand Shastri,144728,BKD,Mahi Lal,40900,103828,47.78
+ls-1971,LS,India,1971,1971,official,413,Bilhaur,GEN,Uttar Pradesh,271444,INC,Shushila Rohatgi,154613,NCO,Bhagwat Prasad,52978,101635,37.44
+ls-1971,LS,India,1971,1971,official,414,Budaun,GEN,Uttar Pradesh,264680,INC,Karan Singh Yadav,90504,BJS,Onkar Singh,69367,21137,7.99
+ls-1971,LS,India,1971,1971,official,415,Bulandshahr,GEN,Uttar Pradesh,300753,INC,Surendra Pal Singh,118161,BJS,Himmat Singh,83906,34255,11.39
+ls-1971,LS,India,1971,1971,official,416,Chail,GEN,Uttar Pradesh,155624,INC,Chhote Lal,93661,NCO,Hasuria Din,50772,42889,27.56
+ls-1971,LS,India,1971,1971,official,417,Chandauli,GEN,Uttar Pradesh,301373,INC,Sudhaker Pandey,110114,BKD,Moti Ram Shastri,95727,14387,4.77
+ls-1971,LS,India,1971,1971,official,418,Dehra Dun,GEN,Uttar Pradesh,277681,INC,Mulki Raj,190160,BJS,Nitya Nand Swami,48635,141525,50.97
+ls-1971,LS,India,1971,1971,official,419,Deoria,GEN,Uttar Pradesh,210006,INC,Bishwanath Roy,134256,SSP,Mahendra Singh Yadav,27220,107036,50.97
+ls-1971,LS,India,1971,1971,official,420,Domariyaganj,GEN,Uttar Pradesh,274894,INC,Keshav Dev Malviya,143967,BJS,Pandit Narain Swarup Sharma,80384,63583,23.13
+ls-1971,LS,India,1971,1971,official,421,Etah,GEN,Uttar Pradesh,288904,INC,Rohan Lal,97037,BKD,Multan Singh,80478,16559,5.73
+ls-1971,LS,India,1971,1971,official,422,Etawah,GEN,Uttar Pradesh,272348,INC,Shree Shankar Tewari,129439,SSP,Arjun Singh,70749,58690,21.55
+ls-1971,LS,India,1971,1971,official,423,Faizabad,GEN,Uttar Pradesh,202736,INC,Ram Krishna Sinha,118422,NCO,Sucheta Kripalani,40732,77690,38.32
+ls-1971,LS,India,1971,1971,official,424,Farrukhabad,GEN,Uttar Pradesh,286319,INC,Awadhesh Chandra Singh,114077,BKD,Rajendra Singh Yadav,80196,33881,11.83
+ls-1971,LS,India,1971,1971,official,425,Fatehpur Sikri,GEN,Uttar Pradesh,235137,INC,Sant Bux Singh,135445,NCO,Braj Lal Verma,80862,54583,23.21
+ls-1971,LS,India,1971,1971,official,426,Firozabad,GEN,Uttar Pradesh,163563,INC,Chhatrapati Ambesh,110797,BKD,Shiv Charan Lal,20492,90305,55.21
+ls-1971,LS,India,1971,1971,official,427,Garhwal,GEN,Uttar Pradesh,140049,INC,Pratap Singh,110971,NCO,Meharwan Singh,20747,90224,64.42
+ls-1971,LS,India,1971,1971,official,428,Ghatampur,GEN,Uttar Pradesh,219867,INC,Tula Ram,122302,SSP,Madari Lal,40400,81902,37.25
+ls-1971,LS,India,1971,1971,official,429,Ghazipur,GEN,Uttar Pradesh,273828,CPI,Sarjoo Pandey,135703,NCO,Shri Narain Singh,70210,65493,23.92
+ls-1971,LS,India,1971,1971,official,430,Ghosi,GEN,Uttar Pradesh,261390,CPI,Jharkhande,143644,NCO,Shyam Sundar Misra,58689,84955,32.5
+ls-1971,LS,India,1971,1971,official,431,Gonda,GEN,Uttar Pradesh,208735,NCO,Anand Singh,100180,INC,Devendra Pratap Singh,99549,631,0.3
+ls-1971,LS,India,1971,1971,official,432,Gorakhpur,GEN,Uttar Pradesh,257119,INC,Narsingh Narian,136843,IND,Avedh Nath,99265,37578,14.62
+ls-1971,LS,India,1971,1971,official,433,Hamirpur,GEN,Uttar Pradesh,268628,INC,Swami Brahmanand Ji,139704,BKD,Tej Pratap Singh,84044,55660,20.72
+ls-1971,LS,India,1971,1971,official,434,Hapur,GEN,Uttar Pradesh,370291,INC,B. P. Maurya,229496,BKD,Prakashvir Shastri,120753,108743,29.37
+ls-1971,LS,India,1971,1971,official,435,Hardoi,GEN,Uttar Pradesh,197281,INC,Kinder Lal,109700,NCO,Parmai Lal,76676,33024,16.74
+ls-1971,LS,India,1971,1971,official,436,Hathras,GEN,Uttar Pradesh,235448,INC,Chandra Pal Shailani,122182,BJS,Karan Singh Verma,60349,61833,26.26
+ls-1971,LS,India,1971,1971,official,437,Jalaun,GEN,Uttar Pradesh,293950,INC,Chowdhary Ram Sewak,147731,BJS,Kunji Lal Ahirwar,121843,25888,8.81
+ls-1971,LS,India,1971,1971,official,438,Jaunpur,GEN,Uttar Pradesh,266526,INC,Rajdeo Singh,149009,BKD,Mahdi Jafri,45417,103592,38.87
+ls-1971,LS,India,1971,1971,official,439,Jhansi,GEN,Uttar Pradesh,267258,INC,Govind Dass Richharia,143137,NCO,Sushila Nayar,68566,74571,27.9
+ls-1971,LS,India,1971,1971,official,440,Kairana,GEN,Uttar Pradesh,309905,INC,Shafquat Jang,162276,BKD,Ghayoor Ali Khan,89510,72766,23.48
+ls-1971,LS,India,1971,1971,official,441,Kaiserganj,GEN,Uttar Pradesh,184698,BJS,Shakuntala Nayar,88980,INC,Basant Kunwari,86382,2598,1.41
+ls-1971,LS,India,1971,1971,official,442,Kannauj,GEN,Uttar Pradesh,254186,INC,S. N. Misra,103988,BJS,Ram Prakash Tripathi,60873,43115,16.96
+ls-1971,LS,India,1971,1971,official,443,Kanpur,GEN,Uttar Pradesh,244289,IND,S. M. Banerjee,148845,BJS,Babu Ram Shukla,59646,89199,36.51
+ls-1971,LS,India,1971,1971,official,444,Kasganj,GEN,Uttar Pradesh,283230,BJS,Maha Deepak Singh,128288,INC,Mushir Ahmad Khan,112312,15976,5.64
+ls-1971,LS,India,1971,1971,official,445,Khalilabad,GEN,Uttar Pradesh,265799,INC,Krishna Chandra Pandey,134721,BJS,Ranjeet Singh,89912,44809,16.86
+ls-1971,LS,India,1971,1971,official,446,Kheri,GEN,Uttar Pradesh,175020,INC,Balgovind,120453,NCO,Banshi Dhar,49828,70625,40.35
+ls-1971,LS,India,1971,1971,official,447,Khurja,GEN,Uttar Pradesh,214729,INC,Hari Singh,134569,BKD,Ram Charan,33654,100915,47.0
+ls-1971,LS,India,1971,1971,official,448,Lalganj,GEN,Uttar Pradesh,216916,INC,Ram Dhan,135917,BJS,Shivprasad,46271,89646,41.33
+ls-1971,LS,India,1971,1971,official,449,Lucknow,GEN,Uttar Pradesh,238808,INC,Sheela Kaul,171019,BJS,Purshottam Das Kapoor,51818,119201,49.91
+ls-1971,LS,India,1971,1971,official,450,Machhlishahr,GEN,Uttar Pradesh,227605,INC,Nageshwar Dwivedi,105379,BKD,Ram Das,48925,56454,24.8
+ls-1971,LS,India,1971,1971,official,451,Maharajganj,GEN,Uttar Pradesh,190521,IND,Sibban Lal Saxena,93252,INC,Mahadeo Prasad,53834,39418,20.69
+ls-1971,LS,India,1971,1971,official,452,Mainpuri,GEN,Uttar Pradesh,206061,INC,Maharaj Singh,102981,NCO,Badshah Gupta,33618,69363,33.66
+ls-1971,LS,India,1971,1971,official,453,Mathura,GEN,Uttar Pradesh,278721,INC,Chakleshwar Singh,111864,BKD,Digamber Singh Chaudhari,90425,21439,7.69
+ls-1971,LS,India,1971,1971,official,454,Meerut,GEN,Uttar Pradesh,353184,INC,Shah Nawaz Khan,180181,NCO,Hari Kishan,98382,81799,23.16
+ls-1971,LS,India,1971,1971,official,455,Mirzapur,GEN,Uttar Pradesh,281358,INC,Aziz Imam,122289,BJS,Murlidhar,57815,64474,22.92
+ls-1971,LS,India,1971,1971,official,456,Misrikh,GEN,Uttar Pradesh,165268,INC,Sankata Prasad,92441,BJS,Gokaran Prasad,44862,47579,28.79
+ls-1971,LS,India,1971,1971,official,457,Mohanlalganj,GEN,Uttar Pradesh,167643,INC,Ganga Devi,105565,NCO,Khayali Ram,46285,59280,35.36
+ls-1971,LS,India,1971,1971,official,458,Moradabad,GEN,Uttar Pradesh,237937,BJS,Virendra Agarwal,83077,IND,Shamim Ahmad,61649,21428,9.01
+ls-1971,LS,India,1971,1971,official,459,Muzaffarnagar,GEN,Uttar Pradesh,375460,CPI,Vijay Pal Singh,203193,BKD,Charan Singh,152914,50279,13.39
+ls-1971,LS,India,1971,1971,official,460,Nainital,GEN,Uttar Pradesh,231442,INC,Krishan Chandra Pant,159937,NCO,Daya Kishan,59940,99997,43.21
+ls-1971,LS,India,1971,1971,official,461,Padrauna,GEN,Uttar Pradesh,225324,INC,Genda Singh,172153,BKD,Kunwar Chandra Pratapnarain Singh,22271,149882,66.52
+ls-1971,LS,India,1971,1971,official,462,Phulpur,GEN,Uttar Pradesh,239830,INC,Vishwa Nath Pratap Singh,123095,BKD,B. D. Singh,56315,66780,27.84
+ls-1971,LS,India,1971,1971,official,463,Pilibhit,GEN,Uttar Pradesh,249948,INC,Mohan Swaroop,97375,NCO,Mohammad Shamsul Hasan Khan,61845,35530,14.21
+ls-1971,LS,India,1971,1971,official,464,Pratapgarh,GEN,Uttar Pradesh,241053,INC,Dinesh Singh,156902,SSP,Munishwar Dutt Upadhyaya,76716,80186,33.26
+ls-1971,LS,India,1971,1971,official,465,Rae Bareli,GEN,Uttar Pradesh,276274,INC,Indira Nehru Gandhi,183309,SSP,Raj Narain,71499,111810,40.47
+ls-1971,LS,India,1971,1971,official,466,Rampur,GEN,Uttar Pradesh,349834,INC,Zulfiquar Ali Khan,198323,BJS,Krishna Murari,133983,64340,18.39
+ls-1971,LS,India,1971,1971,official,467,Ramsanehighat,GEN,Uttar Pradesh,178684,INC,Baij Nath Kureel,103705,NCO,Baboo Lal Kusumesh,63876,39829,22.29
+ls-1971,LS,India,1971,1971,official,468,Robertsganj,GEN,Uttar Pradesh,194656,INC,Ram Swaroop,92724,BJS,Subedar Prasad,58147,34577,17.76
+ls-1971,LS,India,1971,1971,official,469,Saharanpur,GEN,Uttar Pradesh,245731,INC,Sunder Lall,185199,NCO,Ram Singh,37809,147390,59.98
+ls-1971,LS,India,1971,1971,official,470,Saidpur,GEN,Uttar Pradesh,268231,INC,Shambhu Nath,136682,BKD,Ram Yash Ram,65236,71446,26.64
+ls-1971,LS,India,1971,1971,official,471,Salempur,GEN,Uttar Pradesh,267541,INC,Tarkeshwar Panday,168109,SSP,Ugrasen,65308,102801,38.42
+ls-1971,LS,India,1971,1971,official,472,Shahabad,GEN,Uttar Pradesh,235782,INC,Dharmgaj Singh,108495,BJS,Ganga Bhakt Singh,82424,26071,11.06
+ls-1971,LS,India,1971,1971,official,473,Shahjahanpur,GEN,Uttar Pradesh,251543,INC,Kunwar Jitendra Prasad,103183,BJS,Bishan Chandra Seth,81259,21924,8.72
+ls-1971,LS,India,1971,1971,official,474,Sitapur,GEN,Uttar Pradesh,229547,INC,Jagdish Chandra Dixit,130086,BJS,Jainarain Rathi,77854,52232,22.75
+ls-1971,LS,India,1971,1971,official,475,Sultanpur,GEN,Uttar Pradesh,173820,INC,Kedar Nath Singh,93946,BJS,Ram Piarey Shukla,31131,62815,36.14
+ls-1971,LS,India,1971,1971,official,476,Tehri Garhwal,GEN,Uttar Pradesh,143202,INC,Paripoornanand Palmule,79820,IND,Manabendra Shah,31585,48235,33.68
+ls-1971,LS,India,1971,1971,official,477,Unnao,GEN,Uttar Pradesh,257380,INC,Ziaur Rahman,132054,BJS,Bajrang Bali Brahmachari,72896,59158,22.98
+ls-1971,LS,India,1971,1971,official,478,Varanasi,GEN,Uttar Pradesh,295512,INC,Raja Ram Shastri,138789,BJS,Kamla Prasad Singh,52941,85848,29.05
+ls-1971,LS,India,1971,1971,official,479,Alipurduars,GEN,West Bengal,354713,CPI,Indrajit Gupta,173795,CPI(M),Kamal Sarkar,146837,26958,7.6
+ls-1971,LS,India,1971,1971,official,480,Arambagh,GEN,West Bengal,337536,CPI(M),Manoranjan Hazra,137842,INC,Santi Mohan Ray,115622,22220,6.58
+ls-1971,LS,India,1971,1971,official,481,Asansol,GEN,West Bengal,267870,CPI(M),Robin Sen,132268,INC,Narayan Choudhury,98608,33660,12.57
+ls-1971,LS,India,1971,1971,official,482,Ausgram,GEN,West Bengal,345030,CPI(M),Halder Krishna Chandra,160100,BAC,Mahadeb Saha,69188,90912,26.35
+ls-1971,LS,India,1971,1971,official,483,Balurghat,GEN,West Bengal,336050,INC,Rasendra Nath Barman,159896,CPI(M),Pijush Kanti Das,74618,85278,25.38
+ls-1971,LS,India,1971,1971,official,484,Bankura,GEN,West Bengal,245812,INC,Sankar Narayan Singh Deo,81144,CPI(M),Mahadeb Mukherjee,55646,25498,10.37
+ls-1971,LS,India,1971,1971,official,485,Barasat,GEN,West Bengal,335858,CPI,Ranendra Nath Sen,111806,CPI(M),Hemanta Gangopadhyay,102567,9239,2.75
+ls-1971,LS,India,1971,1971,official,486,Barrackpore,GEN,West Bengal,505600,CPI(M),Md. Ismail,284590,CPI,Renu Chakraborty,200815,83775,16.57
+ls-1971,LS,India,1971,1971,official,487,Basirhat,GEN,West Bengal,311804,INC,A. K. M. Ishaque,128640,CPI(M),Md. Abdullarasul,73730,54910,17.61
+ls-1971,LS,India,1971,1971,official,488,Berhampore,GEN,West Bengal,296245,RSP,Tridib Choudhuri,75316,INC,Karim Rezaul,64559,10757,3.63
+ls-1971,LS,India,1971,1971,official,489,Birbhum,GEN,West Bengal,203890,CPI(M),Gadadhar Saha,80712,INC,Kanai Saha,72327,8385,4.11
+ls-1971,LS,India,1971,1971,official,490,Bolpur,GEN,West Bengal,254684,CPI(M),Saradish Roy,115591,INC,Phulrenu Guha,78966,36625,14.38
+ls-1971,LS,India,1971,1971,official,491,Burdwan,GEN,West Bengal,359065,CPI(M),Chatterjee Somnath,203645,INC,Bholanath Sen,139565,64080,17.85
+ls-1971,LS,India,1971,1971,official,492,Contai,GEN,West Bengal,339388,PSP,Samar Guha,141540,NCO,Abha Maity,71181,70359,20.73
+ls-1971,LS,India,1971,1971,official,493,Cooch Behar,GEN,West Bengal,347758,INC,Benoy Krishna Daschowdhury,150869,CPI(M),Nagendra Nath Roy,80265,70604,20.3
+ls-1971,LS,India,1971,1971,official,494,Darjeeling,GEN,West Bengal,254313,CPI(M),Ratanlall Brahman,84408,IGL,Gurung G. S,72131,12277,4.83
+ls-1971,LS,India,1971,1971,official,495,Diamond Harbour,GEN,West Bengal,384197,CPI(M),Jyotirmoy Basu,204987,INC,Ambar Prosad Bandopadhaya,131651,73336,19.09
+ls-1971,LS,India,1971,1971,official,496,Ghatal,GEN,West Bengal,359456,CPI(M),Jagadish Bhattacharyya,128366,INC,Parihal Ghosh,127044,1322,0.37
+ls-1971,LS,India,1971,1971,official,497,Hooghly,GEN,West Bengal,426960,CPI(M),Bijoy Krishna Modak,202672,INC,Phani Ghosh,171201,31471,7.37
+ls-1971,LS,India,1971,1971,official,498,Howrah,GEN,West Bengal,316410,CPI(M),Samar Mukherjee,150917,INC,Mrityunjoy Banerjee,125875,25042,7.91
+ls-1971,LS,India,1971,1971,official,499,Jalpaiguri,GEN,West Bengal,288783,INC,Tuna Oraon,113104,CPI(M),Birsen Kujar,60137,52967,18.34
+ls-1971,LS,India,1971,1971,official,500,Jangipur,GEN,West Bengal,300584,INC,Lutfal Haque,104170,RSP,Barun Roy,54814,49356,16.42
+ls-1971,LS,India,1971,1971,official,501,Jhargram,GEN,West Bengal,339939,INC,Amiya Kumar Kisku,102762,CPI(M),Jadu Nath Kisku,88069,14693,4.32
+ls-1971,LS,India,1971,1971,official,502,Joynagar,GEN,West Bengal,381983,INC,Sakti Kumar Sarkar,158943,CPI(M),Nirmal Kumar Sinha,84707,74236,19.43
+ls-1971,LS,India,1971,1971,official,503,Katwa,GEN,West Bengal,369737,CPI(M),Saroj Mukherjee,210422,INC,Dwaipayan Sen,141935,68487,18.52
+ls-1971,LS,India,1971,1971,official,504,Kolkata North East,GEN,West Bengal,280659,CPI,Hiren Mukherjee,113230,CPI(M),Piyus Kanti Das Gupta,110939,2291,0.82
+ls-1971,LS,India,1971,1971,official,505,Kolkata North West,GEN,West Bengal,251544,INC,Asoke Kumar Sen,144055,CPI(M),Prasanta Kumar Sur,70776,73279,29.13
+ls-1971,LS,India,1971,1971,official,506,Kolkata South,GEN,West Bengal,286169,INC,Priya Ranjandas Munsi,144952,CPI(M),Ganesh Ghosh,122913,22039,7.7
+ls-1971,LS,India,1971,1971,official,507,Krishnanagar,GEN,West Bengal,294534,CPI(M),Renupada Das,108872,INC,Ila Pal Chaudhuri,75241,33631,11.42
+ls-1971,LS,India,1971,1971,official,508,Malda,GEN,West Bengal,326850,CPI(M),Dinesh Chandrajoarder,137071,INC,Uma Roy,103305,33766,10.33
+ls-1971,LS,India,1971,1971,official,509,Mathurapur,GEN,West Bengal,413195,CPI(M),Madhurjya Haldar,111656,INC,Bimalendu Sekhar Naskar,110071,1585,0.38
+ls-1971,LS,India,1971,1971,official,510,Medinipur,GEN,West Bengal,348390,INC,Subodh Chandra Hansda,140326,CPI,Choubey Narayan,118317,22009,6.32
+ls-1971,LS,India,1971,1971,official,511,Murshidabad,GEN,West Bengal,272605,IND,Chowdhury Abu Taleb,93716,BJS,Syed Badrudduja,43641,50075,18.37
+ls-1971,LS,India,1971,1971,official,512,Nabadwip,GEN,West Bengal,376592,CPI(M),Bibha Ghosh,176543,INC,Promotha Ranjan Thakur,165943,10600,2.81
+ls-1971,LS,India,1971,1971,official,513,Purulia,GEN,West Bengal,251453,INC,Debendra Nath Mahata,130264,LSS,Bhajahari Mahato,54221,76043,30.24
+ls-1971,LS,India,1971,1971,official,514,Raiganj,GEN,West Bengal,297417,INC,Sidhartha Sankar Ray,147360,CPI(M),Subodh Sen,83353,64007,21.52
+ls-1971,LS,India,1971,1971,official,515,Srerampur,GEN,West Bengal,342288,CPI(M),Dinendra Nath Bhattacharyya,167530,CPI,Jadu Gopal Sen,105072,62458,18.25
+ls-1971,LS,India,1971,1971,official,516,Tamluk,GEN,West Bengal,393633,BAC,Satis Chandra Samanta,142294,CPI,Aruna Asaf Ali,135023,7271,1.85
+ls-1971,LS,India,1971,1971,official,517,Uluberia,GEN,West Bengal,383628,CPI(M),Shyamaprasanna Bhattacharyya,176192,INC,Murari Mohan Manna,123472,52720,13.74
+ls-1971,LS,India,1971,1971,official,518,Vishnupur,GEN,West Bengal,295726,CPI(M),Ajit Kumar Saha,98438,INC,Khan Guru Pada,95978,2460,0.83

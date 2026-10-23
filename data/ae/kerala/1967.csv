@@ -1,0 +1,134 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-kerala-1967,AE,Kerala,1967,1967,official,1,Manjeshwar,GEN,,43141,IND,K.M.Bhandary,23471,CPI(M),M.R.Rai,18690,4781,11.08
+ae-kerala-1967,AE,Kerala,1967,1967,official,2,Kasaragod,GEN,,45904,IND,U.P.Kunikullaya,20635,IUML,H.A.Schemnad,20540,95,0.21
+ae-kerala-1967,AE,Kerala,1967,1967,official,3,Hosdrug,GEN,,46157,SSP,N.K.Balakrishnan,25717,INC,M.N.Nambiar,16056,9661,20.93
+ae-kerala-1967,AE,Kerala,1967,1967,official,4,Nileswar,GEN,,48833,CPI(M),V.V.Kunhambu,34496,INC,T.P.G.Namboodiri,12909,21587,44.21
+ae-kerala-1967,AE,Kerala,1967,1967,official,5,Edakkad,GEN,,55200,CPI(M),C.Kannan,32563,INC,P.P.Lakshmanan,22125,10438,18.91
+ae-kerala-1967,AE,Kerala,1967,1967,official,6,Kannur,GEN,,62258,IUML,E.Ahamed,35261,INC,N.K.Kumaran,26997,8264,13.27
+ae-kerala-1967,AE,Kerala,1967,1967,official,7,Madayi,GEN,,48690,IND,M.Manjuran,32974,INC,P.Krishnan,13862,19112,39.25
+ae-kerala-1967,AE,Kerala,1967,1967,official,8,Payyannur,GEN,,47006,CPI(M),A.V.Kunhabgu,29835,INC,V.T.N.Poduval,14774,15061,32.04
+ae-kerala-1967,AE,Kerala,1967,1967,official,9,Taliparamba,GEN,,55855,CPI(M),K.P.R.Poduval,31508,INC,N.C.Varghese,22233,9275,16.61
+ae-kerala-1967,AE,Kerala,1967,1967,official,10,Irikkur,GEN,,48269,CPI(M),E.P.K.Nambiar,31590,INC,K.R. Karunakaran,16679,14911,30.89
+ae-kerala-1967,AE,Kerala,1967,1967,official,11,Kuthuparamba,GEN,,48995,SSP,K.K.Abee,28449,INC,M.K.Krishnan,17797,10652,21.74
+ae-kerala-1967,AE,Kerala,1967,1967,official,12,Thalassery,GEN,,56384,CPI(M),K.P.R.Gopalan,34612,INC,P.Nanoo,21772,12840,22.77
+ae-kerala-1967,AE,Kerala,1967,1967,official,13,Peringalam,GEN,,51735,SSP,P.R.Kurup,38701,INC,N.M.Nambiar,13034,25667,49.61
+ae-kerala-1967,AE,Kerala,1967,1967,official,14,North Wynad,ST,,34953,CPI(M),K.K.Annan,19983,INC,C.M.Kulian,14970,5013,14.34
+ae-kerala-1967,AE,Kerala,1967,1967,official,15,Badagara,GEN,,50465,SSP,M.Krishnan,37488,INC,M.Venugopal,12977,24511,48.57
+ae-kerala-1967,AE,Kerala,1967,1967,official,16,Nadapuram,GEN,,48925,CPI(M),E.V.Kumaran,31395,INC,P.Balakrishnan,14936,16459,33.64
+ae-kerala-1967,AE,Kerala,1967,1967,official,17,Meppayur,GEN,,49004,CPI(M),M.K.Kelu,33365,INC,C.K.Kurup,15639,17726,36.17
+ae-kerala-1967,AE,Kerala,1967,1967,official,18,Quilandy,GEN,,57958,SSP,P.K.Kidave,32390,INC,K.Gopalan,23375,9015,15.55
+ae-kerala-1967,AE,Kerala,1967,1967,official,19,Perambra,GEN,,51678,CPI(M),V.V.D.Moorthy,30307,INC,K.T.K.Nair,18784,11523,22.3
+ae-kerala-1967,AE,Kerala,1967,1967,official,20,Balusseri,GEN,,54077,SSP,A.K.Appu,29069,INC,O.K.Govindan,22491,6578,12.16
+ae-kerala-1967,AE,Kerala,1967,1967,official,21,Kunnamangalam,GEN,,46272,SSP,V.K.Nair,28773,INC,K.P.Padmanabhan,13171,15602,33.72
+ae-kerala-1967,AE,Kerala,1967,1967,official,22,Kalpetta,GEN,,37382,IND,B.Wellingdon,23510,INC,A.V.R.G.Menon,11960,11550,30.9
+ae-kerala-1967,AE,Kerala,1967,1967,official,23,South Wynad,ST,,34830,SSP,M.Ramunni,20220,INC,M.C.Maru,14610,5610,16.11
+ae-kerala-1967,AE,Kerala,1967,1967,official,24,Calicut I,GEN,,62574,CPI(M),P.C.R.Nair,32794,INC,M.Kamalam,27710,5084,8.12
+ae-kerala-1967,AE,Kerala,1967,1967,official,25,Calicut Ii,GEN,,57293,IUML,P.M.Abubacker,32415,INC,V.Zubair,21859,10556,18.42
+ae-kerala-1967,AE,Kerala,1967,1967,official,26,Beypore,GEN,,52497,CPI(M),K.C.Master,33479,INC,I.P.Krishnan,14947,18532,35.3
+ae-kerala-1967,AE,Kerala,1967,1967,official,27,Tirurangadi,GEN,,50928,IUML,A.K.N.Laji,29267,INC,T.P.K.Kutty,19599,9668,18.98
+ae-kerala-1967,AE,Kerala,1967,1967,official,28,Tanur,GEN,,43955,IUML,M.M.K.Haji,29219,INC,T.A.Kutty,10491,18728,42.61
+ae-kerala-1967,AE,Kerala,1967,1967,official,29,Tirur,GEN,,47085,IUML,K.M.K.Haji,28558,INC,R.Muhamed,18527,10031,21.3
+ae-kerala-1967,AE,Kerala,1967,1967,official,30,Kuttippuram,GEN,,39213,IUML,C.M.Kutty,28245,INC,P.R.Menon,10968,17277,44.06
+ae-kerala-1967,AE,Kerala,1967,1967,official,31,Kondotty,GEN,,50171,IUML,S.U.Bafakih,33166,INC,M.P.Gangadharan,13874,19292,38.45
+ae-kerala-1967,AE,Kerala,1967,1967,official,32,Malappuram,GEN,,44907,IUML,M.P.M.A.Kurikkel,32813,INC,A.C.Shanmughadas,12094,20719,46.14
+ae-kerala-1967,AE,Kerala,1967,1967,official,33,Manjeri,SC,,37313,IUML,M.Chadayan,23752,INC,S.Mariappan,12636,11116,29.79
+ae-kerala-1967,AE,Kerala,1967,1967,official,34,Nilambur,GEN,,40641,CPI(M),K.Kunhali,25215,INC,A.Mohamed,15426,9789,24.09
+ae-kerala-1967,AE,Kerala,1967,1967,official,35,Ponnani,GEN,,49083,IUML,V.P.C.Thangal,30251,INC,K.G.K.Menon,16430,13821,28.16
+ae-kerala-1967,AE,Kerala,1967,1967,official,36,Trithala,SC,,40686,CPI(M),E.T.Kunhan,24119,INC,K.Kunhambu,14485,9634,23.68
+ae-kerala-1967,AE,Kerala,1967,1967,official,37,Pattambi,GEN,,40024,CPI(M),E.M.S.Namboodiripad,23955,INC,K.G.Menon,11838,12117,30.27
+ae-kerala-1967,AE,Kerala,1967,1967,official,38,Ottapalam,GEN,,34209,CPI(M),P.P.Krishnan,21086,INC,M.N.Kurup,13123,7963,23.28
+ae-kerala-1967,AE,Kerala,1967,1967,official,39,Sreekrishnapuram,GEN,,28272,CPI(M),C.G.Panicker,18762,INC,K.R.Nair,9510,9252,32.72
+ae-kerala-1967,AE,Kerala,1967,1967,official,40,Mankada,GEN,,36961,IUML,H.C.H.M.Koya,29503,INC,V.S.A.C.K.Thangal,4986,24517,66.33
+ae-kerala-1967,AE,Kerala,1967,1967,official,41,Perinthalmanna,GEN,,31798,CPI(M),P.M.Kutty,24285,INC,P.M.Sadio,7513,16772,52.75
+ae-kerala-1967,AE,Kerala,1967,1967,official,42,Mannarkad,GEN,,31428,CPI(M),E.K.I.Bava,20504,INC,N.Balasubramanyan,8608,11896,37.85
+ae-kerala-1967,AE,Kerala,1967,1967,official,43,Palakkad,GEN,,45494,CPI(M),R.Krishnan,24627,INC,K.Sankaranayayanan,14996,9631,21.17
+ae-kerala-1967,AE,Kerala,1967,1967,official,44,Malampuzha,GEN,,39039,CPI(M),M.P.Kunhiraman,27454,INC,A.Narayanan,11585,15869,40.65
+ae-kerala-1967,AE,Kerala,1967,1967,official,45,Chittur,GEN,,41159,SSP,K.A.S.Bharathy,23985,INC,A.S.Sahib,17174,6811,16.55
+ae-kerala-1967,AE,Kerala,1967,1967,official,46,Kollengode,GEN,,38089,CPI(M),C.V.Menon,19779,INC,Gangadharan,14370,5409,14.2
+ae-kerala-1967,AE,Kerala,1967,1967,official,47,Alathur,GEN,,39097,CPI(M),R.Krishnan,25467,INC,Sarada,13630,11837,30.28
+ae-kerala-1967,AE,Kerala,1967,1967,official,48,Kuzhalmannam,SC,,33142,SSP,O.Koran,19138,INC,E.Kontha,11452,7686,23.19
+ae-kerala-1967,AE,Kerala,1967,1967,official,49,Chelakkara,SC,,41895,CPI(M),P.Kunhan,21175,INC,K.K.Balakrishnan,19123,2052,4.9
+ae-kerala-1967,AE,Kerala,1967,1967,official,50,Wadakkanchery,GEN,,48091,SSP,N.K.Seshan,23857,INC,K.S.N.Namboodiri,22173,1684,3.5
+ae-kerala-1967,AE,Kerala,1967,1967,official,51,Kunnamkulam,GEN,,53415,CPI(M),A.S.N.Nambissan,27014,INC,A.K.Kunhunny,24930,2084,3.9
+ae-kerala-1967,AE,Kerala,1967,1967,official,52,Manalur,GEN,,53962,INC,N.I.Devassykutty,26523,IND,V.Mecheri,26374,149,0.28
+ae-kerala-1967,AE,Kerala,1967,1967,official,53,Thrissur,GEN,,53673,CPI(M),K.S.Nair,26149,INC,T.P.Seetharaman,25547,602,1.12
+ae-kerala-1967,AE,Kerala,1967,1967,official,54,Ollur,GEN,,50015,CPI(M),A.V.Aryan,24569,INC,P.P.Francis,24421,148,0.3
+ae-kerala-1967,AE,Kerala,1967,1967,official,55,Irinjalakkuda,GEN,,50666,CPI,C.K.Rajan,27151,INC,R.Pozhekadavil,23515,3636,7.18
+ae-kerala-1967,AE,Kerala,1967,1967,official,56,Kodakara,GEN,,46200,CPI,P.S. Namboodiri,24265,INC,P.R. Krishnan,15680,8585,18.58
+ae-kerala-1967,AE,Kerala,1967,1967,official,57,Chalakkudy,GEN,,52357,INC,P.P. Geroge,26568,CPI,P.K. Chathan,23107,3461,6.61
+ae-kerala-1967,AE,Kerala,1967,1967,official,58,Mala,GEN,,46762,INC,K.Karunakaran,23563,CPI,K.A.Thomas,23199,364,0.78
+ae-kerala-1967,AE,Kerala,1967,1967,official,59,Guruvayoor,GEN,,44783,IUML,B.V.S.Thangal,20986,INC,A.A.Kochunny,20523,463,1.03
+ae-kerala-1967,AE,Kerala,1967,1967,official,60,Nattika,GEN,,52269,CPI(M),T . K . Krishnan,27635,INC,K . K . Viswanathan,24634,3001,5.74
+ae-kerala-1967,AE,Kerala,1967,1967,official,61,Cranganore,GEN,,51486,CPI,P . K . Gopalakrishnan,26536,INC,M . Sagir,23221,3315,6.44
+ae-kerala-1967,AE,Kerala,1967,1967,official,62,Angamaly,GEN,,50831,CPI(M),A . P . Kurian,21427,INC,A . C . George,15237,6190,12.18
+ae-kerala-1967,AE,Kerala,1967,1967,official,63,Vadakara,GEN,,55835,CPI(M),E . Balanandan,28234,INC,K . R . Vijayan,27601,633,1.13
+ae-kerala-1967,AE,Kerala,1967,1967,official,64,Parur,GEN,,45569,INC,K . T . George,17418,IND,V . Painadan,13719,3699,8.12
+ae-kerala-1967,AE,Kerala,1967,1967,official,65,Narakal,GEN,,49848,CPI(M),A . S . Purushothaman,24616,INC,K . C . Abraham,23474,1142,2.29
+ae-kerala-1967,AE,Kerala,1967,1967,official,66,Mattancherry,GEN,,53655,IUML,M . P . M . Jafferkhan,28175,INC,P . T . Jacob,21763,6412,11.95
+ae-kerala-1967,AE,Kerala,1967,1967,official,67,Palluruthy,GEN,,50488,CPI(M),P . Gangadharan,24779,INC,A . L . Jacob,23395,1384,2.74
+ae-kerala-1967,AE,Kerala,1967,1967,official,68,Thripunithura,GEN,,56137,CPI(M),T . K . Ramakrishnan,27435,INC,P . P . Mani,25976,1459,2.6
+ae-kerala-1967,AE,Kerala,1967,1967,official,69,Eranakulam,GEN,,50970,INC,A . Parambithara,23270,CPI,K . A . Rajan,22973,297,0.58
+ae-kerala-1967,AE,Kerala,1967,1967,official,70,Aluva,GEN,,53473,IND,M . K . A . Hameed,29978,INC,V . P . Marakkar,20360,9618,17.99
+ae-kerala-1967,AE,Kerala,1967,1967,official,71,Perumbavoor,GEN,,47125,CPI(M),P . G . Pillai,23161,INC,K . G . R . Kartha,17996,5165,10.96
+ae-kerala-1967,AE,Kerala,1967,1967,official,72,Kunnathunad,SC,,51645,CPI(M),M . K . Krishnan,28083,INC,K . K . Madhavan,21203,6880,13.32
+ae-kerala-1967,AE,Kerala,1967,1967,official,73,Kothamangalam,GEN,,51229,CPI(M),T . M . Meethiyan,21210,KEC,M . I . Markose,14822,6388,12.47
+ae-kerala-1967,AE,Kerala,1967,1967,official,74,Muvattupuzha,GEN,,49756,CPI,P . V . Abraham,21333,INC,K . C . Paily,15400,5933,11.92
+ae-kerala-1967,AE,Kerala,1967,1967,official,75,Thodupuzha,GEN,,42690,IND,K . C . Zachariah,18780,KEC,E . M . Joseph,17286,1494,3.5
+ae-kerala-1967,AE,Kerala,1967,1967,official,76,Karimannoor,GEN,,39609,IND,M . M . Thomas,19070,KEC,A . C . Chacko,12870,6200,15.65
+ae-kerala-1967,AE,Kerala,1967,1967,official,77,Devikulam,SC,,35590,INC,N . Ganapathy,15895,CPI(M),G . Varathan,15607,288,0.81
+ae-kerala-1967,AE,Kerala,1967,1967,official,78,Udumbanchola,GEN,,53261,CPI,K . T . Jacob,28085,KEC,Mathachan,19021,9064,17.02
+ae-kerala-1967,AE,Kerala,1967,1967,official,79,Peerumade,SC,,36364,CPI(M),K . I . Rajan,18934,INC,Ramiah,12199,6735,18.52
+ae-kerala-1967,AE,Kerala,1967,1967,official,80,Kanjirappally,GEN,,44118,CPI(M),M . Kamal,22681,KEC,C . J . Antony,14335,8346,18.92
+ae-kerala-1967,AE,Kerala,1967,1967,official,81,Vazhoor,GEN,,40890,CPI,K . P . Pillai,19789,KEC,K . N . Kurup,14760,5029,12.3
+ae-kerala-1967,AE,Kerala,1967,1967,official,82,Changanassery,GEN,,49516,CPI,K .G . N . Nambudiripad,21278,KEC,K . J . Chacko,15353,5925,11.97
+ae-kerala-1967,AE,Kerala,1967,1967,official,83,Puthuppally,GEN,,46575,CPI(M),E . M . George,22589,INC,P . C . Cheriyan,17037,5552,11.92
+ae-kerala-1967,AE,Kerala,1967,1967,official,84,Kottayam,GEN,,49242,CPI(M),M . K . George,25298,INC,M . P. G . Nair,16188,9110,18.5
+ae-kerala-1967,AE,Kerala,1967,1967,official,85,Ettumanoor,GEN,,49604,SSP,P . P . Wilson,20248,KEC,M . M . Joseph,16213,4035,8.13
+ae-kerala-1967,AE,Kerala,1967,1967,official,86,Akalakunnam,GEN,,41740,KEC,J . A . Chacko,18049,CPI(M),M . G . K . Nair,15770,2279,5.46
+ae-kerala-1967,AE,Kerala,1967,1967,official,87,Poonjar,GEN,,41946,KEC,K . M . George,19944,CPI(M),K . K . Menon,16386,3558,8.48
+ae-kerala-1967,AE,Kerala,1967,1967,official,88,Pala,GEN,,49028,KEC,K . M . Mani,19118,IND,V . T . Thomas,16407,2711,5.53
+ae-kerala-1967,AE,Kerala,1967,1967,official,89,Kaduthuruthy,GEN,,47275,KEC,J . Chazhikattu,18719,CPI(M),K . K . Joseph,16581,2138,4.52
+ae-kerala-1967,AE,Kerala,1967,1967,official,90,Vaikom,GEN,,51972,CPI,P . S . Srinivasan,28502,INC,P . Parameswaran,19043,9459,18.2
+ae-kerala-1967,AE,Kerala,1967,1967,official,91,Aroor,GEN,,52077,CPI(M),K . R . G . Thomas,28274,INC,K . Bhasi,21097,7177,13.78
+ae-kerala-1967,AE,Kerala,1967,1967,official,92,Sherthalai,GEN,,47151,CPI(M),N . P . Thandar,23350,INC,K . R . Damodaran,15491,7859,16.67
+ae-kerala-1967,AE,Kerala,1967,1967,official,93,Mararikulam,GEN,,53587,CPI(M),S . Damodaran,30277,INC,D . Krishnan,18246,12031,22.45
+ae-kerala-1967,AE,Kerala,1967,1967,official,94,Alappuzha,GEN,,50085,CPI,T . V . Thomas,28880,INC,G. C . Iyer,15554,13326,26.61
+ae-kerala-1967,AE,Kerala,1967,1967,official,95,Ambalapuzha,GEN,,50309,CPI(M),V . S . Achyuthanandan,26627,INC,A . Achyuthan,17112,9515,18.91
+ae-kerala-1967,AE,Kerala,1967,1967,official,96,Kuttanad,GEN,,48938,IND,K . K . K . Pillai,23797,KEC,T . John,16633,7164,14.64
+ae-kerala-1967,AE,Kerala,1967,1967,official,97,Haripad,GEN,,56653,CPI(M),C . B . C . Warrier,28199,INC,K . P . R . Nair,27079,1120,1.98
+ae-kerala-1967,AE,Kerala,1967,1967,official,98,Kayamkulam,GEN,,52096,SSP,P. K. Kungu,27227,INC,T . Prabhakaran,23446,3781,7.26
+ae-kerala-1967,AE,Kerala,1967,1967,official,99,Thiruvalla,GEN,,50787,KEC,E . J. Jacob,18970,SSP,P . K . Mathew,16992,1978,3.89
+ae-kerala-1967,AE,Kerala,1967,1967,official,100,Kallooppara,GEN,,44242,INC,G.Thomas,17267,CPI(M),N. T. George,13668,3599,8.13
+ae-kerala-1967,AE,Kerala,1967,1967,official,101,Aranmula,GEN,,47539,SSP,P.N. Chandrasenan,19665,INC,K. V. Nair,16743,2922,6.15
+ae-kerala-1967,AE,Kerala,1967,1967,official,102,Chengannur,GEN,,50408,CPI(M),P.G.P. Pillai,17524,INC,N.S.K. Pillai,16004,1520,3.02
+ae-kerala-1967,AE,Kerala,1967,1967,official,103,Mavelikara,GEN,,52078,SSP,G . G . Pillai,26669,INC,K . K . C . Pillai,23226,3443,6.61
+ae-kerala-1967,AE,Kerala,1967,1967,official,104,Pandalam,SC,,53074,CPI(M),P . K . Kunjachan,27740,INC,T . K . Kali,22825,4915,9.26
+ae-kerala-1967,AE,Kerala,1967,1967,official,105,Ranni,GEN,,42727,CPI,M . K . Divakaran,18628,INC,N . J . Mathews,12795,5833,13.65
+ae-kerala-1967,AE,Kerala,1967,1967,official,106,Pathanamthitta,GEN,,53575,IND,K . K . Nair,26351,KEC,V . Idicula,16208,10143,18.93
+ae-kerala-1967,AE,Kerala,1967,1967,official,107,Konni,GEN,,48277,CPI,P . P . R . M . Pillai,24775,INC,P . J . Thomas,21733,3042,6.3
+ae-kerala-1967,AE,Kerala,1967,1967,official,108,Pathanapuram,SC,,41477,CPI,P . K . Raghwan,23401,INC,P . K . Ramachandradas,11520,11881,28.64
+ae-kerala-1967,AE,Kerala,1967,1967,official,109,Punaloor,GEN,,45491,CPI,M . N . G . Nair,23931,INC,P . C . Baby,18794,5137,11.29
+ae-kerala-1967,AE,Kerala,1967,1967,official,110,Chadayamangalam,GEN,,48807,SSP,D . D . Potti,29980,INC,B . Pillai,18122,11858,24.3
+ae-kerala-1967,AE,Kerala,1967,1967,official,111,Kottarakkara,GEN,,57995,CPI,E . C . Nair,24672,KEC,R . B . Pillai,23112,1560,2.69
+ae-kerala-1967,AE,Kerala,1967,1967,official,112,Kunnathur,SC,,48102,IND,K . C . S . Sastry,26510,INC,T . Kesavan,13559,12951,26.92
+ae-kerala-1967,AE,Kerala,1967,1967,official,113,Adoor,GEN,,51158,CPI,Ramalingom,25804,IND,P . Raghavan,12970,12834,25.09
+ae-kerala-1967,AE,Kerala,1967,1967,official,114,Krishnapuram,GEN,,49573,CPI,P . U . Pillai,29134,INC,M . K . Hemachandran,18810,10324,20.83
+ae-kerala-1967,AE,Kerala,1967,1967,official,115,Karunagappally,GEN,,55089,IND,B . John,32227,INC,K . V . S . Pannikar,20184,12043,21.86
+ae-kerala-1967,AE,Kerala,1967,1967,official,116,Quilon,GEN,,51127,IND,T . K . Divakaran,29075,INC,H . Austin,19324,9751,19.07
+ae-kerala-1967,AE,Kerala,1967,1967,official,117,Kundara,GEN,,57022,CPI(M),P . K . Sukumaran,28882,INC,V . S . Pillai,23288,5594,9.81
+ae-kerala-1967,AE,Kerala,1967,1967,official,118,Eravipuram,GEN,,49018,IND,R . S . Unni,31083,INC,K . K . Krishnan,17935,13148,26.82
+ae-kerala-1967,AE,Kerala,1967,1967,official,119,Chathannur,GEN,,49424,CPI,P . Ravindran,27181,KEC,S . T . Pillai,15972,11209,22.68
+ae-kerala-1967,AE,Kerala,1967,1967,official,120,Varkala,GEN,,42681,CPI,A . Majid,24796,INC,S . Hameed,17885,6911,16.19
+ae-kerala-1967,AE,Kerala,1967,1967,official,121,Attingal,GEN,,48697,CPI(M),K.P.K.Das,26871,INC,B.Purushothaman,21826,5045,10.36
+ae-kerala-1967,AE,Kerala,1967,1967,official,122,Kilimanoor,SC,,45354,CPI(M),C.K.Balakrishnan,25932,INC,K.P.Madhavan,19422,6510,14.35
+ae-kerala-1967,AE,Kerala,1967,1967,official,123,Vamanapuram,GEN,,40575,CPI(M),N.V.Pillai,24270,INC,M.K.Pillai,16305,7965,19.63
+ae-kerala-1967,AE,Kerala,1967,1967,official,124,Eranad,GEN,,35378,SSP,M.Majeed,18350,INC,V.Sankaran,14749,3601,10.18
+ae-kerala-1967,AE,Kerala,1967,1967,official,125,Nedumangad,GEN,,39236,CPI,K.G.K.Pallai,20584,INC,S.V.Nair,14931,5653,14.41
+ae-kerala-1967,AE,Kerala,1967,1967,official,126,Kazhakkoottam,GEN,,48522,IUML,M.H.Sahib,22008,INC,N.L.Vaidyan,20694,1314,2.71
+ae-kerala-1967,AE,Kerala,1967,1967,official,127,Trivandrum I,GEN,,43841,SSP,B.M.Nair,22152,INC,M.N.G.Nair,19931,2221,5.07
+ae-kerala-1967,AE,Kerala,1967,1967,official,128,Trivandrum I I,GEN,,51792,IND,K.C.Vamadevan,27806,INC,W.Sebastian,21744,6062,11.7
+ae-kerala-1967,AE,Kerala,1967,1967,official,129,Nemom,GEN,,43833,CPI(M),M.Sadasivan,22800,INC,P.N.Nair,19764,3036,6.93
+ae-kerala-1967,AE,Kerala,1967,1967,official,130,Kovalam,GEN,,38126,IND,J.C.Moraes,18588,INC,M.K.Nadar,18191,397,1.04
+ae-kerala-1967,AE,Kerala,1967,1967,official,131,Vilappil,GEN,,47166,SSP,C.S.N.Nair,25104,INC,M.B.Nair,21128,3976,8.43
+ae-kerala-1967,AE,Kerala,1967,1967,official,132,Neyyattinkara,GEN,,46877,INC,R.G.Nair,24038,CPI(M),M.Sathianesan,22839,1199,2.56
+ae-kerala-1967,AE,Kerala,1967,1967,official,133,Parassala,GEN,,40394,INC,N.Gamaliel,23299,IND,V.Titus,17095,6204,15.36

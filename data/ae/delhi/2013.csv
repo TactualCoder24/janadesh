@@ -1,0 +1,71 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-delhi-2013,AE,Delhi,2013,2013,official,1,Narela,GEN,,143006,BJP,Neel Daman Khatri,54622,BSP,Virender,31077,23545,16.46
+ae-delhi-2013,AE,Delhi,2013,2013,official,2,Burari,GEN,,161653,AAP,Sanjeev Jha,60164,BJP,Shri Krishan,49813,10351,6.4
+ae-delhi-2013,AE,Delhi,2013,2013,official,3,Timarpur,GEN,,112416,AAP,Harish Khanna,39650,BJP,Rajni Abbi,36267,3383,3.01
+ae-delhi-2013,AE,Delhi,2013,2013,official,4,Adarsh Nagar,GEN,,96337,BJP,Ram Kishan Singhal,36985,AAP,Jagdeep Rana,26929,10056,10.44
+ae-delhi-2013,AE,Delhi,2013,2013,official,5,Badli,GEN,,120920,INC,Devender Yadav,54372,BJP,Vijay Kumar Bhagat,31263,23109,19.11
+ae-delhi-2013,AE,Delhi,2013,2013,official,6,Rithala,GEN,,143157,BJP,Kulwant Rana,73961,AAP,Harish Awasthi,48135,25826,18.04
+ae-delhi-2013,AE,Delhi,2013,2013,official,7,Bawana,GEN,,165238,BJP,Gugan Singh,68407,AAP,Manoj,42768,25639,15.52
+ae-delhi-2013,AE,Delhi,2013,2013,official,8,Mundka,GEN,,152658,IND,Rambir Shokeen,52564,BJP,Azad Singh,45430,7134,4.67
+ae-delhi-2013,AE,Delhi,2013,2013,official,9,Kirari,GEN,,138083,BJP,Anil Jha,72283,AAP,Rajan Prakash,23757,48526,35.14
+ae-delhi-2013,AE,Delhi,2013,2013,official,10,Sultanpur Majra,GEN,,104350,INC,Jai Kishan,31458,AAP,Sandeep Kumar,30346,1112,1.07
+ae-delhi-2013,AE,Delhi,2013,2013,official,11,Nangloi Jat,GEN,,134594,BJP,Manoj Kumar Shokeen,57449,INC,Dr. Bijender Singh,46434,11015,8.18
+ae-delhi-2013,AE,Delhi,2013,2013,official,12,Mangol Puri,GEN,,114693,AAP,Rakhi Birla,44383,INC,Raj Kumar Chauhan,33798,10585,9.23
+ae-delhi-2013,AE,Delhi,2013,2013,official,13,Rohini,GEN,,109142,AAP,Rajesh Garg,47890,BJP,Jai Bhagwan Aggarwal,46018,1872,1.72
+ae-delhi-2013,AE,Delhi,2013,2013,official,14,Shalimar Bagh,GEN,,106400,AAP,Bandana Kumari,47235,BJP,Ravinder Nath Bansal,36584,10651,10.01
+ae-delhi-2013,AE,Delhi,2013,2013,official,15,Shakur Basti,GEN,,94533,AAP,Satyender Kumar Jain,40232,BJP,Shyam Lal Garg,33170,7062,7.47
+ae-delhi-2013,AE,Delhi,2013,2013,official,16,Tri Nagar,GEN,,102787,BJP,Nand Kishore Garg,36970,AAP,Jitender Singh Tomar,34161,2809,2.73
+ae-delhi-2013,AE,Delhi,2013,2013,official,17,Wazirpur,GEN,,102244,BJP,Dr Mahander Nagpal,37306,AAP,Praveen Kumar,31732,5574,5.45
+ae-delhi-2013,AE,Delhi,2013,2013,official,18,Model Town,GEN,,95869,AAP,Akhilesh Pati Tripathi,38492,BJP,Ashok Goel,30617,7875,8.21
+ae-delhi-2013,AE,Delhi,2013,2013,official,19,Sadar Bazar,GEN,,108469,AAP,Som Dutt,34079,BJP,Jai Parkash,33283,796,0.73
+ae-delhi-2013,AE,Delhi,2013,2013,official,20,Chandni Chowk,GEN,,69236,INC,Parlad Singh Sawhney,26335,BJP,Suman Kumar Gupta,18092,8243,11.91
+ae-delhi-2013,AE,Delhi,2013,2013,official,21,Matia Mahal,GEN,,71374,JDU,Shoaib Iqbal,22732,INC,Mirza Javed Ali,19841,2891,4.05
+ae-delhi-2013,AE,Delhi,2013,2013,official,22,Balli Maran,GEN,,88364,INC,Haroon Yusuf,32105,BJP,Moti Lal Sodhi,24012,8093,9.16
+ae-delhi-2013,AE,Delhi,2013,2013,official,23,Karol Bagh,GEN,,101401,AAP,Vishesh Ravi,35818,BJP,Surender Pal Ratawal,34068,1750,1.73
+ae-delhi-2013,AE,Delhi,2013,2013,official,24,Patel Nagar,GEN,,101621,AAP,Veena Anand,38899,BJP,Poornima Vidyarthi,32637,6262,6.16
+ae-delhi-2013,AE,Delhi,2013,2013,official,25,Moti Nagar,GEN,,99816,BJP,Subhash Sachdeva,42599,AAP,Kuldeep Singh Channa,26578,16021,16.05
+ae-delhi-2013,AE,Delhi,2013,2013,official,26,Madipur,GEN,,100320,AAP,Girish Soni,36393,BJP,Kailash Sankla,35290,1103,1.1
+ae-delhi-2013,AE,Delhi,2013,2013,official,27,Rajouri Garden,GEN,,100731,SAD,Manjinder Singh Sirsa,41721,INC,A Dhanwati Chandela A,30713,11008,10.93
+ae-delhi-2013,AE,Delhi,2013,2013,official,28,Hari Nagar,GEN,,99341,AAP,Jagdeep Singh,38912,SAD,Shyam Sharma,30036,8876,8.93
+ae-delhi-2013,AE,Delhi,2013,2013,official,29,Tilak Nagar,GEN,,87213,AAP,Jarnail Singh,34493,BJP,Rajiv Babber,32405,2088,2.39
+ae-delhi-2013,AE,Delhi,2013,2013,official,30,Janak Puri,GEN,,106747,BJP,Prof. Jagdish Mukhi,42886,AAP,Rajesh Rishi,40242,2644,2.48
+ae-delhi-2013,AE,Delhi,2013,2013,official,31,Vikaspuri,GEN,,179287,AAP,Mahinder Yadav,62032,BJP,Krishan Gahlot,61627,405,0.23
+ae-delhi-2013,AE,Delhi,2013,2013,official,32,Uttam Nagar,GEN,,131942,BJP,Pawan Sharma,48377,INC,Mukesh Sharma,42031,6346,4.81
+ae-delhi-2013,AE,Delhi,2013,2013,official,33,Dwarka,GEN,,113835,BJP,Parduymn Rajput,42734,AAP,Ravi Kumar Suryan,37537,5197,4.57
+ae-delhi-2013,AE,Delhi,2013,2013,official,34,Matiala,GEN,,193355,BJP,Rajesh Gahlot,70053,AAP,Gulab Singh,66051,4002,2.07
+ae-delhi-2013,AE,Delhi,2013,2013,official,35,Najaf Garh,GEN,,143089,BJP,Ajeet Singh Kharkhari,54358,INLD,Bharat Singh,44590,9768,6.83
+ae-delhi-2013,AE,Delhi,2013,2013,official,36,Bijwasan,GEN,,103187,BJP,Sat Prakash Rana,35988,AAP,Devinder Kumar Sehrawat,33574,2414,2.34
+ae-delhi-2013,AE,Delhi,2013,2013,official,37,Palam,GEN,,127723,BJP,Dharm Dev Solanki,42833,AAP,Bhavna Gaur,34461,8372,6.55
+ae-delhi-2013,AE,Delhi,2013,2013,official,38,Delhi Cantonment,GEN,,65383,AAP,Surender Singh,26124,BJP,Karan Singh Tanwar,25769,355,0.54
+ae-delhi-2013,AE,Delhi,2013,2013,official,39,Rajinder Nagar,GEN,,99153,BJP,R.P.Singh,35713,AAP,Vijender Garg Vijay,33917,1796,1.81
+ae-delhi-2013,AE,Delhi,2013,2013,official,40,New Delhi,GEN,,82342,AAP,Arvind Kejriwal,44269,INC,Sheila Dikshit,18405,25864,31.41
+ae-delhi-2013,AE,Delhi,2013,2013,official,41,Jangpura,GEN,,79820,AAP,Maninder Singh Dhir,29701,INC,Tarvinder Singh Marwah,27957,1744,2.18
+ae-delhi-2013,AE,Delhi,2013,2013,official,42,Kasturba Nagar,GEN,,87778,AAP,Madan Lal,33609,BJP,Shikha Roy,28935,4674,5.32
+ae-delhi-2013,AE,Delhi,2013,2013,official,43,Malviya Nagar,GEN,,81439,AAP,Shri Somnath Bharti,32258,BJP,Ms. Arti Mehra,24486,7772,9.54
+ae-delhi-2013,AE,Delhi,2013,2013,official,44,R .K. Puram,GEN,,83940,BJP,Anil Kumar Sharma,28017,AAP,Shazia Ilmi Malik,27691,326,0.39
+ae-delhi-2013,AE,Delhi,2013,2013,official,45,Mehrauli,GEN,,96137,BJP,Parvesh Sahib Singh,37481,AAP,Narinder Singh Sejwal,32917,4564,4.75
+ae-delhi-2013,AE,Delhi,2013,2013,official,46,Chhatarpur,GEN,,110158,BJP,Brahm Singh Tanwar,49975,INC,Balram Tanwar,33851,16124,14.64
+ae-delhi-2013,AE,Delhi,2013,2013,official,47,Deoli,GEN,,117482,AAP,Prakash,51646,BJP,Gagan Rana @ Gagan Shri Lal Pradhan,34538,17108,14.56
+ae-delhi-2013,AE,Delhi,2013,2013,official,48,Ambedkar Nagar,GEN,,84861,AAP,Ashok Kumar,36239,BJP,Khushi Ram Chunar,24569,11670,13.75
+ae-delhi-2013,AE,Delhi,2013,2013,official,49,Sangam Vihar,GEN,,88869,AAP,Dinesh Mohaniya,24851,BJP,Shiv Charan Lal Gupta,24074,777,0.87
+ae-delhi-2013,AE,Delhi,2013,2013,official,50,Greater Kailash,GEN,,94581,AAP,Saurabh Bharadwaj,43097,BJP,Ajay Kumar Malhotra,30005,13092,13.84
+ae-delhi-2013,AE,Delhi,2013,2013,official,51,Kalkaji,GEN,,90280,BJP,Harmeet Singh,30683,AAP,Dharambir Singh,28639,2044,2.26
+ae-delhi-2013,AE,Delhi,2013,2013,official,52,Tughlakabad,GEN,,86783,BJP,Ramesh Bidhuri,34009,BSP,Sahi Ram,28063,5946,6.85
+ae-delhi-2013,AE,Delhi,2013,2013,official,53,Badarpur,GEN,,131756,BJP,Rambir Singh Bidhuri,45344,INC,Ram Singh Netaji,31490,13854,10.51
+ae-delhi-2013,AE,Delhi,2013,2013,official,54,Okhla,GEN,,137136,INC,Asif Mohd Khan,50004,AAP,Irfanullah Khan,23459,26545,19.36
+ae-delhi-2013,AE,Delhi,2013,2013,official,55,Trilokpuri,GEN,,112579,AAP,Raju,44082,BJP,Sunil Kumar,26397,17685,15.71
+ae-delhi-2013,AE,Delhi,2013,2013,official,56,Kondli,GEN,,107247,AAP,Manoj Kumar,36863,BJP,Dushyant Kumar Gautam,29373,7490,6.98
+ae-delhi-2013,AE,Delhi,2013,2013,official,57,Patpar Ganj,GEN,,120431,AAP,Manish Sisodia,50211,BJP,Nakul Bhardwaj,38735,11476,9.53
+ae-delhi-2013,AE,Delhi,2013,2013,official,58,Lakshmi Bai Nagar,GEN,,117678,AAP,Vinod Kumar Binny,43052,INC,Ashok Kumar Walia,35300,7752,6.59
+ae-delhi-2013,AE,Delhi,2013,2013,official,59,Vishwas Nagar,GEN,,117317,BJP,Om Prakash Sharma,44801,INC,Naseeb Singh,37002,7799,6.65
+ae-delhi-2013,AE,Delhi,2013,2013,official,60,Krishna Nagar,GEN,,118077,BJP,Dr. Harsh Vardhan,69222,INC,Dr Vinod Kumar Monga,26072,43150,36.54
+ae-delhi-2013,AE,Delhi,2013,2013,official,61,Gandhi Nagar,GEN,,100346,INC,Arvinder Singh Lovely,48897,BJP,Ramesh Chand Jain,31936,16961,16.9
+ae-delhi-2013,AE,Delhi,2013,2013,official,62,Shahdara,GEN,,105012,BJP,Jitender Singh Shunty,45364,INC,Narender Nath,30247,15117,14.4
+ae-delhi-2013,AE,Delhi,2013,2013,official,63,Seema Puri,GEN,,113682,AAP,Dharmender Singh,43199,INC,Veer Singh Dhingan,31223,11976,10.53
+ae-delhi-2013,AE,Delhi,2013,2013,official,64,Rohtas Nagar,GEN,,120137,BJP,Jitender Kumar,49916,AAP,Mukesh Hooda,34973,14943,12.44
+ae-delhi-2013,AE,Delhi,2013,2013,official,65,Seelam Pur,GEN,,99295,INC,Chaudhary Mateen Ahmad,46452,BJP,Kaushal Kumar Mishra,24724,21728,21.88
+ae-delhi-2013,AE,Delhi,2013,2013,official,66,Ghonda,GEN,,120549,BJP,Sahab Singh Chauhan,47531,INC,Bhisham Sharma,35599,11932,9.9
+ae-delhi-2013,AE,Delhi,2013,2013,official,67,Babarpur,GEN,,114516,BJP,Naresh Gaur,34180,INC,Zakir Khan,29673,4507,3.94
+ae-delhi-2013,AE,Delhi,2013,2013,official,68,Gokalpur,GEN,,126716,BJP,Ranjeet Singh,34888,IND,Surendra Kumar,32966,1922,1.52
+ae-delhi-2013,AE,Delhi,2013,2013,official,69,Mustafabad,GEN,,146314,INC,Hasan Ahmed,56250,BJP,Jagdish Pradhan,54354,1896,1.3
+ae-delhi-2013,AE,Delhi,2013,2013,official,70,Karawal Nagar,GEN,,141298,BJP,Mohan Singh Bisht,49262,AAP,Kapil Mishra,46179,3083,2.18

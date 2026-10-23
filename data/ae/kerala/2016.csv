@@ -1,0 +1,141 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-kerala-2016,AE,Kerala,2016,2016,official,1,Manjeshwar,GEN,Kasaragod,158238,IUML,P B Abdul Razak,56870,BJP,K Surendran,56781,89,0.06
+ae-kerala-2016,AE,Kerala,2016,2016,official,2,Kasaragod,GEN,Kasaragod,144088,IUML,N A Nellikkunnu,64727,BJP,Ravisha Thantri Kuntar,56120,8607,5.97
+ae-kerala-2016,AE,Kerala,2016,2016,official,3,Udma,GEN,Kasaragod,160465,CPI(M),K Kunhiraman,70679,INC,K Sudhakaran,66847,3832,2.39
+ae-kerala-2016,AE,Kerala,2016,2016,official,4,Kanhangad,GEN,Kasaragod,160333,CPI,E.Chandrashekaran,80558,INC,Dhanya Suresh,54547,26011,16.22
+ae-kerala-2016,AE,Kerala,2016,2016,official,5,Trikaripur,GEN,Kasaragod,154897,CPI(M),M.Rajagopalan,79286,INC,K P Kunhikannan,62327,16959,10.95
+ae-kerala-2016,AE,Kerala,2016,2016,official,6,Payyannur,GEN,Kannur,142400,CPI(M),C Krishnan,83226,INC,Sajid Mavval,42963,40263,28.27
+ae-kerala-2016,AE,Kerala,2016,2016,official,7,Kalliasseri,GEN,Kannur,138127,CPI(M),T V Rajesh,83006,INC,Amritha Ramakrishnan,40115,42891,31.05
+ae-kerala-2016,AE,Kerala,2016,2016,official,8,Taliparamba,GEN,Kannur,159113,CPI(M),James Mathew,91106,KCM,Rajesh Nambiar,50489,40617,25.53
+ae-kerala-2016,AE,Kerala,2016,2016,official,9,Irikkur,GEN,Kannur,147519,INC,K C Joseph,72548,CPI,K T Jose,62901,9647,6.54
+ae-kerala-2016,AE,Kerala,2016,2016,official,10,Azhikode,GEN,Kannur,141045,IUML,K M Shaji,63082,CPI(M),M V Nikesh Kumar,60795,2287,1.62
+ae-kerala-2016,AE,Kerala,2016,2016,official,11,Kannur,GEN,Kannur,125702,CON(S),Ramachandran Kadannappalli,54347,INC,Satheesan Pacheni,53151,1196,0.95
+ae-kerala-2016,AE,Kerala,2016,2016,official,12,Dharmadam,GEN,Kannur,153012,CPI(M),Pinarayi Vijayan,87329,INC,Mambaram Divakaran,50424,36905,24.12
+ae-kerala-2016,AE,Kerala,2016,2016,official,13,Thalassery,GEN,Kannur,132152,CPI(M),Adv. A N Shamseer,70741,INC,A P Abdullakutty,36624,34117,25.82
+ae-kerala-2016,AE,Kerala,2016,2016,official,14,Kuthuparamba,GEN,Kannur,146323,CPI(M),K K Shailaja Teacher,67013,JDU,K P Mohanan S/O P R Kurup,54722,12291,8.4
+ae-kerala-2016,AE,Kerala,2016,2016,official,15,Mattannur,GEN,Kannur,147257,CPI(M),E. P. Jayarajan,84030,JDU,K. P. Prasanth,40649,43381,29.46
+ae-kerala-2016,AE,Kerala,2016,2016,official,16,Peravoor,GEN,Kannur,136047,INC,Adv. Sunny Joseph,65659,CPI(M),Adv. Binoy Kurian,57670,7989,5.87
+ae-kerala-2016,AE,Kerala,2016,2016,official,17,Mananthavady,GEN,Wayanad,144542,CPI(M),O R Kelu,62436,INC,P K Jayalakshmi,61129,1307,0.9
+ae-kerala-2016,AE,Kerala,2016,2016,official,18,Sulthanbathery,GEN,Wayanad,170743,INC,I C Balakrishnan,75747,CPI(M),Rugmini Subrahmanian,64549,11198,6.56
+ae-kerala-2016,AE,Kerala,2016,2016,official,19,Kalpetta,GEN,Wayanad,149735,CPI(M),C K Saseendran,72959,JDU,M.V Shreyams Kumar,59876,13083,8.74
+ae-kerala-2016,AE,Kerala,2016,2016,official,20,Vadakara,GEN,Kozhikode,129066,JDS,C.K.Nanu,49211,JDU,Manayath Chandran,39700,9511,7.37
+ae-kerala-2016,AE,Kerala,2016,2016,official,21,Kuttiadi,GEN,Kozhikode,157435,IUML,Parakkal Abdulla,71809,CPI(M),K.K. Lathika,70652,1157,0.73
+ae-kerala-2016,AE,Kerala,2016,2016,official,22,Nadapuram,GEN,Kozhikode,162483,CPI,E. K. Vijayan,74742,INC,Adv. Praveenkumar,69983,4759,2.93
+ae-kerala-2016,AE,Kerala,2016,2016,official,23,Quilandy,GEN,Kozhikode,153014,CPI(M),K.Dasan,70593,INC,N.Subramanian,57224,13369,8.74
+ae-kerala-2016,AE,Kerala,2016,2016,official,24,Perambra,GEN,Kozhikode,152896,CPI(M),T.P.Ramakrishnan,72359,KCM,Adv.Mohammed Ikbal,68258,4101,2.68
+ae-kerala-2016,AE,Kerala,2016,2016,official,25,Balusseri,GEN,Kozhikode,173930,CPI(M),Purushuan Kadalundi,82914,IND,U.C Raman Padanilam,67450,15464,8.89
+ae-kerala-2016,AE,Kerala,2016,2016,official,26,Elathur,GEN,Kozhikode,156020,NCP,A K Saseendran,76387,JDU,Kishen Chand,47330,29057,18.62
+ae-kerala-2016,AE,Kerala,2016,2016,official,27,Kozhikode North,GEN,Kozhikode,131847,CPI(M),A Pradeep Kumar,64192,INC,Adv. P M Suresh Babu,36319,27873,21.14
+ae-kerala-2016,AE,Kerala,2016,2016,official,28,Kozhikode South,GEN,Kozhikode,114829,IUML,Dr. M.K.Muneer,49863,INL,Prof.A. P. Abdul Vahab,43536,6327,5.51
+ae-kerala-2016,AE,Kerala,2016,2016,official,29,Beypore,GEN,Kozhikode,155104,CPI(M),Mammed Koya V K C,69114,INC,Adam Mulsi M P,54751,14363,9.26
+ae-kerala-2016,AE,Kerala,2016,2016,official,30,Kunnamangalam,GEN,Kozhikode,179193,IND,P.T.A. Rahim,77410,INC,Siddiqu.T,66205,11205,6.25
+ae-kerala-2016,AE,Kerala,2016,2016,official,31,Koduvally,GEN,Kozhikode,136807,IND,Karat Razack,61033,IUML,M A Razak Master,60460,573,0.42
+ae-kerala-2016,AE,Kerala,2016,2016,official,32,Thiruvambady,GEN,Kozhikode,134910,CPI(M),George M. Thomas,62324,IUML,V M Ummer Master,59316,3008,2.23
+ae-kerala-2016,AE,Kerala,2016,2016,official,33,Kondotty,GEN,Malappuram,148973,IUML,T.V. Ibrahim,69668,IND,K.P. Beerankutty,59014,10654,7.15
+ae-kerala-2016,AE,Kerala,2016,2016,official,34,Eranad,GEN,Malappuram,135389,IUML,P.K Basheer,69048,IND,Abdurahiman,56155,12893,9.52
+ae-kerala-2016,AE,Kerala,2016,2016,official,35,Nilambur,GEN,Malappuram,161247,IND,P V Anvar,77858,INC,Aryadan Shoukath,66354,11504,7.13
+ae-kerala-2016,AE,Kerala,2016,2016,official,36,Wandoor,GEN,Malappuram,155032,INC,A.P. Anil Kumar,81964,CPI(M),K Nishanth,58100,23864,15.39
+ae-kerala-2016,AE,Kerala,2016,2016,official,37,Manjeri,GEN,Malappuram,138033,IUML,Adv. M Ummer,69779,CPI,Adv. K.Mohandas,50163,19616,14.21
+ae-kerala-2016,AE,Kerala,2016,2016,official,38,Perinthalmanna,GEN,Malappuram,150904,IUML,Manjalamkuzhi Ali,70990,CPI(M),V.Sasikumar,70411,579,0.38
+ae-kerala-2016,AE,Kerala,2016,2016,official,39,Mankada,GEN,Malappuram,149620,IUML,T A Ahammed Kabeer,69165,CPI(M),Adv. T K Rasheed Ali,67657,1508,1.01
+ae-kerala-2016,AE,Kerala,2016,2016,official,40,Malappuram,GEN,Malappuram,141007,IUML,P Ubaidulla,81072,CPI(M),Adv. K P Sumathi,45400,35672,25.3
+ae-kerala-2016,AE,Kerala,2016,2016,official,41,Vengara,GEN,Malappuram,119745,IUML,P.K. Kunhalikkutty,72181,CPI(M),Adv. P.P. Basheer,34124,38057,31.78
+ae-kerala-2016,AE,Kerala,2016,2016,official,42,Vallikkunnu,GEN,Malappuram,136732,IUML,Abdul Hameed Master,59720,INL,Adv. O.K. Thangal,47110,12610,9.22
+ae-kerala-2016,AE,Kerala,2016,2016,official,43,Tirurangadi,GEN,Malappuram,134616,IUML,P.K Abdu Rabb,62927,IND,Niyas Pulikkalakath,56884,6043,4.49
+ae-kerala-2016,AE,Kerala,2016,2016,official,44,Tanur,GEN,Malappuram,140269,NSC,V Abdurahiman,64472,IUML,Abdurahiman Randathani,59554,4918,3.51
+ae-kerala-2016,AE,Kerala,2016,2016,official,45,Tirur,GEN,Malappuram,156062,IUML,C. Mammutty,73432,NSC,Gafoor P Lillis,66371,7061,4.52
+ae-kerala-2016,AE,Kerala,2016,2016,official,46,Kottakkal,GEN,Malappuram,147667,IUML,Abid Hussain Thangal,71768,NCP,N.A. Muhammed Kutty (Mammooty),56726,15042,10.19
+ae-kerala-2016,AE,Kerala,2016,2016,official,47,Thavanur,GEN,Malappuram,141652,IND,Dr. K.T. Jaleel,68179,INC,Ifthiquarudheen. Master,51115,17064,12.05
+ae-kerala-2016,AE,Kerala,2016,2016,official,48,Ponnani,GEN,Malappuram,141159,CPI(M),P. Sreeramakrishnan,69332,INC,P.T.Ajai Mohan,53692,15640,11.08
+ae-kerala-2016,AE,Kerala,2016,2016,official,49,Thrithala,GEN,Palakkad,140472,INC,V.T. Balram,66505,CPI(M),Subaida Ishac,55958,10547,7.51
+ae-kerala-2016,AE,Kerala,2016,2016,official,50,Pattambi,GEN,Palakkad,139684,CPI,Muhammed Muhassin,64025,INC,C P Mohammed,56621,7404,5.3
+ae-kerala-2016,AE,Kerala,2016,2016,official,51,Shornur,GEN,Palakkad,140862,CPI(M),P.K.Sasi,66165,INC,C.Sangeetha,41618,24547,17.43
+ae-kerala-2016,AE,Kerala,2016,2016,official,52,Ottapalam,GEN,Palakkad,149200,CPI(M),P Unni,67161,INC,Adv.Shanimol Osman,51073,16088,10.78
+ae-kerala-2016,AE,Kerala,2016,2016,official,53,Kongad,GEN,Palakkad,132898,CPI(M),K.V.Vijayadas,60790,INC,Pandalam Sudhakaran,47519,13271,9.99
+ae-kerala-2016,AE,Kerala,2016,2016,official,54,Mannarkad,GEN,Palakkad,147571,IUML,Adv.N.Samsudheen,73163,CPI,K.P. Suresh Raj,60838,12325,8.35
+ae-kerala-2016,AE,Kerala,2016,2016,official,55,Malampuzha,GEN,Palakkad,158786,CPI(M),V S Achuthanandan,73299,BJP,C.Krishnakumar,46157,27142,17.09
+ae-kerala-2016,AE,Kerala,2016,2016,official,56,Palakkad,GEN,Palakkad,137085,INC,Shafi Parambil,57559,BJP,Sobha Surendran,40076,17483,12.75
+ae-kerala-2016,AE,Kerala,2016,2016,official,57,Tarur,GEN,Palakkad,127182,CPI(M),A.K.Balan,67047,INC,C.Prakash,43979,23068,18.14
+ae-kerala-2016,AE,Kerala,2016,2016,official,58,Chittur,GEN,Palakkad,153020,JDS,K Krishnankutty,69270,INC,K Achuthan,61985,7285,4.76
+ae-kerala-2016,AE,Kerala,2016,2016,official,59,Nenmara,GEN,Palakkad,153525,CPI(M),K. Babu,66316,INC,A.V.Gopinathan,58908,7408,4.83
+ae-kerala-2016,AE,Kerala,2016,2016,official,60,Alathur,GEN,Palakkad,127563,CPI(M),K.D.Prasenan,71206,KCM,Adv.K Kusalakumar,35146,36060,28.27
+ae-kerala-2016,AE,Kerala,2016,2016,official,61,Chelakkara,GEN,Thrissur,150303,CPI(M),U R Pradeep,67771,INC,Thulasi,57571,10200,6.79
+ae-kerala-2016,AE,Kerala,2016,2016,official,62,Kunnamkulam,GEN,Thrissur,150272,CPI(M),A C Moideen,63274,CPM(K),C P John,55492,7782,5.18
+ae-kerala-2016,AE,Kerala,2016,2016,official,63,Guruvayoor,GEN,Thrissur,147045,CPI(M),K.V. Abdul Khader,66088,IUML,Adv. P.M. Sadiqali,50990,15098,10.27
+ae-kerala-2016,AE,Kerala,2016,2016,official,64,Manalur,GEN,Thrissur,161890,CPI(M),Murali Perunelly,70422,INC,O.Abdu Rahimankutty,51097,19325,11.94
+ae-kerala-2016,AE,Kerala,2016,2016,official,65,Wadakkanchery,GEN,Thrissur,158812,INC,Anil Akkara,65535,CPI(M),Mary Thomas,65492,43,0.03
+ae-kerala-2016,AE,Kerala,2016,2016,official,66,Ollur,GEN,Thrissur,149568,CPI,Adv. K. Rajan,71666,INC,M P Vincent,58418,13248,8.86
+ae-kerala-2016,AE,Kerala,2016,2016,official,67,Thrissur,GEN,Thrissur,126063,CPI,V S Sunilkumar,53664,INC,Padmaja Venugopal,46677,6987,5.54
+ae-kerala-2016,AE,Kerala,2016,2016,official,68,Nattika,GEN,Thrissur,149609,CPI,Geetha Gopi,70218,INC,K.V. Dasan,43441,26777,17.9
+ae-kerala-2016,AE,Kerala,2016,2016,official,69,Kaipamangalam,GEN,Thrissur,134161,CPI,E T Taison Master,66824,RSP,M T Muhammed Nahas,33384,33440,24.93
+ae-kerala-2016,AE,Kerala,2016,2016,official,70,Irinjalakkuda,GEN,Thrissur,148467,CPI(M),Prof. K.U. Arunan,59730,KCM,Adv. Thomas Unniyadan,57019,2711,1.83
+ae-kerala-2016,AE,Kerala,2016,2016,official,71,Puthukkad,GEN,Thrissur,157942,CPI(M),Prof.C.Raveendranath,79464,INC,Sundaran Kunnathully,40986,38478,24.36
+ae-kerala-2016,AE,Kerala,2016,2016,official,72,Chalakkudy,GEN,Thrissur,149655,CPI(M),B. D. Devassy,74251,INC,T. U. Radhakrishnan,47603,26648,17.81
+ae-kerala-2016,AE,Kerala,2016,2016,official,73,Kodungallur,GEN,Thrissur,147691,CPI,V R Sunilkumar,67909,INC,K P Dhanapalan,45118,22791,15.43
+ae-kerala-2016,AE,Kerala,2016,2016,official,74,Perumbavoor,GEN,Ernakulam,144896,INC,Adv. Eldose P Kunnappilly,64285,CPI(M),Saju Paul,57197,7088,4.89
+ae-kerala-2016,AE,Kerala,2016,2016,official,75,Angamaly,GEN,Ernakulam,135346,INC,Roji M John,66666,JDS,Benny Moonjely,57480,9186,6.79
+ae-kerala-2016,AE,Kerala,2016,2016,official,76,Aluva,GEN,Ernakulam,146055,INC,Anwar Sadath,69568,CPI(M),Adv V Saleem,50733,18835,12.9
+ae-kerala-2016,AE,Kerala,2016,2016,official,77,Kalamassery,GEN,Ernakulam,153801,IUML,V K Ibrahim Kunju,68726,CPI(M),A M Yousaf,56608,12118,7.88
+ae-kerala-2016,AE,Kerala,2016,2016,official,78,Paravur,GEN,Ernakulam,159676,INC,V D Satheesan,74985,CPI,Sarada Mohan,54351,20634,12.92
+ae-kerala-2016,AE,Kerala,2016,2016,official,79,Vypen,GEN,Ernakulam,130259,CPI(M),S Sarma,68526,INC,K R Subhash,49173,19353,14.86
+ae-kerala-2016,AE,Kerala,2016,2016,official,80,Kochi,GEN,Ernakulam,122952,CPI(M),K J Maxy,47967,INC,Dominic Presentation,46881,1086,0.88
+ae-kerala-2016,AE,Kerala,2016,2016,official,81,Thripunithura,GEN,Ernakulam,153657,CPI(M),Adv. M Swaraj,62697,INC,K Babu,58230,4467,2.91
+ae-kerala-2016,AE,Kerala,2016,2016,official,82,Eranakulam,GEN,Ernakulam,109568,INC,Hibi Eden,57819,CPI(M),M Anil Kumar,35870,21949,20.03
+ae-kerala-2016,AE,Kerala,2016,2016,official,83,Thrikkakara,GEN,Ernakulam,134029,INC,Adv.P T Thomas,61451,CPI(M),Dr.Sebastian Paul,49455,11996,8.95
+ae-kerala-2016,AE,Kerala,2016,2016,official,84,Kunnathunad,GEN,Ernakulam,147138,INC,V P Sajeendran,65445,CPI(M),Adv. Shiji Sivaji,62766,2679,1.82
+ae-kerala-2016,AE,Kerala,2016,2016,official,85,Piravom,GEN,Ernakulam,160206,KEC(J),Anoop Jacob,73770,CPI(M),M.J.Jacob,67575,6195,3.87
+ae-kerala-2016,AE,Kerala,2016,2016,official,86,Muvattupuzha,GEN,Ernakulam,141983,CPI,Eldho Abraham,70269,INC,Joseph Vazhackan,60894,9375,6.6
+ae-kerala-2016,AE,Kerala,2016,2016,official,87,Kothamangalam,GEN,Idukki,127624,CPI(M),Antony John,65467,KCM,Chev. T.U.Kuruvilla,46185,19282,15.11
+ae-kerala-2016,AE,Kerala,2016,2016,official,88,Devikulam,GEN,Idukki,116461,CPI(M),S Rajendran,49510,INC,A K Mony,43728,5782,4.96
+ae-kerala-2016,AE,Kerala,2016,2016,official,89,Udumbanchola,GEN,Idukki,125416,CPI(M),M.M. Mani,50813,INC,Adv.Senapathy Venu,49704,1109,0.88
+ae-kerala-2016,AE,Kerala,2016,2016,official,90,Thodupuzha,GEN,Idukki,140355,KCM,P.J. Joseph,76564,IND,Adv. Roy Varicattu,30977,45587,32.48
+ae-kerala-2016,AE,Kerala,2016,2016,official,91,Idukki,GEN,Idukki,140845,KCM,Roshy Augustine,60556,IND,Adv. K Francis George,51223,9333,6.63
+ae-kerala-2016,AE,Kerala,2016,2016,official,92,Peerumade,GEN,Idukki,128320,CPI,E S Bijimol,56584,INC,Adv. Syriac Thomas,56270,314,0.24
+ae-kerala-2016,AE,Kerala,2016,2016,official,93,Pala,GEN,Kottayam,138868,KCM,K M Mani,58884,NCP,Mani C Kappen,54181,4703,3.39
+ae-kerala-2016,AE,Kerala,2016,2016,official,94,Kaduthuruthy,GEN,Kottayam,125639,KCM,Adv. Mons Joseph,73793,KEC(ST),Scaria Thomas,31537,42256,33.63
+ae-kerala-2016,AE,Kerala,2016,2016,official,95,Vaikom,GEN,Kottayam,131248,CPI,C K Asha,61997,INC,Adv. A Saneeshkumar,37413,24584,18.73
+ae-kerala-2016,AE,Kerala,2016,2016,official,96,Ettumanoor,GEN,Kottayam,131704,CPI(M),Suresh Kurup,53805,KCM,Thomas Chazhikadan,44906,8899,6.76
+ae-kerala-2016,AE,Kerala,2016,2016,official,97,Kottayam,GEN,Kottayam,128120,INC,Thiruvanchoor Radhakrishnan,73894,CPI(M),Adv. Reji Sakhariya,40262,33632,26.25
+ae-kerala-2016,AE,Kerala,2016,2016,official,98,Puthuppally,GEN,Kottayam,133404,INC,Oommen Chandy,71597,CPI(M),Jaick C Thomas,44505,27092,20.31
+ae-kerala-2016,AE,Kerala,2016,2016,official,99,Changanassery,GEN,Kottayam,125222,KCM,C F Thomas,50371,IND,Dr. K C Joseph,48522,1849,1.48
+ae-kerala-2016,AE,Kerala,2016,2016,official,100,Kanjirappally,GEN,Kottayam,136090,KCM,Dr. N Jayaraj,53126,CPI,Adv. V B Binu,49236,3890,2.86
+ae-kerala-2016,AE,Kerala,2016,2016,official,101,Poonjar,GEN,Kottayam,145440,IND,P C George Plathottam,63621,KCM,Georgekutty Augusty,35800,27821,19.13
+ae-kerala-2016,AE,Kerala,2016,2016,official,102,Aroor,GEN,Alappuzha,161139,CPI(M),Adv.A.M.Ariff,84720,INC,Adv.C.R.Jayaprakash,46201,38519,23.9
+ae-kerala-2016,AE,Kerala,2016,2016,official,103,Cherthala,GEN,Alappuzha,176968,CPI,P.Thilothaman,81197,INC,Adv.S.Sarath,74001,7196,4.07
+ae-kerala-2016,AE,Kerala,2016,2016,official,104,Alappuzha,GEN,Alappuzha,155294,CPI(M),Dr.T.M.Thomas Isaac,83211,INC,Adv.Laly Vincent,52179,31032,19.98
+ae-kerala-2016,AE,Kerala,2016,2016,official,105,Ambalapuzha,GEN,Alappuzha,132667,CPI(M),G.Sudhakaran,63069,JDU,Shaik.P.Harriz,40448,22621,17.05
+ae-kerala-2016,AE,Kerala,2016,2016,official,106,Kuttanad,GEN,Alappuzha,129736,NCP,Thomas Chandy,50114,KCM,Adv.Jacob Ebraham,45223,4891,3.77
+ae-kerala-2016,AE,Kerala,2016,2016,official,107,Haripad,GEN,Alappuzha,148511,INC,Ramesh Chennithala,75980,CPI,P.Prasad,57359,18621,12.54
+ae-kerala-2016,AE,Kerala,2016,2016,official,108,Kayamkulam,GEN,Alappuzha,156348,CPI(M),Adv.U.Prathibha Hari,72956,INC,Adv.M.Liju,61099,11857,7.58
+ae-kerala-2016,AE,Kerala,2016,2016,official,109,Mavelikara,GEN,Alappuzha,149165,CPI(M),R.Rajesh,74555,INC,Baiju Kalasala,43013,31542,21.15
+ae-kerala-2016,AE,Kerala,2016,2016,official,110,Chengannur,GEN,Alappuzha,145155,CPI(M),Adv.K.K.Ramachandran Nair,52880,INC,P.C.Vishnunath,44897,7983,5.5
+ae-kerala-2016,AE,Kerala,2016,2016,official,111,Thiruvalla,GEN,Pathanamthitta,144063,JDS,Adv.Mathew T Thomas,59660,KCM,Joseph M Puthussery,51398,8262,5.73
+ae-kerala-2016,AE,Kerala,2016,2016,official,112,Ranni,GEN,Pathanamthitta,133489,CPI(M),Raju Abraham,58749,INC,Mariamma Cherian,44153,14596,10.93
+ae-kerala-2016,AE,Kerala,2016,2016,official,113,Aranmula,GEN,Pathanamthitta,160863,CPI(M),Veena George,64523,INC,Adv K Sivadasan Nair,56877,7646,4.75
+ae-kerala-2016,AE,Kerala,2016,2016,official,114,Konni,GEN,Pathanamthitta,142809,INC,Adoor Prakash,72800,CPI(M),Adv. R. Sanal Kumar,52052,20748,14.53
+ae-kerala-2016,AE,Kerala,2016,2016,official,115,Adoor,GEN,Pathanamthitta,154346,CPI,Chittayam Gopakumar,76034,INC,K K Shaju,50574,25460,16.5
+ae-kerala-2016,AE,Kerala,2016,2016,official,116,Karunagappally,GEN,Kollam,161761,CPI,R.Ramachandran,69902,INC,C.R.Mahesh,68143,1759,1.09
+ae-kerala-2016,AE,Kerala,2016,2016,official,117,Chavara,GEN,Kollam,137519,CPM(K),N.Vijayan Pillai,64666,RSP,Shibu Babyjohn,58477,6189,4.5
+ae-kerala-2016,AE,Kerala,2016,2016,official,118,Kunnathur,GEN,Kollam,158757,IND,Kovoor Kunjumon,75725,RSP,Ullas Kovur,55196,20529,12.93
+ae-kerala-2016,AE,Kerala,2016,2016,official,119,Kottarakkara,GEN,Kollam,149771,CPI(M),Adv. P.Aisha Potty,83443,INC,Adv.Savin Sathyan,40811,42632,28.46
+ae-kerala-2016,AE,Kerala,2016,2016,official,120,Pathanapuram,GEN,Kollam,141604,KEC(B),K.B. Ganesh Kumar,74429,INC,P.V Jagadish Kumar,49867,24562,17.35
+ae-kerala-2016,AE,Kerala,2016,2016,official,121,Punalur,GEN,Kollam,143583,CPI,Adv.K.Raju,82136,IUML,Dr.A.Younus Kunju,48554,33582,23.39
+ae-kerala-2016,AE,Kerala,2016,2016,official,122,Chadayamangalam,GEN,Kollam,144442,CPI,Retnakaran,71262,INC,Hassan.M.M,49334,21928,15.18
+ae-kerala-2016,AE,Kerala,2016,2016,official,123,Kundara,GEN,Kollam,151871,CPI(M),J.Mercy Kutty Amma,79047,INC,Rajmohan Unnithan,48587,30460,20.06
+ae-kerala-2016,AE,Kerala,2016,2016,official,124,Kollam,GEN,Kollam,128394,CPI(M),M Mukesh,63103,INC,Sooraj Ravi,45492,17611,13.72
+ae-kerala-2016,AE,Kerala,2016,2016,official,125,Eravipuram,GEN,Kollam,124021,CPI(M),M. Noushad,65392,RSP,A.A.Azeez,36589,28803,23.22
+ae-kerala-2016,AE,Kerala,2016,2016,official,126,Chathannur,GEN,Kollam,132595,CPI,G.S.Jayalal,67606,BJP,B B Gopakumar,33199,34407,25.95
+ae-kerala-2016,AE,Kerala,2016,2016,official,127,Varkala,GEN,Thiruvananthapuram,127549,CPI(M),Adv.V.Joy,53102,INC,Varkala Kahar,50716,2386,1.87
+ae-kerala-2016,AE,Kerala,2016,2016,official,128,Attingal,GEN,Thiruvananthapuram,136870,CPI(M),Adv.B.Satyan,72808,RSP,K.Chandrababu,32425,40383,29.5
+ae-kerala-2016,AE,Kerala,2016,2016,official,129,Chirayinkeezhu,GEN,Thiruvananthapuram,137288,CPI,V. Sasi,64692,INC,K.S.Ajith Kumar,50370,14322,10.43
+ae-kerala-2016,AE,Kerala,2016,2016,official,130,Nedumangad,GEN,Thiruvananthapuram,150532,CPI,C.Divakaran,57745,INC,Palode Ravi,54124,3621,2.41
+ae-kerala-2016,AE,Kerala,2016,2016,official,131,Vamanapuram,GEN,Thiruvananthapuram,140646,CPI(M),Adv. D.K.Murali,65848,INC,Adv.T.Sarathchandra Prasad,56252,9596,6.82
+ae-kerala-2016,AE,Kerala,2016,2016,official,132,Kazhakkoottam,GEN,Thiruvananthapuram,133137,CPI(M),Kadakampally Surendran,50079,BJP,V.Muraleedharan,42732,7347,5.52
+ae-kerala-2016,AE,Kerala,2016,2016,official,133,Vattiyoorkavu,GEN,Thiruvananthapuram,136291,INC,K Muraleedharan,51322,BJP,Kummanam Rajasekharan,43700,7622,5.59
+ae-kerala-2016,AE,Kerala,2016,2016,official,134,Thiruvananthapuram,GEN,Thiruvananthapuram,124777,INC,V.S. Sivakumar,46474,IND,Adv.Antony Raju,35569,10905,8.74
+ae-kerala-2016,AE,Kerala,2016,2016,official,135,Nemom,GEN,Thiruvananthapuram,141998,BJP,O.Rajagopal,67813,CPI(M),V.Sivankutty,59142,8671,6.11
+ae-kerala-2016,AE,Kerala,2016,2016,official,136,Aruvikkara,GEN,Thiruvananthapuram,143125,INC,K.S. Sabarinadhan,70910,CPI(M),Adv. A.A.Rasheed,49596,21314,14.89
+ae-kerala-2016,AE,Kerala,2016,2016,official,137,Parassala,GEN,Thiruvananthapuram,157238,CPI(M),C.K.Hareendrakumar (C.K.Hareendran),70156,INC,A.T.George,51590,18566,11.81
+ae-kerala-2016,AE,Kerala,2016,2016,official,138,Kattakkada,GEN,Thiruvananthapuram,142902,CPI(M),Adv. I.B. Satheesh,51614,INC,N.Shakthan,50765,849,0.59
+ae-kerala-2016,AE,Kerala,2016,2016,official,139,Kovalam,GEN,Thiruvananthapuram,153121,INC,Adv.M.Vincent,60268,JDS,Jameela Prakasam,57653,2615,1.71
+ae-kerala-2016,AE,Kerala,2016,2016,official,140,Neyyattinkara,GEN,Thiruvananthapuram,133952,CPI(M),K.Ansalan,63559,INC,R. Selvaraj,54016,9543,7.12

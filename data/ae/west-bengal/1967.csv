@@ -1,0 +1,281 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,1,Mekliganj,SC,,49060,AIFB,A.N.R.Prodhan,31402,INC,M.Roy,16753,14649,29.86
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,2,Mathabhanga,SC,,41815,CPI(M),D.C.Dakua,26872,INC,M.N.Dakua,14943,11929,28.53
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,3,Cooch Behar West,SC,,43322,INC,P.Barman,18409,AIFB,J.N.Roy,15367,3042,7.02
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,4,Sitai,GEN,,41816,INC,F.Hoque,20485,AIFB,B.K.Roy,19170,1315,3.14
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,5,Dinhata,GEN,,53395,AIFB,K.K.Guha,29371,INC,U.C.Mandal,23206,6165,11.55
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,6,Cooch Behar North,GEN,,46227,INC,M.R.Tar,17440,AIFB,S.D.Gupta,15293,2147,4.64
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,7,Cooch Behar South,GEN,,45597,INC,S.K.Roy,19479,AIFB,D.C.Neogi,14772,4707,10.32
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,8,Tufanganj,SC,,48970,INC,I.S.Sen,27283,CPI(M),D.C.Karjee,11795,15488,31.63
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,9,Kumargram,GEN,,38970,INC,P.K.Mukherjee,16093,CPI(M),R.Das Gupta,9007,7086,18.18
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,10,Kalchini,ST,,27452,INC,D.Lakra,14025,IND,J.A.B.Uraon,10749,3276,11.93
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,11,Alipore Duars,GEN,,48991,IND,N.Bhattacharya,26186,INC,B.K.Bhowmick,20931,5255,10.73
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,12,Falakata,SC,,36699,PSP,J.Roy,14223,INC,H.L.Singha,11965,2258,6.15
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,13,Madarihat,ST,,31866,INC,D.N.Rai,13601,IND,K.Stephen,12217,1384,4.34
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,14,Dhupguri,GEN,,37028,SSP,A.G.Neogi,17437,INC,D.N.Moitra,11893,5544,14.97
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,15,Nagrakata,ST,,33121,INC,B.Bhagat,16002,CPI(M),P.Uraon,10920,5082,15.34
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,16,Mainaguri,SC,,39293,BAC,J.Ray,14098,PSP,P.Mallick,12507,1591,4.05
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,17,Mal,ST,,40660,INC,A.Topna,22095,CPI,A.Oraon,10600,11495,28.27
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,18,Jalpaiguri,GEN,,52278,INC,K.N.Das Gupta,21978,CPI,N.C.Chakrovarty,15029,6949,13.29
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,19,Rajganj,SC,,40011,SSP,B.N.R.Hakim,15632,INC,P.D.Bose,14553,1079,2.7
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,20,Kalimpong,GEN,,29652,INC,K.B.Gurung,15023,IND,R.Dahal,11985,3038,10.25
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,21,Darjeeling,GEN,,27987,IND,D.Rai,14281,INC,M.K.Thapa,9085,5196,18.57
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,22,Jorebunglow,GEN,,28930,IND,N.Gurung,12428,INC,P.B.Gurung,10501,1927,6.66
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,23,Siliguri,GEN,,44604,INC,A.K.Moitra,14633,IND,P.Thapa,11671,2962,6.64
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,24,Phansidewa,ST,,35777,INC,T.Wangoi,16227,CPI(M),J.Saontal,10484,5743,16.05
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,25,Chopra,GEN,,29461,INC,A.Chowdhury,7330,CPI(M),B.Munshi,6449,881,2.99
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,26,Goal Pokhar,GEN,,25545,PSP,M.Salimuddin,9331,SSP,M.B.Sarshaar,7996,1335,5.23
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,27,Karandighi,GEN,,34619,PSP,H.S.Hussain,13361,AIFB,S.C.Sinha,8483,4878,14.09
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,28,Raiganj,GEN,,39421,PSP,N.N.Kundu,16318,INC,R.N.Dutt,12173,4145,10.51
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,29,Kaliaganj,SC,,32536,INC,S.P.Barman,13689,CPI(M),N.G.Roy,12940,749,2.3
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,30,Itahar,GEN,,46289,INC,Z.Abedin,25620,IND,B.L.Chattopadhyay,10529,15091,32.6
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,31,Kushmandi,SC,,30945,INC,J.M.Roy,12433,CPI,B.C.Sarker,6580,5853,18.91
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,32,Gangarampur,GEN,,38957,INC,K.Sayed,10384,CPI(M),A.Sarker,8015,2369,6.08
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,33,Kumarganj,GEN,,40192,INC,M.Bose,18571,BAC,D.C.Choudhury,9120,9451,23.51
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,34,Balurghat,GEN,,46579,IND,M.Basu,23583,INC,G.L.Ghose,19322,4261,9.15
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,35,Tapan,ST,,41286,IND,N.Murmu,23961,INC,K.H.Ram,14926,9035,21.88
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,36,Habibpur,ST,,46075,INC,B.Murmu,21866,CPI,N.C.Murmu,21249,617,1.34
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,37,Gajol,ST,,36720,INC,D.Murmu,20665,CPI(M),D.Hemrom,10554,10111,27.54
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,38,Kharba,GEN,,48828,IND,G.Yazdani,27627,INC,M.Haque,21201,6426,13.16
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,39,Harish Chandrapur,GEN,,47633,IND,M.E.Razi,26797,INC,B.K.Maitra,19413,7384,15.5
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,40,Ratda,GEN,,34004,INC,S.M.Misra,13875,IND,M.Ali,10760,3115,9.16
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,41,Malda,GEN,,39487,INC,M.S.Mia,19407,SWA,N.Choudhury,8877,10530,26.67
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,42,Englishbazar,GEN,,38680,INC,S.G.Sen,12593,CPI,B.K.Das,9647,2946,7.62
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,43,Manikchak,GEN,,37246,SWA,R.S.Singhi,18728,INC,P.Jha,9709,9019,24.21
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,44,Suzapur,GEN,,48757,INC,A.B.A.G.K.Choudhury,36809,SWA,S.Ahammad,4099,32710,67.09
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,45,Kaliachak,GEN,,41375,CPI(M),N.Islam,17244,INC,P.R.Bose,12794,4450,10.76
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,46,Farakka,GEN,,31584,BAC,T.A.N.Nabi,18812,INC,B.M.W.Ali,7194,11618,36.78
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,47,Suti,GEN,,53377,IND,S.Mahammad,28925,INC,M. Soharab,24452,4473,8.38
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,48,Jangipur,GEN,,43107,IND,A. Haque,26978,INC,M. Chattopadhyay,16129,10849,25.17
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,49,Sagardighi,SC,,20930,INC,A.C. Das,10440,BAC,K.C. Haldar,8981,1459,6.97
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,50,Lalgola,GEN,,40872,INC,A. Sattar,28300,IND,S. Ali,10544,17756,43.44
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,51,Bhagabangola,GEN,,39594,INC,S. Bhattacharyya,17227,SSP,S.N. Adhivary,14552,2675,6.76
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,52,Nabagram,GEN,,42315,INC,A. K. Bakshi,20291,IND,B. N. Roy,20029,262,0.62
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,53,Murshidabad,GEN,,41147,INC,S.K.A.Meerza,21843,IND,S.N.J.Meerza,14618,7225,17.56
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,54,Jalangi,GEN,,38325,INC,A.Rahaman,15392,IND,M.Y.Hussain,8516,6876,17.94
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,55,Domkal,GEN,,43369,CPI(M),M.A.Bari,26277,INC,A.B.Biswas,17092,9185,21.18
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,56,Naoda,GEN,,49242,INC,M.Israil,23374,IND,J.K.Biswas,23205,169,0.34
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,57,Hariharpara,GEN,,39788,INC,S.Ahmed,17591,IND,A.R.Mondal,14717,2874,7.22
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,58,Berhampore,GEN,,45154,INC,S.Bhattacharyya,17823,IND,S.Sanyal,10242,7581,16.79
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,59,Beldanga,GEN,,51779,INC,A.Latif,30119,IND,S.Bhadra,19317,10802,20.86
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,60,Kandi,GEN,,43997,INC,G.Trivedi,26564,IND,S.Das,11363,15201,34.55
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,61,Khargram,SC,,39042,INC,S.K.Mondal,19698,IND,K.C.Moulick,19344,354,0.91
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,62,Barwan,GEN,,41789,IND,A.L.Roy,19916,INC,S.M.G.Moulik,17814,2102,5.03
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,63,Bharatpur,GEN,,36955,INC,S.Sinha,11771,IND,S.P.Bhattacharyya,10715,1056,2.86
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,64,Karimpur,GEN,,46618,BAC,N.Sanyal,32144,INC,S.Banerjee,10436,21708,46.57
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,65,Tehatta,GEN,,49975,INC,S.Banerji,22168,CPI(M),M.Mohanta,21618,550,1.1
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,66,Kaliganj,GEN,,52711,INC,S.M.F.Rahman,28014,BAC,R.N.Mukherjee,24697,3317,6.29
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,67,Nakashipara,SC,,40572,BAC,M.C.Mondal,20270,INC,N.K.Sarkar,15666,4604,11.35
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,68,Chapra,GEN,,42806,BAC,J.Mojumder,25785,INC,M.De,12922,12863,30.05
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,69,Nabadwip,GEN,,49866,INC,S.M.Nandy,25404,CPI(M),K.Kundu,22081,3323,6.66
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,70,Krishnagar West,GEN,,40578,CPI(M),A.Mukherjee,17678,INC,I.P.Chowdhury,15309,2369,5.84
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,71,Krishnagar East,GEN,,47693,SSP,K.K.Maitra,32427,INC,A.K.Haldar,15266,17161,35.98
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,72,Hanskhali,SC,,49606,BAC,C.M.Sarkar,33298,INC,R.K.Mallick,16308,16990,34.25
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,73,Santipur,GEN,,43453,CPI(M),K.Pal,20695,INC,H.Dey,16577,4118,9.48
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,74,Ranaghat West,GEN,,53706,INC,B.K.Chattopadhyay,26613,CPI(M),G.C.Kundu,22844,3769,7.02
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,75,Ranaghat East,SC,,45452,CPI,N.Sarkar,22935,INC,S.K.Mridha,18530,4405,9.69
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,76,Chakdah,GEN,,49302,BAC,H.Mitra,20761,IND,S.Tagore,14888,5873,11.91
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,77,Haringhata,GEN,,51314,IND,B.M.Karim,21923,INC,B.N.Sarkar,21029,894,1.74
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,78,Bagdaha,SC,,45387,AIFB,A.L.Majumdar,32263,INC,M.B.Biswas,13124,19139,42.17
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,79,Bongaon,GEN,,50484,INC,K.Bhowmick,17736,CPI,A.K.Ganguli,13215,4521,8.96
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,80,Gaighata,GEN,,48310,BAC,C.Mitra,18922,INC,S.Biswas,16328,2594,5.37
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,81,Ashokenagar,GEN,,52504,CPI,S.K.Sen,17877,INC,K.R.Chattopadhya,16782,1095,2.09
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,82,Barasat,GEN,,56192,AIFB,H.K.Basu,32776,INC,A.K.Dutta,22716,10060,17.9
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,83,Rajarhat,SC,,49097,CPI(M),S.N.Das,14874,BAC,S.N.Roy,11793,3081,6.28
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,84,Deganga,GEN,,41134,BAC,J.Kabir,30073,INC,M.Z.Haque,9577,20496,49.83
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,85,Habra,GEN,,53864,BAC,J.P.Mukherjee,26945,INC,T.K.Ghosh,23843,3102,5.76
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,86,Swarupnagar,GEN,,56631,CPI,J.R.Sen,32087,INC,A.Gafur,22152,9935,17.54
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,87,Baduria,GEN,,53039,INC,Q.A.Gaffar,19824,CPI(M),M.Sayeed,17820,2004,3.78
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,88,Basirhat,GEN,,50508,CPI,A.B.Bandopadhyay,32631,INC,B.C.Sen,15981,16650,32.97
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,89,Hasnabad,GEN,,38595,BAC,H.N.Mazumdar,18281,INC,D.Das,10357,7924,20.53
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,90,Hingalganj,SC,,45598,IND,B.N.Brahmachari,14478,CPI,H.Mandal,14117,361,0.79
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,91,Gosaba,SC,,45534,BJS,G.N.Mandal,17620,IND,H.C.Mandal,16564,1056,2.32
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,92,Sandeshkhali,ST,,42600,INC,D.N.Sinha,17894,CPI(M),S.Sardar,14093,3801,8.92
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,93,Haroa,SC,,38690,BAC,G.Pramanick,23613,INC,N.B.Mandal,9637,13976,36.12
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,94,Basanti,GEN,,55325,INC,S.Khatun,21325,IND,S.Sarkar,19879,1446,2.61
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,95,Canning,SC,,49781,BAC,A.C.Halder,28961,INC,N.Naskar,20820,8141,16.35
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,96,Kultali,SC,,54408,IND,P.Purkait,32904,INC,A.M.Tanti,20694,12210,22.44
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,97,Joynagar,GEN,,56449,IND,S.Banerjee,34772,INC,J.Chakravartty,14355,20417,36.17
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,98,Baruipur,SC,,50202,SSP,K.R.Mandal,21059,BAC,S.K.Sarkar,16294,4765,9.49
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,99,Sonarpur,GEN,,49893,CPI(M),G.Naskar,18019,INC,G.Sardar,15980,2039,4.09
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,100,Bhangar,GEN,,45671,BAC,A.Molla,35048,INC,Sukurali,10623,24425,53.48
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,101,Jadavpur,GEN,,66246,CPI(M),B.C.Guha,33698,INC,B.B.Sarkar,28820,4878,7.36
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,102,Behala East,GEN,,45351,CPI(M),N.Mukherjee,20757,INC,B.M.Ghatak,15716,5041,11.12
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,103,Behala West,GEN,,63709,CPI(M),R.Mukherjee,35634,INC,R.Roy,28075,7559,11.86
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,104,Garden Reach,GEN,,46234,INC,S.M.Abdullah,18443,IND,H.N.H.Mali,13154,5289,11.44
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,105,Maheshtola,GEN,,57623,CPI(M),S.C.Bhandari,30805,INC,S.A.Malaque,21227,9578,16.62
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,106,Budge Budge,GEN,,57731,CPI(M),K.B.R.Barman,31024,INC,H.L.Haldar,20609,10415,18.04
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,107,Bishnupur West,GEN,,57732,CPI(M),P.C.Roy,32759,INC,J.C.Santra,24475,8284,14.35
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,108,Bishnupur East,SC,,48430,CPI(M),S.K.Naskar,19224,INC,S.Mondal,12576,6648,13.73
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,109,Falta,GEN,,54824,CPI(M),J.Roy,29577,INC,J.N.Das,18531,11046,20.15
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,110,Diamond Harbour,GEN,,59502,CPI(M),A.Q.Molla,22765,BAC,J.Haldar,20613,2152,3.62
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,111,Magrahat East,SC,,56329,CPI(M),R.Pramanik,28928,INC,A.S.Naskar,25204,3724,6.61
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,112,Magrahat West,GEN,,56710,BAC,J.Abdin,26891,INC,A.Hassem,18565,8326,14.68
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,113,Kulpi,SC,,55361,INC,N.K.Haldar,29682,BAC,P.Kumar,25679,4003,7.23
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,114,Mathurapur,SC,,60094,BAC,H.Haldar,20772,IND,R.Haldar,19821,951,1.58
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,115,Patharpratima,GEN,,53675,IND,R.Mandal,19592,INC,B.C.Das,16303,3289,6.13
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,116,Kakdwip,GEN,,61227,INC,H.Dhara,45031,CPI(M),H.Maity,14269,30762,50.24
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,117,Sagar,GEN,,57994,INC,T.Misra,21702,IND,G.Dingal,18271,3431,5.92
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,118,Bijpur,GEN,,45613,CPI(M),J.C.Das,17662,INC,P.Ghosh,16348,1314,2.88
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,119,Naihati,GEN,,56838,INC,G.Bhattacharjee,26619,CPI(M),G.Basu,22515,4104,7.22
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,120,Bhatpara,GEN,,64762,INC,D.Beri,32027,CPI(M),S.Gupta,27281,4746,7.33
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,121,Noapara,GEN,,49851,INC,S.Roy,21248,CPI(M),J.Saha,21219,29,0.06
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,122,Titagarh,GEN,,47696,INC,K.K.Shukla,17435,CPI(M),M.Amin,16690,745,1.56
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,123,Khardah,GEN,,53113,CPI(M),S.K.Chakraborty,18507,INC,B.N.Ghose,16907,1600,3.01
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,124,Panihati,GEN,,72730,CPI(M),G.K. Bhattacharyya,34671,INC,S.C. Datta,23851,10820,14.88
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,125,Kamarhati,GEN,,58656,CPI(M),R.R. Banerji,30095,INC,A. Ghosal,21559,8536,14.55
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,126,Baranagar,GEN,,59721,CPI(M),J. Basu,31354,INC,N. Bhatacharjee,27895,3459,5.79
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,127,Dum Dum,GEN,,69106,CPI(M),T.K.S. Gupta,37066,INC,B.P. Guha,30682,6384,9.24
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,128,Cossipur,GEN,,49821,INC,S.K.Paul,18003,CPI(M),P.Dasgupta,15239,2764,5.55
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,129,Shampukur,GEN,,52069,INC,G.C.Dey,24875,CPI(M),A.N.Basu,23874,1001,1.92
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,130,Jorabagan,GEN,,53873,CPI(M),H.P.Chatterjee,23383,INC,N.C.Roy,20925,2458,4.56
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,131,Jorasanko,GEN,,47696,INC,R.K.Poddar,22134,BJS,P.D.Halwaria,20080,2054,4.31
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,132,Barabazar,GEN,,51684,INC,I.D.Jalan,28166,BJS,B.P.Kedia,19122,9044,17.5
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,133,Bowbazar,GEN,,42935,INC,B.S.Nahar,24699,AIFB,S.Gupta,8482,16217,37.77
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,134,Chowringhee,GEN,,36864,INC,S.S.Ray,22954,CPI(M),S.Gupta,11658,11296,30.64
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,135,Kabithirtha,GEN,,50445,INC,B.B.Paul,23229,AIFB,K.Shams,17746,5483,10.87
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,136,Alipore,GEN,,43856,CPI,M.Sanyal,21268,INC,N.N.Sen,21029,239,0.54
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,137,Kalighat,GEN,,51493,INC,B.Mitra,24375,CPI(M),D.Mazumder,23670,705,1.37
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,138,Rashbehariavenue,GEN,,40100,IND,B.K.Banerjee,17817,INC,G.Mukherjee,12169,5648,14.08
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,139,Tolly Gunge,GEN,,53478,CPI(M),N.S.Gupta,28581,INC,A.P.D.Gupta,23599,4982,9.32
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,140,Dhakuria,GEN,,53072,CPI,S.Lahiri,20212,CPI(M),H.Malakar,17098,3114,5.87
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,141,Ballygunge,GEN,,39363,IND,J . B . Bhattacharya,21153,INC,A . Maitra,16929,4224,10.73
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,142,Beliaghata South,SC,,41485,INC,G . P . Roy,23273,CPI(M),R . S . Prasad,18212,5061,12.2
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,143,Entally,GEN,,34609,CPI,A . A . M . O . Ghani,20582,INC,G . Gous,11251,9331,26.96
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,144,Taltola,GEN,,35714,INC,K . Hossain,14194,CPI(M),A . Hassan,12041,2153,6.03
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,145,Sealdah,GEN,,47334,INC,P . C . Chunder,20114,CPI(M),S . M . Chowdhury,15813,4301,9.09
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,146,Vidyasagar,GEN,,44046,CPI(M),N . C . Roy,24812,INC,D . L . Dutt,18064,6748,15.32
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,147,Beliaghata North,GEN,,50168,CPI(M),K . P . Ghosh,21387,INC,S . Biswas,17435,3952,7.88
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,148,Manicktola,GEN,,53856,CPI,I . Mitra,30380,INC,N . Sen,23476,6904,12.82
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,149,Burtola,GEN,,52125,IND,N . Das,28437,INC,S . C . R . Chaudhuri,23688,4749,9.11
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,150,Belgachia,GEN,,55221,CPI(M),L . C . Sen,27646,INC,G . Sur,25489,2157,3.91
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,151,Bally,GEN,,58565,INC,S . N . Mukhrjee,25632,CPI(M),P . P . Pathak,23469,2163,3.69
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,152,Howrah North,GEN,,53875,INC,S . K . Mukhrjee,27896,IND,D . P . Singha,20651,7245,13.45
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,153,Howrah Central,GEN,,48220,INC,D . Mitra,19770,IND,A . Das,15663,4107,8.52
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,154,Howrah South,GEN,,53792,INC,B . K . Bhattacharja,29106,CPI(M),N . D . Gupta,18432,10674,19.84
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,155,Shibpur,GEN,,52375,INC,M . Banerjee,19617,AIFB,K . Bhattacharya,18312,1305,2.49
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,156,Domjur,GEN,,58173,INC,A . H . Mondal,28271,CPI(M),J . Mukherjee,27462,809,1.39
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,157,Jagatballavpur,GEN,,49670,CPI(M),B . B . Bose,24447,INC,A. L . Hazra,20369,4078,8.21
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,158,Panchla,GEN,,50949,INC,P . Mukhopadhya,22051,IND,M . R . Sepai,13918,8133,15.96
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,159,Sankrail,SC,,49327,INC,N . N . Bhunia,25019,CPI(M),H . C . Hajra,16198,8821,17.88
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,160,Uluberia North,SC,,54504,AIFB,A . L . Majumdar,19812,CPI(M),R . K . Mondal,17574,2238,4.11
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,161,Uliberia South,GEN,,53444,AIFB,B . D . Ghose,20336,INC,A . K . Basu,17493,2843,5.32
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,162,Shyampur,GEN,,61004,AIFB,S . Bera,34991,INC,M . M . Manna,26013,8978,14.72
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,163,Bagnan,GEN,,50707,INC,R . G . Choudhury,18956,CPI(M),N . Chattopadhaya,18126,830,1.64
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,164,Kalyanpur,GEN,,49990,BAC,S . K . Mitra,23004,INC,A . Roy,19841,3163,6.33
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,165,Amta,GEN,,52109,CPI(M),N . Bhandari,30603,INC,T . Pramanik,20448,10155,19.49
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,166,Udaynarayanpur,GEN,,49907,CPI(M),P . L . Maji,27075,INC,S . C . Samanta,20508,6567,13.16
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,167,Jangipara,GEN,,45549,CPI(M),M . N . Jana,20111,INC,K . L . Dey,18981,1130,2.48
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,168,Chanditala,GEN,,45987,IND,M . A . Latif,17317,INC,S . S . Bukhsh,12187,5130,11.16
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,169,Uttarpara,GEN,,51946,CPI(M),M . Hazra,24618,INC,M . M . Mitra,20195,4423,8.51
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,170,Serampore,GEN,,59680,INC,G . D . Nag,33203,CPI,P . Bhaduri,25234,7969,13.35
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,171,Champdani,GEN,,53435,INC,B . Majumdar,28517,CPI(M),H . Mukherjee,15368,13149,24.61
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,172,Chandernagore,GEN,,54381,CPI(M),B . Mukherjee,29830,INC,S . Bandyopadhyay,23073,6757,12.43
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,173,Singur,GEN,,54133,INC,P . Pal,26121,CPI(M),G . C . Bandopadhyay,14618,11503,21.25
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,174,Haripal,GEN,,42549,SSP,A . C . Majumdar,18732,INC,S . C . Bhattacharyya,16139,2593,6.09
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,175,Chinsurah,GEN,,58187,AIFB,S . C . Ghose,34073,INC,N . K . Sen,23073,11000,18.9
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,176,Polba,GEN,,49304,INC,B . Chattopadhayay,27942,CPI(M),B . G . Neogy,20067,7875,15.97
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,177,Balagarh,SC,,44652,INC,H . K . Das,20183,CPI(M),A . Pramanik,20140,43,0.1
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,178,Pandua,GEN,,43192,INC,R . Kundu,19507,CPI(M),M . R . Mandal,16277,3230,7.48
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,179,Dhaniakhali,SC,,43379,AIFB,K . Saha,20662,INC,R . Das,17647,3015,6.95
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,180,Tarakeswar,GEN,,46893,IND,R . Chatterjee,29383,INC,N . Adhikary,17510,11873,25.32
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,181,Pursurah,GEN,,51317,INC,S . M . Roy,27760,CPI(M),M . Roy,21301,6459,12.59
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,182,Khanakul,SC,,45724,CPI(M),M . Saha,29347,INC,K . P . Pandit,16377,12970,28.37
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,183,Arambagh,GEN,,55990,BAC,A . K . Mukhopadhyaya,27916,INC,P . C . Sen,27035,881,1.57
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,184,Goghat,SC,,42609,AIFB,A . K . Biswas,28126,INC,S . Roy,13504,14622,34.32
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,185,Chandrakona,GEN,,42288,INC,I . Roy,16592,CPI(M),S . P . Singha,12571,4021,9.51
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,186,Ghatal,SC,,42274,CPI(M),N . R . Dal,18645,INC,H . N . Dolui,13633,5012,11.86
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,187,Daspur,GEN,,55410,INC,B . C . Sasmal,27822,CPI(M),M . Bhattacharjya,23658,4164,7.51
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,188,Panskura West,GEN,,57081,BAC,R . K . Pramanik,36132,INC,S . Bhattacharyya,20949,15183,26.6
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,189,Panskura East,GEN,,54060,CPI,G. Mukhopadhyay,34252,INC,S. Samanta,15098,19154,35.43
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,190,Moyna,GEN,,59060,CPI,K. Bhowmik,38934,INC,A.M. Das,17841,21093,35.71
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,191,Tamluk,GEN,,57679,BAC,A.K. Mukhopadhyay,47099,INC,S.N. Mandal,10580,36519,63.31
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,192,Mahishadal,GEN,,58755,BAC,S.K. Bhara,41783,INC,D.P. Garga,16972,24811,42.23
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,193,Sutahata,SC,,55454,BAC,M.C. Das,29194,INC,H. Deb,23901,5293,9.54
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,194,Nandigram,GEN,,59000,CPI,B.C. Panda,34552,INC,P.C. Jana,23989,10563,17.9
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,195,Narghat,GEN,,57949,BAC,P.K. Gayen,35072,INC,S.C. Maiti,22877,12195,21.04
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,196,Bhagbanpur,GEN,,51400,INC,A. Maiti,25147,BAC,A. Jana,22750,2397,4.66
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,197,Khajuri,SC,,45084,INC,B . Paik,17894,BAC,A . K . Das,15452,2442,5.42
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,198,Contai North,GEN,,50363,INC,M . L . Das,22419,PSP,S . G . Guchhait,21386,1033,2.05
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,199,Contai South,GEN,,51116,PSP,S .C . Das,26089,INC,S . Maity,23342,2747,5.37
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,200,Ramnagar,GEN,,51516,INC,T . Pradhan,28091,PSP,B . L . D . Mahapatra,22532,5559,10.79
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,201,Egra,GEN,,54290,PSP,B . Pahari,33640,INC,H . Chakravarty,20650,12990,23.93
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,202,Mugberia,GEN,,46437,BAC,B . Maity,24166,INC,H . Gayen,16009,8157,17.57
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,203,Pataspur,GEN,,52153,CPI,K . D . Mahapatra,28389,INC,R . D . Adhikary,23764,4625,8.87
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,204,Pingla,GEN,,51492,CPI,G . Samanta,28410,INC,S . Samanta,22019,6391,12.41
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,205,Debra,GEN,,39349,BAC,K . Chakraborty,18851,INC,S . K . Mukhopadhyay,14399,4452,11.31
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,206,Keshpur,SC,,47805,INC,R . K . Doloi,22658,BAC,G . Kuar,13403,9255,19.36
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,207,Garhbeta East,SC,,45192,INC,K . K . Chalak,22539,BAC,S . P . Bera,15343,7196,15.92
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,208,Garhbeta West,GEN,,46316,INC,P . Sinharay,21387,CPI,S . Roy,19345,2042,4.41
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,209,Salbani,GEN,,38847,BAC,A . R . Mahato,15654,INC,S . K . Ghosal,11865,3789,9.75
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,210,Midnapur,GEN,,42216,CPI,K . C . Ghose,23784,INC,S . S . Bari,15704,8080,19.14
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,211,Kharagpur,GEN,,41053,CPI,N .Choubey,20118,INC,G . S . Sohanpal,18186,1932,4.71
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,212,Kharagpur Local,GEN,,36816,CPI,D . Das,20569,INC,L . N . Paul,16247,4322,11.74
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,213,Narayangarh,GEN,,49098,INC,K . D . Roy,25768,BAC,M . K . Laha,22705,3063,6.24
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,214,Dantan,GEN,,50616,BAC,D . N . Das,27729,INC,P . K . Mahanti,22887,4842,9.57
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,215,Keshiari,ST,,30268,INC,B . C . Tudu,15262,BAC,B . Kisku,13651,1611,5.32
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,216,Nayagram,ST,,28498,BAC,J . Hansda,11476,SSP,I . Man-Di,8500,2976,10.44
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,217,Gopiballavpur,GEN,,47875,SSP,D . Kar,29019,INC,S . N . Mahata,18856,10163,21.23
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,218,Jhargram,GEN,,45005,IND,P . C . Ghosh,26760,INC,B . B . Malladeb,18245,8515,18.92
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,219,Binpur,ST,,29803,INC,M . C . Saren,11961,CPI,J . Saren,7975,3986,13.37
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,220,Banduan,ST,,35989,IND,K . Majhi,18740,INC,B . Majhi,13140,5600,15.56
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,221,Manbazar,GEN,,39466,IND,G . Mahato,19802,INC,S . Mahato,13091,6711,17.0
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,222,Balarampur,ST,,31355,IND,G . Majhi,12164,CPI(M),T . Majhi,8587,3577,11.41
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,223,Arsha,GEN,,41937,INC,B . Mukherjee,13544,SWA,M . Majhi,9071,4473,10.67
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,224,Jhalda,GEN,,42814,AIFB,C . Mahato,22277,INC,D . N . Mahato,19981,2296,5.36
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,225,Jaipur,GEN,,30975,INC,R . K . Mahato,10180,SWA,D . R . Singha,5582,4598,14.84
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,226,Purulia,GEN,,38333,IND,B . B . D . Gupta,18607,INC,T . P . Roy,11062,7545,19.68
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,227,Para,SC,,26017,BAC,S . Bauri,10474,INC,B . Bauri,9367,1107,4.25
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,228,Raghunathpur,SC,,28872,INC,N . Bauri,13372,IND,H . Bauri,11133,2239,7.75
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,229,Kashipur,GEN,,28515,INC,S . N . S . Deo,12442,CPI,K . K . R . Chowdhury,12103,339,1.19
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,230,Hura,GEN,,37107,IND,S . Ojha,12434,INC,R . R . P . S . Deo,11807,627,1.69
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,231,Taldangra,GEN,,51918,INC,P . Mukhopadhyay,29775,CPI(M),D . Mahanti,22143,7632,14.7
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,232,Raipur,ST,,44369,BAC,B . Saren,22840,INC,J . N . Murmu,18705,4135,9.32
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,233,Ranibandh,ST,,42032,INC,B . Hemran,21902,CPI(M),J . Hansda,9700,12202,29.03
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,234,Indpur,SC,,37931,INC,B . B . Maji,20998,BAC,G . C . Lohar,11593,9405,24.8
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,235,Chhatna,GEN,,39175,INC,J . Koley,19384,SSP,S . Singh,13243,6141,15.68
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,236,Gangjalghati,SC,,35860,BAC,G . Maji,20278,INC,G . Khan,15582,4696,13.1
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,237,Barjora,GEN,,49874,INC,A . Chatterjee,23134,CPI(M),A . K . Raj,21431,1703,3.41
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,238,Bankura,GEN,,45710,INC,S . Mitra,14105,CPI,B . Ghosh,14090,15,0.03
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,239,Onda,GEN,,48571,INC,S . Dutta,21931,IND,B . Chattopadhyay,19970,1961,4.04
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,240,Vishnupur,GEN,,40612,INC,B . C . Mandal,20042,IND,K . K . Basu,6144,13898,34.22
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,241,Kotulpur,GEN,,44197,BAC,S . Sarkar,20593,INC,A . B . Roy,19697,896,2.03
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,242,Indas,SC,,35683,BAC,P . C . Mal,24501,INC,S . Santra,11182,13319,37.33
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,243,Sonamukhi,SC,,41213,INC,K . Saha,19652,CPI(M),K . K . Bagdi,11794,7858,19.07
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,244,Hirapur,GEN,,40009,INC,S . Ghatak,15336,CPI(M),C . S . Mukhopadhyay,14614,722,1.8
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,245,Kulti,GEN,,35097,INC,J . Sharma,12327,SSP,T . Chakraborty,11480,847,2.41
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,246,Barabani,GEN,,34686,INC,M . Upadhyay,17080,CPI(M),S . B . Ray,13541,3539,10.2
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,247,Asansol,GEN,,37946,INC,G . R . Mitra,17065,CPI(M),B . Mukherjee,12871,4194,11.05
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,248,Raniganj,GEN,,35336,CPI(M),H . Roy,17013,INC,S . C . Ghosh,16030,983,2.78
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,249,Jamuria,SC,,23881,SSP,T . Mondal,12861,INC,A . Mondal,10306,2555,10.7
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,250,Ukhra,SC,,34624,INC,H . Mondal,16247,CPI(M),L . Bagdi,13955,2292,6.62
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,251,Durgapur,GEN,,58014,CPI(M),D . K . Mazumdar,28752,INC,A . G . Mukherjee,27043,1709,2.95
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,252,Faridpur,GEN,,32067,BAC,M . Baksi,15865,INC,L . G . Ghatak,15034,831,2.59
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,253,Ausgram,SC,,34564,CPI(M),K . C . Halder,17934,INC,K . L . Das,13401,4533,13.11
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,254,Bhatar,GEN,,32210,INC,S . Hazra,12291,CPI,A . Roy,11638,653,2.03
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,255,Galsi,GEN,,37769,IND,P . C . Roy,21741,INC,L . Mollick,13143,8598,22.76
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,256,Burdwan North,GEN,,42523,CPI(M),S . Shahedullah,20631,INC,G . Basu,17819,2812,6.61
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,257,Burdwan South,GEN,,43618,INC,S . B . Choudhury,19936,CPI(M),B . K . Chowdhury,18226,1710,3.92
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,258,Khandaghosh,SC,,30087,INC,P . Dhibar,13548,SSP,G . Pakray,12149,1399,4.65
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,259,Raina,GEN,,40440,PSP,D . Tah,15324,INC,P . Guha,14556,768,1.9
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,260,Jamal Pur,SC,,34906,INC,P . Pramanik,22528,CPI(M),T . Sarkar,8676,13852,39.68
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,261,Memari,GEN,,46642,INC,P . Bishayee,23101,CPI(M),B . K . Konar,22217,884,1.9
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,262,Kalna,GEN,,46511,CPI(M),H . K . Konar,22128,INC,D . B . Ghosh,20877,1251,2.69
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,263,Nadanghat,GEN,,50703,INC,P . C . Goswami,26025,CPI(M),S . C . Bhowal,21070,4955,9.77
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,264,Manteswar,GEN,,45134,INC,N . C . Chaudhuri,25631,CPI(M),S . A . M . Habibullah,16867,8764,19.42
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,265,Purbasthali,GEN,,45067,CPI(M),L . Hazra,21108,INC,Rama Devi,19418,1690,3.75
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,266,Katwa,GEN,,42758,CPI(M),S. Chowdhury,20870,INC,T . Bandyopadhyay,20263,607,1.42
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,267,Mangalkot,GEN,,36237,INC,N. Sattar,18996,CPI(M),S.S. Chowdhury,17241,1755,4.84
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,268,Ketugram,SC,,39225,INC,P. Mandal,20611,CPI(M),N. Das,18614,1997,5.09
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,269,Nanur,SC,,33298,INC,S. Jash,14627,CPI(M),B. Das,12187,2440,7.33
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,270,Bolpur,GEN,,36118,IND,R.K. Sinha,19130,INC,A.K. Chattopadhyay,16339,2791,7.73
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,271,Labpur,GEN,,32178,INC,S. Bandyopadhyay,19063,CPI(M),R. Chanttoraj,13115,5948,18.48
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,272,Dubrajpur,GEN,,36445,IND,K.N. Bandopadhyay,13214,AIFB,B. B. Mandal,12924,290,0.8
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,273,Rajnagar,SC,,26068,AIFB,S. Mandal,11996,INC,N. Mandal,11809,187,0.72
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,274,Suri,GEN,,40800,INC,B. Bandopadhyay,15228,IND,P . Mukherjee,14828,400,0.98
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,275,Mahammad Bazar,GEN,,32398,INC,N . Ghosh,17397,BAC,R . Sarkar,12924,4473,13.81
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,276,Mayureswar,SC,,29768,INC,K . Saha,15149,CPI(M),P . Let,7331,7818,26.26
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,277,Rampurhat,GEN,,39965,AIFB,S . S . Mondal,14232,INC,N . Majumdar,10279,3953,9.89
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,278,Hansan,SC,,23964,INC,S . Prasad,10005,IND,M . R . Hury,7692,2313,9.65
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,279,Nalhati,GEN,,27957,IND,G . Mahiuddin,7664,INC,M . A . Raquil,6440,1224,4.38
+ae-west-bengal-1967,AE,West Bengal,1967,1967,official,280,Murarai,GEN,,36121,IND,B . Ahamad,14944,INC,M . Hossain,14170,774,2.14

@@ -1,0 +1,91 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,1,Kalka,GEN,Panchkula *,103678,BJP,Latika Sharma,41907,INLD,Pardeep Ch.,26065,15842,15.28
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,2,Panchkula,GEN,Panchkula *,90443,BJP,Gian Chand Gupta,49102,INLD,Kul Bhushan Goyal,17781,31321,34.63
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,3,Naraingarh,GEN,Ambala,127158,BJP,Nayab Singh Saini,50596,INC,Ram Kishan,28560,22036,17.33
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,4,Ambala Cantt.,GEN,Ambala,109581,BJP,Anil Vij,57519,INC,Ch. Nirmal Singh,44172,13347,12.18
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,5,Ambala City,GEN,Ambala,144147,BJP,Aseem Goel,53767,HJC,Venod Sharma,33010,20757,14.4
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,6,Mulana,SC,Ambala,142132,BJP,Santosh Sarwan,45710,INLD,Rajbir Singh,40550,5160,3.63
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,7,Sadhaura,SC,Yamunanagar,145554,BJP,Balwant Singh,56388,INLD,Pinki Chhapper,43885,12503,8.59
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,8,Jagadhri,GEN,Yamunanagar,141520,BJP,Kanwar Pal Gujjar,63387,BSP,Akram Khan,34220,29167,20.61
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,9,Yamunanagar,GEN,Yamunanagar,123692,BJP,Ghanshyam Dass,63714,INLD,Dilbagh Singh,41140,22574,18.25
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,10,Radaur,GEN,Yamunanagar,126102,BJP,Shyam Singh Rana,57376,INLD,Raj Kumar Bubka,24262,33114,26.26
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,11,Ladwa,GEN,Kurukshetra,123102,BJP,Pawan Saini,38051,INLD,Bachan Kaur Barshami,35367,2684,2.18
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,12,Shahbad,SC,Kurukshetra,101656,BJP,Krishan Kumar,37806,INLD,Ram Karan,37348,458,0.45
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,13,Thanesar,GEN,Kurukshetra,98375,BJP,Subhash Sudha,52041,INLD,Ashok Kumar Arora,32444,19597,19.92
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,14,Pehowa,GEN,Kurukshetra,116781,INLD,Jaswinder Singh,44014,BJP,Jai Bhagwan Sharma,35641,8373,7.17
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,15,Guhla,SC,Kaithal,121304,BJP,Kulwant Ram Bazigar,33601,INC,Dillu Ram,31369,2232,1.84
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,16,Kalayat,GEN,Kaithal,141109,IND,Jai Parkash,47187,INLD,Ram Pal Majra,39440,7747,5.49
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,17,Kaithal,GEN,Kaithal,127897,INC,Randeep Surjewala,55251,INLD,Kailash Bhagat,35287,19964,15.61
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,18,Pundri,GEN,Kaithal,134487,IND,Dinesh Kaushik,37360,BJP,Randhir Singh Gollen,32653,4707,3.5
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,19,Nilokheri,SC,Karnal,115689,BJP,Bhagwan Das,48520,INLD,Mamu Ram,19910,28610,24.73
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,20,Indri,GEN,Karnal,122294,BJP,Karan Dev Kamboj,39843,INLD,Usha Kashyap,19053,20790,17.0
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,21,Karnal,GEN,Karnal,110937,BJP,Manohar Lal Khattar,65209,IND,Jai Parkash Gupta,14788,50421,45.45
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,22,Gharaunda,GEN,Karnal,131217,BJP,Harvinder Kalyan,46595,INLD,Narender Sangwan,31518,15077,11.49
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,23,Assandh,GEN,Karnal,140529,BJP,Bakhshish Virk,27333,BSP,Maratha V. Verma,23229,4104,2.92
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,24,Panipat Rural,GEN,Panipat,105210,BJP,Mahipal Dhanda,42168,IND,Dhara Singh Rawal,17623,24545,23.33
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,25,Panipat City,GEN,Panipat,103485,BJP,Rohita Rewri,68807,INC,Virender Kumar Shah,28955,39852,38.51
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,26,Israna,SC,Panipat,103960,BJP,Krishan Lal Panwar,33870,INC,Balbir Singh,32332,1538,1.48
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,27,Samalkha,GEN,Panipat,122863,IND,Ravinder Machhrouli,43518,INC,Dharam Chhoker,26882,16636,13.54
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,28,Ganaur,GEN,Sonipat,100450,INC,Kuldeep Sharma,38533,INLD,Nirmal Rani,32234,6299,6.27
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,29,Rai,GEN,Sonipat,94614,INC,Jai Tirath Dahiya,29548,INLD,Inderjeet,29538,10,0.01
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,30,Kharkhauda,SC,Sonipat,74703,INC,Jaiveer Singh,27953,IND,Pawan Kharkhoda,17473,10480,14.03
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,31,Sonipat,GEN,Sonipat,89548,BJP,Kavita Jain,41013,INC,Dev Raj Diwan,22387,18626,20.8
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,32,Gohana,GEN,Sonipat,90901,INC,Jagbir Singh Malik,32143,INLD,Krishan C. Banger,29634,2509,2.76
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,33,Baroda,GEN,Sonipat,103756,INC,Krishan Hooda,43505,INLD,Kapoor Narwal,39043,4462,4.3
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,34,Julana,GEN,Jind,114177,INLD,Parminder Dhull,50238,INC,Dharmender Singh Dhull,29264,20974,18.37
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,35,Safidon,GEN,Jind,119259,IND,Jasbir Deswal,26153,BJP,Vandana Sharma,24889,1264,1.06
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,36,Jind,GEN,Jind,102506,INLD,Hari Chand,26641,BJP,Surender Barwala,24734,1907,1.86
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,37,Uchana Kalan,GEN,Jind,146692,BJP,Premlata Singh,72143,INLD,Dushyant Chautala,65366,6777,4.62
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,38,Narwana,SC,Jind,133405,INLD,Pirthi Singh,63101,BJP,Santosh Rani,55096,8005,6.0
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,39,Tohana,GEN,Fatehabad *,150619,BJP,Subhash Barala,43047,INLD,Nishan Singh,37037,6010,3.99
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,40,Fatehabad,GEN,Fatehabad *,162068,INLD,Balwan Daulatpuria,53012,HJC,Dura Ram,49949,3063,1.89
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,41,Ratia,SC,Fatehabad *,138168,INLD,Ravinder Baliala,44808,BJP,Sunita Duggal,44407,401,0.29
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,42,Kalawali,SC,Sirsa,126926,SAD,Balkaur Singh,51176,INC,Shishpal Keharwala,38915,12261,9.66
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,43,Dabwali,GEN,Sirsa,149453,INLD,Naina Singh Chautala,65162,INC,Kamalvir Singh,56971,8191,5.48
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,44,Rania,GEN,Sirsa,132982,INLD,Ramchand Kamboj,40759,OTH,Gobind Kanda,36756,4003,3.01
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,45,Sirsa,GEN,Sirsa,126898,INLD,Makhan Lal Singla,41001,OTH,Gopal Goyal Kanda,38412,2589,2.04
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,46,Ellenabad,GEN,Sirsa,136196,INLD,Abhay Singh Chautala,63604,BJP,Pawan Beniwal,52994,10610,7.79
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,47,Adampur,GEN,Hisar,115427,HJC,Kuldeep Bishnoi,54367,INLD,Kulveer Beniwal,37837,16530,14.32
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,48,Uklana,SC,Hisar,122328,INLD,Anoop Dhanak,50521,BJP,Seema Gaibipur,34937,15584,12.74
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,49,Narnaund,GEN,Hisar,141524,BJP,Captain Abhimanyu,49321,INLD,Raj Singh Mor,44043,5278,3.73
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,50,Hansi,GEN,Hisar,116477,HJC,Renuka Bishnoi,41291,INLD,Umed Singh Lohan,28234,13057,11.21
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,51,Barwala,GEN,Hisar,103365,INLD,Ved Narang,28694,BJP,Surender Punia,20270,8424,8.15
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,52,Hisar,GEN,Hisar,85491,BJP,Kamal Gupta,33179,INC,Savitri Jindal,22467,10712,12.53
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,53,Nalwa,GEN,Hisar,103310,INLD,Ranbir Gangwa,37078,HJC,Chander Mohan,30786,6292,6.09
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,54,Loharu,GEN,Bhiwani,124699,INLD,Om Parkash Barwa,36799,BJP,Jai Parkash Dalal,34903,1896,1.52
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,55,Badhra,GEN,Bhiwani,115032,BJP,Sukhvinder Sheoran,33935,INC,Ranbir Mahendra,29586,4349,3.78
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,56,Dadri,GEN,Bhiwani,107874,INLD,Rajdeep Phogat,35426,BJP,Somveer Sangwan,34110,1316,1.22
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,57,Bhiwani,GEN,Bhiwani,105312,BJP,Ghanshyam Saraf,40387,INLD,Nirmla Saraf,17303,23084,21.92
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,58,Tosham,GEN,Bhiwani,118377,INC,Kiran Choudhry,45551,INLD,Kamla Rani,30103,15448,13.05
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,59,Bawani Khera,SC,Bhiwani,114381,BJP,Bishamber Singh,38329,INLD,Daya Bhurtana,36259,2070,1.81
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,60,Meham,GEN,Rohtak,128146,INC,Anand Singh Dangi,48144,BJP,Shamsher Kharkara,38969,9175,7.16
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,61,Garhi Sampla-Kiloi,GEN,Rohtak,123340,INC,Bhupinder Hooda,70686,INLD,Satish Nandal,29355,41331,33.51
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,62,Rohtak,GEN,Rohtak,91016,BJP,Manish Grover,46026,INC,Bharat Bhushan Batra,37152,8874,9.75
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,63,Kalanaur,SC,Rohtak,100705,INC,Shakuntla Khatak,39930,BJP,Ram Avtar Balmiki,36788,3142,3.12
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,64,Bahadurgarh,GEN,Jhajjar *,97803,BJP,Naresh Kaushik,28323,INC,Rajinder Singh Joon,24715,3608,3.69
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,65,Badli,GEN,Jhajjar *,98951,BJP,Om Prakash Dhankar,36097,IND,Kuldeep Vats,28053,8044,8.13
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,66,Jhajjar,SC,Jhajjar *,88756,INC,Geeta Bhukkal,42834,INLD,Sadhu Ram,20813,22021,24.81
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,67,Beri,GEN,Jhajjar *,104734,INC,Raghuvir Kadian,33138,IND,Chatar Singh,29085,4053,3.87
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,68,Ateli,GEN,Mahendragarh,117696,BJP,Santosh Yadav,58507,INLD,Satbir,14535,43972,37.36
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,69,Mahendragarh,GEN,Mahendragarh,122655,BJP,Ram Bilas Sharma,73458,INC,Dan Singh Rao,43199,30259,24.67
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,70,Narnaul,GEN,Mahendragarh,86388,BJP,Om Parkash Yadav,28335,INLD,Kamlesh,24240,4095,4.74
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,71,Nangal Chaudhry,GEN,Mahendragarh,95075,BJP,Abhe Singh Yadav,31708,INLD,Manju,30795,913,0.96
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,72,Bawal,SC,Rewari,120275,BJP,Banwari Lal,63578,INLD,Shyam Sunder,30923,32655,27.15
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,73,Kosli,GEN,Rewari,140038,BJP,Bikram Thekedar,55077,INLD,Jagdish Yadav,45708,9369,6.69
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,74,Rewari,GEN,Rewari,131832,BJP,Randhir Kapriwas,69765,INLD,Satish Yadav,30651,39114,29.67
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,75,Pataudi,SC,Gurgaon,105027,BJP,Bimla Chaudhary,58972,INLD,Ganga Ram,28410,30562,29.1
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,76,Badshahpur,GEN,Gurgaon,160113,BJP,Rao Narbir Singh,63757,INLD,Rakesh Daultabad,50420,13337,8.33
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,77,Gurgaon,GEN,Gurgaon,137250,BJP,Umesh Aggarwal,76668,INLD,Gopi Chand Gahlot,15907,60761,44.27
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,78,Sohna,GEN,Gurgaon,124887,BJP,Tejpal Tawar,45209,INLD,Kishore Yadav,24578,20631,16.52
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,79,Nuh,GEN,Gurgaon,95079,INLD,Zakir Hussain,49773,INC,Aftab Ahmed,24359,25414,26.73
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,80,Ferozepur Jhirka,GEN,Gurgaon,101662,INLD,Naseem Ahmed,29960,IND,Mamman Khan,27540,2420,2.38
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,81,Punahana,GEN,Gurgaon,88990,IND,Rahish Khan,26305,INLD,Mohammad Ilyas,23894,2411,2.71
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,82,Hathin,GEN,Faridabad,125044,INLD,Kehar Singh,36925,BJP,Harsh Kumar,31661,5264,4.21
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,83,Hodal,SC,Faridabad,102901,INC,Udai Bhan,42755,INLD,Jagdish Nayar,32907,9848,9.57
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,84,Palwal,GEN,Faridabad,122044,INC,Karan Singh Dalal,45791,BJP,Deepak Mangla,41287,4504,3.69
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,85,Prithla,GEN,Faridabad,109503,BSP,Tek Chand Sharma,30179,BJP,Nayan Pal Rawat,29215,964,0.88
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,86,Faridabad NIT,GEN,Faridabad,91853,INLD,Nagender Bhadana,29347,IND,Pandit Shiv Charan,27473,1874,2.04
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,87,Badkhal,GEN,Faridabad,82069,BJP,Seema Trikha,43094,INC,Mahender Pratap Singh,20624,22470,27.38
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,88,Ballabhgarh,GEN,Faridabad,84388,BJP,Mool Chand Sharma,48042,INC,Lakhan Kumar Singla,11114,36928,43.76
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,89,Faridabad,GEN,Faridabad,81857,BJP,Vipul Goel,49507,INC,Anand Kaushik,18999,30508,37.27
+ae-haryana-2014,AE,Haryana,2014,2014,official_winners_only,90,Tigaon,GEN,Faridabad,95461,INC,Lalit Nagar,35454,BJP,Rajesh Nagar,33574,1880,1.97

@@ -1,0 +1,61 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-manipur-2022,AE,Manipur,2022,2022,official,1,Khundrakpam,GEN,Imphal East *,24744,INC,Thokchom Lokeshwar Singh,12211,BJP,Thangjam Mohendro Singh,11996,215,0.87
+ae-manipur-2022,AE,Manipur,2022,2022,official,2,Heingang,GEN,Imphal East *,31357,BJP,Nongthombam Biren Singh,24814,INC,Pangeijam Saratchandra Singh,6543,18271,58.27
+ae-manipur-2022,AE,Manipur,2022,2022,official,3,Khurai,GEN,Imphal East *,32941,BJP,Leishangthem Susindro Meitei,11131,NPP,Laitonjam Jayananda Singh,8894,2237,6.79
+ae-manipur-2022,AE,Manipur,2022,2022,official,4,Khetrigao,GEN,Imphal East *,33862,NPP,Sheikh Noorul Hassan,13118,BJP,Nahakpam Indrajit Singh,12376,742,2.19
+ae-manipur-2022,AE,Manipur,2022,2022,official,5,Thongju,GEN,Imphal East *,28836,BJP,Thongam Biswajit Singh,15338,INC,Seram Neken Singh,8649,6689,23.2
+ae-manipur-2022,AE,Manipur,2022,2022,official,6,Keirao,GEN,Imphal East *,28006,BJP,Lourembam Rameshwor Meetei,17335,NPP,Md. Nasiruddin Khan,9126,8209,29.31
+ae-manipur-2022,AE,Manipur,2022,2022,official,7,Andro,GEN,Senapati,33303,BJP,Thounaojam Shyamkumar,16739,NPP,Lourembam Sanjoy Singh,15282,1457,4.37
+ae-manipur-2022,AE,Manipur,2022,2022,official,8,Lamlai,GEN,Imphal East *,28553,BJP,Khongbantabam Ibomcha,10105,JDU,Kshetrimayum Biren Singh,9984,121,0.42
+ae-manipur-2022,AE,Manipur,2022,2022,official,9,Thangmeiband,GEN,Imphal East *,23942,JDU,Khumukcham Joykisan Singh,13629,BJP,Jotin Waikhom,9856,3773,15.76
+ae-manipur-2022,AE,Manipur,2022,2022,official,10,Uripok,GEN,Imphal East *,22773,BJP,Khwairakpam Raghumani Singh,8335,NPP,Yumnam Joykumar Singh,7426,909,3.99
+ae-manipur-2022,AE,Manipur,2022,2022,official,11,Sagolband,GEN,Imphal East *,20016,BJP,Rajkumar Imo Singh,11054,JDU,Dr. Khwairakpam Loken Singh,8398,2656,13.27
+ae-manipur-2022,AE,Manipur,2022,2022,official,12,Keisamthong,GEN,Imphal East *,25210,IND,Sapam Nishikant Singh,8874,RPI(AT),Maheshwar Thounaojam,8687,187,0.74
+ae-manipur-2022,AE,Manipur,2022,2022,official,13,Singjamei,GEN,Imphal East *,18887,BJP,Yumnam Khemchand Singh,8709,NPP,Oinam Romen Singh,6414,2295,12.15
+ae-manipur-2022,AE,Manipur,2022,2022,official,14,Yaiskul,GEN,Imphal East *,24038,BJP,Thokchom Satyabrata Singh,9724,NPP,Huidrom Vikramjit Singh,9092,632,2.63
+ae-manipur-2022,AE,Manipur,2022,2022,official,15,Wangkhei,GEN,Imphal East *,32124,JDU,Thangjam Arunkumar,11593,BJP,Okram Henry,10840,753,2.34
+ae-manipur-2022,AE,Manipur,2022,2022,official,16,Sekmai,GEN,Imphal West,27011,BJP,Heikham Dingo Singh,10010,NPP,Ayangbam Oken Singh,6677,3333,12.34
+ae-manipur-2022,AE,Manipur,2022,2022,official,17,Lamsang,GEN,Imphal West,31560,BJP,Sorokhaibam Rajen Singh,15185,NPP,Pukhrambam Sumati Devi,14785,400,1.27
+ae-manipur-2022,AE,Manipur,2022,2022,official,18,Konthoujam,GEN,Imphal West,28248,BJP,Dr. Sapam Ranjan Singh,13432,NPP,Konthoujam Sharat Singh,13038,394,1.39
+ae-manipur-2022,AE,Manipur,2022,2022,official,19,Patsoi,GEN,Imphal West,34551,BJP,Sapam Kunjakeswor (Keba) Singh,12186,INC,Akoijam Mirabai Devi,11499,687,1.99
+ae-manipur-2022,AE,Manipur,2022,2022,official,20,Langthabal,GEN,Imphal East *,26030,BJP,Karam Shyam,10815,INC,Okram Joy Singh,8762,2053,7.89
+ae-manipur-2022,AE,Manipur,2022,2022,official,21,Naoriya Pakhanglakpa,GEN,Imphal West,32750,BJP,Sagolshem Kebi Devi,11058,NPP,Soibam Subhaschandra Singh,10527,531,1.62
+ae-manipur-2022,AE,Manipur,2022,2022,official,22,Wangoi,GEN,Thoubal,28102,NPP,Khuraijam Loken Singh,15606,BJP,Oinam Lukhoi Singh,12340,3266,11.62
+ae-manipur-2022,AE,Manipur,2022,2022,official,23,Mayang Imphal,GEN,Imphal West,30529,BJP,Kongkham Robindro Singh,14642,INC,Dr. Khumujam Ratankumar Singh,8513,6129,20.08
+ae-manipur-2022,AE,Manipur,2022,2022,official,24,Nambol,GEN,Bishnupur,30710,BJP,Thounaojam Basanta Kumar Singh,16885,INC,Nameirakpam Loken Singh,13825,3060,9.96
+ae-manipur-2022,AE,Manipur,2022,2022,official,25,Oinam,GEN,Bishnupur,26513,NPP,Irengbam Nalini Devi,10808,BJP,Laishram Radhakishore Singh,10366,442,1.67
+ae-manipur-2022,AE,Manipur,2022,2022,official,26,Bishenpur,GEN,Bishnupur,29208,BJP,Konthoujam Govindas Singh,13611,JDU,Oinam Nabakishore Singh,12202,1409,4.82
+ae-manipur-2022,AE,Manipur,2022,2022,official,27,Moirang,GEN,Bishnupur,35825,NPP,Thongam Shanti Singh,14349,BJP,Mairembam Prithviraj Singh,12118,2231,6.23
+ae-manipur-2022,AE,Manipur,2022,2022,official,28,Thanga,GEN,Bishnupur,20939,BJP,Tongbram Robindro Singh,13095,INC,Birla Haobijam,7844,5251,25.08
+ae-manipur-2022,AE,Manipur,2022,2022,official,29,Kumbi,GEN,Bishnupur,25940,BJP,Sanasam Premchandra Singh,8513,JDU,Ahanthem Shanjoy Singh,8141,372,1.43
+ae-manipur-2022,AE,Manipur,2022,2022,official,30,Lilong,GEN,Thoubal,33829,JDU,Mohd Abdul Nasir,16886,BJP,Y. Antas Khan,16316,570,1.68
+ae-manipur-2022,AE,Manipur,2022,2022,official,31,Thoubal,GEN,Thoubal,29394,INC,Okram Ibobi Singh,15085,BJP,Leitanthem Basanta Singh,12542,2543,8.65
+ae-manipur-2022,AE,Manipur,2022,2022,official,32,Wangkhem,GEN,Senapati,30141,INC,Keisham Meghachandra Singh,8889,BJP,Yumnam Nabachandra Singh,7597,1292,4.29
+ae-manipur-2022,AE,Manipur,2022,2022,official,33,Heirok,GEN,Thoubal,31627,BJP,Thokchom Radheshyam Singh,13589,INC,Moirangthem Okendro,13186,403,1.27
+ae-manipur-2022,AE,Manipur,2022,2022,official,34,Wangjing Tentha,GEN,Thoubal,30340,BJP,Paonam Brojen Singh,15765,INC,Moirangthem Hemanta Singh,13852,1913,6.31
+ae-manipur-2022,AE,Manipur,2022,2022,official,35,Khangabo,GEN,Thoubal,34622,INC,Surjakumar Okram,17435,BJP,Khundrakpam Menjor Mangang,9632,7803,22.54
+ae-manipur-2022,AE,Manipur,2022,2022,official,36,Wabgai,GEN,Thoubal,29201,BJP,Dr.USHAM DEBEN SINGH,9138,INC,Md.Fajur Rahim,9088,50,0.17
+ae-manipur-2022,AE,Manipur,2022,2022,official,37,Kakching,GEN,Thoubal,26896,NPP,Mayanglambam Rameshwar Singh,8546,BJP,Yengkhom Surchandra Singh,7341,1205,4.48
+ae-manipur-2022,AE,Manipur,2022,2022,official,38,Hiyanglam,GEN,Thoubal,26113,BJP,Dr. Yumnam Radheshyam Singh,8613,INC,Dr. Huidrom Jiten Singh,6584,2029,7.77
+ae-manipur-2022,AE,Manipur,2022,2022,official,39,Sugnoo,GEN,Thoubal,24885,INC,Kangujam Ranjit Singh,12673,BJP,Mayanglambam Binod,11657,1016,4.08
+ae-manipur-2022,AE,Manipur,2022,2022,official,40,Jiribam,GEN,Imphal East *,26069,JDU,Md. Achab Uddin,12313,BJP,Nameirakpam Budhachandra Singh,11897,416,1.6
+ae-manipur-2022,AE,Manipur,2022,2022,official,41,Chandel,GEN,Chandel,46791,BJP,SS. Olish,37066,NPP,Langhu Paulhring Anal,9725,27341,58.43
+ae-manipur-2022,AE,Manipur,2022,2022,official,42,Tengnoupal,GEN,Chandel,41870,BJP,Letpao Haokip,21663,NPP,D. Korungthang,15252,6411,15.31
+ae-manipur-2022,AE,Manipur,2022,2022,official,43,Phungyar,GEN,Ukhrul,30805,NPP,Leishiyo Keishing,11642,BJP,Awung Shimray Hopingson,10863,779,2.53
+ae-manipur-2022,AE,Manipur,2022,2022,official,44,Ukhrul,GEN,Ukhrul,40025,NPP,Ram Muivah,15503,INC,Alfred Kanngam S. Arthur,14561,942,2.35
+ae-manipur-2022,AE,Manipur,2022,2022,official,45,Chingai,GEN,Ukhrul,30336,NPP,Khashim Vashum,12837,BJP,Ningam Chamroy,9349,3488,11.5
+ae-manipur-2022,AE,Manipur,2022,2022,official,46,Saikul,GEN,Senapati,26333,KPA,Kimneo Haokip Hangshing,6710,IND,Kenn Raikhan,5461,1249,4.74
+ae-manipur-2022,AE,Manipur,2022,2022,official,47,Karong,GEN,Senapati,49316,IND,J Kumo Sha,17191,BJP,R Yuh Jonathan Tao,13649,3542,7.18
+ae-manipur-2022,AE,Manipur,2022,2022,official,48,Mao,GEN,Senapati,50948,NPP,Losii Dikho,29591,IND,Woba Joram,21078,8513,16.71
+ae-manipur-2022,AE,Manipur,2022,2022,official,49,Tadubi,GEN,Senapati,24069,NPP,N. Kayisii,21601,IND,M. Francis Ngajokpa,2277,19324,80.29
+ae-manipur-2022,AE,Manipur,2022,2022,official,50,Kangpokpi,GEN,Senapati,24804,BJP,Nemcha Kipgen,14412,JDU,Soshim Gurung,9016,5396,21.75
+ae-manipur-2022,AE,Manipur,2022,2022,official,51,Saitu,GEN,Senapati,39417,IND,Haokholet Kipgen,12456,BJP,Ngamthang Haokip,9762,2694,6.83
+ae-manipur-2022,AE,Manipur,2022,2022,official,52,Tamei,GEN,Tamenglong,20667,NPP,Awangbow Newmai,19643,BJP,Z. Kikhonbou Newmai,627,19016,92.01
+ae-manipur-2022,AE,Manipur,2022,2022,official,53,Tamenglong,GEN,Tamenglong,26050,NPP,Janghemlung Panmei,10456,BJP,Huri Golmei,9147,1309,5.02
+ae-manipur-2022,AE,Manipur,2022,2022,official,54,Nungba,GEN,Tamenglong,25142,BJP,Dinganglung Gangmei,14464,INC,Gaikhangam,10678,3786,15.06
+ae-manipur-2022,AE,Manipur,2022,2022,official,55,Tipaimukh,GEN,Churachandpur,12600,JDU,Ngursanglur Sanate,6267,BJP,Chalton Lien Amo,5018,1249,9.91
+ae-manipur-2022,AE,Manipur,2022,2022,official,56,Thanlon,GEN,Churachandpur,13290,BJP,Vungzagin Valte,4863,NPP,Khanthang Tonsing,4112,751,5.65
+ae-manipur-2022,AE,Manipur,2022,2022,official,57,Henglep,GEN,Churachandpur,27556,BJP,Letzamang Haokip,13897,INC,T. Manga Vaiphei,6049,7848,28.48
+ae-manipur-2022,AE,Manipur,2022,2022,official,58,Churachandpur,GEN,Churachandpur,47497,JDU,L.M. Khaute,18231,BJP,V Hangkhanlian,17607,624,1.31
+ae-manipur-2022,AE,Manipur,2022,2022,official,59,Saikot,GEN,Churachandpur,52404,BJP,Paolienlal Haokip,18457,NPP,Khaipao Haokip,12586,5871,11.2
+ae-manipur-2022,AE,Manipur,2022,2022,official,60,Singhat,GEN,Churachandpur,23575,KPA,Chinlunthang,12098,BJP,Ginsuanhau Zou,10179,1919,8.14

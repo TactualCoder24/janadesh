@@ -1,0 +1,58 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,4,Dirang,ST,West Kameng,11703,PPA,Phurpa Tsering,6618,INC,Tsering Gyurme,5085,1533,13.1
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,5,Kalaktang,ST,West Kameng,7147,INC,Tenzing Norbu Thongdok,4189,NCP,Rinchin Khandu Khrimey,2958,1231,17.22
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,6,Thrizino-Buragaon,ST,West Kameng,11560,PPA,Kumsi Sidisow,8279,INC,Naresh Glow,3281,4998,43.24
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,7,Bomdila,ST,West Kameng,7971,INC,R. T. Khunjuju,4062,NCP,Japu Deru,3670,392,4.92
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,8,Bameng,ST,East Kameng,7930,INC,Kumar Waii,5647,AITC,Tagung Neri,2283,3364,42.42
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,9,Chayang Tajo,ST,East Kameng,7006,AITC,Karya Bagang,3674,INC,Kameng Dolo,3332,342,4.88
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,10,Seppa East,ST,East Kameng,9040,AITC,Tapuk Taku,4666,INC,Tame Phassang,4374,292,3.23
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,11,Seppa West,ST,East Kameng,5255,AITC,Tani Loffa,2783,INC,Hari Notung,2472,311,5.92
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,12,Pakke Kessang,ST,East Kameng,5703,INC,Atum Welly,2885,NCP,Techi Hemu,2818,67,1.17
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,13,Itanagar,ST,Papum Pare *,29556,NCP,Shri Techi Kaso,13443,INC,Shri Kipa Babu,10057,3386,11.46
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,14,Doimukh,ST,Papum Pare *,16592,INC,Shri Nabam Rebia,6752,NCP,Shri Ngurang Pinch,6154,598,3.6
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,15,Sagalee,ST,Papum Pare *,9600,INC,Shri Nabam Tuki,6646,NCP,Sri Tad Tana,2954,3692,38.46
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,16,Yachuli,ST,Lower Subansiri,13558,INC,Shri Likha Saaya,5638,AITC,Shri Nikh Kamin,5596,42,0.31
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,17,Ziro Hapoli,ST,Lower Subansiri,17120,INC,Shri Padi Richo,9569,AITC,Nani Ribia,6697,2872,16.78
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,18,Palin,ST,Kurung Kumey,11418,PPA,Takam Tagar,6015,INC,Balo Raja,5326,689,6.03
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,19,Nyapin Palin,ST,Kurung Kumey,8991,NCP,Bamang Felix,4865,INC,Tatar Kipa,4126,739,8.22
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,20,Tali,ST,Kurung Kumey,7809,PPA,Markio Tado,5261,INC,Takam Sorang,2548,2713,34.74
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,21,Koloriang,ST,Kurung Kumey,9091,INC,Lokam Tassar,5095,NCP,Kahfa Bengia,3996,1099,12.09
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,22,Nacho,ST,Upper Subansiri,6969,INC,Shri Tanga Byaling,4878,BJP,Shri Ajit Nacho,1052,3826,54.9
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,23,Taliha,ST,Upper Subansiri,6734,INC,Shri Punji Mara,3570,AITC,Shri Nyato Rigia,3164,406,6.03
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,24,Daporijo,ST,Upper Subansiri,12764,BJP,Shri Tapen Siga,5009,INC,Smti Yari Dulom,3806,1203,9.42
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,25,Raga,ST,Upper Subansiri,13434,INC,Sri Nido Pavitra,5460,NCP,Shri Aath Tacho Kabak,4274,1186,8.83
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,26,Dumporijo,ST,Upper Subansiri,9228,INC,Shri Takar Marde,7493,BJP,Shri Lompak Paksok,1735,5758,62.4
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,27,Liromoba,ST,West Siang,9388,INC,Jarbom Gamlin,6640,BJP,Bai Gadi,2748,3892,41.46
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,28,Likabali,ST,West Siang,8468,INC,Jomde Kena,3420,AITC,Yai Mara,2527,893,10.55
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,29,Basar,ST,West Siang,13864,INC,Gojen Gadi,8438,AITC,Dakter Basar,5317,3121,22.51
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,30,Along West,ST,West Siang,10195,INC,Gadam Ete,5113,AITC,Duter Padu,5082,31,0.3
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,31,Along East,ST,West Siang,9751,INC,Jarkar Gamlin,5175,AITC,Yomto Jini,4576,599,6.14
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,32,Rumgong,ST,West Siang,9436,BJP,Tamiyo Taga,3658,JDU,Karma Jerang,2915,743,7.87
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,33,Mechuka,ST,West Siang,7689,INC,Pasang Dorjee Sona,3973,NCP,Tsering Naksang,2423,1550,20.16
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,34,Tuting Yingkiong,ST,Upper Siang *,9019,NCP,Alo Libang,4827,INC,Gegong Apang,3457,1370,15.19
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,35,Pangin,ST,East Siang,10871,INC,Tapang Taloh,6826,NCP,Kaling Jerang,4045,2781,25.58
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,36,Nari-Koyu,ST,East Siang,6054,INC,Tako Dabi,3398,NCP,Kenyir Ringu,2656,742,12.26
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,37,Pasighat West,ST,East Siang,10397,BJP,Dr. Tangor Tapak,5529,INC,Omak Apang,4868,661,6.36
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,38,Pasighat East,ST,East Siang,14920,INC,Bosiram Siram,8908,NCP,Kaling Moyong,5683,3225,21.62
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,39,Mebo,ST,East Siang,9697,NCP,Ralom Borang,5142,INC,Lombo Tayeng,4555,587,6.05
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,40,Mariyang-Geku,ST,Upper Siang *,9456,INC,J K Panggeng,4165,NCP,Raising Perme,2885,1280,13.54
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,41,Anini,ST,Dibang Valley,3379,INC,Rajesh Tacho,1730,NCP,Eri Tayu,1649,81,2.4
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,42,Dambuk,ST,Lower Dibang Valley,9804,NCP,Jomin Tayeng,4967,INC,Roding Pertin,4837,130,1.33
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,43,Roing,ST,Lower Dibang Valley,9507,AITC,Shri Laeta Umbrey,5170,INC,Smti Pomaya Mithi,4337,833,8.76
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,44,Tezu Hayuliang,ST,Lohit,12949,INC,Karikho Kri,8397,AITC,Nakul Chai,4552,3845,29.69
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,45,Hayuliang,ST,Anjaw,9134,INC,Shri Kalikho Pul,7788,AITC,Shri Baritlum Ama,998,6790,74.34
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,46,Chowkham,ST,Lohit,10302,INC,Chow Tewa Mein,6279,NCP,Chow Chinakong,4023,2256,21.9
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,47,Namsai,ST,Lohit,16146,IND,Nang Sati Mein,10477,AITC,Chow Pingthika,4778,5699,35.3
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,48,Lekang,ST,Lohit,12104,INC,Chowna Mein,6896,NCP,James Techi Tara,3950,2946,24.34
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,49,Bordumsa Diyum,GEN,Changlang,12681,INC,C.C Singpho,6193,NCP,Khumral Lungphi,5238,955,7.53
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,50,Miao,ST,Changlang,15331,INC,Kamlung Mosang,9151,NCP,Samchom Ngemu,6180,2971,19.38
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,51,Nampong,ST,Changlang,7014,INC,Setong Sena,5432,IND,Tosham Mossang,1582,3850,54.89
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,52,Changlang South,ST,Changlang,4299,INC,Phosum Khimhun,2904,AITC,Tengam Ngemu,950,1954,45.45
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,53,Changlang North,ST,Changlang,7726,INC,Thinghaap Taiju,4088,AITC,Wangnia Pongte,2834,1254,16.23
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,54,Namsang,ST,Tirap,7243,INC,Wangki Lowang,4968,NCP,Wanglong Rajkumar,2275,2693,37.18
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,55,Khonsa East,ST,Tirap,7658,AITC,Kamthok Lowang,3475,INC,T L Rajkumar,3020,455,5.94
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,56,Khonsa West,ST,Tirap,7850,INC,Yumsem Matey,4030,AITC,Thajam Aboh,3562,468,5.96
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,57,Borduria Bogapani,ST,Tirap,5942,INC,Wanglin Lowangdong,4034,NCP,Tonhang Tongluk,1908,2126,35.78
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,58,Kanubari,ST,Tirap,9048,INC,Newlai Tingkhatra,4859,PPA,Gabriel Denwang,4189,670,7.4
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,59,Longding Pumao,ST,Tirap,8941,INC,Thangwang Wangham,4763,PPA,Tanpho Wangnaw,4178,585,6.54
+ae-arunachal-pradesh-2009,AE,Arunachal Pradesh,2009,2009,official,60,Pongchao Wakka,ST,Tirap,12220,INC,Honchun Ngandam,7531,PPA,Anok Wangsa,2976,4555,37.27

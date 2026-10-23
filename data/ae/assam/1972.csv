@@ -1,0 +1,113 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-assam-1972,AE,Assam,1972,1972,official,4,Ratabari,GEN,,36063,INC,Suranjan Nandy,13930,IND,Ramdes Malah,12659,1271,3.52
+ae-assam-1972,AE,Assam,1972,1972,official,5,Patharkandi,GEN,,35884,INC,Biswanath Upadhyay,17126,IND,Mahabubur Rob Choudhury,11836,5290,14.74
+ae-assam-1972,AE,Assam,1972,1972,official,6,Karimganj North,GEN,,37545,INC,Abdul Muqtadir Choudury,18581,CPI(M),Nishity Ranjan Das,16824,1757,4.68
+ae-assam-1972,AE,Assam,1972,1972,official,7,Karimganj South,SC,,29646,INC,Sudarsan Das,19020,CPI,Gopesh Namasudra,10626,8394,28.31
+ae-assam-1972,AE,Assam,1972,1972,official,8,Badarpur,GEN,,36456,INC,M. A. Jalil Choudhury,15788,IND,Ramendra Kumar De,12751,3037,8.33
+ae-assam-1972,AE,Assam,1972,1972,official,9,Mailakandi,GEN,,37775,INC,Abdur Rahman Choudhury,22610,IND,Dinesh Chandra Sinha,5111,17499,46.32
+ae-assam-1972,AE,Assam,1972,1972,official,10,Katlicherra,GEN,,44407,INC,Santosh Kumar Roy,23988,IND,Tazamul Ali Laskar,17137,6851,15.43
+ae-assam-1972,AE,Assam,1972,1972,official,11,Silchar,GEN,,28579,INC,Mohitosh Purkayastha,22283,CPI(M),A. K. Bhattacherjee,6065,16218,56.75
+ae-assam-1972,AE,Assam,1972,1972,official,12,Sonai,GEN,,35156,INC,Nurul Haque Choudhury,25128,IND,Fazlur Rahman,10028,15100,42.95
+ae-assam-1972,AE,Assam,1972,1972,official,13,Dholat,SC,,25129,INC,D. C. Purkayastha,20392,IND,Sure H. Chandra Choudhury,4737,15655,62.3
+ae-assam-1972,AE,Assam,1972,1972,official,14,Lakhimpur,GEN,,31801,INC,Shubhankar Singha,19427,CPI(M),Noor L. Huda,12374,7053,22.18
+ae-assam-1972,AE,Assam,1972,1972,official,16,Barkhola,GEN,,31919,INC,Dr. Lutfur Rahman,18816,IND,Jalad Boran Deb Laskar,12038,6778,21.24
+ae-assam-1972,AE,Assam,1972,1972,official,17,Katigora,GEN,,35482,INC,Abdul Hamid Majumder,21882,IND,Tarapada Bhattacharjee,13072,8810,24.83
+ae-assam-1972,AE,Assam,1972,1972,official,19,Bokajan,ST,,22447,INC,Saisai Terang,15981,IND,Sarsing Terang,6466,9515,42.39
+ae-assam-1972,AE,Assam,1972,1972,official,20,Howraghat,ST,,26557,INC,Chatrasing Teron,20119,IND,Bareling Terang,6438,13681,51.52
+ae-assam-1972,AE,Assam,1972,1972,official,21,Baithalangso,ST,,22790,INC,Dhani Ram Bongpi,15726,IND,Joy Sing Terang,4587,11139,48.88
+ae-assam-1972,AE,Assam,1972,1972,official,31,Mankachar,GEN,,39948,INC,Jurul Islan,22282,IND,Zabirul Islam,17666,4616,11.56
+ae-assam-1972,AE,Assam,1972,1972,official,32,Salmara South,GEN,,39436,INC,Bazlul Basit,29407,IND,Abdul Rezzak Mollah,10029,19378,49.14
+ae-assam-1972,AE,Assam,1972,1972,official,33,Dhubri,GEN,,31713,INC,Mohammad Umaruddin,24595,IND,Nazrulislam,4037,20558,64.83
+ae-assam-1972,AE,Assam,1972,1972,official,34,Gauripur,GEN,,39832,INC,Syed Ahmed Ali,26341,SOP,Mohammad Azad Ali,11327,15014,37.69
+ae-assam-1972,AE,Assam,1972,1972,official,35,Golakganj,GEN,,40961,IND,K. C. Ray Pradhani,23058,INC,Sabita Rani Prodhani,16707,6351,15.5
+ae-assam-1972,AE,Assam,1972,1972,official,36,Bilasipara,GEN,,38421,IND,Giasuddin Ahmed,23602,INC,Mojibor Rahman,14819,8783,22.86
+ae-assam-1972,AE,Assam,1972,1972,official,37,Gossaigaon,GEN,,33537,INC,Mathias Turu,22242,IND,Mathias Marandi,5739,16503,49.21
+ae-assam-1972,AE,Assam,1972,1972,official,38,Kokrajhar West,ST,,37500,PTC,Charan Narzary,18420,INC,Ranendra Basumatary,17665,755,2.01
+ae-assam-1972,AE,Assam,1972,1972,official,39,Kokrajhar East,GEN,,40581,INC,Sarat Chandra Sinha,32649,CPI(M),Bepin Daimary,7932,24717,60.91
+ae-assam-1972,AE,Assam,1972,1972,official,40,Sidli,ST,,38423,INC,Uttam Brahma,20692,PTC,Charan Narzary,17731,2961,7.71
+ae-assam-1972,AE,Assam,1972,1972,official,41,Bijni,GEN,,37870,INC,Golak Chandra Patgiri,13860,IND,Mahodar Chandra Pathak,13271,589,1.56
+ae-assam-1972,AE,Assam,1972,1972,official,42,Adhayapuri,SC,,31869,INC,Ayohdhya Ram Das,22340,IND,Kandarpa Banikya,8729,13611,42.71
+ae-assam-1972,AE,Assam,1972,1972,official,43,Bongaigaon,GEN,,32488,INC,Dhruba Barua,27581,IND,Alauddin Ahmed,1793,25788,79.38
+ae-assam-1972,AE,Assam,1972,1972,official,44,Goalpara West,GEN,,41482,INC,Sahadat Ali Jotedar,28760,IND,Afzalur Rahman,9219,19541,47.11
+ae-assam-1972,AE,Assam,1972,1972,official,45,Goalpara East,GEN,,33975,INC,Balabhadra Das,23198,IND,Maziruddin Ahmed,8475,14723,43.33
+ae-assam-1972,AE,Assam,1972,1972,official,46,Dudhnai,ST,,26328,INC,Anandi Bala Rava,13456,CPI,Sarat Chandra Rava,8283,5173,19.65
+ae-assam-1972,AE,Assam,1972,1972,official,47,Sorbhog,GEN,,37912,INC,Pranita Talukdar,14485,CPI(M),Hemendra Nath Das,8752,5733,15.12
+ae-assam-1972,AE,Assam,1972,1972,official,48,Bhabanipur,GEN,,40585,IND,Ghana Kanta Baro,13024,INC,Dharanidhar Chaudhury,8280,4744,11.69
+ae-assam-1972,AE,Assam,1972,1972,official,49,Patacharkuchi,GEN,,36110,INC,Krishna Kanta Lahkar,19825,SOP,Bhubaneswar Barman,6762,13063,36.18
+ae-assam-1972,AE,Assam,1972,1972,official,50,Barpeta,GEN,,43039,INC,Surendra Nath Das,27465,IND,Prangopal Chandra Das,6348,21117,49.06
+ae-assam-1972,AE,Assam,1972,1972,official,51,Jania,GEN,,41179,INC,Ataur Rahman,31079,IND,Mahammad Ali,8321,22758,55.27
+ae-assam-1972,AE,Assam,1972,1972,official,52,Baghbar,GEN,,40849,INC,Jalal Uddin,32649,IND,Sirajul Haque,5729,26920,65.9
+ae-assam-1972,AE,Assam,1972,1972,official,53,Sarukhetri,SC,,40504,INC,Kandarpa Kumar Das,19583,IND,Sanatan Das,8050,11533,28.47
+ae-assam-1972,AE,Assam,1972,1972,official,54,Chenga,GEN,,40906,INC,Abdul Hannan Choudhury,22175,IND,Ismail Hussain Mallik,13135,9040,22.1
+ae-assam-1972,AE,Assam,1972,1972,official,55,Boko,GEN,,36776,INC,Prabin Kumar Choudhury,24241,IND,Kati Ram Rabha,9439,14802,40.25
+ae-assam-1972,AE,Assam,1972,1972,official,56,Chaygaon,GEN,,37485,INC,Satyavati Gossami,18687,IND,A. N. Akram Hussain,11408,7279,19.42
+ae-assam-1972,AE,Assam,1972,1972,official,57,Palasbari,GEN,,33329,INC,Harendra Nath Talukdar,19877,IND,Nabin Kalita,7491,12386,37.16
+ae-assam-1972,AE,Assam,1972,1972,official,58,Gauhati East,GEN,,28678,INC,Atul Chandrasaikia,13840,CPI,Dhireswar Kalika,6596,7244,25.26
+ae-assam-1972,AE,Assam,1972,1972,official,59,Gauhati West,GEN,,20213,INC,Biren Ram Phookun,11048,CPI,Gobinda Kalita,7352,3696,18.29
+ae-assam-1972,AE,Assam,1972,1972,official,60,Jalukbari,GEN,,22971,INC,Rebati Das,8809,IND,Ailen Medhi,5764,3045,13.26
+ae-assam-1972,AE,Assam,1972,1972,official,61,Majo,GEN,,42396,IND,Ranuka Debi Barkataki,19935,INC,Shaukat Ali,16532,3403,8.03
+ae-assam-1972,AE,Assam,1972,1972,official,62,Nalbari West,GEN,,37610,INC,Bhumidhar Barman,22596,CPI,Tarunsen Deka,14091,8505,22.61
+ae-assam-1972,AE,Assam,1972,1972,official,63,Nalbari East,GEN,,33475,SOP,Badan Ch. Talukdar,17080,INC,Bhabendra N. Dutta Baraua,15329,1751,5.23
+ae-assam-1972,AE,Assam,1972,1972,official,64,Borbhag,GEN,,32283,IND,Gauri S. Bhattacharyya,16456,INC,Pabindra Nath Sarma,15827,629,1.95
+ae-assam-1972,AE,Assam,1972,1972,official,65,Darama,ST,,35629,INC,Surendra Nath Das,18333,IND,Bimal Brahma Gayari,7984,10349,29.05
+ae-assam-1972,AE,Assam,1972,1972,official,66,Tamulpur,ST,,39022,INC,Ambarish Ch Lahari,20241,IND,Maneswar Baro,12562,7679,19.68
+ae-assam-1972,AE,Assam,1972,1972,official,67,Rangiya,GEN,,32559,INC,Manabendra Nath Sarmah,10089,CPI,Kami I. Mohan Sarmah,10085,4,0.01
+ae-assam-1972,AE,Assam,1972,1972,official,68,Kahalpur,GEN,,30166,INC,Girindara C. Choudhury,12056,SOP,Lakshyadhar Choudhury,10621,1435,4.76
+ae-assam-1972,AE,Assam,1972,1972,official,69,Panery,GEN,,35131,INC,Ramesh Chandra Saharia,21432,IND,Hiralal Patowary,13699,7733,22.01
+ae-assam-1972,AE,Assam,1972,1972,official,70,Kalaigaon,GEN,,31879,INC,Lakshmi Kanta Saikia,11360,IND,Abdul Mazid,4890,6470,20.3
+ae-assam-1972,AE,Assam,1972,1972,official,71,Rangamati,SC,,29000,INC,Upendra Das,14799,IND,Nakul Chandra Das,8587,6212,21.42
+ae-assam-1972,AE,Assam,1972,1972,official,72,Mangaldoi,GEN,,36105,INC,Syed Anwara Taimur,18234,SOP,Juram Baro,9824,8410,23.29
+ae-assam-1972,AE,Assam,1972,1972,official,73,Dalgaon,GEN,,32742,INC,Hashimuduin Ahmed,13618,IND,Urendra Barua,9434,4184,12.78
+ae-assam-1972,AE,Assam,1972,1972,official,74,Udalaguri,ST,,34854,INC,Bahadur Basumatari,16470,PTC,Binoy Kumar Basumatari,12576,3894,11.17
+ae-assam-1972,AE,Assam,1972,1972,official,75,Dhekiajuli,GEN,,35670,INC,Hiranya Bora,16624,IND,Indra Kanta Borah,15603,1021,2.86
+ae-assam-1972,AE,Assam,1972,1972,official,76,Missamari,GEN,,30600,INC,Bijoy Chandra Sarmah,12295,IND,Kamal Chandra Basumatary,11891,404,1.32
+ae-assam-1972,AE,Assam,1972,1972,official,77,Tezpur,GEN,,28287,INC,Robindra Kumar Goswami,12724,SOP,Purna Narayan Sinha,8575,4149,14.67
+ae-assam-1972,AE,Assam,1972,1972,official,78,Balipara,GEN,,33671,INC,Golok Rajbanshi,18538,CPI(M),Amal Ghosh Dostidar,6408,12130,36.03
+ae-assam-1972,AE,Assam,1972,1972,official,79,Sootea,GEN,,36607,INC,Swarna Probha Mahanta,15366,SOP,Golok Kakati,11550,3816,10.42
+ae-assam-1972,AE,Assam,1972,1972,official,80,Biswanath,GEN,,33109,IND,Kisheswar Bora,12974,INC,Biswadev Sarmah,12071,903,2.73
+ae-assam-1972,AE,Assam,1972,1972,official,81,Gohpur,GEN,,32838,SOP,Ram Chandra Sarmah,9934,IND,Nirod Baron Das,9338,596,1.81
+ae-assam-1972,AE,Assam,1972,1972,official,82,Marigaon,ST,,30193,IND,Pitsing Konwar,15057,INC,Kali Ram Deka Raja,14334,723,2.39
+ae-assam-1972,AE,Assam,1972,1972,official,83,Bokani,SC,,40747,INC,Jagadish Das,24603,IND,Brajendra Nath Sarkar,15016,9587,23.53
+ae-assam-1972,AE,Assam,1972,1972,official,84,Laharighat,GEN,,36859,INC,Abul Kasem,16908,IND,Samsul Huda,8114,8794,23.86
+ae-assam-1972,AE,Assam,1972,1972,official,85,Raha,GEN,,36040,INC,Gunendra Nath Pandit,16810,SOP,Bali Ram Das,9364,7446,20.66
+ae-assam-1972,AE,Assam,1972,1972,official,86,Dhing,GEN,,34663,INC,Abul Hussain Mir,17824,IND,Shamsul Huda,16639,1185,3.42
+ae-assam-1972,AE,Assam,1972,1972,official,87,Rupohihat,GEN,,35172,INC,Mahammad Idris,24110,IND,Md. Abdul M. Choudhury,7272,16838,47.87
+ae-assam-1972,AE,Assam,1972,1972,official,88,Nowgong,GEN,,30997,INC,Lila Kanta Bora,17188,CPI,Phoni Bora,12145,5043,16.27
+ae-assam-1972,AE,Assam,1972,1972,official,89,Barhampur,GEN,,30318,CPI,Kehoram Hazarika,14230,INC,Rupram Sut,13255,975,3.22
+ae-assam-1972,AE,Assam,1972,1972,official,90,Kaliabor,GEN,,33412,INC,Golap Chandra Barua,16913,SOP,Atul Chandra Goswami,14280,2633,7.88
+ae-assam-1972,AE,Assam,1972,1972,official,91,Samaguri,GEN,,24028,INC,Bishnu Prasad,15140,IND,Nidhi Ram Prashan,3765,11375,47.34
+ae-assam-1972,AE,Assam,1972,1972,official,92,Jamunamukh,GEN,,33273,INC,Debendra Nath Bora,15745,SOP,Md. M. Zammila Choudhury,8271,7474,22.46
+ae-assam-1972,AE,Assam,1972,1972,official,93,Hojai,GEN,,42119,INC,Idris Ali Fakir,27677,IND,Dilip Dutti,8327,19350,45.94
+ae-assam-1972,AE,Assam,1972,1972,official,94,Lumding,GEN,,37722,INC,Santi Ranajan Dasgupta,17074,IND,Sajhanranjan Sarkar,9040,8034,21.3
+ae-assam-1972,AE,Assam,1972,1972,official,95,Bokakhar,SC,,22885,INC,Tulsi Das,17070,CPI,Bhupen Das,5815,11255,49.18
+ae-assam-1972,AE,Assam,1972,1972,official,96,Sarupathar,GEN,,31960,INC,Chatra Gopal Karmakar,19682,CPI,Rama Kanta Gogoe,5610,14072,44.03
+ae-assam-1972,AE,Assam,1972,1972,official,97,Golaghat,GEN,,32854,SOP,Soneswar Bora,16843,INC,Arati Sikia,11519,5324,16.21
+ae-assam-1972,AE,Assam,1972,1972,official,98,Dergaon,GEN,,30725,SOP,Imalendra Baruah,10161,INC,Abdu Malik,8949,1212,3.94
+ae-assam-1972,AE,Assam,1972,1972,official,99,Majuli,ST,,26586,INC,Mal Chandna Pegu,13188,IND,Mohidhar Pegu,12929,259,0.97
+ae-assam-1972,AE,Assam,1972,1972,official,100,Jorhat,GEN,,28340,INC,Bijoy Krishna Handiqui,15175,IND,Jogen Kaikia,10045,5130,18.1
+ae-assam-1972,AE,Assam,1972,1972,official,101,Charaibahi,GEN,,25990,IND,Dulal Chandra Baruah,13082,INC,Dinanath Rajkhowa,9874,3208,12.34
+ae-assam-1972,AE,Assam,1972,1972,official,102,Titabar,GEN,,29236,INC,Joy Chandra Bora,15193,CPI,Giridhar Thengal,10468,4725,16.16
+ae-assam-1972,AE,Assam,1972,1972,official,103,Mariani,GEN,,24720,INC,Gajen Tanti,17949,IND,Jisan Mipun,5682,12267,49.62
+ae-assam-1972,AE,Assam,1972,1972,official,104,Teok,GEN,,27257,CPI,Dulal Chandra Khound,13748,INC,Ilok Gogoi,11770,1978,7.26
+ae-assam-1972,AE,Assam,1972,1972,official,105,Amguri,GEN,,27479,INC,Puspadhar Chaliha,12567,IND,Khagen Borboruah,11740,827,3.01
+ae-assam-1972,AE,Assam,1972,1972,official,106,Sibsagar,GEN,,33803,CPI,Promode Chandra Gogoi,17598,INC,Tankeswar Dihingia,14565,3033,8.97
+ae-assam-1972,AE,Assam,1972,1972,official,107,Thowra,GEN,,31677,INC,Narau Kamar,15155,CPI,Jogen Gogoi,13708,1447,4.57
+ae-assam-1972,AE,Assam,1972,1972,official,108,Nazira,GEN,,28174,INC,Hiteswar Saikia,19676,IND,Dependra Nath Bardoloi,4764,14912,52.93
+ae-assam-1972,AE,Assam,1972,1972,official,109,Mahmara,GEN,,29106,INC,Khogen Gogoi,13981,IND,Buddha Barua,7268,6713,23.06
+ae-assam-1972,AE,Assam,1972,1972,official,110,Sonari,GEN,,28406,IND,Janakinath Hansiqui,13268,INC,Prafulla Borooah,9238,4030,14.19
+ae-assam-1972,AE,Assam,1972,1972,official,111,Bimpuria,GEN,,34438,IND,Premadhq Bora,13917,INC,Purn Nanda Datta,10765,3152,9.15
+ae-assam-1972,AE,Assam,1972,1972,official,112,Naoboicha,SC,,32192,INC,Lila Kanta Das,21419,IND,Chandra Kumar Borah,5853,15566,48.35
+ae-assam-1972,AE,Assam,1972,1972,official,113,North Lakhimpur,GEN,,32942,INC,Govind Chandra Bora,11446,PTC,Birason Doley,9234,2212,6.71
+ae-assam-1972,AE,Assam,1972,1972,official,114,Dhakukhana,ST,,34861,INC,Lakshya Nath Doley,12865,CPI,Nameswar Pegu,10110,2755,7.9
+ae-assam-1972,AE,Assam,1972,1972,official,115,Dhemaji,ST,,46587,SWA,Romesh Mohon Kuli,21663,INC,Lali Kumar Doley,18789,2874,6.17
+ae-assam-1972,AE,Assam,1972,1972,official,116,Moran,GEN,,28670,INC,Tarun Chandra Chutiya,12917,IND,Madan Chandra Baruah,7714,5203,18.15
+ae-assam-1972,AE,Assam,1972,1972,official,117,Dibrugarh,GEN,,22683,INC,Ramesh Chandra Barooah,18669,IND,Suren Gogoi,2526,16143,71.17
+ae-assam-1972,AE,Assam,1972,1972,official,118,Lahowal,GEN,,25193,INC,Dipak Moormoo,15347,SOP,Nibaran Chandra Bora,9092,6255,24.83
+ae-assam-1972,AE,Assam,1972,1972,official,119,Tengakhat,GEN,,26216,INC,Indreswar Khaund,14669,IND,Madanlal Berial,5173,9496,36.22
+ae-assam-1972,AE,Assam,1972,1972,official,120,Tingkhong,GEN,,35164,INC,Rajendra Nath Phukon,12983,SOP,Bhadreswar Gogoi,10321,2662,7.57
+ae-assam-1972,AE,Assam,1972,1972,official,121,Joypur,GEN,,34116,INC,Kshirode Chandra Saikia,18856,CPI,Niron Gogoi,5528,13328,39.07
+ae-assam-1972,AE,Assam,1972,1972,official,122,Bogdung,GEN,,23064,INC,Upendra Nath Sanatan,15283,SOP,Misil Gohain,2531,12752,55.29
+ae-assam-1972,AE,Assam,1972,1972,official,123,Tinsukia,GEN,,27494,INC,Paramananda Gogoi,18767,SOP,Golap Borbora,8727,10040,36.52
+ae-assam-1972,AE,Assam,1972,1972,official,124,Digboi,GEN,,27839,INC,Chandra Bahadur Chetri,15620,CPI,Bari Choudhury,9534,6086,21.86
+ae-assam-1972,AE,Assam,1972,1972,official,125,Doom Dooma,GEN,,27184,INC,Malia Tanti,14967,IND,Ganesh Bahadur Singh,3721,11246,41.37
+ae-assam-1972,AE,Assam,1972,1972,official,126,Saikhowa,GEN,,35224,INC,Tarulata Bora,16428,IND,Bidhan Borah,4872,11556,32.81

@@ -1,0 +1,231 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,1,Sheopur,GEN,,111959,BJP,Durgalal Vijay,27492,BSP,Baboolal,24437,3055,2.73
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,2,Bijeypur,GEN,,114085,INC,Ramniwas,50726,BJP,Baboolal,32017,18709,16.4
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,3,Sabalgarh,GEN,,129024,BJP,Mehar Ban Singh Rawat,40815,BSP,Jalim Singh Dhakad,35558,5257,4.07
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,4,Joura,GEN,,114924,INC,Ummed Singh Bana,23164,IND,Mani Ram Dhakar,20411,2753,2.4
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,5,Sumawali,GEN,,123120,BJP,Gajraj Singh Sikarwar,48690,INC,Aidal Singh Kansana,36295,12395,10.07
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,6,Morena,GEN,,117315,BJP,Rustam Singh,40893,BSP,Parsuram Mudgal,24211,16682,14.22
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,7,Dimni,SC,,87502,BJP,Sandhya Ray,34554,INC,Hari Singh,31990,2564,2.93
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,8,Ambah,SC,,96345,BJP,Bansilal Jatab,40267,INC,Kishora,31806,8461,8.78
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,9,Gohad,SC,,84851,BJP,Lal Singh Arya,27646,INC,Shriram,16997,10649,12.55
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,10,Mehgaon,GEN,,97602,IND,Munna Singh,24277,BJP,Rakesh Shukla,19915,4362,4.47
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,11,Attair,GEN,,103503,INC,Satyadev Katare,43879,BJP,Munna Singh Bhadoriya,33095,10784,10.42
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,12,Bhind,GEN,,133061,BJP,Narendra Singh Kushwah,45761,INC,Chaudhri Rakesh Singh,29304,16457,12.37
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,13,Ron,GEN,,82299,BJP,Rasal Singh,20515,SP,Dr. Rajendra Prakash Singh,16918,3597,4.37
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,14,Lahar,GEN,,127252,INC,Dr. Govind Singh,54633,BSP,Ramashankar Singh,50548,4085,3.21
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,15,Gwalior,GEN,,129700,BJP,Narendra Singh Tomar,63592,INC,Balendu Shukla,29452,34140,26.32
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,16,Lashkar East,GEN,,76633,BJP,Anoop Mishra,43585,INC,Ramesh Agrawal,30869,12716,16.59
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,17,Lashkar West,GEN,,91232,BJP,Narayan Singh Kushwah S/O Parma,46483,INC,Bhagwan Singh Yadav,41570,4913,5.39
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,18,Morar,GEN,,115886,BJP,Dhyanendra Singh,30866,SP,Munna Lal Goyal,18852,12014,10.37
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,19,Gird,GEN,,114706,BJP,Brajendra Tiwari,36376,INC,Lakhan Singh Yadav,27792,8584,7.48
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,20,Dabra,GEN,,119029,BJP,Dr. Narottam Mishra,32653,INC,Ram Sewak Singh (Babuji ),31884,769,0.65
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,21,Bhander,SC,,95311,BJP,Dr. Kamlapat Arya,28180,IND,Phool Singh Baraiya,15188,12992,13.63
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,22,Seondha,SC,,108108,BJP,Ram Dayal Prabhakar,50177,INC,Mahendra Boudha,31720,18457,17.07
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,23,Datia,GEN,,109573,INC,Ghan Shyam Singh,23695,BJP,Avadheshnayak,20791,2904,2.65
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,24,Karera,GEN,,133192,BSP,Lakhan Singh Baghel,37365,BJP,Ranveer Singh Rawat,32025,5340,4.01
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,25,Pohri,GEN,,94500,RSMD,Harivallabh Shukla,29401,INC,Baijanti Varma (Ex Mla),23361,6040,6.39
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,26,Shivpuri,GEN,,117905,BJP,Srimant Yashodhara Raje Scindia,62733,INC,Ganesh Ram Gautam,36999,25734,21.83
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,27,Pichhore,GEN,,148731,INC,"K.P.Singh ""Kakka Ju""",72744,BJP,Swami Prasad Lodhi,56619,16125,10.84
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,28,Kolaras,SC,,93274,BJP,Om Prakash Khateek,50997,INC,Smt.Angoori Devi Raje Jatav,18885,32112,34.43
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,29,Guna,GEN,,123898,BJP,Kanhaiyalal Rameshwar Agrawal,76450,INC,Pt. Kailash Sharma,31131,45319,36.58
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,30,Chachaura,GEN,,92533,INC,Shivnarayan Meena,46070,BJP,Ram Narayan Lodha,43064,3006,3.25
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,31,Raghogarh,GEN,,107936,INC,Digvijay Singh,58233,BJP,Shivraj Singh Chouhan,37069,21164,19.61
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,32,Shadora,SC,,78049,BJP,Gopi Lal,43285,INC,Puran Singh Wedia,19026,24259,31.08
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,33,Ashoknagar,GEN,,104824,BJP,Jagannath Singh Raghuwanshi Vakil,40210,INC,Balvir Bhaiya,25355,14855,14.17
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,34,Mungaoli,GEN,,109480,INC,Gopal Singh Chauhan (Daggi Raja ),52756,BJP,Rao Deshraj Singh Yadav,43180,9576,8.75
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,35,Bina,GEN,,86651,BJP,Sushila Rakesh Sirothiya,34745,INC,Prabhu Singh Thakur,30358,4387,5.06
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,36,Khurai,SC,,93690,BJP,Dharmu Rai,52171,INC,Dr. Malti Maurya,29850,22321,23.82
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,37,Banda,GEN,,123353,BJP,Harnam Bhaiya,57613,INC,Swadesh Jain,46184,11429,9.27
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,38,Naryaoli,SC,,114230,BJP,Narayan Prasad Kabeer Panthi,62535,INC,Surendra Choudhary Advocate,36704,25831,22.61
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,39,Sagar,GEN,,104678,BJP,Smt. Sudha Jain,50356,INC,Dr.Susheel Tiwari,41832,8524,8.14
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,40,Surkhi,GEN,,108026,INC,Govind Singh Rajput,58648,BJP,Bhupendra Singh,44783,13865,12.83
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,41,Rehli,GEN,,107663,BJP,Gopal Bhargav,60242,INC,Awdesh Hajari,29396,30846,28.65
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,42,Deori,GEN,,110775,BJP,Ratan Singh Silarpur,40930,INC,Harsh Yadav,29559,11371,10.26
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,43,Niwari,GEN,,158620,INC,Brijendra Singh Rathore,55189,SP,Hargovind Kushwaha Advocate,38154,17035,10.74
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,44,Jatara,GEN,,107728,BJP,Sunil Nayak,35946,IND,Surendra Singh Gour ( Dadda ),21333,14613,13.56
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,45,Khargapur,SC,,99323,BJP,Hari Shankar Khateek,50012,INC,Ahirwar Devi Prasad,22799,27213,27.4
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,46,Tikamgarh,GEN,,132915,BJP,Akhand Pratap Singh Yadav,48412,SP,Yadvendra Singh,46283,2129,1.6
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,47,Malehra,GEN,,123199,BJP,Uma Bharti,61283,INC,Jagdish Shukla,29585,31698,25.73
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,48,Bijawar,GEN,,122539,BJP,Jitendra,59569,INC,Manvendra Singh,36142,23427,19.12
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,49,Chhatarpur,GEN,,139847,SP,Vikram Singh Alias Nati Raja,48578,INC,Shankar Pratap Singh (Munna Raja),36699,11879,8.49
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,50,Maharajpur,SC,,111617,BJP,Ahirwar Ramdayal,47764,BSP,R.D.Prajapati,25331,22433,20.1
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,51,Chandla,GEN,,112866,SP,Bundela Vijay Bahadur Singh,32655,BJP,Shaitan Singh Pal,26211,6444,5.71
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,52,Nohata,GEN,,137084,BJP,Chandrabhan Singh ( Bhaiya ),55092,INC,Ratnesh Soloman,31569,23523,17.16
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,53,Damoh,GEN,,123641,BJP,Jayant Malaiya,57707,INC,Ajay Tandon,45386,12321,9.97
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,54,Patharia,SC,,96394,BJP,Sonabai Sevakram Ahirwar,41702,INC,Ramkishore,28805,12897,13.38
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,55,Hatta,GEN,,115587,BJP,Ghangaram Patel,30817,SP,Pushpendra Hazari ( Chhote Munna ),28367,2450,2.12
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,56,Panna,GEN,,109485,BJP,Kusum Singh,47130,INC,Jai Prakash Patel,24447,22683,20.72
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,57,Amanganj,SC,,96575,BJP,Kashi Prasad Bagri,42364,BSP,Engineer Jeevan Lal Siddharth,26128,16236,16.81
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,58,Pawai,GEN,,122225,BJP,Brajendra Pratap,37054,SP,"Ashok Beer Vikaram Singh ""Bhaiya Raja""",21970,15084,12.34
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,59,Maihar,GEN,,122222,SP,Narayan Tripathi`,39934,BSP,Virndra Kushwaha,26748,13186,10.79
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,60,Nagod,GEN,,115475,BJP,Nagendra Singh,35149,INC,Yadvendra Singh,22422,12727,11.02
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,61,Raigaon,SC,,98684,BJP,Jugul Kishor,31389,BSP,Usha,21401,9988,10.12
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,62,Chitrakoot,GEN,,101115,INC,Prem Singh,32918,BSP,Badri Prasad Patel,24119,8799,8.7
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,63,Satna,GEN,,139492,BJP,Shankar Lal Tiwari,58845,INC,Sayeed Ahmad,31690,27155,19.47
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,64,Rampur Baghelan,GEN,,117393,RSMD,Harsh Singh,40931,BSP,Ram Lakhan Singh,34268,6663,5.68
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,65,Amarpatan,GEN,,108679,INC,Rajendra Kumar Singh,36834,BJP,Kamalkar,32891,3943,3.63
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,66,Rewa,GEN,,138754,BJP,Rajendra Shukla,78612,BSP,Lekhan Singh Patel,22404,56208,40.51
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,67,Gurh,GEN,,106368,BJP,Nagendra Singh,37441,BSP,Advocate Vidyawati Patel,33897,3544,3.33
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,68,Mangawan,GEN,,108718,BJP,Girish Gautam,55751,INC,Shriniwas Tiwari,28821,26930,24.77
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,69,Sirmaur,GEN,,112697,CPI(M),Ram Lakhan Sharma,26272,BSP,Raj Kumar Urmaliya,25684,588,0.52
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,70,Teonthar,GEN,,116954,BJP,Ramakant Tiwari,37110,BSP,Ram Gareeb Banvasi,34320,2790,2.39
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,71,Deotalab,SC,,83903,BJP,Panchu Lal Prajapati,33892,BSP,Jaikaran Saket,24314,9578,11.42
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,72,Mauganj,GEN,,97692,BSP,Dr. I.M.P. Verma,31606,SVSP,Laxman Tiwari,26742,4864,4.98
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,73,Churahat,GEN,,112119,INC,Ajay Singh ( Rahul Bhaiya ),56271,BJP,Govind Prasad,42353,13918,12.41
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,74,Sidhi,GEN,,109232,INC,Indrajeet Kumar,40828,BJP,Kedarnath Shukla,37284,3544,3.24
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,75,Gopadbanas,GEN,,106556,SP,Krishna Kumar Singh (Bhawar Sahib),49499,BJP,Ajay Pratap,20873,28626,26.86
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,76,Dhauhani,ST,,101600,BJP,Chhatra Pati Singh,51005,INC,Tilak Raj Singh,32087,18918,18.62
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,77,Deosar,ST,,109018,BJP,Jagannath Singh,39966,INC,Manik Singh,25774,14192,13.02
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,78,Singrauli,SC,,141487,SP,Banshmani Prasad Verma,37100,BJP,Ram Charitra,31507,5593,3.95
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,79,Beohari,GEN,,102992,BJP,Kunwar Lavkesh Singh,25508,INC,Santosh Kumar Shukla,23079,2429,2.36
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,80,Umaria,GEN,,108786,BJP,Gyan Singh,45460,INC,Ajay Singh,31664,13796,12.68
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,81,Nowrozabad,ST,,99066,BJP,Meena Singh,42564,INC,Jamvati Alias Gyanvati,21586,20978,21.18
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,82,Jaisinghnagar,ST,,83735,BJP,Jairam Singh Marko,25638,INC,Rampal Singh,16952,8686,10.37
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,83,Kotma,ST,,101049,BJP,Jay Singh Marabi,47263,INC,Anand Ram Singh,28250,19013,18.82
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,84,Anuppur,ST,,105250,BJP,Ramlal Rautel,47926,INC,Bisahulal Singh,43079,4847,4.61
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,85,Sohagpur,GEN,,115724,BJP,Chhote Lal Sarawagi ( Khuddi Bhaiya ),41355,INC,Shiv Kumar Namdeo,20648,20707,17.89
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,86,Pushparajgarh,ST,,97900,BJP,Sudama Singh,36271,INC,Rajesh Nandini Singh,25694,10577,10.8
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,87,Baihar,ST,,102876,BJP,Bhagat Singh Netam,39297,INC,Ganpat Singh Uikey,31481,7816,7.6
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,88,Lanji,GEN,,88052,BJP,Dileep Kumar / Bhaiyalal,29846,INC,Bhagwat Bhau Nagpure,14611,15235,17.3
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,89,Kirnapur,GEN,,91185,INC,Pushpalata Likhiram Kavre,25934,BJP,Lata,18275,7659,8.4
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,90,Waraseoni,GEN,,88851,INC,Pradeep Amrit Lal Jaiswal (Gudda),32526,BJP,Dr. Yogendra Nirmal,31440,1086,1.22
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,91,Khairlanjee,GEN,,78896,BJP,Bodh Singh Bhagat,30344,BSP,Ajab Lal,25893,4451,5.64
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,92,Katangi,GEN,,86410,BJP,K.D Deshmukh,31322,INC,Tamlal Raghuji,26795,4527,5.24
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,93,Balaghat,GEN,,122309,BJP,Gauri Shankar Chaturbhuj Bisen,47893,INC,Ashok Singhsaraswar,36464,11429,9.34
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,94,Paraswada,GEN,,107026,GGP,Darboosingh Uikey,28623,JP,Kankar Munjare,27475,1148,1.07
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,95,Nainpur,ST,,91713,BJP,Dev Singh Saiyam,39497,INC,Gulab Singh Uikey,21471,18026,19.65
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,96,Mandla,ST,,103247,BJP,Shivraj Shah,49709,INC,Devendra Tekam,23292,26417,25.59
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,97,Bichhia,ST,,101843,BJP,Pandit Singh Dhurwey,34815,GGP,Kamal Singh Maravi,27899,6916,6.79
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,98,Bajag,ST,,96812,BJP,Om Prakash Dhurve,34416,INC,Nandini Maravi,18675,15741,16.26
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,99,Dindori,ST,,96017,BJP,Dulichand Uraiti,36312,INC,Dr. Nanhe Singh,28170,8142,8.48
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,100,Shahpura,ST,,89039,BJP,Dr.C.S Bhavedi ( Chain Singh ),23654,INC,Ganga Bai Uariti,21045,2609,2.93
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,101,Niwas,ST,,88897,BJP,Rampyare Kulaste,28094,GGP,Dayal Singh Tumrachi,27291,803,0.9
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,102,Bargi,ST,,101994,BJP,Anup Singh Maravi,56046,INC,Nanhe Lal Dhurve,31426,24620,24.14
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,103,Panagar,ST,,124229,BJP,Moti Kashyap,63607,INC,Kaushalya Gontiya,41268,22339,17.98
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,104,Jabalpur Cantonment,GEN,,90522,BJP,Ishwar Das Rohani,55109,INC,Tavindar Gujral,29011,26098,28.83
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,105,Jabalpur East,SC,,75926,BJP,Anchal Sonkar,34749,INC,"Bhai Lakshmi Ben""",28827,5922,7.8
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,106,Jabalpur Central,GEN,,59606,BJP,Sarad Jain ( Advocate ),30266,INC,Naresh Saraf,27912,2354,3.95
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,107,Jabalpur West,GEN,,139674,BJP,Babbu Harendra Jeet Singh,82471,INC,Sanjay Yadav,49703,32768,23.46
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,108,Patan,GEN,,103453,INC,"Tha. Sobaran Singh "" Babooji""",26823,BJP,Narayan Singh Choudhary,24024,2799,2.71
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,109,Majholi,GEN,,91758,BJP,Ajay Vishnoi,42969,INC,Tara Patel,29347,13622,14.85
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,110,Sihora,GEN,,104209,BJP,Dilip Dubey (Bade),45553,INC,Nityaniranjan Khampariya (Nittu Bhaiya),26051,19502,18.71
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,111,Bahoriband,GEN,,111833,INC,Nishith Patel,35436,BJP,Prabhat Panday ( Bade Babboo ),35034,402,0.36
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,112,Murwara,GEN,,118274,BJP,Alka Jain,44220,INC,Dr. Awadhesh Pratap Singh,32770,11450,9.68
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,113,Badwara,GEN,,101439,JDU,Saroj Bachchan Nayak,30259,BJP,Subhash Patel,24711,5548,5.47
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,114,Vijairaghogarh,GEN,,105018,BJP,Dhruv Pratap Singh (Deepak Bhaiya),46782,INC,Satyendra Pathak,33421,13361,12.72
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,115,Gadarwara,GEN,,105623,BJP,Govind Singh Patel,54619,INC,Sadhana Sthapak,29013,25606,24.24
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,116,Bohani,GEN,,107377,BJP,Sanjay Sharma,56500,INC,"Diwan Chandrabhan Singh "" Daddoo Bhaiya""",37090,19410,18.08
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,117,Narsimhapur,GEN,,124120,BJP,Jalam Singh Patel ( Munna Bhaiya ),59793,INC,Ajay Mushran,43750,16043,12.93
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,118,Gotegaon,SC,,116962,BJP,Hakamsingh Chadhar(Mehra),43894,INC,Narmada Prasad Prajapati(N.P.),42571,1323,1.13
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,119,Lakhanadon,ST,,104077,BJP,Smt. Shashi Thakur,36313,GGP,Rajeshwari Uikey (Dhooma),34617,1696,1.63
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,120,Ghansor,ST,,111502,GGP,Ram Gulam Uikey,55389,BJP,Ashok Tekam,29746,25643,23.0
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,121,Keolari,GEN,,123936,INC,Harvansh Singh,46312,BJP,Ved Singh Thakur,37502,8810,7.11
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,122,Barghat,GEN,,110305,BJP,Dr. Dhal Singh Bisen,47859,INC,Bhoya Ram Choudary,40690,7169,6.5
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,123,Seoni,GEN,,115622,BJP,Naresh Diwakar ( D. N.),53312,INC,Raj Kumar (Pappu ) Khurana,37958,15354,13.28
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,124,Jamai,ST,,80185,BJP,Ram Das Uikey,35950,INC,Tejilal Saryam,29612,6338,7.9
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,125,Chhindwara,GEN,,128983,BJP,Chodhri Chandrabhan Singh Kuber Singh,66652,INC,Deepak Saxena,42039,24613,19.08
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,126,Parasia,SC,,100467,BJP,Tarachand Bawaria,52934,INC,Leeladhar Puria,32689,20245,20.15
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,127,Damua,ST,,90317,BJP,Jhanaklal Thakur,41039,INC,Mahesh Kumar Sallam,30320,10719,11.87
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,128,Amarwara,ST,,104791,GGP,Manmohan Shah Batti,39125,BJP,Hukumsingh Thakur,28749,10376,9.9
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,129,Chaurai,GEN,,107268,BJP,Pdt. Ramesh Dubey,46857,INC,Gambhir Singh Choudhary,31137,15720,14.65
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,130,Sausar,GEN,,107788,BJP,Nana Bhau Mohod,38921,INC,Ajay Revnath Chore,27056,11865,11.01
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,131,Pandhurna,GEN,,91365,BJP,Marotrao Khawse,32984,IND,Dadaji Uikey,22999,9985,10.93
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,132,Piparia,GEN,,119075,SP,Arjun Paliya,37691,BJP,"Harishankar Jaiswal ""Hari Bhaiya """,36075,1616,1.36
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,133,Hoshangabad,GEN,,116618,BJP,"Madhukar Harne """,64830,INC,Savita Diwan Sharma,36933,27897,23.92
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,134,Itarsi,GEN,,107140,BJP,Girija Shankar Sharma,50317,INC,Advocat Ramesh Kodulal Sahu (Choona Wale),30347,19970,18.64
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,135,Seoni-Malwa,GEN,,112037,INC,Hajarilal Raghuwanshi S/O Nanhu Singh Banapura,47733,BJP,Prem Shankar Kunjilal Verma,44639,3094,2.76
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,136,Timarni,SC,,92045,BJP,Manohar Lal Hajari Lal Rathor (Advocate),47174,INC,Uttam Singh Jagannath Sonkiya,33904,13270,14.42
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,137,Harda,GEN,,97761,BJP,Kamal Patel,46398,INC,Vishnu Rajoriya,40923,5475,5.6
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,138,Multai,GEN,,77505,SP,Dr. Sunilam,36317,BJP,Dr. G.A. Baraskar,16632,19685,25.4
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,139,Masod,GEN,,83085,INC,Sukhseo Panse,37463,BJP,Chandre Shekhar Deshmukh,33743,3720,4.48
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,140,Bhainsdehi,ST,,94832,BJP,Mahendra Sing Keshar Sing Chouhan,44291,INC,Rama Kakodiya,34264,10027,10.57
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,141,Betul,GEN,,103221,BJP,Shiv Prasad Rathore,45417,INC,Vinod Daga,38851,6566,6.36
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,142,Ghora Dongri,ST,,133415,BJP,Sajjan Singh Uike,66651,INC,Pratap Singh,52916,13735,10.29
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,143,Amla,SC,,74185,INC,Bele Sunita,20675,SP,Sanjay Satankar,20277,398,0.54
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,144,Budhni,GEN,,128840,BJP,Rajendra Singh,58052,INC,Rajkumar Patel,47616,10436,8.1
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,145,Ichhawar,GEN,,105715,BJP,Karan Singh Verma,42939,INC,Hemraj Singh Parmar,27191,15748,14.9
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,146,Ashta,SC,,134512,BJP,Raghunath Singh Malviya,51503,INC,Ajeet Umrao Singh,40851,10652,7.92
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,147,Sehore,GEN,,106455,BJP,Ramesh Saxena,52681,INC,Surendra Singh Thakur,41670,11011,10.34
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,148,Govindpura,GEN,,208894,BJP,Babulal Gour,123513,INC,Shiv Kumar Urmaliya,59301,64212,30.74
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,149,Bhopal South,GEN,,253498,BJP,Uma Shankar Gupta,132488,INC,Prakash Mangilal Sharma (P.C. Sharma),101194,31294,12.34
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,150,Bhopal North,GEN,,149524,INC,Arif Aqueel,71556,BJP,Rameswar Sharma,63848,7708,5.16
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,151,Berasia,GEN,,133241,BJP,Bhaktpal Singh,63410,INC,Jodharam Gurjar,47913,15497,11.63
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,152,Sanchi,SC,,115934,BJP,Dr. Gauri Shankar Shejwar,63334,INC,Subhash Babu Kamta Babu,42528,20806,17.95
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,153,Udaipura,GEN,,111812,BJP,Ram Pal Singh,55238,INC,Pratap Bhanu Sharma,35897,19341,17.3
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,154,Bareli,GEN,,106532,BJP,Bhagwat Singh Patel,47269,INC,Jaswant Singh,45948,1321,1.24
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,155,Bhojpur,GEN,,124276,INC,Rajesh Patel S/O Madho Singh,56881,BJP,Surendra Patwa,53328,3553,2.86
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,156,Kurwai,SC,,80472,BJP,Shyamlal Panthi,39009,INC,Raghuveer Singh,24807,14202,17.65
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,157,Basoda,GEN,,110315,BJP,Hari Singh Raghuvanshi Haripur,60932,INC,Veer Singh Raghuvanshi,37130,23802,21.58
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,158,Vidisha,GEN,,118224,BJP,Gurucharan Singh,65976,INC,Narain Singh Dangi,36433,29543,24.99
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,159,Shamshabad,GEN,,98311,BJP,Raghavji,57602,INC,Rudra Pratap Singh,35261,22341,22.72
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,160,Sironj,GEN,,104169,BJP,Laxmikant Sharma,50071,INC,Masharrat Shahid,38826,11245,10.79
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,161,Biaora,GEN,,101140,BJP,Badrilal Yadav,49028,INC,Ram Chandra Dangi,44109,4919,4.86
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,162,Narsingarh,GEN,,113085,BJP,Mohan Sharma,57541,INC,"Dhool Singh Yadav ""Vakil""",30189,27352,24.19
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,163,Sarangpur,SC,,110882,BJP,Amar Singh Kothar,60988,INC,Meena Hajarilal Malviya,38379,22609,20.39
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,164,Rajgarh,GEN,,107925,BJP,Pandit Hari Charan Tiwari,59276,INC,Gulab Singh Sustani,41455,17821,16.51
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,165,Khilchipur,GEN,,123354,INC,Priyavrat Singh,59460,BJP,Jagannath Singh Tomar,50273,9187,7.45
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,166,Shujalpur,GEN,,135604,BJP,Kunwar Phool Singh Mewara,59836,INC,Kedar Singh Mandloi,50724,9112,6.72
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,167,Gulana,GEN,,116880,BJP,Giriraj Mandloi,61264,INC,Kunwar Manohar Singh,45760,15504,13.26
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,168,Shajapur,GEN,,142153,INC,Karada Hukum Singh,74867,BJP,Vijendra Singh Sisodia,57259,17608,12.39
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,169,Agar,SC,,110522,BJP,Rekha Ratnakar,55738,INC,Ram Lal Malviya,30822,24916,22.54
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,170,Susner,GEN,,108061,BJP,Phoolchand Vaidia,55477,INC,Ambavatia Vallabh Bhai,34377,21100,19.53
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,171,Tarana,SC,,100680,BJP,"Tarachand Goyal ""Mechanic""",51729,INC,Babulal Malviya,38730,12999,12.91
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,172,Mahidpur,GEN,,95753,BJP,Bahadur Singh,47323,INC,Pratap Singh Gur (Babbu),28606,18717,19.55
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,173,Khachrod,GEN,,123462,IND,Dileep Singh Gurjar,58959,BJP,Lalsingh Ranawat,44530,14429,11.69
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,174,Badnagar,GEN,,113051,BJP,Shantilal Dhabai,62609,INC,Veerendra Singh Sisodiya,42202,20407,18.05
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,175,Ghatiya,SC,,110596,BJP,Dr. Narayan Parmar,52090,INC,Ramlal Malviya,42777,9313,8.42
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,176,Ujjain North,GEN,,92752,BJP,Paras Jain,50595,INC,Rajendra Bharati,34058,16537,17.83
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,177,Ujjain South,GEN,,114649,BJP,Shivnarayan Jagirdar,63249,INC,Preeti Bhargav,34705,28544,24.9
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,178,Depalpur,GEN,,128914,BJP,Manoj Nirbhay Singh Patel,64639,INC,Satyanarayan Patel,57719,6920,5.37
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,179,Mhow,GEN,,118386,INC,Antar Singh Darbar,57820,BJP,Bherulal Patidar,54621,3199,2.7
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,180,Indore-I,GEN,,146396,BJP,Miss Usha Thakur,85346,INC,"Ramlal Yadav ""Bhallu Bhaiyya""",57886,27460,18.76
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,181,Indore-Ii,GEN,,144220,BJP,Kailash Vijayvargiya,86175,INC,Ajay Rathore,50264,35911,24.9
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,182,Indore-Iii,GEN,,54664,INC,Ashwin Joshi,29267,BJP,Rajendra Shukla,24305,4962,9.08
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,183,Indore-Iv,GEN,,173815,BJP,Laxman Singh Gaur,107015,INC,Lalita Jain,61390,45625,26.25
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,184,Indore-V,GEN,,211266,BJP,Mahendra Hordiya,113099,INC,Shobha Oza,90101,22998,10.89
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,185,Sawer,SC,,120337,BJP,Prakash Sonkar,65401,INC,Rajendra Malviya,45764,19637,16.32
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,186,Dewas,GEN,,142575,BJP,Tukoji Rao Puar,78842,INC,Kunwar Jai Singh,56723,22119,15.51
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,187,Sonkatch,SC,,108573,INC,Sajjan Singh Verma,53706,BJP,Pannalal,48317,5389,4.96
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,188,Hatpipalya,GEN,,106342,INC,Baghel Rajendra Singh,49546,BJP,Ku.Rai Singh Sendhav,47492,2054,1.93
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,189,Bagli,GEN,,110223,BJP,Deepak Kailash Joshi,58189,INC,Shyamlal Baboolal Holani,40615,17574,15.94
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,190,Khategaon,GEN,,103823,BJP,Brij Mohan Das Dhoot,41301,INC,Narayan Singh Choudhary,39441,1860,1.79
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,191,Harsud,ST,,99026,BJP,Kunwar Vijay Shah,56649,INC,Premlata Kasde,42377,14272,14.41
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,192,Nimarkhedi,GEN,,103833,INC,Rajnarayan Singh Purin,33464,BJP,Kunwar Narendrasingh Tomar,28903,4561,4.39
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,193,Pandhana,SC,,104776,BJP,Kishorilal Varma,56236,INC,Hiralal Silawat,39416,16820,16.05
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,194,Khandwa,GEN,,103138,BJP,Hukumchand Yadav,61925,INC,Riyaz Hussain,37243,24682,23.93
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,195,Nepanagar,GEN,,100341,BJP,Archana Didi,55546,INC,"Raghunath Choudhari ""Raghudada""",30744,24802,24.72
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,196,Shahpur,GEN,,102268,INC,Ravindra Suka Mahajan,44546,BJP,Ramdas Shivhare,40290,4256,4.16
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,197,Burhanpur,GEN,,111190,NCP,Hamid Kaji,41586,BJP,Kailash Parik,37373,4213,3.79
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,198,Bhikangaon,ST,,89015,BJP,Dhulsingh,35639,INC,Sildar Patel,26811,8828,9.92
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,199,Barwaha,GEN,,117598,BJP,Hitendra Singh Dhyan Singh Solanki,57059,INC,Bhawaniram,44232,12827,10.91
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,200,Maheshwar,SC,,116467,BJP,Bhupendra Arya,58892,INC,Dr. Vijaylaxmi Sadho,50544,8348,7.17
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,201,Kasrawad,GEN,,123043,INC,Subhash Yadav,64861,BJP,Rameshwar Patidar,49134,15727,12.78
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,202,Khargone,GEN,,113643,BJP,Babulal Mahajan,55231,INC,Ramlal Patidar,47931,7300,6.42
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,203,Dhulkot,ST,,93507,BJP,Dalsingh Ramsingh Solanki,41217,INC,Kedar Chidabhai Dawar,40155,1062,1.14
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,204,Sendhwa,ST,,112478,BJP,Antarsingh Arya,56426,INC,Gyarsilal Rawat,24311,32115,28.55
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,205,Anjad,ST,,99101,BJP,Devisingh Patel,49093,INC,Miss Chandrabhaga Kirade,42170,6923,6.99
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,206,Rajpur,ST,,119706,BJP,Diwansingh Patel,71032,INC,Bala Bachchan,41031,30001,25.06
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,207,Barwani,ST,,108210,BJP,Premsingh Patel,55924,INC,Tersingh Patel,38080,17844,16.49
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,208,Manawar,ST,,95902,BJP,Ranjana Baghel,48047,INC,Balwant Singh Gulab Singh Mandloi,37026,11021,11.49
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,209,Dharampuri,ST,,112725,BJP,Jagdish Muwel,59388,INC,Nahar Singh Thakur,40792,18596,16.5
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,210,Dhar,GEN,,144626,BJP,Jaswant Singh Rathore (Advocate),80732,INC,Karan Singh Pawar,50881,29851,20.64
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,211,Badnawar,GEN,,115691,INC,Rajvardhan Singh Dattigaon,53332,BJP,Khemraj Patidar,45767,7565,6.54
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,212,Sardarpur,ST,,99055,BJP,Mukam Singh Nigwal,47235,INC,Ganpat Singh Patel,40742,6493,6.55
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,213,Kukshi,ST,,103643,INC,Jamuna Devi,57945,BJP,Pratap Singh Baghel,41041,16904,16.31
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,214,Alirajpur,ST,,82362,BJP,Nagar Singh,46855,INC,Mahesh Patel,28958,17897,21.73
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,215,Jobat,ST,,76116,BJP,Madho Singh,39732,INC,Sulochana Rawat,28397,11335,14.89
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,216,Jhabua,ST,,89341,BJP,Pave Singh Pargi,47019,INC,Swaroop Bai Bhabar,28644,18375,20.57
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,217,Petlawad,ST,,109903,BJP,Nirmala Bhuria,58128,INC,Roop Singh,39460,18668,16.99
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,218,Thandla,ST,,95789,BJP,Kal Singh,45834,INC,Ratan Singh Bhabor,36286,9548,9.97
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,219,Ratlam Town,GEN,,104912,BJP,Himmat Kothari,47899,INC,"Paras Saklecha ""Dada""",45948,1951,1.86
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,220,Ratlam Rural,GEN,,109466,BJP,Dhul Ji Choudhari,54717,INC,Dave Moti Lal,45307,9410,8.6
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,221,Sailana,ST,,115574,INC,Prabhu Dayal Gehlot,43236,BJP,Babu Lal Maida,32336,10900,9.43
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,222,Jaora,GEN,,114972,BJP,Dr. Rajendra Pandey,54159,INC,Mahendra Singh Kalukheda,47452,6707,5.83
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,223,Alot,SC,,108543,INC,Premchand Guddu,51236,BJP,Manohar Utwal,48265,2971,2.74
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,224,Manasa,GEN,,113879,BJP,Kailash Chawala,67193,INC,Narendra Nahata,41836,25357,22.27
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,225,Garoth,GEN,,125675,BJP,Rajesh Yadav,67482,INC,Subhash Kumar Sojethiya,52351,15131,12.04
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,226,Suwasara,SC,,120361,BJP,Jagdish Deora,74240,INC,Pushpa Bhartiya,38604,35636,29.61
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,227,Sitamau,GEN,,125224,BJP,Nanalal Patidar,67182,INC,Raj Singh Sitamau,38502,28680,22.9
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,228,Mandsaur,GEN,,137251,BJP,Om Prakash Purohit ( Advocate ),76694,INC,Navkrishna Patil,53782,22912,16.69
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,229,Neemuch,GEN,,145744,BJP,Dilip Singh Parihar,81739,INC,Nandkishore Patel,57545,24194,16.6
+ae-madhya-pradesh-2003,AE,Madhya Pradesh,2003,2003,official,230,Jawad,GEN,,143961,BJP,Omprakash Virendra Kumar Sakhalecha,81390,INC,Ghanshyam Patidar,54765,26625,18.49

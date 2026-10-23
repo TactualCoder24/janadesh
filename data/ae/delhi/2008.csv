@@ -1,0 +1,71 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-delhi-2008,AE,Delhi,2008,2008,official,1,Narela,GEN,,109494,INC,Jaswant Singh,34662,BSP,Sharad Kumar,33830,832,0.76
+ae-delhi-2008,AE,Delhi,2008,2008,official,2,Burari,GEN,,106346,BJP,Shri Krishan,32006,INC,Deepak Tyagi,27016,4990,4.69
+ae-delhi-2008,AE,Delhi,2008,2008,official,3,Timarpur,GEN,,90613,INC,Surinder Pal Singh,39997,BJP,Surya Prakash Khatri,37584,2413,2.66
+ae-delhi-2008,AE,Delhi,2008,2008,official,4,Adarsh Nagar,GEN,,81275,INC,Mangat Ram,36445,BJP,Ravinder Singh (Khurana),31933,4512,5.55
+ae-delhi-2008,AE,Delhi,2008,2008,official,5,Badli,GEN,,98381,INC,Devender Yadav,39215,BSP,Ajesh Yadav,25611,13604,13.83
+ae-delhi-2008,AE,Delhi,2008,2008,official,6,Rithala,GEN,,116044,BJP,Kulwant Rana,64474,INC,Shambhu Dayal Sharma,38128,26346,22.7
+ae-delhi-2008,AE,Delhi,2008,2008,official,7,Bawana,SC,,125270,INC,Surender Kumar,60544,BJP,Chand Ram,43402,17142,13.68
+ae-delhi-2008,AE,Delhi,2008,2008,official,8,Mundka,GEN,,103329,BJP,Manoj Kumar,47355,INC,Prem Chander Kaushik,32458,14897,14.42
+ae-delhi-2008,AE,Delhi,2008,2008,official,9,Kirari,GEN,,91669,BJP,Anil Jha,30005,NCP,Pushpraj,20481,9524,10.39
+ae-delhi-2008,AE,Delhi,2008,2008,official,10,Sultanpur Majra,SC,,82047,INC,Jai Kishan,39542,BJP,Nand Ram Bagri,20867,18675,22.76
+ae-delhi-2008,AE,Delhi,2008,2008,official,11,Nangloi Jat,GEN,,94784,INC,Bijender Singh,48009,BJP,Raj Singh,30449,17560,18.53
+ae-delhi-2008,AE,Delhi,2008,2008,official,12,Mangol Puri,SC,,92712,INC,Raj Kumar Chauhan,50448,BJP,Yogesh Aatray,20585,29863,32.21
+ae-delhi-2008,AE,Delhi,2008,2008,official,13,Rohini,GEN,,89189,BJP,Jai Bhagwan Aggarwal,55793,INC,Vijender Jindal,30019,25774,28.9
+ae-delhi-2008,AE,Delhi,2008,2008,official,14,Shalimar Bagh,GEN,,86719,BJP,Ravinder Nath Bansal,49976,INC,Ram Kailash Gupta,30044,19932,22.98
+ae-delhi-2008,AE,Delhi,2008,2008,official,15,Shakur Basti,GEN,,80567,BJP,Shyam Lal Garg,40444,INC,S. C. Vats,36444,4000,4.96
+ae-delhi-2008,AE,Delhi,2008,2008,official,16,Tri Nagar,GEN,,90547,INC,Anil Bhardwaj,41891,BJP,Nand Kishore Garg,39922,1969,2.17
+ae-delhi-2008,AE,Delhi,2008,2008,official,17,Wazirpur,GEN,,88707,INC,Hari Shanker Gupta,39977,BJP,Mange Ram Garg,36837,3140,3.54
+ae-delhi-2008,AE,Delhi,2008,2008,official,18,Model Town,GEN,,85197,INC,Kanwar Karan Singh,39935,BJP,Bhola Nath Vij,36938,2997,3.52
+ae-delhi-2008,AE,Delhi,2008,2008,official,19,Sadar Bazar,GEN,,88895,INC,Rajesh Jain,47508,BJP,Jai Prakash,33419,14089,15.85
+ae-delhi-2008,AE,Delhi,2008,2008,official,20,Chandni Chowk,GEN,,61843,INC,Parlad Singh Sawhney,28207,BJP,Praveen Khandelwal,20188,8019,12.97
+ae-delhi-2008,AE,Delhi,2008,2008,official,21,Matia Mahal,GEN,,64389,LJP,Shoaib Iqbal,25474,INC,Mehmood Zia,17870,7604,11.81
+ae-delhi-2008,AE,Delhi,2008,2008,official,22,Balli Maran,GEN,,82364,INC,Haroon Yasuf,34660,BJP,Moti Lal Sodhi,28423,6237,7.57
+ae-delhi-2008,AE,Delhi,2008,2008,official,23,Karol Bagh,SC,,84756,BJP,Surender Pal Ratawal,38746,INC,Madan Khorwal,35338,3408,4.02
+ae-delhi-2008,AE,Delhi,2008,2008,official,24,Patel Nagar,SC,,87290,INC,Rajesh Lilothia,44022,BJP,Anita Arya,34516,9506,10.89
+ae-delhi-2008,AE,Delhi,2008,2008,official,25,Moti Nagar,GEN,,85546,BJP,Subhash Sachdeva,46616,INC,Anjali Rai,31619,14997,17.53
+ae-delhi-2008,AE,Delhi,2008,2008,official,26,Madipur,SC,,83483,INC,Mala Ram Gangwal,40698,BJP,Kailash Sankla,32166,8532,10.22
+ae-delhi-2008,AE,Delhi,2008,2008,official,27,Rajouri Garden,GEN,,82833,INC,A Daya Nand Chandela A,31130,SAD(M),Avtar Singh Hit,31084,46,0.06
+ae-delhi-2008,AE,Delhi,2008,2008,official,28,Hari Nagar,GEN,,81954,BJP,Harsharan Singh Balli,51364,INC,Ramesh Lamba,22606,28758,35.09
+ae-delhi-2008,AE,Delhi,2008,2008,official,29,Tilak Nagar,GEN,,73232,BJP,O P Babbar,38320,INC,Dr. Anita Babbar,26202,12118,16.55
+ae-delhi-2008,AE,Delhi,2008,2008,official,30,Janak Puri,GEN,,88641,BJP,Prof Jagdish Mukhi,50655,INC,Deepak Arora,33203,17452,19.69
+ae-delhi-2008,AE,Delhi,2008,2008,official,31,Vikaspuri,GEN,,136774,INC,Nand Kishore,47819,BJP,Krishan Gahlot,46876,943,0.69
+ae-delhi-2008,AE,Delhi,2008,2008,official,32,Uttam Nagar,GEN,,101602,INC,Mukesh Sharma,46765,BJP,Pawan Sharma,39582,7183,7.07
+ae-delhi-2008,AE,Delhi,2008,2008,official,33,Dwarka,GEN,,83325,INC,Mahabal Mishra,43608,BJP,Parduymn Rajput,29627,13981,16.78
+ae-delhi-2008,AE,Delhi,2008,2008,official,34,Matiala,GEN,,130569,INC,Sumesh,52411,BJP,Kamal Jeet,45782,6629,5.08
+ae-delhi-2008,AE,Delhi,2008,2008,official,35,Najaf Garh,GEN,,102328,IND,Bharat Singh,34028,INC,Kanwal Singh Yadav,22575,11453,11.19
+ae-delhi-2008,AE,Delhi,2008,2008,official,36,Bijwasan,GEN,,66367,BJP,Sat Prakash Rana,27427,INC,Vijay Singh Lochav,25422,2005,3.02
+ae-delhi-2008,AE,Delhi,2008,2008,official,37,Palam,GEN,,92277,BJP,Dharam Dev Solanki,40712,INC,Mahender Yadav,28119,12593,13.65
+ae-delhi-2008,AE,Delhi,2008,2008,official,38,Delhi Cantonment,GEN,,42633,BJP,Karan Singh Tanwar,23696,INC,Ashok Ahuja,16435,7261,17.03
+ae-delhi-2008,AE,Delhi,2008,2008,official,39,Rajinder Nagar,GEN,,72077,INC,Rama Kant Goswami,29394,BJP,Asha Yogi,23988,5406,7.5
+ae-delhi-2008,AE,Delhi,2008,2008,official,40,New Delhi,GEN,,76203,INC,Sheila Dikshit,39778,BJP,Vijay Jolly,25796,13982,18.35
+ae-delhi-2008,AE,Delhi,2008,2008,official,41,Jangpura,GEN,,65374,INC,Tarvinder Singh Marwah,37261,BJP,Manjinder Singh Sirsa,23310,13951,21.34
+ae-delhi-2008,AE,Delhi,2008,2008,official,42,Kasturba Nagar,GEN,,76149,INC,Neeraj Basoya,33807,BJP,Sushil Choudhary,31323,2484,3.26
+ae-delhi-2008,AE,Delhi,2008,2008,official,43,Malviya Nagar,GEN,,67201,INC,Kiran Walia,31283,BJP,Ram Bhaj,27551,3732,5.55
+ae-delhi-2008,AE,Delhi,2008,2008,official,44,R .K. Puram,GEN,,67066,INC,Barkha Singh,35878,BJP,Radhey Shyam Sharma,26561,9317,13.89
+ae-delhi-2008,AE,Delhi,2008,2008,official,45,Mehrauli,GEN,,66224,INC,Dr. Yoganand Shastri,21740,BJP,Sher Singh Dagar,20632,1108,1.67
+ae-delhi-2008,AE,Delhi,2008,2008,official,46,Chhatarpur,GEN,,87077,INC,Balram Tanwar,32406,BJP,Brahm Singh Tanwar,27376,5030,5.78
+ae-delhi-2008,AE,Delhi,2008,2008,official,47,Deoli,SC,,95587,INC,Arvinder Singh,41497,BSP,Shri Lal,24869,16628,17.4
+ae-delhi-2008,AE,Delhi,2008,2008,official,48,Ambedkar Nagar,SC,,70538,INC,Ch.Prem Singh,30467,BJP,Suresh Chand,25630,4837,6.86
+ae-delhi-2008,AE,Delhi,2008,2008,official,49,Sangam Vihar,GEN,,74281,BJP,Dr. S.C.L.Gupta,20332,INC,Amod Kumar Kanth,16743,3589,4.83
+ae-delhi-2008,AE,Delhi,2008,2008,official,50,Greater Kailash,GEN,,79722,BJP,Vijay Kumar Malhotra,42206,INC,Jitender Kumar Kocher,30987,11219,14.07
+ae-delhi-2008,AE,Delhi,2008,2008,official,51,Kalkaji,GEN,,73904,INC,Subhash Chopra,38360,BJP,Jai Gopal Abrol,24971,13389,18.12
+ae-delhi-2008,AE,Delhi,2008,2008,official,52,Tughlakabad,GEN,,79605,BJP,Ramesh Bidhuri,32633,BSP,Sahi Ram,24399,8234,10.34
+ae-delhi-2008,AE,Delhi,2008,2008,official,53,Badarpur,GEN,,112929,BSP,Ram Singh Netaji,53416,INC,Rambir Singh Bidhuri,40111,13305,11.78
+ae-delhi-2008,AE,Delhi,2008,2008,official,54,Okhla,GEN,,102726,INC,Parvez Hashmi,29303,RJD,Asif Mohd.Khan,28762,541,0.53
+ae-delhi-2008,AE,Delhi,2008,2008,official,55,Trilokpuri,SC,,82562,BJP,Sunil Kumar,30781,INC,Anjana,30147,634,0.77
+ae-delhi-2008,AE,Delhi,2008,2008,official,56,Kondli,SC,,80816,INC,Amrish Singh Gautam,36580,BJP,Dushyant Gautam,21594,14986,18.54
+ae-delhi-2008,AE,Delhi,2008,2008,official,57,Patpar Ganj,GEN,,87267,INC,Anil Kumar,36999,BJP,Nakul Bhardwaj,36336,663,0.76
+ae-delhi-2008,AE,Delhi,2008,2008,official,58,Lakshmi Bai Nagar,GEN,,91051,INC,Dr. Ashok Kumar Walia,54252,BJP,Murari Singh Panwar,31855,22397,24.6
+ae-delhi-2008,AE,Delhi,2008,2008,official,59,Vishwas Nagar,GEN,,95527,INC,Naseeb Singh,48805,BJP,Om Prakash Sharma,39176,9629,10.08
+ae-delhi-2008,AE,Delhi,2008,2008,official,60,Krishna Nagar,GEN,,105175,BJP,Harsh Vardhan,47852,INC,Deepika Khullar,44648,3204,3.05
+ae-delhi-2008,AE,Delhi,2008,2008,official,61,Gandhi Nagar,GEN,,93073,INC,Arvinder Singh Lovely,59795,BJP,Kamal Kumar Jain,27870,31925,34.3
+ae-delhi-2008,AE,Delhi,2008,2008,official,62,Shahdara,GEN,,87317,INC,Dr. Narender Nath,39194,BJP,Jitender Singh Shunty,37658,1536,1.76
+ae-delhi-2008,AE,Delhi,2008,2008,official,63,Seema Puri,SC,,89281,INC,Veer Singh Dhingan,43864,BJP,Chandra Pal Singh,24604,19260,21.57
+ae-delhi-2008,AE,Delhi,2008,2008,official,64,Rohtas Nagar,GEN,,98679,INC,Ram Babu Sharma,45802,BJP,Alok Kumar,32559,13243,13.42
+ae-delhi-2008,AE,Delhi,2008,2008,official,65,Seelam Pur,GEN,,87499,INC,Chaudhary Mateen Ahmad,47820,BJP,Sita Ram Gupta,21546,26274,30.03
+ae-delhi-2008,AE,Delhi,2008,2008,official,66,Ghonda,GEN,,91596,BJP,Sahab Singh Chauhan,35226,INC,Bheeshma Sharma,34646,580,0.63
+ae-delhi-2008,AE,Delhi,2008,2008,official,67,Babarpur,GEN,,91032,BJP,Naresh Gaur,31954,BSP,Hazi Dilshad Ali,28128,3826,4.2
+ae-delhi-2008,AE,Delhi,2008,2008,official,68,Gokalpur,SC,,95173,BSP,Surendra Kumar,27499,INC,Balzor Singh,24442,3057,3.21
+ae-delhi-2008,AE,Delhi,2008,2008,official,69,Mustafabad,GEN,,97894,INC,Hasan Ahmed,39838,BJP,Yogender Kumar Sharma,38859,979,1.0
+ae-delhi-2008,AE,Delhi,2008,2008,official,70,Karawal Nagar,GEN,,102748,BJP,Mohan Singh Bisht,43980,IND,Satan Pal Dayma,22852,21128,20.56

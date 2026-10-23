@@ -1,0 +1,121 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-assam-1967,AE,Assam,1967,1967,official,4,Ratabari,GEN,,33869,INC,B. Upadhya,21817,IND,M.M. Modkherjee,9858,11959,35.31
+ae-assam-1967,AE,Assam,1967,1967,official,5,Patharkandi,GEN,,34386,IND,M.R. Kando,15220,INC,B.N. Modkerjee,12848,2372,6.9
+ae-assam-1967,AE,Assam,1967,1967,official,6,Karimganj North,GEN,,45040,IND,R.N. Sen,20204,INC,M.I. Choudhury,17906,2298,5.1
+ae-assam-1967,AE,Assam,1967,1967,official,7,Karimganj Sourth,SC,,33199,INC,P. Choudhury,17559,IND,G. Namasudra,13992,3567,10.74
+ae-assam-1967,AE,Assam,1967,1967,official,8,Badarpur,GEN,,37248,INC,M.A.J. Choudhury,18496,IND,G.S. Choudhury,15719,2777,7.46
+ae-assam-1967,AE,Assam,1967,1967,official,9,Hailakandi,GEN,,31537,INC,A.M. Mazumdar,22023,CPI(M),A.K. Laskar,5053,16970,53.81
+ae-assam-1967,AE,Assam,1967,1967,official,10,Katlicherra,GEN,,36405,IND,T.A. Laskar,15562,INC,S.K. Roy,9743,5819,15.98
+ae-assam-1967,AE,Assam,1967,1967,official,11,Silchar,GEN,,30701,INC,S.M. Dev,13407,IND,T. Bhattacharjee,10234,3173,10.34
+ae-assam-1967,AE,Assam,1967,1967,official,12,Sonai,GEN,,41090,INC,M.M. Choudhury,26179,IND,N.K. Sinha,14911,11268,27.42
+ae-assam-1967,AE,Assam,1967,1967,official,13,Dholai,SC,,29043,IND,J.M. Barbhuiya,11150,INC,H.K. Dusad,10121,1029,3.54
+ae-assam-1967,AE,Assam,1967,1967,official,14,Lakhipur,GEN,,29929,INC,M.C. Singha,14379,IND,N. Huda,8217,6162,20.59
+ae-assam-1967,AE,Assam,1967,1967,official,15,Udharband,GEN,,28239,INC,J. Singh,19980,BJS,B.M. Das,3230,16750,59.32
+ae-assam-1967,AE,Assam,1967,1967,official,16,Barkhola,GEN,,30529,INC,A.H. Mazumdar,15594,BJS,B.B.D. Laskar,8284,7310,23.94
+ae-assam-1967,AE,Assam,1967,1967,official,17,Katigora,GEN,,35354,INC,A.K.N. Hoque,20972,IND,U.C. Mohanta,13056,7916,22.39
+ae-assam-1967,AE,Assam,1967,1967,official,18,Haflong,ST,,15241,INC,J.B. Hagjer,9934,AHL,G.C. Hojai,5307,4627,30.36
+ae-assam-1967,AE,Assam,1967,1967,official,19,Bokajan,ST,,18270,INC,S.S. Terang,12255,AHL,R. Ingti,6015,6240,34.15
+ae-assam-1967,AE,Assam,1967,1967,official,20,Howraghat,ST,,18147,INC,C.S. Teron,12876,IND,B. Terang,5271,7605,41.91
+ae-assam-1967,AE,Assam,1967,1967,official,21,Baithalangso,ST,,16221,INC,D. Rongpi,11930,AHL,L. Katharson,4291,7639,47.09
+ae-assam-1967,AE,Assam,1967,1967,official,22,Jowat,ST,,27478,AHL,E. Bareh,17806,IND,H.E. Pohshna,9672,8134,29.6
+ae-assam-1967,AE,Assam,1967,1967,official,23,Shillong,GEN,,26252,AHL,H. Hynniewta,15651,IND,L.V.K. Dey,10123,5528,21.06
+ae-assam-1967,AE,Assam,1967,1967,official,25,Nongstoin,ST,,19807,AHL,H. Langdoh,18747,IND,S. Langdoh,1060,17687,89.3
+ae-assam-1967,AE,Assam,1967,1967,official,27,Baghmara,ST,,15559,AHL,W.A. Sangma,9695,INC,S. Sangma,5246,4449,28.59
+ae-assam-1967,AE,Assam,1967,1967,official,28,Dainadubi,ST,,13739,AHL,M. Marak,9425,INC,D.K. Sangma,3473,5952,43.32
+ae-assam-1967,AE,Assam,1967,1967,official,29,Tura,ST,,17953,AHL,G. Marak,12058,INC,E. Momin,4618,7440,41.44
+ae-assam-1967,AE,Assam,1967,1967,official,30,Phulbari,ST,,16908,AHL,B. Momin,9452,INC,E.M. Sangma,5758,3694,21.85
+ae-assam-1967,AE,Assam,1967,1967,official,31,Mankachar,GEN,,35722,IND,Z. Islam,22975,INC,N. Islam,12747,10228,28.63
+ae-assam-1967,AE,Assam,1967,1967,official,32,Salmara South,GEN,,33588,INC,B. Basit,17185,PSP,A. Karim,15689,1496,4.45
+ae-assam-1967,AE,Assam,1967,1967,official,33,Dhubri,GEN,,28988,INC,S.A. Ali,10008,IND,A.B. Sarkar,9765,243,0.84
+ae-assam-1967,AE,Assam,1967,1967,official,34,Gauripur,GEN,,34049,PSP,M.A. Ali,12609,IND,K.P.C. Barua,10340,2269,6.66
+ae-assam-1967,AE,Assam,1967,1967,official,35,Golakganj,GEN,,34511,IND,K.C.R. Pradhani,22048,INC,J. Adhikary,10615,11433,33.13
+ae-assam-1967,AE,Assam,1967,1967,official,36,Bilasipara,GEN,,32307,IND,G. Ahmed,19492,INC,S. Rahman,10395,9097,28.16
+ae-assam-1967,AE,Assam,1967,1967,official,37,Gossaigaon,GEN,,27500,INC,M. Tudu,19326,IND,R. Narjaree,8174,11152,40.55
+ae-assam-1967,AE,Assam,1967,1967,official,38,Kokrajhar West,ST,,24926,INC,R. Basumatary,11277,IND,P.C. Basumatary,5437,5840,23.43
+ae-assam-1967,AE,Assam,1967,1967,official,39,Kokrajhar East,GEN,,32078,INC,R.M. Devi,15410,CPI(M),B. Daimari,8724,6686,20.84
+ae-assam-1967,AE,Assam,1967,1967,official,40,Sidli,ST,,26507,INC,U. Brahma,11055,IND,B.N.B. Patgiri,8283,2772,10.46
+ae-assam-1967,AE,Assam,1967,1967,official,41,Bijni,GEN,,30485,INC,G.C. Patgiri,12641,IND,R.P. Das,7538,5103,16.74
+ae-assam-1967,AE,Assam,1967,1967,official,42,Abhayapuri,SC,,27814,IND,K.N. Banikya,19311,INC,G. Das,8503,10808,38.86
+ae-assam-1967,AE,Assam,1967,1967,official,43,Bongaigaon,GEN,,28083,INC,M.M. Sinha,9516,IND,M.R. Kha,6061,3455,12.3
+ae-assam-1967,AE,Assam,1967,1967,official,44,Goalpara West,GEN,,41157,PSP,S.A. Jotder,29441,INC,S. Hoque,11716,17725,43.07
+ae-assam-1967,AE,Assam,1967,1967,official,45,Goalpara East,GEN,,29153,IND,B.K. Ghose,16325,INC,K.N. Nath,12828,3497,12.0
+ae-assam-1967,AE,Assam,1967,1967,official,46,Dudhnai,ST,,23474,CPI,S.C. Rabha,10870,INC,H.C. Rabha,6867,4003,17.05
+ae-assam-1967,AE,Assam,1967,1967,official,47,Sorbhog,GEN,,30068,INC,P. Talukdar,17237,IND,S. Barman,8403,8834,29.38
+ae-assam-1967,AE,Assam,1967,1967,official,48,Bhabanipur,GEN,,29362,INC,D. Choudhury,12865,IND,G. Baro,8578,4287,14.6
+ae-assam-1967,AE,Assam,1967,1967,official,49,Patacharkuchi,GEN,,25320,PSP,B. Barman,12061,INC,H.D. Choudhury,7500,4561,18.01
+ae-assam-1967,AE,Assam,1967,1967,official,50,Barpeta,GEN,,36213,PSP,S.N. Das,14234,INC,A.K. Das,11927,2307,6.37
+ae-assam-1967,AE,Assam,1967,1967,official,51,Jania,GEN,,33568,INC,A. Rahman,29623,SWA,M. Mahiuddin,3945,25678,76.5
+ae-assam-1967,AE,Assam,1967,1967,official,52,Baghbar,GEN,,32914,IND,J. Ahmed,14576,INC,T. Ahmed,12810,1766,5.37
+ae-assam-1967,AE,Assam,1967,1967,official,53,Sarukhetri,SC,,29522,IND,M. Nayak,18710,INC,M. Das,9354,9356,31.69
+ae-assam-1967,AE,Assam,1967,1967,official,54,Chenga,GEN,,34958,INC,A.R. Chowdhury,16957,IND,B.C. Das,6420,10537,30.14
+ae-assam-1967,AE,Assam,1967,1967,official,55,Boko,GEN,,28640,INC,P.K. Choudhury,16322,IND,K.P. Rabha,8079,8243,28.78
+ae-assam-1967,AE,Assam,1967,1967,official,56,Chaygaon,GEN,,30706,INC,H. Goswami,13388,IND,A.N.A. Hussain,7003,6385,20.79
+ae-assam-1967,AE,Assam,1967,1967,official,57,Palasbari,GEN,,33438,IND,A.K. Goswami,18029,INC,H.N. Talukdar,12151,5878,17.58
+ae-assam-1967,AE,Assam,1967,1967,official,58,Gauhati East,GEN,,25640,INC,M.M. Choudhury,15056,CPI(M),N. Talukdar,7335,7721,30.11
+ae-assam-1967,AE,Assam,1967,1967,official,59,Gauhati West,GEN,,22336,CPI,G. Kalita,7633,INC,D.N. Sarma,6549,1084,4.85
+ae-assam-1967,AE,Assam,1967,1967,official,60,Jalukbari,GEN,,23351,IND,S. Medhi,14384,INC,R.R. Das,8967,5417,23.2
+ae-assam-1967,AE,Assam,1967,1967,official,62,Nalbari West,GEN,,28983,INC,B. Barman,10776,CPI,T.S. Deka,9748,1028,3.55
+ae-assam-1967,AE,Assam,1967,1967,official,63,Nalbari East,GEN,,27607,INC,P.N. Choudhury,13736,PSP,B. Goswami,7095,6641,24.06
+ae-assam-1967,AE,Assam,1967,1967,official,64,Borbhag,GEN,,25198,IND,G.S. Bhattacharyya,14772,INC,P.N. Sarmad,10426,4346,17.25
+ae-assam-1967,AE,Assam,1967,1967,official,65,Barama,ST,,25983,INC,S.N. Das,11913,IND,B.N. Das,10010,1903,7.32
+ae-assam-1967,AE,Assam,1967,1967,official,66,Tamulpur,ST,,24330,IND,M. Boro,11442,INC,D. Basumatari,10128,1314,5.4
+ae-assam-1967,AE,Assam,1967,1967,official,67,Rangiya,GEN,,20998,CPI,K.M. Sarmah,9760,INC,B.Islam,9678,82,0.39
+ae-assam-1967,AE,Assam,1967,1967,official,68,Kamalpur,GEN,,21742,PSP,L. Choudhury,7657,INC,L. Borah,7383,274,1.26
+ae-assam-1967,AE,Assam,1967,1967,official,69,Panery,GEN,,20009,IND,H. Patwary,12837,INC,T. Sharma,4527,8310,41.53
+ae-assam-1967,AE,Assam,1967,1967,official,70,Kalaigaon,GEN,,20051,INC,D. Dutta,5031,IND,S.P. Sarmah,4430,601,3.0
+ae-assam-1967,AE,Assam,1967,1967,official,71,Rangamati,SC,,22655,INC,N.C. Das,14659,PSP,K. Bania,7011,7648,33.76
+ae-assam-1967,AE,Assam,1967,1967,official,72,Mangaldoi,GEN,,27874,IND,M. Matlibuddin,11757,INC,A. Ahmed,5617,6140,22.03
+ae-assam-1967,AE,Assam,1967,1967,official,73,Dalgaon,GEN,,23566,INC,S. Barua,10561,IND,J. Abedin,8864,1697,7.2
+ae-assam-1967,AE,Assam,1967,1967,official,74,Udalaguri,ST,,17157,INC,B. Basumatari,10839,PSP,M.C. Brama,3379,7460,43.48
+ae-assam-1967,AE,Assam,1967,1967,official,75,Dhekiajuli,GEN,,25942,INC,P. Das,17405,IND,M. Lugun,8537,8868,34.18
+ae-assam-1967,AE,Assam,1967,1967,official,76,Missamari,GEN,,24911,INC,M. Das,14157,PSP,J. Bora,7277,6880,27.62
+ae-assam-1967,AE,Assam,1967,1967,official,77,Tezpur,GEN,,24232,IND,B.P. Rabbha,10337,INC,B.C. Sarmah,9964,373,1.54
+ae-assam-1967,AE,Assam,1967,1967,official,78,Balipara,GEN,,28081,INC,B. Sarma,19544,IND,D.D. Harenz,4425,15119,53.84
+ae-assam-1967,AE,Assam,1967,1967,official,79,Sootea,GEN,,29186,INC,N.C. Bhuyan,15708,PSP,G. Kakati,10799,4909,16.82
+ae-assam-1967,AE,Assam,1967,1967,official,80,Biswanath,GEN,,25325,INC,K.P. Tripathi,13295,IND,B.C. Das,6042,7253,28.64
+ae-assam-1967,AE,Assam,1967,1967,official,81,Gohpur,GEN,,22634,INC,B. Upadhyaya,8724,IND,N.B. Das,7980,744,3.29
+ae-assam-1967,AE,Assam,1967,1967,official,82,Marigaon,ST,,21784,IND,P. Konwar,13845,INC,B. Das,6605,7240,33.24
+ae-assam-1967,AE,Assam,1967,1967,official,83,Bokani,SC,,28129,INC,M.N. Hazarika,17402,SWA,B.N. Sarkar,7915,9487,33.73
+ae-assam-1967,AE,Assam,1967,1967,official,84,Laharighat,GEN,,28796,INC,A. Kasem,17957,PSP,B.P. Kotoki,4787,13170,45.74
+ae-assam-1967,AE,Assam,1967,1967,official,85,Raha,GEN,,27766,INC,S.C. Goswami,9388,PSP,B. Das,7250,2138,7.7
+ae-assam-1967,AE,Assam,1967,1967,official,86,Dhing,GEN,,24415,IND,S. Huda,11933,INC,M. Idris,10928,1005,4.12
+ae-assam-1967,AE,Assam,1967,1967,official,87,Rupohihat,GEN,,23498,IND,M.A. Mosabbir,10759,INC,A.N.M. Ohid,8586,2173,9.25
+ae-assam-1967,AE,Assam,1967,1967,official,88,Nowgong,GEN,,25026,CPI,P. Bora,13370,INC,R. Sut,8217,5153,20.59
+ae-assam-1967,AE,Assam,1967,1967,official,89,Dharmapur,GEN,,23943,CPI,K. Hazarika,12824,INC,B.K. Bora,9532,3292,13.75
+ae-assam-1967,AE,Assam,1967,1967,official,90,Kaliabor,GEN,,25286,SSP,A. Chandra,14182,INC,L.K. Borah,11104,3078,12.17
+ae-assam-1967,AE,Assam,1967,1967,official,91,Samaguri,GEN,,18974,INC,D.K. Barooah,8659,IND,C.C. Baruah,5688,2971,15.66
+ae-assam-1967,AE,Assam,1967,1967,official,92,Jamunamukh,GEN,,24462,INC,L.P. Goswami,12597,SSP,M. Ali,5751,6846,27.99
+ae-assam-1967,AE,Assam,1967,1967,official,93,Hojai,GEN,,28051,SWA,R. Ahmed,9099,INC,B.A. Ahmed,8680,419,1.49
+ae-assam-1967,AE,Assam,1967,1967,official,94,Lumding,GEN,,24342,INC,S.R. Sarkar,10822,IND,C.D. Goswami,7088,3734,15.34
+ae-assam-1967,AE,Assam,1967,1967,official,95,Bokakhar,SC,,18810,INC,L. Das,10873,CPI,H. Narayan,6367,4506,23.96
+ae-assam-1967,AE,Assam,1967,1967,official,96,Sarupathar,GEN,,23577,INC,C. Karmakar,11750,CPI,L. Bora,5654,6096,25.86
+ae-assam-1967,AE,Assam,1967,1967,official,97,Golaghat,GEN,,24259,SSP,S. Bora,15062,INC,D. Hazarika,8683,6379,26.3
+ae-assam-1967,AE,Assam,1967,1967,official,98,Dergaon,GEN,,23633,INC,N.N. Sarma,12676,SSP,N. Hazarika,9527,3149,13.32
+ae-assam-1967,AE,Assam,1967,1967,official,99,Majuli,ST,,20472,IND,M. Pegu,10518,INC,I. Pegu,8554,1964,9.59
+ae-assam-1967,AE,Assam,1967,1967,official,100,Jormat,GEN,,24239,INC,J. Saikia,11921,PSP,A.C. Barooah,11249,672,2.77
+ae-assam-1967,AE,Assam,1967,1967,official,101,Charaibahi,GEN,,23624,IND,D.C. Baruah,13852,INC,K.K. Barua,6512,7340,31.07
+ae-assam-1967,AE,Assam,1967,1967,official,102,Titabar,GEN,,29087,INC,D. Sarmah,12302,CPI,G. Thengal,7526,4776,16.42
+ae-assam-1967,AE,Assam,1967,1967,official,103,Mariani,GEN,,20595,INC,G. Tanti,9924,IND,S.P. Singh,4467,5457,26.5
+ae-assam-1967,AE,Assam,1967,1967,official,104,Teok,GEN,,22555,INC,T. Gogoi,8219,IND,S.N. Bharali,4445,3774,16.73
+ae-assam-1967,AE,Assam,1967,1967,official,105,Amguri,GEN,,20638,INC,P. Chaliha,9367,IND,K. Borbarua,8454,913,4.42
+ae-assam-1967,AE,Assam,1967,1967,official,106,Sibsagar,GEN,,24512,CPI,P.C. Gogoi,13265,INC,G.N. Gogoi,9735,3530,14.4
+ae-assam-1967,AE,Assam,1967,1967,official,107,Thowra,GEN,,22047,INC,D. Saikia,9316,CPI,J.N. Chetia,6558,2758,12.51
+ae-assam-1967,AE,Assam,1967,1967,official,108,Nazira,GEN,,16845,INC,K.K. Gogoi,10551,IND,S.C. Dutta,3171,7380,43.81
+ae-assam-1967,AE,Assam,1967,1967,official,109,Mahmara,GEN,,19195,INC,R. Konwar,8240,CPI,B. Barua,7423,817,4.26
+ae-assam-1967,AE,Assam,1967,1967,official,110,Sonari,GEN,,19278,INC,B.P. Chaliha,11895,IND,T. Gogoi,2109,9786,50.76
+ae-assam-1967,AE,Assam,1967,1967,official,111,Bihpuria,GEN,,22945,IND,P. Bora,7669,INC,K. Barua,6481,1188,5.18
+ae-assam-1967,AE,Assam,1967,1967,official,112,Naoboicha,SC,,24461,IND,B. Hazarika,14217,INC,L.K. Das,8500,5717,23.37
+ae-assam-1967,AE,Assam,1967,1967,official,113,North Lakhimpur,GEN,,21667,INC,G. Bora,9017,IND,L. Lahan,5877,3140,14.49
+ae-assam-1967,AE,Assam,1967,1967,official,114,Dhakuakhana,ST,,23351,CPI,N. Pegu,12868,INC,L. Doley,6010,6858,29.37
+ae-assam-1967,AE,Assam,1967,1967,official,115,Dhemaji,ST,,23600,SWA,R.M. Kuli,7291,INC,L.K. Doley,7017,274,1.16
+ae-assam-1967,AE,Assam,1967,1967,official,116,Moran,GEN,,17730,INC,P.K. Gohain,9037,SWA,G. Gogoi,3182,5855,33.02
+ae-assam-1967,AE,Assam,1967,1967,official,117,Dibrugarh,GEN,,22148,INC,R.C. Barooah,8480,SSP,N.C. Borah,5948,2532,11.43
+ae-assam-1967,AE,Assam,1967,1967,official,118,Lahowal,GEN,,17009,INC,L. Sengupta,6986,SSP,P. Dehingia,3976,3010,17.7
+ae-assam-1967,AE,Assam,1967,1967,official,119,Tengakhat,GEN,,19392,INC,M.C. Das,8589,SSP,J. Hazarika,7800,789,4.07
+ae-assam-1967,AE,Assam,1967,1967,official,120,Tingkhong,GEN,,24925,SSP,B. Gogoi,12236,INC,D.S. Loohar,10244,1992,7.99
+ae-assam-1967,AE,Assam,1967,1967,official,121,Joypur,GEN,,22116,SSP,B.K. Gogoi,10909,INC,I. Khaund,7769,3140,14.2
+ae-assam-1967,AE,Assam,1967,1967,official,122,Bogdung,GEN,,19738,INC,U.N. Sanatan,9809,SSP,G. Barbora,7584,2225,11.27
+ae-assam-1967,AE,Assam,1967,1967,official,123,Tinsukia,GEN,,25370,INC,P. Gogoi,12313,BJS,B.K. Saraswat,5745,6568,25.89
+ae-assam-1967,AE,Assam,1967,1967,official,124,Digboi,GEN,,23072,INC,J.N. Bhuyan,8351,BJS,N. Biswas,6322,2029,8.79
+ae-assam-1967,AE,Assam,1967,1967,official,125,Doom Dooma,GEN,,22444,INC,M. Tanti,14480,IND,P. Buragohain,2374,12106,53.94
+ae-assam-1967,AE,Assam,1967,1967,official,126,Saikhowa,GEN,,24392,INC,D.N. Hazarika,11805,BJS,K.C. Gogoi,4546,7259,29.76

@@ -1,0 +1,40 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,1,Tuipang,ST,,5482,INC,Hiphei,3387,IND,Lawbei,2095,1292,23.57
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,2,Saiha,ST,,6405,INC,S. Hiato,3579,IND,Zakhu,2826,753,11.76
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,3,Sangau,ST,,4907,PPC,H. Rammawi,2200,INC,K. Sangchhum,2124,76,1.55
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,4,Lawngtlai,ST,,8258,INC,F. Lalramliana,2910,IND,V. Lungmuana,2461,449,5.44
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,6,Tlabung,ST,,5374,INC,Harikristo,2115,IND,Baikchungnunga,1424,691,12.86
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,7,Buarpui,ST,,5132,INC,P. Lalbiaka,1908,IND,K. Hrangthankima,1653,255,4.97
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,8,Lunglei South,GEN,,5051,IND,H. Lalruata,2622,PPC,B. Lalchungnunga,1358,1264,25.02
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,9,Lunglei North,ST,,5703,IND,L. Ngurchhina,2514,PPC,Lalhmingthanga,1803,711,12.47
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,10,Tawipui,ST,,6286,IND,Siamliana,3092,INC,Thanchhuma,1793,1299,20.66
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,11,Vanva,ST,,4652,IND,K. Thanfianga,1889,PPC,R. Sangkawia,1368,521,11.2
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,12,Hnahthial,ST,,5207,INC,Vanlalnghaka,1962,IND,R. Lalthangliana,1705,257,4.94
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,13,North Vanlaiphai,ST,,4999,IND,Lalrinmawia,2170,INC,C. L. Ruala,1733,437,8.74
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,14,Khawbung,ST,,6689,IND,K. Vanlalauva,2464,PPC,C. Lalsawivela,2196,268,4.01
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,15,Champhai,ST,,8740,IND,Zoramthanga,3289,PPC,Lalduhawma,1821,1468,16.8
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,16,Khawhai,ST,,4632,IND,R. Lalawia,1984,INC,Lalbiakzuala,1797,187,4.04
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,17,Saitual,ST,,4557,IND,Andrew L. Herliana,1955,PPC,Kenneth Chawngliana,1306,649,14.24
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,18,Khawzawl,ST,,5243,IND,Tawnluia,3009,INC,Rcohhunga Ralte,953,2056,39.21
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,19,Ngopa,ST,,7699,PPC,Zosiama Pachuau,2946,INC,H. Rohluna,2393,553,7.18
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,20,Suangpuilawn,ST,,5224,INC,Vanlalngena,2036,PPC,Thenphunga Sailo,2016,20,0.38
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,21,Ratu,ST,,7280,IND,Lalrinchhana,3101,INC,R. Thangliana,2269,832,11.43
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,22,Kawnpui,ST,,7292,IND,Lalkhawnghma,2814,INC,Vaivenga,2408,406,5.57
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,23,Kolasib,ST,,5559,IND,Aichhinga,2609,INC,Lalsawta,1485,1124,20.22
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,24,Bilkhawthlir,ST,,4274,IND,Vanlalhruaia,1541,INC,Zalawma,1397,144,3.37
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,25,Lokicherra,GEN,,4685,IND,J. Thanghuama,2176,INC,T. C. Pachhunga,1508,668,14.26
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,26,Kawrthah,ST,,4472,INC,Saikapthianga,2111,IND,P. Lalapa,1368,743,16.61
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,27,Mamit,ST,,5782,IND,K. Zahungliana,2193,INC,Lalhuthanga,1962,231,4.0
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,28,Phuldungsei,ST,,6331,INC,Liansuama,3025,IND,Darchiauva,2071,954,15.07
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,29,Sateek,ST,,5672,IND,Laldenga,3219,INC,Rokhawmthanga,1598,1621,28.58
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,30,Serchhip,ST,,7244,INC,Lalthanhawla,2711,IND,Lalrawnliana,2480,231,3.19
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,31,Lungpho,ST,,5761,PPC,K. L. Lianchia,2223,INC,Rochhuahthanga,1935,288,5.0
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,32,Tlungvel,ST,,4841,INC,P. C. Zoramsangliana,1803,PPC,Lalzawmliana,1520,283,5.85
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,33,Aizawl North-I,ST,,6112,IND,Lalhlimpuii,2326,INC,Rasangliana,2020,306,5.01
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,34,Aizawl North Ii,ST,,6356,IND,Laldenga,2145,PPC,Zairemthanga,1735,410,6.45
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,35,Aizawl East-I,ST,,6364,IND,Saingura Sailo,2263,INC,H. Thansanga,1912,351,5.52
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,36,Aizawl East-Ii,ST,,5155,INC,Rokamlova,1766,IND,H. Vanlalauva,1662,104,2.02
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,37,Aizawl West I,ST,,7192,IND,H. Hrangdawla,3311,INC,S. T. Rualyapa,2012,1299,18.06
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,38,Aizawl West-Ii,ST,,6723,IND,Rualchhina,3302,PPC,K. Thansiami,1899,1403,20.87
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,39,Aizawl South - I,ST,,6601,IND,R. Tlanghmingthanga,3119,INC,Sainghaka,1791,1328,20.12
+ae-mizoram-1987,AE,Mizoram,1987,1987,official,40,Aizawl South - Ii,ST,,6929,IND,Chawngzuala,3906,INC,John Lalsangzuala,2213,1693,24.43

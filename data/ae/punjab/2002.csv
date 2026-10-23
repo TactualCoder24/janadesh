@@ -1,0 +1,118 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-punjab-2002,AE,Punjab,2002,2002,official,1,Fatehgarh,GEN,,87264,INC,Sukhjinder Singh,46739,SAD,Nirmal Singh Kahlon,39287,7452,8.54
+ae-punjab-2002,AE,Punjab,2002,2002,official,2,Batala,GEN,,85026,INC,Ashwani,47933,BJP,Jagdish Sawhney,34405,13528,15.91
+ae-punjab-2002,AE,Punjab,2002,2002,official,3,Qadian,GEN,,90988,INC,Tript Rajinder Singh,46902,SAD,Natha Singh,39948,6954,7.64
+ae-punjab-2002,AE,Punjab,2002,2002,official,4,Srihargobindpur,GEN,,67443,SAD,Capt. Balbir Singh Bath,27836,IND,Fateh Jang Singh Bajwa,16337,11499,17.05
+ae-punjab-2002,AE,Punjab,2002,2002,official,5,Kahnuwan,GEN,,85193,INC,Partap Singh Bajwa,44540,SAD,Sewa Singh Sekhwan,37735,6805,7.99
+ae-punjab-2002,AE,Punjab,2002,2002,official,6,Dhariwal,GEN,,82158,IND,Sucha Singh Chhotepur,32442,SAD,Sucha Singh Langah,32362,80,0.1
+ae-punjab-2002,AE,Punjab,2002,2002,official,7,Gurdaspur,GEN,,80080,INC,Khushhal Bahl,35442,SAD,Munawar Masih,23751,11691,14.6
+ae-punjab-2002,AE,Punjab,2002,2002,official,8,Dina Nagar,SC,,76515,INC,Aruna,36765,BJP,Sita Ram,34083,2682,3.51
+ae-punjab-2002,AE,Punjab,2002,2002,official,9,Narot Mehra,SC,,71822,INC,Rumal Chand,32107,BJP,Bishambar Dass,21594,10513,14.64
+ae-punjab-2002,AE,Punjab,2002,2002,official,10,Pathankot,GEN,,79170,INC,Ashok Sharma,45073,BJP,Master Mohan Lal,27709,17364,21.93
+ae-punjab-2002,AE,Punjab,2002,2002,official,11,Sujanpur,GEN,,84901,INC,Raghunath Sahai Puri,48740,BJP,Satya Pal Saini,30496,18244,21.49
+ae-punjab-2002,AE,Punjab,2002,2002,official,12,Beas,GEN,,90551,INC,Jasbir Singh Gill (Dimpa),45832,SAD,Manjinder Singh Kang,39382,6450,7.12
+ae-punjab-2002,AE,Punjab,2002,2002,official,13,Majitha,GEN,,83138,INC,Swinder Singh,41072,SAD,Raj Mohinder Singh Majitha,38874,2198,2.64
+ae-punjab-2002,AE,Punjab,2002,2002,official,14,Verka,SC,,93624,INC,Raj Kumar,48041,SAD,Dalbir Singh,38651,9390,10.03
+ae-punjab-2002,AE,Punjab,2002,2002,official,15,Jandiala,SC,,87669,INC,Sardul Singh,45599,SAD,Malkiat Singh,37866,7733,8.82
+ae-punjab-2002,AE,Punjab,2002,2002,official,16,Amritsar North,GEN,,57054,INC,Jugal Kishore Sharma,31024,BJP,Baldev Raj Chawala,16268,14756,25.86
+ae-punjab-2002,AE,Punjab,2002,2002,official,17,Amritsar West,GEN,,102808,IND,Om Parkash Soni,45331,CPI,Amarjit Singh,21791,23540,22.9
+ae-punjab-2002,AE,Punjab,2002,2002,official,18,Amritsar Central,GEN,,44163,INC,Darbari Lal,24286,BJP,Laxmi Kanta Chawla,18115,6171,13.97
+ae-punjab-2002,AE,Punjab,2002,2002,official,19,Amritsar South,GEN,,63345,INC,Harjinder Singh Thekedar,23322,IND,Raminder Singh Bolaria,19232,4090,6.46
+ae-punjab-2002,AE,Punjab,2002,2002,official,20,Ajnala,GEN,,102298,SAD,Dr. Rattan Singh,47182,IND,Harpartap Singh,46826,356,0.35
+ae-punjab-2002,AE,Punjab,2002,2002,official,21,Raja Sansi,GEN,,85543,SAD,Vir Singh Lopoke,42238,IND,Sukhbinder Singh (Sukh Sarkaria),38785,3453,4.04
+ae-punjab-2002,AE,Punjab,2002,2002,official,22,Attari,SC,,69521,SAD,Gulzar Singh Ranike,43740,INC,Rattan Singh,19521,24219,34.84
+ae-punjab-2002,AE,Punjab,2002,2002,official,23,Tarn Taran,GEN,,78490,IND,Harmeet Singh Sandhu,30560,SAD,Alwinderpal Singh,24341,6219,7.92
+ae-punjab-2002,AE,Punjab,2002,2002,official,24,Khadoor Sahib,SC,,69485,SAD,Manjit Singh,37200,INC,Sukhdev Singh,14490,22710,32.68
+ae-punjab-2002,AE,Punjab,2002,2002,official,25,Naushahra Panwan,GEN,,68860,SAD,Ranjit Singh,36153,INC,Jagir Singh,30219,5934,8.62
+ae-punjab-2002,AE,Punjab,2002,2002,official,26,Patti,GEN,,81032,SAD,Adesh Partap Singh Kairon,44703,INC,Tarlok Singh,23324,21379,26.38
+ae-punjab-2002,AE,Punjab,2002,2002,official,27,Valtoha,GEN,,77441,INC,Gurchet Singh,39064,SAD,Gurdial Singh,34119,4945,6.39
+ae-punjab-2002,AE,Punjab,2002,2002,official,28,Adampur,GEN,,82507,INC,Kanwaljit Singh Lally,32619,SAD,Sarabjit Singh Makkar,25243,7376,8.94
+ae-punjab-2002,AE,Punjab,2002,2002,official,29,Jullundur Cantonment,GEN,,66324,INC,Gurkanwal Kaur,29160,SAD,Paramjit Singh,18307,10853,16.36
+ae-punjab-2002,AE,Punjab,2002,2002,official,30,Jullundur North,GEN,,64900,INC,Avtar Henry,41856,BJP,Suresh Sehgal,19489,22367,34.46
+ae-punjab-2002,AE,Punjab,2002,2002,official,31,Jullundur Central,GEN,,63195,INC,Raj Kumar Gupta,30066,BJP,Manoranjan Kalia,22355,7711,12.2
+ae-punjab-2002,AE,Punjab,2002,2002,official,32,Jullundur South,SC,,81966,INC,Mohinder Singh Kaypee,34869,BJP,Chuni Lal Bhagat,24046,10823,13.2
+ae-punjab-2002,AE,Punjab,2002,2002,official,33,Kartarpur,SC,,86208,INC,Chaudhry Jagjit Singh,39010,SAD,Charnjit Singh Atwal,34887,4123,4.78
+ae-punjab-2002,AE,Punjab,2002,2002,official,34,Lohian,GEN,,97112,SAD,Ajit Singh Kohar,48787,INC,Brij Bhupinder Singh Lally,43612,5175,5.33
+ae-punjab-2002,AE,Punjab,2002,2002,official,35,Nakodar,GEN,,85298,INC,Amarjit Singh Samra,39216,SAD,Gurmeet Singh Daduwal,29749,9467,11.1
+ae-punjab-2002,AE,Punjab,2002,2002,official,36,Nur Mahal,GEN,,86464,INC,Gurbinder Singh Atwal,35610,SAD,Gurdip Singh,26331,9279,10.73
+ae-punjab-2002,AE,Punjab,2002,2002,official,37,Banga,SC,,79243,INC,Tarlochan Singh,27574,BSP,Mohan Lal,23919,3655,4.61
+ae-punjab-2002,AE,Punjab,2002,2002,official,38,Nawan Shahr,GEN,,101157,INC,Parkash Singh,32667,BSP,Ram Kishan,27321,5346,5.28
+ae-punjab-2002,AE,Punjab,2002,2002,official,39,Phillaur,SC,,86784,INC,Santokh Singh Choudhary,33570,SAD,Sarwan Singh,28915,4655,5.36
+ae-punjab-2002,AE,Punjab,2002,2002,official,40,Bholath,GEN,,75717,SAD,Jagir Kaur,41937,INC,Sukhpal Singh,30559,11378,15.03
+ae-punjab-2002,AE,Punjab,2002,2002,official,41,Kapurthala,GEN,,71766,INC,Rana Gurjeet Singh,33715,SAD,Raghbir Singh,23590,10125,14.11
+ae-punjab-2002,AE,Punjab,2002,2002,official,42,Sultanpur,GEN,,81757,SAD,Upinderjit Kaur,40485,INC,Rajanbir Singh,34971,5514,6.74
+ae-punjab-2002,AE,Punjab,2002,2002,official,43,Phagwara,SC,,86341,INC,Joginder Singh,31601,BJP,Swarna Ram,30415,1186,1.37
+ae-punjab-2002,AE,Punjab,2002,2002,official,44,Balachaur,GEN,,80445,SAD,Nand Lal,33629,INC,Ram Kishan Kataria,23286,10343,12.86
+ae-punjab-2002,AE,Punjab,2002,2002,official,45,Garhshankar,GEN,,73936,BJP,Avinash Rai Khanna,24638,BSP,Shingara Ram Sahungra,18463,6175,8.35
+ae-punjab-2002,AE,Punjab,2002,2002,official,46,Mahilpur,SC,,64931,SAD,Sohan Singh Thandal,27724,BSP,Avtar Singh Karimpuri,18444,9280,14.29
+ae-punjab-2002,AE,Punjab,2002,2002,official,47,Hoshiarpur,GEN,,74219,BJP,Tikshan Sud,24141,INC,Naresh Thakur,23833,308,0.41
+ae-punjab-2002,AE,Punjab,2002,2002,official,48,Sham Chaurasi,SC,,78261,INC,Ram Lubhaya,24446,IND,Mohinder Kaur Josh,22965,1481,1.89
+ae-punjab-2002,AE,Punjab,2002,2002,official,49,Tanda,GEN,,79899,SAD,Balbir Singh,37354,INC,Sangat Singh,34828,2526,3.16
+ae-punjab-2002,AE,Punjab,2002,2002,official,50,Garhdiwala,SC,,70498,SAD,Des Raj,30761,INC,Pawan Kumar Adia,22860,7901,11.21
+ae-punjab-2002,AE,Punjab,2002,2002,official,51,Dasuya,GEN,,77846,INC,Ramesh Chander,38718,BJP,Mahant Ram Parkash,26635,12083,15.52
+ae-punjab-2002,AE,Punjab,2002,2002,official,52,Mukerian,GEN,,94401,INC,Dr. Kewal Krishan,43579,BJP,Arunesh Shakar,34516,9063,9.6
+ae-punjab-2002,AE,Punjab,2002,2002,official,53,Jagraon,GEN,,92018,SAD,Bhag Singh Mallah,32152,IND,Darshan Singh Brar,30595,1557,1.69
+ae-punjab-2002,AE,Punjab,2002,2002,official,54,Raikot,GEN,,90323,SAD,Ranjit Singh Talwandi,44388,INC,Harmohinder Singh Pardhan,37989,6399,7.08
+ae-punjab-2002,AE,Punjab,2002,2002,official,55,Dakha,SC,,116551,INC,Malkiat Singh Dakha,51570,SAD,Darshan Singh Shivalik,42844,8726,7.49
+ae-punjab-2002,AE,Punjab,2002,2002,official,56,Qila Raipur,GEN,,87225,SAD,Jagdish Singh Gurcha,36849,INC,Gurdial Kaur Khangura,30270,6579,7.54
+ae-punjab-2002,AE,Punjab,2002,2002,official,57,Ludhiana North,GEN,,64135,INC,Rakesh Pandey,39167,BJP,Pran Nath Bhatia,16295,22872,35.66
+ae-punjab-2002,AE,Punjab,2002,2002,official,58,Ludhiana West,GEN,,68123,INC,Harnam Dass Johar,36006,SAD,Avtar Singh Makkar,19406,16600,24.37
+ae-punjab-2002,AE,Punjab,2002,2002,official,59,Ludhiana East,GEN,,53591,INC,Surinder Kumar Dawar,32016,BJP,Sat Pal Gosain,18767,13249,24.72
+ae-punjab-2002,AE,Punjab,2002,2002,official,60,Ludhiana Rural,GEN,,150460,INC,Malkit Singh Birmi,60638,SAD,Amrik Singh Aliwal,30535,30103,20.01
+ae-punjab-2002,AE,Punjab,2002,2002,official,61,Payal,GEN,,86451,INC,Tej Parkash Singh,42282,SAD,Jagjiwan Pal Singh,34681,7601,8.79
+ae-punjab-2002,AE,Punjab,2002,2002,official,62,Kum Kalan,SC,,94373,SAD,Inder Iqbal Singh Atwal,45026,INC,Ishar Singh,42420,2606,2.76
+ae-punjab-2002,AE,Punjab,2002,2002,official,63,Samrala,GEN,,86698,INC,Amrik Singh,43845,SAD,Kirpal Singh,36478,7367,8.5
+ae-punjab-2002,AE,Punjab,2002,2002,official,64,Khanna,SC,,85826,INC,Harbans Kaur,41578,SAD,Satwinder Kaur Dhaliwal,31943,9635,11.23
+ae-punjab-2002,AE,Punjab,2002,2002,official,65,Nangal,GEN,,74826,INC,Kanwar Pal Singh,37629,BJP,Madan Mohan Mittal,23667,13962,18.66
+ae-punjab-2002,AE,Punjab,2002,2002,official,66,Anandpur Sahib - Ropar,GEN,,82877,INC,Ramesh Dutt Sharma,41950,SAD,Tara Singh,29268,12682,15.3
+ae-punjab-2002,AE,Punjab,2002,2002,official,67,Chamkaur Sahib,SC,,73442,SAD,Satwant Kaur,33511,INC,Bhag Singh,24413,9098,12.39
+ae-punjab-2002,AE,Punjab,2002,2002,official,68,Morinda,GEN,,97994,INC,Jagmohan Singh,47631,SAD,Ujagar Singh,24914,22717,23.18
+ae-punjab-2002,AE,Punjab,2002,2002,official,69,Kharar,GEN,,106366,INC,Bir Devinder Singh,24846,IND,Balbir Singh,23326,1520,1.43
+ae-punjab-2002,AE,Punjab,2002,2002,official,70,Banur,GEN,,106023,SAD,Kanwaljit Singh,51002,INC,Sheelam Sohi,50288,714,0.67
+ae-punjab-2002,AE,Punjab,2002,2002,official,71,Rajpura,GEN,,90348,INC,Raj Khurana,47472,BJP,Balram Ji Dass,30726,16746,18.53
+ae-punjab-2002,AE,Punjab,2002,2002,official,72,Ghanaur,GEN,,88486,INC,Jasjit Singh,40945,SAD,Ajaib Singh S/O Harchand Singh,29357,11588,13.1
+ae-punjab-2002,AE,Punjab,2002,2002,official,73,Dakala,GEN,,102925,INC,Lal Singh,38424,SAD,Charanjit Singh Walia,22597,15827,15.38
+ae-punjab-2002,AE,Punjab,2002,2002,official,74,Shutrana,SC,,97364,SAD,Nirmal Singh,34123,IND,Hamir Singh,18567,15556,15.98
+ae-punjab-2002,AE,Punjab,2002,2002,official,75,Samana,GEN,,118718,SAD,Surjit Singh Rakhra,46681,INC,Brahm Mohindra,35909,10772,9.07
+ae-punjab-2002,AE,Punjab,2002,2002,official,76,Patiala Town,GEN,,62781,INC,Amarinder Singh,46750,SAD,Sarup Singh Sehgal,13167,33583,53.49
+ae-punjab-2002,AE,Punjab,2002,2002,official,77,Nabha,GEN,,107563,INC,Randeep Singh,37453,SAD,Narinder Singh,23502,13951,12.97
+ae-punjab-2002,AE,Punjab,2002,2002,official,78,Amloh,SC,,99753,INC,Sadhu Singh,45383,SAD,Gurdev Singh,26633,18750,18.8
+ae-punjab-2002,AE,Punjab,2002,2002,official,79,Sirhind,GEN,,95065,INC,Dr. Harbans Lal,35659,SAD,Didar Singh Bhatti,32528,3131,3.29
+ae-punjab-2002,AE,Punjab,2002,2002,official,80,Dhuri,GEN,,96111,SAD,Gaganjit Singh,25538,SAD(M),Iqbal Singh,23979,1559,1.62
+ae-punjab-2002,AE,Punjab,2002,2002,official,81,Malerkotla,GEN,,108000,INC,Razia Sultana,37557,IND,Ajit Singh,37378,179,0.17
+ae-punjab-2002,AE,Punjab,2002,2002,official,82,Sherpur,SC,,90882,IND,Gobind Singh,30132,SAD,Piara Singh,26525,3607,3.97
+ae-punjab-2002,AE,Punjab,2002,2002,official,83,Barnala,GEN,,98329,SAD,Malkit Singh Keetu,37575,INC,Surinder Pal Singh,21305,16270,16.55
+ae-punjab-2002,AE,Punjab,2002,2002,official,84,Bhadaur,SC,,86188,SAD,Balbir Singh Ghunas,43558,INC,Surinder Kaur,20471,23087,26.79
+ae-punjab-2002,AE,Punjab,2002,2002,official,85,Dhanaula,GEN,,93278,SAD,Gobind Singh Longowal,31007,INC,Jagjit Singh,22514,8493,9.11
+ae-punjab-2002,AE,Punjab,2002,2002,official,86,Sangrur,GEN,,95793,INC,Arvind Khanna,42339,IND,Ranjit Singh Balian,23207,19132,19.97
+ae-punjab-2002,AE,Punjab,2002,2002,official,87,Dirbha,GEN,,95960,IND,Surjit Singh Dhiman,35099,SAD,Baldev Singh Mann,34103,996,1.04
+ae-punjab-2002,AE,Punjab,2002,2002,official,88,Sunam,GEN,,98606,SAD,Parminder Singh,44506,INC,Sonia Deepa Arora,25831,18675,18.94
+ae-punjab-2002,AE,Punjab,2002,2002,official,89,Lehra,GEN,,94709,INC,Rajinder Kaur,43579,SAD,Naranjan Singh,28071,15508,16.37
+ae-punjab-2002,AE,Punjab,2002,2002,official,90,Balluana,SC,,84803,INC,Parkash Singh Bhatti,41683,SAD,Gurtej Singh,37363,4320,5.09
+ae-punjab-2002,AE,Punjab,2002,2002,official,91,Abohar,GEN,,96038,INC,Sunil Kumar,37552,IND,Sudhir Nagpal,30213,7339,7.64
+ae-punjab-2002,AE,Punjab,2002,2002,official,92,Fazilka,GEN,,92396,INC,Mohinder Kumar,51033,BJP,Surjit Kumar,37178,13855,15.0
+ae-punjab-2002,AE,Punjab,2002,2002,official,93,Jalalabad,GEN,,117883,INC,Hans Raj Josan,45727,SAD,Sher Singh,41396,4331,3.67
+ae-punjab-2002,AE,Punjab,2002,2002,official,94,Guru Har Sahai,GEN,,107792,INC,Gurmit Singh,42135,SAD,Paramjit Singh,36704,5431,5.04
+ae-punjab-2002,AE,Punjab,2002,2002,official,95,Firozepur,GEN,,88092,BJP,Sukhpal Singh,34995,INC,Balmukand Sharma,27238,7757,8.81
+ae-punjab-2002,AE,Punjab,2002,2002,official,96,Firozepur Cantonment,GEN,,87614,INC,Ravinder Singh,47077,SAD,Janmeja Singh,38046,9031,10.31
+ae-punjab-2002,AE,Punjab,2002,2002,official,97,Zira,GEN,,100492,SAD,Hari Singh,43991,INC,Kuldeep Singh,36424,7567,7.53
+ae-punjab-2002,AE,Punjab,2002,2002,official,98,Dharamkot,SC,,87208,SAD,Sital Singh,35729,IND,Mukhtiar Singh,20200,15529,17.81
+ae-punjab-2002,AE,Punjab,2002,2002,official,99,Moga,GEN,,88877,SAD,Tota Singh,42579,INC,Sathi Vijay Kumar,42274,305,0.34
+ae-punjab-2002,AE,Punjab,2002,2002,official,100,Bagha Purana,GEN,,96574,SAD,Sadhu Singh Rajeana,47425,INC,Mahesh Inder Singh,42378,5047,5.23
+ae-punjab-2002,AE,Punjab,2002,2002,official,101,Nihal Singh Wala,SC,,80419,SAD,Zora Singh,35556,CPI,Ajaib Singh,16729,18827,23.41
+ae-punjab-2002,AE,Punjab,2002,2002,official,102,Panjgrain,SC,,89659,SAD,Gurdev Singh Badal,43811,CPI,Darshan Singh,22374,21437,23.91
+ae-punjab-2002,AE,Punjab,2002,2002,official,103,Kot Kapura,GEN,,107069,SAD,Mantar Singh,42725,INC,Prof. Vibha Sharma,40986,1739,1.62
+ae-punjab-2002,AE,Punjab,2002,2002,official,104,Faridkot,GEN,,114665,SAD,Kushaldeep Singh Dhillon,57282,INC,Avtar Singh Brar,51011,6271,5.47
+ae-punjab-2002,AE,Punjab,2002,2002,official,105,Muktsar,GEN,,97319,IND,Sukhdarshan Singh(Madahar Kalan),32465,INC,Harcharan Singh,32265,200,0.21
+ae-punjab-2002,AE,Punjab,2002,2002,official,106,Giddar Baha,GEN,,106846,SAD,Manpreet Singh Badal,59336,INC,Raghuveer Singh,43801,15535,14.54
+ae-punjab-2002,AE,Punjab,2002,2002,official,107,Malout,SC,,90129,CPI,Nathu Ram,46180,SAD,Mukhtiar Kaur,39571,6609,7.33
+ae-punjab-2002,AE,Punjab,2002,2002,official,108,Lambi,GEN,,93233,SAD,Parkash Singh Badal,50545,IND,Maheshinder Singh,26616,23929,25.67
+ae-punjab-2002,AE,Punjab,2002,2002,official,109,Talwandi Sabo,GEN,,94540,IND,Jeetmohinder Singh Sidhu,29879,INC,Harminder Singh Jassi,29642,237,0.25
+ae-punjab-2002,AE,Punjab,2002,2002,official,110,Pakka Kalan,SC,,85399,CPI,Gurjant Singh,34254,SAD,Makhan Singh,32477,1777,2.08
+ae-punjab-2002,AE,Punjab,2002,2002,official,111,Bhatinda,GEN,,114358,INC,Surinder Singla,46451,SAD,Chiranji Lal,33038,13413,11.73
+ae-punjab-2002,AE,Punjab,2002,2002,official,112,Nathana,SC,,96565,SAD,Gura Singh,46042,INC,Jasmail Singh,42540,3502,3.63
+ae-punjab-2002,AE,Punjab,2002,2002,official,113,Rampura Phul,GEN,,101031,IND,"Gurpreet Singh ""Kangur""",40303,SAD,Sikander Singh Maluka,37644,2659,2.63
+ae-punjab-2002,AE,Punjab,2002,2002,official,114,Joga,GEN,,94088,SAD,Jagdeep Singh,41077,INC,Sukhraj Singh,33077,8000,8.5
+ae-punjab-2002,AE,Punjab,2002,2002,official,115,Mansa,GEN,,96790,IND,Sher Singh,27826,SAD,Sukhwinder Singh,27782,44,0.05
+ae-punjab-2002,AE,Punjab,2002,2002,official,116,Budhlada,GEN,,98421,SAD,Harbant Singh,44184,CPI,Hardev Singh,29384,14800,15.04
+ae-punjab-2002,AE,Punjab,2002,2002,official,117,Sardulgarh,GEN,,101468,SAD,Balwinder Singh,49281,INC,Ajit Inder Singh,48186,1095,1.08

@@ -11,7 +11,7 @@ def nk(n):
 rows = []
 for f in sorted(glob.glob(f'{D}/*.json')):
     base = os.path.basename(f)[:-5]
-    if base in ('index', 'search', 'polls'):
+    if base in ('index', 'search', 'polls', 'stats'):
         continue
     els = json.load(open(f, encoding='utf-8'))
     names = {}

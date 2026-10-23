@@ -1,0 +1,105 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-punjab-1951,AE,Punjab,1951,1951,official,1,Dabwali,GEN,,31470,SAD,Karnail Singh,11364,INC,Ram Dayal Vaid,10101,1263,4.01
+ae-punjab-1951,AE,Punjab,1951,1951,official,2,Sirsa,GEN,,32435,INC,Devi Lal,18572,IND,Shiv Karan Singh,13863,4709,14.52
+ae-punjab-1951,AE,Punjab,1951,1951,official,3,Fatehabad,GEN,,64077,INC,Dalbir Singh Gohar,16619,IND,Ganga Ram,14516,2103,3.28
+ae-punjab-1951,AE,Punjab,1951,1951,official,4,Hissar City,GEN,,31783,INC,Balwant Rai,16397,BJS,Jyoti Prashad,8186,8211,25.83
+ae-punjab-1951,AE,Punjab,1951,1951,official,5,Hissar Sadar,GEN,,32792,INC,Ranjit Singh,11794,ZP,Hari Singh,9186,2608,7.95
+ae-punjab-1951,AE,Punjab,1951,1951,official,6,Hansi,GEN,,29072,INC,Lajpat Rai,13738,IND,Ram Prashad,6138,7600,26.14
+ae-punjab-1951,AE,Punjab,1951,1951,official,7,Narnaund,GEN,,39335,INC,Sarup Singh,19553,ZP,Sruaj Mal,18468,1085,2.76
+ae-punjab-1951,AE,Punjab,1951,1951,official,8,Bhiwani,GEN,,80853,INC,Ram Kumar,14109,IND,Chander Bhan,13981,128,0.16
+ae-punjab-1951,AE,Punjab,1951,1951,official,9,Rai,GEN,,35794,INC,Rizaq Ram,14892,ZP,Tikka Ram,14124,768,2.15
+ae-punjab-1951,AE,Punjab,1951,1951,official,10,Sonipat,GEN,,32560,INC,Siri Ram,15647,ZP,Shadi Ram,10819,4828,14.83
+ae-punjab-1951,AE,Punjab,1951,1951,official,11,Ganaur,GEN,,42693,INC,Lehri Singh,18171,ZP,Chander Bhan,14622,3549,8.31
+ae-punjab-1951,AE,Punjab,1951,1951,official,12,Gohana,GEN,,92552,INC,Mam Chand,22760,ZP,Nanhu Ram,22042,718,0.78
+ae-punjab-1951,AE,Punjab,1951,1951,official,13,Kalanaur,GEN,,36085,INC,Badlu Ram,14448,ZP,Ram Sarup,13101,1347,3.73
+ae-punjab-1951,AE,Punjab,1951,1951,official,14,Jhajjar,GEN,,87636,INC,Sher Singh,22504,ZP,Dil Sukh,21743,761,0.87
+ae-punjab-1951,AE,Punjab,1951,1951,official,15,Bahadurgarh,GEN,,41686,ZP,Siri Chand,23593,INC,Hari Singh,15266,8327,19.98
+ae-punjab-1951,AE,Punjab,1951,1951,official,16,Sampla,GEN,,35088,ZP,Maru Singh,13568,IND,Uma Datt,7526,6042,17.22
+ae-punjab-1951,AE,Punjab,1951,1951,official,17,Rohtak City,GEN,,29754,INC,Dev Raj,12300,BJS,Ranphool Singh,7214,5086,17.09
+ae-punjab-1951,AE,Punjab,1951,1951,official,19,Nuh,GEN,,37247,INC,Abdul Ghani,17654,ZP,Dhan Singh,14873,2781,7.47
+ae-punjab-1951,AE,Punjab,1951,1951,official,20,Palwal,GEN,,33402,INC,Gurditta,15790,ZP,Sumar Singh,13712,2078,6.22
+ae-punjab-1951,AE,Punjab,1951,1951,official,21,Hasanpur,GEN,,41336,INC,Dharam Vir,15171,ZP,Puran Singh,10928,4243,10.26
+ae-punjab-1951,AE,Punjab,1951,1951,official,22,Rewari,GEN,,91561,INC,Abhai Singh,34570,ZP,Virender Singh,26312,8258,9.02
+ae-punjab-1951,AE,Punjab,1951,1951,official,23,Ballab Garh,GEN,,35094,INC,Kidar Nath Sehgal,19032,ZP,Net Ram,14947,4085,11.64
+ae-punjab-1951,AE,Punjab,1951,1951,official,24,Gurgaon,GEN,,35996,INC,Gajraj Singh,22655,IND,Mohar Singh,11027,11628,32.3
+ae-punjab-1951,AE,Punjab,1951,1951,official,25,Sohna,GEN,,34781,INC,Babu Dayal,18473,ZP,Nathu Singh,9454,9019,25.93
+ae-punjab-1951,AE,Punjab,1951,1951,official,26,Sambhalka,GEN,,39017,INC,Mool Chand,16679,ZP,Dharam Singh,15167,1512,3.88
+ae-punjab-1951,AE,Punjab,1951,1951,official,27,Panipat,GEN,,29499,INC,Krishan Gopal Datt,14513,BJS,Kundan Lal,10190,4323,14.65
+ae-punjab-1951,AE,Punjab,1951,1951,official,28,Karnal,GEN,,25376,INC,Nand Lal,11590,BJS,Gokal Chand Narang,5811,5779,22.77
+ae-punjab-1951,AE,Punjab,1951,1951,official,29,Asandh,GEN,,39684,INC,Kasturi Lal,16332,ZP,Baru Ram,9008,7324,18.46
+ae-punjab-1951,AE,Punjab,1951,1951,official,30,Gharaunda,GEN,,36628,INC,Samar Singh,17647,IND,Randhir Singh,12528,5119,13.98
+ae-punjab-1951,AE,Punjab,1951,1951,official,31,Butana,GEN,,92103,INC,Ram Sarup,27619,BJS,Phaggu Ram,13982,13637,14.81
+ae-punjab-1951,AE,Punjab,1951,1951,official,32,Thanesar,GEN,,20664,INC,Benarsi Das,9267,IND,Kanshi Ram,5318,3949,19.11
+ae-punjab-1951,AE,Punjab,1951,1951,official,33,Shahabad,GEN,,26384,INC,Jagdish Chand,11320,BJS,Surjan Singh,7079,4241,16.07
+ae-punjab-1951,AE,Punjab,1951,1951,official,34,Kaithal,GEN,,32817,INC,Daulat Ram,13342,BJS,Narsingh Dass,9315,4027,12.27
+ae-punjab-1951,AE,Punjab,1951,1951,official,35,Pundri,GEN,,32542,INC,Gopi Chand,12338,BJS,Anant Ram,11266,1072,3.29
+ae-punjab-1951,AE,Punjab,1951,1951,official,36,Jagadhri,GEN,,34361,INC,Dev Datt,16169,ZP,Jagmal Singh,5998,10171,29.6
+ae-punjab-1951,AE,Punjab,1951,1951,official,37,Molana,GEN,,111664,INC,Rattan Amol Singh,24289,IND,Ram Parkash,21673,2616,2.34
+ae-punjab-1951,AE,Punjab,1951,1951,official,38,Ambala City,GEN,,22443,INC,Abdul Gaffar Khan,11161,BJS,Mul Raj,7819,3342,14.89
+ae-punjab-1951,AE,Punjab,1951,1951,official,39,Ambala Cantt,GEN,,26845,INC,Dev Raj,13614,SAD,Santokh Singh,4384,9230,34.38
+ae-punjab-1951,AE,Punjab,1951,1951,official,40,Narain Garh,GEN,,32117,INC,Sadhu Ram,14552,ZP,Kesho Ram,5899,8653,26.94
+ae-punjab-1951,AE,Punjab,1951,1951,official,41,Chandi Garh,GEN,,30594,INC,Jagat Narain,13450,IND,Sant Ram,3370,10080,32.95
+ae-punjab-1951,AE,Punjab,1951,1951,official,42,Rupar,GEN,,108581,INC,Raijinder Singh,28390,SAD,Sadhu Singh,26187,2203,2.03
+ae-punjab-1951,AE,Punjab,1951,1951,official,43,Simla,GEN,,16379,INC,Som Datt,6346,SOC,Basant Rai Datt,2620,3726,22.75
+ae-punjab-1951,AE,Punjab,1951,1951,official,44,Nurpur,GEN,,24352,INC,Ram Chand,16821,BJS,Ram Singh,4231,12590,51.7
+ae-punjab-1951,AE,Punjab,1951,1951,official,45,Dharamsala,GEN,,26901,INC,Hari Ram,18979,CPI,Tulsi Ram,6019,12960,48.18
+ae-punjab-1951,AE,Punjab,1951,1951,official,46,Haripur,GEN,,33295,INC,Bhagat Ram,13455,IND,Mathra Dass,11093,2362,7.09
+ae-punjab-1951,AE,Punjab,1951,1951,official,47,Palampur,GEN,,24299,INC,Kanaya Lal,12773,IND,Sarwan Kumar,7847,4926,20.27
+ae-punjab-1951,AE,Punjab,1951,1951,official,48,Sujanpur,GEN,,27260,INC,Pratap Singh,13966,IND,Bhagat Ram,3675,10291,37.75
+ae-punjab-1951,AE,Punjab,1951,1951,official,49,Kulu,GEN,,13477,IND,Lal Chand,4820,INC,Jagan Nath,4274,546,4.05
+ae-punjab-1951,AE,Punjab,1951,1951,official,50,Seraj,GEN,,13101,IND,Raghubir Singh,6872,INC,Beli Ram,3914,2958,22.58
+ae-punjab-1951,AE,Punjab,1951,1951,official,51,Hamirpur,GEN,,65639,INC,Daulat Ram,22853,IND,Mehr Singh,13953,8900,13.56
+ae-punjab-1951,AE,Punjab,1951,1951,official,52,Dasuya,GEN,,32828,INC,Hari Singh,10894,IND,Harnam Singh,6677,4217,12.85
+ae-punjab-1951,AE,Punjab,1951,1951,official,53,Tanda,GEN,,30720,CPI,Chanan Singh,10716,IND,Sarup Singh,7180,3536,11.51
+ae-punjab-1951,AE,Punjab,1951,1951,official,54,Mukerian,GEN,,40162,INC,Ralla Ram,17503,BJS,Gian Singh,12886,4617,11.5
+ae-punjab-1951,AE,Punjab,1951,1951,official,55,Amb,GEN,,27752,INC,Khushiram,12109,IND,Ram Nath,4176,7933,28.59
+ae-punjab-1951,AE,Punjab,1951,1951,official,56,Una,GEN,,30690,INC,Mansa Ram,10986,CPI,Rurka Singh,6757,4229,13.78
+ae-punjab-1951,AE,Punjab,1951,1951,official,57,Anadpur,GEN,,34553,FBL(MG),Hari Chand,10896,INC,Mohan Lal,10085,811,2.35
+ae-punjab-1951,AE,Punjab,1951,1951,official,58,Balachar,GEN,,40839,INC,Baloo Ram,22786,IND,Kartar Singh,11161,11625,28.47
+ae-punjab-1951,AE,Punjab,1951,1951,official,59,Gharhshankar,GEN,,100545,INC,Harbhajan Singh,23092,IND,Kartar Singh,15834,7258,7.22
+ae-punjab-1951,AE,Punjab,1951,1951,official,60,Hoshiarpur,GEN,,89713,INC,Jagat Ram,23366,SAD,Guran Dass,13129,10237,11.41
+ae-punjab-1951,AE,Punjab,1951,1951,official,61,Nawanshehr,GEN,,96074,INC,Gurbachan Singh,20593,SAD,Dalip Singh,18408,2185,2.27
+ae-punjab-1951,AE,Punjab,1951,1951,official,62,Phillaur,GEN,,40473,INC,Niranjan Dass,11760,SCF,Ishar Ram,10088,1672,4.13
+ae-punjab-1951,AE,Punjab,1951,1951,official,63,Nurmahal,GEN,,37826,INC,Darbara Singh,12065,SCF,Ram Niranjan,8600,3465,9.16
+ae-punjab-1951,AE,Punjab,1951,1951,official,64,Nakodar,GEN,,85613,INC,Swaran Singh,28197,SAD,Sant Ram,17814,10383,12.13
+ae-punjab-1951,AE,Punjab,1951,1951,official,65,Adampur,GEN,,78373,INC,Mota Singh,20684,SAD,Gurbanta Singh,14970,5714,7.29
+ae-punjab-1951,AE,Punjab,1951,1951,official,66,Kartarpur,GEN,,31734,INC,Gurdial Singh,14543,SAD,Kartar Singh,13590,953,3.0
+ae-punjab-1951,AE,Punjab,1951,1951,official,67,Jullundur City North West,GEN,,26191,INC,Ram Kishan,16097,BJS,Prem Nath,5142,10955,41.83
+ae-punjab-1951,AE,Punjab,1951,1951,official,68,Jullundur City South East,GEN,,24635,INC,Sita Devi,11760,BJS,Dharam Vir,5405,6355,25.8
+ae-punjab-1951,AE,Punjab,1951,1951,official,69,Samrala,GEN,,87867,SAD,Ajmer Singh,24717,IND,Naurang Singh,14013,10704,12.18
+ae-punjab-1951,AE,Punjab,1951,1951,official,70,Ludhiana City North,GEN,,26116,INC,Jagdish Chander,13505,IND,Amar Nath,5714,7791,29.83
+ae-punjab-1951,AE,Punjab,1951,1951,official,71,Ludhiana City South,GEN,,27865,INC,Bhim Sen Sachar,14413,SAD,Sham Singh,7278,7135,25.61
+ae-punjab-1951,AE,Punjab,1951,1951,official,72,Jagraon,GEN,,84026,SAD,Iqbal Singh,31395,INC,Gopal Singh,15067,16328,19.43
+ae-punjab-1951,AE,Punjab,1951,1951,official,73,Ludhiana Sadar,GEN,,33614,IND,Shamsher Singh,15565,INC,Sant Singh,5299,10266,30.54
+ae-punjab-1951,AE,Punjab,1951,1951,official,74,Dehlon,GEN,,34459,SAD,Wazir Singh,12508,CPI,Jalwant Singh,8949,3559,10.33
+ae-punjab-1951,AE,Punjab,1951,1951,official,75,Mehna,GEN,,39522,CPI,Nidhan Singh,14126,INC,Gurcharan Singh,11326,2800,7.08
+ae-punjab-1951,AE,Punjab,1951,1951,official,76,Bagha Purana,GEN,,32311,LCP,Bachan Singh,9038,SAD,Mukand Singh,6867,2171,6.72
+ae-punjab-1951,AE,Punjab,1951,1951,official,77,Moga Dharmkot,GEN,,67717,SAD,Davinder Singh,19429,INC,Rattan Singh,18492,937,1.38
+ae-punjab-1951,AE,Punjab,1951,1951,official,78,Khuian Sarwar,GEN,,28532,INC,Teg Ram,14084,IND,Bachitar Singh,4806,9278,32.52
+ae-punjab-1951,AE,Punjab,1951,1951,official,79,Abohar,GEN,,27624,INC,Chandi Ram,11686,BJS,Kundan Lal,7891,3795,13.74
+ae-punjab-1951,AE,Punjab,1951,1951,official,80,Mallanwala,GEN,,26139,IND,Partap Singh,7296,INC,Jwala Singh,6908,388,1.48
+ae-punjab-1951,AE,Punjab,1951,1951,official,81,Ferozepore,GEN,,21834,INC,Harnam Singh,12607,IND,Pritam Singh,3589,9018,41.3
+ae-punjab-1951,AE,Punjab,1951,1951,official,82,Guru Har Sahai,GEN,,26960,IND,Partap Singh,10275,INC,Har Kishan Lal,9695,580,2.15
+ae-punjab-1951,AE,Punjab,1951,1951,official,83,Muktsar,GEN,,30339,SAD,Bhag Singh,8069,IND,Narinder Singh,7453,616,2.03
+ae-punjab-1951,AE,Punjab,1951,1951,official,84,Kot Bhai,GEN,,101066,SAD,Puran Singh,24992,IND,Bhag Singh,15273,9719,9.62
+ae-punjab-1951,AE,Punjab,1951,1951,official,85,Fazilka,GEN,,28999,IND,Wadhawa Ram,10991,INC,Sunam Rai,9806,1185,4.09
+ae-punjab-1951,AE,Punjab,1951,1951,official,86,Ajnala,GEN,,31809,CPI,Achhar Singh,10458,SAD,Harinder Singh,10354,104,0.33
+ae-punjab-1951,AE,Punjab,1951,1951,official,87,Ramdas,GEN,,30962,INC,Parkash Kaur,11637,IND,Parkash Singh,7774,3863,12.48
+ae-punjab-1951,AE,Punjab,1951,1951,official,88,Amritsar,GEN,,81200,INC,Waryam Singh,23872,SAD,Khem Singh,17352,6520,8.03
+ae-punjab-1951,AE,Punjab,1951,1951,official,89,Amritsar City North,GEN,,19430,INC,Satya Pal,11129,IND,Joginder Singh,4043,7086,36.47
+ae-punjab-1951,AE,Punjab,1951,1951,official,90,Amritsar City East,GEN,,21726,SAD,Sarup Singh,8716,INC,Rajinder Singh,8148,568,2.61
+ae-punjab-1951,AE,Punjab,1951,1951,official,91,Amritsar City Central,GEN,,27088,INC,Amir Chand Gupta,12684,RRP,Baldev Parkash,8104,4580,16.91
+ae-punjab-1951,AE,Punjab,1951,1951,official,92,Amritsar City West,GEN,,22955,INC,Shanoo Devi,12496,BJS,Parkash Chand,4076,8420,36.68
+ae-punjab-1951,AE,Punjab,1951,1951,official,93,Jhabal,GEN,,31428,INC,Gurdial Singh,14750,CPI,Sohan Singh,12914,1836,5.84
+ae-punjab-1951,AE,Punjab,1951,1951,official,94,Khalra,GEN,,28521,INC,Balwant Singh,7271,IND,Deva Singh,5697,1574,5.52
+ae-punjab-1951,AE,Punjab,1951,1951,official,95,Patti,GEN,,31865,INC,Partap Singh,14847,SAD,Umarao Singh,13548,1299,4.08
+ae-punjab-1951,AE,Punjab,1951,1951,official,96,Tarn Tarn,GEN,,113973,INC,Mohan Singh,22060,SAD,Mohan Singh,17658,4402,3.86
+ae-punjab-1951,AE,Punjab,1951,1951,official,97,Beas,GEN,,33249,INC,Sohan Singh,16732,SAD,Avtar Singh,13877,2855,8.59
+ae-punjab-1951,AE,Punjab,1951,1951,official,98,Dera Baba Nanak,GEN,,19742,INC,Joginder Singh,9291,SAD,Gurbakhsh Singh,7570,1721,8.72
+ae-punjab-1951,AE,Punjab,1951,1951,official,99,Serah,GEN,,32701,INC,Waryam Singh,16384,SAD,Narinder Singh,16317,67,0.2
+ae-punjab-1951,AE,Punjab,1951,1951,official,100,Batala,GEN,,28454,INC,Gurbachan Singh,13790,IND,Rewail Singh,6488,7302,25.66
+ae-punjab-1951,AE,Punjab,1951,1951,official,101,Sri Gobind Pur,GEN,,27189,INC,Uttam Singh,9587,SAD,Harcharan Singh,7981,1606,5.91
+ae-punjab-1951,AE,Punjab,1951,1951,official,102,Rania,GEN,,28080,INC,Shiv Singh,12411,SAD,Surat Singh,9987,2424,8.63
+ae-punjab-1951,AE,Punjab,1951,1951,official,103,Gurdas Pur,GEN,,62537,INC,Parbodh Chandra,28628,SAD,Sunder Singh,15533,13095,20.94
+ae-punjab-1951,AE,Punjab,1951,1951,official,104,Narot Jaimal Singh,GEN,,33848,INC,Gorakh Nath,12082,IND,Ram Singh,11506,576,1.7
+ae-punjab-1951,AE,Punjab,1951,1951,official,105,Pathankot,GEN,,29820,IND,Kesho Dass,18866,BJS,Maharaj Kishan,5772,13094,43.91

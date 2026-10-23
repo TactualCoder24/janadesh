@@ -1,0 +1,404 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,1,Seohara,GEN,,152026,BSP,Yash Pal Singh,47751,SP,Qutubddin,32873,14878,9.79
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,2,Dhampur,GEN,,161052,BSP,Ashok Kumar Rana,65717,SP,Thakur Mool Chand,45191,20526,12.74
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,3,Afzalgarh,GEN,,168674,BSP,Muhammad Gazi,59496,BJP,Dr. Indra Dev Singh,51066,8430,5.0
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,4,Nagina,SC,,141656,BSP,Omwati Devi,46551,SP,Manoj Kumar Paras,36764,9787,6.91
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,5,Nazibabad,SC,,127922,BSP,Sheesh Ram,49848,CPI(M),Raj Kumar,41860,7988,6.24
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,6,Bijnor,GEN,,165691,BSP,Shahnawaz S/O,61588,BJP,Kuvar Bharatendra,61031,557,0.34
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,7,Chandpur,GEN,,163767,BSP,Iqbal,58808,BJP,Ram Avtar Singh,28797,30011,18.33
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,8,Kanth,GEN,,133943,BSP,Rizwan Ahmad Khan,37945,RLD,Abhinay Chaudhary,21817,16128,12.04
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,9,Amroha,GEN,,134582,SP,Mehboob Ali,42115,BJP,Mangal Singh,41437,678,0.5
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,10,Hasanpur,GEN,,161635,BSP,Ferhat Hasan,50138,IND,Devendra Nagpal,46631,3507,2.17
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,11,Gangeshwari,SC,,127949,BJP,Harpal Singh,43142,SP,Jagram Singh,35399,7743,6.05
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,12,Sambhal,GEN,,137822,SP,Iqbal Mehmood,46096,BJP,Rajesh Singhal,34436,11660,8.46
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,13,Bahjoi,GEN,,128705,BSP,Aqeel-Ur-Rahman Khan,41040,BJP,Bharat Singh Yadav,40131,909,0.71
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,14,Chandausi,SC,,111451,BSP,Girish Chandra,40335,SP,Satish Premi,33053,7282,6.53
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,15,Kunderki,GEN,,149512,BSP,Akbar Husain,50626,SP,Hazi Mohammad Rizwan,41356,9270,6.2
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,16,Moradabad West,GEN,,146394,BJP,Rajeev Channa,39705,BSP,Mohd. Aqil,34116,5589,3.82
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,17,Moradabad,GEN,,81610,SP,Sandeep Agrawal,49547,BJP,Vikas Jain,20368,29179,35.75
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,18,Moradabad Rural,GEN,,169134,SP,Usmanul Haq,49194,BJP,Ramveer Singh,46034,3160,1.87
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,19,Thakurdwara,GEN,,168520,BSP,Vijay Kumar Urf Vijay,62394,BJP,Kuwar Sarvesh Kumar,53284,9110,5.41
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,20,Suar Tanda,GEN,,162469,SP,Nawab Kazim Ali Khan,61227,BJP,Shiv Bahadur Saxena,46621,14606,8.99
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,21,Rampur,GEN,,95592,SP,Mohd. Azam Khan,53091,INC,Afroz Ali Khan,19719,33372,34.91
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,22,Bilaspur,GEN,,168148,INC,Sanjay Kapoor,35040,BJP,Jwala Prasad,34318,722,0.43
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,23,Shahabad,SC,,125627,BJP,Kashi Ram,35793,SP,Radhey Shayam,30852,4941,3.93
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,24,Bisauli,GEN,,132149,RPD,Umlesh Yadav,51116,SP,Yogendra Kumar Kunnu,37808,13308,10.07
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,25,Gunnaur,GEN,,90311,SP,Mulayam Singh Yadav,54696,BSP,Arif Ali,23049,31647,35.04
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,26,Sahaswan,GEN,,114721,RPD,Dhram Pal Yadav Dp,33883,SP,Omkar Singh,33774,109,0.1
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,27,Bilsi,SC,,109077,BSP,Yogendra Sagar Urf,44876,SP,Ashutosh Maurya Urf,39073,5803,5.32
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,28,Budaun,GEN,,114534,BJP,Mahesh Chandra,36403,SP,Vimal Krishan Agrawal,29205,7198,6.28
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,29,Usehat,GEN,,133002,BSP,Muslim Khan,46739,JDU,Bhagwan Singh Shakya,41297,5442,4.09
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,30,Binawar,GEN,,125330,BJSH,Ram Sevak Singh,34856,BSP,Umesh Singh Rathore,33508,1348,1.08
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,31,Dataganj,GEN,,111867,BSP,Sinod Kumar Shakya,36612,INC,Dr Shailesh Pathak Urf,23680,12932,11.56
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,32,Aonla,GEN,,130976,BSP,Radha Krishna,40129,SP,Bulaki Ram,30750,9379,7.16
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,33,Sunha,GEN,,120717,SP,Dharmendra Kumar,29707,BSP,Dr.Maiku Lal Maurya,26575,3132,2.59
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,34,Faridpur,SC,,111153,BSP,Vijay Pal Singh,39371,SP,Dr.Siaram Sagar,30890,8481,7.63
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,35,Bareilly Cantt,GEN,,124269,BSP,Virendra Singh,31353,INC,Praveen Singh Aron,25592,5761,4.64
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,36,Bareilly City,GEN,,85317,BJP,Rajesh Agarwal,26893,INC,Dr.Anil Sharma,16464,10429,12.22
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,37,Nawabganj,GEN,,146528,SP,Bhagwat Saran,40654,BSP,Kesar Singh,36506,4148,2.83
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,38,Bhojipura,GEN,,143484,BSP,Shazil Islam Ansari,39339,BJP,Bahoran Lal Maurya,38209,1130,0.79
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,39,Kawar,GEN,,148675,SP,Sultan Beg,54245,BSP,Dr.D.C.Verma,42719,11526,7.75
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,40,Baheri,GEN,,169843,BJP,Chhatra Pal Singh,53194,BSP,Anjum Rasheed,44932,8262,4.86
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,41,Pilibhit,GEN,,135125,SP,Riaz Ahmad,50947,BJP,B.K.Gupta,46912,4035,2.99
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,42,Barkhera,SC,,127057,BJP,Sukh Lal,55220,SP,Peetam Ram,41831,13389,10.54
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,43,Bisalpur,GEN,,142800,BSP,Anis Ahmad Khan Urf,45689,BJP,Ram Saran Verma,40753,4936,3.46
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,44,Puranpur,GEN,,170056,BSP,Arshad Khan,48193,INC,V.M.Singh,41926,6267,3.69
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,45,Powayan,SC,,151906,SP,Mithlesh,48552,BSP,Ram Saran Sagar,37825,10727,7.06
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,46,Nigohi,GEN,,122735,BSP,Roshan Lal,58821,SP,Kovid Kumar,36021,22800,18.58
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,47,Tilhar,GEN,,123263,SP,Rajesh Yadav,43708,BSP,Rajeev Kashyap,30286,13422,10.89
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,48,Jalalabad,GEN,,134019,BSP,Neeraj Kushwaha,40397,SP,Ram Murti Singh Verma,36738,3659,2.73
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,49,Dadraul,GEN,,121739,BSP,Avadhesh Kumar Verma,43425,SP,Anwar Ali Urf Zakeeurr,37599,5826,4.79
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,50,Shahjahanpur,GEN,,123535,BJP,Suresh Kumar Khanna,51463,BSP,Faizan Ali Khan,41273,10190,8.25
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,51,Mohamdi,SC,,140419,BJP,Krishna Raj,53391,SP,Banshidhar Raj,45471,7920,5.64
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,52,Haiderabad,GEN,,130740,SP,Arvind Giri,53781,BSP,Rajeshwari Devi A/S,45375,8406,6.43
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,53,Paila,SC,,109662,BSP,Rajesh Kumar,39291,SP,Dataram,30890,8401,7.66
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,54,Lakhimpur,GEN,,124800,SP,Dr. Kaushal Kishore,47996,BSP,Gayan Prakesh Bajpai,46752,1244,1.0
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,55,Sri Nagar,GEN,,118534,SP,R.A.Usmani,34982,BSP,Mayawati,29207,5775,4.87
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,56,Nighasan,GEN,,178848,SP,Krishna Gopal Patel,52867,BJP,Ajay Kumar Teni,50067,2800,1.57
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,57,Dhaurehra,GEN,,146620,BSP,Awasthi Bala Prashad,80690,SP,Yashpal Chaudhari,51486,29204,19.92
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,58,Behta,GEN,,144512,SP,Mahendra Kumar Singh,48414,BSP,Chandra Kumar Bapu,45136,3278,2.27
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,59,Biswan,GEN,,147043,BSP,Nirmal Verma,52658,SP,Ram Pal Yadav,44430,8228,5.6
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,60,Mahmoodabad,GEN,,162415,SP,Narendra Singh,81799,BSP,Meesam Rizvi,67988,13811,8.5
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,61,Sidhauli,SC,,130836,BSP,Dr. Hargovind,63568,SP,Syam Lal Rawat,51574,11994,9.17
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,62,Laharpur,GEN,,137346,BSP,Mohd. Jasmir Ansari,57179,SP,Anil Kumar Verma,44314,12865,9.37
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,63,Sitapur,GEN,,119132,SP,Radhey Shyam Jaiswal,43716,BSP,Rakesh Kumar,41849,1867,1.57
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,64,Hargaon,SC,,118084,BSP,Ramhet Bharti,43787,SP,Ramesh Rahi,37209,6578,5.57
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,65,Misrikh,GEN,,130326,SP,Anoop Kumar,62256,BSP,Gaya Prasad,59115,3141,2.41
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,66,Machhretha,SC,,106936,SP,Ram Pal Rajvanshi,42803,BSP,Vijay Kumar,33165,9638,9.01
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,67,Beniganj,SC,,85985,BSP,Ram Pal Verma,33769,BJP,Ramesh S/O Shri Chhote,23089,10680,12.42
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,68,Sandila,GEN,,121808,BSP,Abdul Mannan,56115,SP,Smt Ishrat Rasool,53060,3055,2.51
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,69,Ahirori,SC,,91807,BSP,Virendra Kumar,45276,SP,Prabhash Kumar,37489,7787,8.48
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,70,Hardoi,GEN,,121118,SP,Naresh Chandra,67317,BSP,Ram Kumar Kuril,44068,23249,19.2
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,71,Bawan,SC,,102478,BSP,Rajeswari,51633,SP,Shyam Prakash,30010,21623,21.1
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,72,Pihani,GEN,,117913,BSP,Daud Ahmad,51184,SP,Ashok Bajpayee,48591,2593,2.2
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,73,Shahabad,GEN,,121496,BSP,Ashif,41727,SP,Babu Khan,37721,4006,3.3
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,74,Bilgram,GEN,,141845,BSP,Uprenda Tiwari,61703,SP,Vishram Singh Yadav,49234,12469,8.79
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,75,Mallawan,GEN,,131292,BSP,Krishna Kumar Singh,47566,SP,Dharmagya Mishra,39448,8118,6.18
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,76,Bangarmau,GEN,,133225,SP,Kuldeep Singh Sengar,38384,BSP,Ram Shankar Pal,36251,2133,1.6
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,77,Safipur,SC,,108467,SP,Sudhir Kumar,38196,BSP,Manish Kumar,30810,7386,6.81
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,78,Unnao,GEN,,120485,SP,Deepak Kumar,42210,INC,Shiv Pal Singh,31098,11112,9.22
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,79,Hadha,GEN,,123505,SP,Sundar Lal Lodhi,37928,BSP,Ashutosh Shukla,36003,1925,1.56
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,80,Bhagwant Nagar,GEN,,126321,BSP,Kripa Shankar Singh,46343,SP,Nattho Singh,29016,17327,13.72
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,81,Purwa,GEN,,142987,SP,Uday Raj,48570,BJP,Hirday Narayan Dixit,44323,4247,2.97
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,82,Hasanganj,SC,,115344,BSP,Radhelal,51541,BJP,Mastram,33014,18527,16.06
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,83,Malihabad,SC,,139441,SP,Gauri Shankar,44481,BSP,Mewa Lal,42252,2229,1.6
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,84,Mahona,GEN,,207016,BSP,Nakul Dubey,54604,BJP,Gomti Yadav,52427,2177,1.05
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,85,Lucknow East,GEN,,67264,BJP,Vidya Sagar Gupta,18892,SP,Fakhir Siddiqui,18261,631,0.94
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,86,Lucknow West,GEN,,112672,BJP,Lal Ji Tandon,43290,SP,Bukqal Nawab,29468,13822,12.27
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,87,Lucknow Central,GEN,,88721,BJP,Suresh Kumar,30872,SP,Ravi Das Mehrotra,26962,3910,4.41
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,88,Lucknow Cantt,GEN,,98951,BJP,Suresh Chandra Tiwari,30444,BSP,Arivind Kumar Tripathi,25068,5376,5.43
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,89,Sarojini Nagar,GEN,,177723,BSP,Mohd.Irshad Khan,65736,SP,Shyam Kishore Yadav,60312,5424,3.05
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,90,Mohanlalganj,SC,,106470,RSBP,R.K.Chaudhary,31387,BSP,Purnima Verma,24945,6442,6.05
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,91,Bachhrawan,SC,,120866,INC,Raja Ram,40117,SP,Ram Lal Akela,28536,11581,9.58
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,92,Tiloi,GEN,,140582,SP,Mayankeshwar Sharan,44513,INC,Dr. Mohammad Muslim,44056,457,0.33
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,93,Rae Bareli,GEN,,147607,IND,Akhilesh Kumar Singh,76603,INC,Rudra Pratap Singh,29892,46711,31.65
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,94,Sataon,GEN,,122672,INC,Shiv Ganesh,60268,SP,Ram Naresh Yadav,25133,35135,28.64
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,95,Sareni,GEN,,123909,INC,Ashok Kumar Singh,53938,BSP,Uma Shanker,30609,23329,18.83
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,96,Dalmau,GEN,,141613,INC,Ajay Pal Singh,51517,SP,Gajadhar Singh,39083,12434,8.78
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,97,Salon,SC,,121370,INC,Shiv Balak Pasi,45078,SP,Asha Kishor,31969,13109,10.8
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,98,Kunda,GEN,,113499,IND,Raghuraj Pratap Singh,73732,BSP,Shiv Prakash Mishra,20604,53128,46.81
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,99,Bihar,SC,,89015,IND,Vinod Kumar,42034,BSP,Krishna Chandra,32874,9160,10.29
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,100,Rampurkhas,GEN,,115018,INC,Pramod Kumar,55221,SP,Kunwar Viggyat Singh,24227,30994,26.95
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,101,Gadwara,GEN,,110461,BSP,Brijesh Saurabh,47209,SP,Raja Ram,27960,19249,17.43
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,102,Pratapgarh,GEN,,114867,BSP,Sanjay,35308,SP,Haji Abdul Salam,26352,8956,7.8
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,103,Birapur,GEN,,127076,BSP,Ram Siromani Shukla,43200,BJP,Shiva Kant Ojha,38693,4507,3.55
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,104,Patti,GEN,,143181,BJP,Rajendra Pratap Singh,42579,SP,Bal Kumar Alias Raj,42125,454,0.32
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,105,Amethi,GEN,,118519,INC,Amita Singh,48108,BSP,Ashish,35684,12424,10.48
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,106,Gauriganj,GEN,,115651,BSP,Chandra Prakash,34386,INC,Mohd. Naim,28398,5988,5.18
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,107,Jagdishpur,SC,,91918,INC,Ram Sewak,34563,BSP,Shri Ram,21356,13207,14.37
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,108,Issauli,GEN,,122759,SP,Chandra Bhadra Singh,53911,BSP,Krishna Kumar Urf,49473,4438,3.62
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,109,Sultanpur,GEN,,126758,SP,Anoop Sanda,29504,BJP,Om Prakash Pandey,24753,4751,3.75
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,110,Jaisinghpur,GEN,,115389,BSP,Om Prakash (O.P.Singh),37013,INC,Jainarayan Tiwari,19903,17110,14.83
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,111,Chanda,GEN,,124918,BSP,Vinod Kumar,40537,SP,Manoj Kumar Pandey,24773,15764,12.62
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,112,Kadipur,SC,,121408,BSP,Bhagelu Ram,35312,SP,Ram Chandra,33933,1379,1.14
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,113,Katehari,GEN,,146661,BSP,Dharm Raj Nishad,47689,SP,Jai Shanker Pandey,47449,240,0.16
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,114,Akbarpur,GEN,,161394,BSP,Ram Achal Rajbhar,55875,SP,Rammurti Verma,44035,11840,7.34
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,115,Jalalpur,GEN,,159855,BSP,Sher Bahadur,65734,SP,Rakesh Pandey,61434,4300,2.69
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,116,Jahangirganj,SC,,143552,BSP,Tribhuwan Dutt,56905,SP,Ghanshyam Chandra,48954,7951,5.54
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,117,Tanda,GEN,,163570,BSP,Lal Ji Verma,65365,SP,Azimul Huqe Pahalwan,62910,2455,1.5
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,118,Ayodhya,GEN,,158075,BJP,Lallu Singh,58493,SP,Indra Pratap Tiwari Urf,52752,5741,3.63
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,119,Bikapur,GEN,,159064,BSP,Jitendra Kumar Bablu,52424,SP,Sita Ram Nishad,42201,10223,6.43
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,120,Milkipur,GEN,,147891,BSP,Anand Sen,60515,SP,Ram Chandra Yadav,51136,9379,6.34
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,121,Sohawal,SC,,146976,SP,Awadhesh Prasad,48624,BSP,Ramu Priyadarshi,38753,9871,6.72
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,122,Rudauli,GEN,,125807,SP,Abbas Ali Zaidi Alias,45388,BSP,Ashok Kumar Singh,41715,3673,2.92
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,123,Dariyabad,GEN,,129426,SP,Rajeev Kumar Singh,56608,BSP,Vivekanand,42840,13768,10.64
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,124,Siddhaur,SC,,122013,BSP,Dharmi Rawat,45415,SP,Ram Magan,35194,10221,8.38
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,125,Haidergarh,GEN,,118854,SP,Arvind Kumar Singh,36933,BJP,Sunder Lal Dixit,32763,4170,3.51
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,126,Masauli,GEN,,139611,BSP,Fareed Mahfooz Kidwai,50671,IJP,Rakesh Kumar Verma,45307,5364,3.84
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,127,Nawabganj,GEN,,140786,BSP,Sangram Singh,49030,SP,Chhotey Lal Yadav,38365,10665,7.58
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,128,Fatehpur,SC,,125862,BSP,Km. Meeta Gautam,33698,SP,Kusum Lata Singh,29227,4471,3.55
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,129,Ramnagar,GEN,,121985,BSP,Amresh Kumar,30363,SP,Kunvar Ramveer Singh,27807,2556,2.1
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,130,Kaiserganj,GEN,,113804,BSP,Gulam Mohammad Khan,38911,SP,Ramtej Yadav,20889,18022,15.84
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,131,Fakharpur,GEN,,122398,BSP,Krishana Kumar,38983,SP,Arun Veer Singh,38547,436,0.36
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,132,Mahsi,GEN,,137535,BJP,Sureshwar Singh,50286,BSP,Ali Akbar,49845,441,0.32
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,133,Nanpara,GEN,,151054,BSP,Waris Ali,54965,BJP,Jata Shanker Singh,34439,20526,13.59
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,134,Charda,SC,,104305,SP,Shabbir Ahmad,33541,BJP,Savitri Phoole,31859,1682,1.61
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,135,Bhinga,GEN,,98817,BSP,Daddan,28707,INC,Mohammad Aslam,28616,91,0.09
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,136,Bahraich,GEN,,135005,SP,Dr. Viqar Ahmed Shah,45984,BSP,Vinod Tripathi,43540,2444,1.81
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,137,Ikauna,SC,,106048,BSP,Ram Sagar Akela,39427,BJP,Akshaibar Lal,32185,7242,6.83
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,138,Gainsari,GEN,,126953,BSP,Alauddin,44893,SP,Dr Shiv Pratap Yadava,38456,6437,5.07
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,139,Tulsipur,GEN,,119081,BJP,Kaushlendra Nath Yogi,39250,SP,Abdul Mashood Khan,32751,6499,5.46
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,140,Balrampur,GEN,,103078,BSP,Dhirendra Pratap Singh,25180,INC,Vinay Kumar Pandey,23269,1911,1.85
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,141,Utraula,GEN,,111337,BJP,Shyamlal,37000,SP,Anwar Mahmood Khan,32195,4805,4.32
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,142,Sadulla Nagar,GEN,,113444,SP,Arif Anwar Hasmi,40850,BJP,Ram Pratap Singh,28749,12101,10.67
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,143,Mankapur,SC,,108559,SP,Ram Bishun Azad,43256,BSP,Paltu Ram,38634,4622,4.26
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,144,Mujehna,GEN,,120037,SP,Nandita Shukla,46600,BSP,Ram Pal Singh,37684,8916,7.43
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,145,Gonda,GEN,,116411,BSP,Moh. Jalil Khan,39600,SP,Vinod Kumar Urf,36958,2642,2.27
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,146,Katra Bazar,GEN,,124649,SP,Baij Nath Dubey,46776,BJP,Bavan Singh,42297,4479,3.59
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,147,Colonelganj,GEN,,122519,INC,Ajay Pratap Singh Alis,55403,SP,Yogesh Pratap Singh,32608,22795,18.61
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,148,Dixir,SC,,96271,BSP,Ramesh Chandra,41618,BJP,Ramapati Shastri,38260,3358,3.49
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,149,Harraiya,GEN,,141096,SP,Raj Kishore Singh,46411,BSP,Anil Singh,41266,5145,3.65
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,150,Captainganj,GEN,,146010,BSP,Ram Prasad Chaudhary,47372,IND,Krishna Kinker Singh,28852,18520,12.68
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,151,Nagar East,SC,,114652,BSP,Doodhram,43419,SP,Ram Karan Arya,32413,11006,9.6
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,152,Basti,GEN,,132263,BSP,Jeetendra Kumar,37258,INC,Jagdambika Pal,27478,9780,7.39
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,153,Ramnagar,GEN,,123654,BSP,Rajendra Prasad,41580,INC,Sanjay Jaiswal,35979,5601,4.53
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,154,Domariaganj,GEN,,125250,BSP,Taufique Ahmad,32626,SP,Kamal Yusuf Malik,31653,973,0.78
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,155,Itwa,GEN,,126761,SP,Mata Prasad Pandey,42950,BSP,Javed,40622,2328,1.84
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,156,Shohratgarh,GEN,,138480,INC,Chaudhari Ravind,33716,BSP,Mumtaz Ahmad,31524,2192,1.58
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,157,Naugarh,GEN,,133110,INC,Ishwar Chandra Shukla,30417,BJP,Dhanraj Yadav,24071,6346,4.77
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,158,Bansi,GEN,,118292,SP,Lal Ji Yadav,38648,BJP,Jai Pratap Singh,36134,2514,2.13
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,159,Khesraha,GEN,,136163,BSP,Mohammad Tabis Khan,47522,SP,Diwakar Vikram Singh,40588,6934,5.09
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,160,Mendhwal,GEN,,121347,SP,Abdul Kalam,35947,BSP,Mashhoor Alam,29374,6573,5.42
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,161,Khalilabad,SC,,105204,BSP,Bhagwandas,41497,SP,Algoo Prasad Chauhan,31841,9656,9.18
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,162,Hainsarbazar,SC,,111116,SP,Dasharath Prasad,39165,BSP,Ram Sidhare,38079,1086,0.98
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,163,Bansgaon,SC,,120228,BSP,Sadal Prasad,41586,BJP,Sant Prasad,39302,2284,1.9
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,164,Dhuriapur,GEN,,128025,SP,Rajendra Singh Urf,36514,BSP,Lal Amin Khan Urf Lal,35955,559,0.44
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,165,Chillupar,GEN,,126011,BSP,Rajesh Tripathi,54107,ABLTC,Harishankar Tiwari,47174,6933,5.5
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,166,Kauri Ram,GEN,,141533,BSP,Ambika,56072,SP,Ram Bhuwal,42148,13924,9.84
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,167,Mundera Bazar,SC,,119104,INC,Madho Prasad,38552,BSP,Harilal,29823,8729,7.33
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,168,Pipraich,GEN,,134910,BSP,Jamuna Nisad,41584,IND,Jitendra Kumar Jaiswal,32258,9326,6.91
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,169,Gorakhpur,GEN,,90785,BJP,Dr. Radha Mohan Das,49715,SP,Bhanu Prakash Mishra,27323,22392,24.66
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,170,Maniram,GEN,,148378,BJP,Vijay Bahadur Yadav,47657,SP,Kamlesh Paswan,44409,3248,2.19
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,171,Sahjanwa,GEN,,135044,IND,Yashpal Singh Ravat,43751,BSP,Dev Narain Alias G.M,40694,3057,2.26
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,172,Paniara,GEN,,135952,BSP,Fateh Bahadur,52007,SP,Badri Prasad,48117,3890,2.86
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,173,Pharenda,GEN,,139376,BJP,Bajrang Bahadur Singh,40327,BSP,Virendra Chaudhary,31413,8914,6.4
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,174,Lakshmipur,GEN,,156467,SP,Amar Mani,64377,RJD,Kaushal Kishore,45244,19133,12.23
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,175,Siswa,GEN,,152403,BJP,Avnindra Nath Dwedi,51206,SP,Shivendra Singh Allies,43835,7371,4.84
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,176,Maharajganj,SC,,143532,SP,Sripati,38529,BSP,Nirmesh Mangal,37640,889,0.62
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,177,Shyam Deurwa,GEN,,142636,SP,Janaradan Prasad Ojha,48351,BJP,Gyanendra,37503,10848,7.61
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,178,Naurangia,SC,,138494,BJP,Shambhu Chaudhary,38308,SP,Purnamasi Dehati,35118,3190,2.3
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,179,Ramkola,GEN,,139966,BJP,Jaswant Singh Alias,45097,SP,Radheshyam Singh,40810,4287,3.06
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,180,Hata,SC,,122570,BJP,Ramapati Alias,36617,SP,Kailash Chand,29172,7445,6.07
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,181,Padrauna,GEN,,146660,INC,Kuwar Ratanjit Pratap,29913,BSP,Adya Shukla,24494,5419,3.69
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,182,Seorahi,GEN,,151692,SP,Dr. P.K. Rai,49498,BJP,Nand Kishor Mishra,41838,7660,5.05
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,183,Fazilnagar,GEN,,139912,SP,Vishva Nath,52301,BSP,Jagadish,28914,23387,16.72
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,184,Kasia,GEN,,152176,SP,Brahma Shankar,52831,BJP,Surya Pratap,50264,2567,1.69
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,185,Gauri Bazar,GEN,,146757,BSP,Pramod Singh,53071,SP,Shaqir Ali,40014,13057,8.9
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,186,Rudrapur,GEN,,118174,BSP,Suresh,27566,BJP,Jai Prakash Nishad,21530,6036,5.11
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,187,Deoria,GEN,,141116,SP,Deenanath Kushwaha,25568,BSP,Kamlesh,22776,2792,1.98
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,188,Bhatpar Rani,GEN,,136437,SP,Kameswar Upadhyay,47908,BSP,Sabhakunwar,44292,3616,2.65
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,189,Salempur,GEN,,122156,SP,Choudhari Fasiha,34844,BSP,Margub Ahmad,25049,9795,8.02
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,190,Barhaj,GEN,,121788,BSP,Ram Prasad Jaisawal,44347,SP,Swaminath,26485,17862,14.67
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,191,Natthupur,GEN,,118737,BSP,Umesh Panday,40066,SP,Amresh Chand Panday,34040,6026,5.08
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,192,Ghosi,GEN,,125509,BSP,Phagoo,39849,SP,Kapil Deo,32031,7818,6.23
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,193,Sagri,GEN,,139888,SP,Sarvesh Kumar Singh,47422,BSP,Malik Masood,40287,7135,5.1
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,194,Gopalpur,GEN,,127184,BSP,Shyam Narayan,44729,SP,Waseem,43265,1464,1.15
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,195,Azamgarh,GEN,,119669,SP,Durga Prasad Yadav,52604,BSP,Ramakant,42350,10254,8.57
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,196,Nizamabad,GEN,,132308,BSP,Angad Yadav,60072,SP,Alam Badi,46674,13398,10.13
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,197,Atraulia,GEN,,147400,BSP,Surendra Prasad,66413,SP,Balram Yadav,63217,3196,2.17
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,198,Phulpur,GEN,,134710,SP,Arun Kumar Yadav,47766,BSP,Imran,45268,2498,1.85
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,199,Saraimir,SC,,128674,SP,Bhola,48172,BSP,Heera Lal,47458,714,0.55
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,200,Mehnagar,SC,,128064,BSP,Vidya Chaudhary,40618,CPI(M),Ram Jag,31077,9541,7.45
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,201,Lalganj,GEN,,142310,BSP,Sukhdeo Rajbhar,54336,BJP,Narendra,32521,21815,15.33
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,202,Mubarakpur,GEN,,144194,BSP,Chandradeo,43069,SP,Ram Darshan,40593,2476,1.72
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,203,Mohammadabad Gohna,SC,,131742,BSP,Rajendra Kumar,42949,SP,Banwari,39387,3562,2.7
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,204,Mau,GEN,,150131,IND,Mukhtar Ansari,70226,BSP,Vijay Pratap,63208,7018,4.67
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,205,Rasra,SC,,105790,BSP,Ghoora Ram,27018,BJP,Anil Kumar,23709,3309,3.13
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,206,Siar,GEN,,114088,BSP,Kedarnath Verma,42256,SP,Sharda Nand Anchal,31960,10296,9.02
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,207,Chilkahar,GEN,,125690,SP,Sanatan,36454,BSP,Sangram,33328,3126,2.49
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,208,Sikanderpur,GEN,,120551,BSP,Shribhagwan,39773,SP,Jiyaudin Rizwi,31774,7999,6.64
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,209,Bansdih,GEN,,118677,BSP,Shiv Shanker,31488,SP,Ramgovind Chaudhary,31000,488,0.41
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,210,Doaba,GEN,,85238,BSP,Subhash,22549,BJP,Bharat,19546,3003,3.52
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,211,Balia,GEN,,107238,BSP,Manju,32084,SP,Narad,28916,3168,2.95
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,212,Kopachit,GEN,,123331,SP,Ambika Chaudhary,41405,BSP,Sudhir,35228,6177,5.01
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,213,Zahoorabad,GEN,,151408,BSP,Kalicharan,42654,SP,Sanand,25554,17100,11.29
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,214,Mohammadabad,GEN,,143104,SP,Sibagtulla Ansari,56361,BJP,Alka Rai,52975,3386,2.37
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,215,Dildarnagar,GEN,,126991,BSP,Pashupati,55150,SP,Omprakash,47968,7182,5.66
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,216,Zamania,GEN,,141823,BSP,Raj Kumar,42408,SP,Kailash S/O Luttu,41440,968,0.68
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,217,Ghazipur,GEN,,136121,SP,Saiyyada Shadab Fatima,41829,BSP,Umashankar Kushwaha,40698,1131,0.83
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,218,Jakhania,SC,,133284,BSP,Vijay Kumar,49885,SP,Gareeb,41074,8811,6.61
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,219,Sadat,SC,,135948,BSP,Amerika,46280,SP,Ramesh,38350,7930,5.83
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,220,Saidpur,GEN,,153092,BSP,Dinanath Pandey,52869,BJP,Dr. Mahendra Nath,40216,12653,8.26
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,221,Dhanapur,GEN,,147009,BSP,Sushil Kumar,72642,SP,Prabhu Narayan,55403,17239,11.73
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,222,Chandauli,SC,,127200,BSP,Sharda Prasad,44355,SP,Ujagir,35849,8506,6.69
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,223,Chakia,SC,,133810,BSP,Jitendra Kumar,48655,SP,Satya Prakash Sonker,45664,2991,2.24
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,224,Mughalsarai,GEN,,123004,SP,Ram Kishun,37467,BSP,Babban,35530,1937,1.57
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,225,Varanasi Cantonment,GEN,,121520,BJP,Dr. Jyotasana,31642,SP,Manoj Rai Pappu,26163,5479,4.51
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,226,Varanasi South,GEN,,71407,BJP,Shyam Deo Roy,33021,INC,Dr. Dayashankar Misra,19319,13702,19.19
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,227,Varanasi North,GEN,,88919,SP,Haji Abdul Samad Ansari,26544,BJP,Dr. Shivnath Yadav,24345,2199,2.47
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,228,Chiraigaon,GEN,,163930,BSP,Udai Lal Maurya,45251,SBSP,Radhakrishna Urf,37517,7734,4.72
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,229,Kolasla,GEN,,148332,BJP,Ajay Rai,41935,BSP,Dr. Awadhesh Kumar,36979,4956,3.34
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,230,Gangapur,GEN,,162943,SP,Surendra Singh Patel,49734,AD,Neel Ratan Patel (Nilu),39760,9974,6.12
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,231,Aurai,GEN,,158456,BSP,Rang Nath Mishra,53759,AD,Rita Singh,51028,2731,1.72
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,232,Gyanpur,GEN,,152106,SP,Vijay Kumar,61230,BSP,Dinesh Kumar,58652,2578,1.69
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,233,Bhadohi,SC,,123791,BSP,Archana Saroj,47555,SP,Deena Nath Bhashkar,41225,6330,5.11
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,234,Barsathi,GEN,,119574,BSP,Ravindra Nath Tripathi,40994,SP,Shachindra Nath,27196,13798,11.54
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,235,Mariahu,GEN,,123786,BSP,Dr. K.K. Sachan,32971,IND,Smt. Shradha Yadav,31261,1710,1.38
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,236,Kerakat,SC,,116926,BSP,Biraju Ram,42584,SP,Munni Devi,32346,10238,8.76
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,237,Beyalsi,GEN,,125311,BSP,Jagdish Narain,47514,SP,Subhash Chandra,32679,14835,11.84
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,238,Jaunpur,GEN,,118042,SP,Javed Ansari,37343,BSP,Tej Bahadur Maurya,30485,6858,5.81
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,239,Rari,GEN,,141421,JDU,Dhananjay Singh,44641,SP,Lal Bahadur Yadav,40526,4115,2.91
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,240,Shahganj,SC,,134712,SP,Jagdish Sonkar,41354,BSP,Rampher Gautam,40688,666,0.49
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,241,Khutahan,GEN,,138706,SP,Shailendra Yadav Lalai,45947,BSP,Dinesh Kumar Yadav,35647,10300,7.43
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,242,Garwara,GEN,,118270,BJP,Seema,43236,SP,Raj Narain Bind,30603,12633,10.68
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,243,Machhilishahr,GEN,,132503,BSP,Subhash Pandey,55181,SP,Jwala Prasad Yadav,45656,9525,7.19
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,244,Dudhi,SC,,160382,BSP,Chandra Mani Prasad,51720,SP,Shiv Shankar,47348,4372,2.73
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,245,Robertsganj,SC,,145612,BSP,Satya Narayan Jaisal,43750,SP,Munna,28882,14868,10.21
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,246,Rajgarh,GEN,,169172,BSP,Anil Kumar Maurya,51943,SP,Ravindra Bahadur,34656,17287,10.22
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,247,Chunar,GEN,,152717,BJP,Om Prakash Singh,45025,SP,Jagtamaba Singh Patel,41582,3443,2.25
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,248,Majhwa,GEN,,141580,BSP,Dr. Ramesh Chand Bind,45199,SP,Shiv Shankar Singh,40606,4593,3.24
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,249,Mirzapur,GEN,,119669,SP,Kailash Chaurasiya,38617,BSP,Ramchandra Maurya,29540,9077,7.59
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,250,Chhanvey,SC,,134613,BSP,Surybhan,43045,SP,Sriram Bharti,22290,20755,15.42
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,251,Meja,SC,,137700,BSP,Raj Bali Jaisal,54859,CPI(M),Ram Kripal,38647,16212,11.77
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,252,Karchana,GEN,,142859,BSP,Anand Kumar Alias,62118,SP,Ujjawal Raman Singh,61773,345,0.24
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,253,Bara,GEN,,154874,BJP,Udaibhan Karwaria,51592,BSP,Deepak Singh Patel,47358,4234,2.73
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,254,Jhusi,GEN,,131789,BSP,Praveen Patel,59931,SP,Vizma Yadav,42853,17078,12.96
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,255,Handia,GEN,,149807,BSP,Rakesh Dhar Tripathi,62151,SP,Mahesh Narayan Singh,60809,1342,0.9
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,256,Pratappur,GEN,,135731,SP,Jokhu Lal Yadav,41454,BSP,Sayeed Ahmad,34697,6757,4.98
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,257,Soraon,GEN,,130151,BSP,Mohd. Muztaba Siddiqi,38280,SP,Mohd. Ayub,32739,5541,4.26
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,258,Nawabganj,GEN,,117121,BSP,Guru Prasad Maurya,40531,SP,Shiv Prasad Mishra,31518,9013,7.7
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,259,Allahabad North,GEN,,86800,INC,Anugrah Narayan Singh,29938,BSP,Harsh Vardhan Bajpai,28151,1787,2.06
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,260,Allahabad South,GEN,,93704,BSP,Nand Gopal Gupta,34939,BJP,Keshri Nath Tripathi,20129,14810,15.81
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,261,Allahabad West,GEN,,119355,BSP,Pooja Pal,56198,SP,Khalid Azim Alias Asraf,45876,10322,8.65
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,262,Chail,SC,,97087,BSP,Daya Ram,36742,SP,Ram Chandra,21782,14960,15.41
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,263,Manjhanpur,SC,,121851,BSP,Indrajeet Saroj,57899,SP,Suresh Pasi,30536,27363,22.46
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,264,Sirathu,SC,,106857,BSP,Wachaspati,48997,SP,Matesh Chander Sonkar,26999,21998,20.59
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,265,Khaga,GEN,,156365,BJP,Ranavendra Pratap,45109,INC,Munna Lal Maurya,37214,7895,5.05
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,266,Kishanpur,SC,,104797,BSP,Murlidhar,38357,BJP,Krishna Paswan,33490,4867,4.64
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,267,Haswa,GEN,,111052,BSP,Ayodhya Prasad Pal,35987,SP,Daljeet Nishad,26599,9388,8.45
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,268,Fatehpur,GEN,,130358,BJP,Radheshyam Gupta,44237,BSP,Athar Siddiqui,30743,13494,10.35
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,269,Jahanabad,GEN,,124872,BSP,Aditya Pandey,36760,SP,Madan Gopal Verma,31452,5308,4.25
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,270,Bindki,GEN,,116807,BSP,Sukhdev Prasad Verma,42059,BJP,Rajendra Singh Patel,31405,10654,9.12
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,271,Arya Nagar,GEN,,69326,SP,Irfan Solanki,36376,BJP,Harish Matreja,13173,23203,33.47
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,272,Sisamau,SC,,76279,INC,Sanjeev Dariyabadi,25775,BJP,Rakesh Sonkar,24411,1364,1.79
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,273,Generalganj,GEN,,73637,BJP,Salil Vishnoi,29461,SP,Surendra Mohan,26977,2484,3.37
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,274,Kanpur Cantonment,GEN,,101394,BJP,Satish Mahana,47381,SP,Mehtab Alam,20845,26536,26.17
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,275,Govind Nagar,GEN,,242228,INC,Ajay Kapoor,110478,BJP,Hanuman Mishra,70018,40460,16.7
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,276,Kalyanpur,GEN,,143707,BJP,Premlata Katiyar,42349,BSP,Nirmal Tewari,41675,674,0.47
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,277,Sarsaul,GEN,,148269,SP,Aruna Tomar,57046,BSP,Anant Mishra,56704,342,0.23
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,278,Ghatampur,GEN,,139037,BSP,Ramprakash Kushwaha,65793,SP,Rakesh Sachan,63316,2477,1.78
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,279,Bhognipur,SC,,113428,BSP,Raghu Nath Prasad,36829,SP,Arun Kumari,33733,3096,2.73
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,280,Rajpur,GEN,,116268,BSP,Mithlesh Kumari,45251,SP,Sanshank Shekhar,25418,19833,17.06
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,281,Sarvankhera,GEN,,129398,SP,Ram Swaroop Singh,46145,BSP,Mathura Prasad Pal,43001,3144,2.43
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,282,Chaubepur,GEN,,121432,BSP,Pratibha Shukla,41703,SP,Amitabh Bajpai,31435,10268,8.46
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,283,Bilhaur,SC,,126459,BSP,Kamlesh Chandra,52729,SP,Shiv Kumar Beria,48770,3959,3.13
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,284,Derapur,GEN,,127264,BSP,Mahesh Chandra,43656,BJP,Devendra Singh Urf,40093,3563,2.8
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,285,Auraiya,GEN,,137975,BSP,Shekhar,53435,SP,Kamlesh Kumar,47177,6258,4.54
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,286,Ajitmal,SC,,109978,BSP,Ashok Kumar,45937,SP,Madan Singh Alias,36710,9227,8.39
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,287,Lakhana,SC,,118182,BSP,Bheem Rao Ambedkar,50725,SP,Sukh Devi Verma,43855,6870,5.81
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,288,Etawah,GEN,,120106,SP,Mahendra Singh Rajput,46372,BSP,Narendra Nath,33307,13065,10.88
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,289,Jaswant Nagar,GEN,,126645,SP,Shiv Pal Singh Yadav,73211,BSP,Baba Harnarayan,42404,30807,24.33
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,290,Bharthana,GEN,,130247,SP,Mulayam Singh Yadav,62799,BSP,Shiv Prasad Yadav,53328,9471,7.27
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,291,Bidhuna,GEN,,139664,SP,Dhani Ram,47846,BSP,Vinay Shakya,47550,296,0.21
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,292,Kannauj,SC,,137367,SP,Anil Kumar,49740,BSP,Kalyan Singh Dohre,41327,8413,6.12
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,293,Umarda,GEN,,124818,BSP,Kailash Singh Rajput,44416,SP,Vijay Bahadur Pal,41480,2936,2.35
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,294,Chhibramau,GEN,,138548,SP,Arvind Singh,45708,BSP,Jai Kumar Tiwari Alias,40888,4820,3.48
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,295,Kamalganj,GEN,,138127,BSP,Tahir Hussain Siddiki,51164,BJP,Mukesh Rajput,34184,16980,12.29
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,296,Farrukhabad,GEN,,115878,SP,Vijay Singh,46080,BJP,Major Sunil Dutt,35514,10566,9.12
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,297,Kaimganj,GEN,,127126,BSP,Kuldip Singh Gangwar,36978,INC,Louise Khursheed,27325,9653,7.59
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,298,Mohammadi,GEN,,121260,SP,Narendra Singh,48031,BSP,Nagendra Singh,44760,3271,2.7
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,299,Manikpur,SC,,95347,BSP,Daddu Prashad,44686,SP,Satya Narayan,38374,6312,6.62
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,300,Karwi,GEN,,117195,BSP,Dinesh Prashad,50518,SP,R. K. Singh Patel,49162,1356,1.16
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,301,Baberu,GEN,,109957,SP,Vishambhar Singh,32568,BSP,Gaya Charan Dinakar,32394,174,0.16
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,302,Tindwari,GEN,,107837,SP,Vishambhar Prasad,33725,JM,Dal Jeet,26512,7213,6.69
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,303,Banda,GEN,,117768,INC,Vivek Kumar Singh,34524,BSP,Babulal Kushwaha,34293,231,0.2
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,304,Naraini,GEN,,112271,BSP,Purushottam Naresh,31694,RLD,Piyariya,27251,4443,3.96
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,305,Hamirpur,GEN,,121173,SP,Ashok Kumar Singh,43672,BSP,Shiv Charan Prajapati,36576,7096,5.86
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,306,Maudaha,GEN,,113925,BSP,Badshah Singh,51752,SP,Apni Chiraiya Prajapati,34203,17549,15.4
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,307,Rath,GEN,,120185,BSP,Chaudari Dhooram,42601,SP,Shree Niwas Budhauliya,33420,9181,7.64
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,308,Charkhari,SC,,117205,BSP,Anil Kumar Ahirwar,39330,SP,Ambesh Kumari,32386,6944,5.92
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,309,Mahoba,GEN,,144431,BSP,Rakesh Kumar,32017,SP,Girja Charan,27556,4461,3.09
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,310,Mehroni,GEN,,195828,BSP,Pt. Ram Kumar Tiwari,71097,INC,Pooran Singh Bundela,46861,24236,12.38
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,311,Lalitpur,GEN,,183622,BSP,Engineer Nathu Ram,78010,SP,Virendra Singh Bundela,58200,19810,10.79
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,312,Jhansi,GEN,,126735,INC,Pradeep Jain Aditya,65552,BSP,Ramesh Kumar Sharma,31776,33776,26.65
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,313,Babina,SC,,140557,BSP,Ratan Lal Ahirwar,62771,SP,Shatish Jatariya,33973,28798,20.49
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,314,Mauranipur,SC,,146295,BSP,Bhagwati Prasad Sagar,46330,INC,Bihari Lal Arya,35584,10746,7.35
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,315,Garoutha,GEN,,140330,SP,Deep Narayan Singh,57981,INC,Ranjeet Singh Judeo,45360,12621,8.99
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,316,Konch,SC,,103282,BSP,Ajay Singh,33772,BJP,Gauri Shankar,31820,1952,1.89
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,317,Orai,GEN,,147140,INC,Vinod Chaturvedi,38982,BSP,Suresh Tiwari,35889,3093,2.1
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,318,Kalpi,GEN,,127360,BSP,Chhote Singh,46275,SP,Sriram Pal,44145,2130,1.67
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,319,Madhogarh,GEN,,140642,BSP,Hari Om,51135,BJP,Sant Ram Singh,47833,3302,2.35
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,320,Bhongaon,GEN,,113981,SP,Alok Kumar,39224,BSP,Bijendra Singh Alias,34107,5117,4.49
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,321,Kishni,SC,,109969,SP,Km.Sandhya,41012,BSP,Sunil Kumar,35409,5603,5.1
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,322,Karhal,GEN,,116019,SP,Sobaran Singh,52471,BSP,Ramesh,35142,17329,14.94
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,323,Shikohabad,GEN,,120629,IND,Ashok Yadav S/O,58240,SP,Hariom,40267,17973,14.9
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,324,Jasrana,GEN,,125683,IND,Ram Prakash Yadav,40649,SP,Ramvir Singh,32836,7813,6.22
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,325,Ghiror,GEN,,115172,BSP,Jaivir Singh,47528,SP,Ku.Anujesh Pratap Singh,45219,2309,2.0
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,326,Mainpuri,GEN,,128174,BJP,Ashok Singh Chauhan,49367,SP,Pro.Kalicharan Yadav,44898,4469,3.49
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,327,Aliganj,GEN,,136096,BSP,Avadhpal Singh Yadav,57149,SP,Rameshwar Singh,45784,11365,8.35
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,328,Patiali,GEN,,107014,BSP,Ajay Yadav,39335,SP,Rajednrda Singh,28956,10379,9.7
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,329,Sakit,GEN,,87846,SP,Suraj Singh,24627,BSP,Neeraj Kishore Mishra,24269,358,0.41
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,330,Soron,GEN,,92502,BSP,Mamtesh,28578,BJP,Devendra Pratap,23366,5212,5.63
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,331,Kasganj,GEN,,108405,BSP,Hasratulla,35105,BJP,Netram Singh,32733,2372,2.19
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,332,Etah,GEN,,110292,BJP,Prajapalan,48529,SP,Shishupal Singh,27601,20928,18.98
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,333,Nidhauli Kalan,GEN,,97528,SP,Anil Kumar Singh,29829,BSP,Mahesh Chand,22567,7262,7.45
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,334,Jalesar,SC,,88514,BJP,Kuver Singh,31038,BSP,Ranvir Singh Kashyap,30966,72,0.08
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,335,Firozabad,GEN,,127568,BSP,Nasir Uddin,42700,SP,Azim Bhai,32506,10194,7.99
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,336,Bah,GEN,,95260,BSP,Madhusdan Sharma,38877,BJP,Raja Mahendra Ari,34254,4623,4.85
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,337,Fatehabad,GEN,,132851,BJP,Rajendra Singh,38672,SP,Chhote Lal Verma,33567,5105,3.84
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,338,Tundla,SC,,133978,BSP,Rakesh Babu,50002,BJP,Shiv Singh Chak,28178,21824,16.29
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,339,Etmadpur,SC,,117327,BSP,Narayan Singh,47539,BJP,Baby Rani Maurya,37916,9623,8.2
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,340,Dayal Bagh,GEN,,172517,JM,Dr.Dharmpal Singh,56708,BSP,Kishan Lal Baghel,53759,2949,1.71
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,341,Agra Cantonment,GEN,,96383,BSP,Julfikar Ahmed Bhutto,30524,BJP,Keshomehra,27149,3375,3.5
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,342,Agra East,GEN,,89163,BJP,Jagan Prashad Garg,31200,BSP,Sarv Prakash Kapoor,22937,8263,9.27
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,343,Agra West,SC,,100330,BSP,Guteyari Lal Duves,39951,BJP,Dr.Rambabu Harit,34577,5374,5.36
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,344,Kheragarh,GEN,,126393,BSP,Bhagwan Singh,46829,BJP,Keshav Prashad Dexit,33609,13220,10.46
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,345,Fatehpur Sikri,GEN,,131616,BSP,Th. Surajpal Singh,44856,BJP,Rajkumar Chahar,43407,1449,1.1
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,346,Goverdhan,SC,,112861,RLD,Puran Prakash,43963,BSP,Ajay Kumar Poeia,38100,5863,5.19
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,347,Mathura,GEN,,122806,INC,Prdeep Mathur,45383,BJP,Murari Lal,24293,21090,17.17
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,348,Chhata,GEN,,120330,BSP,Laxmi Narayan,55591,RLD,Tej Pal Singh,29633,25958,21.57
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,349,Mat,GEN,,128625,ABLTC,Shyam Sunder Sharma,46932,RLD,Rampal Singh,35394,11538,8.97
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,350,Gokul,GEN,,112739,BSP,Raj Kumar Rawat,48916,RLD,Nabav Singh,39874,9042,8.02
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,351,Sadabad,GEN,,116145,RLD,Dr. Anil Chaudhary,55578,BSP,Vinod Updhayay,39832,15746,13.56
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,352,Hathras,GEN,,123005,BSP,Ramveer Upadhayay,56698,RLD,Devendra Agarwal,41288,15410,12.53
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,353,Sasni,SC,,109783,BSP,Genda Lal Chaudhary,37506,SP,Ranjeet Suman,31751,5755,5.24
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,354,Sikandara Rao,GEN,,128243,BJP,Yashpal Singh Chauhan,40510,SP,Madhu Baghel,38367,2143,1.67
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,355,Gangiri,GEN,,122795,BJP,Ram Singh,37575,BSP,Muzahid Khan (Guddu),35998,1577,1.28
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,356,Atraulia,GEN,,105609,BJP,Premlata Devi,50390,BSP,Harish Sharma,29240,21150,20.03
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,357,Aligarh,GEN,,121160,SP,Zamir Ullah,44541,BJP,Sanjeev Raja,36689,7852,6.48
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,358,Koil,SC,,136400,BSP,Mahendra Singh,54161,BJP,Surendra Sahyogi,49926,4235,3.1
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,359,Iglas,GEN,,130624,RLD,Bimlesh Singh,53522,BSP,Mukul Upadhyay,46822,6700,5.13
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,360,Barauli,GEN,,127175,BSP,Tha Jaiveer Singh,49028,RLD,Dalvir Singh,44327,4701,3.7
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,361,Khair,GEN,,129696,RLD,Satya Pal Singh,62483,BSP,Pramod Gaur,48704,13779,10.62
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,362,Jewar,SC,,118973,BSP,Horam Singh,46125,INC,Bansi Singh,40491,5634,4.74
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,363,Khurja,GEN,,102322,BSP,Anil Kumar,37807,BJP,Ved Pal Singh,20737,17070,16.68
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,364,Debai,GEN,,129326,BSP,Shri Bhagwan Sharma,67223,BJP,Rajvir Singh,51519,15704,12.14
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,365,Anupshahr,GEN,,137583,BSP,Gajendra Singh,40478,IND,Hoshiyar Singh,30013,10465,7.61
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,366,Siana,GEN,,130710,BJP,Sunder Singh,33252,INC,Imtiyaz,28995,4257,3.26
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,367,Agota,GEN,,116966,BJP,Virendra Singh Sirohi,35403,SP,Kiranpal Singh,32850,2553,2.18
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,368,Bulandshahr,GEN,,132599,BSP,Mo. Aleem Khan,39571,SP,Mahendra Singh Yadav,36398,3173,2.39
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,369,Shikarpur,SC,,104198,BSP,Vasdev Singh,30418,RLD,Bhola Singh,26144,4274,4.1
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,370,Sikandrabad,GEN,,142247,BSP,Vedram Bhati,48897,SP,Narendra Singh Bhati,38679,10218,7.18
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,371,Dadri,GEN,,231868,BSP,Satveer Singh Gurjar,75346,BJP,Nawab Singh Nagar,50923,24423,10.53
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,372,Ghaziabad,GEN,,292729,BJP,Sunil Kumar Sharma,88506,BSP,Suresh Bansal,62851,25655,8.76
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,373,Muradnagar,GEN,,136589,IND,Rajpal Tyagi,37796,BSP,Wahab,34776,3020,2.21
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,374,Modi Nagar,GEN,,152595,BSP,Rajpal Singh,32434,SP,Dharmesh Singh Tomer,31155,1279,0.84
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,375,Hapur,SC,,121503,BSP,Dharam Pal S/O Ram,39802,INC,Gajraj Singh,30357,9445,7.77
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,376,Garh Mukteshwar,GEN,,138493,SP,Madan Chouhan,45606,BJP,Ram Naresh,38296,7310,5.28
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,377,Kithore,GEN,,133170,SP,Shahid Manzoor,43701,BSP,Vijendra Singh,40276,3425,2.57
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,378,Hastinapur,SC,,120239,BSP,Yogesh Verma,34200,INC,Gopal Kali,27174,7026,5.84
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,379,Sardhana,GEN,,139658,BSP,Chandra Veer Singh,37469,RLD,Tabassum Begum,28134,9335,6.68
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,380,Meerut Cantonment,GEN,,141087,BJP,Satyaprakash Agarwal,56800,BSP,Sunil Kumar Wadhwa,40621,16179,11.47
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,381,Meerut,GEN,,136640,UPUDF,Haji Yaqub,48502,BJP,Dr. Lakshmikant,47413,1089,0.8
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,382,Kharkhauda,GEN,,146103,BSP,Lakhiram Nagar,62464,UPUDF,Haji Yaqub,35045,27419,18.77
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,383,Siwal Khas,SC,,129669,BSP,Vinod Kumar Harit,42171,RLD,Narendra Singh,24705,17466,13.47
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,384,Khekra,GEN,,232082,RLD,Madan Bhaiya,63469,BSP,Ch. Kartar Singh,51934,11535,4.97
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,385,Baghpat,GEN,,114789,RLD,Kaukab Hameed Khan,38169,SP,Sahab Singh,36636,1533,1.34
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,386,Barnawa,GEN,,114007,RLD,Satyandra,33730,SP,Samarpal Singh,31802,1928,1.69
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,387,Chaprauli,GEN,,95823,RLD,Dr. Ajay Tomar,47487,BSP,Gajendra Kumar Munna,32059,15428,16.1
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,388,Kandhla,GEN,,123218,BSP,Balveer,52725,RLD,Virendra Singh,33949,18776,15.24
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,389,Khatauli,GEN,,120632,BSP,Yograj Singh,38205,RLD,Rajpal Singh Baliyan,22184,16021,13.28
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,390,Jansath,SC,,115033,BSP,Yashwant,43623,BJP,Prakash Chand Raja,26450,17173,14.93
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,391,Morna,GEN,,119115,RLD,Kadir Rana,43929,BSP,Rajpal Singh Saini,38947,4982,4.18
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,392,Muzaffar Nagar,GEN,,156744,BJP,Ashok Kumar Kansal,49817,SP,Chitranjan Swaroop,38556,11261,7.18
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,393,Charthawal,SC,,114971,BSP,Anil Kumar,35417,BJP,Rampal Singh,33544,1873,1.63
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,394,Baghra,GEN,,120346,INC,Pankaj Kumar,37649,RLD,Yashpal Singh Alias,26188,11461,9.52
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,395,Kairana,GEN,,139106,BJP,Hukum Singh,53483,RLD,Arshad,44983,8500,6.11
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,396,Thana Bhawan,GEN,,135739,RLD,Abdul Warish Khan,41204,BSP,Anoop Singh,35801,5403,3.98
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,397,Nakur,GEN,,171298,BSP,Mahipal Singh,71246,SP,Pradeep Kumar,50808,20438,11.93
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,398,Sarsawa,GEN,,165583,BSP,Dr.Dharm Singh Saini,68440,SP,Moh.Dilshad,31767,36673,22.15
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,399,Nagal,SC,,135191,BSP,Ravindar Kumar(Molhu),61323,SP,Vishv Dayal,38424,22899,16.94
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,400,Deoband,GEN,,146829,BSP,Manoj Chaudhary,53577,BJP,Shashi Bala Pundir,36116,17461,11.89
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,401,Harora,SC,,165816,BSP,Jagpal,82343,SP,Vimla Rakesh,52189,30154,18.19
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,402,Saharanpur,GEN,,159376,BJP,Raghav Lakhan Pal,76049,SP,Sanjay Garg,57858,18191,11.41
+ae-uttar-pradesh-2007,AE,Uttar Pradesh,2007,2007,official,403,Muzaffarabad,GEN,,155781,IND,Imran Masood,43835,SP,Jagdish Singh Rana,40152,3683,2.36

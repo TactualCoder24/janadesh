@@ -1,0 +1,61 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-manipur-2012,AE,Manipur,2012,2012,official,1,Khundrakpam,GEN,Imphal East *,18598,INC,Thokchom Lokeshwar,9182,BJP,I. Mangiton,3678,5504,29.59
+ae-manipur-2012,AE,Manipur,2012,2012,official,2,Heingang,GEN,Imphal East *,23054,INC,N. Biren,11872,NCP,Naoroibam Ratan (Kapu),9790,2082,9.03
+ae-manipur-2012,AE,Manipur,2012,2012,official,3,Khurai,GEN,Imphal East *,25865,INC,Dr. Ng. Bijoy Singh,11618,AITC,Leishangthem Shusindro,6529,5089,19.68
+ae-manipur-2012,AE,Manipur,2012,2012,official,4,Kshetrigao,GEN,Imphal East *,25493,INC,Md. Amin Shah,7981,NCP,Thangjam Nandakishor,4987,2994,11.74
+ae-manipur-2012,AE,Manipur,2012,2012,official,5,Thongju,GEN,Imphal East *,24630,AITC,Thongam Biswajit Singh,10299,INC,Bijoy Koijam,9696,603,2.45
+ae-manipur-2012,AE,Manipur,2012,2012,official,6,Keirao,GEN,Imphal East *,22899,MSCP,Karam Thamarjit Singh,8865,INC,Md. Alauddin Khan,7415,1450,6.33
+ae-manipur-2012,AE,Manipur,2012,2012,official,7,Andro,GEN,Senapati,25006,AITC,Thounaojam Shyamkumar,16989,INC,Alhaj Md. Ahamed Ali,6557,10432,41.72
+ae-manipur-2012,AE,Manipur,2012,2012,official,8,Lamlai,GEN,Imphal East *,23035,INC,Kshetrimayum Biren,9923,CPI,Pheiroijam Parijat Singh,8139,1784,7.74
+ae-manipur-2012,AE,Manipur,2012,2012,official,9,Thangmeiband,GEN,Imphal East *,21301,AITC,Khumukcham Joykisan,7670,INC,Jyotin Waikhom,6686,984,4.62
+ae-manipur-2012,AE,Manipur,2012,2012,official,10,Uripok,GEN,Imphal East *,17470,INC,L. Nandakumar Singh,4864,IND,N. Dwijamani Singh,3779,1085,6.21
+ae-manipur-2012,AE,Manipur,2012,2012,official,11,Sagolband,GEN,Imphal East *,18095,MSCP,Rajkumar Imo Singh,9150,INC,Dr. Khwairakpam Loken,8731,419,2.32
+ae-manipur-2012,AE,Manipur,2012,2012,official,12,Keishamthong,GEN,Imphal East *,20950,NCP,L. Ibomcha Singh,9795,INC,Langpoklakpam,8336,1459,6.96
+ae-manipur-2012,AE,Manipur,2012,2012,official,13,Singjamei,GEN,Imphal East *,16074,INC,Irengbam Hemochandra,7975,AITC,Yumnam Khemchand,7818,157,0.98
+ae-manipur-2012,AE,Manipur,2012,2012,official,14,Yaiskul,GEN,Imphal East *,19770,INC,Elangbam Chand Singh,6650,IND,Hanjabam Jayadeva,6325,325,1.64
+ae-manipur-2012,AE,Manipur,2012,2012,official,15,Wangkhei,GEN,Imphal East *,24555,INC,Yumkham Erabot Singh,10981,MSCP,Henry Okram,9405,1576,6.42
+ae-manipur-2012,AE,Manipur,2012,2012,official,16,Sekmai,GEN,Imphal West,20733,INC,Khwairakpam Devendro,5897,AITC,Heikham Dingo Singh,5242,655,3.16
+ae-manipur-2012,AE,Manipur,2012,2012,official,17,Lamsang,GEN,Imphal West,24896,INC,Wangkheimayum,10053,NCP,Sorokhaibam Rajen Singh,6909,3144,12.63
+ae-manipur-2012,AE,Manipur,2012,2012,official,18,Konthoujam,GEN,Imphal West,23560,AITC,Konthoujam Sharat,10807,INC,Dr. Sapam Ranjan Singh,10293,514,2.18
+ae-manipur-2012,AE,Manipur,2012,2012,official,19,Patsoi,GEN,Imphal West,27077,INC,Akoijam Mirabai Devi,14257,AITC,Sapam Kunjakeswor,8710,5547,20.49
+ae-manipur-2012,AE,Manipur,2012,2012,official,20,Langthabal,GEN,Imphal East *,21174,LJP,Karam Shyam,7575,MPP,Okram Joy Singh,6540,1035,4.89
+ae-manipur-2012,AE,Manipur,2012,2012,official,21,Naoriya Pakhanglakpa,GEN,Imphal West,26617,INC,R.K. Anand,8750,AITC,Keisham Rojenkumar,6735,2015,7.57
+ae-manipur-2012,AE,Manipur,2012,2012,official,22,Wangoi,GEN,Thoubal,23656,AITC,Oinam Lukhoi Singh,9154,NCP,Salam Joy Singh,8972,182,0.77
+ae-manipur-2012,AE,Manipur,2012,2012,official,23,Mayang Imphal,GEN,Imphal West,23584,INC,Khumujam Ratankumar,10353,AITC,Kongkham Manglem,9562,791,3.35
+ae-manipur-2012,AE,Manipur,2012,2012,official,24,Nambol,GEN,Bishnupur,26716,INC,Shri Nameirakpam Loken,13708,MPP,Shri Chaoba,12902,806,3.02
+ae-manipur-2012,AE,Manipur,2012,2012,official,25,Oinam,GEN,Bishnupur,22915,AITC,Irengbam Ibohalbi Singh,7074,MSCP,L. Radhakishore Singh,6118,956,4.17
+ae-manipur-2012,AE,Manipur,2012,2012,official,26,Bishnupur,GEN,Bishnupur,24080,INC,Konthoujam Govindas,13308,MSCP,Thiyam Yaima,6655,6653,27.63
+ae-manipur-2012,AE,Manipur,2012,2012,official,27,Moirang,GEN,Bishnupur,27884,INC,Mairembam Prithviraj,14521,NCP,Pukhrem Sharatchandra,13363,1158,4.15
+ae-manipur-2012,AE,Manipur,2012,2012,official,28,Thanga,GEN,Bishnupur,18253,INC,Tongbram Mangibabu,4881,AITC,Tongbram Robindro,4710,171,0.94
+ae-manipur-2012,AE,Manipur,2012,2012,official,29,Kumbi,GEN,Bishnupur,21395,INC,Sanasam Bira Singh,8572,CPI,Ningthoujam Mangi,7557,1015,4.74
+ae-manipur-2012,AE,Manipur,2012,2012,official,30,Lilong,GEN,Thoubal,25233,INC,Md. Abdul Nasir,10668,IND,Md. Azizul Haque Khan,6711,3957,15.68
+ae-manipur-2012,AE,Manipur,2012,2012,official,31,Thoubal,GEN,Thoubal,23046,INC,Okram Ibobi Singh,19121,BJP,Oinam Indira,3668,15453,67.05
+ae-manipur-2012,AE,Manipur,2012,2012,official,32,Wangkhem,GEN,Senapati,23900,INC,Keisham Meghachandra,9418,MPP,Dr. Nimaichand Luwang,6462,2956,12.37
+ae-manipur-2012,AE,Manipur,2012,2012,official,33,Heirok,GEN,Thoubal,25435,INC,Moirangthem Okendro,13535,MPP,Nongmeikapam Sovakiran,7764,5771,22.69
+ae-manipur-2012,AE,Manipur,2012,2012,official,34,Wangjing Tentha,GEN,Thoubal,26829,MSCP,Paonam Brojen,12207,INC,Moirangthem Hemanta,8454,3753,13.99
+ae-manipur-2012,AE,Manipur,2012,2012,official,35,Khangabok,GEN,Thoubal,26959,INC,Okram Landhoni Devi,18339,MPP,Laishram Jatra Singh,8468,9871,36.61
+ae-manipur-2012,AE,Manipur,2012,2012,official,36,Wabgai,GEN,Thoubal,22904,INC,Md. Fajur Rahim,10021,AITC,Dr. Usham Deben Singh,6673,3348,14.62
+ae-manipur-2012,AE,Manipur,2012,2012,official,37,Kakching,GEN,Thoubal,20177,INC,Yengkhom Surchandra,12543,CPI,Naorem Achouba,7634,4909,24.33
+ae-manipur-2012,AE,Manipur,2012,2012,official,38,Hiyanglam,GEN,Thoubal,21099,AITC,Maibam Kunjo,6574,INC,Elangbam Dwijamani,6557,17,0.08
+ae-manipur-2012,AE,Manipur,2012,2012,official,39,Sugnu,GEN,Thoubal,19883,INC,Kangujam Ranjit Singh,11534,CPI,Yumnam Jiban (Shangba),3579,7955,40.01
+ae-manipur-2012,AE,Manipur,2012,2012,official,40,Jiribam,GEN,Imphal East *,19255,INC,Thoudam Debendra Singh,8424,AITC,A. Biren,7346,1078,5.6
+ae-manipur-2012,AE,Manipur,2012,2012,official,41,Chandel,GEN,Chandel,35650,NPF,St. Nunghlung Victor,13324,INC,Thangkholun Haokip,13158,166,0.47
+ae-manipur-2012,AE,Manipur,2012,2012,official,42,Tengnoupal,GEN,Chandel,30422,INC,D. Korungthang,13434,NPF,Kh. David Charanga,6807,6627,21.78
+ae-manipur-2012,AE,Manipur,2012,2012,official,43,Phungyar,GEN,Ukhrul,16377,INC,Victor Keishing,8525,NPF,Honreikhui Kashung,6830,1695,10.35
+ae-manipur-2012,AE,Manipur,2012,2012,official,44,Ukhrul,GEN,Ukhrul,22214,NPF,Samuel Risom,4831,INC,Alfred Kan-Ngam Arthur,4761,70,0.32
+ae-manipur-2012,AE,Manipur,2012,2012,official,45,Chingai,GEN,Ukhrul,26687,INC,M.K. Preshow,9865,IND,Khashim Vashum,9050,815,3.05
+ae-manipur-2012,AE,Manipur,2012,2012,official,46,Saikul,GEN,Senapati,20980,INC,Yamthong Haokip,8700,AITC,Chungkhokai Doungel,7211,1489,7.1
+ae-manipur-2012,AE,Manipur,2012,2012,official,47,Karong,GEN,Senapati,37646,NPF,Dr. V. Alexander Pao,21891,INC,D. D. Thaisii,15755,6136,16.3
+ae-manipur-2012,AE,Manipur,2012,2012,official,48,Mao,GEN,Senapati,44846,NPF,Dikho,21634,INC,P. T. Arhai,12704,8930,19.91
+ae-manipur-2012,AE,Manipur,2012,2012,official,49,Tadubi,GEN,Senapati,32486,INC,Francis Ngajokpa,18006,NPF,K. Raina,11951,6055,18.64
+ae-manipur-2012,AE,Manipur,2012,2012,official,50,Kangpokpi,GEN,Senapati,17024,MSCP,Mrs. Nemcha Kipgen,6639,AITC,Khadga Bahadur,6196,443,2.6
+ae-manipur-2012,AE,Manipur,2012,2012,official,51,Saitu,GEN,Senapati,28033,INC,Ngamthang Haokip,15695,NPP,Haokholet Kipgen,9509,6186,22.07
+ae-manipur-2012,AE,Manipur,2012,2012,official,52,Tamei,GEN,Tamenglong,22970,INC,Z.Kikhonbou Newmai,10977,MSCP,Awangbow Newmai,9579,1398,6.09
+ae-manipur-2012,AE,Manipur,2012,2012,official,53,Tamenglong,GEN,Tamenglong,18602,MSCP,Janghemlung Panmei,7675,INC,Khangthuanang Panmei,7009,666,3.58
+ae-manipur-2012,AE,Manipur,2012,2012,official,54,Nungba,GEN,Tamenglong,16842,INC,Gaikhangam,9040,MSCP,Adim Pamei,6710,2330,13.83
+ae-manipur-2012,AE,Manipur,2012,2012,official,55,Tipaimukh,GEN,Churachandpur,11183,INC,Dr.Chaltonlien Amo,4551,AITC,Dr . Lalumkhum Fimate,3639,912,8.16
+ae-manipur-2012,AE,Manipur,2012,2012,official,56,Thanlon,GEN,Churachandpur,8050,INC,Vungzagin Valte,3486,NPP,V.Hangkhanlian,3195,291,3.61
+ae-manipur-2012,AE,Manipur,2012,2012,official,57,Henglep,GEN,Churachandpur,17410,INC,T.Manga Vaiphei,4793,AITC,T.Thangzalam Haokip,4428,365,2.1
+ae-manipur-2012,AE,Manipur,2012,2012,official,58,Churachandpur,GEN,Churachandpur,30098,INC,Phungzathang Tonsing,18093,AITC,P.Songlianlal,10342,7751,25.75
+ae-manipur-2012,AE,Manipur,2012,2012,official,59,Saikot,GEN,Churachandpur,30010,INC,T.N.Haokip,13684,AITC,Lunkholal,5527,8157,27.18
+ae-manipur-2012,AE,Manipur,2012,2012,official,60,Singhat,GEN,Churachandpur,15383,INC,Ginsuanhau,12875,AITC,T.Hangkhanpau,2185,10690,69.49

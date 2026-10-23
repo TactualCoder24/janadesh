@@ -1,0 +1,321 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,1,Sheopur,GEN,,37120,JNP,Gulab Singh,18913,INC,Vishnusharan Singh,13089,5824,15.69
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,2,Bijeypur,GEN,,40044,JNP,Ajit Kumar,15274,INC,Badri Prasad,12069,3205,8.0
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,3,Sabalgarh,GEN,,49178,JNP,Sridharlal Hardenia,19487,INC,Haricharanlal,15971,3516,7.15
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,4,Joura,GEN,,45658,JNP,Subedar Singh,15726,INC,Ramcharan,13312,2414,5.29
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,5,Sumawali,GEN,,39403,JNP,Jahar Singh,10577,INC,Raj Bahadur Singh,6417,4160,10.56
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,6,Morena,GEN,,37287,JNP,Jabar Singh,18083,INC,Sobaran Singh Mawai,14739,3344,8.97
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,7,Dimni,SC,,28946,JNP,Munshilal,16802,INC,Amraiya Sumer Singh,9525,7277,25.14
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,8,Ambah,SC,,40060,JNP,Chhokhelal,22967,INC,Patiram,16832,6135,15.31
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,9,Gohad,SC,,42863,JNP,Bhurelal,24398,INC,Prabhoo Dayal,15584,8814,20.56
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,10,Mehgaon,GEN,,48079,JNP,Rameshwar Dayal Dantrey,14629,INC,Raisingh Bhadoria,14164,465,0.97
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,11,Attair,GEN,,47987,JNP,Shiv Shankar Lal ( Munna Kheri ),29018,INC,Rameshwar Dayal Arela,10075,18943,39.48
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,12,Bhind,GEN,,49990,JNP,Om Kumari Kushwah,28742,INC,Navin Chandra,12850,15892,31.79
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,13,Ron,GEN,,42338,JNP,Rasal Singh,20149,INC,Prem Kumari Raje,8306,11843,27.97
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,14,Lahar,GEN,,55606,JNP,Ram Shankar Singh,19142,INC,Ram Shankar Choudhary,13552,5590,10.05
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,15,Gwalior,GEN,,41676,JNP,Jagdish Gupta,19062,INC,Dharam Veer,13409,5653,13.56
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,16,Lashkar East,GEN,,35237,JNP,Naresh Johri,24843,INC,Jogender Singh,7618,17225,48.88
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,17,Lashkar West,GEN,,34557,JNP,Shitala Sahai,24483,INC,Raghunath Rao Digambar Paprikar,7594,16889,48.87
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,18,Morar,GEN,,41433,JNP,Madhav Rao Shanker Rao Indapurakar,18401,INC,Rajindra Singh,13061,5340,12.89
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,19,Gird,GEN,,38903,JNP,Vishnu Datt Tiwari,18163,INC,Ajai Singh,9243,8920,22.93
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,20,Dabra,GEN,,45668,JNP,Gopiram,21520,INC,Pahad Singh,16199,5321,11.65
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,21,Bhander,SC,,43170,JNP,Nand Lal Saroniya,23351,INC,Rajaram Singh,13041,10310,23.88
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,22,Seondha,GEN,,45254,JNP,Tulsi Ram,20081,INC,Shivcharan,13036,7045,15.57
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,23,Datia,GEN,,42454,INC,Shyam Sunder,13614,JNP,Harihar Niwas,13526,88,0.21
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,24,Karera,GEN,,48861,JNP,Sushma Singh,25445,INC,Kiran Singh,11693,13752,28.15
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,25,Pohri,GEN,,38544,JNP,Damodar Prasad,10969,INC,Prahlad Singh,7455,3514,9.12
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,26,Shivpuri,GEN,,40177,JNP,Mahavir Prasad Jain,21558,INC,Ganesh Lal Jain,11435,10123,25.2
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,27,Pichhore,GEN,,55657,JNP,Kamal Singh,17551,IND,Laxminarayan,15317,2234,4.01
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,28,Kolaras,SC,,29547,JNP,Kamta Prasad,17587,INC,Tula Ram,7363,10224,34.6
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,29,Guna,GEN,,42394,JNP,Dharamswarup Saxena,23819,INC,Mahavir Kr. Pannalal,11017,12802,30.2
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,30,Chachaura,GEN,,38794,JNP,Krishna Vallabha Bhanwarlal,26232,INC,Kailashnrayan,12562,13670,35.24
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,31,Raghogarh,GEN,,41037,INC,Dig Vijay Singh,21644,JNP,Dinesh Chandra Sharma,19393,2251,5.49
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,32,Shadora,SC,,27413,JNP,Har Lal,8376,INC,Khushalchand Chhotelal,8119,257,0.94
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,33,Ashoknagar,GEN,,44909,JNP,Chiman Lal Guljarilal,19991,INC,Gajram Singh Yadav,18154,1837,4.09
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,34,Mungaoli,GEN,,45337,JNP,Chandramohan Rawat,14372,INC,Collectorsingh Mithusingh,12892,1480,3.26
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,35,Bina,GEN,,39411,JNP,Bhagirath Balgaiya,20294,INC,Sidhnath Tiwari,12495,7799,19.79
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,36,Khurai,SC,,38077,JNP,Ram Prasad,21151,INC,Hari Shankar,16926,4225,11.1
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,37,Banda,GEN,,45367,JNP,Shivraj Singh,25498,INC,Th. Bhagwan Singh,16939,8559,18.87
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,38,Naryaoli,SC,,34042,INC,Lila Dhar,16485,JNP,Jamuna Prasad Mistri Ahirwal,12955,3530,10.37
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,39,Sagar,GEN,,44699,INC,Shivkumar Jwalaprasad,24110,JNP,Narayan Shankar Trivedi,18844,5266,11.78
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,40,Surkhi,GEN,,33673,JNP,Laxminarayan Yadav,15332,INC,Bharat Singh Bhapal,12225,3107,9.23
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,41,Rehli,GEN,,35575,INC,Mahadeo Prasad Hazari,14338,JNP,Ramesh Chand,12741,1597,4.49
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,42,Deori,GEN,,37729,JNP,Parshuram Sahu,19006,INC,Dwarka Prasad Katare,12238,6768,17.94
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,43,Niwari,GEN,,53303,JNP,Gauri Shankar Shukla,25762,INC,Pahalwansingh Yadav,18283,7479,14.03
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,44,Jatara,GEN,,39984,JNP,Akhand Pratap Singh,15324,INC,Ramkrishna Mishra,8101,7223,18.06
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,45,Khargapur,SC,,31217,JNP,Nathu Ram Ahirwar,14737,IND,Parwatlal Ahirwar,7368,7369,23.61
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,46,Tikamgarh,GEN,,44904,JNP,Magan Lal Goyal,21265,INC,Sardar Singh,16730,4535,10.1
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,47,Malehra,GEN,,42349,JNP,Jang Bahadur Singh,19307,CPI,Kapoor Chandra,9414,9893,23.36
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,48,Bijawar,GEN,,43188,JNP,Mukund Sakharam,24651,INC,Dashrath,14512,10139,23.48
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,49,Chhatarpur,GEN,,42092,JNP,Jagdamba Prasad Nigam,25523,INC,Brijgopal Denga,10875,14648,34.8
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,50,Maharajpur,SC,,38364,JNP,Ram Dayal,24088,INC,Laxmandas,13355,10733,27.98
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,51,Chandla,GEN,,44790,JNP,Raghunath Singh Kalyan Singh,28599,INC,Mohammad Gani Ansari,14176,14423,32.2
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,52,Nohata,GEN,,45643,JNP,Narendra Singh Thakur,23772,INC,Kunjbeharilal Guru,15128,8644,18.94
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,53,Damoh,GEN,,43275,INC,Prabhu Narain Tandon,18759,JNP,Santosh Bharati,18063,696,1.61
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,54,Patharia,SC,,33502,JNP,Jiwan Lal Kanchhadilal,14660,INC,Gopaldas Munnilal,10087,4573,13.65
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,55,Hatta,GEN,,47426,JNP,Ram Krishna Kusmariya,27380,INC,Jugol Kishore Bajaj,13941,13439,28.34
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,56,Panna,GEN,,48032,JNP,Lokendrasingh,29640,INC,Hetram Dube,13525,16115,33.55
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,57,Amanganj,GEN,,32209,JNP,Jagsuriya,18099,INC,Pachhita,8724,9375,29.11
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,58,Pawai,GEN,,42224,JNP,Uma Shankar,12563,INC,Jagdish Singh,7408,5155,12.21
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,59,Maihar,GEN,,48470,JNP,Narayan Singh,26036,INC,Lalji Patel,11556,14480,29.87
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,60,Nagod,GEN,,47478,JNP,Nagendra Singh,22410,INC,Mahendra Singh,15630,6780,14.28
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,61,Raigaon,SC,,36419,JNP,Vishweshwar Prasad,18589,INC,Ramashraya Prasad,17074,1515,4.16
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,62,Chitrakoot,GEN,,38557,JNP,Ramanand Singh,19545,INC,Krishna Prasad Sharma,13493,6052,15.7
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,63,Satna,GEN,,49965,INC,Arun Singh,20901,JNP,Hukum Chand,20281,620,1.24
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,64,Rampur Baghelan,GEN,,44356,JNP,Prabhakar Singh,19493,INC,Brajraj Singh,13855,5638,12.71
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,65,Amarpatan,GEN,,45631,JNP,Ram Hit,22684,INC,Gulasher Ahmed,16808,5876,12.88
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,66,Rewa,GEN,,46615,JNP,Premalal Mishra,17365,INC,Shatrughan Singh Tiwari,10045,7320,15.7
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,67,Gurh,GEN,,46872,JNP,Chandramani Tripathi,12128,IND,Morilal Patel,8823,3305,7.05
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,68,Mangawan,GEN,,48493,INC,Lal Rukmani Raman Pratap Singh,22712,JNP,Kaushal Prasad Mishra,18419,4293,8.85
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,69,Sirmaur,GEN,,45505,JNP,Sita Prasad Sharma,19300,INC,Rajmani Patel,12730,6570,14.44
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,70,Teonthar,GEN,,50390,INC,Shriniwas Tiwari,19564,JNP,Ramalakhana Singh,18801,763,1.51
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,71,Deotalab,SC,,28237,JNP,Khalawan Bhir,12900,INC,Ramkhelawan,9015,3885,13.76
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,72,Mauganj,GEN,,38990,INC,Achyuta Nand,9940,JNP,Keshavprasad Pandey,9340,600,1.54
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,73,Churahat,GEN,,39843,INC,Arjun Singh,20349,JNP,Jagat Bahadur Singh,12354,7995,20.07
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,74,Sidhi,GEN,,26740,INC,Indrajeet Kumar,7508,JNP,Keshav Prasad Singh,5383,2125,7.95
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,75,Gopadbanas,GEN,,30280,JNP,Ram Khilawan,10396,INC,Chandra Pratap Tiwari,6324,4072,13.45
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,76,Dhauhani,ST,,23250,JNP,Someshwar Singh,10001,INC,Jagwa,3875,6126,26.35
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,77,Deosar,ST,,19413,JNP,Jagannath Singh,12560,INC,Balraj Singh,3188,9372,48.28
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,78,Singrauli,SC,,23752,JNP,Ramcharitra,13111,IND,Dadoo,3569,9542,40.17
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,79,Beohari,GEN,,33136,JNP,Baijnath Singh,14953,INC,Ram Kishore Shukla,9196,5757,17.37
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,80,Umaria,GEN,,30394,JNP,Nripendra Singh,17153,INC,Ranvijay Pratap Singh,7682,9471,31.16
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,81,Nowrozabad,ST,,24257,JNP,Gyan Singh,14350,INC,Jagannath Singh,5009,9341,38.51
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,82,Jaisinghnagar,ST,,23729,JNP,Ramnath Singh,16116,INC,Bhagwan Din,4139,11977,50.47
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,83,Kotma,ST,,19289,JNP,Babulal Singh,10236,INC,Girja Kumari,2946,7290,37.79
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,84,Anuppur,ST,,29090,JNP,Jugal Kishore Gupta,9980,INC,Shankar Prasad,8790,1190,4.09
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,85,Sohagpur,GEN,,42093,INC,Krishna Pal Singh,20518,JNP,Dadan Ram Gupta,16766,3752,8.91
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,86,Pushprajgarh,ST,,18834,JNP,Hazari Singh,12282,INC,Dalbir Singh,3851,8431,44.76
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,87,Manendragarh,ST,,25241,JNP,Ram Singh,13011,INC,Vijaya,8118,4893,19.39
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,88,Baikunthpur,GEN,,38730,JNP,Jwala Prasad,15343,INC,Gulab Gupta,14347,996,2.57
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,89,Premnagar,ST,,19961,JNP,Sahadeo Singh,9918,INC,Khelsai Singh,5066,4852,24.31
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,90,Surajpur,ST,,32246,JNP,Rewati Raman Mishra,12675,IND,Umeshwar Saran Singh Deo,7378,5297,16.43
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,91,Pal,ST,,19739,JNP,Shiv Pratap,13840,INC,Devai Marabee,4034,9806,49.68
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,92,Samri,ST,,22392,JNP,Amin,12127,IND,Ram Prasad,3824,8303,37.08
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,93,Lundra,ST,,22956,JNP,Asan Ram,11652,INC,Bhola,7750,3902,17.0
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,94,Pilkha,ST,,27139,JNP,Nar Narayan,16323,IND,Mahendra Prasad,3530,12793,47.14
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,95,Ambikapur,ST,,28720,JNP,Prabhunarayan Tripathi,16809,INC,Ravinder Pratap,11911,4898,17.05
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,96,Sitapur,ST,,24461,INC,Sukhi Ram,13231,IND,Bhubaneswar Nath,4228,9003,36.81
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,97,Bagicha,ST,,33186,INC,Balsyus Bolva,14805,JNP,Ghanshyam Singh Adalsai,9844,4961,14.95
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,98,Jashpur,ST,,34169,JNP,Sukh Ram,14693,IND,Marsel Joseph Tete,10356,4337,12.69
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,99,Tapkara,ST,,33268,JNP,Nand Kumar Sai,15222,IND,Jolpholhem Dhankunwar,7973,7249,21.79
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,100,Pathalgaon,ST,,26364,INC,Ram Pukar Singh,11941,JNP,Mangal Sai,11107,834,3.16
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,101,Dharamjaigarh,ST,,25069,INC,Ghanesh Ram Rathia,12181,JNP,Laljeet Singh Daljeet Singh,8971,3210,12.8
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,102,Lailunga,ST,,18239,INC,Surendra Singh,11447,JNP,Prem Singh Sidar,6792,4655,25.52
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,103,Raigarh,GEN,,39084,INC,Ram Kumar Aggarwal,24091,JNP,Mama Banarasi,7567,16524,42.28
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,104,Kharsia,GEN,,40232,INC,Laxmi Prasad Patel,28134,JNP,Satrughanlal Patel,7652,20482,50.91
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,105,Saria,GEN,,42635,INC,Kumari Kamla Devi Naresh Chandra Singh,27803,JNP,Lakhiram,10294,17509,41.07
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,106,Sarangarh,SC,,27925,INC,Hulasram Manhar,10049,IND,Awdharam Bhardwaj Wakil,7341,2708,9.7
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,107,Rampur,ST,,28125,JNP,Nankiram Kanwar,15090,INC,Pyarelal,13035,2055,7.31
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,108,Katghora,GEN,,33904,INC,Bodhram,13667,JNP,Krishna Maharaj,11877,1790,5.28
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,109,Tanakhar,ST,,28585,JNP,Bishal Singh,19578,INC,Lalkirti Kumar Singh,9007,10571,36.98
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,110,Marwahi,ST,,25426,INC,Bhawar Singh Parte,14511,JNP,Banshilal,10430,4081,16.05
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,111,Kota,GEN,,30336,INC,M. P. Dubey,13646,JNP,D. R. Agrawal,13572,74,0.24
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,112,Lormi,GEN,,43339,JNP,Phool Chand Jain,23599,INC,Rajendra Shukla,16235,7364,16.99
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,113,Mungeli,SC,,41814,JNP,Rameshwar Prasad Kosaria,19471,INC,Dayaldas Kurvra,18627,844,2.02
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,114,Jarhagaon,SC,,41139,JNP,Bhanu Pratap Gupta,19029,INC,Prabhat Kumar Mishra,18474,555,1.35
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,115,Takhatpur,GEN,,37244,JNP,Manharanlal Pandey,19110,INC,Rohini Kumar Bajpai,16677,2433,6.53
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,116,Bilaspur,GEN,,39722,INC,B. R. Yadav,20132,JNP,Anand Mishra,16984,3148,7.93
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,117,Bilha,GEN,,33630,INC,Chitra Kant Jaiswal,18261,JNP,Bhuvneshwar Prasad Gauraha,11112,7149,21.26
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,118,Masturi,SC,,23978,INC,Banshilal Ghritlahare,12882,JNP,Ganesh Ram Anant,5386,7496,31.26
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,119,Sipat,GEN,,35417,INC,Radheyshyam Shukla,19418,JNP,Badridhar Diwan,12197,7221,20.39
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,120,Akaltara,GEN,,44529,INC,Rajendra Kumar Singh,24319,JNP,Harish Kidiya,12440,11879,26.68
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,121,Pamgarh,GEN,,40660,INC,Shivprasad Sharma,14586,JNP,Hemlal,11805,2781,6.84
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,122,Champa,GEN,,40183,INC,Bisahu Das Mahant,18905,JNP,Tundilal,14127,4778,11.89
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,123,Sakti,GEN,,36021,INC,Raja Surendra Bahadur,20647,IND,Nandlal Sahu,6916,13731,38.12
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,124,Malkharoda,SC,,34687,INC,Bed Ram,20937,JNP,Nandram Manhar,13750,7187,20.72
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,125,Chandrapur,GEN,,42400,INC,Bhawanilal Varma,32631,JNP,Rameshwar Prasad,8032,24599,58.02
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,126,Raipur Town,GEN,,43142,JNP,Rajani D. P. Upasane,17925,INC,Sharda Charah Raghubar Prasad,13065,4860,11.27
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,127,Raipur Rural,GEN,,38576,JNP,Ramesh Warlyani,19682,INC,Swarup Chand Jain Manik Chand Jain,14429,5253,13.62
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,128,Abhanpur,GEN,,36084,JNP,Chetram Purushottam,21356,INC,Chandrika Prasad Shivcharan,7242,14114,39.11
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,129,Mandirhasod,GEN,,20369,JNP,Ram Lal Jodhan,8627,IND,Manvishram Tandon,4241,4386,21.53
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,130,Arang,SC,,30203,JNP,Ratandas Hardas,13863,INC,Vijay Kumar Agamdas Guru Gosai,11500,2363,7.82
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,131,Dharsiwa,GEN,,40818,JNP,Ashwini Kumar Lakhanlal,22006,INC,Daulatram Ramdayal Varma,14072,7934,19.44
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,132,Bhatapara,GEN,,36515,INC,Jagdish Prasad Aggarwal,13100,JNP,Nandkumar Parashram,11228,1872,5.13
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,133,Baloda Bazar,GEN,,36852,JNP,Vansraj Mahabir Prasad,19522,INC,Krishna Kumar Yadu Kanahiyalal,12823,6699,18.18
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,134,Pallari,SC,,29994,INC,Phulsingh Budhu,14316,JNP,Deayatantdas Jagtarandas,13448,868,2.89
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,135,Kasdol,GEN,,34023,JNP,Dhani Ram Sahu,17774,INC,Kanhaiyalal Sharma,12869,4905,14.42
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,136,Bhatgaon,SC,,28608,INC,Kanhaiyalal Kasoriya,15245,JNP,Reshamlal Jangde,9618,5627,19.67
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,137,Saraipali,GEN,,35171,INC,Mohanlal Ramprasad,17358,JNP,Jagdishlal Lakhesingh,15566,1792,5.1
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,138,Basna,GEN,,25983,INC,Birendra Bahadur Singh Lal Bahadur,11005,JNP,Vishnu Sharan Bharat Das,7448,3557,13.69
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,139,Khallari,GEN,,32481,JNP,Ramesh,18771,INC,Puranlal Abyayram,8108,10663,32.83
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,140,Mahasamund,GEN,,34657,JNP,Mohd. Yakub Ah. Karim,16516,INC,Jeevanlal Palaturam,9804,6712,19.37
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,141,Rajim,GEN,,49215,JNP,Pawan Diwan Sukhramdhar,29233,INC,Shyamcharan Shukla,18064,11169,22.69
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,142,Bindranawagarh,ST,,25637,JNP,Balram Jugsay,13656,INC,Parbati Kumari,4753,8903,34.73
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,143,Sihawa,ST,,25729,JNP,Madhav Laxman,13687,INC,Ramji,8396,5291,20.56
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,144,Kurud,GEN,,44499,JNP,Yeshwant Rao Meghawale,25732,INC,Balgovind Tarachand,17589,8143,18.3
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,145,Dhamtari,GEN,,52660,JNP,Pandhrirao Khushalrao,28362,INC,Keshrimal Budhmal,23183,5179,9.83
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,146,Bhanupratappur,ST,,24364,JNP,Pyarelal Suklalsingh,14445,INC,Jhardooram Rawate,9645,4800,19.7
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,147,Kanker,ST,,20562,JNP,Harishankar Ramnath,12097,INC,Atmaram Dhruva,5559,6538,31.8
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,148,Keskal,ST,,15773,JNP,Mangli Jhadu Ram,6574,INC,Balsingh Shori,3064,3510,22.25
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,149,Kondagaon,ST,,23109,INC,Mankuram Sodi,9367,JNP,Sukman Poyan Malsai,7420,1947,8.43
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,150,Bhanpuri,ST,,22462,JNP,Baliram Mahadeo Kashyap,14137,IND,Ramdeo,2872,11265,50.15
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,151,Jagdalpur,ST,,32662,JNP,Birendra Pandey,15328,INC,Jaikishore Jaiswal,7510,7818,23.94
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,152,Keslur,ST,,19043,JNP,Joga Hadma,14336,INC,Prabhunath Bhandari,2356,11980,62.91
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,153,Chitrakot,ST,,12751,JNP,Lakhanjai Sngh,7731,INC,Laxman Karma,2268,5463,42.84
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,154,Dantewara,ST,,17179,JNP,Sukuldhar Bhawani,7216,CPI,Sonaram Soree,4737,2479,14.43
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,155,Konta,ST,,14666,JNP,Koram Gopal Kristaiya,8745,IND,Aasman Gangadhar,3294,5451,37.17
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,156,Bijapur,ST,,19999,JNP,Mahadev Ayatoo Ram,12266,INC,Kistayya Papiya,3688,8578,42.89
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,157,Narayanpur,ST,,20732,JNP,Gadru Ram Sori,12618,INC,Badrinath Jaidev,4542,8076,38.95
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,158,Maro,SC,,34205,JNP,Gophelal Kurree,16868,INC,Kishanlal Kurre,16317,551,1.61
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,159,Bemetara,GEN,,33827,INC,Laxman Prasad Vaidya,16948,JNP,Mahesh Tiwari,15607,1341,3.96
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,160,Saja,GEN,,39576,JNP,Pradeep Kumar Choube,17454,INC,Lalgayendra Singh,15612,1842,4.65
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,161,Dhamdha,GEN,,41928,JNP,Dharampal Singh Gupta,15540,INC,Pyarelal,13537,2003,4.78
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,162,Durg City,GEN,,46095,INC,Motilal Vora,25141,JNP,Mohanlal Bakliwal,16576,8565,18.58
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,163,Bhilai Nagar,GEN,,50335,JNP,Dinkar Dhage,26975,INC,Phulchand Bafna,19594,7381,14.66
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,164,Patan,GEN,,41924,INC,Keju Ram Varma,22743,JNP,Neelmani,16496,6247,14.9
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,165,Gunderdehi,GEN,,38793,INC,Ghana Ram,19733,JNP,C. L. Jyotiprakash,8417,11316,29.17
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,166,Khertha,GEN,,38755,INC,Vasudeo Chandrakar,19041,JNP,Yaswant Singh Belchandan,13622,5419,13.98
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,167,Balod,GEN,,46368,IND,Mishrilal Khatri,20529,INC,Heeralal,16153,4376,9.44
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,168,Dondi Lohara,ST,,41958,INC,Jhummuklal Bhediya,26598,JNP,Kunjeelal Bhandari,12591,14007,33.38
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,169,Chowki,ST,,24947,JNP,Manjhla Kumar ( Bhupendra Shah ),8767,INC,Goverdhan Netam,7319,1448,5.8
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,170,Khujji,GEN,,33233,JNP,Prakash Yadav,19017,INC,Hari Prasad Shukla,12495,6522,19.63
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,171,Dongargaon,GEN,,27531,JNP,Vidya Bhushan Thakur,15478,INC,Heeraram Varma,5485,9993,36.3
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,172,Rajnandgaon,GEN,,41219,JNP,Thakur Darbar Singh,19711,INC,Balbir Khanuja,13390,6321,15.34
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,173,Dongargarh,SC,,31122,JNP,Vinayak Meshram,15383,INC,Tummanlal,10515,4868,15.64
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,174,Khairagarh,GEN,,32881,JNP,Manik Gupta,16017,INC,Shibendra Bahadursingh,11032,4985,15.16
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,175,Birendranagar,GEN,,30827,INC,Balram Singh Bais,11813,RRP,Yashwantraj Singh,10797,1016,3.3
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,176,Kawardha,GEN,,46101,RRP,Shashi Prabha Devi,29182,INC,Hamid Ulla Khan,14025,15157,32.88
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,177,Baihar,ST,,20173,JNP,Sudhanvasingh Netam,7156,IND,Bairagisingh,6917,239,1.18
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,178,Lanji,GEN,,45353,INC,Yashwant Rao Khongal,20602,JNP,Narbada Prasad,17577,3025,6.67
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,179,Kirnapur,GEN,,38701,INC,Jhankarsingh Chandanlal,15743,JNP,Bhuwanlal Girmajee,9199,6544,16.91
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,180,Waraseoni,GEN,,43791,JNP,K.D. Deshmukh Bathu,19428,INC,Surajlal Bisen,18290,1138,2.6
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,181,Khairalanjee,GEN,,42808,INC,Shankar Sao,12067,IND,Bhoopsingh Chandanlal,11120,947,2.21
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,182,Katangi,GEN,,42061,JNP,Lochanlal Thare Narayan,23761,INC,Bhaiyalal Parihar,16938,6823,16.22
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,183,Balaghat,GEN,,53308,INC,Nand Kishore Shrama,35111,JNP,Gourishnkar Bisen,13668,21443,40.22
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,184,Paraswada,GEN,,37042,INC,Tejlal Tembhare,18535,IND,Prataplal Chitram Bisen,9848,8687,23.45
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,185,Nainpur,ST,,27217,JNP,Ghanshyam Prasad,15877,INC,Narayan Prasad Soni,6178,9699,35.64
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,186,Mandla,ST,,22210,JNP,Vijay Datt Jha,10149,INC,Narayanee Devi,3985,6164,27.75
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,187,Bichhia,ST,,11060,JNP,Mangilal,8494,INC,Phoolsingh,1728,6766,61.18
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,188,Bajag,ST,,17356,JNP,Chintaram Masram,6988,IND,Rambhajan Patta,5425,1563,9.01
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,189,Dindori,ST,,17617,IND,Moti Singh Sandhya,9885,JNP,Parwatibai Maykom,3884,6001,34.06
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,190,Shahpura,ST,,16606,JNP,Anup Singh Marabi,12742,INC,Sadan Singh,2685,10057,60.56
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,191,Niwas,ST,,12853,JNP,Rup Singh,8946,INC,Heeralal,2872,6074,47.26
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,192,Bargi,ST,,30785,JNP,Shivprasad Chinpuria,15360,INC,Chandrika Prasad Tripathi,11343,4017,13.05
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,193,Panagar,ST,,33333,INC,D.P. Pathak,13588,IND,Bhagwat Prasad Patel,8016,5572,16.72
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,194,Jabalpur Cantonment,GEN,,32840,INC,Dinesh Chand Mishra,13654,JNP,Sukhdeo Yadav,13641,13,0.04
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,195,Jabalpur East,SC,,35209,JNP,Kailash Surajbalee Sonkar,14957,INC,Ramprasad Chaudhary,14566,391,1.11
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,196,Jabalpur Central,GEN,,34222,JNP,Jaishiri Benerjee,15511,INC,Sawaimal Jain,11890,3621,10.58
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,197,Jabalpur West,GEN,,35040,INC,K.L. Dubey,13366,JNP,Anil Sharma,10751,2615,7.46
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,198,Patan,GEN,,34149,INC,Prithvi Singh,14959,JNP,Ajay Singh,10004,4955,14.51
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,199,Majholi,GEN,,39499,INC,Gontia Trimbakeshwar Prasad Dubey,20786,JNP,Rajbhanu Shukla,14834,5952,15.07
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,200,Sihora,GEN,,42437,JNP,Dhanya Kumar,16894,INC,Babubhai,14450,2444,5.76
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,201,Bahoriband,GEN,,39424,JNP,Tarachand Chaurasia,19826,INC,Laxmiprasad,11432,8394,21.29
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,202,Murwara,GEN,,44829,JNP,Vibhash Chandra,23061,INC,Lakhan Singh,16756,6305,14.06
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,203,Badwara,GEN,,36289,JNP,Bachhan Nayak,11132,INC,N.V. Raman,10039,1093,3.01
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,204,Vijairaghogarh,GEN,,37819,JNP,Laxmichand Bajhal,19998,INC,Arvind Pathak,14794,5204,13.76
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,205,Gadarwara,GEN,,36460,JNP,Nageen Kochar,19256,INC,Rameshwar Nikhra,13304,5952,16.32
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,206,Bohani,GEN,,38773,INC,Sujansingh,12594,JNP,Kranti Kumar Chouhan,11124,1470,3.79
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,207,Narsimhapur,GEN,,44949,JNP,Surendra Kumar Dhoreliaurf Munna Bhaiya,21036,INC,Vinayshankar Shankarlal,17502,3534,7.86
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,208,Gotegaon,SC,,36434,JNP,Saraschandra Jharia,15638,INC,Sitaram Sukhlal,13574,2064,5.67
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,209,Lakhnadon,ST,,24780,INC,Satyendra Singh Deep Singh Thakur,12493,JNP,Lalbeer Singh,9157,3336,13.46
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,210,Ghansor,ST,,33760,INC,Vasant Rao Uike,21582,JNP,Urmila Devi,12178,9404,27.86
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,211,Keolari,GEN,,35490,INC,Vimla Varma Krishna Prasad Varma,14760,JNP,Rajendra Aggrawal,10278,4482,12.63
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,212,Barghat,GEN,,41585,INC,Bharatlal Bisen,19412,JNP,Jageshwar Nath Bisen,17039,2373,5.71
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,213,Seoni,GEN,,38636,INC,Prabha Bhargwa,15306,JNP,Rajendra Narayandas Gupta,12670,2636,6.82
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,214,Jamai,ST,,23143,INC,Sunderlal Brijlal,9633,JNP,Ramkrishan Batra,6841,2792,12.06
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,215,Chhindwara,GEN,,34522,INC,Bijay Kumar Panti(Hitlar),14643,JNP,Jitendra Kumar Biharilal,12495,2148,6.22
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,216,Parasia,SC,,31324,INC,Damodar Tulsiram (Damu Patil),15723,JNP,Gangadeen Babu,14584,1139,3.64
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,217,Damua,ST,,18042,JNP,Mandir Sa,8091,IND,Parasram Dhurve,4968,3123,17.31
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,218,Amarwara,ST,,14569,INC,Dakhan Shah Thakur,6564,JNP,Shankarsingh Jhamsingh Thakur,6191,373,2.56
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,219,Chaurai,GEN,,32108,INC,Baijnath Prasad Saxena,12461,IND,Meharsingh Mahtabsingh Choudhry,9618,2843,8.85
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,220,Sausar,GEN,,39341,INC,Rewnath Nathujee Choure,19451,JNP,Namdev Baleeram Dhote,12820,6631,16.86
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,221,Pandhurna,GEN,,42456,INC,Madhavlal Dubey,24134,JNP,Purushottam Pilajee Pawar,12911,11223,26.43
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,222,Piparia,GEN,,38702,JNP,Ramchandra Maheshwari,25577,INC,Rewashankar Paliwal,12336,13241,34.21
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,223,Hoshangabad,GEN,,42190,JNP,Ramesh Bargale,22616,INC,Sushila Dikshit,9246,13370,31.69
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,224,Itarsi,GEN,,34034,JNP,Narmada Prasad Soni,18849,INC,Manakchand Hanuman Das,12156,6693,19.67
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,225,Seoni-Malwa,GEN,,43638,INC,Hazarilal Raghubanshi,22089,JNP,Sabbarsingh Kunjeelal,18294,3795,8.7
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,226,Timarni,SC,,31757,JNP,Manoharlal Hazarilal,16851,INC,Raviprasad Ghanshyam,13991,2860,9.01
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,227,Harda,GEN,,36230,JNP,Babulal Silapuria (Nazirjee),15813,IND,Anand Virendar Kumar,9711,6102,16.84
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,228,Multai,GEN,,31769,IND,Maniram Barange,9764,INC,Radhakrishna Garg,8858,906,2.85
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,229,Masod,GEN,,33832,INC,Ramji Mahajan,13308,JNP,Isnajee Ughade,9391,3917,11.58
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,230,Bhainsdehi,ST,,19795,JNP,Patiram,9748,INC,Kalya Singh,5857,3891,19.66
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,231,Betul,GEN,,27867,IND,Madhav Gopal Naseree,10273,INC,Maroteerao Panse,9786,487,1.75
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,232,Ghora Dongri,ST,,20897,JNP,Jangusingh Uike,10574,INC,Vishramsingh Mawase,5728,4846,23.19
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,233,Amla,SC,,21748,INC,Gurubux Atulkar,8724,JNP,Madhukar Pardhi,7000,1724,7.93
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,234,Budhni,GEN,,39638,JNP,Shaligram Vakil,23071,INC,Sayd. Aijaz Ali Sarfaraz Ali (Putan),9926,13145,33.16
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,235,Ichhawar,GEN,,36106,JNP,Narayan Prasad Gupta,23167,INC,Amarchand Rohela,11221,11946,33.09
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,236,Ashta,SC,,51338,JNP,Narayan Singh Kesri,31044,INC,Bansidass Kishandas,20294,10750,20.94
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,237,Sehore,GEN,,38575,JNP,Sabita Bajpai,22956,INC,Aziz Qureshi,12708,10248,26.57
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,238,Govindpura,GEN,,37167,JNP,Laxmi Narain Sharma,25254,INC,Moolchand Manwani,9743,15511,41.73
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,239,Bhopal South,GEN,,41574,JNP,Babulal Gour,25610,INC,Ladli Shran Sinha,6664,18946,45.57
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,240,Bhopal North,GEN,,37160,JNP,Hamid Qureshi,18178,CPI,Bal Krishna Gupta,6201,11977,32.23
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,241,Berasia,GEN,,37341,JNP,Gauri Shanker Koushal,23210,INC,Sher Singh Thakur,10442,12768,34.19
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,242,Sanchi,SC,,37934,JNP,Gourishanker,25582,INC,Umraosingh,11368,14214,37.47
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,243,Udaipura,GEN,,41001,JNP,Goverdhan Singh,21693,INC,Goutam Baijnath,11472,10221,24.93
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,244,Bareli,GEN,,44120,JNP,Sudhar Singh,21024,INC,Jaswant Singh,19876,1148,2.6
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,245,Bhojpur,GEN,,42645,JNP,Parab Chand Lakhmichand,19389,INC,Gulab Chand Mulchand,9599,9790,22.96
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,246,Kurwai,SC,,32486,JNP,Ram Charan Lal,18554,INC,Jiwan Budha,13392,5162,15.89
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,247,Basoda,GEN,,45472,JNP,Jamna Prasad Beharilal,25640,INC,Jawaharmal,15296,10344,22.75
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,248,Vidisha,GEN,,45866,JNP,Narsinghdas Goyal,28971,INC,Hridaya Mohan,15203,13768,30.02
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,249,Shamshabad,GEN,,39922,JNP,Girischand Ramsahay,21605,INC,Gyanendra Kumar,10400,11205,28.07
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,250,Sironj,GEN,,40741,JNP,Sharif Master,25890,INC,Hafij Yakub,7981,17909,43.96
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,251,Biaora,GEN,,32903,JNP,Dattatre Rao Madho Rao,21313,INC,Ramkaran Ugra,6399,14914,45.33
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,252,Narsingarh,GEN,,42837,JNP,Siddhumal Dallumal,23648,INC,Mangilal Ramnarayan Bhandari,11789,11859,27.68
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,253,Sarangpur,SC,,39487,IND,Amarsingh Motilal,20581,INC,Hazari Shiveji,15216,5365,13.59
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,254,Rajgarh,GEN,,31751,JNP,Jamnalal Bhanwarlal,19812,IND,Gulabchand,5050,14762,46.49
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,255,Khilchipur,GEN,,46114,JNP,Narayan Singh Panwar,31956,INC,Kanhaiyalal Khuban Singh,10805,21151,45.87
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,256,Shujalpur,GEN,,51394,JNP,Shall Kumar Sharma,31442,INC,Viddhyadhar Joshi,19952,11490,22.36
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,257,Gulana,GEN,,51896,JNP,Bhavanishankar Gothi,31286,INC,Laxmansingh Dodiya,20610,10676,20.57
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,258,Shajapur,GEN,,55585,JNP,Shashikant Shendurnaikar,30114,INC,Tarajoyati Sharma,20515,9599,17.27
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,259,Agar,SC,,50926,JNP,Satyanarayan Jatiya,34096,INC,Prakash Kharate,16830,17266,33.9
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,260,Susner,GEN,,46101,JNP,Hari Bhau Joshi,27474,INC,Harimarayan Patel,15066,12408,26.91
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,261,Tarana,SC,,43392,JNP,Nagulal Malviya,25296,INC,Sagarmal Malviya,18096,7200,16.59
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,262,Mahidpur,GEN,,39913,JNP,Shiv Narayan Choudhry,21529,INC,Narayan Prasad Sharma,13719,7810,19.57
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,263,Khachrod,GEN,,47689,JNP,Purusottam Vipat,25666,INC,Baleshwar Dayal Jayaswal,18431,7235,15.17
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,264,Badnagar,GEN,,45748,JNP,Udaisingh Pandya,29753,INC,Sadashiv Kashiram,15995,13758,30.07
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,265,Ghatiya,SC,,42257,JNP,Gangaram Parmar,24559,INC,Rajendra Suryavanshi,15874,8685,20.55
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,266,Ujjain North,GEN,,45136,JNP,Babulal Jain,24216,INC,Rajendra Kumar Jain,17120,7096,15.72
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,267,Ujjain South,GEN,,41017,JNP,Govindrao Vishvanath Naik,20928,INC,Vahiduddin Qureshi,15741,5187,12.65
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,268,Depalpur,GEN,,48181,JNP,Patan Patodi,24659,INC,Bapu Singh Mandloi,21470,3189,6.62
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,269,Mhow,GEN,,42556,INC,Ghanshyam Seth Patidar,20878,JNP,Bherulal Patidar,20629,249,0.59
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,270,Indore-I,GEN,,42869,JNP,Om Prakash Rawal,22607,INC,Mahesh Joshi,19182,3425,7.99
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,271,Indore-Ii,GEN,,46151,INC,Yagyadatt Sharma,17805,JNP,Harisingh,15761,2044,4.43
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,272,Indore-Iii,GEN,,37405,JNP,Rajendra Dharkar,22519,INC,Narayan Prasad Kantilal Shukla,11176,11343,30.32
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,273,Indore-Iv,GEN,,46416,JNP,Vallabh Sharma,28061,INC,Chandra Prabhash Shekhar,15009,13052,28.12
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,274,Indore-V,GEN,,46449,INC,Suresh Seth,21929,JNP,Anil Kashinath Trivedi,20896,1033,2.22
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,275,Sawer,SC,,36768,JNP,Arjun Singh Dharu,17640,INC,Radhakishan Malviya,15322,2318,6.3
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,276,Dewas,GEN,,41832,JNP,Shankar Kannungo Trimbakrao,21865,INC,Surendra Singh Madansingh,15914,5951,14.23
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,277,Sonkatch,SC,,47540,JNP,Devilal Raikwal Bulchand,28481,INC,Khumbanchand Golia Gokul Prasad,17923,10558,22.21
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,278,Hatpipalya,GEN,,43343,JNP,Tejsingh Karansingh,28898,INC,Debisingh Chittrejee,14445,14453,33.35
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,279,Bagli,GEN,,39448,JNP,Kailash Chandra Joshi,27601,INC,Inanee Satish Chandra Ramgopal,10963,16638,42.18
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,280,Khategaon,GEN,,36774,JNP,Kinkar Narmadaprasad Govind Ram,23407,INC,Bhodsingh Chhabrra Daryosingh,13367,10040,27.3
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,281,Harsud,ST,,25764,JNP,Suraj Mal Balu,16593,INC,Mangalsingh Motiram Korku,8173,8420,32.68
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,282,Nimarkhedi,GEN,,36432,JNP,Raghurajsingh Tomar,25530,INC,Tarun Kumar Nagda,10020,15510,42.57
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,283,Pandhana,SC,,38831,JNP,Sakharam Deokaran,25328,INC,Hiralal Silawal,13503,11825,30.45
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,284,Khandwa,GEN,,39228,JNP,Govind Prasad Gite,21084,INC,Nanda Mandloi,17241,3843,9.8
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,285,Nepanagar,GEN,,33291,JNP,Brijmohan Mishra,20340,INC,Tanwant Singh Harnam Singh Keer,12674,7666,23.03
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,286,Shahpur,GEN,,36955,JNP,Deshmukh Dhairyasheel Rao Keshav Rao (Baba,19905,INC,Prahalad Rao Vaidhya,16433,3472,9.4
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,287,Burhanpur,GEN,,50761,INC,Shiv Kumar Singh Nawal Singh,27729,JNP,Sayed Zia -Ul-Haque,22279,5450,10.74
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,288,Bhikangaon,ST,,26582,JNP,Dongar Singh Patel,16979,INC,Sobhagsingh,6471,10508,39.53
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,289,Barwaha,GEN,,40253,JNP,Ramesh Sharma,25368,INC,Rana Balbahadursingh,13842,11526,28.63
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,290,Maheshwar,SC,,41625,JNP,Nathubhai Sawale,21417,INC,Sitaram Sadho,20208,1209,2.9
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,291,Kasrawad,GEN,,43413,JNP,Bankim Joshi,23381,INC,Chandmal Luniya,18453,4928,11.35
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,292,Khargone,GEN,,45168,JNP,Navneet Mahajan,25495,INC,Chandrakanta Ramakant Khode,19673,5822,12.89
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,293,Dhulkot,ST,,32056,JNP,Malsingh Latu,17445,INC,Chida Natthu,14611,2834,8.84
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,294,Sendhwa,ST,,26097,JNP,Raoji Kalji,14545,INC,Shobharam Patel,11552,2993,11.47
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,295,Anjad,ST,,38621,JNP,Babulal Dashrath Soni,20349,INC,Jawaharlal Chiranjilal,16694,3655,9.46
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,296,Rajpur,ST,,34335,JNP,Veersingh Devisingh,17545,INC,Barkubhai Chouhan,15480,2065,6.01
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,297,Barwani,ST,,29821,JNP,Umaraosingh Parvatsingh,18567,INC,Umaraosingh Patel,10535,8032,26.93
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,298,Manawar,ST,,37179,INC,Shivbhanu Solanki,20294,JNP,Jagmohansingh Chauhan,16244,4050,10.89
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,299,Dharampuri,ST,,38181,INC,Kiratsingh,19854,JNP,Laxmansingh Solanki,18327,1527,4.0
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,300,Dhar,GEN,,42219,JNP,Vikram Verma,28176,INC,Surendrasingh Neemkheda,12396,15780,37.38
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,301,Badnawar,GEN,,43075,JNP,Goerdhan Sharma,25693,INC,Chironjilal Kaluram,17382,8311,19.29
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,302,Sardarpur,ST,,33237,INC,Moolchand Patel,16239,JNP,Bherusingh Chauhan,15627,612,1.84
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,303,Kukshi,ST,,33503,INC,Pratapsinh Baghel,15927,IND,Govindsinh Vesta,12574,3353,10.01
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,304,Alirajpur,ST,,21366,JNP,Bhagwan Singh Chauhan,11013,INC,Magansingh Patel,10353,660,3.09
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,305,Jobat,ST,,19594,INC,Ajmer Singh,9947,JNP,Raisingh Rahee,9647,300,1.53
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,306,Jhabua,ST,,19194,INC,Bapusingh Damer,10901,JNP,Presmsingh Solanki,6855,4046,21.08
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,307,Petlawad,ST,,26392,JNP,Pratap Singh,18737,INC,Amarsingh Daodar,7655,11082,41.99
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,308,Thandla,ST,,24930,JNP,Mannaji,14918,INC,Kantilal Bhuria,10012,4906,19.68
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,309,Ratlam Town,GEN,,44411,JNP,Himmat Kothari,25118,INC,Akbarali Arif,18267,6851,15.43
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,310,Ratlam Rural,GEN,,35447,JNP,Surajmal Jain,19738,INC,Hariram Patidar,12038,7700,21.72
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,311,Sailana,ST,,35392,JNP,Kamji,24775,INC,Prabhudayal Gahlot,10617,14158,40.0
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,312,Jaora,GEN,,41071,JNP,Komal Singh Rathore,21945,INC,Ratan Singh Solanki,14683,7262,17.68
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,313,Alot,SC,,40370,JNP,Navratan Sankla,27198,INC,Liladevi Chaudhuri,11646,15552,38.52
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,314,Manasa,GEN,,43170,JNP,Ramchandra Basar,25409,INC,Surajmal Tugnawat,12355,13054,30.24
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,315,Garoth,GEN,,45447,JNP,Ragunandan,30928,INC,Vimal Kumar Chaudhary,14519,16409,36.11
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,316,Suwasara,SC,,45344,JNP,Champalala Arya,28584,INC,Asharam Varma,14748,13836,30.51
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,317,Sitamau,GEN,,49645,JNP,Pt. Basantilal Sharma,28526,INC,Bhanwarlal Rajmal Nahata,18004,10522,21.19
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,318,Mandsaur,GEN,,51967,JNP,Sunderlal Patwa,29271,INC,Dhansukhlal Nandlal Bhachawat,20088,9183,17.67
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,319,Neemuch,GEN,,50753,JNP,Kanhaiyalal Dungerwal,32173,INC,Raghunandan Prasad,17496,14677,28.92
+ae-madhya-pradesh-1977,AE,Madhya Pradesh,1977,1977,official,320,Jawad,GEN,,59318,JNP,Virendra Kumar Sakhlecha,37801,INC,Ghanshyam Patidar,19325,18476,31.15

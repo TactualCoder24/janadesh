@@ -1,0 +1,61 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-manipur-2002,AE,Manipur,2002,2002,official,1,Khundrakpam,GEN,Imphal East *,16758,SAP,Lairellakpam Lala,3258,FPM,Konsam Tomba Singh,2824,434,2.59
+ae-manipur-2002,AE,Manipur,2002,2002,official,2,Heingang,GEN,Imphal East *,20194,DRPP,Nongthombam Biren,5869,MSCP,Yanglem Mangi Singh,5621,248,1.23
+ae-manipur-2002,AE,Manipur,2002,2002,official,3,Khurai,GEN,Imphal East *,21343,FPM,Ningthoujam Bihari Singh,7417,CPI,Laishram Sotinkumar,6120,1297,6.08
+ae-manipur-2002,AE,Manipur,2002,2002,official,4,Khetrigao,GEN,Imphal East *,21976,MSCP,Vivekraj Wangkhem,6510,INC,Mahammuddin Shah,6138,372,1.69
+ae-manipur-2002,AE,Manipur,2002,2002,official,5,Thongju,GEN,Imphal East *,21299,MSCP,Bijoy Koijam,7510,NCP,Dr. Sapam Dhananjoy,5729,1781,8.36
+ae-manipur-2002,AE,Manipur,2002,2002,official,6,Keirao,GEN,Imphal East *,18788,INC,Md. Alauddin Khan,5293,MNC,Karam Thamarjit Singh,3771,1522,8.1
+ae-manipur-2002,AE,Manipur,2002,2002,official,7,Andro,GEN,Senapati,21048,FPM,Salam Chandra Singh,5402,SAP,Sahid Ahamad,5188,214,1.02
+ae-manipur-2002,AE,Manipur,2002,2002,official,8,Lamlai,GEN,Imphal East *,18589,CPI,Pheiroijam Parijat,5652,NCP,Khongbantabam Ibomcha Singh,5457,195,1.05
+ae-manipur-2002,AE,Manipur,2002,2002,official,9,Thangmeiband,GEN,Imphal East *,17292,BJP,Meinam Bhorot Singh,6686,SAP,Radhabinod Koijam,5066,1620,9.37
+ae-manipur-2002,AE,Manipur,2002,2002,official,10,Uripok,GEN,Imphal East *,15073,INC,Laishram Nandakumar Singh,7037,FPM,P. Achou Singh,4740,2297,15.24
+ae-manipur-2002,AE,Manipur,2002,2002,official,11,Sagolband,GEN,Imphal East *,15721,MNC,Soram Natum Singh,5394,INC,Dr. Khwairakpam Loken Singh,4572,822,5.23
+ae-manipur-2002,AE,Manipur,2002,2002,official,12,Keisamthong,GEN,Imphal East *,20998,FPM,L. Ibomcha Singh,6479,INC,Langpoklakpam Jayantakumar Singh,6392,87,0.41
+ae-manipur-2002,AE,Manipur,2002,2002,official,13,Singjamei,GEN,Imphal East *,15786,FPM,I. Hemochandra Singh,7150,NCP,Haobam Bhuban Singh,6172,978,6.2
+ae-manipur-2002,AE,Manipur,2002,2002,official,14,Yaiskul,GEN,Imphal East *,18013,BJP,R.K. Dorendra Singh,8107,INC,Elangbam Kunjeswar Singh,6981,1126,6.25
+ae-manipur-2002,AE,Manipur,2002,2002,official,15,Wangkhei,GEN,Imphal East *,22550,MSCP,Erabot Yumkham,7999,FPM,Anoubam Rajen Sharma,7500,499,2.21
+ae-manipur-2002,AE,Manipur,2002,2002,official,16,Sekmai,SC,Imphal West,17709,FPM,Ningthoujam Biren,6023,NCP,Khwairakpam Chandra,4739,1284,7.25
+ae-manipur-2002,AE,Manipur,2002,2002,official,17,Lamsang,GEN,Imphal West,21639,INC,Wangkheimayum Brajabidhu Singh,11859,FPM,Sorokhaibam Rajen Singh,9579,2280,10.54
+ae-manipur-2002,AE,Manipur,2002,2002,official,18,Konthoujam,GEN,Imphal West,20349,DRPP,Dr. Thokchom Meinya,5152,MSCP,Henam Lokhon,4223,929,4.57
+ae-manipur-2002,AE,Manipur,2002,2002,official,19,Patsoi,GEN,Imphal West,21800,CPI,Moirangthem Nabadwip,8622,FPM,Leishangthem Chandramani,7700,922,4.23
+ae-manipur-2002,AE,Manipur,2002,2002,official,20,Langthabal,GEN,Imphal East *,17779,MPP,Okram Joy Singh,4353,MNC,Karam Babudhon Singh,3614,739,4.16
+ae-manipur-2002,AE,Manipur,2002,2002,official,21,Naoriya Pakhanglakpa,GEN,Imphal West,23291,INC,Wahengbam Leima Devi,5712,DRPP,R.K. Anand,4990,722,3.1
+ae-manipur-2002,AE,Manipur,2002,2002,official,22,Wangoi,GEN,Thoubal,18378,MSCP,Yumnam Mani Singh,7526,MNC,Wahengbam Nipamacha Singh,6911,615,3.35
+ae-manipur-2002,AE,Manipur,2002,2002,official,23,Mayang Imphal,GEN,Imphal West,18499,FPM,Meinam Nilchandra Singh,5688,MNC,Abdul Salam,5612,76,0.41
+ae-manipur-2002,AE,Manipur,2002,2002,official,24,Nambol,GEN,Bishnupur,23029,INC,Nameirakpam Loken Singh,10599,MSCP,Thounaojam Bira Singh,9661,938,4.07
+ae-manipur-2002,AE,Manipur,2002,2002,official,25,Oinam,GEN,Bishnupur,19419,NCP,Laishram Radhakishore Singh,7182,MSCP,Dr. Yumnam Jiten Singh,6595,587,3.02
+ae-manipur-2002,AE,Manipur,2002,2002,official,26,Bishenpur,GEN,Bishnupur,21682,MSCP,Konthoujam Govindas Singh,10833,DRPP,Ningthoujam Sanajaoba Singh,9548,1285,5.93
+ae-manipur-2002,AE,Manipur,2002,2002,official,27,Moirang,GEN,Bishnupur,26067,FPM,Salam Gopal Singh,7975,MSCP,Mohammad Abdul Matalib,6604,1371,5.26
+ae-manipur-2002,AE,Manipur,2002,2002,official,28,Thanga,GEN,Bishnupur,16210,FPM,Salam Ibohal,3781,MSCP,Haobijam Manisana Singh,3765,16,0.1
+ae-manipur-2002,AE,Manipur,2002,2002,official,29,Kumbi,GEN,Bishnupur,19050,CPI,Ningthoujam Mangi Singh,5148,BJP,Aheibam Angousana Singh,4518,630,3.31
+ae-manipur-2002,AE,Manipur,2002,2002,official,30,Lilong,GEN,Thoubal,19303,INC,Dr. Md. Maniruddin Shaikh,7561,MNC,Md. Helaluddin Khan,6066,1495,7.74
+ae-manipur-2002,AE,Manipur,2002,2002,official,31,Thoubal,GEN,Thoubal,20802,FPM,Leitanthem Tomba,5502,INC,Shri Tourangbam Mukhesh Singh,4777,725,3.49
+ae-manipur-2002,AE,Manipur,2002,2002,official,32,Wangkhem,GEN,Senapati,20733,MPP,Dr. Nimai Chand Luwang,6139,MSCP,Thokchom Chandra Singh,6065,74,0.36
+ae-manipur-2002,AE,Manipur,2002,2002,official,33,Heirok,GEN,Thoubal,20182,FPM,Nongmeikapam Sovakiran Singh,9376,INC,Moirangthem Okendro,8772,604,2.99
+ae-manipur-2002,AE,Manipur,2002,2002,official,34,Wangjing Tentha,GEN,Thoubal,21129,CPI,Moirangthem Nara,9249,MSCP,Moirangthem Hemanta Singh,7720,1529,7.24
+ae-manipur-2002,AE,Manipur,2002,2002,official,35,Khangabo,GEN,Thoubal,24087,INC,Okram Ibobi Singh,12897,FPM,Laishram Jatra,10567,2330,9.67
+ae-manipur-2002,AE,Manipur,2002,2002,official,36,Wabgai,GEN,Thoubal,19678,INC,Md. Abdul Salam,7512,MSCP,Mayengbam Manihar Singh,7496,16,0.08
+ae-manipur-2002,AE,Manipur,2002,2002,official,37,Kakching,GEN,Thoubal,18150,CPI,Thokchom Tomba,9377,INC,Nongmaithem Nimai Singh,7483,1894,10.44
+ae-manipur-2002,AE,Manipur,2002,2002,official,38,Hiyanglam,GEN,Thoubal,19344,NCP,Elangbam Biramani Singh,6095,FPM,Maibam Kunjo,4841,1254,6.48
+ae-manipur-2002,AE,Manipur,2002,2002,official,39,Sugnoo,GEN,Thoubal,19024,INC,Kangujam Ranjit,7318,DRPP,Khwairakpam Iboyaima,5675,1643,8.64
+ae-manipur-2002,AE,Manipur,2002,2002,official,40,Jiribam,GEN,Imphal East *,17482,INC,Th. Debendra,5527,MNC,Ashangbam Biren,4588,939,5.37
+ae-manipur-2002,AE,Manipur,2002,2002,official,41,Chandel,ST,Chandel,35879,BJP,B.D. Behring,23219,MSCP,T. Chungsei Haokip,8750,14469,40.33
+ae-manipur-2002,AE,Manipur,2002,2002,official,42,Tengnoupal,ST,Chandel,32954,SAP,D.K. Korungthang,17140,NCP,Onjamang Haokip,15529,1611,4.89
+ae-manipur-2002,AE,Manipur,2002,2002,official,43,Phungyar,ST,Ukhrul,19076,MSCP,Wungnaoshang,4412,INC,Rishang Keishing,3403,1009,5.29
+ae-manipur-2002,AE,Manipur,2002,2002,official,44,Ukhrul,ST,Ukhrul,23909,BJP,D. Shaiza,12285,INC,A. S. Arthur,8023,4262,17.83
+ae-manipur-2002,AE,Manipur,2002,2002,official,45,Chingai,ST,Ukhrul,27714,INC,A. Aza,7761,FPM,Dr. Khashim Ruivah,7294,467,1.69
+ae-manipur-2002,AE,Manipur,2002,2002,official,46,Saikul,ST,Senapati,28249,NCP,Chungkhokai Doungel,9989,SAP,Doukhomang Khongsai,7827,2162,7.65
+ae-manipur-2002,AE,Manipur,2002,2002,official,47,Karong,ST,Senapati,43280,FPM,P.S. Henry Paotei,10304,INC,D.D. Thaisii,9000,1304,3.01
+ae-manipur-2002,AE,Manipur,2002,2002,official,48,Mao,ST,Senapati,43781,INC,R.K. Thekho,13387,FPM,Soso Lorho,12936,451,1.03
+ae-manipur-2002,AE,Manipur,2002,2002,official,49,Tadubi,ST,Senapati,35463,INC,Francis Ngajokpa,8766,BJP,K. Raina,8416,350,0.99
+ae-manipur-2002,AE,Manipur,2002,2002,official,50,Kangpokpi,GEN,Senapati,23132,FPM,Thangminlien,9265,BJP,Hari Prasad Nepal,5869,3396,14.68
+ae-manipur-2002,AE,Manipur,2002,2002,official,51,Saitu,ST,Senapati,31504,INC,Ngamthang Haokip,13675,SAP,Haokholet Kipgen,8359,5316,16.87
+ae-manipur-2002,AE,Manipur,2002,2002,official,52,Tamei,ST,Tamenglong,23804,INC,Z. Mangaibou,9893,BJP,Athuan Abonmai,8742,1151,4.84
+ae-manipur-2002,AE,Manipur,2002,2002,official,53,Tamenglong,ST,Tamenglong,17985,FPM,Samuel Jendai,9696,INC,Khangthuanang Panmei,7302,2394,13.31
+ae-manipur-2002,AE,Manipur,2002,2002,official,54,Nungba,ST,Tamenglong,15377,INC,Gaikhangam,6977,FPM,Prof. Gangmumei Kamei,6085,892,5.8
+ae-manipur-2002,AE,Manipur,2002,2002,official,55,Tipaimukh,ST,Churachandpur,11185,INC,Dr. Chaltonlien,3602,NCP,Ngursanglur,3566,36,0.32
+ae-manipur-2002,AE,Manipur,2002,2002,official,56,Thanlon,ST,Churachandpur,13298,INC,Songchinkhup,4825,SAP,John K Ngaihte,3817,1008,7.58
+ae-manipur-2002,AE,Manipur,2002,2002,official,57,Henglep,ST,Churachandpur,20531,SAP,T Manga Vaiphei,7660,INC,T. Thangzalam Haokip,3662,3998,19.47
+ae-manipur-2002,AE,Manipur,2002,2002,official,58,Churachandpur,ST,Churachandpur,31760,INC,T. Phungzathang,15271,NCP,V. Hangkhanlian,15043,228,0.72
+ae-manipur-2002,AE,Manipur,2002,2002,official,59,Saikot,ST,Churachandpur,32212,INC,T. N. Haokip,16699,NCP,M. Chungkhosei,11966,4733,14.69
+ae-manipur-2002,AE,Manipur,2002,2002,official,60,Singhat,ST,Churachandpur,18829,MSCP,Thangso Baite,6815,INC,Hangkhanpao,5314,1501,7.97

@@ -1,0 +1,195 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,1,Kalimpong,GEN,,12500,IND,Narbahadur Gurung,6137,PSP,M. K. Pradhan,1327,4810,38.48
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,2,Darjeeling,GEN,,13212,IND,Deo Prakash Rai,4400,CPI,Ananda Prasad,4256,144,1.09
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,3,Jore Bungalow,GEN,,15143,CPI,Bhadra Bahadur Hamal,4924,IND,Pema Tshering Lama,4013,911,6.02
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,4,Siliguri,ST,,58268,CPI,Satyendra Narayan Mazumdar,14557,INC,Jagadish Chandra Bhattacharjee,13336,1221,2.1
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,5,Jalpaiguri,SC,,71325,INC,Sarojendra Deb Raikut,26057,CPI,Khagendra Nath Das Gupta,22613,3444,4.83
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,6,Mal,ST,,81970,INC,Budhu Bhagat,23424,CPI,Mangru Bhagat,22177,1247,1.52
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,7,Mainaguri,GEN,,23359,INC,Jaineswar Roy,12117,PSP,Nagendra Nath Malick,7787,4330,18.54
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,8,Falakata,GEN,,31126,PSP,Jagadananda Roy,14720,INC,Rabindra Nath Sikdar,14427,293,0.94
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,9,Kalchini,ST,,80022,INC,Debendra Nath Brahma Mandal,29625,IND,Anima Hoare,18041,11584,14.48
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,10,Alipur Duars,GEN,,32919,INC,Pijush Kanti Mukherjee,16207,IND,Nani Bhattacharja,11243,4964,15.08
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,11,Tufanganj,GEN,,34040,INC,Jatindra Nath Sinha Sarker,21915,CPI,Jiban Krishna De,9953,11962,35.14
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,12,Cooch Behar,SC,,71382,INC,Maziruddin Ahmed,23187,CPI,Satish Chandra Roy Singha,18783,4404,6.17
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,13,Dinhata,SC,,78490,INC,Umesh Chandra Mandal,41495,FBM,Bhawani Prasanna Talukdar,24226,17269,22.0
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,14,Mathabhanga,GEN,,26864,INC,Sarada Prasad Pramanik,14668,IND,Mahendra Nath Dakua,12196,2472,9.2
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,15,Mekliganj,GEN,,21844,INC,Satyendra Prasanna Chatterjee,9493,FBM,Amarendra Nath Roy Prodhan,7003,2490,11.4
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,16,Balurghat,ST,,83727,IND,Dhirendra Nath Banerjee,24387,INC,Mardi Hakai,22296,2091,2.5
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,17,Gangarampur,ST,,70284,INC,Lakshan Chandra Hasda,19687,IND,Satindra Nath Basu,13299,6388,9.09
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,18,Raiganj,SC,,65239,INC,Syama Prasad Barman,20966,PSP,Hazi Badiruddin Ahmmad,19263,1703,2.61
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,19,Itahar,GEN,,25673,CPI,Basanta Lal Chatterjee,8887,INC,Banamali Das,8443,444,1.73
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,21,Goalpokhar,GEN,,13612,INC,Muzzafar Hussain,7808,PSP,Hayat Ali,5804,2004,14.72
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,22,Karandighi,GEN,,15551,INC,Phanis Chandra Sinha,8947,PSP,Sahabuddin Ahmad,5016,3931,25.28
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,23,Kharba,GEN,,30309,IND,Golam Yazdani,16382,INC,Tafazzal Hossain,12152,4230,13.96
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,24,Harischandrapur,GEN,,33675,IND,Elias Razi,17326,PSP,Subodh Kumar Misra,8644,8682,25.78
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,25,Ratua,SC,,68198,INC,Sourindra Mohan Misra,22701,IND,Dhaneswar Saha,14319,8382,12.29
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,26,Malda,ST,,41684,INC,Matla Murmu,23451,CPI,Nikunja Behari Gupta,18233,5218,12.52
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,27,Englishbazar,GEN,,27565,INC,Santi Gopal Sen,13545,CPI,Narendra Nath Chakraborty,9628,3917,14.21
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,28,Sujapur,GEN,,31460,IND,Monoranjan Misra,11677,INC,Abu Barkat Ataul Gani Khan Choudhury,9260,2417,7.68
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,29,Kaliachak,GEN,,28991,INC,Mahibur Rahman Choudhury,14707,IND,Promode Ranjan Basu,10912,3795,13.09
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,30,Farakka,GEN,,23230,INC,Mahammad Giasuddin,10835,IND,Sabiruddin Biswas,7962,2873,12.37
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,31,Suti,GEN,,52594,INC,Lutfal Hoque,27063,IND,Dukhu Lal Das,23889,3174,6.03
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,32,Jangirpur,SC,,58814,INC,Kuber Chand Haldar,16973,IND,Shyamapada Bhattacharjee,11730,5243,8.91
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,33,Murshidabad,GEN,,34493,INC,Durgapada Sinha,17034,IND,Birendra Narayan Roy,15998,1036,3.0
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,34,Lalgola,GEN,,30620,INC,Syed Kazem Ali Meerza,15339,IND,Abdus Sattar,14158,1181,3.86
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,35,Bhagabangola,GEN,,30449,INC,Hafizur Rehman Kazi,12932,PSP,Sailendra Nath Adhicary,10452,2480,8.14
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,36,Raninagar,GEN,,33612,IND,Badrudduja Syed,21659,INC,Syed Abdul Hossain,6317,15342,45.64
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,37,Jalangi,GEN,,32659,INC,Golam Soleman,11533,IND,Syed Abdul Hossain,9774,1759,5.39
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,38,Hariharpara,GEN,,38135,INC,Hazi A. Hameed,24560,IND,Ram Ranjan Choudhury,13575,10985,28.81
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,39,Berhampore,GEN,,31426,INC,Bejoy Kumar Ghosh,14294,CPI,Sanat Kumar Raha,13351,943,3.0
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,40,Naoda,GEN,,43350,INC,Mohammed Israil,23696,IND,Biswanath Bajpayee,11440,12256,28.27
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,41,Beldanga,GEN,,38912,INC,Parimal Ghosh,17506,IND,Abdul Latif,14047,3459,8.89
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,42,Bharatpur,GEN,,42711,INC,Goalbadan Trivedi,22425,IND,Badrudduja Syeed,17111,5314,12.44
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,43,Kandi,SC,,95684,INC,Bimal Chandra Sinha,42840,IND,Sudhir Mondal,27853,14987,15.66
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,44,Nalhati,SC,,65694,INC,Mohammad Yeakub Hossain,18071,IND,Sisir Kumar Saha,10355,7716,11.75
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,45,Rampurhat,SC,,75040,IND,Durgapada Das,28735,CPI,Gobardhan Das,17221,11514,15.34
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,46,Suri,ST,,85335,PSP,Mihirlal Chatterji,28583,CPI,Turku Hansda,24227,4356,5.1
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,47,Rajnagar,SC,,74073,INC,Khagendranath Bandopadhyay,23704,FBM,Nishapati Majhi,20457,3247,4.38
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,48,Bolpur,GEN,,28979,INC,Amarendra Nath Sarkar,15882,IND,Santikumar Sirkar,6783,9099,31.4
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,49,Labhpur,GEN,,33820,CPI,Radhanath Chattoraj,15919,INC,Baidyanath Bandopadhyaya,15327,592,1.75
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,50,Ketugram,SC,,64975,INC,Sankar Dass,35699,CPI,Abdus Sattar,15456,20243,31.16
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,51,Katwa,GEN,,37022,INC,Tarapada Chaudhuri,20102,CPI,Subodh Chaudhuri,15799,4303,11.62
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,52,Purbasthali,GEN,,33194,INC,Bimalananda Taratirtha,18704,CPI,Subodh Chandra Bhowal,14490,4214,12.7
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,53,Monteswar,GEN,,28628,IND,Bhakta Chandra Roy,12900,INC,Annada Prasad Mandal,12562,338,1.18
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,54,Kalna,ST,,73018,CPI,Hare Krishna Konar,32996,INC,Jamadar Majhi,26900,6096,8.35
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,55,Raina,SC,,57295,PSP,Dasorathi Tah,31245,INC,Gobardhan Pakray,26050,5195,9.07
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,56,Burdwan,GEN,,31925,CPI,Benoy Krishna Chowdhury,15529,INC,Narayan Chaudhury,15136,393,1.23
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,57,Galsi,SC,,80056,IND,Fakir Chandra Roy,28380,FBM,Pramatha Nath Dhibar,20445,7935,9.91
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,58,Ausgram,GEN,,23035,INC,Kanailal Das,10403,IND,Anuja Kumar Chattapashya,6435,3968,17.23
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,59,Bhatar,GEN,,30180,INC,Abhalata Kundu,14922,PSP,Sundar Gopal Mitra,10274,4648,15.4
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,60,Ondal,SC,,43625,INC,Ananda Gopal Mukhopadhya,22129,CPI,Dhawajadhari Mondal,15265,6864,15.73
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,61,Jamuria,SC,,39094,INC,Baidya Nath Mondal,12701,PSP,Amarendra Mondal,12681,20,0.05
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,62,Kulti,GEN,,17886,PSP,Benarashi Prosad Jha,8754,INC,Joynarayan Sharma,5083,3671,20.52
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,63,Hirapur,GEN,,23942,IND,Taher Hossain,13221,INC,Amulya Ratan Acharya,8482,4739,19.79
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,64,Asansol,GEN,,23302,INC,Shib Das Ghatak,10570,CPI,Bijy Pal,9191,1379,5.92
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,65,Raghunathpur,SC,,41948,INC,Nepal Bouri,13897,IND,Shankar Narayan Singha Deo,9236,4661,11.11
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,66,Jhalda,GEN,,23265,INC,Debendra Nath Mahato,11394,IND,Samarendra Nath Ojha,8326,3068,13.19
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,67,Arsa,GEN,,15166,IND,Sagar Chandra Mahato,4012,INC,Motilal Majhi,2983,1029,6.78
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,68,Purulia,SC,,64867,IND,Labanya Prava Ghosh,19280,INC,Nakul Chandra Sahis,11019,8261,12.74
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,69,Balarampur,GEN,,19516,IND,Bhim Chandra Mahato,8035,INC,Ishan Mahanty,5033,3002,15.38
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,70,Manbazar,ST,,55174,IND,Satya Kinkar Mahato,21095,INC,Chaitan Majhi,13084,8011,14.52
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,71,Kashipur,ST,,53290,INC,Budhan Majhi,14009,IND,Ledu Majhi,13394,615,1.15
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,72,Bankura,SC,,60264,INC,Sihsuram Mandal,26344,HMS,Anath Bandhu Roy,17280,9064,15.04
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,73,Chhatna,ST,,45460,INC,Dhirendra Nath Chattopadhyay,18986,HMS,Kamala Kanta Hembram,9902,9084,19.98
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,74,Onda,SC,,62632,INC,Ashutosh Mallick,21084,HMS,Gokul Behari Das,11816,9268,14.8
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,75,Raipur,ST,,71854,INC,Sudha Rani Dutta,15830,PSP,Jadu Nath Murmu,6486,9344,13.0
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,76,Vishnupur,SC,,81814,INC,Kiran Chandra Digar,34059,HMS,Purabi Mukhopadyay,15544,18515,22.63
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,77,Patrasayer,SC,,57375,INC,Bhabataran Chakravarty,26475,CPI,Guru Pada Khan,23951,2524,4.4
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,78,Kotulpur,GEN,,27471,INC,Jagannath Kolay,21749,HMS,Mathuranath Sen,4016,17733,64.55
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,79,Arambagh,GEN,,31078,INC,Radha Krishna Pal,22484,FBM,Monoranjan Roy,5648,16836,54.17
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,80,Khanakul,SC,,101048,INC,Panchanan Digpati,54741,CPI,Prafulla Chandra Sen,27254,27487,27.2
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,81,Tarakeswar,GEN,,30768,INC,Parbati Hazra,22160,PSP,Shyama Sankar Chakraborty,8608,13552,44.05
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,82,Dhaniakhali,SC,,80064,INC,Radha Nath Das,29548,IND,D. N. Mukherjee,17633,11915,14.88
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,83,Balagarh,GEN,,36294,CPI,Bejoy Krishna Modak,17257,INC,Brindabon Chattopadhyay,16298,959,2.64
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,84,Chinsurah,GEN,,40803,INC,Bhupati Majumder,23174,FBM,Sambhu Charan Ghose,16582,6592,16.16
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,85,Chandernagore,GEN,,35787,IND,Hirendrra Kumar Chattopadhyay,18588,INC,Prabhat Kumar Palit,16052,2536,7.09
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,86,Bhadreswar,GEN,,37070,INC,Bomkesh Mazumder,20563,IND,Saroj Ghosal,16507,4056,10.94
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,87,Serampore,GEN,,40388,CPI,Panchugopal Bhaduri,21242,INC,Sankari Prosad Mukherjee,17958,3284,8.13
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,88,Uttarpara,GEN,,36610,CPI,Monoranjan Hazra,20745,INC,Bishnu Charan Banerjee,14371,6374,17.41
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,89,Singur,GEN,,43597,INC,Provakar Pal,22889,CPI,Ajit Kumar Basu,20024,2865,6.57
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,90,Jangipara,SC,,84676,INC,Biswanath Saha,28044,CPI,Kanai Dey,24020,4024,4.75
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,91,Jagatballavpur,GEN,,36452,FBM,Brindaban Behari Basu,21265,INC,Pashupati Mukhopadhyay,15187,6078,16.67
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,92,Domjur,GEN,,41852,CPI,Tarapada De,25236,INC,Biswaratan Ganguly,15904,9332,22.3
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,93,Bally,GEN,,34067,INC,Monilal Basu,16600,CPI,Biren Banerjee,16048,552,1.62
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,94,Howrah North,GEN,,19784,CPI,Samar Mukhopadhyay,9370,INC,Saila Kumar Mukhopadhyay,9230,140,0.71
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,95,Howrah West,GEN,,26838,INC,Bankim Chandra Kar,10524,PSP,Shivnath Bandyopadhyay,9971,553,2.06
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,96,Howrah East,GEN,,34033,INC,Beni Chandra Dutta,16106,CPI,Naresh Das Gupta,15168,938,2.76
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,97,Howrah South,GEN,,30078,FBM,Kanailal Bhattacharjee,18126,INC,Bejoy Krishna Bhattacharjee,11952,6174,20.53
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,98,Sankrail,SC,,106296,CPI,Shyama Prosanna Bhattacharjee,35850,FBM,Apurbalal Majumdar,33498,2352,2.21
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,99,Uluberia,SC,,62074,FBM,Bijoy Bhusan Mondal,31594,INC,Abani Kumar Basu,30480,1114,1.79
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,100,Shyampur,GEN,,41508,FBM,Sasabindu Bera,22633,INC,Murari Mohan Manna,17864,4769,11.49
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,101,Bagnan,GEN,,38053,CPI,Amal Kumar Ganguli,22921,INC,Sambhu Charan Mukherjee,14177,8744,22.98
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,102,Amta East,GEN,,34441,PSP,Gobinda Charan Maji,17972,INC,Tara Pada Pramanik,16469,1503,4.36
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,103,Amta West,GEN,,37134,INC,Arabinda Roy,15780,IND,Bhudev Mullick,10363,5417,14.59
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,104,Daspur,GEN,,45441,INC,Bhabani Ranjan Panja,25917,CPI,Mrigendra Bhattacharjya,16959,8958,19.71
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,105,Ghatal,SC,,75484,INC,Harendra Nath Dolui,39624,CPI,Lakshman Chandra Sarkar,29370,10254,13.58
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,106,Garhbeta,ST,,71082,CPI,Saroj Roy,23572,INC,Tusar Tudu,21157,2415,3.4
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,107,Midnapur,GEN,,24383,INC,Anjali Khan,10086,CPI,Anil Kumar Bhanja,6837,3249,13.32
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,108,Binpur,ST,,59000,CPI,Sudhir Kumar Pandey,14743,INC,Nripendra Gopal Mitra,12756,1987,3.37
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,109,Jhargram,GEN,,27517,INC,Mahendra Mahata,12777,PSP,Bishnu Pada Hazra,11475,1302,4.73
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,110,Gopiballavpur,ST,,61429,INC,Surendra Nath Mahata,25528,PSP,Jagatpati Hansda,14702,10826,17.62
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,111,Kharagpur,GEN,,19844,CPI,Narayan Chobey,11481,INC,Mohammad Momtaz,7054,4427,22.31
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,112,Kharagpur Local,SC,,65694,INC,Mrityunjoy Jana,29460,CPI,Krishna Prasad Mandal,16815,12645,19.25
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,113,Debra,GEN,,36202,INC,Mohini Mohan Pat,19343,PSP,Ganga Pada Kuar,14113,5230,14.45
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,114,Sabang,GEN,,37502,INC,Gopal Chandra Das Adhikari,18882,BJS,Gauranga Chandra Samanta,13401,5481,14.62
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,115,Dantan,GEN,,31888,INC,Charu Chandra Mahanty,18310,IND,Jnanendra Kumar Chaudhury,10352,7958,24.96
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,116,Pataspur,GEN,,33694,PSP,Sisir Kumar Das,17643,INC,Giridhari Maity,13116,4527,13.44
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,117,Egra,GEN,,36570,PSP,Bhuban Chandra Kar Mahapatra,16323,INC,Hrishikesh Chakravarty,15339,984,2.69
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,118,Ramnagar,GEN,,37081,INC,Trailokya Nath Pradhan,20934,PSP,Balailal Das Mahapatra,16147,4787,12.91
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,119,Contai South,GEN,,39974,INC,Rashbehari Pal,19236,PSP,Sudhir Chandra Das,18145,1091,2.73
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,120,Contai North,GEN,,41109,PSP,Natenda Nath Das,20586,INC,Sudhanshu Sekhar Panda,20523,63,0.15
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,121,Bhagwanpur,SC,,89379,INC,Bhikari Mandal,42770,PSP,Basanta Kumar Panda,40393,2377,2.66
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,122,Panskura West,GEN,,46685,INC,Shyamadas Bhattacharyya,26303,CPI,Geeta Mukherji,19134,7169,15.36
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,123,Pansuka East,GEN,,40566,INC,Rajani Kanta Pramanik,22500,CPI,Subal Bera,18066,4434,10.93
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,124,Tamiuk,GEN,,46075,INC,Ajoy Kumar Mukherji,26522,CPI,Biswanath Mukherji,19553,6969,15.13
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,125,Nandigram North,GEN,,46668,INC,Subodh Chandra Maity,27445,FBM,Benoy Krishna Hazra,19223,8222,17.62
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,126,Nandigram South,GEN,,48535,CPI,Bhupal Chandra Panda,25346,INC,Prabir Chandra Jana,23189,2157,4.44
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,127,Mahishadal,SC,,87575,PSP,Prafulla Chandra Ghosh,36854,INC,Mahatab Chand Das,36848,6,0.01
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,128,Mayna,GEN,,45699,INC,Ananga Mohan Das,22315,CPI,Kinailal Bhowmick,17252,5063,11.08
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,129,Cossipore,GEN,,28873,PSP,Daben Sen,14614,INC,Biswanath Roy,13610,1004,3.48
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,130,Belgachia,GEN,,33475,CPI,Ganesh Ghosh,17501,INC,Nandalal Banerjee,10575,6926,20.69
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,131,Shampukur,GEN,,30847,FBM,Hemanata Kumar Bose,22551,INC,Reba Sen,8296,14255,46.21
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,132,Burtola North,GEN,,32827,PSP,Sudhir Chandra Ray Chaudhuri,21084,INC,Appersh Bhattacharjee,11743,9341,28.46
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,133,Burtola South,GEN,,30098,IND,Amarendra Nath Basu,14022,INC,Sushrid Rudhra,11245,2777,9.23
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,134,Manicktola,GEN,,33505,CPI,Ranendra Nath Sen,22444,INC,Bankim Banerjee,10243,12201,36.42
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,135,Jorabagan,GEN,,34232,INC,Nepal Ray,15979,FBM,Ajit Kumar Biswas,13797,2182,6.37
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,136,Jorasanko,GEN,,26925,INC,Anandilall Poddar,16090,FBM,Nalini Kanta Guha,10152,5938,22.05
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,137,Bara Bazar,GEN,,26843,INC,Ishwar Das Jalan,20076,IND,Sitaram Seth,4135,15941,59.39
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,138,Sukeas Street,GEN,,24581,IND,Sihrid Malik Chowdhury,13217,INC,Shiv Kumar Khanna,10663,2554,10.39
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,139,Vidyasagar,GEN,,32015,CPI,Narayan Chandra Roy,17718,INC,Sankar Prasad Mitra,14297,3421,10.69
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,140,Beliaghata,SC,,61542,CPI,Jagat Bose,33054,INC,Rama Shanker Prasad,20560,12494,20.3
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,141,Bow Bazar,GEN,,31060,INC,Bidhan Chandra Roy,15550,CPI,Md. Ismail,15010,540,1.74
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,142,Muchipara,GEN,,30338,IND,Jatindra Chandra Chakravorty,15251,INC,Pratap Ch. Chandra,14740,511,1.68
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,143,Taltola,GEN,,27002,CPI,Dhirendra Nath Dhar,14093,INC,Naresh Nath Mukherjee,12586,1507,5.58
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,144,Entally,GEN,,27910,CPI,Abu Asad Md. Obaidul Ghani,16618,INC,Jogesh Chandra Gupta,10529,6089,21.82
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,145,Chowringhee,GEN,,21576,INC,Bijoy Singh Nahar,15019,PSP,Hazi Md. Ariff,5869,9150,42.41
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,146,Bhowanipur,GEN,,26972,INC,Siddhartha Snenkar Roy,13699,PSP,Saila Sen,6928,6771,25.1
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,147,Ballygunge,GEN,,29249,CPI,Jnendra Mazumder,14654,INC,Mira Dutta Gupta,12830,1824,6.24
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,148,Rashbehari Avenue,GEN,,30240,PSP,Sunil Das,11968,INC,Priya Ranjan Sen,11877,91,0.3
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,149,Alipore,GEN,,26885,CPI,Somnath Lahiri,16535,INC,Hemnath Sanyal,10030,6505,24.2
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,150,Kalighat,GEN,,33988,CPI,Manikuntala Sen,17135,INC,Bivabati Mitra,16271,864,2.54
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,151,Ekbalpore,GEN,,23218,INC,Narenda Nath Sen,11251,CPI,Sitaram Singh,6424,4827,20.79
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,152,Fort,GEN,,19180,INC,Maitreyee Bose,9877,PSP,Narayan Das Gupta,4199,5678,29.6
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,153,Tollygunge,GEN,,53806,PSP,Haridas Mitra,30412,INC,Bidhu Bhushan Ghosh,16091,14321,26.62
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,154,Garden Reach,GEN,,32233,CPI,Shaikh Abduallah Farooquie,16619,INC,S.M. Abdullah,12685,3934,12.2
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,155,Behala,GEN,,31924,CPI,Rabindra Nath Mukhopadhyay,20683,INC,Sailendra Nath Roy,10646,10037,31.44
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,156,Mahashtola,GEN,,34020,CPI,Sudhir Chandra Bhandari,14091,INC,Narul Haque Mali,11896,2195,6.45
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,157,Budge Budge,GEN,,35804,CPI,Bankim Mukherji,18443,INC,Abu Mohammed Akhtaruzaman,12708,5735,16.02
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,158,Bishnupur,SC,,78106,CPI,Provash Chandra Roy,28585,INC,Rabindra Nath Roy,26525,2060,2.64
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,159,Baruipur,SC,,77399,CPI,Gangadhar Naskar,35628,INC,Khagendra Kumar Roy Chowdhury,21360,14268,18.43
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,160,Magrahat,SC,,92352,INC,Ardhendu Sekhar Naskar,35242,CPI,Abul Hashem,19311,15931,17.25
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,161,Falta,GEN,,36202,INC,Khagendra Nath Das,18745,CPI,Jyotish Chandra Roy,17457,1288,3.56
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,162,Diamond Harbour,GEN,,38509,PSP,Ramanuj Haider,15171,INC,Jagadish Chandra Haider,11175,3996,10.38
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,163,Kulpi,GEN,,43059,INC,Hansadhwaj Dhara,22948,PSP,Hrishikesh Haider,18403,4545,10.56
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,164,Kakdwip,GEN,,44807,INC,Maya Banerji,28764,PSP,Haripada Baguli,16043,12721,28.39
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,165,Mathurapur,SC,,85848,INC,Bhusan Chandra Das,32273,PSP,Brindaban Gayen,18840,13433,15.65
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,166,Joynagar,SC,,99254,IND,Subodh Banerjee,22933,INC,Renupada Halder,15669,7264,7.32
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,167,Bhangar,GEN,,37157,INC,Hem Chandra Naskar,16302,IND,Mazammel Hussain,10576,5726,15.41
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,168,Canning,SC,,58743,INC,Abdus Shokur,31756,CPI,Khagenda Nath Naskar,21192,10564,17.98
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,169,Sandeshkhali,GEN,,30361,IND,Haran Chandra Mondal,11154,INC,Jyotish Chandra Roy,7864,3290,10.84
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,170,Hasnabad,SC,,88612,INC,Rajkrishna Mondal,29812,CPI,Hemanta Kumar Ghosal,29085,727,0.82
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,171,Basirhat,GEN,,34146,INC,Profulla Nath Banerjee,13330,PSP,Samar Guha,12630,700,2.05
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,172,Baduria,GEN,,41871,INC,Md. Zia Ul Haque,24088,CPI,Gopen Gaine,12601,11487,27.43
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,173,Swarupnagarr,GEN,,42434,INC,Mohammad Ishaque,14992,CPI,Jamini Ranjan Sen,14721,271,0.64
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,174,Haroa,GEN,,29973,INC,Zahangir Kabir,14052,CPI,Syed Monsur Habibullah,9073,4979,16.61
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,175,Habra,GEN,,48897,INC,Tarun Kanti Ghosh,29825,CPI,Ambika Chakrabatty,17259,12566,25.7
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,176,Degsanga,SC,,81923,INC,Rafiuddin Ahmed,25627,CPI,Atul Krishna Roy,20616,5011,6.12
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,177,Baraset,GEN,,33800,FBM,Chitto Basu,13455,INC,Amulyadhan Muhkhopadhyay,9422,4033,11.93
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,178,Dum Dum,GEN,,46063,PSP,Pabitra Mohan Roy,26990,INC,Kanai Lal Das,15200,11790,25.6
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,179,Baranagar,GEN,,47721,CPI,Jyoti Bose,28269,INC,Kanailall Dhole,18852,9417,19.73
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,180,Khardah,GEN,,33297,PSP,Satkari Mitra,21412,INC,Phanindra Nath Mukherjee,11089,10323,31.0
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,181,Titagarh,GEN,,28630,INC,Krishna Kumar Sukla,12768,FBM,Amal Bagchi,10258,2510,8.77
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,182,Noapara,GEN,,30316,PSP,Panchanan Bhattacharjee,17765,INC,Kali Mookherjee,12111,5654,18.65
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,183,Bhatpara,GEN,,23642,CPI,Sitaram Gupta,9417,INC,Dayaram Beri,9231,186,0.79
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,184,Naihati,GEN,,32659,CPI,Gopal Basu,17128,INC,Nirmal Kumar Sen,13218,3910,11.97
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,185,Bijpur,GEN,,30724,CPI,Niranjan Sen Gupta,15456,INC,Renu Majumder,12834,2622,8.53
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,186,Bongaon,GEN,,125910,CPI,Ajit Kumar Ganguli,42349,INC,Jiban Ratan Dhar,35809,6540,5.19
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,187,Chakdah,GEN,,34946,PSP,Suresh Chandra Banerjee,18189,INC,Santi Das,14967,3222,9.22
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,188,Ranaghat,GEN,,29583,INC,Benoy Kumar Chatterjee,12309,PSP,Ashim Kumar Mazumder,9558,2751,9.3
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,189,Haringhatta,SC,,83398,INC,Promatha Ranjan Thakur,40797,CPI,Smarajit Bandyopadhyay,34677,6120,7.34
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,190,Santipur,GEN,,36628,INC,Haridas Dey,17180,IND,Kanai Pal,13470,3710,10.13
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,191,Nabadwip,GEN,,36244,INC,Niranjan Modak,18050,CPI,Amiya Kumar Roy,17166,884,2.44
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,192,Krishnagar,GEN,,26798,INC,Jagannath Majumder,16541,IND,Shibaram Gupta,10257,6284,23.45
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,193,Nakashipara,SC,,67626,INC,S. M. Fazlur Rahman,43926,IND,Mahananda Haldar,14533,29393,43.46
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,194,Tehatta,GEN,,32454,INC,Sankardas Bandyopadhyay,22940,PSP,Ramesh Chandra Goswami,9514,13426,41.37
+ae-west-bengal-1957,AE,West Bengal,1957,1957,official,195,Karimpur,GEN,,30424,INC,Bijoy Lal Chattopadhyay,17035,IND,Satyendra Nath Choudhury,5714,11321,37.21

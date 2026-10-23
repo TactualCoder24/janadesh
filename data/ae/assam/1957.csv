@@ -1,0 +1,90 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-assam-1957,AE,Assam,1957,1957,official,1,Lungleh,ST,,10900,IND,C. Thumluaia,5922,,C. Chhunga,,5922,54.33
+ae-assam-1957,AE,Assam,1957,1957,official,2,Aijal East,ST,,12844,IND,Lalmawia,5337,,Thanhlira,,5337,41.55
+ae-assam-1957,AE,Assam,1957,1957,official,3,Aijal West,ST,,18742,IND,Thanglura,9502,,Malsawma. J,,9502,50.7
+ae-assam-1957,AE,Assam,1957,1957,official,4,Patharkandi,SC,,86057,IND,"Upadhyaya, Biswanath",28965,CPI,Gopesh Namasudra,22768,6197,7.2
+ae-assam-1957,AE,Assam,1957,1957,official,5,Karimganj South,GEN,,25533,INC,"Chowdhury , Abdul Hamid",13402,IND,"Swami, Nanigopal",11382,2020,7.91
+ae-assam-1957,AE,Assam,1957,1957,official,6,Karimganj North,GEN,,28932,PSP,"Das, Ranendra Mohan",14960,INC,"Das, Haradayal",13972,988,3.41
+ae-assam-1957,AE,Assam,1957,1957,official,7,Badarpur,GEN,,27929,INC,"Choudhury, Moulana Md. Abdul Jalil",14854,PSP,"Sen, Rathindra Nath",12412,2442,8.74
+ae-assam-1957,AE,Assam,1957,1957,official,8,Hailakandi,GEN,,24466,INC,"Majumdar, Abdul Matlib",12705,IND,Rudrapal Rampirit,9591,3114,12.73
+ae-assam-1957,AE,Assam,1957,1957,official,9,Katlicherra,GEN,,24304,INC,"Roy, Gouri Shankar",15562,PSP,"Nath, Lal Behari",8742,6820,28.06
+ae-assam-1957,AE,Assam,1957,1957,official,10,Silchar West,GEN,,28959,INC,"Chanda, Jyotsna",16036,CPI,"Bhattacharjee, Achinta Kumar",12923,3113,10.75
+ae-assam-1957,AE,Assam,1957,1957,official,11,Silchar East,GEN,,30759,INC,"Choudhury, Moinul Haque",21190,IND,"Choudhury, Jitendra Nath",9569,11621,37.78
+ae-assam-1957,AE,Assam,1957,1957,official,12,Katigora,GEN,,23921,INC,"Chakravarty, Hem Chandra",12394,IND,"Sinha, Kameswar",6102,6292,26.3
+ae-assam-1957,AE,Assam,1957,1957,official,13,Udharband,GEN,,27921,INC,"Barlaskar, Tazamulali",19170,IND,"Sinha, Sukhamay",8751,10419,37.32
+ae-assam-1957,AE,Assam,1957,1957,official,15,Sonai,GEN,,28384,INC,"Sinha, Nanda Kishore",14779,IND,Arjan Ali,5804,8975,31.62
+ae-assam-1957,AE,Assam,1957,1957,official,19,Mikir Hills East,ST,,12734,IND,"Terang, Sai Sai",6116,INC,"Terang, Barelong",4089,2027,15.92
+ae-assam-1957,AE,Assam,1957,1957,official,20,Mikir Hills West,ST,,8912,INC,"Teron, Chatrasing",6485,IND,"Master, Bajong Tiso",1694,4791,53.76
+ae-assam-1957,AE,Assam,1957,1957,official,21,North Cachar Hills,ST,,8908,IND,"Hamdhan, Mohan",5135,INC,"Hagjer, Joy Bhadra",3773,1362,15.29
+ae-assam-1957,AE,Assam,1957,1957,official,22,Jowai,ST,,16865,IND,"Khyriem, Larsingh",6349,INC,"Rymbai, Kistobin",4336,2013,11.94
+ae-assam-1957,AE,Assam,1957,1957,official,23,Nongpoh,ST,,16433,IND,"Siem, Jormanik",12661,INC,"Alley, Aaron",3772,8889,54.09
+ae-assam-1957,AE,Assam,1957,1957,official,24,Shillong,GEN,,18578,IND,"Roy, Brojo Mohon",8755,INC,"Khongmen, Bonily",6063,2692,14.49
+ae-assam-1957,AE,Assam,1957,1957,official,25,Nongstoin,ST,,12391,IND,"Cotton, Henry",7233,INC,"Jones, Horen",1912,5321,42.94
+ae-assam-1957,AE,Assam,1957,1957,official,26,Cherrapunji,ST,,19174,IND,"Nichols, Roy J. J. M.",7583,INC,"Cajee, Theodore",4196,3387,17.66
+ae-assam-1957,AE,Assam,1957,1957,official,27,Baghmara,ST,,12701,IND,"Momin, Emerson",7896,,"Marak, Maniram",,7896,62.17
+ae-assam-1957,AE,Assam,1957,1957,official,28,Tura,ST,,11546,IND,"Narak, Mody K.",7757,INC,"Sangma, Noho",3789,3968,34.37
+ae-assam-1957,AE,Assam,1957,1957,official,29,Phulbari,ST,,11270,IND,"Sangma, Williamson A.",5720,INC,"Sangma, Emonsing",5550,170,1.51
+ae-assam-1957,AE,Assam,1957,1957,official,30,Dainadubi,ST,,11664,IND,"Momin, Harison",7396,INC,"Sangma, Aaran",3051,4345,37.25
+ae-assam-1957,AE,Assam,1957,1957,official,31,Mankachar,GEN,,15615,INC,"Ahmed, Kobad Hussain",7545,IND,"Islam, Zahirul",7236,309,1.98
+ae-assam-1957,AE,Assam,1957,1957,official,32,Salmara South,GEN,,18269,PSP,"Ali, Md. Sahadat",10608,INC,"Basit, Md. Bazlul",7661,2947,16.13
+ae-assam-1957,AE,Assam,1957,1957,official,33,Goalpara,ST,,74526,INC,"Rabha, Hakim Chandra",23233,IND,"Nath, Khagendra Nath",15844,7389,9.91
+ae-assam-1957,AE,Assam,1957,1957,official,34,North Salmara,SC,,55858,INC,"Das, Hareswar",23739,IND,"Dr. Das, Ghanashyam",16460,7279,13.03
+ae-assam-1957,AE,Assam,1957,1957,official,35,Kokrajhar,ST,,40603,INC,"Brahma, Rupnath",19455,CPI,"Brahmachari, Swami Krishnananda",10098,9357,23.05
+ae-assam-1957,AE,Assam,1957,1957,official,36,Gossaigaon,GEN,,20604,IND,"Tudu, Mathias",8631,INC,"Sinha, Sarat Chandra",8202,429,2.08
+ae-assam-1957,AE,Assam,1957,1957,official,37,Golakganj,GEN,,25611,INC,"Pradhani, Bhuban Chandra",11004,IND,"Ali, Syed",7924,3080,12.03
+ae-assam-1957,AE,Assam,1957,1957,official,38,Dhubri,GEN,,14336,INC,"Pradhani, Tamijuddin",8738,PSP,Abul Fazal,4718,4020,28.04
+ae-assam-1957,AE,Assam,1957,1957,official,39,Gauripur,GEN,,25323,IND,"Barua, Prakritish Chandra",9464,PSP,"Sheik, Md. Azad Ali",7973,1491,5.89
+ae-assam-1957,AE,Assam,1957,1957,official,40,Bilasipara,GEN,,28224,PSP,"Ahmed, Jahanuddin",10944,INC,Ali Makshed,9011,1933,6.85
+ae-assam-1957,AE,Assam,1957,1957,official,41,Tarabari,GEN,,25294,PSP,Tajuddin Ahmed,12759,INC,"Talukdar, Dhaniram",12535,224,0.89
+ae-assam-1957,AE,Assam,1957,1957,official,42,Jania,GEN,,25477,INC,Fakhruddin Ali Ahmed,16848,PSP,"Abdus Sattar, Dr. Moulavi",5002,11846,46.5
+ae-assam-1957,AE,Assam,1957,1957,official,43,Sorbhog,GEN,,24819,IND,"Talukdar, Ghaneshyam",10879,INC,"Rehman, Ataur",9636,1243,5.01
+ae-assam-1957,AE,Assam,1957,1957,official,44,Barpeta,SC,,45352,INC,"Das, Mahadev",22831,PSP,"Das, Srihari",22521,310,0.68
+ae-assam-1957,AE,Assam,1957,1957,official,45,Patacharkuchi,GEN,,42624,PSP,"Das, Birendra Kumar",18218,INC,"Das, Surendra Nath",17615,603,1.41
+ae-assam-1957,AE,Assam,1957,1957,official,46,Rangiya,ST,,36969,INC,"Das, Baikuntha Nath",21847,CPI,"Sarma, Siddhinath",9353,12494,33.8
+ae-assam-1957,AE,Assam,1957,1957,official,47,Kamalpur,ST,,26110,INC,"Goswami, Sarat Chandra",14280,PSP,"Chaudhury, Lakshyadhar",8614,5666,21.7
+ae-assam-1957,AE,Assam,1957,1957,official,48,Gauhati,GEN,,29382,CPI,"Bhattacharjya, Gouri Sankar",14182,INC,"Barah, Lakshmidhar",13209,973,3.31
+ae-assam-1957,AE,Assam,1957,1957,official,49,Palasbari,GEN,,28585,INC,"Das, Radhika Ram",15078,IND,"Kalita, Govinda",13507,1571,5.5
+ae-assam-1957,AE,Assam,1957,1957,official,50,Boko,GEN,,20790,INC,"Chaudhury, Radha Charan",12224,PSP,"Barah, Harendra Chandra",8566,3658,17.59
+ae-assam-1957,AE,Assam,1957,1957,official,51,Rampur,GEN,,26384,PSP,"Goswami, Hareswar",15061,INC,"Chaudhury, Prabin Kumar",9629,5432,20.59
+ae-assam-1957,AE,Assam,1957,1957,official,52,Hajo,GEN,,29859,INC,"Medhi, Bisnu Ram",24012,CPI,Hazarika Praneswar,5847,18165,60.84
+ae-assam-1957,AE,Assam,1957,1957,official,53,Nalbari West,GEN,,28525,CPI,"Deka, Tarun Sen",16131,INC,"Goswami, Prabhat Chandra",12394,3737,13.1
+ae-assam-1957,AE,Assam,1957,1957,official,54,Nalbari East,GEN,,25023,PSP,"Choudhury, Prabhat Narayan",16697,INC,"Goswami, Sriman Prafulla",7491,9206,36.79
+ae-assam-1957,AE,Assam,1957,1957,official,55,Mangaldoi,GEN,,17013,INC,"Datta, Dandi Ram",7624,IND,"Ali, Nazir",3767,3857,22.67
+ae-assam-1957,AE,Assam,1957,1957,official,56,Panery,ST,,56001,IND,"Patowari, Hiralal",24035,INC,"Deka, Pakhirai",14838,9197,16.42
+ae-assam-1957,AE,Assam,1957,1957,official,57,Dalgaon,GEN,,17316,IND,Md. Matlebuddin,9146,INC,"Ali, Shamsher",4788,4358,25.17
+ae-assam-1957,AE,Assam,1957,1957,official,58,Dhekiajuli,GEN,,18955,INC,"Das, Omeo Kumar",15018,PSP,"Purtti, Machindas",3937,11081,58.46
+ae-assam-1957,AE,Assam,1957,1957,official,59,Barchalla,GEN,,20217,INC,"Das, Mahi Kanta",13258,IND,"Hazarika, Bharat Chandra",6959,6299,31.16
+ae-assam-1957,AE,Assam,1957,1957,official,60,Balipara,GEN,,26361,INC,"Sarma, Biswadeb",19248,CPI,"Singha, Solomon Kumar",7113,12135,46.03
+ae-assam-1957,AE,Assam,1957,1957,official,61,Tezpur,GEN,,18323,INC,"Agarwalla, Kamala Prasad",11624,IND,"Singha, Purna Narayan",4033,7591,41.43
+ae-assam-1957,AE,Assam,1957,1957,official,62,Biswanath,GEN,,19810,INC,"Tripathi, Kamakhya Prasad",14418,CPI,"Bara, Chandra Nath",5392,9026,45.56
+ae-assam-1957,AE,Assam,1957,1957,official,63,Gohpur,GEN,,25061,INC,"Upadhaya, Bishnulal",18622,PSP,"Mahanta, Gopal Chandra",6439,12183,48.61
+ae-assam-1957,AE,Assam,1957,1957,official,64,Laharighat,ST,,40433,INC,"Bora, Motiram",30340,PSP,"Deori, Dhirsingh",10093,20247,50.08
+ae-assam-1957,AE,Assam,1957,1957,official,65,Dhing,GEN,,17053,INC,Nurul Islam,9933,IND,"Master, Md. Hasen Ali",2463,7470,43.8
+ae-assam-1957,AE,Assam,1957,1957,official,67,Kaliabor,GEN,,21705,INC,"Borah, Lila Kanta",15945,IND,"Biswakarma, Hiralal",2285,13660,62.93
+ae-assam-1957,AE,Assam,1957,1957,official,68,Samaguri,GEN,,23016,INC,"Barthakur, Usha",16201,IND,"Saikia, Bhabendra Kumar",5863,10338,44.92
+ae-assam-1957,AE,Assam,1957,1957,official,69,Nowgong,SC,,67733,INC,"Hazarika, Mahendra Nath",27000,CPI,"Borooah, Dev Kanta",25377,1623,2.4
+ae-assam-1957,AE,Assam,1957,1957,official,70,Jamunamukh,GEN,,22696,INC,"Ahmed, Maulavi Rahimuddin",12601,PSP,"Goswami, Lakshmi Prasad",7338,5263,23.19
+ae-assam-1957,AE,Assam,1957,1957,official,71,Lumding,GEN,,21738,INC,"Sarma, Ram Nath",11269,CPI,"Misra, Biresh",4053,7216,33.2
+ae-assam-1957,AE,Assam,1957,1957,official,72,Marangi,GEN,,14183,INC,"Hazarika, Dandeswar",7976,IND,"Datta, Dauleswar",3521,4455,31.41
+ae-assam-1957,AE,Assam,1957,1957,official,73,Golaghat,GEN,,21995,INC,"Barua, Rajendranath",9907,IND,"Phukan, Bhadra",5111,4796,21.8
+ae-assam-1957,AE,Assam,1957,1957,official,74,Dergaon,SC,,32114,INC,"Sarma, Narendra Nath",22848,IND,"Kurmi, Choudhuri Dinanath",3920,18928,58.94
+ae-assam-1957,AE,Assam,1957,1957,official,75,Titabar,GEN,,28550,INC,"Bardoloi, Sarbeswar",12902,IND,"Singh, Sarju Prasad",6853,6049,21.19
+ae-assam-1957,AE,Assam,1957,1957,official,76,Teok,GEN,,20704,INC,"Barua, Harinarayan",10880,PSP,"Chutia, Sonaram",5324,5556,26.84
+ae-assam-1957,AE,Assam,1957,1957,official,77,Amguri,GEN,,21827,IND,"Borborua, Khagendranath",12410,INC,"Chaliha, Bimola Prasad",9417,2993,13.71
+ae-assam-1957,AE,Assam,1957,1957,official,78,Nazira,GEN,,18737,INC,"Chetia, Tankeswar",8598,PSP,"Borpuzari, Baidyanath",7560,1038,5.54
+ae-assam-1957,AE,Assam,1957,1957,official,79,Sonari,GEN,,17124,INC,"Chetia, Purnananda",11745,IND,"Sah, Hemchandro",3423,8322,48.6
+ae-assam-1957,AE,Assam,1957,1957,official,80,Thowra,GEN,,20075,INC,"Saikia, Durgeswar",11917,IND,"Hazarika, Budhanath",4793,7124,35.49
+ae-assam-1957,AE,Assam,1957,1957,official,81,Sibsagar,GEN,,19550,INC,"Gogoi, Girindranath",11638,CPI,"Gogoi, Promode Chandro",7912,3726,19.06
+ae-assam-1957,AE,Assam,1957,1957,official,82,Jorhat,ST,,35767,INC,"Sarmah, Debeswar",23040,PSP,"Dutta, Bangshidhar",12727,10313,28.83
+ae-assam-1957,AE,Assam,1957,1957,official,83,Katonigaon,GEN,,23183,INC,"Barua, Komal, Kumari",10296,IND,"Sarwan, P. M",7157,3139,13.54
+ae-assam-1957,AE,Assam,1957,1957,official,84,North Lakhimpur,ST,,37024,INC,"Bora, Mahanonda",19570,CPI,"Doley, Karka Chandra",12055,7515,20.3
+ae-assam-1957,AE,Assam,1957,1957,official,85,Moran,ST,,43810,INC,"Gohain, Padma Kumari",20525,IND,"Daley, Lalit Kumar",10507,10018,22.87
+ae-assam-1957,AE,Assam,1957,1957,official,86,Dibrugarh,GEN,,14845,CPI,"Barthakur, Nilmoni",8494,INC,"Borua, Romesh Chandra",6351,2143,14.44
+ae-assam-1957,AE,Assam,1957,1957,official,87,Lahowal,GEN,,16794,INC,"Sengupta, Lily",8481,PSP,"Bora, Nibaran Chandra",4566,3915,23.31
+ae-assam-1957,AE,Assam,1957,1957,official,88,Tengakhat,GEN,,15729,INC,"Das, Manik Chandra",10930,PSP,"Dutta, Cheni Ram",2179,8751,55.64
+ae-assam-1957,AE,Assam,1957,1957,official,89,Jaipur,GEN,,13488,INC,"Barua, Jugo Kanta",8387,IND,"Gogoi, Bhadreswar",5101,3286,24.36
+ae-assam-1957,AE,Assam,1957,1957,official,90,Bogdung,GEN,,12103,INC,"Khaund, Indreswar",10192,IND,"Barua, Bhaba Kanta",1911,8281,68.42
+ae-assam-1957,AE,Assam,1957,1957,official,91,Tinsukia,GEN,,16155,INC,"Khemka, Radha Kishen",9870,CPI,"Chowdhury, Barin",3487,6383,39.51
+ae-assam-1957,AE,Assam,1957,1957,official,92,Digboi,GEN,,16617,INC,"Deb Sarma, Dwijesh Chandra",10899,CPI,"Chakravarty, Binoy",3057,7842,47.19
+ae-assam-1957,AE,Assam,1957,1957,official,93,Doom Dooma,GEN,,19247,INC,"Tati, Molia",16674,IND,"Sarma, Mohendra Nath",1576,15098,78.44
+ae-assam-1957,AE,Assam,1957,1957,official,94,Saikhowa,GEN,,12108,INC,"Hazarika , Devendra Nath",7772,IND,"Gahain, Chowmangwang",2646,5126,42.34

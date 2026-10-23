@@ -1,0 +1,71 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,1,Purola,GEN,Uttarkashi,51302,BJP,Durgeshwar Lal,27856,INC,Malchand,21560,6296,12.27
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,2,Yamunotri,GEN,Uttarkashi,51588,IND,Sanjay Dobhal,22952,INC,Deepak Bijalwan,16313,6639,12.87
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,3,Gangotri,GEN,Uttarkashi,59408,BJP,Suresh Singh Chauhan,29619,INC,Vijaypal Singh Sajwan,21590,8029,13.52
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,4,Badrinath,GEN,Chamoli,67358,INC,Rajendra Singh Bhandari,32661,BJP,Mahendra Bhatt,30595,2066,3.07
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,5,Tharali,GEN,Chamoli,62929,BJP,Bhupal Ram Tamta,32852,INC,Dr. Jeet Ram,24550,8302,13.19
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,6,Karnprayag,GEN,Chamoli,58052,BJP,Anil Nautiyal,28911,INC,Mukesh Negi,22196,6715,11.57
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,7,Kedarnath,GEN,Rudraprayag *,59972,BJP,Shaila Rani Rawat,21886,IND,Kuldeep Singh Rawat,13423,8463,14.11
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,8,Rudraprayag,GEN,Rudraprayag *,62526,BJP,Bharat Singh Chaudhary,29660,INC,Pradeep Prasad Thapliyal,19858,9802,15.68
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,9,Ghanshali,GEN,Tehri Garhwal,49026,BJP,Shakti Lal Shah,20949,INC,Dhani Lal Shah,10664,10285,20.98
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,10,Deoprayag,GEN,Tehri Garhwal,47508,BJP,Vinod Kandari,17330,UKD,Diwakar Bhatt,14742,2588,5.45
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,11,Narendranagar,GEN,Tehri Garhwal,56758,BJP,Subodh Uniyal,27430,INC,Om Gopal,25632,1798,3.17
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,12,Pratapnagar,GEN,Tehri Garhwal,42132,INC,Vikram Singh Negi,19131,BJP,Vijay Singh Panwar,16790,2341,5.56
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,13,Tehri,GEN,Tehri Garhwal,46386,BJP,Kishore Upadhyay,19802,UJKP,Dinesh Dhanai,18851,951,2.05
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,14,Dhanolti,GEN,Tehri Garhwal,56113,BJP,Pritam Singh Panwar,22827,INC,Jot Singh Bisht,18143,4684,8.35
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,15,Chakrata,GEN,Dehradun,71394,INC,Pritam Singh,36853,BJP,Ram Sharan Nautiyal,27417,9436,13.22
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,16,Vikasnagar,GEN,Dehradun,81192,BJP,Munna Singh Chauhan,40819,INC,Nav Prabhat,35626,5193,6.4
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,17,Sahaspur,GEN,Dehradun,124751,BJP,Sahdev Singh Pundir,64008,INC,Aryendra Sharma,55653,8355,6.7
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,18,Dharampur,GEN,Dehradun,118321,BJP,Vinod Chamoli,58538,INC,Dinesh Agarwal,48448,10090,8.53
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,19,Raipur,GEN,Dehradun,108360,BJP,Umesh Sharma Kau,65756,INC,Hira Singh Bisht,35704,30052,27.73
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,20,Rajpur Road,GEN,Dehradun,68439,BJP,Khajan Dass,37027,INC,Rajkumar,25864,11163,16.31
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,21,Dehradun Cantt.,GEN,Dehradun,76278,BJP,Savita Kapoor,45492,INC,Suryakant Dhasmana,24554,20938,27.45
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,22,Mussoorie,GEN,Dehradun,78685,BJP,Ganesh Joshi,44847,INC,Godavari Thapli,29522,15325,19.48
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,23,Doiwala,GEN,Dehradun,112508,BJP,Brij Bhushan Gairola,64946,INC,Gaurav (Ginni),35925,29021,25.79
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,24,Rishikesh,GEN,Dehradun,104019,BJP,Prem Chand Aggarwal,52460,INC,Jayendra Chand Ramola,33403,19057,18.32
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,25,Hardwar,GEN,Hardwar,95292,BJP,Madan Kaushik,53147,INC,Satpal Brahamchari,37910,15237,15.99
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,26,B.H.E.L. Ranipur,GEN,Hardwar,113073,BJP,Adesh Chauhan,57544,INC,Rajbir Singh Chauhan,43682,13862,12.26
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,27,Jwalapur,GEN,Hardwar,92263,INC,Er. Ravi Bahadur,42372,BJP,Suresh Rathore,29029,13343,14.46
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,28,Bhagwanpur,GEN,Hardwar,98430,INC,Mamta Rakesh,44808,BSP,Subodh Rakesh,39997,4811,4.89
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,29,Jhabrera,GEN,Hardwar,95048,INC,Virendra Kumar,39652,BJP,Rajpal Singh,31436,8216,8.64
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,30,Pirankaliyar,GEN,Hardwar,98124,INC,Furkan Ahmad,43539,BJP,Munish Kumar Saini,27796,15743,16.04
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,31,Roorkee,GEN,Hardwar,76412,BJP,Pradeep Batra,36986,INC,Yashpal Rana,34709,2277,2.98
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,32,Khanpur,GEN,Hardwar,112891,IND,Umesh Kumar,38767,BSP,Ravindra Singh,31915,6852,6.07
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,33,Manglaur,GEN,Hardwar,87580,BSP,Sarwat Kareem Ansari,32660,INC,Qazi Mohammad Nizamuddin,32062,598,0.68
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,34,Laksar,GEN,Hardwar,81293,BSP,Shahzad,34899,BJP,Sanjay Gupta,24459,10440,12.84
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,35,Hardwar Rural,GEN,Hardwar,106603,INC,Anupama Rawat,50028,BJP,Yatishwaranand,45556,4472,4.2
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,36,Yamkeshwar,GEN,Garhwal,47612,BJP,Renu Bisht,28390,INC,Shailendra Singh Rawat,17980,10410,21.86
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,37,Pauri,GEN,Garhwal,48499,BJP,Rajkumar Pori,25865,INC,Naval Kishor,20127,5738,11.83
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,38,Srinagar,GEN,Garhwal,64381,BJP,(Dr) Dhan Singh Rawat,29618,INC,Ganesh Godiyal,29031,587,0.91
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,39,Chaubattakhal,GEN,Garhwal,41857,BJP,Satpal Maharaj,24927,INC,Keshar Singh,13497,11430,27.31
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,40,Lansdowne,GEN,Garhwal,40960,BJP,Daleep Singh Rawat,24504,INC,Anukriti Gusain Rawat,14636,9868,24.09
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,41,Kotdwar,GEN,Garhwal,76694,BJP,Ritu Khanduri Bhushan,32103,INC,Surendra Singh Negi,28416,3687,4.81
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,42,Dharchula,GEN,Pithoragarh,55919,INC,Harish Singh Dhami,27007,BJP,Dhan Singh Dhami (Dhan Da),25889,1118,2.0
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,43,Didihat,GEN,Pithoragarh,53810,BJP,Vishan Singh,20594,IND,Kishan Bhandari,17368,3226,6.0
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,44,Pithoragarh,GEN,Pithoragarh,69512,INC,Mayukh Mahar,33269,BJP,Chandra Pant,27215,6054,8.71
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,45,Gangolihat,GEN,Pithoragarh,56915,BJP,Fakeer Ram,32296,INC,Khajan Chandra Guddu,22243,10053,17.66
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,46,Kapkot,GEN,Bageshwar,63267,BJP,Suresh Gariya,31275,INC,Lalit Farswan,27229,4046,6.4
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,47,Bageshwar,GEN,Bageshwar,73807,BJP,Chandan Ram Dass,32211,INC,Ranjeet Das,20070,12141,16.45
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,48,Dwarahat,GEN,Almora,48305,INC,Madan Singh Bisht,17766,BJP,Anil Singh Shahi,17584,182,0.38
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,49,Salt,GEN,Almora,44770,BJP,Mahesh Jeena,22393,INC,Ranjeet Singh Rawat,18705,3688,8.24
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,50,Ranikhet,GEN,Almora,41492,BJP,Pramod Nainwal,21047,INC,Karan Mahara,18463,2584,6.23
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,51,Someshwar,GEN,Almora,49218,BJP,Rekha Arya,26161,INC,Rajendra Barakoti,20868,5293,10.75
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,52,Almora,GEN,Almora,54027,INC,Manoj Tewari,24439,BJP,Kailash Sharma,24312,127,0.24
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,53,Jageshwar,GEN,Almora,52074,BJP,Mohan Singh,27530,INC,Govind Singh Kunjwal,21647,5883,11.3
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,54,Lohaghat,GEN,Champawat,62696,INC,Khushal Singh Adhikari,32950,BJP,Puran Singh Fartyal,26912,6038,9.63
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,55,Champawat,GEN,Champawat,63809,BJP,Kailash Chandra Gahtori,32547,INC,Hemesh Kharkwal,27243,5304,8.31
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,56,Lalkuwa,GEN,Nainital,86307,BJP,Dr. Mohan Singh Bisht,46307,INC,Harish Rawat,28780,17527,20.31
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,57,Bhimtal,GEN,Nainital,65456,BJP,Ram Singh Kaira,25632,INC,Dan Singh Bhandari,15788,9844,15.04
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,58,Nainital,GEN,Nainital,60182,BJP,Sarita Arya,31770,INC,Sanjeev Arya,23889,7881,13.1
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,59,Haldwani,GEN,Nainital,99302,INC,Sumit Hridayesh,50116,BJP,Dr. Jogender Pal Singh Rautela,42302,7814,7.87
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,60,Kaladhungi,GEN,Nainital,116880,BJP,Banshidhar Bhagat,67847,INC,Mahesh Chandra,43916,23931,20.47
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,61,Ramnagar,GEN,Nainital,82142,BJP,Diwan Singh Bisht,31094,INC,Mahendra Singh Pal,26349,4745,5.78
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,62,Jaspur,GEN,Udham Singh Nagar *,97417,INC,Adesh Singh Chauhan,42886,BJP,Dr. SHAILENDRA MOHAN SINGHAL,38714,4172,4.28
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,63,Kashipur,GEN,Udham Singh Nagar *,112634,BJP,Trilok Singh Cheema,48508,INC,Narendra Chand Singh,32173,16335,14.5
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,64,Bajpur,GEN,Udham Singh Nagar *,108802,INC,Yashpal Arya,40252,BJP,Rajesh Kumar,38641,1611,1.48
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,65,Gadarpur,GEN,Udham Singh Nagar *,108267,BJP,Arvind Pandey,52841,INC,Premanand Mahajan,51721,1120,1.03
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,66,Rudrapur,GEN,Udham Singh Nagar *,132097,BJP,Shiv Arora,60602,INC,Meena Sharma,40852,19750,14.95
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,67,Kichha,GEN,Udham Singh Nagar *,99534,INC,Tilak Raj Behar,49552,BJP,Rajesh Shukla,39475,10077,10.12
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,68,Sitarganj,GEN,Udham Singh Nagar *,96224,BJP,Saurabh Bahuguna,43354,INC,Navtej Pal Singh,32416,10938,11.37
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,69,Nanak Matta,GEN,Udham Singh Nagar *,91113,INC,Gopal Singh Rana,48746,BJP,Prem Singh Rana,35726,13020,14.29
+ae-uttarakhand-2022,AE,Uttarakhand,2022,2022,official,70,Khatima,GEN,Udham Singh Nagar *,92194,INC,Bhuwan Chandra Kapri,48177,BJP,Pushkar Singh Dhami,41598,6579,7.14

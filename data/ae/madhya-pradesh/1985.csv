@@ -1,0 +1,321 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,1,Sheopur,GEN,,49869,ICS,Satyabhanu Chauhan,18298,BJP,Rama Shankar,13245,5053,10.13
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,2,Bijeypur,GEN,,49001,BJP,Babulalmewara,24430,INC,Pushap Raj Singh,20052,4378,8.93
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,3,Sabalgarh,GEN,,68583,INC,Bhagwati Prasad Bansal,33286,BJP,Mehrwan Singh Rawat,20437,12849,18.73
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,4,Joura,GEN,,58975,INC,Mahesh Dutt Mishra,23677,BJP,Kalisharan,17949,5728,9.71
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,5,Sumawali,GEN,,48216,INC,Kirat Ram Singh Kansana,17035,JNP,Subedar Singh,16060,975,2.02
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,6,Morena,GEN,,48283,BJP,Jahar Singh Sharma,19506,INC,Sadhu Singh,15846,3660,7.58
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,7,Dimni,SC,,35271,BJP,Munshilal,22636,INC,Mansharam Jatav,11021,11615,32.93
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,8,Ambah,SC,,44991,INC,Ram Narayan Sakhawar,21581,JNP,Kishora,13962,7619,16.93
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,9,Gohad,SC,,40564,INC,Chaturvhuj Bhadkari,23370,BJP,Shriram,16351,7019,17.3
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,10,Mehgaon,GEN,,51351,INC,Rustam Singh,18005,JNP,Shiv Kumar,16797,1208,2.35
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,11,Attair,GEN,,44641,INC,Satyadev Katare,21473,BJP,Ramkrishna Singh Jadon,12223,9250,20.72
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,12,Bhind,GEN,,57270,INC,Udayabhan Singh,21127,IND,Narsingh Rao Dixit,15893,5234,9.14
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,13,Ron,GEN,,55216,INC,Ramashankar Singh,23425,BJP,Rajendra Prakash Singh,17208,6217,11.26
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,14,Saitual,GEN,,66601,BJP,Mathura Prasad Mahant,26278,INC,Ramashankar Chaudhary,16500,9778,14.68
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,15,Gwalior,GEN,,54257,BJP,Dharam Vir,25610,INC,Tarasingh Viyogi,17512,8098,14.93
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,16,Lashkar East,GEN,,38595,BJP,Gangaram Bandil,19382,INC,Rashmi Parihar,16261,3121,8.09
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,17,Lashkar West,GEN,,39414,INC,Kamta Prasad,17889,BJP,Shitala Sahaya,16347,1542,3.91
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,18,Morar,GEN,,43228,BJP,Dhyanendra Singh,21380,INC,Girwar Singh,12961,8419,19.48
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,19,Gird,GEN,,47841,INC,Balendu Shukla,23794,BJP,Pooran Singh,12900,10894,22.77
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,20,Dabra,GEN,,45884,INC,Narsinghrao Pawar,26705,BJP,Jagannath Singh Rawat,13016,13689,29.83
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,21,Bhander,SC,,35135,INC,Radhesham Chandoriya,19501,BJP,Badri Prasad,13493,6008,17.1
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,22,Seondha,SC,,34634,INC,Mahendra,20150,BJP,Bhassu Ram,13456,6694,19.33
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,23,Datia,GEN,,46933,INC,Rajendra Kumar Bharti,29931,BJP,Radha Kant,13882,16049,34.2
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,24,Karera,GEN,,55971,INC,Hanumant Singh Dau,25580,BJP,Bhagwat Singh,23790,1790,3.2
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,25,Pohri,GEN,,36875,INC,Himanshu Sharma,16995,BJP,Ram Gopal Verma,11595,5400,14.64
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,26,Shivpuri,GEN,,55099,INC,Ganesh Ram,25085,BJP,Sushil Bahadur Asthana,21986,3099,5.62
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,27,Pichhore,GEN,,70787,INC,Bhaiya Sahab,35693,BJP,Laxmi Narayan,30126,5567,7.86
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,28,Kolaras,SC,,38959,INC,Pooran Singh,22963,BJP,Hari Ram Kale,11314,11649,29.9
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,29,Guna,GEN,,55132,INC,Shivpratap Singh,26475,BJP,Gajadhar Prasad,25721,754,1.37
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,30,Chachaura,GEN,,47111,INC,Devendra Singh,22630,BJP,Rambahadur Singh Parihar,21738,892,1.89
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,31,Raghogarh,GEN,,41407,INC,Mulsingh,23175,BJP,Chanchal Kumar Jain,18013,5162,12.47
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,32,Shadora,SC,,21342,INC,Ramsuman,9303,BJP,Khushalchand Ahirwar,8504,799,3.74
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,33,Ashoknagar,GEN,,49913,INC,Ravindra Singh,24839,BJP,Neelam Singh Yadav,22967,1872,3.75
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,34,Mungaoli,GEN,,49017,INC,Gajram Singh,20052,IND,Anand Kumar,15675,4377,8.93
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,35,Bina,GEN,,52462,BJP,Sudhakar Bapat,26858,INC,Arvind Bhai,23788,3070,5.85
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,36,Khurai,SC,,38698,INC,Malti Arvind Kumar,20231,BJP,Kishan Prasad,17410,2821,7.29
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,37,Banda,GEN,,66277,BJP,Harnamsingh Rathod,32883,INC,Premnarayan,26782,6101,9.21
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,38,Naryaoli,SC,,39302,INC,Lokman Khatik,24564,BJP,Shiv Prasad,7764,16800,42.75
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,39,Sagar,GEN,,46702,INC,Prakash Motilal Jain,28903,BJP,Vinod Kumar Tiwari,8428,20475,43.84
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,40,Surkhi,GEN,,46808,INC,Vitthal Bhai Patel,21659,LKD,Laxminarayan Yadav,13705,7954,16.99
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,41,Rehli,GEN,,53628,BJP,Gopal Bhargawa,30756,INC,Mahadeo Prasad,21066,9690,18.07
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,42,Deori,GEN,,50304,INC,Bhagwat Singh,27580,BJP,Parshuram Sahu,20383,7197,14.31
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,43,Niwari,GEN,,66587,INC,Chaturvedi Ram Ratan,31417,JNP,Nayak Laxmi Narayan,25830,5587,8.39
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,44,Jatara,GEN,,49575,INC,Thakur Das Yadav,23948,BJP,Laxmi Narayan,14488,9460,19.08
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,45,Khargapur,SC,,44735,INC,Vindravan Ahirwar,20186,BJP,Anandi Lal,16572,3614,8.08
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,46,Tikamgarh,GEN,,56294,INC,Yadvendra Singh,32887,CPI,Pratap Narayan Tiwari,10021,22866,40.62
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,47,Malehra,GEN,,51105,BJP,Shivraj Bhaiya,17249,INC,Narendra Kumar Jain,14853,2396,4.69
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,48,Bijawar,GEN,,51084,BJP,Jujhar Singh,24827,INC,Veer Singh,18922,5905,11.56
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,49,Chhatarpur,GEN,,57410,JNP,Jagadamba Prasad Nigam,33071,INC,Swaroop Chand,13581,19490,33.95
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,50,Maharajpur,SC,,41017,INC,Ahirwar Baboolal,17189,BJP,Ahirwar Ram Dayal,15782,1407,3.43
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,51,Chandla,GEN,,50365,INC,Shyam Behari Pathak,19407,BJP,Ansari Mohammed Gani,18544,863,1.71
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,52,Nohata,GEN,,48905,INC,Rajbahudur Singh,26164,BJP,Om Prakash Rai,16584,9580,19.59
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,53,Damoh,GEN,,55657,INC,Mukesh Nayak,26945,BJP,Jayant Kumar Malaiya,26853,92,0.17
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,54,Patharia,SC,,34612,INC,Shyamlal,17050,BJP,Nandram Choudhary,12336,4714,13.62
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,55,Hatta,GEN,,56575,BJP,Ramkrishna Kusmaria,27263,INC,Prabhaskankar Trivedi,24808,2455,4.34
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,56,Panna,GEN,,54104,BJP,Jai Prakash Patel,23040,INC,Parshuram Garg,19142,3898,7.2
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,57,Amanganj,GEN,,38329,BJP,Kashi Prasad,18949,INC,Tulsa Bai,7756,11193,29.2
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,58,Pawai,GEN,,60863,INC,Jaipal Singh,25807,BJP,Lokendra Singh,16329,9478,15.57
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,59,Maihar,GEN,,61690,IND,Lalji Patel,30392,INC,Vijay Narayan,23379,7013,11.37
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,60,Nagod,GEN,,60301,INC,Rampratap Singh,31157,BJP,Ramdeo Singh,22903,8254,13.69
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,61,Raigaon,SC,,42652,INC,Ramshray Prasad,18169,BJP,Jugul Kishore,17707,462,1.08
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,62,Chitrakoot,GEN,,48426,INC,Ramchandra Bajpayee,20609,JNP,Ramanand Singh,19467,1142,2.36
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,63,Satna,GEN,,58459,INC,Lalta Prasad Khare,30819,IND,Arun Singh,24540,6279,10.74
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,64,Rampur Baghelan,GEN,,54423,INC,Harsh Singh,18879,LKD,Tosham Singh,11590,7289,13.39
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,65,Amarpatan,GEN,,55907,BJP,Ram Hit,26218,INC,Shubhkaran Prasad Patel,20643,5575,9.97
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,66,Rewa,GEN,,52600,JNP,Prem Lal Mishra,21161,INC,Muni Prasad,17684,3477,6.61
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,67,Gurh,GEN,,56941,INC,Nagendra Singh,29428,CPI,Vishwambhar Nath,18545,10883,19.11
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,68,Mangawan,GEN,,52186,INC,Champa Devi,17179,BJP,Kaushal Prasad Mishra,13847,3332,6.38
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,69,Sirmaur,GEN,,56737,INC,Rajmani Patel,21931,JNP,Sita Prasad Sharma,16025,5906,10.41
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,70,Teonthar,GEN,,63566,INC,Garud Kumar,20371,LKD,Ramakant Tiwari,20229,142,0.22
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,71,Deotalab,SC,,30412,INC,Bindra,12324,JNP,Chhote Lal,9741,2583,8.49
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,72,Mauganj,GEN,,47882,BJP,Jagdish Tiwari Masuriha,21354,INC,Achutanand,16323,5031,10.51
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,73,Churahat,GEN,,56618,INC,Arjun Singh,41028,BJP,Ravinandan Singh,5433,35595,62.87
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,74,Sidhi,GEN,,41788,INC,Indrajit Kumar,19879,BJP,Rajbali Singh,7223,12656,30.29
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,75,Gopadbanas,GEN,,36947,INC,Kamleshwar,17578,BJP,Kedarnath Shukla,11468,6110,16.54
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,76,Dhauhani,ST,,30851,INC,Jagwa Devi,8249,BJP,Dan Bahadur Singh,7793,456,1.48
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,77,Deosar,ST,,36969,BJP,Annath Singh,21676,INC,Iraj Singh,12088,9588,25.94
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,78,Singrauli,SC,,36848,BJP,Ram Charitra,17701,INC,Bansh Mani Prasad,15316,2385,6.47
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,79,Beohari,GEN,,47493,INC,Shukla Ramkishore,17955,JNP,Lavkesh Singh,15492,2463,5.19
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,80,Umaria,GEN,,37946,INC,Ranvijaya Pratap Singh,24900,BJP,Diwan Singh,4636,20264,53.4
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,81,Nowrozabad,ST,,29364,INC,Dhanshah,13054,BJP,Gyan Singh,12758,296,1.01
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,82,Jaisinghnagar,ST,,28250,INC,Gopila Singh,11512,JNP,Ramnath Singh,7885,3627,12.84
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,83,Kotma,ST,,27636,INC,Bhagwandeen,13978,JNP,Babulal Singh,5181,8797,31.83
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,84,Anuppur,ST,,28695,INC,Girja Kumari,17643,BJP,Kamleshwar Prasad,4157,13486,47.0
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,85,Sohagpur,GEN,,57704,INC,Gambhir Singh,31496,JNP,Jaiprakash Narain Garg,12482,19014,32.95
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,86,Pushprajgarh,ST,,22269,INC,Deelan Singh,9433,JNP,Kundan Singh,5782,3651,16.39
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,87,Manendragarh,ST,,38949,INC,Vijoy Singh,14091,BJP,Chandra Pratap Singh,13918,173,0.44
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,88,Baikunthpur,GEN,,60693,BJP,Dwarika Prasad,25819,INC,Devendra Kumari,24288,1531,2.52
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,89,Premnagar,ST,,27104,BJP,Tuleshwar,11737,INC,Chandan Singh,10772,965,3.56
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,90,Surajpur,ST,,37528,INC,Khelsai,23654,BJP,Sheo Pratap Singh,11706,11948,31.84
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,91,Pal,ST,,25044,INC,Deosai,14935,BJP,Tejnath Singh,7293,7642,30.51
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,92,Samri,ST,,37221,INC,Maheshwar Ram,20051,BJP,Larang Sai,11768,8283,22.25
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,93,Lundra,ST,,30167,INC,Bhola Singh,15069,BJP,Govind Nath,6301,8768,29.06
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,94,Pilkha,ST,,40940,INC,Premsai Singh,23371,BJP,Murari,10839,12532,30.61
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,95,Ambikapur,ST,,38314,INC,Madan Gopal,27255,BJP,Bhuneshwar Singh,5763,21492,56.09
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,96,Sitapur,ST,,24764,INC,Sukhi Ram,9886,BJP,Ram Khelawan,7310,2576,10.4
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,97,Bagicha,ST,,39921,BJP,Vikram Bhagat,19486,INC,Hermon,9931,9555,23.93
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,98,Jashpur,ST,,43486,BJP,Ganesh Ram,21519,INC,Luis Beck,20209,1310,3.01
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,99,Tapkara,ST,,38798,BJP,Nandkumar Sai,19306,INC,Dineshwar Sai,17707,1599,4.12
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,100,Pathalgaon,ST,,33460,INC,Rampukar Singh,23116,BJP,Amar Sai,5488,17628,52.68
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,101,Dharamjaigarh,ST,,28507,INC,Chaneshram Rathia,16569,BJP,Lochan Prasad,3542,13027,45.7
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,102,Lailunga,ST,,26066,INC,Surendra Kumar Singh,14168,BJP,Prem Singh,10242,3926,15.06
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,103,Raigarh,GEN,,42665,INC,Krishna Kumar,27021,BJP,Birbal,9923,17098,40.08
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,104,Kharsia,GEN,,43099,INC,Laxmi Prasad Patel,28742,BJP,Siyaram,7463,21279,49.37
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,105,Saria,GEN,,51423,INC,Kamala Devi,25577,BJP,Sakrajit Lalman,20787,4790,9.31
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,106,Sarangarh,SC,,38531,IND,Puriram Chauhan,23787,INC,Hulas Ram Manhar,5298,18489,47.98
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,107,Rampur,ST,,42016,INC,Pyarelal,20579,BJP,Nankiram,16758,3821,9.09
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,108,Katghora,GEN,,46725,INC,Bodhram,21943,CPI,Navranglal,12028,9915,21.22
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,109,Tanakhar,ST,,32602,BJP,Hira Singh Markam,16370,INC,Lal Kriti Kumar Singh,10251,6119,18.77
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,110,Marwahi,ST,,26764,INC,Dindayal,16215,BJP,Amar Singh,5993,10222,38.19
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,111,Kota,GEN,,37982,INC,Rajendra Prasad Shukla,19562,IND,Kedarnath,10660,8902,23.44
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,112,Lormi,GEN,,52784,BJP,Bhupendra Singh,24745,INC,Baijnath Chandrakar,24536,209,0.4
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,113,Mungeli,SC,,36401,INC,Durgawati,19740,BJP,Gambhirdas Patre,14434,5306,14.58
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,114,Jarhagaon,SC,,35321,BJP,Punnulal Mohle,16548,INC,Sheo Prasad,16047,501,1.42
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,115,Takhatpur,GEN,,43605,BJP,Manharanlal Pandey,21947,INC,Hafiz Mohammad,18270,3677,8.43
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,116,Bilaspur,GEN,,58299,INC,B. R. Yadav,28457,BJP,Moolchand Khandelwal,27315,1142,1.96
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,117,Bilha,GEN,,36768,INC,Chitrakant Jaiswal,15742,BJP,Venshi Relumal,11512,4230,11.5
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,118,Masturi,SC,,30953,INC,Banshilal,20223,IND,Om Prakash Gangotri,5779,14444,46.66
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,119,Sipat,GEN,,46125,INC,Arun Tiwari,19436,BJP,Prem Singh,15311,4125,8.94
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,120,Akaltara,GEN,,42764,INC,Rakesh Kumar Singh,26405,JNP,Satish Diwan,10711,15694,36.7
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,121,Pamgarh,GEN,,40112,INC,Sheo Prasad Sharma,17788,BJP,Bedilal Sharma,6112,11676,29.11
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,122,Champa,GEN,,51447,INC,Charandas Bisahoodas,30110,BJP,Pooranmal Agrawal,14534,15576,30.28
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,123,Sakti,GEN,,45202,INC,Surendra Bahadur,28713,BJP,Dhaneshwar Prasad,14669,14044,31.07
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,124,Malkharoda,SC,,34160,INC,Deochanran Singh,19340,BJP,Shyamlal Jangde,7380,11960,35.01
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,125,Chandrapur,GEN,,44191,INC,Bhawani Lal Verma,22630,IND,Dushyant Kumar,19293,3337,7.55
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,126,Raipur Town,GEN,,47683,INC,Swarupchand Jain,29378,BJP,Virendra Pandey,10484,18894,39.62
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,127,Raipur Rural,GEN,,50666,INC,Ranveer Singh Shastry,31817,BJP,Parasram Sahu,10461,21356,42.15
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,128,Abhanpur,GEN,,41489,BJP,Chandra Shekhar Sahu (Champu ),19270,INC,Somnath Sahu,18808,462,1.11
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,129,Mandirhasod,GEN,,28246,INC,Satyanarayan Sharma,15708,BJP,Ramesh Bais,10002,5706,20.2
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,130,Arang,SC,,36297,INC,Vijay Kumar Guru,16600,BJP,Sadaram Tandon,10519,6081,16.75
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,131,Dharsiwa,GEN,,51763,INC,Daulatram Verma,24385,BJP,Agarwal Shyamsunder,21008,3377,6.52
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,132,Bhatapara,GEN,,39932,INC,Kalawati Sheolal Mehta,19892,BJP,Narendra Sharma,10459,9433,23.62
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,133,Baloda Bazar,GEN,,44184,INC,Narendra Mishra,26347,BJP,Kesharwani Satyanarayan,14866,11481,25.98
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,134,Palari,SC,,35578,INC,Phul Singh Miri,17886,BJP,P. R. Khute,14045,3841,10.8
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,135,Kasdol,GEN,,40225,INC,Kanhailal Sharma,23377,BJP,Gorelal Tiwari,8443,14934,37.13
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,136,Bhatgaon,SC,,27443,BJP,Reshamlal Jangade,11796,INC,Kumar Bharti,11578,218,0.79
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,137,Saraipali,GEN,,49564,IND,Pukhraj Singh,27949,INC,Mohanlal Choudhary,18321,9628,19.43
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,138,Basna,GEN,,26163,INC,Mahendra Bahadur Singh,17927,BJP,Abdul Gaffar Kherani,6796,11131,42.54
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,139,Khallari,GEN,,34003,INC,Laxminarayan Induriya,14899,BJP,Ramsingh Soni,7583,7316,21.52
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,140,Mahasamund,GEN,,42176,INC,Maksudanlal Chandrakar,13775,JNP,Bishanlal Chandrakar,8462,5313,12.6
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,141,Rajim,GEN,,40111,BJP,Punit Ram Sahu,21949,INC,Jiwanlal Sahu,11396,10553,26.31
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,142,Bidnranawagarh,ST,,32527,INC,Ishwarsingh,16682,CPI,Bhoj Lal Netam,6704,9978,30.68
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,143,Sihawa,ST,,33985,INC,Ashok Som,16712,BJP,Ramdayal Warise,12663,4049,11.91
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,144,Kurud,GEN,,51534,INC,Bhuleshwari Deepa Sahu,24437,BJP,Somprakash Giri,23048,1389,2.7
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,145,Dhamtari,GEN,,62251,INC,Jayaben,31374,BJP,Kriparam Sahu,24464,6910,11.1
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,146,Bhanupratappur,ST,,37222,INC,Ganga Potai,17537,IND,Jhaduram Rawte,15709,1828,4.91
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,147,Kanker,ST,,28588,INC,Shyamabai Dhrua,13742,BJP,Aghan Singh Thakur,12440,1302,4.55
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,148,Keskal,ST,,22242,INC,Shiv Netam,9613,BJP,Sukharam Markam,4904,4709,21.17
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,149,Kondagaon,ST,,27886,INC,Sukhlal Mandavi,17520,BJP,Jethuram Hadma Poyam,7326,10194,36.56
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,150,Bhanpuri,ST,,30643,BJP,Baliram Mahadeo Kashyap,17146,INC,Anturam Kashyap,12969,4177,13.63
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,151,Jagdalpur,ST,,33843,INC,Jhitroo Ram Baghel,22066,BJP,Amardeo,8741,13325,39.37
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,152,Keslur,ST,,17475,INC,Bharsu Ram Nag,8727,BJP,Ranuram Nag,5384,3343,19.13
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,153,Chitrakot,ST,,13712,INC,A. K. Turam Nag,5457,BJP,Dhaniram Pujari,4856,601,4.38
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,154,Dantewara,ST,,20544,INC,Lakshman Karma,9639,CPI,Mahendra Karma,8819,820,3.99
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,155,Konta,ST,,12484,INC,Madvi Handaram,4976,CPI,Venkateshwar,4006,970,7.77
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,156,Bijapur,ST,,24905,INC,Shishu Pal Singh,13774,CPI,Chintur Sukhram,7100,6674,26.8
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,157,Narayanpur,ST,,33251,INC,Badri Nath Baghel,17170,BJP,Shambhu Nath Naik,4299,12871,38.71
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,158,Maro,SC,,30562,INC,Kishanlal Kurre,18836,BJP,Rekhalal Kurre,9303,9533,31.19
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,159,Bemetara,GEN,,38962,INC,Rewendra Singh,21701,BJP,Chimanuram,15127,6574,16.87
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,160,Saja,GEN,,42975,INC,Ravindra Choube,29836,BJP,Janardansingh,6001,23835,55.46
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,161,Dhamdha,GEN,,47015,INC,Jageshwar Sahu,24253,CPI,Dukhit Ram Sahu,6837,17416,37.04
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,162,Durg City,GEN,,74101,INC,Motilal Vora,53754,BJP,Bise Yadav,15290,38464,51.91
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,163,Bhilai Nagar,GEN,,76630,INC,Ravi Arya,31839,CPI(M),P. K. Moitra,30608,1231,1.61
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,164,Patan,GEN,,58829,INC,Anantram Verma,27633,BJP,Kejuram Verma,24699,2934,4.99
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,165,Gunderdehi,GEN,,46228,INC,Hariharprasad Sharma,21543,BJP,Ghanaram Sahu,20823,720,1.56
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,166,Khertha,GEN,,48307,INC,Wasudeo Chandrakar,29226,BJP,Balmukund Dewagan,16247,12979,26.87
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,167,Balod,GEN,,54672,INC,Jalamsingh Patel,30041,IND,Sahdeo Sahu,11927,18114,33.13
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,168,Dondi Lohara,ST,,60601,IND,Janaklal Thakur,27301,INC,Saj Bhendiya,23644,3657,6.03
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,169,Chowki,ST,,23973,INC,Gowardhan Netam,13484,BJP,Santram Thakur,3732,9752,40.68
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,170,Khujji,GEN,,36227,INC,Imran Memon,23742,BJP,Rajendrapal Singh ( Rajender Bhaiya ),8774,14968,41.32
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,171,Dongargaon,GEN,,25405,INC,Heera Ram Verma,17462,BJP,Magal Chand Jain,3357,14105,55.52
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,172,Rajnandgaon,GEN,,45993,INC,Balbir Khanuja,24815,IND,Prem Narayan Verma,9461,15354,33.38
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,173,Dongargarh,SC,,29939,INC,Dhanesh Kumar Patila,18986,CPI,Chhabilal Kaushik,6698,12288,41.04
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,174,Khairagarh,GEN,,39674,INC,Rashmi Devi,31886,BJP,Komal Kothari,5229,26657,67.19
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,175,Birendranagar,GEN,,35394,INC,Balram Singh Bais,13939,IND,Kumar Yashwantraj Singh,11907,2032,5.74
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,176,Kawardha,GEN,,49286,INC,Rani Shashi Prabha Devi,29882,IND,Rajmata Priyambada Devi,9268,20614,41.83
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,177,Baihar,ST,,32946,INC,Ganpat Singh,12574,BJP,Sudhanwa Singh Netam,11195,1379,4.19
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,178,Lanji,GEN,,51077,JNP,Narbada Parsad,17653,IND,Yashwantrao,15845,1808,3.54
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,179,Kirnapur,GEN,,50748,BJP,Bhoowanlal,15260,IND,Likheram,14174,1086,2.14
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,180,Waraseoni,GEN,,59892,JNP,K. D. Deshmukh,29297,INC,Ripudaman Singh,24097,5200,8.68
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,181,Khairalanjee,GEN,,49681,INC,Vishweshwar Bhagat,21410,IND,Domansingh Nagpure,19945,1465,2.95
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,182,Katangi,GEN,,51384,INC,Nirmal Hirawat,24463,BJP,Lochanlal Narayan Thakre,17834,6629,12.9
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,183,Balaghat,GEN,,67053,BJP,Gourishankar Bisen Chaturbhuj,35807,INC,Sayeeda Khataun ( Meena ),28415,7392,11.02
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,184,Paraswada,GEN,,47738,JNP,Kankar Mujare,27044,INC,Tejlal Tembhare,10999,16045,33.61
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,185,Nainpur,ST,,27519,INC,Laxmi Prasad Uikey,17269,BJP,Mohan Lal,9821,7448,27.06
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,186,Mandla,ST,,24988,INC,Himmat Singh Parteti,18376,BJP,Devendra Singh Tekam,5629,12747,51.01
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,187,Bichhia,ST,,20196,INC,Manik Lal Parteti,8000,BJP,Roop Singh Urvedi,7193,807,4.0
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,188,Bajag,ST,,24118,BJP,Ram Bhajan Patta,7368,IND,Asharam Paraste,7267,101,0.42
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,189,Dindori,ST,,20562,INC,Dharamsingh Masram,9518,BJP,Lalshah Paraste,5893,3625,17.63
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,190,Shahpura,ST,,22021,BJP,Annopsingh Maravi,11142,INC,Sunderlal Ureti,8930,2212,10.04
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,191,Niwas,ST,,21737,INC,Dayalsingh Tumrachi,8443,BJP,Kishan Lal Markam,5057,3386,15.58
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,192,Bargi,ST,,37687,BJP,Sonsingh,17235,INC,Nanehelal Dhurve,16855,380,1.01
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,193,Panagar,ST,,36057,INC,Bhishamshah Ju Deo,21680,BJP,Motilal Kashyap,12146,9534,26.44
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,194,Jabalpur Cantonment,GEN,,40328,INC,Chandra Mohan,23877,BJP,Dileep Yadav,11441,12436,30.84
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,195,Jabalpur East,SC,,36665,INC,Achhelal Sonkar,18844,BJP,Anchal Sonkar,10915,7929,21.63
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,196,Jabalpur Central,GEN,,34291,BJP,Onkar Prasad Tiwari,16286,INC,Lalit Shrivastava,16115,171,0.5
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,197,Jabalpur West,GEN,,48161,INC,Chandra Kumar Bhanot,27261,BJP,Ishwardas Rohani,16502,10759,22.34
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,198,Patan,GEN,,31050,INC,Priyadarshan Dharmadhikari,15937,IND,Suraj Chand Jain,6636,9301,29.95
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,199,Majholi,GEN,,40009,INC,Satyendra Prasad Mishra,20576,BJP,Ambikeshwar Dubey,15050,5526,13.81
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,200,Sihora,GEN,,50072,INC,Manju Rai,24130,BJP,Prabhat Kumar Pandey,23004,1126,2.25
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,201,Bahoriband,GEN,,46770,INC,Shrawan Kumar Patel,26687,BJP,Tarachand Chourasiya 'Bhaijai',17366,9321,19.93
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,202,Murwara,GEN,,46369,INC,Sunil Mishra,30161,BJP,Mahesh Kumar Jain,13198,16963,36.58
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,203,Badwara,GEN,,39772,INC,Hazi Gulam Ahmad,14429,BJP,Kunwar Vijendra Singh,14008,421,1.06
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,204,Vijairaghogarh,GEN,,40856,BJP,Lal Rajendra Singh Baghel,16861,INC,R. K. Sharma,14354,2507,6.14
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,205,Gadarwara,GEN,,48998,BJP,Naginchand Kapoorchand,23409,INC,Narendra Kumar,22026,1383,2.82
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,206,Bohani,GEN,,43788,INC,Vinayashankar Dubey,22211,BJP,Kuwarnarayan Singh,16238,5973,13.64
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,207,Narsimhapur,GEN,,47049,INC,Shashibhushan Singh,25619,BJP,Kailashprasad,17079,8540,18.15
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,208,Gotegaon,SC,,49626,INC,Narmadaprasad,25163,BJP,Arvindra Jharia,22413,2750,5.54
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,209,Lakhanadon,ST,,24689,INC,Satyendrasingh Deepsingh,19587,BJP,Sikendersingh,4170,15417,62.44
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,210,Ghansor,ST,,29288,INC,Urmila Singh,21004,BJP,Kanchhilal,4541,16463,56.21
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,211,Keolari,GEN,,44039,INC,Vimala Verma,29294,BJP,Vedsingh Thakur,9698,19596,44.5
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,212,Barghat,GEN,,52145,INC,Prabha Bhargava,29945,BJP,Dhanrajsingh Thakur,18288,11657,22.35
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,213,Seoni,GEN,,44098,INC,Ramesh Chand Jain,22691,BJP,Pramod Kumar Jain Alias Kunwar Sahib,8906,13785,31.26
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,214,Jamai,ST,,21653,INC,Ganpat Singh Dhurve,11315,BJP,Ramdeen Singh,8697,2618,12.09
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,215,Chhindwara,GEN,,42293,INC,Kamleshwari Shukla,20212,BJP,Kubersingh Choudhri,19673,539,1.27
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,216,Parasia,SC,,43551,BJP,Ramji Mastkar,22386,INC,Shyamlal Balmik,18050,4336,9.96
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,217,Damua,ST,,25130,INC,Anusuiya Uikey,15292,BJP,Dalpat Shah Narre,8663,6629,26.38
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,218,Amarwara,ST,,22803,INC,Shailkumari,14527,BJP,Birbal Selam,6834,7693,33.74
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,219,Chaurai,GEN,,34233,INC,Baijnath Prasad Saxena,16393,BJP,Duwedi Pratulchandra,15069,1324,3.87
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,220,Sausar,GEN,,54505,INC,Chore Revnath,33154,IND,Ramarao Mahale,12126,21028,38.58
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,221,Pandhurna,GEN,,43935,IND,Marotrao Khaose,18484,INC,Inayat Mohd. Hazi,14522,3962,9.02
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,222,Piparia,GEN,,43326,INC,Tribhuwan Yadav,21200,BJP,Himmatsingh Mukhtyar,16116,5084,11.73
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,223,Hoshangabad,GEN,,54187,INC,Ambica Prasad Shukla,33070,BJP,Madhukar Vishnupant Aarne,19040,14030,25.89
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,224,Itarsi,GEN,,55246,INC,Vijay Dubey (Kaku Bhai),27365,BJP,Sartaj Singh,25498,1867,3.38
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,225,Seoni-Malwa,GEN,,57065,INC,Omprakash Raghubanshi,28306,BJP,Girijashanker Sharma,23928,4378,7.67
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,226,Timarni,SC,,39361,INC,Khi Prasad Bastwar,18090,BJP,Manoharlal Hajarilal Rathod,17357,733,1.86
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,227,Harda,GEN,,47328,INC,Vishnu Rajoriya,25480,BJP,Virendra Kumar Anand,20428,5052,10.67
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,228,Multai,GEN,,30206,INC,Ashok Kadwe,11804,IND,Maniram,10883,921,3.05
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,229,Masod,GEN,,40195,INC,Ramji Mahajan,18004,BJP,Wasudeo Thakre,15650,2354,5.86
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,230,Bhainsdehi,ST,,23659,INC,Satish Kumar Chauhan,11059,BJP,Kamal Singh Dadusing Chauhan,5088,5971,25.24
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,231,Betul,GEN,,34183,INC,Ashok Sable,17529,BJP,Punjab Rao Ramrao Mahski,14718,2811,8.22
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,232,Ghora Dongri,ST,,34145,INC,Meera,14490,BJP,Ramjilal Uike,11517,2973,8.71
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,233,Amla,SC,,22737,BJP,Kanahiyalal Dholeker,9894,INC,Bechanram,8246,1648,7.25
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,234,Budhni,GEN,,50151,INC,Chauhan Singh,30427,BJP,Shaligram,16827,13600,27.12
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,235,Ichhawar,GEN,,49828,BJP,Karan Singh Kanahiyalal,25218,INC,Haricharan,21106,4112,8.25
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,236,Ashta,SC,,60762,INC,Ajit Singh Umrao Singh,32476,BJP,Devilal Rekwal,28286,4190,6.9
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,237,Sehore,GEN,,50697,INC,Shankar Lal,25549,BJP,Madanlal Tiyagi,21845,3704,7.31
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,238,Govindpura,GEN,,60713,BJP,Babulal Gaur,32407,INC,R. D. Tripathi,25486,6921,11.4
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,239,Bhopal South,GEN,,68484,BJP,Hasnat Siddiqui,29545,INC,Satya Narayan Agrawal,26842,2703,3.95
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,240,Bhopal North,GEN,,56154,INC,Rasul Ahmad Siddiqui,30178,BJP,Sewak Ram Sobhani,16107,14071,25.06
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,241,Berasia,GEN,,54912,BJP,Laxmi Narayan Sharma,26406,INC,Surendra Singh,25507,899,1.64
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,242,Sanchi,SC,,42425,INC,Prabhuram Choudhri,21947,BJP,Gorishanker Shejwar,18312,3635,8.57
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,243,Udaipura,GEN,,47632,INC,Vimla Sharma,29723,BJP,Kamal Singh Lodhi,13637,16086,33.77
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,244,Bareli,GEN,,54829,INC,Jaswant Singh,39845,BJP,Sitaram Rai,14048,25797,47.05
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,245,Bhojpur,GEN,,61605,BJP,Sunder Lal Patwa,31234,INC,Akbar Mohd. Khan,23607,7627,12.38
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,246,Kurwai,SC,,34944,BJP,Shyamlal Shankarlal,17937,INC,Panchamlal Sapre,16043,1894,5.42
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,247,Basoda,GEN,,57936,INC,Veersingh Raghuvanshi,29963,BJP,Ajai Singh,23029,6934,11.97
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,248,Vidisha,GEN,,54796,BJP,Moharsingh Thakur,29862,INC,Rajmal,23926,5936,10.83
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,249,Shamshabad,GEN,,46920,INC,Mertab Singh,24228,BJP,Vrijmohan Lahoti,20286,3942,8.4
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,250,Sironj,GEN,,43959,INC,Goverdhan Upadhyay,25350,BJP,Ghanshyamdas,15292,10058,22.88
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,251,Biaora,GEN,,35286,INC,Vijay Singh,19661,BJP,Dattatraya Madhao Rao Jagtap,12040,7621,21.6
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,252,Narsingarh,GEN,,49764,INC,Rajya Vardhan Singh,34359,BJP,Bhagwan Singh,13991,20368,40.93
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,253,Sarangpur,SC,,41537,INC,Hajarilal,20326,BJP,Amar Singh Kothar,16159,4167,10.03
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,254,Rajgarh,GEN,,42832,INC,Gulabsingh Sustani,22123,BJP,Narayan Singh Panwar,12862,9261,21.62
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,255,Khilchipur,GEN,,51233,INC,Kanhaiyalal Dangi,19220,BJP,Purilal Gurjar,17408,1812,3.54
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,256,Shujalpur,GEN,,68089,INC,Vidyadhar Joshi,33026,BJP,Nemichand Jain,31027,1999,2.94
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,257,Gulana,GEN,,60298,INC,Laxman Singh Dodiya,26915,BJP,Vijendra Singh Sisodiya,25720,1195,1.98
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,258,Shajapur,GEN,,66491,BJP,Purushottam,35138,INC,Deep Singh Yadav,28710,6428,9.67
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,259,Agar,SC,,51579,INC,Shakuntala Bai Chouhan,24551,BJP,Bhurelal Firozia,23825,726,1.41
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,260,Susner,GEN,,57340,BJP,Hari Bhau Joshi,27602,INC,Bhupendra Singh,25099,2503,4.37
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,261,Tarana,SC,,49235,INC,Durgadas Suryavanshi,25247,BJP,Govind Parmar,21827,3420,6.95
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,262,Mahidpur,GEN,,43967,BJP,Nathulal Sisodiya,23430,INC,Anandilal Chhajlany,18277,5153,11.72
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,263,Khachrod,GEN,,62836,INC,Ranchhodlal Aanjna,27402,BJP,Lal Singh Ranawat,23574,3828,6.09
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,264,Badnagar,GEN,,54410,INC,Abhaysingh,27512,BJP,Udaisingh Pandya,24738,2774,5.1
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,265,Ghatiya,SC,,43976,INC,Avantika Prasad Marmat,25183,BJP,Gangaram Parmar,16913,8270,18.81
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,266,Ujjain North,GEN,,55773,INC,Batuk Shanker Joshi,30609,BJP,Prakash Bohra,21757,8852,15.87
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,267,Ujjain South,GEN,,57055,INC,Mahavir Prasad Vashisth,31354,BJP,Bapusingh Patel,23273,8081,14.16
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,268,Depalpur,GEN,,60248,INC,Rameshwar Patel,37529,BJP,Nirbhaya Singh Patel,21895,15634,25.95
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,269,Mhow,GEN,,47503,BJP,Bherulal Patidar,20014,INC,Ghanshyam Seth Patidhar,18153,1861,3.92
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,270,Indore-I,GEN,,50767,INC,Lalit Jain,28228,BJP,Satyanarayan Sattan,20368,7860,15.48
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,271,Indore-Ii,GEN,,66534,INC,Kanhaiyalal Yadav,28383,BJP,Vishnuprasad ( Bade Bhaiya ),24969,3414,5.13
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,272,Indore-Iii,GEN,,43262,INC,Mahesh Joshi,23253,BJP,Sumitra Mahajan,18150,5103,11.8
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,273,Indore-Iv,GEN,,58604,INC,Nandlal Mata,29872,BJP,Shrivallabh Sharma,26021,3851,6.57
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,274,Indore-V,GEN,,64350,IND,Suresh Seth,31278,INC,Ramchander Verma,30860,418,0.65
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,275,Sawer,SC,,59067,INC,Tulsi Silawat,30516,BJP,Prakash Sonkar,26972,3544,6.0
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,276,Dewas,GEN,,64557,INC,Chandra Prabhashekhar,33759,BJP,Babulal Jain,28259,5500,8.52
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,277,Sonkatch,SC,,58203,INC,Sajjan Singh Verma,29193,BJP,Surajmal Bunker,26973,2220,3.81
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,278,Hatpipalya,GEN,,59449,INC,Rajendrasingh Baghel,30729,BJP,Tejsingh Sendhav,26010,4719,7.94
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,279,Bagli,GEN,,53303,BJP,Kailash Johi,29848,INC,Shhatar Singh,21255,8593,16.12
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,280,Khategaon,GEN,,41768,BJP,Ganpat Patel,21089,INC,Indu Bala,18091,2998,7.18
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,281,Harsud,ST,,30793,INC,Aasharam Petu Patel,15694,BJP,Babulal Gunga Patel,7782,7912,25.69
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,282,Nimarkhedi,GEN,,49547,INC,Rajnarayansingh Jaswant Singh,26154,BJP,Madanmohansingh Tomar,22002,4152,8.38
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,283,Pandhana,SC,,47225,INC,Hiralal Silawat,27498,BJP,Phoolchand Hiralal,18825,8673,18.37
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,284,Khandwa,GEN,,49440,INC,Nanda Mondloi,29996,BJP,Hukum Pahalwan,13811,16185,32.74
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,285,Nepanagar,GEN,,47766,INC,Tanwansingh Harnamsingh Keer,29180,BJP,Brijmohan Dwarkadas,16693,12487,26.14
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,286,Shahpur,GEN,,50813,BJP,Nandkumarsingh Krishankumarsingh,27012,INC,Deshmukh Dhairyasheelrao Keshaorao (Baba,21572,5440,10.71
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,287,Burhanpur,GEN,,55111,INC,Firoza Ahsan Ali,22658,BJP,Purushottam Martangrao Majumdar (Bhau,17717,4941,8.97
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,288,Bhikangaon,ST,,29464,INC,Juwansingh,18598,BJP,Surpalsingh Sardarsingh Patel,9534,9064,30.76
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,289,Barwaha,GEN,,46572,INC,Rana Balbahadursingh,25321,BJP,Chandrakant Gupta,14378,10943,23.5
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,290,Maheshwar,SC,,50102,INC,Vijaylaxmi Sadho,26716,BJP,Madanlal Verma,21570,5146,10.27
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,291,Kasrawad,GEN,,44842,INC,Ramesh Chandra Mandloi,25832,BJP,Kailash Joshi,17249,8583,19.14
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,292,Khargone,GEN,,44816,INC,Karuna Dhangi,24133,BJP,Raisingh Rathore,13721,10412,23.23
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,293,Dhulkot,ST,,27533,INC,Chidabhai,15976,BJP,Sumansingh Chouhan,7285,8691,31.57
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,294,Sendhwa,ST,,30750,INC,Bhaisingh Dabar,17029,BJP,Baloosingh,12010,5019,16.32
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,295,Anjad,ST,,38631,INC,Mangilal Adiwasi,22082,BJP,Devisingh,16363,5719,14.8
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,296,Rajpur,ST,,33938,INC,Barku,18405,BJP,Versingh,13633,4772,14.06
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,297,Barwani,ST,,41482,INC,Umraosingh Phatla,21259,BJP,Umraosingh Parwatsingh,20223,1036,2.5
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,298,Manawar,ST,,40979,INC,Shivbhanu Solanki,30153,BJP,Ganpatsingh Kiradia,6845,23308,56.88
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,299,Dharampuri,ST,,35797,INC,Kiratsingh Rughanath,23898,BJP,Zingalal Patel,11434,12464,34.82
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,300,Dhar,GEN,,64360,INC,Mohansingh Bundela,36844,BJP,Vikram Verma,24962,11882,18.46
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,301,Badnawar,GEN,,54626,BJP,Ramesh Chandrasinh (Gattu Bana),25634,INC,Raghunathsingh Mathur,21114,4520,8.27
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,302,Sardarpur,ST,,41415,INC,Gapatsingh Patel,20167,IND,Khumansinh Baria,12540,7627,18.42
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,303,Kukshi,ST,,33848,INC,Jamunadevi,22174,BJP,Babusinh Mohansinh,9513,12661,37.41
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,304,Alirajpur,ST,,19770,INC,Magansingh,14217,BJP,Sardarsingh,3135,11082,56.05
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,305,Jobat,ST,,22381,INC,Ajmer Singh,17160,BJP,Dule Singh,3970,13190,58.93
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,306,Jhabua,ST,,23698,INC,Bapusingh,14010,IND,Dariyavsingh,3874,10136,42.77
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,307,Petlawad,ST,,31969,INC,Gangabai,13325,IND,Babulal,12857,468,1.46
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,308,Thandla,ST,,33723,INC,Kantilal Nanu,19711,LKD,Nanji Kaliya,8670,11041,32.74
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,309,Ratlam Town,GEN,,59652,BJP,Himmat Kothari,31465,INC,Shivkumar Jhalani,27267,4198,7.04
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,310,Ratlam Rural,GEN,,48079,INC,Shantilal Aggarwal,26192,BJP,Bhuwan Chaudhary,20270,5922,12.32
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,311,Sailana,ST,,43399,INC,Prabhudyal Gehlot,22969,LKD,Kamji,14904,8065,18.58
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,312,Jaora,GEN,,61862,INC,Bharatsingh,35437,BJP,Prakash Mehra,24416,11021,17.82
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,313,Alot,SC,,48681,INC,Leeladeevi Choudhary,25238,BJP,Thawarchand Gehlot,22839,2399,4.93
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,314,Manasa,GEN,,64755,INC,Narendra Bhanwarlal Nahta,33775,BJP,Sundarlal Patwa,29222,4553,7.03
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,315,Garoth,GEN,,61109,INC,Subhashkumar Sojatia,30818,BJP,Nanalal Patidar,24617,6201,10.15
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,316,Suwasara,SC,,51867,INC,Asharam Verma,24791,BJP,Satyanarain Jatiya,23756,1035,2.0
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,317,Sitamau,GEN,,57085,INC,Bharat Singh Deepakhedra,32630,BJP,Kailash Chawala,22158,10472,18.34
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,318,Mandsaur,GEN,,57694,INC,Shyam Sundar Patidar,29717,BJP,Manoharlal Basantilal Jai,23926,5791,10.04
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,319,Neemuch,GEN,,69757,INC,Sampatswaroop Sitaram Jajoo,41651,BJP,Khumansingh Shavaji,25761,15890,22.78
+ae-madhya-pradesh-1985,AE,Madhya Pradesh,1985,1985,official,320,Jawad,GEN,,67402,INC,Chunnilal Dhakad,36636,IND,Vitendrakumar Sakhlecha,18314,18322,27.18

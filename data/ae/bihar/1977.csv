@@ -1,0 +1,325 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-bihar-1977,AE,Bihar,1977,1977,official,1,Dhanaha,GEN,,33616,INC,Har Deo Prasad,16870,JNP,Yogendra Pd. Srivastava,16746,124,0.37
+ae-bihar-1977,AE,Bihar,1977,1977,official,2,Bagaha,SC,,52802,INC,Narsingh Baitha,32058,JNP,Kanchan Baitha,18825,13233,25.06
+ae-bihar-1977,AE,Bihar,1977,1977,official,3,Ramnagar,GEN,,50276,INC,Arjun Bikram Shah,27235,JNP,Chander Mohan Pd. Rai,12320,14915,29.67
+ae-bihar-1977,AE,Bihar,1977,1977,official,4,Shikarpur,SC,,40945,INC,Sitaram Prasad,19389,JNP,Dinanath Chandra,10755,8634,21.09
+ae-bihar-1977,AE,Bihar,1977,1977,official,5,Sikta,GEN,,48234,INC,Faiyazul Azam,28324,CPI(M),Shri Nivas Pandey,9417,18907,39.2
+ae-bihar-1977,AE,Bihar,1977,1977,official,6,Lauria,GEN,,45259,INC,Vishwa Mohan Sharma,14873,JNP,Binay Shankar Singh,6479,8394,18.55
+ae-bihar-1977,AE,Bihar,1977,1977,official,7,Chunpatia,GEN,,43143,JNP,Vir Singh,20227,CPI,Birwal Sharma,19306,921,2.13
+ae-bihar-1977,AE,Bihar,1977,1977,official,8,Bettiah,GEN,,57158,INC,Gauri Shankar Pandey,28693,JNP,Madan Lal Sinhania,24877,3816,6.68
+ae-bihar-1977,AE,Bihar,1977,1977,official,9,Nautan,GEN,,45864,INC,Kedar Pandey,29493,JNP,Bhawai Prasad Jaiswal,14452,15041,32.79
+ae-bihar-1977,AE,Bihar,1977,1977,official,10,Raxaul,GEN,,52297,INC,Sagir Ahmad,22565,JNP,Shankar Pd. Yadav,18979,3586,6.86
+ae-bihar-1977,AE,Bihar,1977,1977,official,11,Sugauli,GEN,,56224,CPI(M),Ramashray Singh,13030,CPI,Bhupnarain Singh,12934,96,0.17
+ae-bihar-1977,AE,Bihar,1977,1977,official,12,Motihari,GEN,,51852,INC,Prabhawati Gupta,29282,JNP,Raghunath Gupta,13829,15453,29.8
+ae-bihar-1977,AE,Bihar,1977,1977,official,13,Adapur,GEN,,52950,INC,Ram Prit Rai,14784,JNP,Shamim Uddin Hashimi,11991,2793,5.27
+ae-bihar-1977,AE,Bihar,1977,1977,official,14,Dhaka,GEN,,76043,JNP,Siyaram Thakur,33686,INC,Hafiz Idris Ansari,21802,11884,15.63
+ae-bihar-1977,AE,Bihar,1977,1977,official,15,Ghorasahan,GEN,,58854,INC,Rajendra Pratap Singh,21335,JNP,Mangal Prasad Yadav,21160,175,0.3
+ae-bihar-1977,AE,Bihar,1977,1977,official,16,Madhuban,GEN,,60331,INC,Rup Lal Rai,16962,JNP,Mahendra Rai,13137,3825,6.34
+ae-bihar-1977,AE,Bihar,1977,1977,official,17,Pipra,SC,,38737,CPI,Tulsi Ram,20127,JNP,Brahamdeo Ram Shastri,15491,4636,11.97
+ae-bihar-1977,AE,Bihar,1977,1977,official,18,Kesaria,GEN,,56085,CPI,Pitambar Singh,30560,JNP,Rai Harishankar Sharma,24178,6382,11.38
+ae-bihar-1977,AE,Bihar,1977,1977,official,19,Harsidhi,GEN,,60912,JNP,Yagul Kishore Prasad Singh,22172,INC,Md. Hedayatullah Khan,20289,1883,3.09
+ae-bihar-1977,AE,Bihar,1977,1977,official,20,Gobindganj,GEN,,70289,INC,Ramashankar Pandey,42186,JNP,Madan Mohan Prasad Singh,27230,14956,21.28
+ae-bihar-1977,AE,Bihar,1977,1977,official,21,Kateya,GEN,,67033,INC,Nagina Rai,39695,JNP,Rajmangal Mishra,24046,15649,23.35
+ae-bihar-1977,AE,Bihar,1977,1977,official,22,Bhore,SC,,41972,JNP,Jamuna Ram,26150,INC,Algu Ram,8707,17443,41.56
+ae-bihar-1977,AE,Bihar,1977,1977,official,23,Mirganj,GEN,,51422,JNP,Bhavesh Chandra Prasad,21965,INC,Anant Prasad Singh,16892,5073,9.87
+ae-bihar-1977,AE,Bihar,1977,1977,official,24,Gopalganj,GEN,,54670,JNP,Radhika Devi,16791,IND,Kali Prasad Pandey,12832,3959,7.24
+ae-bihar-1977,AE,Bihar,1977,1977,official,25,Barauli,GEN,,52945,INC,Ahdul Ghafoor,28702,JNP,Mohammad Rasool,22352,6350,11.99
+ae-bihar-1977,AE,Bihar,1977,1977,official,26,Baikunthpur,GEN,,57047,JNP,Braj Kishore Narain Singh,36146,CPI,Deonandan Singh,15638,20508,35.95
+ae-bihar-1977,AE,Bihar,1977,1977,official,27,Basantpur,GEN,,68661,JNP,Vidya Bhaushan Singh,32277,IND,Manik Chand Rai,28696,3581,5.22
+ae-bihar-1977,AE,Bihar,1977,1977,official,28,Goreakothi,GEN,,61343,INC,Krishna Kant Singh,32377,JNP,Indradeo Prasad,22436,9941,16.21
+ae-bihar-1977,AE,Bihar,1977,1977,official,29,Siwan,GEN,,55615,JNP,Ghulam Sarwar,21981,INC,Serojul Hague,13869,8112,14.59
+ae-bihar-1977,AE,Bihar,1977,1977,official,30,Mairwa,SC,,46046,JNP,Phulchand Ram,34688,INC,Ram Narayan Ram,7798,26890,58.4
+ae-bihar-1977,AE,Bihar,1977,1977,official,31,Darauli,GEN,,47962,INC,Krishna Pratap Singh,20925,JNP,Ramayan Choudhary,15331,5594,11.66
+ae-bihar-1977,AE,Bihar,1977,1977,official,32,Ziradei,GEN,,44751,INC,Raja Ram Choudhary,15947,JNP,Bipendra Kumar Verma,14915,1032,2.31
+ae-bihar-1977,AE,Bihar,1977,1977,official,33,Maharajganj,GEN,,63642,JNP,Uma Shankar Singh,37657,IND,Nand Kishore Singh,11177,26480,41.61
+ae-bihar-1977,AE,Bihar,1977,1977,official,34,Raghunathpur,GEN,,50395,JNP,Bikram Kaur,26111,INC,Vijay Dubey,12752,13359,26.51
+ae-bihar-1977,AE,Bihar,1977,1977,official,35,Manjhi,GEN,,70349,JNP,Ram Bahadur Singh,51897,INC,Rameshwar Dutta Sharma,18452,33445,47.54
+ae-bihar-1977,AE,Bihar,1977,1977,official,36,Baniapur,GEN,,51576,JNP,Rama Kant Pandey,33336,INC,Uma Pandey,10529,22807,44.22
+ae-bihar-1977,AE,Bihar,1977,1977,official,37,Masrakh,GEN,,55229,JNP,Krishnadeo Narain Singh,35191,IND,Kashi Nath Rai,9125,26066,47.2
+ae-bihar-1977,AE,Bihar,1977,1977,official,38,Taraiya,GEN,,50444,JNP,Dharam Nath Singh,39195,INC,Prabhunath Singh,9059,30136,59.74
+ae-bihar-1977,AE,Bihar,1977,1977,official,39,Marhaura,GEN,,59008,JNP,Surya Singh,26101,INC,Bhishma Prasad Yadav,14908,11193,18.97
+ae-bihar-1977,AE,Bihar,1977,1977,official,40,Jalalpur,GEN,,57692,JNP,Cameshwar Singh,34161,INC,Kumar Kalika Singh,10773,23388,40.54
+ae-bihar-1977,AE,Bihar,1977,1977,official,41,Chapra,GEN,,63752,JNP,Mithlesh Kumar Singh,32865,IND,Janak Yadav,14978,17887,28.06
+ae-bihar-1977,AE,Bihar,1977,1977,official,42,Garkha,SC,,49033,JNP,Muneshwar Choudhary,35481,INC,Raghu Nandan Manjhi,11894,23587,48.1
+ae-bihar-1977,AE,Bihar,1977,1977,official,43,Parsa,GEN,,65765,JNP,Ramanand Prasad Yadav,35486,INC,Daroga Prasad Roy,22706,12780,19.43
+ae-bihar-1977,AE,Bihar,1977,1977,official,44,Sonepur,GEN,,67136,JNP,Ram Sunder Das,40747,IND,Rameshwar Prasad Rai,15411,25336,37.74
+ae-bihar-1977,AE,Bihar,1977,1977,official,45,Hajipur,GEN,,57028,JNP,Jagannath Pd. Yadav,39392,INC,Moti Lal Sinha Kanan,13154,26238,46.01
+ae-bihar-1977,AE,Bihar,1977,1977,official,46,Raghopur,GEN,,68958,JNP,Vabulal Shastri,40503,INC,Kanhai Pad. Singh,14611,25892,37.55
+ae-bihar-1977,AE,Bihar,1977,1977,official,47,Mahnar,GEN,,74437,JNP,Muneshwar Prasad Singh,53789,INC,Aklhilesh Kumar Ray,17879,35910,48.24
+ae-bihar-1977,AE,Bihar,1977,1977,official,48,Jandaha,GEN,,57001,JNP,Munshi Lal Ray,28286,INC,Bhagdev Singh,12339,15947,27.98
+ae-bihar-1977,AE,Bihar,1977,1977,official,49,Patepur,SC,,36268,JNP,Paltan Ram,28546,CPI,Rijahan Ram,7025,21521,59.34
+ae-bihar-1977,AE,Bihar,1977,1977,official,50,Mahua,SC,,45771,JNP,Phudeni Prasad,37991,INC,Saryu Ram,5550,32441,70.88
+ae-bihar-1977,AE,Bihar,1977,1977,official,51,Lalganj,GEN,,50473,JNP,Arun Kumar Sinha,29657,INC,Umesh Prasad Singh,6590,23067,45.7
+ae-bihar-1977,AE,Bihar,1977,1977,official,52,Vaishali,GEN,,51297,JNP,Nagendra Pd. Singh,33788,INC,Lalitesh Pd. Shahi,11475,22313,43.5
+ae-bihar-1977,AE,Bihar,1977,1977,official,53,Paru,GEN,,54084,JNP,Shyam Kumar Pd. Singh,30049,INC,Ram Prit Rai,11208,18841,34.84
+ae-bihar-1977,AE,Bihar,1977,1977,official,54,Sahebganj,GEN,,45612,CPI(M),Bhagya Naraian Rai,28796,INC,Shiv Sharan Singh,12412,16384,35.92
+ae-bihar-1977,AE,Bihar,1977,1977,official,55,Baruraj,GEN,,54787,CPI,Balendra Prasad Singh,15165,IND,Shashi Kumar Rai,11756,3409,6.22
+ae-bihar-1977,AE,Bihar,1977,1977,official,56,Kanti,GEN,,44260,JNP,Thakur Pd. Singh,18495,SUC,Nalini Ranjan Singh,10642,7853,17.74
+ae-bihar-1977,AE,Bihar,1977,1977,official,57,Kurhani,GEN,,58621,JNP,Sabhu Saran Shahi,43895,INC,Hind Keshari Yadav,11078,32817,55.98
+ae-bihar-1977,AE,Bihar,1977,1977,official,58,Sakra,SC,,48857,JNP,Shivanandan Paswan,33659,INC,Fakirchand Ram,9452,24207,49.55
+ae-bihar-1977,AE,Bihar,1977,1977,official,59,Muzaffarpur,GEN,,53170,JNP,Manjay Lal,29446,CPI,Ramdev Sharma,15765,13681,25.73
+ae-bihar-1977,AE,Bihar,1977,1977,official,60,Bochaha,SC,,49392,JNP,Kamal Paswan,32030,INC,Hari Lal Ram,10810,21220,42.96
+ae-bihar-1977,AE,Bihar,1977,1977,official,61,Gaighatti,GEN,,59957,JNP,Vinodanand Singh,32977,IND,Jitendra Pd. Singh,20355,12622,21.05
+ae-bihar-1977,AE,Bihar,1977,1977,official,62,Aurai,GEN,,65742,JNP,Ganesh Pd. Yadav,46100,INC,Ramjanm Ojha,14078,32022,48.71
+ae-bihar-1977,AE,Bihar,1977,1977,official,63,Minapur,GEN,,58561,JNP,Nagendra Pd. Singh,16363,IND,Janakdhari Pd. Kushwaha,13307,3056,5.22
+ae-bihar-1977,AE,Bihar,1977,1977,official,64,Runisaidpur,GEN,,59519,JNP,Nawal Kishore Sahi,17157,IND,Tapeshwar Rai,15496,1661,2.79
+ae-bihar-1977,AE,Bihar,1977,1977,official,65,Belsand,GEN,,51719,JNP,Raghubans Prasad Singh,19239,IND,Ramchandra Rai,12263,6976,13.49
+ae-bihar-1977,AE,Bihar,1977,1977,official,66,Sheohar,GEN,,70360,INC,Raghunath Jha,32126,JNP,Thakur Chitranjan Singh,20551,11575,16.45
+ae-bihar-1977,AE,Bihar,1977,1977,official,67,Sitamarhi,GEN,,58944,INC,Ram Sagar Pd. Yadav,27482,JNP,Ramswarath Rai,16723,10759,18.25
+ae-bihar-1977,AE,Bihar,1977,1977,official,68,Bathnaha,GEN,,67954,INC,Suryadeo Rai,26895,JNP,Laliteshwar Prasad Singh,23335,3560,5.24
+ae-bihar-1977,AE,Bihar,1977,1977,official,69,Majorganj,SC,,46611,JNP,Surendra Ram,22569,INC,Dip Narain Paswan,18509,4060,8.71
+ae-bihar-1977,AE,Bihar,1977,1977,official,70,Sonabarsa,GEN,,74458,INC,Mahmud Alam,23169,JNP,Suryadeo Purbey,15790,7379,9.91
+ae-bihar-1977,AE,Bihar,1977,1977,official,71,Sursand,GEN,,64142,INC,Ram Charitra Rai Yadav,38869,JNP,Ram Charitra Mandal,21824,17045,26.57
+ae-bihar-1977,AE,Bihar,1977,1977,official,72,Pupri,GEN,,70886,JNP,Habib Ahmad,33838,INC,Ram Briksh Choudhary,33152,686,0.97
+ae-bihar-1977,AE,Bihar,1977,1977,official,73,Benipatti,GEN,,65442,CPI,Tej Narayan Jha,33263,JNP,Naramadeshwar Singh Azad,26459,6804,10.4
+ae-bihar-1977,AE,Bihar,1977,1977,official,74,Bisfi,GEN,,84359,CPI,Raj Kumar Purbey,43059,JNP,Sirazul Islam,21013,22046,26.13
+ae-bihar-1977,AE,Bihar,1977,1977,official,75,Harlakhi,GEN,,65515,CPI,Baidya Nath Yadav,27870,INC,Shakoor Ahmad,19336,8534,13.03
+ae-bihar-1977,AE,Bihar,1977,1977,official,76,Khajauli,SC,,60991,JNP,Ram Karan Paswan,31078,CPI,Ram Lakhan Ram 'Raman',20953,10125,16.6
+ae-bihar-1977,AE,Bihar,1977,1977,official,77,Babubarhi,GEN,,58364,JNP,Deo Narayan Yadav,30613,INC,Mahendra Narayan Jha,23761,6852,11.74
+ae-bihar-1977,AE,Bihar,1977,1977,official,78,Madhubani,GEN,,78241,JNP,Digambar Thakur,39317,INC,Lokesh Nath Jha,27310,12007,15.35
+ae-bihar-1977,AE,Bihar,1977,1977,official,79,Pandaul,GEN,,65736,JNP,Siya Ram Yadav,31275,INC,Kumud Ranjan Jha,20159,11116,16.91
+ae-bihar-1977,AE,Bihar,1977,1977,official,80,Jhanjharpur,GEN,,72609,INC,Jagannath Mishra,44037,JNP,Jagdish Narain Chaudhary,23110,20927,28.82
+ae-bihar-1977,AE,Bihar,1977,1977,official,81,Phulparas,GEN,,86379,JNP,Devendra Prasad Yadav,54265,INC,Uttam Lal Yadav,19272,34993,40.51
+ae-bihar-1977,AE,Bihar,1977,1977,official,82,Laukaha,GEN,,65468,INC,Kuldeo Goit,22278,JNP,Abdul Hai Payami,21790,488,0.75
+ae-bihar-1977,AE,Bihar,1977,1977,official,83,Madhepur,GEN,,80464,INC,Radhanandan Jha,41548,JNP,Mahavir Pr. Mahton,36944,4604,5.72
+ae-bihar-1977,AE,Bihar,1977,1977,official,84,Manigachhi,GEN,,67853,INC,Nagendra Jha,33153,JNP,Indrakant Jha,27073,6080,8.96
+ae-bihar-1977,AE,Bihar,1977,1977,official,85,Bahera,GEN,,67003,JNP,Abdul Bari Sidiqui,35181,INC,Harinath Mishra,23423,11758,17.55
+ae-bihar-1977,AE,Bihar,1977,1977,official,86,Ghanshyampur,GEN,,85664,JNP,Mahavir Prasad,57541,IND,Anirudh Jha,16988,40553,47.34
+ae-bihar-1977,AE,Bihar,1977,1977,official,87,Baheri,GEN,,74705,JNP,Taj Narayan Yadav,40677,CPI,Kumar Kalyan Jha,13593,27084,36.25
+ae-bihar-1977,AE,Bihar,1977,1977,official,88,Darbhanga Rural,SC,,66381,JNP,Jagadish Choudhary ( Kabirchak ),51501,INC,Kedar Paswan,11937,39564,59.6
+ae-bihar-1977,AE,Bihar,1977,1977,official,89,Darbhanga,GEN,,61249,JNP,Shivnath Verma,37737,CPI,Ramballabh Jalan,9653,28084,45.85
+ae-bihar-1977,AE,Bihar,1977,1977,official,90,Keoti,GEN,,63327,JNP,Durga Das Rathaur,38250,INC,Rajendra Prasad Yadav,11977,26273,41.49
+ae-bihar-1977,AE,Bihar,1977,1977,official,91,Jale,GEN,,61153,JNP,Kapildeo Thakur,24119,CPI,Khadim Hussain,22721,1398,2.29
+ae-bihar-1977,AE,Bihar,1977,1977,official,92,Hayaghat,GEN,,71763,JNP,Anirudh Prasad,20767,IND,Kafil Ahmad Alias Vakil Ahmad,16590,4177,5.82
+ae-bihar-1977,AE,Bihar,1977,1977,official,93,Kalyanpur,GEN,,60270,JNP,Bashishtha Narayan Singh,32223,INC,Ram Naresh Trivedi,12462,19761,32.79
+ae-bihar-1977,AE,Bihar,1977,1977,official,94,Warisnagar,SC,,54359,JNP,Pitamwar Paswan,27824,INC,Baleshwar Ram,24128,3696,6.8
+ae-bihar-1977,AE,Bihar,1977,1977,official,95,Samastipur,GEN,,57349,JNP,Chandra Shekhar Singh,25406,INC,Ramchandra Rai,12276,13130,22.89
+ae-bihar-1977,AE,Bihar,1977,1977,official,96,Sarairanjan,GEN,,64168,JNP,Yashoda Nand Singh,35046,INC,Ramakant Jha,18522,16524,25.75
+ae-bihar-1977,AE,Bihar,1977,1977,official,97,Mohiuddin Nagar,GEN,,79389,JNP,Premlata Rai,31652,INC,Ram Anugrah Narayan Singh,23434,8218,10.35
+ae-bihar-1977,AE,Bihar,1977,1977,official,98,Dalsinghsarai,GEN,,58390,JNP,Yashwant Kumar Choudhary,29167,INC,Jagdish Prasad Choudhary,20796,8371,14.34
+ae-bihar-1977,AE,Bihar,1977,1977,official,99,Bibhutpur,GEN,,66416,INC,Bandhu Mahto,22608,JNP,Suresh Prasad Mahto,21845,763,1.15
+ae-bihar-1977,AE,Bihar,1977,1977,official,100,Rosera,GEN,,67299,IND,Prayag Mandal,26611,INC,Ramshray Rai,22477,4134,6.14
+ae-bihar-1977,AE,Bihar,1977,1977,official,101,Singhia,SC,,48843,CPI,Ramjatan Paswan,19601,IND,Laxmi Paswan,18713,888,1.82
+ae-bihar-1977,AE,Bihar,1977,1977,official,102,Hasanpur,GEN,,61018,JNP,Gajendra Prasad Himansu,17010,INC,Satyanarain Yadav,13986,3024,4.96
+ae-bihar-1977,AE,Bihar,1977,1977,official,103,Balia,GEN,,51828,JNP,Chand Chur Dev,15214,INC,Ram Lakhan Prasad Singh,13362,1852,3.57
+ae-bihar-1977,AE,Bihar,1977,1977,official,104,Maithani,GEN,,52824,CPI,Sitaram Mishra,17601,JNP,Mithlesh Kumar Singh,16014,1587,3.0
+ae-bihar-1977,AE,Bihar,1977,1977,official,105,Begusarai,GEN,,50489,INC,Bhola Singh,17161,JNP,Ramsagar Pd. Singh,13638,3523,6.98
+ae-bihar-1977,AE,Bihar,1977,1977,official,106,Barauni,GEN,,65087,CPI,Suryanarayan Singh,43877,JNP,Kapil Dev Singh,16513,27364,42.04
+ae-bihar-1977,AE,Bihar,1977,1977,official,107,Bachhwara,GEN,,61494,INC,Ramdep Rai,36345,JNP,Kishori Sharan Karamshil,15884,20461,33.27
+ae-bihar-1977,AE,Bihar,1977,1977,official,108,Cheria Bariarpur,GEN,,63297,INC,Harihar Mahton,38337,JNP,Jubair Azam Zaffri,20194,18143,28.66
+ae-bihar-1977,AE,Bihar,1977,1977,official,109,Bakhri,SC,,48531,CPI,Ram Chandra Paswan,31535,JNP,Medni Paswan,11704,19831,40.86
+ae-bihar-1977,AE,Bihar,1977,1977,official,110,Raghopur,GEN,,60459,JNP,Asesar Goit,32297,INC,Amrendra Mishra,17997,14300,23.65
+ae-bihar-1977,AE,Bihar,1977,1977,official,111,Kishanpur,GEN,,62667,JNP,Baidhya Nath Mehta,45166,INC,Yamuna Prasad Mandal,12965,32201,51.38
+ae-bihar-1977,AE,Bihar,1977,1977,official,112,Supaul,GEN,,64134,JNP,Amrendra Prasad Singh,17048,IND,Muhammad Zahiruddin Ahmad,14895,2153,3.36
+ae-bihar-1977,AE,Bihar,1977,1977,official,113,Tribeniganj,GEN,,67099,JNP,Anup Lal Yadav,39164,INC,Jagadish Mandal,23594,15570,23.2
+ae-bihar-1977,AE,Bihar,1977,1977,official,114,Chhatapur,SC,,47078,JNP,Sitaram Paswan,27709,INC,Kumbha Narayan Sardar,12296,15413,32.74
+ae-bihar-1977,AE,Bihar,1977,1977,official,115,Kumarkhand,SC,,48151,JNP,Nawal Kishore Rishideo,27254,INC,Janak Ram,10202,17052,35.41
+ae-bihar-1977,AE,Bihar,1977,1977,official,116,Singheshwar,GEN,,64392,JNP,Dinbandhu Pd. Yadav,16699,INC,Jai Kumar Singh,16217,482,0.75
+ae-bihar-1977,AE,Bihar,1977,1977,official,117,Saharsa,GEN,,70880,JNP,Shankar Pd Tekriwal,37461,INC,Ramesh Jha,28510,8951,12.63
+ae-bihar-1977,AE,Bihar,1977,1977,official,118,Mahishi,GEN,,76608,JNP,Parmeshwar Kumar,49505,INC,Lathan Choudhary,21057,28448,37.13
+ae-bihar-1977,AE,Bihar,1977,1977,official,119,Simri-Bakhtiarpur,GEN,,71741,INC,Choudhary Mohammad Salahuddin,33457,IND,Ayodhya Pd. Yadav,17944,15513,21.62
+ae-bihar-1977,AE,Bihar,1977,1977,official,120,Madhepura,GEN,,61303,JNP,Radha Kant Yadav,33523,INC,Jai Krishna Yadav,11624,21899,35.72
+ae-bihar-1977,AE,Bihar,1977,1977,official,121,Sonabarsa,GEN,,67293,JNP,Ashok Kumar Singh,21019,IND,Surya Nr Yadav,13473,7546,11.21
+ae-bihar-1977,AE,Bihar,1977,1977,official,122,Kishanganj,GEN,,54007,JNP,Raj Nandan Prasad,25969,IND,Bishnudeo Singh,10751,15218,28.18
+ae-bihar-1977,AE,Bihar,1977,1977,official,123,Alamnagar,GEN,,65355,JNP,Birendra Kumar Singh,30101,INC,Vidyakar Kavi,25473,4628,7.08
+ae-bihar-1977,AE,Bihar,1977,1977,official,124,Rupauli,GEN,,49016,JNP,Shaligram Singh Tomar,13560,CPI,Saryug Pd. Mandal,12316,1244,2.54
+ae-bihar-1977,AE,Bihar,1977,1977,official,125,Dhamdaha,GEN,,60135,JNP,Surya Narayan Singh Yadav,38109,INC,Ram Narayan Mandal,18325,19784,32.9
+ae-bihar-1977,AE,Bihar,1977,1977,official,126,Banmankhi,SC,,47553,JNP,Balbodh Paswan,27174,INC,Rasik Lal Rishideo,16499,10675,22.45
+ae-bihar-1977,AE,Bihar,1977,1977,official,127,Raniganj,SC,,46892,JNP,Adhik Lal Paswan,22345,INC,Bundel Paswan,14955,7390,15.76
+ae-bihar-1977,AE,Bihar,1977,1977,official,128,Narpatganj,GEN,,56685,JNP,Janardan Yadav,20994,INC,Satya Narayan Yadav,13621,7373,13.01
+ae-bihar-1977,AE,Bihar,1977,1977,official,129,Forbesganj,GEN,,57209,INC,Saryu Mishra,27950,JNP,Lal Chand Sahni,22937,5013,8.76
+ae-bihar-1977,AE,Bihar,1977,1977,official,130,Araria,GEN,,54007,INC,Srideo Jha,13901,JNP,Deo Narain Mishra,8963,4938,9.14
+ae-bihar-1977,AE,Bihar,1977,1977,official,131,Sikti,GEN,,67264,IND,Md. Azim Uddin,20323,INC,Maya Nand Thakur,10604,9719,14.45
+ae-bihar-1977,AE,Bihar,1977,1977,official,132,Jokihat,GEN,,53771,JNP,Taslimuddin,25544,INC,Moidur Rahman,22374,3170,5.9
+ae-bihar-1977,AE,Bihar,1977,1977,official,133,Bahadurganj,GEN,,41369,JNP,Islamuddin Bagi,16802,INC,Md. Nazmuddin,15615,1187,2.87
+ae-bihar-1977,AE,Bihar,1977,1977,official,134,Thakurganj,GEN,,49237,JNP,Mohamad Sulemam,24273,INC,Md. Hussain Azad,22943,1330,2.7
+ae-bihar-1977,AE,Bihar,1977,1977,official,135,Kishanganj,GEN,,52470,INC,Rafiqui Alam,24029,JNP,Badri Narayan Mandal,12716,11313,21.56
+ae-bihar-1977,AE,Bihar,1977,1977,official,136,Amaur,GEN,,50634,JNP,Chandra Shekhar Jha,12664,INC,Md. Moijuddin Munshi,10761,1903,3.76
+ae-bihar-1977,AE,Bihar,1977,1977,official,137,Baisi,GEN,,44356,INC,Hasibur Rahman,13148,IND,Sayed Mohnuddin,10066,3082,6.95
+ae-bihar-1977,AE,Bihar,1977,1977,official,138,Kasba,GEN,,48900,INC,Jai Narayan Mehta,15949,JNP,Bhubneshwar Arya,15694,255,0.52
+ae-bihar-1977,AE,Bihar,1977,1977,official,139,Purnea,GEN,,46056,JNP,Dev Nath Roy,18180,INC,Kamal Deo Narayan Sinha,14613,3567,7.74
+ae-bihar-1977,AE,Bihar,1977,1977,official,140,Korha,SC,,38250,JNP,Sita Ram Das,23973,INC,Biswanath Rishi,13057,10916,28.54
+ae-bihar-1977,AE,Bihar,1977,1977,official,141,Barari,GEN,,42251,JNP,Basudeo Prasad Singh,16165,IND,Mansoor Alam,10839,5326,12.61
+ae-bihar-1977,AE,Bihar,1977,1977,official,142,Katihar,GEN,,44338,JNP,Jagbandhu Adhikari,27588,CPI,Raj Kishare Prasad Singh,6684,20904,47.15
+ae-bihar-1977,AE,Bihar,1977,1977,official,143,Kadwa,GEN,,47778,IND,Khaja Sahid Hussain,14733,INC,Mangan Insan,5440,9293,19.45
+ae-bihar-1977,AE,Bihar,1977,1977,official,144,Barsoi,GEN,,34181,IND,Abu Nayeem Chand,21455,JNP,Siddique,6985,14470,42.33
+ae-bihar-1977,AE,Bihar,1977,1977,official,145,Pranpur,GEN,,42778,JNP,Mahendra Narain Yadav,20011,IND,Abdul Zalil,7983,12028,28.12
+ae-bihar-1977,AE,Bihar,1977,1977,official,146,Manihari,GEN,,31886,JNP,Ram Siphai Yadav,17788,INC,Amarnath Singh Yadav,5365,12423,38.96
+ae-bihar-1977,AE,Bihar,1977,1977,official,147,Rajmahal,GEN,,50516,IND,Dhruv Bhagat,15125,INC,Raghunath Pd. Sodani,9958,5167,10.23
+ae-bihar-1977,AE,Bihar,1977,1977,official,148,Borio,ST,,26983,JNP,Benjamin Murmu,21547,IND,Gopinath Soren,4516,17031,63.12
+ae-bihar-1977,AE,Bihar,1977,1977,official,149,Barhait,ST,,20575,JNP,Parmeshwar Humbrom,12368,IND,Chanden Tudu,4252,8116,39.45
+ae-bihar-1977,AE,Bihar,1977,1977,official,150,Litipara,ST,,18654,IND,Simon Marandi,5665,CPI,Marang Murmu,4800,865,4.64
+ae-bihar-1977,AE,Bihar,1977,1977,official,151,Pakaur,GEN,,36586,INC,Haji Md. Ainul Haque,12776,JNP,Beni Prasad Gupta,7443,5333,14.58
+ae-bihar-1977,AE,Bihar,1977,1977,official,152,Maheshpur,ST,,25227,JNP,Bishawnath Murmu,10857,INC,Kalidas Murmu,8126,2731,10.83
+ae-bihar-1977,AE,Bihar,1977,1977,official,153,Sikaripars,ST,,28523,JNP,Babulal Kisku,12831,IND,David Mermu,4253,8578,30.07
+ae-bihar-1977,AE,Bihar,1977,1977,official,154,Nala,GEN,,32983,CPI,Bisheswar Khan,18345,JNP,Bhagwat Singh Azad,7065,11280,34.2
+ae-bihar-1977,AE,Bihar,1977,1977,official,155,Jamtara,GEN,,37734,INC,Durga Prasad Singh,13156,JNP,Ganesh Chandra Chaudhary,9946,3210,8.51
+ae-bihar-1977,AE,Bihar,1977,1977,official,156,Sarath,GEN,,50672,JNP,Chandra Mouleshwar Singh,18256,IND,Abbaya Charah Lal,12609,5647,11.14
+ae-bihar-1977,AE,Bihar,1977,1977,official,157,Madhupur,GEN,,50660,JNP,Ajit Kumar Baneerjee,23836,INC,Chandra Shekhar Prasad,19456,4380,8.65
+ae-bihar-1977,AE,Bihar,1977,1977,official,158,Deoghar,SC,,39297,JNP,Veena Rani,25225,INC,Baidya Nath Das,11285,13940,35.47
+ae-bihar-1977,AE,Bihar,1977,1977,official,159,Jarmundi,GEN,,35987,IND,Dip Nath Rai,9275,INC,Abhay Kant Prasad,6212,3063,8.51
+ae-bihar-1977,AE,Bihar,1977,1977,official,160,Dumka,ST,,25907,JNP,Mahadeo Marandi,10557,INC,Paika Murmu,5700,4857,18.75
+ae-bihar-1977,AE,Bihar,1977,1977,official,161,Jama,ST,,18840,INC,Madan Besra,7965,JNP,Chunka Hembrom,7099,866,4.6
+ae-bihar-1977,AE,Bihar,1977,1977,official,162,Poraiyahat,GEN,,35458,JNP,Kamla Kant Pd. Sinha Urf Lallu,8821,INC,Baikunth Prasad Yadav,4899,3922,11.06
+ae-bihar-1977,AE,Bihar,1977,1977,official,163,Godda,GEN,,52367,JNP,Lakhan Mahto,22654,IND,Hemant Kumar Jha,17420,5234,9.99
+ae-bihar-1977,AE,Bihar,1977,1977,official,164,Mahagama,GEN,,52311,JNP,Sayeed,25707,INC,Awadh Bihari Singh,22256,3451,6.6
+ae-bihar-1977,AE,Bihar,1977,1977,official,165,Pirpainti,GEN,,62442,CPI,Ambika Prasad,32759,JNP,Jamaluddin,26268,6491,10.4
+ae-bihar-1977,AE,Bihar,1977,1977,official,166,Colgong,GEN,,61029,INC,Sadanand Singh,25612,JNP,Balram Chand Ghosh,21714,3898,6.39
+ae-bihar-1977,AE,Bihar,1977,1977,official,167,Nathnagar,GEN,,51789,JNP,Sudha Srivastava,21138,INC,Chunchun Pd. Yadav,13739,7399,14.29
+ae-bihar-1977,AE,Bihar,1977,1977,official,168,Bhagalpur,GEN,,45650,JNP,Bijoy Kumar Mitra,30188,INC,Talib Ansari,9941,20247,44.35
+ae-bihar-1977,AE,Bihar,1977,1977,official,169,Gopalpur,GEN,,64085,CPI,Mani Ram Singh,19860,JNP,Anil Prasad Yadav,16646,3214,5.02
+ae-bihar-1977,AE,Bihar,1977,1977,official,170,Bihpur,GEN,,54289,CPI,Sitaram Singh Azad,22006,JNP,Ram Briksh Kumar,18027,3979,7.33
+ae-bihar-1977,AE,Bihar,1977,1977,official,171,Sultanganj,GEN,,64075,JNP,Jageshwar Mandal,31480,INC,Ram Raksha Pra Yadav,19045,12435,19.41
+ae-bihar-1977,AE,Bihar,1977,1977,official,172,Amarpur,GEN,,60051,JNP,Janardhan Yadav,40647,CPI,Makeshwar Prasad Singh,16185,24462,40.74
+ae-bihar-1977,AE,Bihar,1977,1977,official,173,Dhuraiya,SC,,48259,CPI,Naresh Das,23788,JNP,Lal Mohan Paswan,14235,9553,19.8
+ae-bihar-1977,AE,Bihar,1977,1977,official,174,Banka,GEN,,46494,JNP,Sindheshwar Prasad Singh,20552,INC,Thakur Kamakhya Prasad Singh,13535,7017,15.09
+ae-bihar-1977,AE,Bihar,1977,1977,official,175,Belhar,GEN,,40915,JNP,Chaturbhuj Prasad Singh,18079,IND,Chandra Mouleshwar Singh Lalan,8185,9894,24.18
+ae-bihar-1977,AE,Bihar,1977,1977,official,176,Katoria,GEN,,39339,JNP,Guneshwar Prasad Singh,12431,IND,Suresh Prasad Yadav,11444,987,2.51
+ae-bihar-1977,AE,Bihar,1977,1977,official,177,Chakai,GEN,,47131,IND,Falguni Pd. Yadav,13197,JNP,Kumar Narendra Pd. Singh,13102,95,0.2
+ae-bihar-1977,AE,Bihar,1977,1977,official,178,Jhajha,GEN,,42923,JNP,Sheonandan Jha,32057,INC,Shiv Prasad Yadav,7667,24390,56.82
+ae-bihar-1977,AE,Bihar,1977,1977,official,179,Tarapur,GEN,,64562,JNP,Kaushalaya Devi,19195,INC,Tarini Prasad Singh,16740,2455,3.8
+ae-bihar-1977,AE,Bihar,1977,1977,official,180,Kharagpur,GEN,,65149,JNP,Shamesher Jang Bahadur Singh,37741,CPI,Ramdeo Singh,11739,26002,39.91
+ae-bihar-1977,AE,Bihar,1977,1977,official,181,Parbatta,GEN,,69224,IND,Nayeem Akhtar,29386,INC,Sachchidanand Das,16731,12655,18.28
+ae-bihar-1977,AE,Bihar,1977,1977,official,182,Chautham,GEN,,63908,IND,Jagdambi Mandal,37496,INC,Ghanshyam Singh,24168,13328,20.85
+ae-bihar-1977,AE,Bihar,1977,1977,official,183,Khagaria,GEN,,58754,IND,Ram Sharan Yadav,20289,CPI,Ram Pravesh Pd. Singh,12254,8035,13.68
+ae-bihar-1977,AE,Bihar,1977,1977,official,184,Alauli,SC,,46056,JNP,Pashupati Kumar,22312,INC,Mishri Sada,18705,3607,7.83
+ae-bihar-1977,AE,Bihar,1977,1977,official,185,Monghyr,GEN,,78917,JNP,Syed Jabir Hussain,49222,IND,Ramdeo Singh Yadav,7781,41441,52.51
+ae-bihar-1977,AE,Bihar,1977,1977,official,186,Jamalpur,GEN,,64704,JNP,Suresh Kumar Singh,41226,CPI,Kamleshwari Yadav,14108,27118,41.91
+ae-bihar-1977,AE,Bihar,1977,1977,official,187,Surajgarha,GEN,,78577,IND,Ramjee Prasad Mahta,35376,JNP,Prashidh Narain Singh,27122,8254,10.5
+ae-bihar-1977,AE,Bihar,1977,1977,official,188,Jamui,GEN,,67796,JNP,Tripurari Prasad Singh,45943,INC,Panchanan Singh,18789,27154,40.05
+ae-bihar-1977,AE,Bihar,1977,1977,official,189,Sikandra,SC,,60644,JNP,Nagina Chaudhary,32255,INC,Sahil Rani,13923,18332,30.23
+ae-bihar-1977,AE,Bihar,1977,1977,official,190,Lakhisarai,GEN,,80463,JNP,Kapildeo Singh,46076,INC,Arjun Singh,23612,22464,27.92
+ae-bihar-1977,AE,Bihar,1977,1977,official,191,Sheikhpura,GEN,,66436,INC,Rajo Singh,34374,JNP,Rameshwar Prasad Singh,13405,20969,31.56
+ae-bihar-1977,AE,Bihar,1977,1977,official,192,Barbigha,SC,,58558,JNP,Nain Tara Dass,31681,INC,Rameshwar Paswan,20015,11666,19.92
+ae-bihar-1977,AE,Bihar,1977,1977,official,193,Asthawan,GEN,,84389,IND,Indradeo Chaudhary,40935,JNP,Rama Sinha,26372,14563,17.26
+ae-bihar-1977,AE,Bihar,1977,1977,official,194,Bihar,GEN,,78174,CPI,Devnath Prasad,22721,JNP,Taque Rehman,22474,247,0.32
+ae-bihar-1977,AE,Bihar,1977,1977,official,195,Rajgir,SC,,76719,JNP,Satyadeo Narain Arya,48254,CPI,Chandradeo Prasad Hamansu,25097,23157,30.18
+ae-bihar-1977,AE,Bihar,1977,1977,official,196,Nalanda,GEN,,66820,INC,Shyam Sundar Prasad,25907,JNP,Krishnadeo Prasad,24899,1008,1.51
+ae-bihar-1977,AE,Bihar,1977,1977,official,197,Islampur,GEN,,96878,CPI,Krishna Vallabh Prasad Singh,36406,JNP,Vijay Laxmi Chaur,22371,14035,14.49
+ae-bihar-1977,AE,Bihar,1977,1977,official,198,Hilsa,GEN,,90615,JNP,Jagdish Prasad,53989,IND,Ram Piyare Singh,13713,40276,44.45
+ae-bihar-1977,AE,Bihar,1977,1977,official,199,Chandi,GEN,,69827,JNP,Hari Narain Singh,38085,INC,Keshwar Prasad,22141,15944,22.83
+ae-bihar-1977,AE,Bihar,1977,1977,official,200,Harnaut,GEN,,70091,IND,Bhola Prasad Singh,28228,JNP,Nitish Kumar,22333,5895,8.41
+ae-bihar-1977,AE,Bihar,1977,1977,official,201,Mokamah,GEN,,71457,INC,Krishna Shahi,31416,JNP,Chandra Shekhar Prasad,30267,1149,1.61
+ae-bihar-1977,AE,Bihar,1977,1977,official,202,Barh,GEN,,75452,JNP,Ranasheolakhapati Singh,34850,IND,Vishwamohan Choudhary,14176,20674,27.4
+ae-bihar-1977,AE,Bihar,1977,1977,official,203,Bakhtiarpur,GEN,,75636,INC,Budhdeo Singh,33812,JNP,Vijay Krishna Singh,33469,343,0.45
+ae-bihar-1977,AE,Bihar,1977,1977,official,204,Fatwa,SC,,61753,JNP,Kameshwar Paswan,38873,INC,Ram Pravesh Paswan,10281,28592,46.3
+ae-bihar-1977,AE,Bihar,1977,1977,official,205,Masaurhi,GEN,,84853,JNP,Ramdeo Prasad Yadav,29326,INC,Raj Kishore Prasad,28432,894,1.05
+ae-bihar-1977,AE,Bihar,1977,1977,official,206,Patna West,GEN,,69286,JNP,Thakur Prasad,45935,CPI,Surendra Prasad Yadav,15820,30115,43.46
+ae-bihar-1977,AE,Bihar,1977,1977,official,207,Patna Central,GEN,,63181,JNP,Mohammad Shahabuddin,42182,INC,Shamayal Nabi,10355,31827,50.37
+ae-bihar-1977,AE,Bihar,1977,1977,official,208,Patna East,GEN,,63913,JNP,Ramdeo Mahto,44251,INC,Ram Ran Vijaya Singh,12591,31660,49.54
+ae-bihar-1977,AE,Bihar,1977,1977,official,209,Dinapur,GEN,,66146,INC,Ram Lakhan Singh Yadav,33989,JNP,Chhabila Singh,29292,4697,7.1
+ae-bihar-1977,AE,Bihar,1977,1977,official,210,Maner,GEN,,64093,JNP,Suryadeo Singh,33279,INC,Ram Nagina Singh,25983,7296,11.38
+ae-bihar-1977,AE,Bihar,1977,1977,official,211,Phulwari,SC,,68996,JNP,Ram Prit Paswan,35316,CPI,Dashrath Paswan,17169,18147,26.3
+ae-bihar-1977,AE,Bihar,1977,1977,official,212,Bikram,GEN,,66637,JNP,Kailash Pati Mishra,33886,INC,Diwakar Sharma,10691,23195,34.81
+ae-bihar-1977,AE,Bihar,1977,1977,official,213,Paliganj,GEN,,78540,IND,Kanhai Singh,27061,INC,Akhileshwar Singh,23739,3322,4.23
+ae-bihar-1977,AE,Bihar,1977,1977,official,214,Sandesh,GEN,,58122,JNP,Ram Dayal Singh,30793,INC,Sondhari Singh,21271,9522,16.38
+ae-bihar-1977,AE,Bihar,1977,1977,official,215,Barhara,GEN,,67548,JNP,Ambika Saran Singh,36853,INC,Sheo Murat Yadav,15485,21368,31.63
+ae-bihar-1977,AE,Bihar,1977,1977,official,216,Arrah,GEN,,48305,JNP,Sumitra Devi,16192,INC,Md. Isha,15385,807,1.67
+ae-bihar-1977,AE,Bihar,1977,1977,official,217,Shahpur,GEN,,44374,JNP,Jai Narain Mishra,21056,IND,Ram Pyare Yadav,11094,9962,22.45
+ae-bihar-1977,AE,Bihar,1977,1977,official,218,Brahmpur,GEN,,52338,JNP,Ramakant Thakur,18389,INC,Rishikesh Tiwari,16731,1658,3.17
+ae-bihar-1977,AE,Bihar,1977,1977,official,219,Buxar,GEN,,48948,INC,Jagnarain Trivedi,21412,JNP,Bashista Narain Singh,12995,8417,17.2
+ae-bihar-1977,AE,Bihar,1977,1977,official,220,Rajpur,SC,,39183,JNP,Nand Kishore Prasad,19009,CPI,Dharmraj Paswan,16805,2204,5.62
+ae-bihar-1977,AE,Bihar,1977,1977,official,221,Dumraon,GEN,,58887,CPI,Ramashray Singh,28500,JNP,Harihar Singh,18675,9825,16.68
+ae-bihar-1977,AE,Bihar,1977,1977,official,222,Jagdishpur,GEN,,63573,IND,Satya Narain Singh,19752,CPI,Bir Bahadur Singh,10638,9114,14.34
+ae-bihar-1977,AE,Bihar,1977,1977,official,223,Piro,GEN,,59103,JNP,Raghupati Gope,19768,IND,Indra Mani Singh,15770,3998,6.76
+ae-bihar-1977,AE,Bihar,1977,1977,official,224,Sahar,SC,,42438,JNP,Dineshwar Prasad,26686,INC,Raj Deo Ram,9339,17347,40.88
+ae-bihar-1977,AE,Bihar,1977,1977,official,225,Karakat,GEN,,70936,JNP,Tribhuwan Singh,33067,IND,Tulsi Singh,17329,15738,22.19
+ae-bihar-1977,AE,Bihar,1977,1977,official,226,Bikramganj,GEN,,65750,JNP,Ekhlak Ahmad,27935,SSD,Meghraj Medhawi,16751,11184,17.01
+ae-bihar-1977,AE,Bihar,1977,1977,official,227,Dinara,GEN,,62655,JNP,Sheopujan Singh,20184,INC,Lakshman Rai,15147,5037,8.04
+ae-bihar-1977,AE,Bihar,1977,1977,official,228,Ramgarh,GEN,,52296,JNP,Sachidanand Singh,29472,INC,Prabhawati Devi,16615,12857,24.59
+ae-bihar-1977,AE,Bihar,1977,1977,official,229,Mohania,SC,,41516,JNP,Ram Krishna Ram,15803,INC,Bansropan Chamar,11699,4104,9.89
+ae-bihar-1977,AE,Bihar,1977,1977,official,230,Bhabhua,GEN,,59958,JNP,Shib Pariksha Singh,22410,INC,Shyam Narayan Pandey,12600,9810,16.36
+ae-bihar-1977,AE,Bihar,1977,1977,official,231,Chainpur,GEN,,52270,JNP,Lalmuni Choubey,31831,INC,Bhola Singh,13669,18162,34.75
+ae-bihar-1977,AE,Bihar,1977,1977,official,232,Sasaram,GEN,,59975,JNP,Bipin Bihari Sinha,25383,SSD,Ram Sewak Singh,15323,10060,16.77
+ae-bihar-1977,AE,Bihar,1977,1977,official,233,Chenari,SC,,50064,JNP,Ram Bachan Paswan,23844,INC,Dudhnath Paswan,19641,4203,8.4
+ae-bihar-1977,AE,Bihar,1977,1977,official,234,Nokha,GEN,,58388,JNP,Gopal Narain Singh,15917,IND,Jagi Choudhary,13853,2064,3.53
+ae-bihar-1977,AE,Bihar,1977,1977,official,235,Dehri,GEN,,54450,JNP,Basawan Singh,22813,INC,Khalid Anwar Ansari,18023,4790,8.8
+ae-bihar-1977,AE,Bihar,1977,1977,official,236,Nabinagar,GEN,,50594,JNP,Yugal Singh,24716,CPI,Dharmdeo Singh,19824,4892,9.67
+ae-bihar-1977,AE,Bihar,1977,1977,official,237,Deo,SC,,46409,JNP,Ram Lagan Ram,23584,INC,Dilheshwar Ram,14070,9514,20.5
+ae-bihar-1977,AE,Bihar,1977,1977,official,238,Aurangabad,GEN,,48968,INC,Ram Naresh Singh,16443,JNP,Braj Mohan Singh,15309,1134,2.32
+ae-bihar-1977,AE,Bihar,1977,1977,official,239,Rafiganj,GEN,,47062,JNP,Md. Hussain Ansari,15881,INC,Gopal Prasad Singh,8592,7289,15.49
+ae-bihar-1977,AE,Bihar,1977,1977,official,240,Obra,GEN,,68314,JNP,Ram Vilas Singh,29155,INC,Narain Singh,21724,7431,10.88
+ae-bihar-1977,AE,Bihar,1977,1977,official,241,Goh,GEN,,70601,CPI,Ram Saran Yadav,28783,JNP,Jhakun Muneshwar Nath Singh,16458,12325,17.46
+ae-bihar-1977,AE,Bihar,1977,1977,official,242,Arwal,GEN,,79523,JNP,Baneshwar Prasad Singh,35926,CPI,Ram Bhawan Singh,23854,12072,15.18
+ae-bihar-1977,AE,Bihar,1977,1977,official,243,Kurtha,GEN,,78381,SSD,Nagnani,28972,JNP,S.M. Zahiruddin,27692,1280,1.63
+ae-bihar-1977,AE,Bihar,1977,1977,official,244,Makhdumpur,GEN,,80018,JNP,Ram Jatan Sinha,38405,INC,Ramashraya Prasad Singh,22979,15426,19.28
+ae-bihar-1977,AE,Bihar,1977,1977,official,245,Jahanabad,GEN,,77804,JNP,Ram Chander Singh Yadav,30648,INC,Chandrika Pd. Yadav,24786,5862,7.53
+ae-bihar-1977,AE,Bihar,1977,1977,official,246,Ghosi,GEN,,97134,JNP,Jagdish Sharma,52424,CPI,Ramashray Pd. Ansari,43561,8863,9.12
+ae-bihar-1977,AE,Bihar,1977,1977,official,247,Balaganj,GEN,,72515,JNP,Shambhu Prasad Singh,31035,IND,Rameshwar Prasad,18863,12172,16.79
+ae-bihar-1977,AE,Bihar,1977,1977,official,248,Konch,GEN,,63777,JNP,Naresh Prasad Singh,24565,INC,Rajkumari Devi,21395,3170,4.97
+ae-bihar-1977,AE,Bihar,1977,1977,official,249,Gaya Muffasil,GEN,,67564,JNP,Vijay Kumar Singh,32547,IND,Surendra Prasad,18387,14160,20.96
+ae-bihar-1977,AE,Bihar,1977,1977,official,250,Gaya Town,GEN,,51419,JNP,Sushila Sahay,27737,INC,Yugal Kishore Prasad,19469,8268,16.08
+ae-bihar-1977,AE,Bihar,1977,1977,official,251,Imamganj,SC,,39773,JNP,Ishwar Das,24094,INC,Srichand Singh,7211,16883,42.45
+ae-bihar-1977,AE,Bihar,1977,1977,official,252,Gurua,GEN,,57487,JNP,Upendra Nath Verma,17548,INC,Shahjehan,14233,3315,5.77
+ae-bihar-1977,AE,Bihar,1977,1977,official,253,Bodh Gaya,SC,,54781,JNP,Rajesh Kumar,34082,CPI,Balik Ram,18079,16003,29.21
+ae-bihar-1977,AE,Bihar,1977,1977,official,254,Barachatti,SC,,45357,JNP,Bhagwati Devi,35540,INC,Ramji Manjhi,8451,27089,59.72
+ae-bihar-1977,AE,Bihar,1977,1977,official,255,Fatehpur,SC,,54005,JNP,Mohan Ram,32676,INC,Ram Swarup Ram,17770,14906,27.6
+ae-bihar-1977,AE,Bihar,1977,1977,official,256,Atri,GEN,,92231,JNP,Mundrika Singh,42605,IND,Mahesh Singh Yadav,28567,14038,15.22
+ae-bihar-1977,AE,Bihar,1977,1977,official,257,Nawada,GEN,,77728,CPI(M),Ganesh Shanker Vidyarthi,51857,IND,Jehal Prasad,12411,39446,50.75
+ae-bihar-1977,AE,Bihar,1977,1977,official,258,Rajauli,SC,,67383,IND,Babu Lal,42314,JNP,Banwari Ram,20126,22188,32.93
+ae-bihar-1977,AE,Bihar,1977,1977,official,259,Gobindpur,GEN,,81541,JNP,Bhatu Mahto,41952,INC,Gayatri Devi,31716,10236,12.55
+ae-bihar-1977,AE,Bihar,1977,1977,official,260,Warsaliganj,GEN,,75905,JNP,Ram Ratan Singh,36182,CPI,Deonandan Prasad,30140,6042,7.96
+ae-bihar-1977,AE,Bihar,1977,1977,official,261,Hisua,GEN,,59369,JNP,Babu Lal Singh,17545,IND,Aditya Singh,17302,243,0.41
+ae-bihar-1977,AE,Bihar,1977,1977,official,262,Kodarma,GEN,,48587,JNP,Vishwanath Modi,25704,INC,Rajendra Nath Dawn,15270,10434,21.47
+ae-bihar-1977,AE,Bihar,1977,1977,official,263,Barhi,GEN,,36288,JNP,Lalita Rajya Lakshmi,21613,INC,Matinul Hasan,5597,16016,44.14
+ae-bihar-1977,AE,Bihar,1977,1977,official,264,Chatra,GEN,,32152,JNP,S. Ahmad Sabr,11653,IND,Prajapalak Nath Singh,11477,176,0.55
+ae-bihar-1977,AE,Bihar,1977,1977,official,265,Simaria,SC,,32575,JNP,Upendra Nath Das,17865,IND,Mahendra P. Singh Bhogta,6423,11442,35.13
+ae-bihar-1977,AE,Bihar,1977,1977,official,266,Barkagaon,GEN,,51343,JNP,Kailash Pati Singh,23974,CPI,Ramendra Kumar,16505,7469,14.55
+ae-bihar-1977,AE,Bihar,1977,1977,official,267,Ramgarh,GEN,,41747,JNP,Bishwanath Choudhary,14679,CPI,Shabir Ahmad,7648,7031,16.84
+ae-bihar-1977,AE,Bihar,1977,1977,official,268,Mandu,GEN,,39981,JNP,Gopal Sharan Singh,19353,INC,Tapeshwar Deo,5986,13367,33.43
+ae-bihar-1977,AE,Bihar,1977,1977,official,269,Hazaribagh,GEN,,39775,JNP,Rani De,23683,IND,M. Rafique,6486,17197,43.24
+ae-bihar-1977,AE,Bihar,1977,1977,official,270,Barkatha,GEN,,46808,JNP,Sukhdeo Yadav,35761,INC,Narbadeshwar Singh,5955,29806,63.68
+ae-bihar-1977,AE,Bihar,1977,1977,official,271,Dhanwar,GEN,,37533,JNP,Harihar Narayan Prabhkar,19835,IND,Gulam Rasul Ansari,6154,13681,36.45
+ae-bihar-1977,AE,Bihar,1977,1977,official,272,Bagodar,GEN,,33650,JNP,Gautam Sagar Rana,14604,IND,Kharagdhari Singh,6007,8597,25.55
+ae-bihar-1977,AE,Bihar,1977,1977,official,273,Jamua,SC,,32282,JNP,Shukar Rawidas,23178,INC,Taneshwar Azad,6875,16303,50.5
+ae-bihar-1977,AE,Bihar,1977,1977,official,274,Gandey,GEN,,37257,JNP,Lakshman Swarankar,12692,INC,Md. Muslim Ansari,8379,4313,11.58
+ae-bihar-1977,AE,Bihar,1977,1977,official,275,Giridih,GEN,,37659,CPI,Chaturanan Mishra,18697,JNP,Gopal V. Raghavan,15353,3344,8.88
+ae-bihar-1977,AE,Bihar,1977,1977,official,276,Dumri,GEN,,31696,JNP,Lalchand Mahto,16867,INC,Murli Bhagat,5237,11630,36.69
+ae-bihar-1977,AE,Bihar,1977,1977,official,277,Gomia,GEN,,31231,JNP,Chharru Ram Mahto,21610,INC,Ram Viswas Mahatha,3448,18162,58.15
+ae-bihar-1977,AE,Bihar,1977,1977,official,278,Bermo,GEN,,47078,JNP,Mithilesh Kumar,23731,INC,Bindeshwari Dubey,11822,11909,25.3
+ae-bihar-1977,AE,Bihar,1977,1977,official,279,Bokaro,GEN,,45550,IND,Samresh Singh,10356,JNP,Imamul Hai Khan,10151,205,0.45
+ae-bihar-1977,AE,Bihar,1977,1977,official,280,Tundi,GEN,,38559,JNP,Satya Narain Dudani,16055,IND,Shibu Soren,7523,8532,22.13
+ae-bihar-1977,AE,Bihar,1977,1977,official,281,Baghmara,GEN,,47875,INC,Shankar Dayal Singh,21937,JNP,Ram Ayodhya Singh,8835,13102,27.37
+ae-bihar-1977,AE,Bihar,1977,1977,official,282,Sindri,GEN,,45364,IND,Anand Mahto,11921,JNP,Tapeshwar Singh,9440,2481,5.47
+ae-bihar-1977,AE,Bihar,1977,1977,official,283,Nirsa,GEN,,49021,IND,Kripa Shanker Chatterjee,24058,CPI(M),Gopi Kant Baxi,6121,17937,36.59
+ae-bihar-1977,AE,Bihar,1977,1977,official,284,Dhanbad,GEN,,44111,INC,Yogeshwar Prasad 'Yogesh',14973,JNP,Kalawati Devi,12848,2125,4.82
+ae-bihar-1977,AE,Bihar,1977,1977,official,285,Jharia,GEN,,55171,JNP,Surya Deo Singh,18539,CPI,Shiv Kumar Roy,12889,5650,10.24
+ae-bihar-1977,AE,Bihar,1977,1977,official,286,Chandankiyari,SC,,21884,INC,Ram Das Ram,8651,JNP,Durga Charan Das,4658,3993,18.25
+ae-bihar-1977,AE,Bihar,1977,1977,official,287,Baharagora,GEN,,39973,INC,Bishna Pada Ghosh,19395,IND,Thakur Das Mehta,11549,7846,19.63
+ae-bihar-1977,AE,Bihar,1977,1977,official,288,Ghatsila,ST,,28192,CPI,Tika Ram Majhi,10640,SUC,Sitaram Tudu,6209,4431,15.72
+ae-bihar-1977,AE,Bihar,1977,1977,official,289,Potka,ST,,29029,JNP,Sanatan Sardar,15995,JKP,Sanatan Manjni,5604,10391,35.8
+ae-bihar-1977,AE,Bihar,1977,1977,official,290,Jugsalai,SC,,27174,JNP,Kartik Kumar,17927,INC,Ratul Muchi,5869,12058,44.37
+ae-bihar-1977,AE,Bihar,1977,1977,official,291,Jamshedpur East,GEN,,40362,JNP,Dina Nath Pandey,20245,CPI(M),Jwala Singh,7234,13011,32.24
+ae-bihar-1977,AE,Bihar,1977,1977,official,292,Jamshedpur West,GEN,,26469,JNP,Mohd. Ayub Khan,16520,CPI,Shalil Kar,5967,10553,39.87
+ae-bihar-1977,AE,Bihar,1977,1977,official,293,Ichagarh,GEN,,27429,IND,Ghansyam Mahto,12783,JNP,Mangal Prasad,4217,8566,31.23
+ae-bihar-1977,AE,Bihar,1977,1977,official,294,Seraikella,ST,,29592,JNP,Kade Majhi,17820,IND,Phudan Hansad,5891,11929,40.31
+ae-bihar-1977,AE,Bihar,1977,1977,official,295,Chaibasa,ST,,23889,JKP,Muktidani Sumbrui,6931,JNP,Sukhdeo Banra,4942,1989,8.33
+ae-bihar-1977,AE,Bihar,1977,1977,official,296,Majhgaon,ST,,23542,JNP,Gowardhan Nayak,9695,IND,Devendra Nath Champia,4587,5108,21.7
+ae-bihar-1977,AE,Bihar,1977,1977,official,297,Jaganathpur,ST,,19943,JNP,Barju Hansda,9562,JKP,Mangal Singh Lamai,8440,1122,5.63
+ae-bihar-1977,AE,Bihar,1977,1977,official,298,Manoharpur,ST,,24328,IND,Ratnakar Nayak,9086,JKP,Rasai Bhawar,5549,3537,14.54
+ae-bihar-1977,AE,Bihar,1977,1977,official,299,Chakradharpur,ST,,32764,JNP,Jaganath Bakira,17213,JKP,Devendra Manjhi,9225,7988,24.38
+ae-bihar-1977,AE,Bihar,1977,1977,official,300,Kharasawan,ST,,23317,JNP,Debi Lal Mati Soy,12956,JKP,Manoranjan Bodra,3617,9339,40.05
+ae-bihar-1977,AE,Bihar,1977,1977,official,301,Tamar,ST,,23653,JNP,Anirudh Patar,11140,INC,Banmali Singh Munda,5036,6104,25.81
+ae-bihar-1977,AE,Bihar,1977,1977,official,302,Tokpa,ST,,34064,JKD,Niral Enam Horo,16446,JNP,Doli Kandulna,11823,4623,13.57
+ae-bihar-1977,AE,Bihar,1977,1977,official,303,Khunti,ST,,31765,JNP,Khudia Pahan,13456,JKD,Johan Pahan,9567,3889,12.24
+ae-bihar-1977,AE,Bihar,1977,1977,official,304,Silli,GEN,,34433,CPI(M),Rajendra Singh,8261,JNP,Govind Chandra Mahto,7680,581,1.69
+ae-bihar-1977,AE,Bihar,1977,1977,official,305,Khijri,ST,,35746,JNP,Sukhari Oraon,20313,JKP,S. Lakra,6823,13490,37.74
+ae-bihar-1977,AE,Bihar,1977,1977,official,306,Ranchi,GEN,,33631,JNP,Nani Gopal Mitra,19531,INC,Jaganath Prasad Choudhry,6899,12632,37.56
+ae-bihar-1977,AE,Bihar,1977,1977,official,307,Hatia,GEN,,35653,JNP,Subodh Kant Sahay,17015,INC,Amanat Ali,7659,9356,26.24
+ae-bihar-1977,AE,Bihar,1977,1977,official,308,Kanke,SC,,33243,JNP,Hira Ram Toofani,20635,INC,Ram Ratan Ram,9545,11090,33.36
+ae-bihar-1977,AE,Bihar,1977,1977,official,309,Mandar,ST,,45983,INC,Karam Chand Bhagat,18157,JNP,Kailash Oraon,18126,31,0.07
+ae-bihar-1977,AE,Bihar,1977,1977,official,310,Sisai,ST,,34135,JNP,Lalit Oraon,14767,INC,Yugesh Oraon,10758,4009,11.74
+ae-bihar-1977,AE,Bihar,1977,1977,official,311,Kolebira,ST,,33271,JKD,Birsing Munda,10944,JNP,William Munda (Lugun),10343,601,1.81
+ae-bihar-1977,AE,Bihar,1977,1977,official,312,Simdega,ST,,30697,JNP,Nirmal Kumar Besra,11753,JKD,Marsel Kulu,6622,5131,16.71
+ae-bihar-1977,AE,Bihar,1977,1977,official,313,Gumla,ST,,40971,IND,Jayram Oraon,17787,JNP,Ropna Oraon,11536,6251,15.26
+ae-bihar-1977,AE,Bihar,1977,1977,official,314,Bishnupur,ST,,41000,INC,Kartik Oraon,25701,JNP,Gouri Shankar Oraon,11019,14682,35.81
+ae-bihar-1977,AE,Bihar,1977,1977,official,315,Lohardaga,ST,,37716,INC,Indranath Bhagat,20107,JNP,Khadag Singh Ekka,9858,10249,27.17
+ae-bihar-1977,AE,Bihar,1977,1977,official,316,Latehar,SC,,20972,JNP,Ramdeo,16974,INC,Bhola Dayal,3163,13811,65.85
+ae-bihar-1977,AE,Bihar,1977,1977,official,317,Manika,ST,,30587,JNP,Yamuna Singh,18523,IND,Fancis Jandarity Xaxa,5520,13003,42.51
+ae-bihar-1977,AE,Bihar,1977,1977,official,318,Panki,GEN,,35320,JNP,Mohan Singh,15886,INC,Sankateshwar Prasad Singh,13777,2109,5.97
+ae-bihar-1977,AE,Bihar,1977,1977,official,319,Daltonganj,GEN,,38049,JNP,Puran Chand,20712,INC,Dinanath Tiwary,7796,12916,33.95
+ae-bihar-1977,AE,Bihar,1977,1977,official,320,Garhwa,GEN,,33481,JNP,Vinod N.Dixit,23408,INC,Deoraj Tiwari,6385,17023,50.84
+ae-bihar-1977,AE,Bihar,1977,1977,official,321,Bhawanathpur,GEN,,36902,JNP,Ram Chandra Prasad Keshri,13583,INC,Shankar Pratap Deo,12200,1383,3.75
+ae-bihar-1977,AE,Bihar,1977,1977,official,322,Bishrampur,GEN,,47727,IND,Vinod Singh,20576,INC,Lakshmi Narain Dubey,8770,11806,24.74
+ae-bihar-1977,AE,Bihar,1977,1977,official,323,Chhatarpur,SC,,24443,JNP,Jorawar Ram,13773,INC,Maldeo Ram,5417,8356,34.19
+ae-bihar-1977,AE,Bihar,1977,1977,official,324,Hussainabad,GEN,,40290,INC,Harihar Singh,14564,IND,Awadhesh Kumar Singh,11620,2944,7.31

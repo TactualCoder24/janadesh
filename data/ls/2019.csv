@@ -1,0 +1,544 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ls-2019,LS,India,2019,2019,official,1,Andaman & Nicobar Islands,GEN,Andaman & Nicobar Islands,205884,INC,Kuldeep Rai Sharma,95308,BJP,Vishal Jolly,93901,1407,0.68
+ls-2019,LS,India,2019,2019,official,2,Araku,ST,Andhra Pradesh,1026561,YSRCP,Goddeti. Madhavi,562190,TDP,Kishore Chandra Deo,338101,224089,21.83
+ls-2019,LS,India,2019,2019,official,3,Srikakulam,GEN,Andhra Pradesh,1131784,TDP,Kinjarapu Ram Mohan Naidu,534544,YSRCP,Duvvada Srinivas,527891,6653,0.59
+ls-2019,LS,India,2019,2019,official,4,Vizianagaram,GEN,Andhra Pradesh,1187598,YSRCP,Bellana Chandra Sekhar,578418,TDP,Ashok Gajapathi Raju Pusapati,530382,48036,4.04
+ls-2019,LS,India,2019,2019,official,5,Visakhapatnam,GEN,Andhra Pradesh,1223108,YSRCP,M V V Satyanarayana,436906,TDP,Bharat Mathukumilli,432492,4414,0.36
+ls-2019,LS,India,2019,2019,official,6,Anakapalle,GEN,Andhra Pradesh,1203594,YSRCP,Dr.Beesetti Venkata Satyavathi,586226,TDP,Adari Anand Kumar,497034,89192,7.41
+ls-2019,LS,India,2019,2019,official,7,Kakinada,GEN,Andhra Pradesh,1216687,YSRCP,Vanga Geethaviswanath,537630,TDP,Chalamalasetty Sunil,511892,25738,2.12
+ls-2019,LS,India,2019,2019,official,8,Amalapuram,SC,Andhra Pradesh,1214454,YSRCP,Chinta Anuradha,485313,TDP,Ganti Harish Madhur (Balayogi),445347,39966,3.29
+ls-2019,LS,India,2019,2019,official,9,Rajahmundry,GEN,Andhra Pradesh,1231344,YSRCP,Margani Bharat,582024,TDP,Maganti Roopa,460390,121634,9.88
+ls-2019,LS,India,2019,2019,official,10,Narsapuram,GEN,Andhra Pradesh,1162375,YSRCP,Kanumuru Raghu Rama Krishna Raju,447594,TDP,V.V. Siva Rama Raju (Kalavapudi Siva),415685,31909,2.75
+ls-2019,LS,India,2019,2019,official,11,Eluru,GEN,Andhra Pradesh,1304043,YSRCP,Kotagiri Sridhar,676809,TDP,Magantti Venkateswara Rao Babu,510884,165925,12.72
+ls-2019,LS,India,2019,2019,official,12,Machilipatnam,GEN,Andhra Pradesh,1227528,YSRCP,Balashowry Vallabhaneni,571436,TDP,Konakalla Narayana Rao,511295,60141,4.9
+ls-2019,LS,India,2019,2019,official,13,Vijayawada,GEN,Andhra Pradesh,1268800,TDP,Kesineni Srinivas (Nani),575498,YSRCP,Potluri.V.Prasad ( P V P ),566772,8726,0.69
+ls-2019,LS,India,2019,2019,official,14,Guntur,GEN,Andhra Pradesh,1343393,TDP,Jayadev Galla,587918,YSRCP,Modugula Venugopala Reddy,583713,4205,0.31
+ls-2019,LS,India,2019,2019,official,15,Narasaraopet,GEN,Andhra Pradesh,1423973,YSRCP,Lavu Sri Krishna Devarayalu,745089,TDP,Rayapati Sambasivarao,591111,153978,10.81
+ls-2019,LS,India,2019,2019,official,16,Bapatla,SC,Andhra Pradesh,1252374,YSRCP,Nandigam Suresh,598257,TDP,Malyadri Sriram,582192,16065,1.28
+ls-2019,LS,India,2019,2019,official,17,Ongole,GEN,Andhra Pradesh,1321503,YSRCP,Magunta Sreenivasulu Reddy,739202,TDP,Sidda Raghava Rao,524351,214851,16.26
+ls-2019,LS,India,2019,2019,official,18,Nandyal,GEN,Andhra Pradesh,1289302,YSRCP,Pocha . Brahmananda Reddy,720888,TDP,Mandra Sivananda Reddy,470769,250119,19.4
+ls-2019,LS,India,2019,2019,official,19,Kurnool,GEN,Andhra Pradesh,1173121,YSRCP,Ayushman Dr. Sanjeev Kumar,602554,TDP,Kotla Jaya Surya Prakash Reddy,453665,148889,12.69
+ls-2019,LS,India,2019,2019,official,20,Ananthapur,GEN,Andhra Pradesh,1325112,YSRCP,Talari Rangaiah,695208,TDP,J.C. Pavan Reddy,553780,141428,10.67
+ls-2019,LS,India,2019,2019,official,21,Hindupur,GEN,Andhra Pradesh,1321086,YSRCP,Kuruva Gorantla Madhav,706602,TDP,Kristappa . Nimmala,565854,140748,10.65
+ls-2019,LS,India,2019,2019,official,22,Kadapa,GEN,Andhra Pradesh,1213532,YSRCP,Y. S. Avinash Reddy,783799,TDP,Chadipirala Adi Narayana Reddy,402823,380976,31.39
+ls-2019,LS,India,2019,2019,official,23,Nellore,GEN,Andhra Pradesh,1269875,YSRCP,Adala Prabhakara Reddy,683830,TDP,Beeda Masthan Rao,535259,148571,11.7
+ls-2019,LS,India,2019,2019,official,24,Tirupati,SC,Andhra Pradesh,1286821,YSRCP,Balli Durga Prasad Rao,722877,TDP,Panabaka Lakshmi,494501,228376,17.75
+ls-2019,LS,India,2019,2019,official,25,Rajampet,GEN,Andhra Pradesh,1203015,YSRCP,P V Midhun Reddy,702211,TDP,D A Sathya Prabha,433927,268284,22.3
+ls-2019,LS,India,2019,2019,official,26,Chittoor,SC,Andhra Pradesh,1298916,YSRCP,N. Reddeppa,686792,TDP,Naramalli Siva Prasad,549521,137271,10.57
+ls-2019,LS,India,2019,2019,official,27,Arunachal West,GEN,Arunachal Pradesh,356420,BJP,Kiren Rijiju,225796,INC,Nabam Tuki,50953,174843,49.06
+ls-2019,LS,India,2019,2019,official,28,Arunachal East,GEN,Arunachal Pradesh,288206,BJP,Tapir Gao,153883,INC,Lowangcha Wanglat,83935,69948,24.27
+ls-2019,LS,India,2019,2019,official,29,Kokrajhar,ST,Assam,1463497,IND,Naba Kumar Sarania,484560,BPF,Pramila Rani Brahma,446774,37786,2.58
+ls-2019,LS,India,2019,2019,official,30,Dhubri,GEN,Assam,1676027,AUDF,Badruddin Ajmal,718764,INC,Abu Taher Bepari,492506,226258,13.5
+ls-2019,LS,India,2019,2019,official,31,Barpeta,GEN,Assam,1448815,INC,Abdul Khaleque,645173,AGP,Kumar Deepak Das,504866,140307,9.68
+ls-2019,LS,India,2019,2019,official,32,Mangaldoi,GEN,Assam,1487589,BJP,Dilip Saikia,735469,INC,Bhubaneswar Kalita,596924,138545,9.31
+ls-2019,LS,India,2019,2019,official,33,Guwahati,GEN,Assam,1751227,BJP,Queen Oja,1008936,INC,Bobbeeta Sharma,663330,345606,19.74
+ls-2019,LS,India,2019,2019,official,34,Autonomous District,ST,Assam,609541,BJP,Horen Sing Bey,381316,INC,Biren Singh Engti,141690,239626,39.31
+ls-2019,LS,India,2019,2019,official,35,Karimganj,SC,Assam,1053517,BJP,Kripanath Mallah,473046,AUDF,Radheshyam Biswas,434657,38389,3.64
+ls-2019,LS,India,2019,2019,official,36,Silchar,GEN,Assam,941149,BJP,Rajdeep Roy,499414,INC,Sushmita Dev,417818,81596,8.67
+ls-2019,LS,India,2019,2019,official,37,Nowgong,GEN,Assam,1482718,INC,Pradyut Bordoloi,739724,BJP,Sri Rupak Sharma,722972,16752,1.13
+ls-2019,LS,India,2019,2019,official,38,Kaliabor,GEN,Assam,1408774,INC,Gourav Gogoi,786092,AGP,Moni Madhab Mahanta,576098,209994,14.91
+ls-2019,LS,India,2019,2019,official,39,Tezpur,GEN,Assam,1174570,BJP,Pallab Lochan Das,684166,INC,M.G.V.K. Bhanu,441325,242841,20.67
+ls-2019,LS,India,2019,2019,official,40,Lakhimpur,GEN,Assam,1268369,BJP,Pradan Baruah,776406,INC,Anil Borgohain,425855,350551,27.64
+ls-2019,LS,India,2019,2019,official,41,Dibrugarh,GEN,Assam,994460,BJP,Rameswar Teli,659583,INC,Paban Singh Ghatowar,295017,364566,36.66
+ls-2019,LS,India,2019,2019,official,42,Jorhat,GEN,Assam,1045396,BJP,Topon Kumar Gogoi,543288,INC,Sushanta Borgohain,460635,82653,7.91
+ls-2019,LS,India,2019,2019,official,43,Valmiki Nagar,GEN,Bihar,993169,JDU,Baidyanath Prasad Mahto,602660,INC,Shashwat Kedar,248044,354616,35.71
+ls-2019,LS,India,2019,2019,official,44,Paschim Champaran,GEN,Bihar,967237,BJP,Dr.Sanjay Jaiswal,603706,RLM,Brijesh Kumar Kushwaha,309800,293906,30.39
+ls-2019,LS,India,2019,2019,official,45,Purvi Champaran,GEN,Bihar,972987,BJP,Radha Mohan Singh,577787,RLM,Aakash Kumar Singh,284139,293648,30.18
+ls-2019,LS,India,2019,2019,official,46,Sheohar,GEN,Bihar,997542,BJP,Rama Devi,608678,RJD,Syed Faisal Ali,268318,340360,34.12
+ls-2019,LS,India,2019,2019,official,47,Sitamarhi,GEN,Bihar,1028531,JDU,Sunil Kumar Pintu,567745,RJD,Arjun Ray,317206,250539,24.36
+ls-2019,LS,India,2019,2019,official,48,Madhubani,GEN,Bihar,953561,BJP,Ashok Kumar Yadav,595843,VIP,Badri Kumar Purbey,140903,454940,47.71
+ls-2019,LS,India,2019,2019,official,49,Jhanjharpur,GEN,Bihar,1051359,JDU,Ramprit Mandal,602391,RJD,Gulab Yadav,279440,322951,30.72
+ls-2019,LS,India,2019,2019,official,50,Supaul,GEN,Bihar,1101462,JDU,Dileshwar Kamait,597377,INC,Ranjeet Ranjan,330524,266853,24.23
+ls-2019,LS,India,2019,2019,official,51,Araria,GEN,Bihar,1149012,BJP,Pradeep Kumar Singh,618434,RJD,Sarfaraz Alam,481193,137241,11.94
+ls-2019,LS,India,2019,2019,official,52,Kishanganj,GEN,Bihar,1081881,INC,Dr. Mohammad Jawed,367017,JDU,Syed Mahmood Ashraf,332551,34466,3.19
+ls-2019,LS,India,2019,2019,official,53,Katihar,GEN,Bihar,1097150,JDU,Dulal Chandra Goswami,559423,INC,Tariq Anwar,502220,57203,5.21
+ls-2019,LS,India,2019,2019,official,54,Purnia,GEN,Bihar,1135371,JDU,Santosh Kumar,632924,INC,Uday Singh Alias Pappu Singh,369463,263461,23.2
+ls-2019,LS,India,2019,2019,official,55,Madhepura,GEN,Bihar,1108824,JDU,Dinesh Chandra Yadav,624334,RJD,Sharad Yadav,322807,301527,27.19
+ls-2019,LS,India,2019,2019,official,56,Darbhanga,GEN,Bihar,944528,BJP,Gopal Jee Thakur,586668,RJD,Abdul Bari Siddiqui,318689,267979,28.37
+ls-2019,LS,India,2019,2019,official,57,Muzaffarpur,GEN,Bihar,1042158,BJP,Ajay Nishad,666878,VIP,Raj Bhushan Choudhary,256890,409988,39.34
+ls-2019,LS,India,2019,2019,official,58,Vaishali,GEN,Bihar,1060411,LJSP,Veena Devi (W/O Dinesh Prasad Singh),568215,RJD,Raghuvansh Prasad Singh,333631,234584,22.12
+ls-2019,LS,India,2019,2019,official,59,Gopalganj,SC,Bihar,973216,JDU,Dr. Alok Kumar Suman,568150,RJD,Surendra Ram,281716,286434,29.43
+ls-2019,LS,India,2019,2019,official,60,Siwan,GEN,Bihar,971891,JDU,Kavita Singh,448473,RJD,Hena Shahab,331515,116958,12.03
+ls-2019,LS,India,2019,2019,official,61,Maharajganj,GEN,Bihar,944995,BJP,Janardan Singh Sigriwal,546352,RJD,Randhir Kumar Singh,315580,230772,24.42
+ls-2019,LS,India,2019,2019,official,62,Saran,GEN,Bihar,913389,BJP,Rajiv Pratap Rudy,499342,RJD,Chandrika Roy,360913,138429,15.16
+ls-2019,LS,India,2019,2019,official,63,Hajipur,SC,Bihar,981561,LJSP,Pashu Pati Kumar Paras,541310,RJD,Shiv Chandra Ram,335861,205449,20.93
+ls-2019,LS,India,2019,2019,official,64,Ujiarpur,GEN,Bihar,950644,BJP,Nityanand Rai,543906,RLM,Upendra Kushwaha,266628,277278,29.17
+ls-2019,LS,India,2019,2019,official,65,Samastipur,SC,Bihar,983608,LJSP,Ramchandra Paswan,562443,INC,Dr. Ashok Kumar,310800,251643,25.58
+ls-2019,LS,India,2019,2019,official,66,Begusarai,GEN,Bihar,1205149,BJP,Giriraj Singh,692193,CPI,Kanhaiya Kumar,269976,422217,35.03
+ls-2019,LS,India,2019,2019,official,67,Khagaria,GEN,Bihar,950460,LJSP,Choudhary Mehboob Ali Kaiser,510193,VIP,Mukesh Sahani,261623,248570,26.15
+ls-2019,LS,India,2019,2019,official,68,Bhagalpur,GEN,Bihar,1010951,JDU,Ajay Kumar Mandal,618254,RJD,Shailesh Kumar Alias Vulo Mandal,340624,277630,27.46
+ls-2019,LS,India,2019,2019,official,69,Banka,GEN,Bihar,989181,JDU,Giridhari Yadav,477788,RJD,Jai Prakash Narayan Yadav,277256,200532,20.27
+ls-2019,LS,India,2019,2019,official,70,Munger,GEN,Bihar,1018805,JDU,Rajiv Ranjan Singh Alias Lalan Singh,528762,INC,Nilam Devi,360825,167937,16.48
+ls-2019,LS,India,2019,2019,official,71,Nalanda,GEN,Bihar,1013377,JDU,Kaushlendra Kumar,540888,HAMS,Ashok Kumar Azad,284751,256137,25.28
+ls-2019,LS,India,2019,2019,official,72,Patna Sahib,GEN,Bihar,977209,BJP,Ravi Shankar Prasad,607506,INC,Shatrughan Sinha,322849,284657,29.13
+ls-2019,LS,India,2019,2019,official,73,Pataliputra,GEN,Bihar,1064054,BJP,Ram Kripal Yadav,509557,RJD,Misha Bharti,470236,39321,3.7
+ls-2019,LS,India,2019,2019,official,74,Arrah,GEN,Bihar,1058859,BJP,R. K. Singh,566480,CPIML,Raju Yadav,419195,147285,13.91
+ls-2019,LS,India,2019,2019,official,75,Buxar,GEN,Bihar,970414,BJP,Ashwini Kumar Choubey,473053,RJD,Jagadanand Singh,355444,117609,12.12
+ls-2019,LS,India,2019,2019,official,76,Sasaram,SC,Bihar,955761,BJP,Chhedi Paswan,494800,INC,Meira Kumar,329055,165745,17.34
+ls-2019,LS,India,2019,2019,official,77,Karakat,GEN,Bihar,844722,JDU,Mahabali Singh,398408,RLM,Upendra Kushwaha,313866,84542,10.01
+ls-2019,LS,India,2019,2019,official,78,Jahanabad,GEN,Bihar,794382,JDU,Chandeshwar Prasad,335584,RJD,Surendra Prasad Yadav,333833,1751,0.22
+ls-2019,LS,India,2019,2019,official,79,Aurangabad,GEN,Bihar,918963,BJP,Sushil Kumar Singh,431541,HAMS,Upendra Prasad,358934,72607,7.9
+ls-2019,LS,India,2019,2019,official,80,Gaya,SC,Bihar,909380,JDU,Vijay Kumar,467007,HAMS,Jitan Ram Manjhi,314581,152426,16.76
+ls-2019,LS,India,2019,2019,official,81,Nawada,GEN,Bihar,907315,LJSP,Chandan Singh,495684,RJD,Vibha Devi,347612,148072,16.32
+ls-2019,LS,India,2019,2019,official,82,Jamui,SC,Bihar,909641,LJSP,Chirag Kumar Paswan,529134,RLM,Bhudeo Choudhary,288085,241049,26.5
+ls-2019,LS,India,2019,2019,official,83,Chandigarh,GEN,Chandigarh,450462,BJP,Kirron Kher,231188,INC,Pawan Kumar Bansal,184218,46970,10.43
+ls-2019,LS,India,2019,2019,official,84,Surguja,ST,Chhattisgarh,1251424,BJP,Renuka Singh Saruta,663711,INC,Khel Sai Singh,505838,157873,12.62
+ls-2019,LS,India,2019,2019,official,85,Raigarh,ST,Chhattisgarh,1334395,BJP,Gomati Sai,658335,INC,Laljeet Singh Rathia,592308,66027,4.95
+ls-2019,LS,India,2019,2019,official,86,Janjgir-Champa,SC,Chhattisgarh,1231873,BJP,Guharam Ajgalley,572790,INC,Ravi Parasram Bhardwaj,489535,83255,6.76
+ls-2019,LS,India,2019,2019,official,87,Korba,GEN,Chhattisgarh,1112725,INC,Jyotsna Charandas Mahant,523410,BJP,Jyoti Nand Dubey,497061,26349,2.37
+ls-2019,LS,India,2019,2019,official,88,Bilaspur,GEN,Chhattisgarh,1198980,BJP,Arun Sao,634559,INC,Atal Shrivastav,492796,141763,11.82
+ls-2019,LS,India,2019,2019,official,89,Rajnandgaon,GEN,Chhattisgarh,1287597,BJP,Santosh Pandey,662387,INC,Bhola Ram Sahu,550421,111966,8.7
+ls-2019,LS,India,2019,2019,official,90,Durg,GEN,Chhattisgarh,1386203,BJP,Vijay Baghel,849374,INC,Pratima Chandrakar,457396,391978,28.28
+ls-2019,LS,India,2019,2019,official,91,Raipur,GEN,Chhattisgarh,1389145,BJP,Sunil Kumar Soni,837902,INC,Pramod Dubey,489664,348238,25.07
+ls-2019,LS,India,2019,2019,official,92,Mahasamund,GEN,Chhattisgarh,1201094,BJP,Chunni Lal Sahu,616580,INC,Dhanendra Sahu,526069,90511,7.54
+ls-2019,LS,India,2019,2019,official,93,Bastar,ST,Chhattisgarh,871179,INC,Deepak Baij,402527,BJP,Baidu Ram Kashyap,363545,38982,4.47
+ls-2019,LS,India,2019,2019,official,94,Kanker,ST,Chhattisgarh,1132480,BJP,Mohan Mandavi,546233,INC,Biresh Thakur,539319,6914,0.61
+ls-2019,LS,India,2019,2019,official,95,Daman & Diu,GEN,Dadra & Nagar Haveli and Daman & Diu,85982,BJP,Lalubhai Babubhai Patel,37597,INC,Ketan Dahyabhai Patel,27655,9942,11.56
+ls-2019,LS,India,2019,2019,official,96,Dadar & Nagar Haveli,ST,Dadra & Nagar Haveli and Daman & Diu,196033,IND,Delkar Mohanbhai Sanjibhai,90421,BJP,Patel Natubhai Gomanbhai,81420,9001,4.59
+ls-2019,LS,India,2019,2019,official,97,Chandni Chowk,GEN,Delhi,974196,BJP,Harsh Vardhan,519055,INC,Jai Prakash Agarwal,290910,228145,23.42
+ls-2019,LS,India,2019,2019,official,98,North East Delhi,GEN,Delhi,1455039,BJP,Manoj Tiwari,787799,INC,Sheila Dikshit,421697,366102,25.16
+ls-2019,LS,India,2019,2019,official,99,East Delhi,GEN,Delhi,1250903,BJP,Gautam Gambhir,696156,INC,Arvinder Singh Lovely,304934,391222,31.28
+ls-2019,LS,India,2019,2019,official,100,New Delhi,GEN,Delhi,912604,BJP,Meenakashi Lekhi,504206,INC,Ajay Makan,247702,256504,28.11
+ls-2019,LS,India,2019,2019,official,101,North West Delhi,SC,Delhi,1391223,BJP,Hans Raj Hans,848663,AAP,Gugan Singh,294766,553897,39.81
+ls-2019,LS,India,2019,2019,official,102,West Delhi,GEN,Delhi,1430811,BJP,Parvesh Sahib Singh Verma,865648,INC,Mahabal Mishra,287162,578486,40.43
+ls-2019,LS,India,2019,2019,official,103,South Delhi,GEN,Delhi,1205896,BJP,Ramesh Bidhuri,687014,AAP,Raghav Chadha,319971,367043,30.44
+ls-2019,LS,India,2019,2019,official,104,North Goa,GEN,Goa,421565,BJP,Shripad Yesso Naik,244844,INC,Girish Raya Chodankar,164597,80247,19.04
+ls-2019,LS,India,2019,2019,official,105,South Goa,GEN,Goa,419139,INC,Cosme Francisco Caitano Sardinha,201561,BJP,Adv. Narendra Sawaikar,191806,9755,2.33
+ls-2019,LS,India,2019,2019,official,106,Kachchh,SC,Gujarat,1004437,BJP,Chavda Vinod Lakhamshi,637034,INC,Naresh Naranbhai Maheshwari,331521,305513,30.42
+ls-2019,LS,India,2019,2019,official,107,Banaskantha,GEN,Gujarat,1089353,BJP,Parbatbhai Savabhai Patel,679108,INC,Parthibhai Galbabhai Bhatol,310812,368296,33.81
+ls-2019,LS,India,2019,2019,official,108,Patan,GEN,Gujarat,1111929,BJP,Dabhi Bharatsinhji Shankarji,633368,INC,Jagdish Thakor,439489,193879,17.44
+ls-2019,LS,India,2019,2019,official,109,Mahesana,GEN,Gujarat,1069871,BJP,Shardaben Anilbhai Patel,659525,INC,A. J. Patel,378006,281519,26.31
+ls-2019,LS,India,2019,2019,official,110,Sabarkantha,GEN,Gujarat,1210961,BJP,Rathod Dipsinh Shankarsinh,701984,INC,Thakor Rajendrasinh Shivsinh,432997,268987,22.21
+ls-2019,LS,India,2019,2019,official,111,Gandhinagar,GEN,Gujarat,1269133,BJP,Amit Shah,894624,INC,Dr. C. J. Chavda,337610,557014,43.89
+ls-2019,LS,India,2019,2019,official,112,Ahmedabad East,GEN,Gujarat,1105755,BJP,Patel Hasmukhbhai Somabhai,749834,INC,Gitaben Patel,315504,434330,39.28
+ls-2019,LS,India,2019,2019,official,113,Ahmedabad West,GEN,Gujarat,982305,BJP,Dr. Kirit P. Solanki,641622,INC,Raju Parmar,320076,321546,32.73
+ls-2019,LS,India,2019,2019,official,114,Surendranagar,SC,Gujarat,1068939,BJP,Dr. Munjapara Mahendrabhai,631844,INC,Koli Patel Somabhai Gandalal,354407,277437,25.95
+ls-2019,LS,India,2019,2019,official,115,Rajkot,GEN,Gujarat,1176953,BJP,Kundaria Mohanbhai Kalyanjibhai,758645,INC,Kagathara Lalitbhai,390238,368407,31.3
+ls-2019,LS,India,2019,2019,official,116,Porbandar,GEN,Gujarat,942107,BJP,Rameshbhai Lavjibhai Dhaduk,563881,INC,Lalit Vasoya,334058,229823,24.39
+ls-2019,LS,India,2019,2019,official,117,Jamnagar,GEN,Gujarat,1003166,BJP,Poonamben Hematbhai Maadam,591588,INC,Kandoriya Mulubhai Ranmalbhai,354784,236804,23.61
+ls-2019,LS,India,2019,2019,official,118,Junagadh,GEN,Gujarat,989616,BJP,Chudasama Rajeshbhai Naranbhai,547952,INC,Vansh Punjabhai Bhimabhai,397767,150185,15.18
+ls-2019,LS,India,2019,2019,official,119,Amreli,GEN,Gujarat,891600,BJP,Kachhadiya Naranbhai Bhikhabhai,529035,INC,Paresh Dhanani,327604,201431,22.59
+ls-2019,LS,India,2019,2019,official,120,Bhavnagar,GEN,Gujarat,1024896,BJP,Dr.Bharatiben Dhirubhai Shiyal,661273,INC,Patel Manharbhai Nagjibhai (Vasani),331754,329519,32.15
+ls-2019,LS,India,2019,2019,official,121,Anand,GEN,Gujarat,1090269,BJP,Patel Mitesh Rameshbhai (Bakabhai),633097,INC,Bharatbhai Madhavsinh Solanki,435379,197718,18.13
+ls-2019,LS,India,2019,2019,official,122,Kheda,GEN,Gujarat,1080356,BJP,Chauhan Devusinh,714572,INC,Bimal Shah,347427,367145,33.98
+ls-2019,LS,India,2019,2019,official,123,Panchmahal,GEN,Gujarat,1063543,BJP,Ratansinh Magansinh Rathod,732136,INC,Khant Vechatbhai Kuberbhai,303595,428541,40.29
+ls-2019,LS,India,2019,2019,official,124,Dahod,ST,Gujarat,1031276,BJP,Jaswantsinh Sumanbhai Bhabhor,561760,INC,Katara Babubhai Khimabhai,434164,127596,12.37
+ls-2019,LS,India,2019,2019,official,125,Vadodara,GEN,Gujarat,1205349,BJP,Ranjanben Bhatt,883719,INC,Prashant Patel (Tiko),294542,589177,48.88
+ls-2019,LS,India,2019,2019,official,126,Chhota Udaipur,ST,Gujarat,1199591,BJP,Rathva Gitaben Vajesingbhai,764445,INC,Rathava Ranjitsinh Mohansinh,386502,377943,31.51
+ls-2019,LS,India,2019,2019,official,127,Bharuch,GEN,Gujarat,1143404,BJP,Mansukhbhai Dhanjibhai Vasava,637795,INC,Sherkhan Abdulsakur Pathan,303581,334214,29.23
+ls-2019,LS,India,2019,2019,official,128,Bardoli,ST,Gujarat,1325124,BJP,Parbhubhai Nagarbhai Vasava,742273,INC,Chaudhari Dr. Tusharbhai Amarsinhbhai,526826,215447,16.26
+ls-2019,LS,India,2019,2019,official,129,Surat,GEN,Gujarat,1056741,BJP,Darshana Vikram Jardosh,795651,INC,Ashok Patel (Adhevada),247421,548230,51.88
+ls-2019,LS,India,2019,2019,official,130,Navsari,GEN,Gujarat,1296804,BJP,C R Patil,972739,INC,Patel Dharmeshbhai Bhimbhai,283071,689668,53.18
+ls-2019,LS,India,2019,2019,official,131,Valsad,ST,Gujarat,1241070,BJP,Dr.K.C.Patel,771980,INC,Chaudhari Jitubhai Harjibhai,418183,353797,28.51
+ls-2019,LS,India,2019,2019,official,132,Ambala,SC,Haryana,1308292,BJP,Rattan Lal Kataria,746508,INC,Selja,404163,342345,26.17
+ls-2019,LS,India,2019,2019,official,133,Kurukshetra,GEN,Haryana,1226238,BJP,Nayab Singh,688629,INC,Nirmal Singh,304038,384591,31.36
+ls-2019,LS,India,2019,2019,official,134,Sirsa,SC,Haryana,1365147,BJP,Sunita Duggal,714351,INC,Ashok Tanwar,404433,309918,22.7
+ls-2019,LS,India,2019,2019,official,135,Hisar,GEN,Haryana,1173866,BJP,Brijendra Singh,603289,JJP,Dushyant Chautala,289221,314068,26.76
+ls-2019,LS,India,2019,2019,official,136,Karnal,GEN,Haryana,1293934,BJP,Sanjay Bhatia,911594,INC,Kuldip Sharma,255452,656142,50.71
+ls-2019,LS,India,2019,2019,official,137,Sonipat,GEN,Haryana,1126533,BJP,Ramesh Chander Kaushik,587664,INC,Bhupinder Singh Hooda,422800,164864,14.63
+ls-2019,LS,India,2019,2019,official,138,Rohtak,GEN,Haryana,1217570,BJP,Arvind Kumar Sharma,573845,INC,Deepender Singh Hooda,566342,7503,0.62
+ls-2019,LS,India,2019,2019,official,139,Bhiwani-Mahendragarh,GEN,Haryana,1159074,BJP,Dharambir Singh S/O Bhale Ram,736699,INC,Shruti Choudhry,292236,444463,38.35
+ls-2019,LS,India,2019,2019,official,140,Gurgaon,GEN,Haryana,1439793,BJP,Rao Inderjit Singh,881546,INC,Capt. Ajay Singh,495290,386256,26.83
+ls-2019,LS,India,2019,2019,official,141,Faridabad,GEN,Haryana,1319116,BJP,Krishan Pal,913222,INC,Avtar Singh Bhadana,274983,638239,48.38
+ls-2019,LS,India,2019,2019,official,142,Kangra,GEN,Himachal Pradesh,994703,BJP,Kishan Kapoor,725218,INC,Pawan Kajal,247595,477623,48.02
+ls-2019,LS,India,2019,2019,official,143,Mandi,GEN,Himachal Pradesh,935193,BJP,Ram Swaroop Sharma,647189,INC,Aashray Sharma,241730,405459,43.36
+ls-2019,LS,India,2019,2019,official,144,Hamirpur,GEN,Himachal Pradesh,980739,BJP,Anurag Singh Thakur,682692,INC,Ram Lal Thakur,283120,399572,40.74
+ls-2019,LS,India,2019,2019,official,145,Shimla,SC,Himachal Pradesh,905251,BJP,Suresh Kumar Kashyap,606183,INC,Dhani Ram Shandil,278668,327515,36.18
+ls-2019,LS,India,2019,2019,official,146,Baramulla,GEN,Jammu & Kashmir,447422,JKNC,Mohammad Akbar Lone,133426,JKPC,Raja Aijaz Ali,103193,30233,6.76
+ls-2019,LS,India,2019,2019,official,147,Srinagar,GEN,Jammu & Kashmir,185266,JKNC,Farooq Abdullah,106750,JKPDP,Aga Syed Mohsin,36700,70050,37.81
+ls-2019,LS,India,2019,2019,official,148,Anantnag-Rajouri,GEN,Jammu & Kashmir,123959,JKNC,Hasnain Masoodi,40180,INC,Ghulam Ahmad Mir,33504,6676,5.39
+ls-2019,LS,India,2019,2019,official,149,Udhampur,GEN,Jammu & Kashmir,1172555,BJP,Dr. Jitendra Singh,724311,INC,Vikramaditya Singh,367059,357252,30.47
+ls-2019,LS,India,2019,2019,official,150,Jammu,GEN,Jammu & Kashmir,1473462,BJP,Jugal Kishore,858066,INC,Raman Bhalla,555191,302875,20.56
+ls-2019,LS,India,2019,2019,official,151,Rajmahal,ST,Jharkhand,1034738,JMM,Vijay Kumar Hansdak,507830,BJP,Hemlal Murmu,408635,99195,9.59
+ls-2019,LS,India,2019,2019,official,152,Dumka,ST,Jharkhand,1011572,BJP,Sunil Soren,484923,JMM,Shibu Soren,437333,47590,4.7
+ls-2019,LS,India,2019,2019,official,153,Godda,GEN,Jharkhand,1175353,BJP,Nishikant Dubey,637610,JVM(P),Pradeep Yadav,453383,184227,15.67
+ls-2019,LS,India,2019,2019,official,154,Chatra,GEN,Jharkhand,917625,BJP,Sunil Kumar Singh,528077,INC,Manoj Kumar Yadav,150206,377871,41.18
+ls-2019,LS,India,2019,2019,official,155,Kodarma,GEN,Jharkhand,1178377,BJP,Annpurna Devi,753016,JVM(P),Babu Lal Marandi,297416,455600,38.66
+ls-2019,LS,India,2019,2019,official,156,Giridih,GEN,Jharkhand,1087210,AP,Chandra Prakash Choudhary,648277,JMM,Jagarnath Mahto,399930,248347,22.84
+ls-2019,LS,India,2019,2019,official,157,Dhanbad,GEN,Jharkhand,1248471,BJP,Pashupati Nath Singh,827234,INC,Kirti Azad,341040,486194,38.94
+ls-2019,LS,India,2019,2019,official,158,Ranchi,GEN,Jharkhand,1229555,BJP,Sanjay Seth,706828,INC,Subodh Kant Sahay,423802,283026,23.02
+ls-2019,LS,India,2019,2019,official,159,Jamshedpur,GEN,Jharkhand,1138413,BJP,Bidyut Baran Mahato,679632,JMM,Champai Soren,377542,302090,26.54
+ls-2019,LS,India,2019,2019,official,160,Singhbhum,ST,Jharkhand,855059,INC,Geeta Kora,431815,BJP,Laxman Giluwa,359660,72155,8.44
+ls-2019,LS,India,2019,2019,official,161,Khunti,ST,Jharkhand,809268,BJP,Arjun Munda,382638,INC,Kali Charan Munda,381193,1445,0.18
+ls-2019,LS,India,2019,2019,official,162,Lohardaga,ST,Jharkhand,806767,BJP,Sudarshan Bhagat,371595,INC,Sukhdeo Bhagat,361232,10363,1.28
+ls-2019,LS,India,2019,2019,official,163,Palamau,SC,Jharkhand,1203939,BJP,Vishnu Dayal Ram,755659,RJD,Ghuran Ram,278053,477606,39.67
+ls-2019,LS,India,2019,2019,official,164,Hazaribagh,GEN,Jharkhand,1073390,BJP,Jayant Sinha,728798,INC,Gopal Prasad Sahu,249250,479548,44.68
+ls-2019,LS,India,2019,2019,official,165,Chikkodi,GEN,Karnataka,1207187,BJP,Annasaheb Shankar Jolle,645017,INC,Prakash Babanna Hukkeri,526140,118877,9.85
+ls-2019,LS,India,2019,2019,official,166,Belgaum,GEN,Karnataka,1201996,BJP,Angadi Suresh Channabasappa,761991,INC,Dr.Sadhunavar,370687,391304,32.55
+ls-2019,LS,India,2019,2019,official,167,Bagalkot,GEN,Karnataka,1191749,BJP,Gaddigoudar. Parvatagouda. Chandanagouda,664638,INC,Veena Kashappanavar,496451,168187,14.11
+ls-2019,LS,India,2019,2019,official,168,Bijapur,SC,Karnataka,1099068,BJP,Jigajinagi Ramesh Chandappa,635867,JDS,Dr. Sunita Devanand Chavan,377829,258038,23.48
+ls-2019,LS,India,2019,2019,official,169,Gulbarga,SC,Karnataka,1177923,BJP,Dr. Umesh G Jadhav,620192,INC,Mallikarjun Kharge,524740,95452,8.1
+ls-2019,LS,India,2019,2019,official,170,Raichur,ST,Karnataka,1109464,BJP,Raja Amareshwara Naik,598337,INC,B. V Naik,480621,117716,10.61
+ls-2019,LS,India,2019,2019,official,171,Bidar,GEN,Karnataka,1113339,BJP,Bhagwanth Khuba,585471,INC,Eshwar B. Khandre,468637,116834,10.49
+ls-2019,LS,India,2019,2019,official,172,Koppal,GEN,Karnataka,1179534,BJP,Karadi Sanganna Amarappa,586783,INC,K.Rajashekar Basavaraj Hitnal,548386,38397,3.26
+ls-2019,LS,India,2019,2019,official,173,Bellary,ST,Karnataka,1212902,BJP,Y. Devendrappa,616388,INC,V. S. Ugrappa,560681,55707,4.59
+ls-2019,LS,India,2019,2019,official,174,Haveri,GEN,Karnataka,1259267,BJP,Udasi. S.C,683660,INC,D.R. Patil,542778,140882,11.19
+ls-2019,LS,India,2019,2019,official,175,Dharwad,GEN,Karnataka,1208453,BJP,Pralhad Joshi,684837,INC,Vinay Kulkarni,479765,205072,16.97
+ls-2019,LS,India,2019,2019,official,176,Uttara Kannada,GEN,Karnataka,1137463,BJP,Anantkumar Hegde,786042,JDS,Anand Asnotikar,306393,479649,42.17
+ls-2019,LS,India,2019,2019,official,177,Davanagere,GEN,Karnataka,1191488,BJP,G M Siddeshwar,652996,INC,H B Manjappa,483294,169702,14.24
+ls-2019,LS,India,2019,2019,official,178,Shimoga,GEN,Karnataka,1276709,BJP,B.Y.Raghavendra,729872,JDS,S.Madhubangarappa,506512,223360,17.49
+ls-2019,LS,India,2019,2019,official,179,Udupi Chikmagalur,GEN,Karnataka,1143502,BJP,Shobha Karandlaje,718916,JDS,Pramod Madhwaraj,369317,349599,30.57
+ls-2019,LS,India,2019,2019,official,180,Hassan,GEN,Karnataka,1265890,JDS,Prajwal Revanna,676606,BJP,Manju A,535282,141324,11.16
+ls-2019,LS,India,2019,2019,official,181,Dakshina Kannada,GEN,Karnataka,1337659,BJP,Nalin Kumar Kateel,774285,INC,Mithun M Rai,499664,274621,20.53
+ls-2019,LS,India,2019,2019,official,182,Chitradurga,SC,Karnataka,1241582,BJP,A Narayanaswamy,626195,INC,B N Chandrappa,546017,80178,6.46
+ls-2019,LS,India,2019,2019,official,183,Tumkur,GEN,Karnataka,1234563,BJP,G. S. Basavaraj,596127,JDS,H. D. Devegowda,582788,13339,1.08
+ls-2019,LS,India,2019,2019,official,184,Mandya,GEN,Karnataka,1375684,IND,Sumalatha Ambareesh,703660,JDS,Nikhil Kumaraswamy,577784,125876,9.15
+ls-2019,LS,India,2019,2019,official,185,Mysore,GEN,Karnataka,1312695,BJP,Prathap Simha,688974,INC,C.H.Vijayashankar,550327,138647,10.56
+ls-2019,LS,India,2019,2019,official,186,Chamarajanagar,SC,Karnataka,1257942,BJP,V. Srinivas Prasad,568537,INC,R. Dhruvanarayana,566720,1817,0.14
+ls-2019,LS,India,2019,2019,official,187,Bangalore Rural,GEN,Karnataka,1609452,INC,D.K. Suresh,878258,BJP,Ashwathnarayangowda,671388,206870,12.85
+ls-2019,LS,India,2019,2019,official,188,Bangalore North,GEN,Karnataka,1545699,BJP,D.V. Sadananda Gowda,824500,INC,Krishna Byregowda,676982,147518,9.54
+ls-2019,LS,India,2019,2019,official,189,Bangalore Central,GEN,Karnataka,1186110,BJP,P C Mohan,602853,INC,Rizwan Arshad,531885,70968,5.98
+ls-2019,LS,India,2019,2019,official,190,Bangalore South,GEN,Karnataka,1178553,BJP,Tejasvi Surya,739229,INC,B.K.Hariprasad,408037,331192,28.1
+ls-2019,LS,India,2019,2019,official,191,Chikkballapur,GEN,Karnataka,1375907,BJP,B.N.Bache Gowda,745912,INC,M.Veerappa Moily,563802,182110,13.24
+ls-2019,LS,India,2019,2019,official,192,Kolar,SC,Karnataka,1244662,BJP,S. Muniswamy,709165,INC,K.H. Muniyappa,499144,210021,16.87
+ls-2019,LS,India,2019,2019,official,193,Kasaragod,GEN,Kerala,1095634,INC,Rajmohan Unnithan,474961,CPI(M),K. P. Sathishchandran,434523,40438,3.69
+ls-2019,LS,India,2019,2019,official,194,Kannur,GEN,Kerala,1049754,INC,K. Sudhakaran,529741,CPI(M),P. K. Sreemathi Teacher,435182,94559,9.01
+ls-2019,LS,India,2019,2019,official,195,Vadakara,GEN,Kerala,1062204,INC,K. Muraleedharan,526755,CPI(M),P.Jayarajan,442092,84663,7.97
+ls-2019,LS,India,2019,2019,official,196,Wayanad,GEN,Kerala,1089178,INC,Rahul Gandhi,706367,CPI,P.P. Suneer,274597,431770,39.64
+ls-2019,LS,India,2019,2019,official,197,Kozhikode,GEN,Kerala,1072720,INC,M. K. Raghavan,493444,CPI(M),A.Pradeep Kumar,408219,85225,7.94
+ls-2019,LS,India,2019,2019,official,198,Malappuram,GEN,Kerala,1030138,IUML,P.K. Kunhalikutty,589873,CPI(M),V.P. Sanu,329720,260153,25.25
+ls-2019,LS,India,2019,2019,official,199,Ponnani,GEN,Kerala,1011034,IUML,E.T. Mohammed Basheer,521824,IND,P.V. Anvar Puthan Veetil,328551,193273,19.12
+ls-2019,LS,India,2019,2019,official,200,Palakkad,GEN,Kerala,1021584,INC,V K Sreekandan,399274,CPI(M),M B Rajesh,387637,11637,1.14
+ls-2019,LS,India,2019,2019,official,201,Alathur,SC,Kerala,1011021,INC,Ramya Haridas,533815,CPI(M),Dr. P.K.Biju,374847,158968,15.72
+ls-2019,LS,India,2019,2019,official,202,Thrissur,GEN,Kerala,1037616,INC,T. N. Prathapan,415089,CPI,Rajaji Mathew Thomas,321456,93633,9.02
+ls-2019,LS,India,2019,2019,official,203,Chalakudy,GEN,Kerala,982646,INC,Benny Behanan,473444,CPI(M),Innocent,341170,132274,13.46
+ls-2019,LS,India,2019,2019,official,204,Ernakulam,GEN,Kerala,961825,INC,Hibi Eden,491263,CPI(M),P Rajeev,322110,169153,17.59
+ls-2019,LS,India,2019,2019,official,205,Idukki,GEN,Kerala,913980,INC,Adv. Dean Kuriakose,498493,IND,Adv Joice George,327440,171053,18.72
+ls-2019,LS,India,2019,2019,official,206,Kottayam,GEN,Kerala,903148,KCM,Thomas Chazhikadan,421046,CPI(M),V.N. Vasavan,314787,106259,11.77
+ls-2019,LS,India,2019,2019,official,207,Alappuzha,GEN,Kerala,1082624,CPI(M),Adv. A M Ariff,445970,INC,Adv. Shanimol Osman,435496,10474,0.97
+ls-2019,LS,India,2019,2019,official,208,Mavelikkara,SC,Kerala,965281,INC,Kodikunnil Suresh,440415,CPI,Chittayam Gopakumar,379277,61138,6.33
+ls-2019,LS,India,2019,2019,official,209,Pathanamthitta,GEN,Kerala,1023201,INC,Anto Antony,380927,CPI(M),Veena George,336684,44243,4.32
+ls-2019,LS,India,2019,2019,official,210,Kollam,GEN,Kerala,962105,RSP,N.K.Premachandran,499677,CPI(M),K.N.Balagopal,350821,148856,15.47
+ls-2019,LS,India,2019,2019,official,211,Attingal,GEN,Kerala,999203,INC,Adv. Adoor Prakash,380995,CPI(M),Dr. A. Sampath,342748,38247,3.83
+ls-2019,LS,India,2019,2019,official,212,Thiruvananthapuram,GEN,Kerala,1005600,INC,Dr. Shashi Tharoor,416131,BJP,Kummanam Rajasekharan,316142,99989,9.94
+ls-2019,LS,India,2019,2019,official,213,Ladakh,GEN,Ladakh,125504,BJP,Jamyang Tsering Namgyal,42914,IND,Sajjad Hussain,31984,10930,8.71
+ls-2019,LS,India,2019,2019,official,214,Lakshadweep,ST,Lakshadweep,46909,NCP,Mohammed Faizal Pp,22851,INC,Hamdullah Sayeed,22028,823,1.75
+ls-2019,LS,India,2019,2019,official,215,Morena,GEN,Madhya Pradesh,1133437,BJP,Narendra Singh Tomar,541689,INC,Ramniwas Rawat,428348,113341,10.0
+ls-2019,LS,India,2019,2019,official,216,Bhind,SC,Madhya Pradesh,956057,BJP,Sandhya Ray,527694,INC,Devashish,327809,199885,20.91
+ls-2019,LS,India,2019,2019,official,217,Gwalior,GEN,Madhya Pradesh,1190753,BJP,Vivek Narayan Shejwalkar,627250,INC,Ashok Singh,480408,146842,12.33
+ls-2019,LS,India,2019,2019,official,218,Guna,GEN,Madhya Pradesh,1166020,BJP,Dr.Krishna Pal Singh K. P. Yadav,614049,INC,Jyotiraditya M. Scindia,488500,125549,10.77
+ls-2019,LS,India,2019,2019,official,219,Sagar,GEN,Madhya Pradesh,1028442,BJP,Rajbahadur Singh,646231,INC,Prabhu Singh Thakur,340689,305542,29.71
+ls-2019,LS,India,2019,2019,official,220,Tikamgarh,SC,Madhya Pradesh,1086113,BJP,Dr. Virendra Kumar,672248,INC,Ahirwar Kiran,324189,348059,32.05
+ls-2019,LS,India,2019,2019,official,221,Damoh,GEN,Madhya Pradesh,1156570,BJP,Prahalad Singh Patel,704524,INC,Pratap Singh,351113,353411,30.56
+ls-2019,LS,India,2019,2019,official,222,Khajuraho,GEN,Madhya Pradesh,1245512,BJP,V.D. Sharma (Vishnu Datt Sharma),811135,INC,Maharani Kavita Singh Natiraja,318753,492382,39.53
+ls-2019,LS,India,2019,2019,official,223,Satna,GEN,Madhya Pradesh,1109957,BJP,Ganesh Singh,588753,INC,Rajaram Tripathi,357280,231473,20.85
+ls-2019,LS,India,2019,2019,official,224,Rewa,GEN,Madhya Pradesh,998540,BJP,Janardan Mishra,583745,INC,Siddharth Tiwari Raj,270938,312807,31.33
+ls-2019,LS,India,2019,2019,official,225,Sidhi,GEN,Madhya Pradesh,1277078,BJP,Riti Pathak,698342,INC,Ajay Arjun Singh,411818,286524,22.44
+ls-2019,LS,India,2019,2019,official,226,Shahdol,ST,Madhya Pradesh,1217831,BJP,Himadri Singh,747977,INC,Pramila Singh,344644,403333,33.12
+ls-2019,LS,India,2019,2019,official,227,Jabalpur,GEN,Madhya Pradesh,1259471,BJP,Rakesh Singh,826454,INC,Pt. Vivek Krishna Tankha,371710,454744,36.11
+ls-2019,LS,India,2019,2019,official,228,Mandla,ST,Madhya Pradesh,1485015,BJP,Faggan Singh Kulaste,737266,INC,Kamal Singh Maravi,639592,97674,6.58
+ls-2019,LS,India,2019,2019,official,229,Balaghat,GEN,Madhya Pradesh,1367776,BJP,Dr. Dhal Singh Bisen,696102,INC,Madhu Bhagat,454036,242066,17.7
+ls-2019,LS,India,2019,2019,official,230,Chhindwara,GEN,Madhya Pradesh,1226283,INC,Nakul Kamal Nath,587305,BJP,Nathansaha Kawreti,549769,37536,3.06
+ls-2019,LS,India,2019,2019,official,231,Hoshangabad,GEN,Madhya Pradesh,1247456,BJP,Uday Pratap Singh,877927,INC,Shailendra Diwan Chandarbhan Singh,324245,553682,44.38
+ls-2019,LS,India,2019,2019,official,232,Vidisha,GEN,Madhya Pradesh,1241625,BJP,Ramakant Bhargava,853022,INC,Shailendra Rameshchandra Patel,349938,503084,40.52
+ls-2019,LS,India,2019,2019,official,233,Bhopal,GEN,Madhya Pradesh,1402051,BJP,Sadhvi Pragya Singh Thakur,866482,INC,Digvijaya Singh,501660,364822,26.02
+ls-2019,LS,India,2019,2019,official,234,Rajgarh,GEN,Madhya Pradesh,1248546,BJP,Rodmal Nagar,823824,INC,Mona Sustani,392805,431019,34.52
+ls-2019,LS,India,2019,2019,official,235,Dewas,SC,Madhya Pradesh,1389912,BJP,Mahendra Singh Solanky,862429,INC,Prahlad Singh Tipanya,490180,372249,26.78
+ls-2019,LS,India,2019,2019,official,236,Ujjain,SC,Madhya Pradesh,1242314,BJP,Anil Firojiya,791663,INC,Babulal Malviya,426026,365637,29.43
+ls-2019,LS,India,2019,2019,official,237,Mandsour,GEN,Madhya Pradesh,1361236,BJP,Sudheer Gupta,847786,INC,Meenakshi Natarajan,471052,376734,27.68
+ls-2019,LS,India,2019,2019,official,238,Ratlam,ST,Madhya Pradesh,1365078,BJP,Guman Singh Damor,696103,INC,Kantilal Bhuria,605467,90636,6.64
+ls-2019,LS,India,2019,2019,official,239,Dhar,ST,Madhya Pradesh,1326203,BJP,Chattarsingh Darbar,722147,INC,Girwal Dinesh,566118,156029,11.77
+ls-2019,LS,India,2019,2019,official,240,Indore,GEN,Madhya Pradesh,1624063,BJP,Shankar Lalwani,1068569,INC,Pankaj Sanghvi,520815,547754,33.73
+ls-2019,LS,India,2019,2019,official,241,Khargone,ST,Madhya Pradesh,1409184,BJP,Gajendra Umrao Singh Patel,773550,INC,Dr. Govind Subhan Mujalda,571040,202510,14.37
+ls-2019,LS,India,2019,2019,official,242,Khandwa,GEN,Madhya Pradesh,1452133,BJP,Nandkumar Singh Chouhan (Nandu Bhaiya),838909,INC,Arun Subhash Chandra Yadav,565566,273343,18.82
+ls-2019,LS,India,2019,2019,official,243,Betul,ST,Madhya Pradesh,1335070,BJP,Durgadas (D. D.) Uikey,811248,INC,Ramu Tekam (Advocate),451007,360241,26.98
+ls-2019,LS,India,2019,2019,official,244,Nandurbar,ST,Maharashtra,1259813,BJP,Dr. Heena Vijaykumar Gavit,639136,INC,Adv. K. C. Padavi,543507,95629,7.59
+ls-2019,LS,India,2019,2019,official,245,Dhule,GEN,Maharashtra,1081182,BJP,Bhamre Subhash Ramrao,613533,INC,Kunalbaba Rohidas Patil,384290,229243,21.2
+ls-2019,LS,India,2019,2019,official,246,Jalgaon,GEN,Maharashtra,1077945,BJP,Unmesh Bhaiyyasaheb Patil,713874,NCP,Gulabrao Baburao Deokar,302257,411617,38.19
+ls-2019,LS,India,2019,2019,official,247,Raver,GEN,Maharashtra,1083755,BJP,Khadse Raksha Nikhil,655386,INC,Dr.Ulhas Vasudeo Patil,319504,335882,30.99
+ls-2019,LS,India,2019,2019,official,248,Buldhana,GEN,Maharashtra,1112678,SHS_SHINDE,Jadhav Prataprao Ganpatrao,521977,NCP,Dr. Rajendra Bhaskarrav Shingne,388690,133287,11.98
+ls-2019,LS,India,2019,2019,official,249,Akola,GEN,Maharashtra,1110574,BJP,Dhotre Sanjay Shamrao,554444,VBA,Ambedkar (Adv) Prakash Yashwant,278848,275596,24.82
+ls-2019,LS,India,2019,2019,official,250,Amravati,SC,Maharashtra,1105564,IND,Navnit Ravi Rana,510947,SHS_SHINDE,Adsul Anandrao Vithoba,473996,36951,3.34
+ls-2019,LS,India,2019,2019,official,251,Wardha,GEN,Maharashtra,1066060,BJP,Ramdas Chandrabhanji Tadas,578364,INC,Charulata Rao Tokas,391173,187191,17.56
+ls-2019,LS,India,2019,2019,official,252,Ramtek,SC,Maharashtra,1184824,SHS_SHINDE,Krupal Balaji Tumane,597126,INC,Kishore Uttamrao Gajbhiye,470343,126783,10.7
+ls-2019,LS,India,2019,2019,official,253,Nagpur,GEN,Maharashtra,1179985,BJP,Nitin Jairam Gadkari,660221,INC,Nana Patole,444212,216009,18.31
+ls-2019,LS,India,2019,2019,official,254,Bhandara - Gondiya,GEN,Maharashtra,1234407,BJP,Sunil Baburao Mendhe,650243,NCP,Panchabudhe Nana Jairam,452849,197394,15.99
+ls-2019,LS,India,2019,2019,official,255,Gadchiroli-Chimur,ST,Maharashtra,1118099,BJP,Ashok Mahadeorao Nete,519968,INC,Dr. Namdeo Dalluji Usendi,442442,77526,6.93
+ls-2019,LS,India,2019,2019,official,256,Chandrapur,GEN,Maharashtra,1227097,INC,Balubhau Alias Suresh Narayan Dhanorkar,559507,BJP,Ahir Hansraj Gangaram,514744,44763,3.65
+ls-2019,LS,India,2019,2019,official,257,Yavatmal-Washim,GEN,Maharashtra,1168680,SHS_SHINDE,Bhavana Pundlikrao Gawali,542098,INC,Thakre Manikrao Govindrao,424159,117939,10.09
+ls-2019,LS,India,2019,2019,official,258,Hingoli,GEN,Maharashtra,1150899,SHS_SHINDE,Hemant Patil,586312,INC,Wankhede Subhashrao Bapurao,308456,277856,24.14
+ls-2019,LS,India,2019,2019,official,259,Nanded,GEN,Maharashtra,1123236,BJP,Prataprao Patil Chikhalikar,486806,INC,Ashok Shankarrao Chavan,446658,40148,3.57
+ls-2019,LS,India,2019,2019,official,260,Parbhani,GEN,Maharashtra,1243853,SHS_SHINDE,Jadhav Sanjay (Bandu) Haribhau,538941,NCP,Rajesh Uttamrao Vitekar,496742,42199,3.39
+ls-2019,LS,India,2019,2019,official,261,Jalna,GEN,Maharashtra,1190935,BJP,Danve Raosaheb Dadarao,698019,INC,Autade Vilas Keshavrao,365204,332815,27.95
+ls-2019,LS,India,2019,2019,official,262,Aurangabad,GEN,Maharashtra,1192082,AIMEIM,Imtiaz Jaleel Syed,389042,SHS_SHINDE,Chandrakant Khaire,384550,4492,0.38
+ls-2019,LS,India,2019,2019,official,263,Dindori,ST,Maharashtra,1128185,BJP,Dr. Bharati Pravin Pawar,567470,NCP,Dhanraj Haribhau Mahale,368691,198779,17.62
+ls-2019,LS,India,2019,2019,official,264,Nashik,GEN,Maharashtra,1114252,SHS_SHINDE,Godse Hemant Tukaram,563599,NCP,Sameer Magan Bhujbal,271395,292204,26.22
+ls-2019,LS,India,2019,2019,official,265,Palghar,ST,Maharashtra,1172462,SHS_SHINDE,Rajendra Dhedya Gavit,580479,BVA,Baliram Sukur Jadhav,491596,88883,7.58
+ls-2019,LS,India,2019,2019,official,266,Bhiwandi,GEN,Maharashtra,988775,BJP,Kapil Moreshwar Patil,523583,INC,Taware Suresh Kashinath,367254,156329,15.81
+ls-2019,LS,India,2019,2019,official,267,Kalyan,GEN,Maharashtra,876270,SHS_SHINDE,Dr. Shrikant Eknath Shinde,559723,NCP,Babaji Balaram Patil,215380,344343,39.3
+ls-2019,LS,India,2019,2019,official,268,Thane,GEN,Maharashtra,1149149,SHS_SHINDE,Rajan Baburao Vichare,740969,NCP,Anand Prakash Paranjpe,328824,412145,35.87
+ls-2019,LS,India,2019,2019,official,269,Mumbai North,GEN,Maharashtra,977793,BJP,Gopal Shetty,706678,INC,Urmila Matondkar,241431,465247,47.58
+ls-2019,LS,India,2019,2019,official,270,Mumbai North West,GEN,Maharashtra,922797,SHS_SHINDE,Gajanan Kirtikar,570063,INC,Sanjay Nirupam,309735,260328,28.21
+ls-2019,LS,India,2019,2019,official,271,Mumbai North East,GEN,Maharashtra,895800,BJP,Manoj Kotak,514599,NCP,Patil Sanjay Dina,288113,226486,25.28
+ls-2019,LS,India,2019,2019,official,272,Mumbai North Central,GEN,Maharashtra,890627,BJP,Poonam Mahajan,486672,INC,Dutt Priya Sunil,356667,130005,14.6
+ls-2019,LS,India,2019,2019,official,273,Mumbai South Central,GEN,Maharashtra,783416,SHS_SHINDE,Rahul Ramesh Shewale,424913,INC,Eknath M. Gaikwad,272774,152139,19.42
+ls-2019,LS,India,2019,2019,official,274,Mumbai South,GEN,Maharashtra,786496,SHS_SHINDE,Arvind Ganpat Sawant,421937,INC,Deora Milind Murli,321870,100067,12.72
+ls-2019,LS,India,2019,2019,official,275,Raigad,GEN,Maharashtra,1012536,NCP,Tatkare Sunil Dattatray,486968,SHS_SHINDE,Anant Geete,455530,31438,3.1
+ls-2019,LS,India,2019,2019,official,276,Maval,GEN,Maharashtra,1353093,SHS_SHINDE,Shrirang Appa Chandu Barne,720663,NCP,Parth Ajit Pawar,504750,215913,15.96
+ls-2019,LS,India,2019,2019,official,277,Pune,GEN,Maharashtra,1022755,BJP,Girish Bhalchandra Bapat,632835,INC,Mohan Joshi,308207,324628,31.74
+ls-2019,LS,India,2019,2019,official,278,Baramati,GEN,Maharashtra,1296860,NCP,Supriya Sule,686714,BJP,Kanchan Rahul Kool,530940,155774,12.01
+ls-2019,LS,India,2019,2019,official,279,Shirur,GEN,Maharashtra,1286451,NCP,Dr. Amol Ramsing Kolhe,635830,SHS_SHINDE,Adhalrao Shivaji Dattatrey,577347,58483,4.55
+ls-2019,LS,India,2019,2019,official,280,Ahmadnagar,GEN,Maharashtra,1199725,BJP,Dr. Sujay Radhakrishna Vikhepatil,704660,NCP,Sangram Arunkaka Jagtap,423186,281474,23.46
+ls-2019,LS,India,2019,2019,official,281,Shirdi,SC,Maharashtra,1023968,SHS_SHINDE,Sadashiv Kisan Lokhande,486820,INC,Kamble Bhausaheb Malhari,366625,120195,11.74
+ls-2019,LS,India,2019,2019,official,282,Beed,GEN,Maharashtra,1348661,BJP,Pritam Gopinathrao Munde,678175,NCP,Bajrang Manohar Sonwane,509807,168368,12.48
+ls-2019,LS,India,2019,2019,official,283,Osmanabad,GEN,Maharashtra,1193272,SHS_SHINDE,Omprakash Bhupalsinh Alias Pawan Rajenimbalkar,596640,NCP,Ranajagjitsinha Padmasinha Patil,469074,127566,10.69
+ls-2019,LS,India,2019,2019,official,284,Latur,SC,Maharashtra,1169978,BJP,Sudhakar Tukaram Shrangare,661495,INC,Kamant Machhindra Gunwantrao,372384,289111,24.71
+ls-2019,LS,India,2019,2019,official,285,Solapur,SC,Maharashtra,1076270,BJP,Shri. Sha. Bra. Dr. Jai Sidheshwar Shivachary Mahaswamiji,524985,INC,Shinde Sushilkumar Sambhajirao,366377,158608,14.74
+ls-2019,LS,India,2019,2019,official,286,Madha,GEN,Maharashtra,1210629,BJP,Ranjeetsinha Hindurao Naik- Nimbalkar,586314,NCP,Sanjaymama Vitthalrao Shinde,500550,85764,7.08
+ls-2019,LS,India,2019,2019,official,287,Sangli,GEN,Maharashtra,1183373,BJP,Sanjaykaka Patil,508995,SWP,Vishal Prakashbapu Patil,344643,164352,13.89
+ls-2019,LS,India,2019,2019,official,288,Satara,GEN,Maharashtra,1106207,NCP,Shrimant Chh. Udayanraje Pratapsinhmaharaj Bhonsle,579026,SHS_SHINDE,Narendra Annasaheb Patil,452498,126528,11.44
+ls-2019,LS,India,2019,2019,official,289,Ratnagiri - Sindhudurg,GEN,Maharashtra,887325,SHS_SHINDE,Vinayak Raut,458022,MSP,Nilesh Narayan Rane,279700,178322,20.1
+ls-2019,LS,India,2019,2019,official,290,Kolhapur,GEN,Maharashtra,1322161,SHS_SHINDE,Sanjay Sadashivrao Mandlik,749085,NCP,Dhananjay Mahadik,478517,270568,20.46
+ls-2019,LS,India,2019,2019,official,291,Hatkanangle,GEN,Maharashtra,1243922,SHS_SHINDE,Dhairyasheel Sambhajirao Mane,585776,SWP,Raju Anna Shetti,489737,96039,7.72
+ls-2019,LS,India,2019,2019,official,292,Inner Manipur,ST,Manipur,755940,BJP,Dr. Rajkumar Ranjan Singh,263632,INC,Oinam Nabakishore Singh,245877,17755,2.35
+ls-2019,LS,India,2019,2019,official,293,Outer Manipur,GEN,Manipur,855254,NPF,Lorho S. Pfoze,363527,BJP,Houlim Shokhopao Mate,289745,73782,8.63
+ls-2019,LS,India,2019,2019,official,294,Shillong,ST,Meghalaya,779770,INC,Vincent H. Pala,419689,UDP,Jemino Mawthoh,267256,152433,19.55
+ls-2019,LS,India,2019,2019,official,295,Tura,ST,Meghalaya,576587,NPP,Agatha K. Sangma,304455,INC,Dr. Mukul Sangma,240425,64030,11.11
+ls-2019,LS,India,2019,2019,official,296,Mizoram,ST,Mizoram,497112,MNF,C Lalrosanga,224286,IND,Lalnghinglova Hmar,216146,8140,1.64
+ls-2019,LS,India,2019,2019,official,297,Nagaland,GEN,Nagaland,1004293,NDPP,Tokheho Yepthomi,500510,INC,K L Chishi,484166,16344,1.63
+ls-2019,LS,India,2019,2019,official,298,Bargarh,GEN,Odisha,1233745,BJP,Suresh Pujari,581245,BJD,Prasanna Acharya,517306,63939,5.18
+ls-2019,LS,India,2019,2019,official,299,Sundargarh,ST,Odisha,1086454,BJP,Jual Oram,500056,BJD,Sunita Biswal,276991,223065,20.53
+ls-2019,LS,India,2019,2019,official,300,Sambalpur,GEN,Odisha,1110999,BJP,Nitesh Ganga Deb,473770,BJD,Nalini Kanta Pradhan,464608,9162,0.82
+ls-2019,LS,India,2019,2019,official,301,Keonjhar,ST,Odisha,1157085,BJD,Chandrani Murmu,526359,BJP,Ananta Nayak,460156,66203,5.72
+ls-2019,LS,India,2019,2019,official,302,Mayurbhanj,ST,Odisha,1129000,BJP,Bishweswar Tudu,483812,BJD,Dr Debashis Marndi,458556,25256,2.24
+ls-2019,LS,India,2019,2019,official,303,Balasore,GEN,Odisha,1150435,BJP,Pratap Chandra Sarangi,483858,BJD,Rabindra Kumar Jena,470902,12956,1.13
+ls-2019,LS,India,2019,2019,official,304,Bhadrak,SC,Odisha,1217218,BJD,Manjulata Mandal,512305,BJP,Avimanyu Sethi,483502,28803,2.37
+ls-2019,LS,India,2019,2019,official,305,Jajpur,SC,Odisha,1084923,BJD,Sarmistha Sethi,544020,BJP,Amiya Kanta Mallick,442327,101693,9.37
+ls-2019,LS,India,2019,2019,official,306,Dhenkanal,GEN,Odisha,1120268,BJD,Mahesh Sahoo,522884,BJP,Rudra Narayan Pany,487472,35412,3.16
+ls-2019,LS,India,2019,2019,official,307,Bolangir,GEN,Odisha,1290704,BJP,Sangeeta Kumari Singh Deo,498086,BJD,Kalikesh Narayan Singh Deo,478570,19516,1.51
+ls-2019,LS,India,2019,2019,official,308,Kalahandi,GEN,Odisha,1207093,BJP,Basanta Kumar Panda,433074,BJD,Puspendra Singh Deo,406260,26814,2.22
+ls-2019,LS,India,2019,2019,official,309,Nabarangpur,ST,Odisha,1115118,BJD,Ramesh Chandra Majhi,392504,INC,Pradeep Kumar Majhi,350870,41634,3.73
+ls-2019,LS,India,2019,2019,official,310,Kandhamal,GEN,Odisha,928732,BJD,Achyutananda Samanta,461679,BJP,Mahameghabahan Aira Kharabela Swain,312463,149216,16.07
+ls-2019,LS,India,2019,2019,official,311,Cuttack,GEN,Odisha,1052254,BJD,Bhartruhari Mahtab,524592,BJP,Prakash Mishra,403391,121201,11.52
+ls-2019,LS,India,2019,2019,official,312,Kendrapara,GEN,Odisha,1229878,BJD,Anubhav Mohanty,628939,BJP,Baijayant Panda,476355,152584,12.41
+ls-2019,LS,India,2019,2019,official,313,Jagatsinghpur,SC,Odisha,1223133,BJD,Rajashree Mallick,619985,BJP,Bibhu Prasad Tarai,348330,271655,22.21
+ls-2019,LS,India,2019,2019,official,314,Puri,GEN,Odisha,1128403,BJD,Pinaki Misra,538321,BJP,Dr Sambit Patra,526607,11714,1.04
+ls-2019,LS,India,2019,2019,official,315,Bhubaneswar,GEN,Odisha,999059,BJP,Aparajita Sarangi,486991,BJD,Arup Mohan Patnaik,463152,23839,2.39
+ls-2019,LS,India,2019,2019,official,316,Aska,GEN,Odisha,996518,BJD,Pramila Bisoyi,552749,BJP,Anita Subhadarshini,348042,204707,20.54
+ls-2019,LS,India,2019,2019,official,317,Berhampur,GEN,Odisha,975529,BJD,Chandra Sekhar Sahu,443843,BJP,Bhrugu Baxipatra,348999,94844,9.72
+ls-2019,LS,India,2019,2019,official,318,Koraput,ST,Odisha,1043600,INC,Saptagiri Sankar Ulaka,371129,BJD,Kausalya Hikaka,367516,3613,0.35
+ls-2019,LS,India,2019,2019,official,319,Puducherry,GEN,Puducherry,777242,INC,Ve Vaithilingam,444981,AINRC,Dr. Narayanasamy Kesavan,247956,197025,25.35
+ls-2019,LS,India,2019,2019,official,320,Gurdaspur,GEN,Punjab,1093828,BJP,Sunny Deol,558719,INC,Sunil Jakhar,476260,82459,7.54
+ls-2019,LS,India,2019,2019,official,321,Amritsar,GEN,Punjab,849976,INC,Gurjeet Singh Aujla,445032,BJP,Hardeep Singh Puri,345406,99626,11.72
+ls-2019,LS,India,2019,2019,official,322,Khadoor Sahib,GEN,Punjab,1038191,INC,Jasbir Singh Gill (Dimpa),459710,SAD,Bibi Jagir Kaur,319137,140573,13.54
+ls-2019,LS,India,2019,2019,official,323,Jalandhar,SC,Punjab,1006674,INC,Santokh Singh Chaudhary,385712,SAD,Charanjit Singh Atwal,366221,19491,1.94
+ls-2019,LS,India,2019,2019,official,324,Hoshiarpur,SC,Punjab,977923,BJP,Som Parkash,421320,INC,Dr. Raj Kumar Chabbewal,372790,48530,4.96
+ls-2019,LS,India,2019,2019,official,325,Anandpur Sahib,GEN,Punjab,1061237,INC,Manish Tewari,428045,SAD,Professor Prem Singh Chandumajra,381161,46884,4.42
+ls-2019,LS,India,2019,2019,official,326,Ludhiana,GEN,Punjab,1031302,INC,Ravneet Singh Bittu,383795,LIP,Simarjeet Singh Bains,307423,76372,7.41
+ls-2019,LS,India,2019,2019,official,327,Fatehgarh Sahib,SC,Punjab,969362,INC,Amar Singh,411651,SAD,Darbara Singh Guru,317753,93898,9.69
+ls-2019,LS,India,2019,2019,official,328,Faridkot,SC,Punjab,953916,INC,Mohammad Sadique,419065,SAD,Gulzar Singh Ranike,335809,83256,8.73
+ls-2019,LS,India,2019,2019,official,329,Firozpur,GEN,Punjab,1155667,SAD,Sukhbir Singh Badal,633427,INC,Sher Singh Ghubaya,434577,198850,17.21
+ls-2019,LS,India,2019,2019,official,330,Bathinda,GEN,Punjab,1186795,SAD,Harsimrat Kaur Badal,492824,INC,Amrinder Singh Raja Warring,471052,21772,1.83
+ls-2019,LS,India,2019,2019,official,331,Sangrur,GEN,Punjab,1098109,AAP,Bhagwant Mann,413561,INC,Kewal Singh Dhillon,303350,110211,10.04
+ls-2019,LS,India,2019,2019,official,332,Patiala,GEN,Punjab,1166793,INC,Preneet Kaur,532027,SAD,Surjit Singh Rakhra,369309,162718,13.95
+ls-2019,LS,India,2019,2019,official,333,Ganganagar,SC,Rajasthan,1436222,BJP,Nihal Chand,897177,INC,Bharat Ram Meghwal,490199,406978,28.34
+ls-2019,LS,India,2019,2019,official,334,Bikaner,SC,Rajasthan,1086088,BJP,Arjun Ram Meghwal,657743,INC,Madan Gopal Meghwal,393662,264081,24.31
+ls-2019,LS,India,2019,2019,official,335,Churu,GEN,Rajasthan,1318444,BJP,Rahul Kaswan,792999,INC,Rafique Mandelia,458597,334402,25.36
+ls-2019,LS,India,2019,2019,official,336,Jhunjhunu,GEN,Rajasthan,1190430,BJP,Narendra Kumar,738163,INC,Sharwan Kumar S/O Gokal Ram,435616,302547,25.41
+ls-2019,LS,India,2019,2019,official,337,Sikar,GEN,Rajasthan,1317291,BJP,Sumedhanand Saraswati,772104,INC,Subhash Maharia,474948,297156,22.56
+ls-2019,LS,India,2019,2019,official,338,Jaipur Rural,GEN,Rajasthan,1267342,BJP,Col. Rajyavardhan Rathore,820132,INC,Krishna Poonia,426961,393171,31.02
+ls-2019,LS,India,2019,2019,official,339,Jaipur,GEN,Rajasthan,1449533,BJP,Ramcharan Bohra,924065,INC,Jyoti Khandelwal,493439,430626,29.71
+ls-2019,LS,India,2019,2019,official,340,Alwar,GEN,Rajasthan,1260289,BJP,Balak Nath,760201,INC,Bhanwar Jitendra Singh,430230,329971,26.18
+ls-2019,LS,India,2019,2019,official,341,Bharatpur,SC,Rajasthan,1141159,BJP,Ranjeeta Koli,707992,INC,Abhijeet Kumar Jatav,389593,318399,27.9
+ls-2019,LS,India,2019,2019,official,342,Karauli-Dholpur,SC,Rajasthan,990725,BJP,Manoj Rajoria,526443,INC,Sanjay Kumar,428761,97682,9.86
+ls-2019,LS,India,2019,2019,official,343,Dausa,ST,Rajasthan,1055440,BJP,Jaskaur Meena,548733,INC,Savita Meena,470289,78444,7.43
+ls-2019,LS,India,2019,2019,official,344,Tonk-Sawai Madhopur,GEN,Rajasthan,1224484,BJP,Sukhbir Singh Jaunapuria,644319,INC,Namonarayan,533028,111291,9.09
+ls-2019,LS,India,2019,2019,official,345,Ajmer,GEN,Rajasthan,1252636,BJP,Bhagirath Choudhary,815076,INC,Riju Jhunjhunwala,398652,416424,33.24
+ls-2019,LS,India,2019,2019,official,346,Nagaur,GEN,Rajasthan,1190075,RLP,Hanuman Beniwal,660051,INC,Dr. Jyoti Mirdha,478791,181260,15.23
+ls-2019,LS,India,2019,2019,official,347,Pali,GEN,Rajasthan,1344619,BJP,P. P. Chaudhary,900149,INC,Badriram Jakhar,418552,481597,35.82
+ls-2019,LS,India,2019,2019,official,348,Jodhpur,GEN,Rajasthan,1334555,BJP,Gajendra Singh Shekhawat,788888,INC,Vaibhav Gehlot,514448,274440,20.56
+ls-2019,LS,India,2019,2019,official,349,Barmer,GEN,Rajasthan,1403275,BJP,Kailash Choudhary,846526,INC,Manvendra Singh,522718,323808,23.08
+ls-2019,LS,India,2019,2019,official,350,Jalore,GEN,Rajasthan,1343905,BJP,Devaji Patel,772833,INC,Ratan Devasi,511723,261110,19.43
+ls-2019,LS,India,2019,2019,official,351,Udaipur,ST,Rajasthan,1426339,BJP,Arjunlal Meena,871548,INC,Raghuvir Singh Meena,433634,437914,30.7
+ls-2019,LS,India,2019,2019,official,352,Banswara,ST,Rajasthan,1409709,BJP,Kanakmal Katara,711709,INC,Tarachand Bhagora,406245,305464,21.67
+ls-2019,LS,India,2019,2019,official,353,Chittorgarh,GEN,Rajasthan,1441232,BJP,Chandra Prakash Joshi,982942,INC,Gopal Singh Shekhawat,406695,576247,39.98
+ls-2019,LS,India,2019,2019,official,354,Rajsamand,GEN,Rajasthan,1227174,BJP,Diya Kumari,863039,INC,Devkinandan (Kaka),311123,551916,44.97
+ls-2019,LS,India,2019,2019,official,355,Bhilwara,GEN,Rajasthan,1293095,BJP,Subhash Chandra Baheria,938160,INC,Ram Pal Sharma,326160,612000,47.33
+ls-2019,LS,India,2019,2019,official,356,Kota,GEN,Rajasthan,1354445,BJP,Om Birla,800051,INC,Ramnarain Meena,520374,279677,20.65
+ls-2019,LS,India,2019,2019,official,357,Jhalawar-Baran,GEN,Rajasthan,1352788,BJP,Dushyant Singh,887400,INC,Pramod Sharma,433472,453928,33.55
+ls-2019,LS,India,2019,2019,official,358,Sikkim,GEN,Sikkim,349071,SKM,Indra Hang Subba,166922,SDF,Dek Bahadur Katwal,154489,12433,3.56
+ls-2019,LS,India,2019,2019,official,359,Tiruvallur,SC,Tamil Nadu,1389914,INC,Dr.K.Jayakumar,767292,AIADMK,Dr.P.Venugopal,410337,356955,25.68
+ls-2019,LS,India,2019,2019,official,360,Chennai North,GEN,Tamil Nadu,939179,DMK,Dr.Kalanidhi Veeraswamy,590986,DMDK,Alagaapuram R. Mohanraj,129468,461518,49.14
+ls-2019,LS,India,2019,2019,official,361,Chennai South,GEN,Tamil Nadu,1108966,DMK,T.Sumathy (Alias) Thamizhachi Thangapandian,564872,AIADMK,Dr.J.Jayavardhan,302649,262223,23.65
+ls-2019,LS,India,2019,2019,official,362,Chennai Central,GEN,Tamil Nadu,770985,DMK,Dayanidhi Maran,448911,PMK,Sam Paul. S.R,147391,301520,39.11
+ls-2019,LS,India,2019,2019,official,363,Sriperumbudur,GEN,Tamil Nadu,1383439,DMK,T R Baalu,793281,PMK,Vaithilingam A,285326,507955,36.72
+ls-2019,LS,India,2019,2019,official,364,Kancheepuram,SC,Tamil Nadu,1215951,DMK,Selvam. G,684004,AIADMK,Maragatham K,397372,286632,23.57
+ls-2019,LS,India,2019,2019,official,365,Arakkonam,GEN,Tamil Nadu,1165881,DMK,S Jagathratchakan,672190,PMK,A.K. Moorthy,343234,328956,28.22
+ls-2019,LS,India,2019,2019,official,366,Vellore,GEN,Tamil Nadu,1016638,DMK,Dm Kathir Anand,485340,AIADMK,A.C.Shanmugam,477199,8141,0.8
+ls-2019,LS,India,2019,2019,official,367,Krishnagiri,GEN,Tamil Nadu,1141544,INC,Dr.A.Chellakumar,611298,AIADMK,K.P.Munusamy,454533,156765,13.73
+ls-2019,LS,India,2019,2019,official,368,Dharmapuri,GEN,Tamil Nadu,1209826,DMK,Dnv Senthilkumar. S,574988,PMK,Anbumani Ramadoss,504235,70753,5.85
+ls-2019,LS,India,2019,2019,official,369,Tiruvannamalai,GEN,Tamil Nadu,1139412,DMK,Annadurai C.N,666272,AIADMK,Agri Krishnamurthy S S,362085,304187,26.7
+ls-2019,LS,India,2019,2019,official,370,Arani,GEN,Tamil Nadu,1126986,INC,Vishnu Prasad M K,617760,AIADMK,Elumalai V,386954,230806,20.48
+ls-2019,LS,India,2019,2019,official,371,Viluppuram,SC,Tamil Nadu,1123597,DMK,Ravikumar. D,559585,PMK,Vadivel Ravanan S,431517,128068,11.4
+ls-2019,LS,India,2019,2019,official,372,Kallakurichi,GEN,Tamil Nadu,1192799,DMK,Gautham Sigamani Pon,721713,DMDK,Sudhish L K,321794,399919,33.53
+ls-2019,LS,India,2019,2019,official,373,Salem,GEN,Tamil Nadu,1238329,DMK,Parthiban.S.R,606302,AIADMK,Saravanan.K.R.S,459376,146926,11.86
+ls-2019,LS,India,2019,2019,official,374,Namakkal,GEN,Tamil Nadu,1118701,DMK,Chinraj A.K.P,626293,AIADMK,Kaliappan P,361142,265151,23.7
+ls-2019,LS,India,2019,2019,official,375,Erode,GEN,Tamil Nadu,1053068,DMK,Ganeshamurthi A,563591,AIADMK,Manimaran G,352973,210618,20.0
+ls-2019,LS,India,2019,2019,official,376,Tiruppur,GEN,Tamil Nadu,1097723,CPI,Subbarayan K,508725,AIADMK,Anandan M.S.M,415357,93368,8.51
+ls-2019,LS,India,2019,2019,official,377,Nilgiris,SC,Tamil Nadu,992570,DMK,Raja A,547832,AIADMK,Thiyagarajan M,342009,205823,20.74
+ls-2019,LS,India,2019,2019,official,378,Coimbatore,GEN,Tamil Nadu,1227695,CPI(M),Natarajan. P.R,571150,BJP,Radhakrishnan. C.P,392007,179143,14.59
+ls-2019,LS,India,2019,2019,official,379,Pollachi,GEN,Tamil Nadu,1066765,DMK,Shanmuga Sundaram. K,554230,AIADMK,Mahendran. C,378347,175883,16.49
+ls-2019,LS,India,2019,2019,official,380,Dindigul,GEN,Tamil Nadu,1145869,DMK,Velusamy P,746523,PMK,Jothimuthu K,207551,538972,47.04
+ls-2019,LS,India,2019,2019,official,381,Karur,GEN,Tamil Nadu,1093562,INC,Jothimani. S,695697,AIADMK,Thambidurai M,275151,420546,38.46
+ls-2019,LS,India,2019,2019,official,382,Tiruchirappalli,GEN,Tamil Nadu,1033625,INC,Thirunavukkarasar. Su,621285,DMDK,Dr.Elangovan. V,161999,459286,44.43
+ls-2019,LS,India,2019,2019,official,383,Perambalur,GEN,Tamil Nadu,1091442,DMK,Dr.Paarivendhar T. R,683697,AIADMK,Sivapathy N.R,280179,403518,36.97
+ls-2019,LS,India,2019,2019,official,384,Cuddalore,GEN,Tamil Nadu,1034018,DMK,T. R. V .S. Ramesh,522160,PMK,Dr. R. Govindasamy,378177,143983,13.92
+ls-2019,LS,India,2019,2019,official,385,Chidambaram,SC,Tamil Nadu,1137657,VCK,Thirumaavalavan Thol,500229,AIADMK,Chandrasekar P,497010,3219,0.28
+ls-2019,LS,India,2019,2019,official,386,Mayiladuthurai,GEN,Tamil Nadu,1089012,DMK,Ramalingam. S,599292,AIADMK,Asaimani. S,337978,261314,24.0
+ls-2019,LS,India,2019,2019,official,387,Nagapattinam,SC,Tamil Nadu,992745,CPI,Selvaraj M,522892,AIADMK,Saravanan M,311539,211353,21.29
+ls-2019,LS,India,2019,2019,official,388,Thanjavur,GEN,Tamil Nadu,1044118,DMK,Palanimanickam S.S,588978,AITC,Natarajan N.R,220849,368129,35.26
+ls-2019,LS,India,2019,2019,official,389,Sivaganga,GEN,Tamil Nadu,1073902,INC,Karti P Chidambaram,566104,BJP,H.Raja,233860,332244,30.94
+ls-2019,LS,India,2019,2019,official,390,Madurai,GEN,Tamil Nadu,999839,CPI(M),Venkatesan S,447075,AIADMK,Raj Satyen V.V.R,307680,139395,13.94
+ls-2019,LS,India,2019,2019,official,391,Theni,GEN,Tamil Nadu,1162803,AIADMK,Raveendranath Kumar P,504813,INC,Elangovan E.V.K.S,428120,76693,6.6
+ls-2019,LS,India,2019,2019,official,392,Virudhunagar,GEN,Tamil Nadu,1053709,INC,Manickam Tagore B,470883,DMDK,Alagarsamy R,316329,154554,14.67
+ls-2019,LS,India,2019,2019,official,393,Ramanathapuram,GEN,Tamil Nadu,1058551,IUML,Navaskani K,469943,BJP,Nainar Nagenthran,342821,127122,12.01
+ls-2019,LS,India,2019,2019,official,394,Thoothukkudi,GEN,Tamil Nadu,977422,DMK,Kanimozhi Karunanidhi,563143,BJP,Dr. Tamilisai Soundararajan,215934,347209,35.52
+ls-2019,LS,India,2019,2019,official,395,Tenkasi,SC,Tamil Nadu,1051513,DMK,Dhanush.M.Kumar,476156,AIADMK,Dr.Krishnasamy.K,355870,120286,11.44
+ls-2019,LS,India,2019,2019,official,396,Tirunelveli,GEN,Tamil Nadu,1027559,DMK,Gnanathiraviam S,522623,AIADMK,Paul Manoj Pandian,337166,185457,18.05
+ls-2019,LS,India,2019,2019,official,397,Kanniyakumari,GEN,Tamil Nadu,1041650,INC,Vasantha Kumar H,627235,BJP,Radhakrishnan. P,367302,259933,24.95
+ls-2019,LS,India,2019,2019,official,398,Adilabad,ST,Telangana,1050694,BJP,Soyam Bapu Rao,377374,BRS,Godam Nagesh,318814,58560,5.57
+ls-2019,LS,India,2019,2019,official,399,Peddapalle,SC,Telangana,961080,BRS,Venkatesh Netha Borlakunta,441321,INC,Agam Chandrasekhar,346141,95180,9.9
+ls-2019,LS,India,2019,2019,official,400,Karimnagar,GEN,Telangana,1139718,BJP,Bandi Sanjay Kumar,498276,BRS,Boianapalli Vinod Kumar,408768,89508,7.85
+ls-2019,LS,India,2019,2019,official,401,Nizamabad,GEN,Telangana,1060737,BJP,Arvind Dharmapuri,480584,BRS,Kalvakuntla Kavitha,409709,70875,6.68
+ls-2019,LS,India,2019,2019,official,402,Zahirabad,GEN,Telangana,1033225,BRS,B.B. Patil,434244,INC,Madan Mohan Rao,428015,6229,0.6
+ls-2019,LS,India,2019,2019,official,403,Medak,GEN,Telangana,1134833,BRS,Kotha Prabhakar Reddy,596048,INC,Anil Kumar Gali,279621,316427,27.88
+ls-2019,LS,India,2019,2019,official,404,Malkajgiri,GEN,Telangana,1544448,INC,Anumula Revanth Reddy,603748,BRS,Rajashekar Reddy Marri,592829,10919,0.71
+ls-2019,LS,India,2019,2019,official,405,Secunderabad,GEN,Telangana,906068,BJP,G . Kishan Reddy,384780,BRS,Talasani Sai Kiran Yadav,322666,62114,6.86
+ls-2019,LS,India,2019,2019,official,406,Hyderabad,GEN,Telangana,872219,AIMEIM,Asaduddin Owaisi,517471,BJP,Dr. Bhagavanth Rao,235285,282186,32.35
+ls-2019,LS,India,2019,2019,official,407,Chevella,GEN,Telangana,1287272,BRS,Dr. G. Ranjith Reddy,528148,INC,Konda Vishweshwar Reddy,513831,14317,1.11
+ls-2019,LS,India,2019,2019,official,408,Mahbubnagar,GEN,Telangana,974034,BRS,Manne Srinivas Reddy,411402,BJP,Aruna D.K,333573,77829,7.99
+ls-2019,LS,India,2019,2019,official,409,Nagarkurnool,SC,Telangana,976322,BRS,Pothuganti Ramulu,499672,INC,Dr Mallu Ravi,309924,189748,19.43
+ls-2019,LS,India,2019,2019,official,410,Nalgonda,GEN,Telangana,1167034,INC,Uttam Kumar Reddy Nalamada,526028,BRS,Vemireddy Narasimha Reddy,500346,25682,2.2
+ls-2019,LS,India,2019,2019,official,411,Bhongir,GEN,Telangana,1200610,INC,Komati Reddy Venkat Reddy,532795,BRS,Dr. Boora Narsaiah Goud,527576,5219,0.43
+ls-2019,LS,India,2019,2019,official,412,Warangal,SC,Telangana,1042844,BRS,Dayakar Pasunoori,612498,INC,Dommati Sambaiah,262200,350298,33.59
+ls-2019,LS,India,2019,2019,official,413,Mahabubabad,ST,Telangana,969453,BRS,Kavitha Malothu,462109,INC,Balaram Naik Porika,315446,146663,15.13
+ls-2019,LS,India,2019,2019,official,414,Khammam,GEN,Telangana,1117612,BRS,Nama Nageswr Rao,567459,INC,Renuka Chowdhury,399397,168062,15.04
+ls-2019,LS,India,2019,2019,official,415,Tripura West,ST,Tripura,1093719,BJP,Pratima Bhoumik,573532,INC,Subal Bhowmik,267843,305689,27.95
+ls-2019,LS,India,2019,2019,official,416,Tripura East,GEN,Tripura,1034203,BJP,Rebati Tripura,482126,INC,Maharaj Kumari Pragya Debburman,277836,204290,19.75
+ls-2019,LS,India,2019,2019,official,417,Saharanpur,GEN,Uttar Pradesh,1227462,BSP,Haji Fazlur Rehman,514139,BJP,Raghav Lakhanpal,491722,22417,1.83
+ls-2019,LS,India,2019,2019,official,418,Kairana,GEN,Uttar Pradesh,1120505,BJP,Pradeep Kumar,566961,SP,Tabassum Begum,474801,92160,8.22
+ls-2019,LS,India,2019,2019,official,419,Muzaffarnagar,GEN,Uttar Pradesh,1154961,BJP,Sanjeev Kumar Balyan,573780,RLD,Ajit Singh,567254,6526,0.57
+ls-2019,LS,India,2019,2019,official,420,Bijnor,GEN,Uttar Pradesh,1095730,BSP,Malook Nagar,561045,BJP,Raja Bharatendra Singh,491104,69941,6.38
+ls-2019,LS,India,2019,2019,official,421,Nagina,SC,Uttar Pradesh,1002928,BSP,Girish Chandra,568378,BJP,Dr. Yashwant Singh,401546,166832,16.63
+ls-2019,LS,India,2019,2019,official,422,Moradabad,GEN,Uttar Pradesh,1276449,SP,Dr. S.T. Hasan,649416,BJP,Kunwar Sarvesh Kumar,551538,97878,7.67
+ls-2019,LS,India,2019,2019,official,423,Rampur,GEN,Uttar Pradesh,1053893,SP,Mohammad Azam Khan,559177,BJP,Jayaprada Nahata,449180,109997,10.44
+ls-2019,LS,India,2019,2019,official,424,Sambhal,GEN,Uttar Pradesh,1176239,SP,Dr. Shafiqur Rehman Barq,658006,BJP,Parameshvar Lal Saini,483180,174826,14.86
+ls-2019,LS,India,2019,2019,official,425,Amroha,GEN,Uttar Pradesh,1162565,BSP,Kunwar Danish Ali,601082,BJP,Kanwar Singh Tanwar,537834,63248,5.44
+ls-2019,LS,India,2019,2019,official,426,Meerut,GEN,Uttar Pradesh,1209608,BJP,Rajendra Agarwal,586184,BSP,Haji Mohammad Yaqoob,581455,4729,0.39
+ls-2019,LS,India,2019,2019,official,427,Baghpat,GEN,Uttar Pradesh,1038794,BJP,Dr. Satyapal Singh,525789,RLD,Jayant Chaudhary,502287,23502,2.26
+ls-2019,LS,India,2019,2019,official,428,Ghaziabad,GEN,Uttar Pradesh,1516157,BJP,Vijay Kumar Singh,944503,SP,Suresh Bansal,443003,501500,33.08
+ls-2019,LS,India,2019,2019,official,429,Gautam Buddha Nagar,GEN,Uttar Pradesh,1382035,BJP,Dr. Mahesh Sharma,830812,BSP,Satveer,493890,336922,24.38
+ls-2019,LS,India,2019,2019,official,430,Bulandshahr,SC,Uttar Pradesh,1117910,BJP,Bhola Singh,681321,BSP,Yogesh Verma,391264,290057,25.95
+ls-2019,LS,India,2019,2019,official,431,Aligarh,GEN,Uttar Pradesh,1156080,BJP,Satish Kumar Gautam,656215,BSP,Dr. Ajeet Baliyan,426954,229261,19.83
+ls-2019,LS,India,2019,2019,official,432,Hathras,SC,Uttar Pradesh,1141726,BJP,Rajvir Diler,684299,SP,Ramji Lal Suman,424091,260208,22.79
+ls-2019,LS,India,2019,2019,official,433,Mathura,GEN,Uttar Pradesh,1096931,BJP,Hema Malini,671293,RLD,Kunwar Narendra Singh,377822,293471,26.75
+ls-2019,LS,India,2019,2019,official,434,Agra,SC,Uttar Pradesh,1139506,BJP,Satyapal Singh Baghel,646875,BSP,Manoj Kumar Soni,435329,211546,18.56
+ls-2019,LS,India,2019,2019,official,435,Fatehpur Sikri,GEN,Uttar Pradesh,1026459,BJP,Rajkumar Chahar,667147,INC,Raj Babbar,172082,495065,48.23
+ls-2019,LS,India,2019,2019,official,436,Firozabad,GEN,Uttar Pradesh,1069190,BJP,Dr. Chandra Sen Jadon,495819,SP,Akshay Yadav,467038,28781,2.69
+ls-2019,LS,India,2019,2019,official,437,Mainpuri,GEN,Uttar Pradesh,969807,SP,Mulayam Singh Yadav,524926,BJP,Prem Singh Shakya,430537,94389,9.73
+ls-2019,LS,India,2019,2019,official,438,Etah,GEN,Uttar Pradesh,992746,BJP,Rajveer Singh (Raju Bhaiya),545348,SP,Ku. Devendra Singh Yadav,422678,122670,12.36
+ls-2019,LS,India,2019,2019,official,439,Badaun,GEN,Uttar Pradesh,1072502,BJP,Dr. Sanghmitra Maurya,511352,SP,Dharmendra Yadav,492898,18454,1.72
+ls-2019,LS,India,2019,2019,official,440,Aonla,GEN,Uttar Pradesh,1041346,BJP,Dharmendra Kashyap,537675,BSP,Ruchivira,423932,113743,10.92
+ls-2019,LS,India,2019,2019,official,441,Bareilly,GEN,Uttar Pradesh,1064017,BJP,Santosh Kumar Gangwar,565270,SP,Bhagwat Saran Gangwar,397988,167282,15.72
+ls-2019,LS,India,2019,2019,official,442,Pilibhit,GEN,Uttar Pradesh,1176616,BJP,Feroze Varun Gandhi,704549,SP,Hemraj Verma,448922,255627,21.73
+ls-2019,LS,India,2019,2019,official,443,Shahjahanpur,SC,Uttar Pradesh,1170655,BJP,Arun Kumar Sagar,688990,BSP,Amar Chandra Jauhar,420572,268418,22.93
+ls-2019,LS,India,2019,2019,official,444,Kheri,GEN,Uttar Pradesh,1126942,BJP,Ajay Kumar,609589,SP,Dr. Purvi Verma,390782,218807,19.42
+ls-2019,LS,India,2019,2019,official,445,Dhaurahra,GEN,Uttar Pradesh,1053042,BJP,Rekha Verma,512905,BSP,Arshad Iliyas Siddiqui,352294,160611,15.25
+ls-2019,LS,India,2019,2019,official,446,Sitapur,GEN,Uttar Pradesh,1055648,BJP,Rajesh Verma,514528,BSP,Nakul Dubey,413695,100833,9.55
+ls-2019,LS,India,2019,2019,official,447,Hardoi,SC,Uttar Pradesh,1046534,BJP,Jai Prakash,568143,SP,Usha Verma,435669,132474,12.66
+ls-2019,LS,India,2019,2019,official,448,Misrikh,SC,Uttar Pradesh,1015576,BJP,Ashok Kumar Rawat,534429,BSP,Dr Neelu Satyarthi,433757,100672,9.91
+ls-2019,LS,India,2019,2019,official,449,Unnao,GEN,Uttar Pradesh,1225886,BJP,Swami Sakshi Ji Maharaj,703507,SP,Arun Shanker Shukla,302551,400956,32.71
+ls-2019,LS,India,2019,2019,official,450,Mohanlalganj,SC,Uttar Pradesh,1256807,BJP,Kaushal Kishore,629748,BSP,C. L. Verma,539519,90229,7.18
+ls-2019,LS,India,2019,2019,official,451,Lucknow,GEN,Uttar Pradesh,1108040,BJP,Rajnath Singh,633026,SP,Poonam Shatrughan Sinha,285724,347302,31.34
+ls-2019,LS,India,2019,2019,official,452,Rae Bareli,GEN,Uttar Pradesh,948304,INC,Sonia Gandhi,534918,BJP,Dinesh Pratap Singh,367740,167178,17.63
+ls-2019,LS,India,2019,2019,official,453,Amethi,GEN,Uttar Pradesh,933087,BJP,Smriti Irani,468514,INC,Rahul Gandhi,413394,55120,5.91
+ls-2019,LS,India,2019,2019,official,454,Sultanpur,GEN,Uttar Pradesh,988953,BJP,Maneka Sanjai Gandhi,459196,BSP,Chandra Bhadra Singh Ssonu,444670,14526,1.47
+ls-2019,LS,India,2019,2019,official,455,Pratapgarh,GEN,Uttar Pradesh,902506,BJP,Sangam Lal Gupta,436291,BSP,Ashok Tripathi,318539,117752,13.05
+ls-2019,LS,India,2019,2019,official,456,Farrukhabad,GEN,Uttar Pradesh,995516,BJP,Mukesh Rajput,569880,BSP,Manoj Agarwal,348178,221702,22.27
+ls-2019,LS,India,2019,2019,official,457,Etawah,SC,Uttar Pradesh,1022205,BJP,Dr. Ram Shankar Katheria,522119,SP,Kamlesh Kumar,457682,64437,6.3
+ls-2019,LS,India,2019,2019,official,458,Kannauj,GEN,Uttar Pradesh,1131456,BJP,Subrat Pathak,563087,SP,Dimple Yadav,550734,12353,1.09
+ls-2019,LS,India,2019,2019,official,459,Kanpur,GEN,Uttar Pradesh,838621,BJP,Satyadev Pachauri,468937,INC,Sriprakash Jaiswal,313003,155934,18.59
+ls-2019,LS,India,2019,2019,official,460,Akbarpur,GEN,Uttar Pradesh,1016544,BJP,Devendra Singh @ Bhole Singh,581282,BSP,Nisha Sachan,306140,275142,27.07
+ls-2019,LS,India,2019,2019,official,461,Jalaun,SC,Uttar Pradesh,1117441,BJP,Bhanu Pratap Singh Verma,581763,BSP,Ajay Singh (Pankaj),423386,158377,14.17
+ls-2019,LS,India,2019,2019,official,462,Jhansi,GEN,Uttar Pradesh,1362651,BJP,Anurag Sharma,809272,SP,Shyam Sundar Singh,443589,365683,26.84
+ls-2019,LS,India,2019,2019,official,463,Hamirpur,GEN,Uttar Pradesh,1074623,BJP,Kunwar Pushpendra Singh Chandel,575122,BSP,Dilip Kumar Singh,326470,248652,23.14
+ls-2019,LS,India,2019,2019,official,464,Banda,GEN,Uttar Pradesh,1015299,BJP,R.K. Singh Patel,477926,SP,Shyama Charan Gupta,418988,58938,5.8
+ls-2019,LS,India,2019,2019,official,465,Fatehpur,GEN,Uttar Pradesh,1028963,BJP,Niranjan Jyoti,566040,BSP,Sukhdev Prasad Verma,367835,198205,19.26
+ls-2019,LS,India,2019,2019,official,466,Kaushambi,SC,Uttar Pradesh,959669,BJP,Vinod Kumar Sonkar,383009,SP,Indrajeet Saroj,344287,38722,4.03
+ls-2019,LS,India,2019,2019,official,467,Phulpur,GEN,Uttar Pradesh,969433,BJP,Keshari Devi Patel,544701,SP,Pandhari Yadav,372733,171968,17.74
+ls-2019,LS,India,2019,2019,official,468,Allahabad,GEN,Uttar Pradesh,878063,BJP,Rita Bahuguna Joshi,494454,SP,Rajendra Singh Patel,310179,184275,20.99
+ls-2019,LS,India,2019,2019,official,469,Barabanki,SC,Uttar Pradesh,1145007,BJP,Upendra Singh Rawat,535917,SP,Ram Sagar Rawat,425777,110140,9.62
+ls-2019,LS,India,2019,2019,official,470,Faizabad,GEN,Uttar Pradesh,1077733,BJP,Lallu Singh,529021,SP,Anand Sen,463544,65477,6.08
+ls-2019,LS,India,2019,2019,official,471,Ambedkar Nagar,GEN,Uttar Pradesh,1078808,BSP,Ritesh Pandey,564118,BJP,Mukut Bihari,468238,95880,8.89
+ls-2019,LS,India,2019,2019,official,472,Bahraich,SC,Uttar Pradesh,976659,BJP,Akshaibar Lal,525982,SP,Shabbir Balmiki,397230,128752,13.18
+ls-2019,LS,India,2019,2019,official,473,Kaiserganj,GEN,Uttar Pradesh,968232,BJP,Brijbhusan Sharan Singh,581358,BSP,Chandradev Ram Yadav,319757,261601,27.02
+ls-2019,LS,India,2019,2019,official,474,Shrawasti,GEN,Uttar Pradesh,979899,BSP,Ram Shiromani,441771,BJP,Daddan Mishra,436451,5320,0.54
+ls-2019,LS,India,2019,2019,official,475,Gonda,GEN,Uttar Pradesh,913869,BJP,Kirti Vardhan Singh Alias Raja Bhaiya,508190,SP,Vinod Kumar Alias Pandit Singh,341830,166360,18.2
+ls-2019,LS,India,2019,2019,official,476,Domariyaganj,GEN,Uttar Pradesh,973512,BJP,Jagdambika Pal,492253,BSP,Aftab Alam,386932,105321,10.82
+ls-2019,LS,India,2019,2019,official,477,Basti,GEN,Uttar Pradesh,1044204,BJP,Harish Chandra Alias Harish Dwivedi,471162,BSP,Ram Prasad Chaudhary,440808,30354,2.91
+ls-2019,LS,India,2019,2019,official,478,Sant Kabir Nagar,GEN,Uttar Pradesh,1050759,BJP,Praveen Kumar Nishad,467543,BSP,Bheeshma Shankar,431794,35749,3.4
+ls-2019,LS,India,2019,2019,official,479,Maharajganj,GEN,Uttar Pradesh,1213221,BJP,Pankaj Choudhary,726349,SP,Akhilesh,385925,340424,28.06
+ls-2019,LS,India,2019,2019,official,480,Gorakhpur,GEN,Uttar Pradesh,1174305,BJP,Ravindra Shyamnarayan Shukla Alias Ravi Kishan,717122,SP,Rambhual Nishad,415458,301664,25.69
+ls-2019,LS,India,2019,2019,official,481,Kushi Nagar,GEN,Uttar Pradesh,1042061,BJP,Vijay Kumar Dubey,597039,SP,N.P. Kushwaha Alias Nathuni Prasad Kushwaha,259479,337560,32.39
+ls-2019,LS,India,2019,2019,official,482,Deoria,GEN,Uttar Pradesh,999525,BJP,Ramapati Ram Tripathi,580644,BSP,Binod Kumar Jaiswal,330713,249931,25.0
+ls-2019,LS,India,2019,2019,official,483,Bansgaon,SC,Uttar Pradesh,955043,BJP,Kamlesh Paswan,546673,BSP,Sadal Prasad,393205,153468,16.07
+ls-2019,LS,India,2019,2019,official,484,Lalganj,SC,Uttar Pradesh,953866,BSP,Sangeeta Azad,518820,BJP,Neelam Sonker,357223,161597,16.94
+ls-2019,LS,India,2019,2019,official,485,Azamgarh,GEN,Uttar Pradesh,1021857,SP,Akhilesh Yadav,621578,BJP,Dinesh Lal Yadav Nirahua,361704,259874,25.43
+ls-2019,LS,India,2019,2019,official,486,Ghosi,GEN,Uttar Pradesh,1134090,BSP,Atul Kumar Singh,573829,BJP,Harinarayan,451261,122568,10.81
+ls-2019,LS,India,2019,2019,official,487,Salempur,GEN,Uttar Pradesh,913267,BJP,Ravinder,467241,BSP,R S Kushwaha,354764,112477,12.32
+ls-2019,LS,India,2019,2019,official,488,Ballia,GEN,Uttar Pradesh,978758,BJP,Virendra Singh,469114,SP,Sanatan Pandey,453595,15519,1.59
+ls-2019,LS,India,2019,2019,official,489,Jaunpur,GEN,Uttar Pradesh,1034762,BSP,Shyam Singh Yadav,521128,BJP,Krishna Pratap Singh K.P,440192,80936,7.82
+ls-2019,LS,India,2019,2019,official,490,Machhlishahr,SC,Uttar Pradesh,1016842,BJP,Bholanath (B.P. Saroj),488397,BSP,Tribhuvan Ram (T.Ram),488216,181,0.02
+ls-2019,LS,India,2019,2019,official,491,Ghazipur,GEN,Uttar Pradesh,1096788,BSP,Afzal Ansari,566082,BJP,Manoj Sinha,446690,119392,10.89
+ls-2019,LS,India,2019,2019,official,492,Chandauli,GEN,Uttar Pradesh,1070606,BJP,Dr. Mahendra Nath Pandey,510733,SP,Sanjay Singh Chauhan,496774,13959,1.3
+ls-2019,LS,India,2019,2019,official,493,Varanasi,GEN,Uttar Pradesh,1049771,BJP,Narendra Modi,674664,SP,Shalini Yadav,195159,479505,45.68
+ls-2019,LS,India,2019,2019,official,494,Bhadohi,GEN,Uttar Pradesh,1030303,BJP,Ramesh Chand,510029,BSP,Rangnath Mishra,466414,43615,4.23
+ls-2019,LS,India,2019,2019,official,495,Mirzapur,GEN,Uttar Pradesh,1093612,ADS,Anupriya Patel,591564,SP,Ramcharitra Nishad,359556,232008,21.21
+ls-2019,LS,India,2019,2019,official,496,Robertsganj,SC,Uttar Pradesh,967169,ADS,Pakauri Lal Kol,447914,SP,Bhai Lal,393578,54336,5.62
+ls-2019,LS,India,2019,2019,official,497,Tehri Garhwal,GEN,Uttarakhand,868007,BJP,Mala Rajya Lakshmi Shah,565333,INC,Pritam Singh,264747,300586,34.63
+ls-2019,LS,India,2019,2019,official,498,Garhwal,GEN,Uttarakhand,730508,BJP,Tirath Singh Rawat,506980,INC,Manish Khanduri,204311,302669,41.43
+ls-2019,LS,India,2019,2019,official,499,Almora,SC,Uttarakhand,678967,BJP,Ajay Tamta,444651,INC,Pradeep Tamta,211665,232986,34.31
+ls-2019,LS,India,2019,2019,official,500,Nainital-Udhamsingh Nagar,GEN,Uttarakhand,1247962,BJP,Ajay Bhatt,772195,INC,Harish Rawat,433099,339096,27.17
+ls-2019,LS,India,2019,2019,official,501,Haridwar,GEN,Uttarakhand,1264749,BJP,Ramesh Pokhriyal Nishank,665674,INC,Ambrish Kumar,406945,258729,20.46
+ls-2019,LS,India,2019,2019,official,502,Cooch Behar,SC,West Bengal,1510193,BJP,Nisith Pramanik,731594,AITC,Adhikary Paresh Chandra,677363,54231,3.59
+ls-2019,LS,India,2019,2019,official,503,Alipurduars,ST,West Bengal,1359042,BJP,John Barla,750804,AITC,Dasrath Tirkey,506815,243989,17.95
+ls-2019,LS,India,2019,2019,official,504,Jalpaiguri,SC,West Bengal,1476410,BJP,Dr. Jayanta Kumar Roy,760145,AITC,Bijoy Chandra Barman,576141,184004,12.46
+ls-2019,LS,India,2019,2019,official,505,Darjeeling,GEN,West Bengal,1252154,BJP,Raju Bista,750067,AITC,Amar Singh Rai,336624,413443,33.02
+ls-2019,LS,India,2019,2019,official,506,Raiganj,GEN,West Bengal,1260401,BJP,Debasree Chaudhuri,511652,AITC,Agarwal Kanaialal,451078,60574,4.81
+ls-2019,LS,India,2019,2019,official,507,Balurghat,GEN,West Bengal,1184435,BJP,Sukanta Majumdar,539317,AITC,Arpita Ghosh,506024,33293,2.81
+ls-2019,LS,India,2019,2019,official,508,Maldaha Uttar,GEN,West Bengal,1345025,BJP,Khagen Murmu,509524,AITC,Mausam Noor,425236,84288,6.27
+ls-2019,LS,India,2019,2019,official,509,Maldaha Dakshin,GEN,West Bengal,1267140,INC,Abu Hasem Khan Chowdhury (Dalu),444270,BJP,Sreerupa Mitra Chaudhury,436048,8222,0.65
+ls-2019,LS,India,2019,2019,official,510,Jangipur,GEN,West Bengal,1293149,AITC,Khalilur Rahaman,562838,BJP,Mafuja Khatun,317056,245782,19.01
+ls-2019,LS,India,2019,2019,official,511,Baharampur,GEN,West Bengal,1285911,INC,Adhir Ranjan Chowdhury,591106,AITC,Apurba Sarkar (David),510410,80696,6.28
+ls-2019,LS,India,2019,2019,official,512,Murshidabad,GEN,West Bengal,1438730,AITC,Abu Taher Khan,604346,INC,Abu Hena S/O - Late Abdus Sattar,377929,226417,15.74
+ls-2019,LS,India,2019,2019,official,513,Krishnanagar,GEN,West Bengal,1358935,AITC,Mahua Moitra,614872,BJP,Kalyan Chaubey,551654,63218,4.65
+ls-2019,LS,India,2019,2019,official,514,Ranaghat,SC,West Bengal,1474898,BJP,Jagannath Sarkar,783253,AITC,Rupali Biswas,549825,233428,15.83
+ls-2019,LS,India,2019,2019,official,515,Bangaon,GEN,West Bengal,1400228,BJP,Shantanu Thakur,687622,AITC,Mamata Thakur,576028,111594,7.97
+ls-2019,LS,India,2019,2019,official,516,Barrackpur,SC,West Bengal,1091786,BJP,Arjun Singh,472994,AITC,Dinesh Trivedi,458137,14857,1.36
+ls-2019,LS,India,2019,2019,official,517,Dum Dum,GEN,West Bengal,1187849,AITC,Sougata Ray,512062,BJP,Samik Bhattacharya,459060,53002,4.46
+ls-2019,LS,India,2019,2019,official,518,Barasat,GEN,West Bengal,1376997,AITC,Kakoli Ghosh Dastidar,648084,BJP,Mrinal Kanti Debnath,538101,109983,7.99
+ls-2019,LS,India,2019,2019,official,519,Basirhat,GEN,West Bengal,1424233,AITC,Nusrat Jahan Ruhi,782078,BJP,Sayantan Basu,431709,350369,24.6
+ls-2019,LS,India,2019,2019,official,520,Joynagar,SC,West Bengal,1345659,AITC,Pratima Mondal,761202,BJP,Dr. Ashok Kandary,444427,316775,23.54
+ls-2019,LS,India,2019,2019,official,521,Mathurapur,SC,West Bengal,1393549,AITC,Choudhury Mohan Jatua,726828,BJP,Shyamaprasad Halder,522854,203974,14.64
+ls-2019,LS,India,2019,2019,official,522,Diamond Harbour,GEN,West Bengal,1392755,AITC,Abhishek Banerjee,791127,BJP,Nilanjan Roy,470533,320594,23.02
+ls-2019,LS,India,2019,2019,official,523,Jadavpur,GEN,West Bengal,1419748,AITC,Mimi Chakraborty,688472,BJP,Anupam Hazra,393233,295239,20.8
+ls-2019,LS,India,2019,2019,official,524,Kolkata Dakshin,GEN,West Bengal,1191821,AITC,Mala Roy,573119,BJP,Chandra Kumar Bose,417927,155192,13.02
+ls-2019,LS,India,2019,2019,official,525,Kolkata Uttar,GEN,West Bengal,942245,AITC,Bandyopadhyay Sudip,474891,BJP,Rahul (Biswajit) Sinha,347796,127095,13.49
+ls-2019,LS,India,2019,2019,official,526,Howrah,GEN,West Bengal,1215226,AITC,Prasun Banerjee,576711,BJP,Rantidev Sengupta,473016,103695,8.53
+ls-2019,LS,India,2019,2019,official,527,Uluberia,GEN,West Bengal,1299361,AITC,Sajda Ahmed,694945,BJP,Joy Banerjee,479586,215359,16.57
+ls-2019,LS,India,2019,2019,official,528,Srerampur,GEN,West Bengal,1379540,AITC,Kalyan Banerjee,637707,BJP,Debjit Sarkar,539171,98536,7.14
+ls-2019,LS,India,2019,2019,official,529,Hooghly,GEN,West Bengal,1444317,BJP,Locket Chatterjee,671448,AITC,Dr. Ratna De (Nag),598086,73362,5.08
+ls-2019,LS,India,2019,2019,official,530,Arambagh,SC,West Bengal,1451486,AITC,Aparupa Poddar (Afrin Ali),649929,BJP,Tapan Kumar Ray,648787,1142,0.08
+ls-2019,LS,India,2019,2019,official,531,Tamluk,GEN,West Bengal,1434740,AITC,Adhikari Dibyendu,724433,BJP,Sidharthashankar Naskar,534268,190165,13.25
+ls-2019,LS,India,2019,2019,official,532,Kanthi,GEN,West Bengal,1415560,AITC,Adhikari Sisir Kumar,711872,BJP,Dr. Debasish Samanta,600204,111668,7.89
+ls-2019,LS,India,2019,2019,official,533,Ghatal,GEN,West Bengal,1475008,AITC,Adhikari Deepak (Dev),717959,BJP,Bharati Ghosh,609986,107973,7.32
+ls-2019,LS,India,2019,2019,official,534,Jhargram,ST,West Bengal,1380038,BJP,Kunar Hembram,626583,AITC,Birbaha Saren,614816,11767,0.85
+ls-2019,LS,India,2019,2019,official,535,Medinipur,GEN,West Bengal,1395057,BJP,Dilip Ghosh,685433,AITC,Manas Ranjan Bhunia,596481,88952,6.38
+ls-2019,LS,India,2019,2019,official,536,Purulia,GEN,West Bengal,1341462,BJP,Jyotirmay Singh Mahato,668107,AITC,Dr. Mriganka Mahato,463375,204732,15.26
+ls-2019,LS,India,2019,2019,official,537,Bankura,GEN,West Bengal,1353672,BJP,Dr. Subhas Sarkar,675319,AITC,Subrata Mukherjee,500986,174333,12.88
+ls-2019,LS,India,2019,2019,official,538,Bishnupur,SC,West Bengal,1406212,BJP,Khan Saumitra,657019,AITC,Shyamal Santra,578972,78047,5.55
+ls-2019,LS,India,2019,2019,official,539,Bardhaman Purba,SC,West Bengal,1428526,AITC,Sunil Kumar Mondal,640834,BJP,Paresh Chandra Das,551523,89311,6.25
+ls-2019,LS,India,2019,2019,official,540,Bardhaman - Durgapur,GEN,West Bengal,1414467,BJP,S.S Ahluwalia,598376,AITC,Dr. Mamtaz Sanghamita,595937,2439,0.17
+ls-2019,LS,India,2019,2019,official,541,Asansol,GEN,West Bengal,1223688,BJP,Babul Supriyo,633378,AITC,Moon Moon Sen,435741,197637,16.15
+ls-2019,LS,India,2019,2019,official,542,Bolpur,SC,West Bengal,1448991,AITC,Asit Kumar Mal,699171,BJP,Das Ramprasad,592769,106402,7.34
+ls-2019,LS,India,2019,2019,official,543,Birbhum,GEN,West Bengal,1437105,AITC,Satabdi Roy,654077,BJP,Dudh Kumar Mondal,565153,88924,6.19

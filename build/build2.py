@@ -123,7 +123,7 @@ def build_election(kind, state, label, g):
         a = g[g.alliance.notna() & (g.alliance.astype(str) != 'nan')]
         if len(a):
             m = a.groupby('party').alliance.agg(lambda x: x.value_counts().index[0])
-            alliances = {k: norm_alliance(v) for k, v in m.items() if norm_alliance(v)}
+            alliances = {k: norm_alliance(v) for k, v in m.items() if norm_alliance(v) and k not in ('IND', 'OTH', 'NOTA')}
     else:
         alliances = dict(AL.get((state, label), {}))
     return dict(kind=kind, state=state, year=year, label=label, seats=seats, alliances=alliances, totals=totals)

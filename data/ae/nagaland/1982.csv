@@ -1,0 +1,61 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,1,Dimapur-I,GEN,Dimapur *,10669,INC,Md. Anwar Hussain,4554,NND,Chhlie Kevichhsa,3342,1212,11.36
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,2,Dimapur-Ii,ST,Dimapur *,13250,INC,I. Vikheshe,4854,IND,Lhomithi Sema,2658,2196,16.57
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,3,Dimapur-Iii,ST,Dimapur *,4972,INC,Lolit Mech,2994,NND,Dabalal Mech,991,2003,40.29
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,4,Ghaspani-I,ST,Dimapur *,13488,INC,Shikiho Sema,3665,IND,L. Hekiye Yeptho,2681,984,7.3
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,5,Ghaspani-Ii,ST,Dimapur *,9059,NND,Rokonicha,3590,INC,Langkam,3522,68,0.75
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,6,Tenning,ST,Kohima,7833,IND,Henlun L. Singsen,2222,NND,C. R. Zeliang,1552,670,8.55
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,7,Peren,ST,Kohima,7556,NND,L. Lungalang,3954,INC,Longbe Neru,2468,1486,19.67
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,8,Western Angami,ST,Kohima,6578,NND,Setu Lietise,1780,IND,N. T. Nakhro,1099,681,10.35
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,9,Kohima Town,ST,Kohima,6350,NND,J. B. Jasokio,3574,INC,Khyomo,2776,798,12.57
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,10,Northern Angami - I,ST,Kohima,6681,NND,Shorhozelic,2189,IND,P. Vikuolie,1405,784,11.73
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,11,Northern Angami -Ii,ST,Kohima,8401,NND,Chupfuo,2620,IND,K. V. Kuditsw,2476,144,1.71
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,12,Tseminyu,ST,Kohima,7856,NND,R. S. Ranghma,2104,IND,Nillo,2039,65,0.83
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,13,Pughoboto,ST,Kohima,7135,IND,Huska,3728,INC,Zhutovi,2387,1341,18.79
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,14,Southern Angami-I,ST,Kohima,4898,IND,Puse,2338,NND,Vistonei K. Angami,1913,425,8.68
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,15,Southern Angami-Ii,ST,Kohima,5451,IND,Vizadel,1635,NND,Pusazo,1244,391,7.17
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,16,Pfutsero,ST,Phek,5778,NND,Thinuco,2310,INC,Lhiweshelo,1933,377,6.52
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,17,Chizami,ST,Phek,6614,IND,Zhevehu,1892,NND,Soyio,1782,110,1.66
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,18,Chazouba,ST,Phek,8489,NND,Vamuzo,4494,INC,Notsutso,3995,499,5.88
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,19,Phek,ST,Phek,6917,NND,Vejayi,2485,IND,Zacbilhu,2204,281,4.06
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,20,Meluri,ST,Phek,6275,NND,Chiekhutso,3373,INC,M. Asang Smock,2902,471,7.51
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,21,Tuli,ST,Mokokchung,8013,INC,I. Merachiba,2969,NND,T. Tali,2545,424,5.29
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,22,Arkakong,ST,Mokokchung,8038,IND,Marchiba,2480,INC,R. C. Chitten Jamir,2361,119,1.48
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,23,Impur,ST,Mokokchung,9997,INC,Kariba,3944,NND,T. Chuba,3872,72,0.72
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,24,Angetyongpang,ST,Mokokchung,6670,NND,Sentichuba Ao,2957,IND,Akumbenba,2568,389,5.83
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,25,Monguya,ST,Mokokchung,5908,INC,N. I. Jamir,3289,NND,Sentiyangba,2597,692,11.71
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,26,Aonglenden,ST,Mokokchung,5520,INC,S. C. Jamir,3212,NND,Kilangmeren,2308,904,16.38
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,27,Mokokchung Town,ST,Mokokchung,1578,NND,Takuyaba,535,IND,I. Chuba,453,82,5.2
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,28,Koridang,ST,Mokokchung,7919,IND,Nokzenketba,2025,NND,Dalle Nomo,1955,70,0.88
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,29,Jangpetkong,ST,Mokokchung,6601,INC,I. Imkong,3320,NND,Imchalemba,3281,39,0.59
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,30,Alungtaki,ST,Mokokchung,5573,IND,Tiamaran,1769,INC,Bandangtoshi,1697,72,1.29
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,31,Akuluto,ST,Zunheboto,5112,INC,Khehoto,1861,IND,I. Vitokhe,1155,706,13.81
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,32,Atoizu,ST,Zunheboto,6764,INC,Kiyezhe Chichi,1852,NND,Khotoheo,1772,80,1.18
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,33,Suruhuto,ST,Zunheboto,7070,IND,Kiyozhe,1608,INC,Khukivi,1299,309,4.37
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,34,Aghunato,ST,Zunheboto,5745,INC,Kineto Hollehon,1980,IND,Akato,1343,637,11.09
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,35,Zunheboto,ST,Zunheboto,5966,INC,Chutoshe,1757,IND,Vihoto,1375,382,6.4
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,36,Satakha,ST,Zunheboto,7372,NND,Hokheto,2324,INC,Kaito,2028,296,4.02
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,37,Tyui,ST,Wokha,7855,INC,T. A. Noullio,3437,NND,N. L. Odyuo,3029,408,5.19
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,38,Wokha,ST,Wokha,7918,NND,Mhao Lotha,2693,INC,Rainbow Ezung,2575,118,1.49
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,39,Sanis,ST,Wokha,7871,IND,T. N. Ngullio,3680,NND,Mhonohan Murry,2265,1415,17.98
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,40,Bhandari,ST,Wokha,8096,INC,E. Thungohamo Ezung,3311,NND,Tsenlamo Kikon,3216,95,1.17
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,41,Tizit,ST,Mon,5711,INC,N. Yeangphong Konyak,2334,NND,P. K. Along,1654,680,11.91
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,42,Wakching,ST,Mon,7155,INC,P. Ehyol,3123,NND,A. Shangkem Konyak,2146,977,13.65
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,43,Tapi,ST,Mon,6578,NND,Noke,3074,INC,Benja,1795,1279,19.44
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,44,Phomching,ST,Mon,6179,NND,Pohwang,3231,INC,Konngam,2948,283,4.58
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,45,Tehok,ST,Mon,7415,INC,C. Nocklem Konyak,3827,NND,T. P. Manlen Konyak,3588,239,3.22
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,46,Mon Town,ST,Mon,6567,IND,Yoktin Konyak,1981,INC,Hoka,1421,560,8.53
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,47,Aboi,ST,Mon,5429,IND,Eyong Konyak,2171,NND,Khampeikkonyak,1044,1127,20.76
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,48,Moka,ST,Mon,6734,NND,A. Niamnyei Konyak,2724,IND,Kiko Konyak,1913,811,12.04
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,49,Tamlu,ST,Tuensang,10446,INC,Bangjak,4618,IND,N. Wokshing Phom,3825,793,7.59
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,50,Longleng,ST,Tuensang,11797,NND,Chenlom,4462,IND,Chingko,2672,1790,15.17
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,51,Noksen,ST,Tuensang,5132,INC,C. Chingshem,2569,IND,I. L. Ghingmak,1295,1274,24.82
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,52,Longkhim Chare,ST,Tuensang,9894,NND,Horangse Sangtam,3215,INC,T. Subengse Sangtam,3082,133,1.34
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,53,Tuensang Sadar-I,ST,Tuensang,5855,INC,H. Saochung,3190,NND,Chiten Sangtam,2665,525,8.97
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,54,Tuensang Sadar-Ii,ST,Tuensang,6681,INC,A. Lakimong Yimchunger,1866,IND,Yanchu Chang,1483,383,5.73
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,55,Tobu,ST,Tuensang,8068,INC,Shialpong Konyak,3325,NND,Sopen Konyak,2871,454,5.63
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,56,Noklak,ST,Tuensang,6853,NND,Thangpong,1662,INC,John,1328,334,4.87
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,57,Thonoknyu,ST,Tuensang,7899,NND,P. Pongon,2280,IND,Khuno Khiamniongan,1725,555,7.03
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,58,Shamtorr-Chessore,ST,Tuensang,7243,NND,K. Zungkum,3255,INC,Yamakan Kichan,2524,731,10.09
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,59,Siyuchong-Sitimi,ST,Tuensang,8116,NND,Yopikyu Thongtsar,3290,INC,L. Kichingso,2673,617,7.6
+ae-nagaland-1982,AE,Nagaland,1982,1982,official,60,Pungro-Kiphire,ST,Tuensang,8117,INC,T. Rothrong,2770,IND,Torchu Yimchunger,2531,239,2.94

@@ -1,0 +1,319 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-bihar-1967,AE,Bihar,1967,1967,official,1,Dhanaha,GEN,,27433,PSP,Y. Prasad,18173,INC,R. Prasad,4101,14072,51.3
+ae-bihar-1967,AE,Bihar,1967,1967,official,2,Bagaha,SC,,26891,INC,N.S. Baitha,14723,PSP,K. Harijan,5241,9482,35.26
+ae-bihar-1967,AE,Bihar,1967,1967,official,3,Ramnagar,GEN,,36091,INC,N.V. Shab,16116,IND,J. Pandey,6647,9469,26.24
+ae-bihar-1967,AE,Bihar,1967,1967,official,4,Shikarpur,SC,,20740,PSP,B.Ram,11206,INC,D.N. Chandra,5538,5668,27.33
+ae-bihar-1967,AE,Bihar,1967,1967,official,5,Sikta,GEN,,40046,CPI(M),U.S. Shukla,19996,INC,R. Azam,17515,2481,6.2
+ae-bihar-1967,AE,Bihar,1967,1967,official,6,Lauria,GEN,,36191,IND,S. Shahi,17040,INC,S.N. Prasad,7302,9738,26.91
+ae-bihar-1967,AE,Bihar,1967,1967,official,7,Chanapatia,GEN,,29633,INC,P.K. Mishra,7962,SSP,V. Singh,6253,1709,5.77
+ae-bihar-1967,AE,Bihar,1967,1967,official,8,Bettiah,GEN,,44454,IND,H.P. Shahi,18081,INC,S.P. Verma,10784,7297,16.41
+ae-bihar-1967,AE,Bihar,1967,1967,official,9,Nautan,GEN,,31059,INC,K. Pandey,16376,CPI,K.M. Shukla,6084,10292,33.14
+ae-bihar-1967,AE,Bihar,1967,1967,official,10,Raxaul,GEN,,42100,SSP,V. Sinha,17356,INC,R. Pandey,11867,5489,13.04
+ae-bihar-1967,AE,Bihar,1967,1967,official,11,Sugauli,GEN,,35246,BJS,M.L. Modi,12656,SSP,A. Hapgue,9491,3165,8.98
+ae-bihar-1967,AE,Bihar,1967,1967,official,12,Motihari,GEN,,34338,BJS,C.P. Yadav,18838,INC,S. Devi,6531,12307,35.84
+ae-bihar-1967,AE,Bihar,1967,1967,official,13,Adapur,GEN,,46413,IND,A. Karim,12210,INC,S.P. Rai,7638,4572,9.85
+ae-bihar-1967,AE,Bihar,1967,1967,official,14,Ghorasahan,GEN,,39987,PSP,R.A. Prasad,23137,INC,R.P. Sinha,14068,9069,22.68
+ae-bihar-1967,AE,Bihar,1967,1967,official,15,Dhaka,GEN,,41276,PSP,S.N. Sharma,17747,INC,I. Wahshi,12707,5040,12.21
+ae-bihar-1967,AE,Bihar,1967,1967,official,16,Patabi,GEN,,44169,PSP,R. Sinha,21229,IND,N. Sinha,14357,6872,15.56
+ae-bihar-1967,AE,Bihar,1967,1967,official,17,Madhuban,GEN,,39546,CPI,M. Bharati,30344,INC,M.P. Yadav,6495,23849,60.31
+ae-bihar-1967,AE,Bihar,1967,1967,official,18,Kesaria,GEN,,38644,CPI,P. Sinha,15933,INC,M. Prasad,13544,2389,6.18
+ae-bihar-1967,AE,Bihar,1967,1967,official,19,Pipra,SC,,18696,INC,B. Ram,7960,CPI,T. Ram,7652,308,1.65
+ae-bihar-1967,AE,Bihar,1967,1967,official,20,Harsidhi,GEN,,29412,CPI,S.M. Abdulla,16302,INC,N.D. Pathak,9342,6960,23.66
+ae-bihar-1967,AE,Bihar,1967,1967,official,21,Gobindganj,GEN,,31389,INC,D.N.M. Tripathi,10243,BJS,G.S. Pandey,9660,583,1.86
+ae-bihar-1967,AE,Bihar,1967,1967,official,22,Gopalganj,GEN,,42160,SSP,H. Sinha,26522,INC,A. Ghafoor,10452,16070,38.12
+ae-bihar-1967,AE,Bihar,1967,1967,official,23,Kuchaikot,GEN,,50120,IND,N. Rai,36352,INC,S.K. Pathak,7435,28917,57.7
+ae-bihar-1967,AE,Bihar,1967,1967,official,24,Kateya,SC,,28887,INC,B. Mahara,14956,IND,A. Chamar,6213,8743,30.27
+ae-bihar-1967,AE,Bihar,1967,1967,official,25,Bhore,GEN,,47650,INC,R.M. Misser,20915,IND,B.P. Shahi,10298,10617,22.28
+ae-bihar-1967,AE,Bihar,1967,1967,official,26,Mirganj,GEN,,34994,SSP,S.B. Saran,11925,INC,P.N. Tiwari,10839,1086,3.1
+ae-bihar-1967,AE,Bihar,1967,1967,official,27,Siwan,GEN,,46791,INC,R. Chowdhry,17312,BJS,J.Tiwari,16750,562,1.2
+ae-bihar-1967,AE,Bihar,1967,1967,official,28,Ziradei,GEN,,40661,INC,Z. Hussain,24665,JKD,H. Singh,10092,14573,35.84
+ae-bihar-1967,AE,Bihar,1967,1967,official,29,Mairwa,SC,,25545,CPI(M),G. Ram,8763,INC,R.B. Ram,6883,1880,7.36
+ae-bihar-1967,AE,Bihar,1967,1967,official,30,Darauli,GEN,,37407,BJS,K.P. Singh,13206,INC,R. Shukla,11067,2139,5.72
+ae-bihar-1967,AE,Bihar,1967,1967,official,31,Raghunathpur,GEN,,43972,SSP,R. Singh,21937,INC,R. Yadav,16672,5265,11.97
+ae-bihar-1967,AE,Bihar,1967,1967,official,32,Maharajganj,GEN,,45803,PSP,K.P. Shahi,16501,INC,U. Prasad,16475,26,0.06
+ae-bihar-1967,AE,Bihar,1967,1967,official,33,Barharia,GEN,,39893,CPI,A. Jalil,16299,INC,R.R. Singh,10478,5821,14.59
+ae-bihar-1967,AE,Bihar,1967,1967,official,34,Goreakothi,GEN,,55090,INC,K.K. Singh,32652,SSP,R.K. Bhagta,11271,21381,38.81
+ae-bihar-1967,AE,Bihar,1967,1967,official,35,Baikunthpur,GEN,,46350,SSP,S. Singh,19946,INC,S. Trevdi,11038,8908,19.22
+ae-bihar-1967,AE,Bihar,1967,1967,official,36,Barauli,GEN,,34625,IND,B. Rai,13609,CPI,B. Singh,11985,1624,4.69
+ae-bihar-1967,AE,Bihar,1967,1967,official,37,Manjhi,GEN,,52591,SSP,R.B. Singh,26190,INC,G. Tiwary,17227,8963,17.04
+ae-bihar-1967,AE,Bihar,1967,1967,official,38,Baniapur,GEN,,41424,INC,U. Pandey,19430,SSP,R. Mishra,12416,7014,16.93
+ae-bihar-1967,AE,Bihar,1967,1967,official,39,Masrakh,GEN,,40443,INC,P.N. Singh,19976,PSP,K.N. Rai,8597,11379,28.14
+ae-bihar-1967,AE,Bihar,1967,1967,official,40,Taraiya,GEN,,30793,SSP,D. Singh,10548,INC,R. Devi,9713,835,2.71
+ae-bihar-1967,AE,Bihar,1967,1967,official,41,Marhaura,GEN,,40150,SSP,D. Laljee,17319,INC,S. Singh,11446,5873,14.63
+ae-bihar-1967,AE,Bihar,1967,1967,official,42,Jalalpur,GEN,,50494,IND,K.N. Singh,25368,INC,S.N. Singh,21376,3992,7.91
+ae-bihar-1967,AE,Bihar,1967,1967,official,43,Chapra,GEN,,49704,BJS,U.P. N. Singh,16429,PSP,J. Yadav,10493,5936,11.94
+ae-bihar-1967,AE,Bihar,1967,1967,official,44,Garkha,SC,,30938,IND,V. Bhagat,12651,INC,J. Chaudhary,11742,909,2.94
+ae-bihar-1967,AE,Bihar,1967,1967,official,45,Parsa,GEN,,48334,INC,D.P. Roy,25579,SSP,Y. Prasad,20006,5573,11.53
+ae-bihar-1967,AE,Bihar,1967,1967,official,46,Sonepur,GEN,,58456,INC,R.J.S. Yadav,26636,BJS,B.B. Roy,14815,11821,20.22
+ae-bihar-1967,AE,Bihar,1967,1967,official,47,Hajipur,GEN,,69658,CPI,K.P. Singh,26620,SSP,M.S. Kaman,19233,7387,10.6
+ae-bihar-1967,AE,Bihar,1967,1967,official,48,Raghopur,GEN,,56017,BJS,H.N. Singh,23145,INC,R.B. Rai,20043,3102,5.54
+ae-bihar-1967,AE,Bihar,1967,1967,official,49,Mahnar,GEN,,62482,INC,B.K. Rai,27902,JKD,J. Jha,19657,8245,13.2
+ae-bihar-1967,AE,Bihar,1967,1967,official,50,Jandaha,GEN,,59793,INC,B. Chaudhary,22113,SSP,T.D. Mehta,19592,2521,4.22
+ae-bihar-1967,AE,Bihar,1967,1967,official,51,Patepur,SC,,36982,SSP,P. Ram,17625,INC,M. Devi,8838,8787,23.76
+ae-bihar-1967,AE,Bihar,1967,1967,official,52,Goraul,GEN,,52990,INC,S. Patel,20223,SSP,B. Sharma,14114,6109,11.53
+ae-bihar-1967,AE,Bihar,1967,1967,official,53,Vaishali,GEN,,59291,INC,L.P. Shahi,34803,JKD,B. Prasad,18020,16783,28.31
+ae-bihar-1967,AE,Bihar,1967,1967,official,54,Lalganj,GEN,,57070,INC,D. Singh,30749,SSP,B.P. Yadav,20004,10745,18.83
+ae-bihar-1967,AE,Bihar,1967,1967,official,55,Paru,GEN,,59331,SSP,S.S. Singh,34406,INC,B.N.P. Singh,21661,12745,21.48
+ae-bihar-1967,AE,Bihar,1967,1967,official,56,Sahebganj,GEN,,55631,INC,N.K. Sinha,30555,SSP,S.K.P. Singh,14182,16373,29.43
+ae-bihar-1967,AE,Bihar,1967,1967,official,57,Baruraj,GEN,,53046,IND,S. Giri,26370,INC,R.P. Sahi,24351,2019,3.81
+ae-bihar-1967,AE,Bihar,1967,1967,official,58,Kanti,GEN,,53497,INC,M.P. Sinha,37693,SSP,Y.P. Sharma,6659,31034,58.01
+ae-bihar-1967,AE,Bihar,1967,1967,official,59,Kurhani,GEN,,54843,INC,K.N. Sahaya,21251,PSP,S.S. Sahi,18087,3164,5.77
+ae-bihar-1967,AE,Bihar,1967,1967,official,60,Sakra,SC,,50044,SSP,N. Mahto,19054,INC,C. Ram,14657,4397,8.79
+ae-bihar-1967,AE,Bihar,1967,1967,official,61,Muzaffarpur,GEN,,45640,INC,M.L. Gupta,15893,CPI,R. Sharma,14276,1617,3.54
+ae-bihar-1967,AE,Bihar,1967,1967,official,62,Bochaha,SC,,38956,SSP,S.R. Razak,18049,INC,C.L. Chaudhary,11927,6122,15.72
+ae-bihar-1967,AE,Bihar,1967,1967,official,63,Gaighatti,GEN,,58771,INC,N.P. Sinha,27116,IND,J.P. Singh,23557,3559,6.06
+ae-bihar-1967,AE,Bihar,1967,1967,official,64,Aurai,GEN,,58255,INC,C.M.P. Singh,21214,SSP,P. Rai,17178,4036,6.93
+ae-bihar-1967,AE,Bihar,1967,1967,official,65,Minapur,GEN,,64029,SSP,M.R.K. Dass,28950,INC,J. Singh,28555,395,0.62
+ae-bihar-1967,AE,Bihar,1967,1967,official,66,Runisaidpur,GEN,,59669,INC,V. Giri,24313,SSP,R.S. Singh,22911,1402,2.35
+ae-bihar-1967,AE,Bihar,1967,1967,official,67,Sitamarhi,GEN,,56069,INC,K. Sahi,19203,IND,M.P. Singh,13141,6062,10.81
+ae-bihar-1967,AE,Bihar,1967,1967,official,68,Bathnaha,GEN,,70967,SSP,M.P. Sharma,32505,INC,G. Devi,18306,14199,20.01
+ae-bihar-1967,AE,Bihar,1967,1967,official,69,Belsand,GEN,,50284,INC,C.P. Singh,27550,IND,R. Singh,13691,13859,27.56
+ae-bihar-1967,AE,Bihar,1967,1967,official,70,Shedhar,GEN,,49301,IND,T.G.H. Singh,17644,INC,T.C. Singh,15803,1841,3.73
+ae-bihar-1967,AE,Bihar,1967,1967,official,71,Majorganj,SC,,57291,SSP,R. Ram,34174,INC,R. Ram,13908,20266,35.37
+ae-bihar-1967,AE,Bihar,1967,1967,official,72,Sonabarsa,GEN,,70358,IND,R.N. Rai,29709,INC,S. Mahto,11723,17986,25.56
+ae-bihar-1967,AE,Bihar,1967,1967,official,73,Sursand,GEN,,57713,INC,P. Devi,34307,IND,K.P. Tewari,18658,15649,27.12
+ae-bihar-1967,AE,Bihar,1967,1967,official,74,Pupri,GEN,,53700,INC,N.H. Khan,23552,BJS,R.L. Chaudhary,15708,7844,14.61
+ae-bihar-1967,AE,Bihar,1967,1967,official,75,Benipatti,GEN,,48984,CPI,T.N. Jha,17172,IND,B. Jha,14159,3013,6.15
+ae-bihar-1967,AE,Bihar,1967,1967,official,76,Bisfi,GEN,,55733,CPI,R.K. Purbey,22514,IND,A. Nooruddin,12476,10038,18.01
+ae-bihar-1967,AE,Bihar,1967,1967,official,77,Harlakhi,GEN,,45246,CPI,B. Yadava,19281,INC,D.N. Yadava,12187,7094,15.68
+ae-bihar-1967,AE,Bihar,1967,1967,official,78,Khajauli,GEN,,50371,PSP,N.S. Azad,19586,INC,S. Ahmad,15200,4386,8.71
+ae-bihar-1967,AE,Bihar,1967,1967,official,79,Jainagar,SC,,38719,INC,R. Paswan,17668,CPI,S. Paswan,11321,6347,16.39
+ae-bihar-1967,AE,Bihar,1967,1967,official,80,Madhubani,GEN,,49572,INC,S. Ansari,13941,PSP,S.N. Singh,13368,573,1.16
+ae-bihar-1967,AE,Bihar,1967,1967,official,81,Jhanjharpur,GEN,,48704,INC,H. Mishra,19923,SSP,R. Chaudhury,17232,2691,5.53
+ae-bihar-1967,AE,Bihar,1967,1967,official,82,Rajnagar,SC,,42275,INC,R. Mahto,17016,PSP,S.R. Mahto,9736,7280,17.22
+ae-bihar-1967,AE,Bihar,1967,1967,official,83,Phulparas,GEN,,58089,SSP,D.L. Mandal,32678,INC,R.L. Yadav,17294,15384,26.48
+ae-bihar-1967,AE,Bihar,1967,1967,official,84,Laukaha,GEN,,47399,INC,S. Sahu,13024,SSP,K.N. Yadav,8893,4131,8.72
+ae-bihar-1967,AE,Bihar,1967,1967,official,85,Madhepur,GEN,,60006,SSP,B.P. Mahto,24357,IND,J.N. Sinch,13061,11296,18.82
+ae-bihar-1967,AE,Bihar,1967,1967,official,86,Biraul,GEN,,51028,SSP,M. Prasad,21096,INC,H.C. Jha,17162,3934,7.71
+ae-bihar-1967,AE,Bihar,1967,1967,official,87,Baheri,GEN,,59327,SSP,B.N. Singh,19712,SWA,T.N. Yadav,13438,6274,10.58
+ae-bihar-1967,AE,Bihar,1967,1967,official,88,Manigachhi,GEN,,56013,INC,N. Jha,15817,PSP,U.N. Sinha,10847,4970,8.87
+ae-bihar-1967,AE,Bihar,1967,1967,official,89,Benipur,GEN,,57115,INC,B.N. Jha,37232,SSP,G.P. Yadav,14817,22415,39.25
+ae-bihar-1967,AE,Bihar,1967,1967,official,90,Darbhanga,GEN,,54919,INC,R.P. Sinha,19325,CPI,R.B. Jalan,18256,1069,1.95
+ae-bihar-1967,AE,Bihar,1967,1967,official,91,Keotiranway,GEN,,57283,SSP,H.N. Yadav,17131,INC,R.P. Roy,16853,278,0.49
+ae-bihar-1967,AE,Bihar,1967,1967,official,92,Jale,GEN,,58645,CPI,K. Hussain,19437,INC,E.N. Choudhary,13760,5677,9.68
+ae-bihar-1967,AE,Bihar,1967,1967,official,93,Hayaghat,SC,,45983,INC,B. Ram,24323,SSP,J. Paswan,13967,10356,22.52
+ae-bihar-1967,AE,Bihar,1967,1967,official,94,Kalyanpur,GEN,,50288,SSP,B.N. Singh,23050,INC,J.R. Singh,18318,4732,9.41
+ae-bihar-1967,AE,Bihar,1967,1967,official,95,Warisnagar,SC,,42800,SSP,R. Hazari,19349,INC,B.L. Mahto,17014,2335,5.46
+ae-bihar-1967,AE,Bihar,1967,1967,official,96,Samastipur,GEN,,47119,SSP,R.N. Sharma,20976,INC,S. Mahto,17038,3938,8.36
+ae-bihar-1967,AE,Bihar,1967,1967,official,97,Tajpur,GEN,,48412,SSP,K. Thakur,28023,INC,B.N. Singh,11561,16462,34.0
+ae-bihar-1967,AE,Bihar,1967,1967,official,98,Mohiuddin Nagar,GEN,,49192,SSP,P.L. Roy,14564,INC,S. Devi,12079,2485,5.05
+ae-bihar-1967,AE,Bihar,1967,1967,official,99,Balsinghsarai,GEN,,38307,SWA,Y.K. Chaudhary,16292,INC,A.B. Nazari,7398,8894,23.22
+ae-bihar-1967,AE,Bihar,1967,1967,official,100,Sarairanjan,GEN,,42904,SSP,R. Mishra,17150,PSP,S.L. Mahto,9443,7707,17.96
+ae-bihar-1967,AE,Bihar,1967,1967,official,101,Bibhutpur,GEN,,50767,CPI,P.S. Madan,17120,SSP,G.P. Shrivastava,14813,2307,4.54
+ae-bihar-1967,AE,Bihar,1967,1967,official,102,Rosera,GEN,,55978,SSP,R.K. Jha,23082,INC,P. Mandir,17987,5095,9.1
+ae-bihar-1967,AE,Bihar,1967,1967,official,103,Hasanpur,GEN,,46735,SSP,G.P. Himanshu,27297,INC,M. Rout,12033,15264,32.66
+ae-bihar-1967,AE,Bihar,1967,1967,official,104,Singhia,SC,,30241,INC,S. Kumari,8852,PSP,L. Paswan,8630,222,0.73
+ae-bihar-1967,AE,Bihar,1967,1967,official,105,Raghopur,GEN,,43315,SSP,A. Goit,21967,INC,B.P. Mehta,17918,4049,9.35
+ae-bihar-1967,AE,Bihar,1967,1967,official,106,Kishanpur,GEN,,54103,SSP,B.P. Yadav,27033,INC,R. Mishra,22680,4353,8.05
+ae-bihar-1967,AE,Bihar,1967,1967,official,107,Supaul,GEN,,39868,INC,U. Singh,14465,SSP,C.S. Mandal,11531,2934,7.36
+ae-bihar-1967,AE,Bihar,1967,1967,official,108,Tribeniganj,GEN,,44166,SSP,A. Yadav,23808,INC,L. Mandal,16219,7589,17.18
+ae-bihar-1967,AE,Bihar,1967,1967,official,109,Chhatarpur,SC,,26557,SSP,K.L. Sardar,12864,INC,H.L. Sardar,9078,3786,14.26
+ae-bihar-1967,AE,Bihar,1967,1967,official,110,Kumarkhand,GEN,,42183,SSP,J. Singh,16222,INC,R.K. Yadav,12392,3830,9.08
+ae-bihar-1967,AE,Bihar,1967,1967,official,111,Simri-Bakhtiarpur,GEN,,62281,INC,C.M. Salahuddin,32975,SSP,R. Prasad,23978,8997,14.45
+ae-bihar-1967,AE,Bihar,1967,1967,official,112,Mahishi,GEN,,52426,SSP,P. Kumar,19335,INC,K. Mahton,10994,8341,15.91
+ae-bihar-1967,AE,Bihar,1967,1967,official,113,Saharsa,GEN,,53294,INC,R. Jha,23472,BJS,C. Jha,19272,4200,7.88
+ae-bihar-1967,AE,Bihar,1967,1967,official,114,Sonabarsa,SC,,43615,INC,Y. Devi,15621,JKD,J. Hazra,14703,918,2.1
+ae-bihar-1967,AE,Bihar,1967,1967,official,115,Madhipura,GEN,,46516,SSP,M.P. Yadav,27251,INC,R.N. Prasad,12498,14753,31.72
+ae-bihar-1967,AE,Bihar,1967,1967,official,116,Murliganj,GEN,,44367,PSP,S.N. Jha,11179,SSP,R. Yadav,10482,697,1.57
+ae-bihar-1967,AE,Bihar,1967,1967,official,117,Alamnagar,GEN,,53781,INC,V. Kavi,23336,CPI,R.P. Singh,14727,8609,16.01
+ae-bihar-1967,AE,Bihar,1967,1967,official,118,Rupauli,GEN,,41224,CPI,C.N. Sharma,11227,INC,B.B. Singh,5164,6063,14.71
+ae-bihar-1967,AE,Bihar,1967,1967,official,119,Dhamdaha,GEN,,45872,INC,L.N. Sudhansu,19672,SSP,S.N.S. Yadav,17871,1801,3.93
+ae-bihar-1967,AE,Bihar,1967,1967,official,120,Banmankhi,SC,,30753,INC,B. Saraf,12738,BJS,L. Paswan,6502,6236,20.28
+ae-bihar-1967,AE,Bihar,1967,1967,official,121,Kasba,GEN,,36366,INC,R. N. Mandal,10788,BJS,H. C. Mukherjee,6879,3909,10.75
+ae-bihar-1967,AE,Bihar,1967,1967,official,122,Raniganj,SC,,35077,INC,D.L. Baitha,18274,PSP,B. Paaswan,10473,7801,22.24
+ae-bihar-1967,AE,Bihar,1967,1967,official,123,Narpatganj,GEN,,43871,INC,S.N. Yadava,18926,IND,B. Jha,8168,10758,24.52
+ae-bihar-1967,AE,Bihar,1967,1967,official,124,Forbesganj,GEN,,49927,INC,S. Mishra,23350,BJS,D.S. Prasad,8739,14611,29.26
+ae-bihar-1967,AE,Bihar,1967,1967,official,125,Araria,GEN,,43648,INC,S.P. Gupta,15151,BJS,J. Jha,9591,5560,12.74
+ae-bihar-1967,AE,Bihar,1967,1967,official,126,Palasi,GEN,,42656,IND,M.Azimuddin,12580,PSP,S.S. Biswas,5392,7188,16.85
+ae-bihar-1967,AE,Bihar,1967,1967,official,127,Bahadurganj,GEN,,23463,PSP,D.N. Jha,9959,INC,R. Alam,7443,2516,10.72
+ae-bihar-1967,AE,Bihar,1967,1967,official,128,Thakurganj,GEN,,24444,INC,M.H. Azad,10810,PSP,Z.A. Jafri,7806,3004,12.29
+ae-bihar-1967,AE,Bihar,1967,1967,official,129,Kishanganj,GEN,,28592,PSP,L.L. Kapoor,16207,IND,K. Rahman,4594,11613,40.62
+ae-bihar-1967,AE,Bihar,1967,1967,official,130,Jokihat,GEN,,36951,PSP,Nazamuddin,11188,IND,W. Rahman,8844,2344,6.34
+ae-bihar-1967,AE,Bihar,1967,1967,official,131,Amaur,GEN,,38025,PSP,H. Rahman,17495,SWA,M. Ismile,7518,9977,26.24
+ae-bihar-1967,AE,Bihar,1967,1967,official,132,Purnea,GEN,,42698,INC,K.N. Sinha,14754,IND,M. Saifuddin,10756,3998,9.36
+ae-bihar-1967,AE,Bihar,1967,1967,official,133,Katihar,GEN,,48568,BJS,J. Adhikari,15535,PSP,M.J. Haque,7815,7720,15.9
+ae-bihar-1967,AE,Bihar,1967,1967,official,134,Barsoi,GEN,,30534,IND,S.L. Jain,9362,INC,M. Mokhtear,9255,107,0.35
+ae-bihar-1967,AE,Bihar,1967,1967,official,135,Azamnagar,GEN,,33773,INC,A. Zafar,12727,PSP,K.N. Palit,9688,3039,9.0
+ae-bihar-1967,AE,Bihar,1967,1967,official,136,Korha,SC,,33471,INC,B.P. Shastri,16247,SSP,H. Paswan,4205,12042,35.98
+ae-bihar-1967,AE,Bihar,1967,1967,official,137,Barari,GEN,,34511,INC,B.P. Singh,7883,PSP,G. Yadav,7019,864,2.5
+ae-bihar-1967,AE,Bihar,1967,1967,official,138,Manihari,GEN,,36904,PSP,Yuvraj,18530,INC,R.C. Mandal,10373,8157,22.1
+ae-bihar-1967,AE,Bihar,1967,1967,official,139,Rajmahal,GEN,,41167,SWA,N. Dokanie,19478,INC,H.A. Haque,12521,6957,16.9
+ae-bihar-1967,AE,Bihar,1967,1967,official,140,Borio,ST,,19693,SWA,J. Kisku,6100,INC,S. Hambrom,5511,589,2.99
+ae-bihar-1967,AE,Bihar,1967,1967,official,141,Barhait,GEN,,20095,IND,M. Soren,10521,INC,B.L. Tudu,4079,6442,32.06
+ae-bihar-1967,AE,Bihar,1967,1967,official,142,Litipara,ST,,18031,IND,B. Murmu,6113,BJS,S. Baski,4338,1775,9.84
+ae-bihar-1967,AE,Bihar,1967,1967,official,143,Pakaur,GEN,,27212,BJS,B.N. Jha,8924,IND,J. Devi,6703,2221,8.16
+ae-bihar-1967,AE,Bihar,1967,1967,official,144,Maheshpur,ST,,20616,IND,P. Hasdak,9126,SWA,J. Murmu,5943,3183,15.44
+ae-bihar-1967,AE,Bihar,1967,1967,official,145,Shikaripara,ST,,23947,INC,B. Hembrom,12172,IND,C. Murmu,8498,3674,15.34
+ae-bihar-1967,AE,Bihar,1967,1967,official,146,Nala,GEN,,26536,CPI,B. Khan,12890,INC,K.C. Sarkar,8424,4466,16.83
+ae-bihar-1967,AE,Bihar,1967,1967,official,147,Jamtara,GEN,,28230,CPI,S. Besra,10536,INC,K.P. Singh,9957,579,2.05
+ae-bihar-1967,AE,Bihar,1967,1967,official,148,Sarath,GEN,,35793,INC,N.K. Singh,13848,PSP,K.P. Singh,9210,4638,12.96
+ae-bihar-1967,AE,Bihar,1967,1967,official,149,Madhupur,GEN,,38821,BJS,A.K. Banerjee,17913,INC,Y. Ansari,12774,5139,13.24
+ae-bihar-1967,AE,Bihar,1967,1967,official,150,Deoghar,SC,,32612,BJS,B. Das,14070,INC,B.N. Das,11858,2212,6.78
+ae-bihar-1967,AE,Bihar,1967,1967,official,151,Jarmundi,GEN,,40397,IND,S. Raut,13383,INC,S. Jha,10871,2512,6.22
+ae-bihar-1967,AE,Bihar,1967,1967,official,152,Dumka,ST,,21293,BJS,G. Marandi,6275,IND,K.R. Tudu,5768,507,2.38
+ae-bihar-1967,AE,Bihar,1967,1967,official,153,Jama,ST,,21683,IND,M. Hasda,9033,BJS,B. Hemrom,8516,517,2.38
+ae-bihar-1967,AE,Bihar,1967,1967,official,154,Poraiyahat,ST,,27217,BJS,M. Murmu,7071,IND,C. Hembrom,6057,1014,3.73
+ae-bihar-1967,AE,Bihar,1967,1967,official,155,Godda,GEN,,45073,INC,D.N. Choudhary,12316,BJS,L. Mahto,7275,5041,11.18
+ae-bihar-1967,AE,Bihar,1967,1967,official,156,Mahagama,GEN,,45415,INC,R. Ram,16749,CPI,S. Ahmad,10630,6119,13.47
+ae-bihar-1967,AE,Bihar,1967,1967,official,157,Pirpainti,GEN,,49869,CPI,A. Prasad,23941,INC,B.N. Ram,21019,2922,5.86
+ae-bihar-1967,AE,Bihar,1967,1967,official,158,Colgong,GEN,,52963,CPI,N.P. Singh,22365,INC,S.M. Ahmad,19244,3121,5.89
+ae-bihar-1967,AE,Bihar,1967,1967,official,159,Nathnagar,GEN,,41410,INC,K. Jha,9455,IND,C.P. Yadav,6781,2674,6.46
+ae-bihar-1967,AE,Bihar,1967,1967,official,160,Bhagalpur,GEN,,37706,BJS,B.K. Mitra,16098,JKD,A. Hamid,9787,6311,16.74
+ae-bihar-1967,AE,Bihar,1967,1967,official,161,Gopalpur,GEN,,49293,CPI,M. Singh,17477,INC,M. Singh,15285,2192,4.45
+ae-bihar-1967,AE,Bihar,1967,1967,official,162,Bihpur,GEN,,55074,BJS,G.P. Yadav,23354,CPI,P.N. Roy,19621,3733,6.78
+ae-bihar-1967,AE,Bihar,1967,1967,official,163,Sultanganj,GEN,,59162,PSP,B.P. Sharma,22179,CPI,B. Mandal,13945,8234,13.92
+ae-bihar-1967,AE,Bihar,1967,1967,official,164,Amarpur,GEN,,52391,SSP,S.N. Singh,16868,BJS,J.P. Yadav,15623,1245,2.38
+ae-bihar-1967,AE,Bihar,1967,1967,official,165,Dhuraiya,SC,,41200,INC,S. Mandal,13360,CPI,N. Rabidas,11362,1998,4.85
+ae-bihar-1967,AE,Bihar,1967,1967,official,166,Banka,GEN,,40748,BJS,B.L. Mandal,18312,INC,B.B. Devi,12945,5367,13.17
+ae-bihar-1967,AE,Bihar,1967,1967,official,167,Belhar,GEN,,44154,SSP,C.P. Singh,13347,PSP,S. Prasad,7144,6203,14.05
+ae-bihar-1967,AE,Bihar,1967,1967,official,168,Kotoria,GEN,,34751,BJS,K. Sitaram,15467,INC,R.N. Singh,11984,3483,10.02
+ae-bihar-1967,AE,Bihar,1967,1967,official,169,Chakai,GEN,,33048,SSP,S. Singh,16949,INC,M. Mishra,10275,6674,20.19
+ae-bihar-1967,AE,Bihar,1967,1967,official,170,Jhajha,GEN,,39311,SSP,S. Jha,17868,INC,Kudus,17152,716,1.82
+ae-bihar-1967,AE,Bihar,1967,1967,official,171,Jamui,GEN,,47532,PSP,T.P. Singh,17899,INC,D. Mandal,12547,5352,11.26
+ae-bihar-1967,AE,Bihar,1967,1967,official,172,Sikandra,SC,,47831,SSP,S. Vivekanand,30941,INC,J. Lal,16890,14051,29.38
+ae-bihar-1967,AE,Bihar,1967,1967,official,173,Sheikhpura,SC,,47163,CPI,L. Mochi,20238,INC,K. Devi,19095,1143,2.42
+ae-bihar-1967,AE,Bihar,1967,1967,official,174,Barbigha,GEN,,53661,INC,S.S. Sinha,35658,IND,M.N. Singh,15044,20614,38.42
+ae-bihar-1967,AE,Bihar,1967,1967,official,175,Barahiya,GEN,,56792,SSP,K. Singh,27430,INC,R.R. Singh,21379,6051,10.65
+ae-bihar-1967,AE,Bihar,1967,1967,official,176,Surajgarha,GEN,,62109,PSP,B.P. Mehta,31579,INC,R.P. Singh,18877,12702,20.45
+ae-bihar-1967,AE,Bihar,1967,1967,official,177,Jamalpur,GEN,,57761,SSP,B. P. Yadav,15851,CPI,R. B. Singh,14875,976,1.69
+ae-bihar-1967,AE,Bihar,1967,1967,official,178,Tarapur,GEN,,60746,SSP,B. N. Parsant,29160,INC,R. Sah,15765,13395,22.05
+ae-bihar-1967,AE,Bihar,1967,1967,official,179,Kharagpur,GEN,,48841,SSP,S. J. B. Singh,27704,INC,N. K. Singh,15328,12376,25.34
+ae-bihar-1967,AE,Bihar,1967,1967,official,180,Monghyr,GEN,,64498,SSP,Hasim,25562,BJS,J. P. Yadav,20941,4621,7.16
+ae-bihar-1967,AE,Bihar,1967,1967,official,181,Parbatta,GEN,,75281,SSP,S.P. Singh,34992,IND,L.L. Mishra,21132,13860,18.41
+ae-bihar-1967,AE,Bihar,1967,1967,official,182,Choutham,GEN,,58203,SSP,J. Mandal,35320,INC,G. Singh,18341,16979,29.17
+ae-bihar-1967,AE,Bihar,1967,1967,official,183,Alauli,SC,,48380,INC,M. Sada,24667,IND,S. Das,14289,10378,21.45
+ae-bihar-1967,AE,Bihar,1967,1967,official,184,Khagaria,GEN,,59882,SSP,R. B. Azad,37493,INC,K. N. S. Azad,15816,21677,36.2
+ae-bihar-1967,AE,Bihar,1967,1967,official,185,Balia,GEN,,53019,SSP,A. Misra,25782,BJS,C. C. Devo,9635,16147,30.46
+ae-bihar-1967,AE,Bihar,1967,1967,official,186,Begusarai,GEN,,61146,IND,B. Singh,38113,INC,R. Choudhary,11865,26248,42.93
+ae-bihar-1967,AE,Bihar,1967,1967,official,187,Bakhri,SC,,46592,CPI(M),Y. K. Sharma,26529,INC,M. Paswan,15916,10613,22.78
+ae-bihar-1967,AE,Bihar,1967,1967,official,188,Bariarpur,GEN,,63476,SSP,R. Singh,39577,INC,H. Mahto,21388,18189,28.65
+ae-bihar-1967,AE,Bihar,1967,1967,official,189,Barauni,GEN,,65188,CPI,C. Singh,35431,INC,R. Dutta,27391,8040,12.33
+ae-bihar-1967,AE,Bihar,1967,1967,official,190,Bachhwara,GEN,,60758,SSP,V. P. Singh,39264,INC,G. K. Singh,13803,25461,41.91
+ae-bihar-1967,AE,Bihar,1967,1967,official,191,Mokamah,GEN,,51186,RPI,B. Lal,17174,INC,K. P. Singh,16137,1037,2.03
+ae-bihar-1967,AE,Bihar,1967,1967,official,192,Barh,GEN,,59754,JKD,T. P. Singh,37919,INC,R. S. Singh,17827,20092,33.62
+ae-bihar-1967,AE,Bihar,1967,1967,official,193,Bakhtiarpur,GEN,,64231,INC,D. Singh,20772,IND,R. L. Rai,18221,2551,3.97
+ae-bihar-1967,AE,Bihar,1967,1967,official,194,Fatwa,SC,,42797,BJS,R. C. Prasad,19600,INC,K. Dass,14449,5151,12.04
+ae-bihar-1967,AE,Bihar,1967,1967,official,195,Bihar,GEN,,50971,CPI,V. K. Yadav,18384,INC,S. W. Ahmad,15713,2671,5.24
+ae-bihar-1967,AE,Bihar,1967,1967,official,196,Asthawan,GEN,,51152,INC,B. P. Jawahar,19651,IND,N. K. P. Singh,10480,9171,17.93
+ae-bihar-1967,AE,Bihar,1967,1967,official,197,Ekangar Sarai,GEN,,58920,INC,L. S. Tyagi,36648,BJS,R. S. P. Singh,15047,21601,36.66
+ae-bihar-1967,AE,Bihar,1967,1967,official,198,Rajgir,SC,,39998,BJS,J. Prasad,14633,INC,R. P. Arya,8870,5763,14.41
+ae-bihar-1967,AE,Bihar,1967,1967,official,199,Islampur,GEN,,61942,INC,S. S. Prasad,28040,PSP,R. S. P. Singh,26876,1164,1.88
+ae-bihar-1967,AE,Bihar,1967,1967,official,200,Chandi,GEN,,50387,INC,R. P. Singh,22444,BJS,K. Prasad,14957,7487,14.86
+ae-bihar-1967,AE,Bihar,1967,1967,official,201,Hilsa,GEN,,52519,INC,A. K. Singh,23788,BJS,J. Prasad,17226,6562,12.49
+ae-bihar-1967,AE,Bihar,1967,1967,official,202,Masaurhi,GEN,,52658,CPI,B. Sharma,19182,INC,D. Sharma,10742,8440,16.03
+ae-bihar-1967,AE,Bihar,1967,1967,official,203,Pun Pun,SC,,43103,JKD,M. Paswan,23522,INC,S. Chaudhary,13384,10138,23.52
+ae-bihar-1967,AE,Bihar,1967,1967,official,204,Patna South,GEN,,62727,INC,R. L. S. Yadav,26998,JKD,D. Singh,26081,917,1.46
+ae-bihar-1967,AE,Bihar,1967,1967,official,205,Patna East,GEN,,43215,BJS,R D. Mahto,26730,INC,J. Ahmad,6779,19951,46.17
+ae-bihar-1967,AE,Bihar,1967,1967,official,206,Patna West,GEN,,49220,JKD,M. P. Sinha,34034,INC,K. B. Sahay,13305,20729,42.11
+ae-bihar-1967,AE,Bihar,1967,1967,official,207,Danapur,GEN,,54695,SSP,R. S. Singh,26715,INC,R. S. Singh,19300,7415,13.56
+ae-bihar-1967,AE,Bihar,1967,1967,official,208,Maner,GEN,,52499,IND,R. N. Singh,20505,INC,B. D. Singh,12282,8223,15.66
+ae-bihar-1967,AE,Bihar,1967,1967,official,209,Bikram,GEN,,52835,INC,M. Gope,26741,IND,R. Singh,19914,6827,12.92
+ae-bihar-1967,AE,Bihar,1967,1967,official,210,Paliganj,GEN,,58411,SSP,C. P. Varma,30703,INC,M. Devi,18330,12373,21.18
+ae-bihar-1967,AE,Bihar,1967,1967,official,211,Sandesh,GEN,,47139,SSP,R. S. Singh,23145,INC,J. Prasad,19242,3903,8.28
+ae-bihar-1967,AE,Bihar,1967,1967,official,212,Arrah,GEN,,46242,INC,S. Devi,15842,SSP,R. A. Kumar,12797,3045,6.58
+ae-bihar-1967,AE,Bihar,1967,1967,official,213,Barhara,GEN,,48816,INC,A. S. Singh,21791,IND,M. M. N. Giri,20243,1548,3.17
+ae-bihar-1967,AE,Bihar,1967,1967,official,214,Shahpur,GEN,,45541,SSP,R. N. Tiwari,25064,INC,R. P. Singh,17298,7766,17.05
+ae-bihar-1967,AE,Bihar,1967,1967,official,215,Brahmpur,GEN,,41516,IND,S. Sharma,11791,SSP,S. Pande,7559,4232,10.19
+ae-bihar-1967,AE,Bihar,1967,1967,official,216,Dumraon,GEN,,46352,IND,H. P. Singh,14539,CPI,S. Prasad,11748,2791,6.02
+ae-bihar-1967,AE,Bihar,1967,1967,official,217,Nawanagar,SC,,43915,CPI,L. B. Prasad,19563,INC,Sitaram,17564,1999,4.55
+ae-bihar-1967,AE,Bihar,1967,1967,official,218,Buxar,GEN,,50840,SSP,P. Chatterjee,26283,INC,J. Trivedi,15448,10835,21.31
+ae-bihar-1967,AE,Bihar,1967,1967,official,219,Ramgarh,GEN,,55171,SSP,S. Singh,25881,INC,V. Roy,18894,6987,12.66
+ae-bihar-1967,AE,Bihar,1967,1967,official,220,Mohania,SC,,45721,INC,R. Ram,22097,PSP,B. Ram,14833,7264,15.89
+ae-bihar-1967,AE,Bihar,1967,1967,official,221,Chainpur,GEN,,50858,INC,M. C. Singh,20353,PSP,B. Singh,11850,8503,16.72
+ae-bihar-1967,AE,Bihar,1967,1967,official,222,Bhabhua,GEN,,47677,INC,S. N. Pandey,24011,SWA,S. Singh,12093,11918,25.0
+ae-bihar-1967,AE,Bihar,1967,1967,official,223,Chenari,SC,,35575,INC,C. Ram,14999,PSP,B. Dusadh,5252,9747,27.4
+ae-bihar-1967,AE,Bihar,1967,1967,official,224,Sasaram,GEN,,45817,INC,B.B. Singh,12876,PSP,B.B. Singh,11624,1252,2.73
+ae-bihar-1967,AE,Bihar,1967,1967,official,225,Dehri,GEN,,60156,INC,A. Q. Ansari,23230,PSP,B. Singh,14825,8405,13.97
+ae-bihar-1967,AE,Bihar,1967,1967,official,226,Karakat,GEN,,50246,SSP,T. Singh,22552,INC,M. Pandey,13629,8923,17.76
+ae-bihar-1967,AE,Bihar,1967,1967,official,227,Nokha,GEN,,49639,INC,G. Singh,22035,IND,J. Ojha,15892,6143,12.38
+ae-bihar-1967,AE,Bihar,1967,1967,official,228,Dinara,GEN,,58620,SSP,R. A. Singh,27154,INC,R. Singh,11715,15439,26.34
+ae-bihar-1967,AE,Bihar,1967,1967,official,229,Bikramganj,GEN,,56902,INC,K. Singh,11870,CPI,S. P. Singh,11415,455,0.8
+ae-bihar-1967,AE,Bihar,1967,1967,official,230,Jagdishpur,GEN,,47531,INC,S. P. Rai,13726,SSP,K. B. Verma,11758,1968,4.14
+ae-bihar-1967,AE,Bihar,1967,1967,official,231,Piro,GEN,,51781,SSP,R. M. Rai,24930,INC,I. Singh,12347,12583,24.3
+ae-bihar-1967,AE,Bihar,1967,1967,official,232,Sahar,SC,,42231,INC,B. Chamar,15020,PSP,R. Ram,14767,253,0.6
+ae-bihar-1967,AE,Bihar,1967,1967,official,233,Arwal,GEN,,45052,CPI,S. Zohair,26159,IND,J. Singh,8395,17764,39.43
+ae-bihar-1967,AE,Bihar,1967,1967,official,234,Kurtha,GEN,,43876,SSP,J. Prasad,25142,INC,S. P. Verma,8941,16201,36.92
+ae-bihar-1967,AE,Bihar,1967,1967,official,235,Makhdumpur,SC,,37371,SSP,L. Ram,16995,INC,M. Choudhary,9667,7328,19.61
+ae-bihar-1967,AE,Bihar,1967,1967,official,236,Jehanabad,GEN,,43044,INC,S. F. Hussain,15313,SSP,R. Prasad,12532,2781,6.46
+ae-bihar-1967,AE,Bihar,1967,1967,official,237,Ghosi,GEN,,51455,CPI,R. P. Sinha,16336,INC,K. P. N. Singh,15636,700,1.36
+ae-bihar-1967,AE,Bihar,1967,1967,official,238,Belaganj,GEN,,41471,SSP,S. N. Sinha,15709,INC,M. P. Singh,13078,2631,6.34
+ae-bihar-1967,AE,Bihar,1967,1967,official,239,Goh,GEN,,52240,INC,T. M. Singh,25157,SSP,R. C. Singh,21465,3692,7.07
+ae-bihar-1967,AE,Bihar,1967,1967,official,240,Daudnagar,GEN,,46683,PSP,R. N. Singh,13604,SSP,R. B. Singh,13581,23,0.05
+ae-bihar-1967,AE,Bihar,1967,1967,official,241,Obra,GEN,,38866,INC,R. K. Singh,14369,PSP,P. Singh,9402,4967,12.78
+ae-bihar-1967,AE,Bihar,1967,1967,official,242,Nabinagar,GEN,,48721,INC,S. N. Singh,28535,CPI,M. B. Akela,10711,17824,36.58
+ae-bihar-1967,AE,Bihar,1967,1967,official,243,Aurangabad,GEN,,42490,PSP,S. Singh,12824,INC,B. M. Singh,11061,1763,4.15
+ae-bihar-1967,AE,Bihar,1967,1967,official,244,Rafiganj,SC,,35030,INC,D. Ram,17883,IND,R. Ram,6399,11484,32.78
+ae-bihar-1967,AE,Bihar,1967,1967,official,245,Imamganj,SC,,28001,INC,D. Ram,11137,SSP,B. Devi,8134,3003,10.72
+ae-bihar-1967,AE,Bihar,1967,1967,official,246,Sherghati,GEN,,36136,JKD,M. A. Khan,10638,SSP,P. Singh,9466,1172,3.24
+ae-bihar-1967,AE,Bihar,1967,1967,official,247,Barachatti,SC,,22318,INC,V. C. Bharti,10016,PSP,P. Dusadh,5910,4106,18.4
+ae-bihar-1967,AE,Bihar,1967,1967,official,248,Bodh Gaya,SC,,24150,INC,R. Manjhi,10116,IND,B. L. Prasad,7294,2822,11.69
+ae-bihar-1967,AE,Bihar,1967,1967,official,249,Konch,GEN,,40619,SSP,U. N. Verma,13700,INC,S. P. Yadav,11697,2003,4.93
+ae-bihar-1967,AE,Bihar,1967,1967,official,250,Gaya,GEN,,39856,BJS,G. Mishra,13746,IND,S. M. L. Rahman,8465,5281,13.25
+ae-bihar-1967,AE,Bihar,1967,1967,official,251,Gaya Muffasil,GEN,,42345,SSP,R. C. Yadav,11534,INC,H. N. Singh,11321,213,0.5
+ae-bihar-1967,AE,Bihar,1967,1967,official,252,Atri,GEN,,55932,IND,K. Prasad,19707,INC,S. Singh,14867,4840,8.65
+ae-bihar-1967,AE,Bihar,1967,1967,official,253,Hisua,GEN,,55844,INC,S. S. Singh,38607,CPI,L. N. Singh,13920,24687,44.21
+ae-bihar-1967,AE,Bihar,1967,1967,official,254,Nawada,GEN,,53650,INC,R. S. P. Yadav,18124,BJS,G. S. Keshari,14964,3160,5.89
+ae-bihar-1967,AE,Bihar,1967,1967,official,255,Rajauli,SC,,34402,INC,S. Devi,11585,BJS,B. Lal,11439,146,0.42
+ae-bihar-1967,AE,Bihar,1967,1967,official,256,Warsaliganj,GEN,,44054,CPI,D. Prasad,20006,INC,R. K. Singh,13295,6711,15.23
+ae-bihar-1967,AE,Bihar,1967,1967,official,257,Govindpur,GEN,,45954,INC,A. Prasad,15196,IND,T. N. P. Yadav,11287,3909,8.51
+ae-bihar-1967,AE,Bihar,1967,1967,official,258,Kodarma,GEN,,42881,SSP,B. Modi,23408,INC,A. B. Dixit,7475,15933,37.16
+ae-bihar-1967,AE,Bihar,1967,1967,official,259,Dhanwar,GEN,,27344,INC,P. Rai,12915,IND,N. Rai,5246,7669,28.05
+ae-bihar-1967,AE,Bihar,1967,1967,official,260,Gawan,SC,,22082,INC,G. Rabidas,8665,IND,J. L. Das,5565,3100,14.04
+ae-bihar-1967,AE,Bihar,1967,1967,official,261,Jamua,GEN,,33532,INC,S. Prasad,18989,BJS,R. L. P. Verma,7205,11784,35.14
+ae-bihar-1967,AE,Bihar,1967,1967,official,262,Giridih,GEN,,42988,INC,R. Ram,15781,CPI,C. Mishra,13363,2418,5.62
+ae-bihar-1967,AE,Bihar,1967,1967,official,263,Dumri,GEN,,27036,IND,S. Manjari,12150,INC,S. Bhagat,7120,5030,18.6
+ae-bihar-1967,AE,Bihar,1967,1967,official,264,Bermo,GEN,,45259,INC,B. Dubey,16639,IND,N. P. Singh,15526,1113,2.46
+ae-bihar-1967,AE,Bihar,1967,1967,official,265,Bagodar,GEN,,22737,JKD,L. R. Lakshmi,11635,INC,M. Ram,6542,5093,22.4
+ae-bihar-1967,AE,Bihar,1967,1967,official,266,Barhi,GEN,,31473,JKD,I. J. N. Singh,18626,BJS,K. P. Katariar,5809,12817,40.72
+ae-bihar-1967,AE,Bihar,1967,1967,official,267,Hazaribagh,GEN,,43362,JKD,R. Prasad,21327,INC,K. B. Sahai,15069,6258,14.43
+ae-bihar-1967,AE,Bihar,1967,1967,official,268,Chauparan,GEN,,29914,IND,N. P. Singh,16159,INC,N. K. Singh,8793,7366,24.62
+ae-bihar-1967,AE,Bihar,1967,1967,official,269,Chatra,GEN,,28153,IND,K. P. Singh,8190,INC,S. Devi,6779,1411,5.01
+ae-bihar-1967,AE,Bihar,1967,1967,official,270,Barkagaon,SC,,24683,BJS,M. Ram,14992,INC,N. R. Chamar,9691,5301,21.48
+ae-bihar-1967,AE,Bihar,1967,1967,official,271,Ramgarh,GEN,,34924,JKD,T. P. Buxi,9037,INC,A. H. Ansari,7722,1315,3.77
+ae-bihar-1967,AE,Bihar,1967,1967,official,272,Mandu,GEN,,35248,JKD,B. N. Singh,15636,INC,T. Deo,12903,2733,7.75
+ae-bihar-1967,AE,Bihar,1967,1967,official,273,Jaridih,GEN,,23360,IND,S. Manjari,4537,INC,T. S. P. Singh,2881,1656,7.09
+ae-bihar-1967,AE,Bihar,1967,1967,official,274,Chandankiyari,SC,,21753,IND,S. B. Bouri,8773,INC,S. N. Das,5528,3245,14.92
+ae-bihar-1967,AE,Bihar,1967,1967,official,275,Topchanchi,GEN,,42041,IND,P. N. Singh,23608,INC,S. D. Singh,11694,11914,28.34
+ae-bihar-1967,AE,Bihar,1967,1967,official,276,Baghmara,GEN,,31032,JKD,M. M. Singh,10537,INC,P. C. Mahto,8388,2149,6.93
+ae-bihar-1967,AE,Bihar,1967,1967,official,277,Dhanbad,GEN,,31114,INC,R. Singh,11042,CPI,C. Mukherjee,10098,944,3.03
+ae-bihar-1967,AE,Bihar,1967,1967,official,278,Tundi,GEN,,25541,JKD,G. Mishra,12597,INC,R. Choudhary,3957,8640,33.83
+ae-bihar-1967,AE,Bihar,1967,1967,official,279,Nirsa,GEN,,26407,INC,R. N. Sharma,8529,CPI,N. Bhattacharya,8457,72,0.27
+ae-bihar-1967,AE,Bihar,1967,1967,official,280,Sindri,GEN,,27476,CPI(M),A. K. Roy,8900,JKD,T. P. Singh,6500,2400,8.73
+ae-bihar-1967,AE,Bihar,1967,1967,official,281,Jharia,GEN,,30406,INC,S. R. Prasad,10024,JKD,S. K. Rai,7150,2874,9.45
+ae-bihar-1967,AE,Bihar,1967,1967,official,282,Baharagora,GEN,,37689,IND,S. R. Khan,11688,INC,H. Ghosh,6995,4693,12.45
+ae-bihar-1967,AE,Bihar,1967,1967,official,283,Ghatsila,ST,,25534,INC,D. Murmu,9140,IND,R. C. Hansda,6982,2158,8.45
+ae-bihar-1967,AE,Bihar,1967,1967,official,284,Patamda,GEN,,27724,INC,G. Mahato,7678,IND,M. Mahato,5426,2252,8.12
+ae-bihar-1967,AE,Bihar,1967,1967,official,285,Jamshedpur East,GEN,,42742,INC,M. J. Akhauri,17083,CPI(M),N. Banerjee,9266,7817,18.29
+ae-bihar-1967,AE,Bihar,1967,1967,official,286,Jamshedpur West,GEN,,36763,INC,C. Vyas,16842,CPI,S. Mukherjee,7966,8876,24.14
+ae-bihar-1967,AE,Bihar,1967,1967,official,287,Jugsalai,ST,,29334,INC,M. R. Tudu,9413,IND,S. Majhi,6805,2608,8.89
+ae-bihar-1967,AE,Bihar,1967,1967,official,288,Seraikella,GEN,,34056,BJS,R.P. Sarangi,16531,INC,N.N. S. Deo,7821,8710,25.58
+ae-bihar-1967,AE,Bihar,1967,1967,official,289,Chaibasa,ST,,22711,IND,B. Sumbrui,10287,SSP,H. Tiu,3553,6734,29.65
+ae-bihar-1967,AE,Bihar,1967,1967,official,290,Majhgaon,ST,,21718,IND,P. C. Birua,8742,SSP,L. Munduiya,4471,4271,19.67
+ae-bihar-1967,AE,Bihar,1967,1967,official,291,Manoharpur,ST,,28666,SSP,R. Nayak,8304,IND,J. Boipai,7897,407,1.42
+ae-bihar-1967,AE,Bihar,1967,1967,official,292,Jaganathpur,ST,,17365,INC,V. Pareya,3512,SSP,N. Birua,3006,506,2.91
+ae-bihar-1967,AE,Bihar,1967,1967,official,293,Chakradharpur,ST,,25240,BJS,M. Majhi,13249,INC,S. Samad,5911,7338,29.07
+ae-bihar-1967,AE,Bihar,1967,1967,official,294,Ichagarh,GEN,,25821,INC,P. K. A. Deo,8963,IND,G. Mahato,4992,3971,15.38
+ae-bihar-1967,AE,Bihar,1967,1967,official,295,Kharasawan,ST,,15216,BJS,D. Matisay,3734,IND,D. C. Tamsoy,3626,108,0.71
+ae-bihar-1967,AE,Bihar,1967,1967,official,296,Tamar,ST,,20324,INC,B. R. Munda,7537,BJS,A. Patar,4302,3235,15.92
+ae-bihar-1967,AE,Bihar,1967,1967,official,297,Tokpa,ST,,34349,INC,S. Pahan,9514,BJS,D. F. Bhengra,7737,1777,5.17
+ae-bihar-1967,AE,Bihar,1967,1967,official,298,Khunti,ST,,24635,INC,T. M. Munda,11909,IND,P. Kachhap,3696,8213,33.34
+ae-bihar-1967,AE,Bihar,1967,1967,official,299,Silli,SC,,19961,JKD,B. Swansi,3452,PSP,P. Prasad,3104,348,1.74
+ae-bihar-1967,AE,Bihar,1967,1967,official,300,Khijri,ST,,26532,INC,R. L. Horo,5667,IND,A. Kachhap,4213,1454,5.48
+ae-bihar-1967,AE,Bihar,1967,1967,official,301,Ranchi,GEN,,33685,BJS,N. G. Mitra,10297,INC,B.. Nath Roy,6901,3396,10.08
+ae-bihar-1967,AE,Bihar,1967,1967,official,302,Kanke,GEN,,28059,JKD,J. N. Choubey,6220,INC,M. Z. Ali,6008,212,0.76
+ae-bihar-1967,AE,Bihar,1967,1967,official,303,Kolebira,ST,,36789,IND,N. E. Horo,13167,SWA,C. Kerketta,10343,2824,7.68
+ae-bihar-1967,AE,Bihar,1967,1967,official,304,Simdega,ST,,34160,IND,P. Toppo,11314,BJS,B. Bhagat,8938,2376,6.96
+ae-bihar-1967,AE,Bihar,1967,1967,official,305,Chainpur,ST,,32894,INC,S. Tigga,10474,IND,B. Bhagat,7674,2800,8.51
+ae-bihar-1967,AE,Bihar,1967,1967,official,306,Gumla,ST,,26345,BJS,R. Oraon,4620,IND,M. Demta,4231,389,1.48
+ae-bihar-1967,AE,Bihar,1967,1967,official,307,Sisai,ST,,25296,INC,S. Bhagat,11391,BJS,L. Oraon,5959,5432,21.47
+ae-bihar-1967,AE,Bihar,1967,1967,official,308,Bero,ST,,24584,INC,K.C. Bhagat,8667,BJS,B. Oraor,5399,3268,13.29
+ae-bihar-1967,AE,Bihar,1967,1967,official,309,Mandar,ST,,22932,INC,S. Bhagat,8651,IND,K. Bhagat,7008,1643,7.16
+ae-bihar-1967,AE,Bihar,1967,1967,official,310,Lohardaga,ST,,30368,INC,B. Lakna,17410,BJS,B. Uraon,5600,11810,38.89
+ae-bihar-1967,AE,Bihar,1967,1967,official,311,Latehar,ST,,22163,INC,T. Singh,8421,BJS,P. N. Singh,7650,771,3.48
+ae-bihar-1967,AE,Bihar,1967,1967,official,312,Panki,SC,,18447,BJS,R. Ram,7851,INC,L. Ram,6904,947,5.13
+ae-bihar-1967,AE,Bihar,1967,1967,official,313,Daltonganj,GEN,,35182,SSP,P. Chand,17754,BJS,I. Singh,6816,10938,31.09
+ae-bihar-1967,AE,Bihar,1967,1967,official,314,Garhwa,GEN,,33655,INC,L. Prasad,12227,SSP,V. N. Dixit,9386,2841,8.44
+ae-bihar-1967,AE,Bihar,1967,1967,official,315,Bhawanathpur,GEN,,34988,INC,S. P. Deo,17646,SSP,H. Pratap,12949,4697,13.42
+ae-bihar-1967,AE,Bihar,1967,1967,official,316,Leslieganj,GEN,,39180,INC,J. Pathak,18494,SSP,M. Singh,5227,13267,33.86
+ae-bihar-1967,AE,Bihar,1967,1967,official,317,Bishrampur,SC,,26347,INC,R. D. Ram,13897,IND,R. K. Ram,7731,6166,23.4
+ae-bihar-1967,AE,Bihar,1967,1967,official,318,Hussainabad,GEN,,43456,INC,B. N. Singh,27078,SSP,N. K. Pathak,7444,19634,45.18

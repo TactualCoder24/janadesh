@@ -1,0 +1,127 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-assam-2021,AE,Assam,2021,2021,official,1,Ratabari,GEN,Karimganj,135611,BJP,Bijoy Malakar,84711,INC,Sambhu Sing Mallah,48490,36221,26.71
+ae-assam-2021,AE,Assam,2021,2021,official,2,Patharkandi,GEN,Karimganj,149419,BJP,Krishnendu Paul,74846,INC,Sachin Sahoo,70379,4467,2.99
+ae-assam-2021,AE,Assam,2021,2021,official,3,Karimganj North,GEN,Karimganj,145565,INC,Kamalakhya Dey Purkayastha,60998,BJP,Dr Manash Das,52674,8324,5.72
+ae-assam-2021,AE,Assam,2021,2021,official,4,Karimganj South,GEN,Karimganj,149295,INC,Siddeque Ahmed,88909,AGP,Aziz Ahmed Khan,56422,32487,21.76
+ae-assam-2021,AE,Assam,2021,2021,official,5,Badarpur,GEN,Karimganj,129786,AIUDF,Abdul Aziz,74452,BJP,Biswarup Bhattacharjee,50504,23948,18.45
+ae-assam-2021,AE,Assam,2021,2021,official,6,Hailakandi,GEN,Hailakandi,127773,AIUDF,Zakir Hussain Laskar,71057,BJP,Milon Das,47303,23754,18.59
+ae-assam-2021,AE,Assam,2021,2021,official,7,Katlicherra,GEN,Hailakandi,153146,AIUDF,Suzam Uddin Laskar,79769,BJP,Subrata Kumar Nath,66798,12971,8.47
+ae-assam-2021,AE,Assam,2021,2021,official,8,Algapur,GEN,Hailakandi,134584,AIUDF,Nijam Uddin Choudhury,66785,BJP,Moon Swarnakar,49181,17604,13.08
+ae-assam-2021,AE,Assam,2021,2021,official,9,Silchar,GEN,Cachar,174067,BJP,Dipayan Chakraborty,98558,INC,Tamal Kanti Banik,60980,37578,21.59
+ae-assam-2021,AE,Assam,2021,2021,official,10,Sonai,GEN,Cachar,146103,AIUDF,Karim Uddin Barbhuiya,71937,BJP,Aminul Haque Laskar,52283,19654,13.45
+ae-assam-2021,AE,Assam,2021,2021,official,11,Dholai,GEN,Cachar,148490,BJP,Parimal Sukla Baidya,82568,INC,Kamakhya Prasad Mala,62176,20392,13.73
+ae-assam-2021,AE,Assam,2021,2021,official,12,Udharbond,GEN,Cachar,128947,BJP,Mihir Kanti Shome,61745,INC,Ajit Singh,59060,2685,2.08
+ae-assam-2021,AE,Assam,2021,2021,official,13,Lakhipur,GEN,Cachar,122510,BJP,Kaushik Rai,55341,INC,Mukesh Pandey,42641,12700,10.37
+ae-assam-2021,AE,Assam,2021,2021,official,14,Barkhola,GEN,Cachar,123349,INC,Misbahul Islam Laskar,64433,BJP,Amalendu Das,57402,7031,5.7
+ae-assam-2021,AE,Assam,2021,2021,official,15,Katigora,GEN,Cachar,161465,INC,Khalil Uddin Mazumder,83268,BJP,Gautam Roy,76329,6939,4.3
+ae-assam-2021,AE,Assam,2021,2021,official,16,Haflong,GEN,North Cachar Hills,118545,BJP,Nandita Gorlosa,67797,INC,Nirmal Langthasa,49199,18598,15.69
+ae-assam-2021,AE,Assam,2021,2021,official,17,Bokajan,GEN,Karbi Anglong,117361,BJP,Numal Momin,60726,INC,Raton Engti,42841,17885,15.24
+ae-assam-2021,AE,Assam,2021,2021,official,18,Howraghat,GEN,Karbi Anglong,102567,BJP,Darsing Ronghang,57927,INC,Sanjeeb Teron,26244,31683,30.89
+ae-assam-2021,AE,Assam,2021,2021,official,19,Diphu,GEN,Karbi Anglong,149974,BJP,Bidya Sing Engleng,77032,INC,Sum Ronghang,36504,40528,27.02
+ae-assam-2021,AE,Assam,2021,2021,official,20,Baithalangso,GEN,Karbi Anglong,161030,BJP,Rupsing Teron,89715,INC,Augustine Enghee,36278,53437,33.18
+ae-assam-2021,AE,Assam,2021,2021,official,21,Mankachar,GEN,Dhubri,206373,AIUDF,Md. Aminul Islam,125873,AGP,Zabed Islam,69033,56840,27.54
+ae-assam-2021,AE,Assam,2021,2021,official,22,Salmara South,GEN,Dhubri,173208,INC,Wazed Ali Choudhury,146248,IND,Nurul Islam Mollah,10674,135574,78.27
+ae-assam-2021,AE,Assam,2021,2021,official,23,Dhubri,GEN,Dhubri,174940,AIUDF,Nazrul Hoque,123913,BJP,Dr. Debamoy Sanyal,46100,77813,44.48
+ae-assam-2021,AE,Assam,2021,2021,official,24,Gauripur,GEN,Dhubri,181969,AIUDF,Nizanur Rahman,112194,BJP,Banendra Kumar Mushahary,63349,48845,26.84
+ae-assam-2021,AE,Assam,2021,2021,official,25,Golakganj,GEN,Dhubri,182369,INC,Abdus Sobahan Ali Sarkar,89870,BJP,Ashwini Ray Sarkar,79171,10699,5.87
+ae-assam-2021,AE,Assam,2021,2021,official,26,Bilasipara West,GEN,Dhubri,159886,AIUDF,Hafiz Bashir Ahmed,90529,IND,Ali Akbar Miah,30771,59758,37.38
+ae-assam-2021,AE,Assam,2021,2021,official,27,Bilasipara East,GEN,Dhubri,194036,AIUDF,Samsul Huda,116068,BJP,Ashok Kumar Singhi,66768,49300,25.41
+ae-assam-2021,AE,Assam,2021,2021,official,28,Gossaigaon,GEN,Kokrajhar,153995,BOPF,Majendra Narzary,70407,UPPL,Somnath Narzary,60064,10343,6.72
+ae-assam-2021,AE,Assam,2021,2021,official,29,Kokrajhar West,GEN,Kokrajhar,154387,BOPF,Rabiram Narzary,77509,UPPL,Manaranjan Brahma,65438,12071,7.82
+ae-assam-2021,AE,Assam,2021,2021,official,30,Kokrajhar East,GEN,Kokrajhar,152372,UPPL,Lawrence Islary,83515,BOPF,Pramila Rani Brahma,63420,20095,13.19
+ae-assam-2021,AE,Assam,2021,2021,official,31,Sidli,GEN,Kokrajhar,169344,UPPL,Joyanta Basumatary,97087,BOPF,Chandan Brahma,65767,31320,18.49
+ae-assam-2021,AE,Assam,2021,2021,official,32,Bongaigaon,GEN,Bongaigaon,151451,AGP,Phani Bhusan Choudhury,82800,INC,Shankar Prasad Ray,44633,38167,25.2
+ae-assam-2021,AE,Assam,2021,2021,official,33,Bijni,GEN,Kokrajhar,138527,BJP,Ajoy Kumar Ray,45733,BOPF,Kamalshing Narzary,44730,1003,0.72
+ae-assam-2021,AE,Assam,2021,2021,official,34,Abhayapuri North,GEN,Bongaigaon,158192,INC,Abdul Batin Khandakar,93276,AGP,Bhupen Roy,60495,32781,20.72
+ae-assam-2021,AE,Assam,2021,2021,official,35,Abhayapuri South,GEN,Bongaigaon,183417,INC,Pradip Sarkar,112954,AGP,Purnendu Banikya,65869,47085,25.67
+ae-assam-2021,AE,Assam,2021,2021,official,36,Dudhnai,GEN,Goalpara,179388,INC,Jadab Swargiary,78551,BJP,Shyamjit Rabha,77275,1276,0.71
+ae-assam-2021,AE,Assam,2021,2021,official,37,Goalpara East,GEN,Goalpara,193768,INC,Abul Kalam Rasheed Alam,112995,AGP,Jyotish Das,67747,45248,23.35
+ae-assam-2021,AE,Assam,2021,2021,official,38,Goalpara West,GEN,Goalpara,156979,INC,Abdur Rashid Mandal,85752,AGP,Sheikh Shah Alom,39728,46024,29.32
+ae-assam-2021,AE,Assam,2021,2021,official,39,Jaleswar,GEN,Goalpara,148833,INC,Aftab Uddin Mollah,76026,AIUDF,DR. Reza M A Amin,54046,21980,14.77
+ae-assam-2021,AE,Assam,2021,2021,official,40,Sorbhog,GEN,Barpeta,189564,CPI(M),Manoranjan Talukdar,96134,BJP,Sankar Chandra Das,85872,10262,5.41
+ae-assam-2021,AE,Assam,2021,2021,official,41,Bhabanipur,GEN,Barpeta,124566,AIUDF,Phanidhar Talukdar,55975,AGP,Ranjit Deka,52748,3227,2.59
+ae-assam-2021,AE,Assam,2021,2021,official,42,Patacharkuchi,GEN,Barpeta,111729,BJP,Ranjeet Kumar Dass,81284,INC,Santanu Sarma,18431,62853,56.25
+ae-assam-2021,AE,Assam,2021,2021,official,43,Barpeta,GEN,Barpeta,180265,INC,Abdur Rahim Ahmed,111083,AGP,Gunindra Nath Das,66364,44719,24.81
+ae-assam-2021,AE,Assam,2021,2021,official,44,Jania,GEN,Barpeta,183725,AIUDF,Rafiqul Islam,156183,BJP,Shahidul Islam,11408,144775,78.8
+ae-assam-2021,AE,Assam,2021,2021,official,45,Baghbar,GEN,Barpeta,150536,INC,Sherman Ali Ahmed,79357,AIUDF,Rajib Ahmed,65415,13942,9.26
+ae-assam-2021,AE,Assam,2021,2021,official,46,Sarukhetri,GEN,Barpeta,177615,INC,Jakir Hussain Sikdar,77045,AGP,Kalpana Patowary,47504,29541,16.63
+ae-assam-2021,AE,Assam,2021,2021,official,47,Chenga,GEN,Barpeta,127311,AIUDF,Ashraful Hussain,75312,AGP,Rabiul Hussain,23373,51939,40.8
+ae-assam-2021,AE,Assam,2021,2021,official,48,Boko,GEN,Kamrup,201331,INC,Nandita Das,120613,AGP,Jyoti Prasad Das,68147,52466,26.06
+ae-assam-2021,AE,Assam,2021,2021,official,49,Chaygaon,GEN,Kamrup,165162,INC,Rekibuddin Ahmed,93864,AGP,Dr. Kamala Kanta Kalita,65820,28044,16.98
+ae-assam-2021,AE,Assam,2021,2021,official,50,Palasbari,GEN,Kamrup,130419,BJP,Hemanga Thakuria,68311,AJP,Pankaj Lochan Goswami,28641,39670,30.42
+ae-assam-2021,AE,Assam,2021,2021,official,51,Jalukbari,GEN,Kamrup,166810,BJP,Himanta Biswa Sarma,130762,INC,Romen Chandra Borthakur,28851,101911,61.09
+ae-assam-2021,AE,Assam,2021,2021,official,52,Dispur,GEN,Kamrup,300536,BJP,Atul Bora,196043,INC,Manjit Mahanta,74386,121657,40.48
+ae-assam-2021,AE,Assam,2021,2021,official,53,Gauhati East,GEN,Kamrup,167643,BJP,Siddhartha Bhattacharya,113461,INC,Ashima Bardoloi,29361,84100,50.17
+ae-assam-2021,AE,Assam,2021,2021,official,54,Gauhati West,GEN,Kamrup,225789,AGP,Ramendra Narayan Kalita,137533,INC,Mira Borthakur Goswami,59084,78449,34.74
+ae-assam-2021,AE,Assam,2021,2021,official,55,Hajo,GEN,Kamrup,150565,BJP,Sri Suman Haripriya,66165,AJP,Dulu Ahmed,51797,14368,9.54
+ae-assam-2021,AE,Assam,2021,2021,official,56,Kamalpur,GEN,Kamrup,148731,BJP,Diganta Kalita,81083,INC,Kishor Kumar Bhattacharyya,62969,18114,12.18
+ae-assam-2021,AE,Assam,2021,2021,official,57,Rangia,GEN,Kamrup,160897,BJP,Bhabesh Kalita,84844,CPI(M),Bhagaban Dev Misra,64624,20220,12.57
+ae-assam-2021,AE,Assam,2021,2021,official,58,Tamulpur,GEN,Nalbari,166017,UPPL,Leho Ram Boro,78818,BOPF,Rangja Khungur Basumatary,46635,32183,19.39
+ae-assam-2021,AE,Assam,2021,2021,official,59,Nalbari,GEN,Nalbari,178677,BJP,Jayanta Malla Baruah,106190,INC,Pradyut Kumar Bhuyan,56733,49457,27.68
+ae-assam-2021,AE,Assam,2021,2021,official,60,Barkhetri,GEN,Nalbari,172578,INC,Diganta Barman,85826,BJP,Narayan Deka,81772,4054,2.35
+ae-assam-2021,AE,Assam,2021,2021,official,61,Dharmapur,GEN,Nalbari,119407,BJP,Chandra Mohan Patowary,68362,INC,Ratul Patowary,43328,25034,20.97
+ae-assam-2021,AE,Assam,2021,2021,official,62,Barama,GEN,Nalbari,131255,UPPL,Bhupen Baro,62385,BOPF,Prabeen Baro,38613,23772,18.11
+ae-assam-2021,AE,Assam,2021,2021,official,63,Chapaguri,GEN,Barpeta,125339,UPPL,Urkhao Gwra Brahma,61804,BOPF,Hitesh Basumatary,35065,26739,21.33
+ae-assam-2021,AE,Assam,2021,2021,official,64,Panery,GEN,Darrang,117104,BJP,Biswajit Daimary,72639,BOPF,Karuna Kanta Swargiary,36787,35852,30.62
+ae-assam-2021,AE,Assam,2021,2021,official,65,Kalaigaon,GEN,Darrang,146814,BOPF,Durga Das Boro,60815,BJP,Madhu Ram Deka,53713,7102,4.84
+ae-assam-2021,AE,Assam,2021,2021,official,66,Sipajhar,GEN,Darrang,147179,BJP,Paramananda Rajbongshi,74739,INC,Kuldip Barua,67605,7134,4.85
+ae-assam-2021,AE,Assam,2021,2021,official,67,Mangaldoi,GEN,Darrang,202144,INC,Basanta Das,111386,BJP,Guru Jyoti Das,87032,24354,12.05
+ae-assam-2021,AE,Assam,2021,2021,official,68,Dalgaon,GEN,Darrang,212683,AIUDF,Mazibur Rahman,118342,INC,Ilias Ali,62959,55383,26.04
+ae-assam-2021,AE,Assam,2021,2021,official,69,Udalguri,GEN,Darrang,118683,UPPL,Gobinda Chandra Basumatari,61767,BOPF,Rihon Daimari,56916,4851,4.09
+ae-assam-2021,AE,Assam,2021,2021,official,70,Majbat,GEN,Darrang,126771,BOPF,Charan Boro,54409,BJP,Jitu Kissan,38352,16057,12.67
+ae-assam-2021,AE,Assam,2021,2021,official,71,Dhekiajuli,GEN,Sonitpur,162251,BJP,Ashok Singhal,93768,INC,Benudhar Nath,58698,35070,21.61
+ae-assam-2021,AE,Assam,2021,2021,official,72,Barchalla,GEN,Sonitpur,135172,BJP,Ganesh Kumar Limbu,70569,INC,Ram Prasad Sharma,52787,17782,13.16
+ae-assam-2021,AE,Assam,2021,2021,official,73,Tezpur,GEN,Sonitpur,147783,AGP,Prithiraj Rava,71454,INC,Anuj Kumar Mech,61331,10123,6.85
+ae-assam-2021,AE,Assam,2021,2021,official,74,Rangapara,GEN,Sonitpur,129636,BJP,Krishna Kamal Tanti,70172,INC,Abhijit Hazarika,47827,22345,17.24
+ae-assam-2021,AE,Assam,2021,2021,official,75,Sootea,GEN,Sonitpur,147680,BJP,Padma Hazarika,84807,INC,Praneswar Basumatary,60432,24375,16.51
+ae-assam-2021,AE,Assam,2021,2021,official,76,Biswanath,GEN,Sonitpur,138379,BJP,Promod Borthakur,71201,INC,Anjan Borah,61991,9210,6.66
+ae-assam-2021,AE,Assam,2021,2021,official,77,Behali,GEN,Sonitpur,102201,BJP,Ranjit Dutta,53583,IND,Jayanta Borah,23744,29839,29.2
+ae-assam-2021,AE,Assam,2021,2021,official,78,Gohpur,GEN,Sonitpur,161410,BJP,Sri Utpal Borah,93224,INC,Ripun Bora,63930,29294,18.15
+ae-assam-2021,AE,Assam,2021,2021,official,79,Jagiroad,GEN,Marigaon,197600,BJP,Pijush Hazarika,106643,INC,Swapan Kumar Mandal,77239,29404,14.88
+ae-assam-2021,AE,Assam,2021,2021,official,80,Marigaon,GEN,Marigaon,155011,BJP,Rama Kanta Dewri,81657,AJP,Bani Kanta Das,45125,36532,23.57
+ae-assam-2021,AE,Assam,2021,2021,official,81,Laharighat,GEN,Marigaon,162296,INC,Dr. Asif Mohammad Nazar,60932,IND,Siddique Ahmed,58904,2028,1.25
+ae-assam-2021,AE,Assam,2021,2021,official,82,Raha,GEN,Nagaon,177332,INC,Sashi Kanta Das,89511,AGP,Bishnu Das,76453,13058,7.36
+ae-assam-2021,AE,Assam,2021,2021,official,83,Dhing,GEN,Nagaon,204543,AIUDF,Aminul Islam,145888,IND,Mehboob Muktar,42921,102967,50.34
+ae-assam-2021,AE,Assam,2021,2021,official,84,Batadroba,GEN,Nagaon,139348,INC,Sibamoni Bora,84278,BJP,Angoorlata Deka,51458,32820,23.55
+ae-assam-2021,AE,Assam,2021,2021,official,85,Rupohihat,GEN,Nagaon,179955,INC,Nurul Huda,132091,BJP,Najir Hussain,25739,106352,59.1
+ae-assam-2021,AE,Assam,2021,2021,official,86,Nowgong,GEN,Nagaon,154847,BJP,Rupak Sarmah,81098,INC,Santanu Sarma,70015,11083,7.16
+ae-assam-2021,AE,Assam,2021,2021,official,87,Barhampur,GEN,Nagaon,142333,BJP,Jitu Goswami,70111,INC,Suresh Borah,69360,751,0.53
+ae-assam-2021,AE,Assam,2021,2021,official,88,Samaguri,GEN,Nagaon,138531,INC,Rakibul Hussain,81123,BJP,Anil Saikia,55025,26098,18.84
+ae-assam-2021,AE,Assam,2021,2021,official,89,Kaliabor,GEN,Nagaon,122937,AGP,Keshab Mahanta,73677,INC,Prasanta Kumar Saikia,44957,28720,23.36
+ae-assam-2021,AE,Assam,2021,2021,official,90,Jamunamukh,GEN,Nagaon,185607,AIUDF,Siraj Uddin Ajmal,136902,AGP,Sadik Ullah Bhuyan,18342,118560,63.88
+ae-assam-2021,AE,Assam,2021,2021,official,91,Hojai,GEN,Nagaon,220372,BJP,Ramkrishna Ghosh,125790,INC,Debabrata Saha,92008,33782,15.33
+ae-assam-2021,AE,Assam,2021,2021,official,92,Lumding,GEN,Nagaon,173094,BJP,Sibu Misra,89108,INC,Swapan Kar,77377,11731,6.78
+ae-assam-2021,AE,Assam,2021,2021,official,93,Bokakhat,GEN,Golaghat,117945,AGP,Atul Bora,72930,IND,Pranab Doley,27749,45181,38.31
+ae-assam-2021,AE,Assam,2021,2021,official,94,Sarupathar,GEN,Golaghat,205041,BJP,Biswajit Phukan,107090,INC,Roselina Tirkey,67731,39359,19.2
+ae-assam-2021,AE,Assam,2021,2021,official,95,Golaghat,GEN,Golaghat,159039,BJP,Ajanta Neog,81651,INC,Bitupan Saikia,72326,9325,5.86
+ae-assam-2021,AE,Assam,2021,2021,official,96,Khumtai,GEN,Golaghat,114834,BJP,Mrinal Saikia,65655,INC,Bismita Gogoi,38522,27133,23.63
+ae-assam-2021,AE,Assam,2021,2021,official,97,Dergaon,GEN,Jorhat,130661,AGP,Bhabendra Nath Bharali,64043,INC,Bani Hazarika,51546,12497,9.56
+ae-assam-2021,AE,Assam,2021,2021,official,98,Jorhat,GEN,Jorhat,138179,BJP,Hitendra Nath Goswami,68321,INC,Rana Goswami,61833,6488,4.7
+ae-assam-2021,AE,Assam,2021,2021,official,99,Majuli,GEN,Jorhat,104707,BJP,Sarbananda Sonowal,71436,INC,Rajib Lochan Pegu,28244,43192,41.25
+ae-assam-2021,AE,Assam,2021,2021,official,100,Titabar,GEN,Jorhat,120013,INC,Bhaskar Jyoti Baruah,64303,BJP,Hemanta Kalita,50924,13379,11.15
+ae-assam-2021,AE,Assam,2021,2021,official,101,Mariani,GEN,Jorhat,93782,INC,Rupjyoti Kurmi,47308,BJP,Ramani Tanti,44862,2446,2.61
+ae-assam-2021,AE,Assam,2021,2021,official,102,Teok,GEN,Jorhat,101945,AGP,Renupoma Rajkhowa,47555,INC,Pallabi Gogoi,46205,1350,1.32
+ae-assam-2021,AE,Assam,2021,2021,official,103,Amguri,GEN,Sibsagar,102571,AGP,Prodip Hazarika,49891,INC,Angkita Dutta,43712,6179,6.02
+ae-assam-2021,AE,Assam,2021,2021,official,104,Nazira,GEN,Sibsagar,108688,INC,Debabrata Saikia,52387,BJP,Mayur Borgohain,51704,683,0.63
+ae-assam-2021,AE,Assam,2021,2021,official,105,Mahmara,GEN,Sibsagar,112157,BJP,Jogen Mohan,51282,INC,Suruj Dehingia,38147,13135,11.71
+ae-assam-2021,AE,Assam,2021,2021,official,106,Sonari,GEN,Sibsagar,142679,BJP,Dharmeswar Konwar,69690,INC,Sushil Kumar Suri,54573,15117,10.6
+ae-assam-2021,AE,Assam,2021,2021,official,107,Thowra,GEN,Sibsagar,95751,INC,Sushanta Borgohain,48026,BJP,Kushal Dowari,46020,2006,2.1
+ae-assam-2021,AE,Assam,2021,2021,official,108,Sibsagar,GEN,Sibsagar,123580,IND,Akhil Gogoi,57219,BJP,Surabhi Rajkonwari,45344,11875,9.61
+ae-assam-2021,AE,Assam,2021,2021,official,109,Bihpuria,GEN,Lakhimpur,120712,BJP,Dr. Amiya Kumar Bhuyan,58979,INC,Bhupen Kumar Borah,48801,10178,8.43
+ae-assam-2021,AE,Assam,2021,2021,official,110,Naoboicha,GEN,Lakhimpur,191399,INC,Bharat Chandra Narah,52905,IND,Ajijur Rahman,49292,3613,1.89
+ae-assam-2021,AE,Assam,2021,2021,official,111,Lakhimpur,GEN,Lakhimpur,155184,BJP,Manab Deka,70387,INC,Dr. Joy Prakash Das (J.P.),67351,3036,1.96
+ae-assam-2021,AE,Assam,2021,2021,official,112,Dhakuakhana,GEN,Dhemaji,168690,BJP,Naba Kumar Doley,86382,INC,Padmalochan Doley,76786,9596,5.69
+ae-assam-2021,AE,Assam,2021,2021,official,113,Dhemaji,GEN,Dhemaji,191769,BJP,Ranoj Pegu,87681,AJP,Chittaranjan Basumatary,56889,30792,16.06
+ae-assam-2021,AE,Assam,2021,2021,official,114,Jonai,GEN,Dhemaji,242482,BJP,Bhuban Pegu,168411,INC,Hema Hari Prasanna Pegu,57424,110987,45.77
+ae-assam-2021,AE,Assam,2021,2021,official,115,Moran,GEN,Dibrugarh,110011,BJP,Chakradhar Gogoi,55604,INC,Pranjal Ghatowar,33263,22341,20.31
+ae-assam-2021,AE,Assam,2021,2021,official,116,Dibrugarh,GEN,Dibrugarh,111937,BJP,Prasanta Phukan,68762,INC,Rajkumar Nilanetra Neog,30757,38005,33.95
+ae-assam-2021,AE,Assam,2021,2021,official,117,Lahowal,GEN,Dibrugarh,120232,BJP,Binod Hazarika,59295,INC,Manoj Dhanowar,42047,17248,14.35
+ae-assam-2021,AE,Assam,2021,2021,official,118,Duliajan,GEN,Dibrugarh,127124,BJP,Terash Gowala,54762,INC,Dhrubajyoti Gogoi,46652,8110,6.38
+ae-assam-2021,AE,Assam,2021,2021,official,119,Tingkhong,GEN,Dibrugarh,117091,BJP,Bimal Borah,62675,INC,Etuwa Munda,34281,28394,24.25
+ae-assam-2021,AE,Assam,2021,2021,official,120,Naharkatia,GEN,Dibrugarh,109582,BJP,Taranga Gogoi,47268,INC,Pranati Phukan,32292,14976,13.67
+ae-assam-2021,AE,Assam,2021,2021,official,121,Chabua,GEN,Tinsukia,126021,AGP,Ponakan Baruah,53554,INC,Ajoy Phukan,34824,18730,14.86
+ae-assam-2021,AE,Assam,2021,2021,official,122,Tinsukia,GEN,Tinsukia,128386,BJP,Sanjoy Kishan,85857,AJP,Shamsher Singh,15060,70797,55.14
+ae-assam-2021,AE,Assam,2021,2021,official,123,Digboi,GEN,Tinsukia,104459,BJP,Suren Phukan,59217,INC,Shibanath Chetia,32241,26976,25.82
+ae-assam-2021,AE,Assam,2021,2021,official,124,Margherita,GEN,Tinsukia,150743,BJP,Bhaskar Sharma,86640,INC,Manoranjan Borgohain,28140,58500,38.81
+ae-assam-2021,AE,Assam,2021,2021,official,125,Doom Dooma,GEN,Tinsukia,114573,BJP,Rupesh Gowala,49119,INC,Durga Bhumij,40981,8138,7.1
+ae-assam-2021,AE,Assam,2021,2021,official,126,Sadiya,GEN,Tinsukia,140657,BJP,Bolin Chetia,64855,INC,Lakhin Chandra Chetia,42771,22084,15.7

@@ -1,0 +1,61 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,1,Dimapur I,GEN,Dimapur *,17808,BJP,H. Tovihoto Ayemi,11247,NPF,Pukhavi Yepthomi,4915,6332,35.56
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,2,Dimapur II,ST,Dimapur *,41061,NPF,Moatoshi Longkumer,23101,NDPP,Supulebten,15796,7305,17.79
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,3,Dimapur III,ST,Dimapur *,26475,NPF,Azheto Zhimomi,12813,NDPP,Tokheho,10733,2080,7.86
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,4,Ghaspani I,ST,Dimapur *,56696,BJP,Jacob Zhimomi,25196,IND,Z. Kasheto Yeptho,22401,2795,4.93
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,5,Ghaspani II,ST,Dimapur *,29895,NDPP,Zhaleo Rio,14215,NPF,Kevingulie Khro,7827,6388,21.37
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,6,Tening,ST,Kohima,29139,NDPP,Namri Nchang,9931,NPF,Namduadi Rangkau Zeliang,9692,239,0.82
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,7,Peren,ST,Kohima,27079,NPF,T. R. Zeliang,16378,NDPP,Iherie Ndang,10052,6326,23.36
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,8,Western Angami,ST,Kohima,14859,NPF,Keneizhakho Nakhro,6866,NDPP,Kevisekho Kruse,6135,731,4.92
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,9,Kohima Town,ST,Kohima,26732,NDPP,,14376,NPF,,11671,2705,10.12
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,10,Northern Angami I,ST,Kohima,15736,NPF,Khriehu Liezietsu,9159,NDPP,Kekhrielhoulie Yhome,6198,2961,18.82
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,11,Northern Angami II,ST,Kohima,19733,NDPP,Neiphiu Rio,19733,,Elected Unopposed,,19733,100.0
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,12,Tseminyu,ST,Kohima,26940,NDPP,R. Khing,9650,NPP,Levi Rengma,8599,1051,3.9
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,13,Pughoboto,ST,Kohima,13343,NPF,Y. Vikheho Swu,6433,BJP,Sukhato A. Sema,6361,72,0.54
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,14,Southern Angami I,ST,Kohima,13567,NDPP,Zale Neikha,6895,NPP,Kropol Vitsu,4428,2467,18.18
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,15,Southern Angami II,ST,Kohima,17382,NDPP,Zale Neikha,9056,NPF,Kropol Vitsu,8133,923,5.31
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,16,Pfutsero,ST,Phek,22648,NDPP,,8192,NPF,,6464,1728,7.63
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,17,Chizami,ST,Phek,18224,NPF,Kezhienyi Khalo,7703,BJP,Kevechutso Doulo,7229,474,2.6
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,18,Chozuba,ST,Phek,26816,NPF,Chotisuh Sazo,13781,NDPP,Kudecho Khamo,12647,1134,4.23
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,19,Phek,ST,Phek,22234,NPF,,13403,NDPP,,7464,5939,26.71
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,20,Meluri,ST,Phek,20494,NPF,Yitachu,9566,NDPP,Z. Nyusietho Nyuthe,9476,90,0.44
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,21,Tuli,ST,Mokokchung,17962,NPF,Amenba Yaden,4749,JDU,L. Temjen Jamir,3660,1089,6.06
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,22,Arkakong,ST,Mokokchung,17201,NPP,Imnatiba,7481,NPF,Nuklutoshi,6540,941,5.47
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,23,Impur,ST,Mokokchung,10691,NPF,Imtiwapang Aier,5313,NDPP,T. N. Mannen,5245,68,0.64
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,24,Angetyongpang,ST,Mokokchung,14996,IND,,5403,NDPP,,4289,1114,7.43
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,25,Mongoya,ST,Mokokchung,14226,NPF,Ngangshi K. Ao,6988,NDPP,Alemtemshi Jamir,6635,353,2.48
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,26,Aonglenden,ST,Mokokchung,11261,NDPP,,5396,NPF,,5305,91,0.81
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,27,Mokokchung Town,ST,Mokokchung,5488,NDPP,,2749,NPF,,1817,932,16.98
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,28,Koridang,ST,Mokokchung,19911,NPF,Imkong L. Imchen,9243,NPP,T. Chalukumba Ao,9087,156,0.78
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,29,Jangpetkong,ST,Mokokchung,10500,BJP,Longrineken,3685,NPF,E. T. Sunup,3403,282,2.69
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,30,Alongtaki,ST,Mokokchung,14142,BJP,Temjen Imna Along,7065,NPF,Benjongliba Aier,6963,102,0.72
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,31,Akuluto,ST,Zunheboto,11172,BJP,Kazheto Kinimi,5874,NPF,K. Khekaho Assumi,4983,891,7.98
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,32,Atoizu,ST,Zunheboto,16961,NPF,Picto Shohe,8695,BJP,Kiyezhe L. Chishi,7741,954,5.62
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,33,Suruhoto,ST,Zunheboto,14849,BJP,H. Khehovi,11847,NPF,Kaito Jakhalu,2509,9338,62.89
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,34,Aghunato,ST,Zunheboto,14347,NDPP,Pukhayi,7742,NPF,Hukiye N. Tissica,6023,1719,11.98
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,35,Zunheboto,ST,Zunheboto,20708,NDPP,,11470,NPF,,8370,3100,14.97
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,36,Satakha,ST,Zunheboto,16037,JDU,G. Kaito Aye,7566,NPF,Zheito Chophy,4575,2991,18.65
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,37,Tyui,ST,Wokha,22201,BJP,,11879,NPF,,8742,3137,14.13
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,38,Wokha,ST,Wokha,35334,NPF,,19126,JDU,,8123,11003,31.14
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,39,Sanis,ST,Wokha,23864,NDPP,Mhathung Yanthan,11738,JDU,Ramongo Lotha,8407,3331,13.96
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,40,Bhandari,ST,Wokha,26951,BJP,,12052,NPF,,11716,336,1.25
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,41,Tizit,ST,Mon,18672,BJP,P. Paiwang Konyak,7609,IND,Y. Wangto Konyak,5008,2601,13.93
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,42,Wakching,ST,Mon,20143,NPF,Y. M. Yollow Konyak,11088,NDPP,M. C. Konyak,8583,2505,12.44
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,43,Tapi,ST,Mon,14318,NDPP,Noke Wangnao,5322,JDU,N. Aphoa Konyak,3786,1536,10.73
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,44,Phomching,ST,Mon,20673,NDPP,Pohwang Konyak,9228,NPF,K. Konngam Konyak,8345,883,4.27
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,45,Tehok,ST,Mon,15536,NPF,C. L. John,10648,BJP,C. Kawang Konyak,4148,6500,41.84
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,46,Mon Town,ST,Mon,20257,NPF,N. Thongwang Konyak,6481,NDPP,Y. Mankhao Konyak,6448,33,0.16
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,47,Aboi,ST,Mon,11672,NPF,E. Eshak Konyak,6173,NDPP,Awan Konyak,5247,926,7.93
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,48,Moka,ST,Mon,18120,NPF,E. E. Pangteang,9060,NDPP,K. Kiko Konyak,8886,174,0.96
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,49,Tamlu,ST,Tuensang,15152,NPF,B. S. Nganlang Phom,6312,NDPP,B. Phongshak Phom,5394,918,6.06
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,50,Longleng,ST,Tuensang,24414,BJP,S. Pangnyu Phom,9961,NPP,Y. B. Angam Phom,8958,1003,4.11
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,51,Noksen,ST,Tuensang,12508,NDPP,C. M. Chang,5387,NPF,W. Chingmak Chang,4688,699,5.59
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,52,Longkhim Chare,ST,Tuensang,21975,NPF,Muthingnyuba Sangtam,10190,BJP,A. Imtilemba Sangtam,8168,2022,9.2
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,53,Tuensang Sadar I,ST,Tuensang,18475,NPF,Toyang Chang,10509,NDPP,T. Mongko Chang,7113,3396,18.38
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,54,Tuensang Sadar II,ST,Tuensang,19633,NPF,Kejong Chang,8961,NCP,H. Zungkum Chang,6363,2598,13.23
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,55,Tobu,ST,Tuensang,19799,NDPP,N. Bongkhao Konyak,10753,NPF,Naiba Konyak,8828,1925,9.72
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,56,Noklak,ST,Tuensang,16534,BJP,H. Haiying,6610,NPF,P. Longon,6605,5,0.03
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,57,Thonoknyu,ST,Tuensang,19616,NPP,L. Khumo Khiamniungan,10067,NPF,S. Heno Khiamniungan,5214,4853,24.74
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,58,Shamator-Chessore,ST,Tuensang,16801,NDPP,Toshi Wungtung,4773,NPF,R. Tohanba,4432,341,2.03
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,59,Seyochung-Sitimi,ST,Tuensang,23866,BJP,V. Kashiho Sangtam,12477,NPF,C. Kipili Sangtam,11002,1475,6.18
+ae-nagaland-2018,AE,Nagaland,2018,2018,official_winners_only,60,Pungro-Kiphire,ST,Tuensang,30513,NPF,T. Torechu,10734,JDU,T. Yangseo Sangtam,10103,631,2.07

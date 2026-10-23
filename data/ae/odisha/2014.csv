@@ -1,0 +1,148 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,1,Padmapur,GEN,Bargarh,177283,BJP,Pradip Purohit,78916,BJD,Bijaya Ranjan Sing Bariha,53536,25380,14.32
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,2,Bijepur,GEN,Bargarh,162935,INC,Subal Sahu,108655,BJD,Prasanna Acharya,30294,78361,48.09
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,3,Bargarh,GEN,Bargarh,142052,BJD,Debesh Acharya,59754,INC,Sadhu Nepak,31727,28027,19.73
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,4,Attabira,SC,Bargarh,150973,BJD,Snehangini Chhuria,84411,INC,Nihar Ranjan Mahananda,28649,55762,36.94
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,5,Bhatli,GEN,Bargarh,164091,BJD,Susanta Singh,69279,IND,Sushant Mishra,34893,34386,20.96
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,6,Brajarajnagar,GEN,Jharsuguda,144992,BJP,Radharani Panda,57038,BJD,Anup Kumar Sai,55715,1323,0.91
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,7,Jharsuguda,GEN,Jharsuguda,155291,INC,Naba Kishore Das,80786,BJD,Kishore Kumar Mohanty,31629,49157,31.65
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,8,Talsara,ST,Sundargarh,134929,INC,Prafulla Majhi,51411,BJD,Binaya Toppo,49690,1721,1.28
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,9,Sundargarh,ST,Sundargarh,153186,INC,Jogesh Kumar Singh,78816,BJD,Kusum Tete,44519,34297,22.39
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,10,Biramitrapur,ST,Sundargarh,154644,SKD,George Tirkey,58793,BJP,Shankar Oram,57199,1594,1.03
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,11,Raghunathapali,SC,Sundargarh,96303,BJD,Subrat Tarai,42718,BJP,Jagabandhu Behera,27788,14930,15.5
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,12,Rourkela,GEN,Sundargarh,113594,BJP,Dilip Ray,56609,BJD,Sarada Prasad Nayak,26051,30558,26.9
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,13,Rajgangpur,ST,Sundargarh,153769,BJD,Mangala Kisan,86012,INC,Gregory Minz,44029,41983,27.3
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,14,Bonai,ST,Sundargarh,151253,CPI(M),Laxman Munda,43676,BJD,Dayanidhi Kishan,42774,902,0.6
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,15,Kuchinda,ST,Sambalpur,152190,BJP,Rabi Narayan Naik,53960,BJD,Bhubaneswar Kisan,41419,12541,8.24
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,16,Rengali,SC,Sambalpur,136189,BJD,Ramesh Patua,64025,BJP,Nauri Nayak,43022,21003,15.42
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,17,Sambalpur,GEN,Sambalpur,113329,BJD,Raseswari Panigrahi,40442,BJP,Jayanarayan Mishra,37533,2909,2.57
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,18,Rairakhol,GEN,Sambalpur,132232,BJD,Rohit Pujari,56517,INC,Assaf Ali Khan,52338,4179,3.16
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,19,Debagarh,GEN,Deogarh,157098,BJP,Nitesh Gangadeb,65018,BJD,Anita Pradhan,46105,18913,12.04
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,20,Telkoi,ST,Keonjhar,153131,BJD,Bedabyasa Nayak,77520,INC,Dhanurjaya Sidu,36759,40761,26.62
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,21,Ghasipura,GEN,Keonjhar,152966,BJD,Badri Narayan Patra,71486,BJP,Satyabrata Panda,69933,1553,1.02
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,22,Anandapur,SC,Keonjhar,150539,BJD,Mayadhar Jena,77051,INC,Jayadev Jena,59136,17915,11.9
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,23,Patna,ST,Keonjhar,141421,BJD,Hrushikesh Naik,78394,BJP,Bhabani Sankar Nayak,27417,50977,36.05
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,24,Keonjhar,ST,Keonjhar,151658,BJD,Abhiram Naik,70399,BJP,Mohan Charan Majhi,37795,32604,21.5
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,25,Champua,GEN,Keonjhar,79030,IND,Sanatan Mahakud,27034,BJD,Kusha Apat,5637,21397,27.07
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,26,Jashipur,ST,Mayurbhanj,140474,BJD,Mangal Singh Mudi,41713,OTH,Shambhu Nath Naik,40532,1181,0.84
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,27,Saraskana,ST,Mayurbhanj,135945,BJD,Bhadav Hansdah,41488,JMM,Ramachandra Murmu,39558,1930,1.42
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,28,Rairangpur,ST,Mayurbhanj,143184,BJD,Sushil Kumar Hansdah,52797,BJP,Droupadi Murmu,44773,8024,5.6
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,29,Bangiriposi,ST,Mayurbhanj,147417,BJD,Sudam Marndi,60814,BJP,Purusotam Naik,60767,47,0.03
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,30,Karanjia,ST,Mayurbhanj,123381,BJD,Bijay Kumar Naik,43820,BJP,Jyotsna Bhansingh,23939,19881,16.11
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,31,Udala,ST,Mayurbhanj,134220,BJD,Golakabihari Naik,68185,BJP,Bhaskar Madhei,36403,31782,23.68
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,32,Betanoti,SC,Mayurbhanj,128961,BJD,Ganeswar Patra,62329,INC,Jaminikanta Naik,30774,31555,24.47
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,33,Baripada,ST,Mayurbhanj,140322,BJD,Sananda Marndi,53000,BJP,Nisamani Baske,41095,11905,8.48
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,34,Moroda,GEN,Mayurbhanj,157348,BJD,Prabin Chandra Bhanjdeo,62966,BJP,Rajkisore Das,31498,31468,20.0
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,35,Jaleswar,GEN,Balasore,156103,BJD,Aswini Kumar Patra,73336,INC,Debiprasanna Chand,52818,20518,13.14
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,36,Bhogorai,GEN,Balasore,145410,BJD,Ananta Das,70897,INC,Satya Shiba Das,59194,11703,8.05
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,37,Basta,GEN,Balasore,151531,BJD,Nityananda Sahoo,68370,INC,Jay Narayan Mohanty,64506,3864,2.55
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,38,Baleswar,GEN,Balasore,140093,BJD,Jiban Pratap Dash,43536,BJP,Madanmohan Dutta,30037,13499,9.64
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,39,Remuna,SC,Balasore,147067,BJP,Gobinda Chandra Das,83956,BJD,Sudrasana Jena,37485,46471,31.6
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,40,Nilagiri,GEN,Balasore,138255,BJD,,47492,BJP,,27631,19861,14.37
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,41,Soro,SC,Balasore,135833,BJD,Parshu Ram Dhada,55094,INC,Mrutyunjaya Jena,51926,3168,2.33
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,42,Simulia,GEN,Balasore,155185,BJD,Jyoti Prakash Panigrahi,70987,INC,Padma Lochan Panda,40786,30201,19.46
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,43,Bhandaripokhari,GEN,Bhadrak,153564,BJD,Prafulla Samal,83208,INC,Subrata Das,49530,33678,21.93
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,44,Bhadrak,GEN,Bhadrak,159116,BJD,Jugal Kishore Patnaik,83152,INC,Naren Palei,35879,47273,29.71
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,45,Basudebapur,GEN,Bhadrak,164945,BJD,Bijayashree Routray,78913,INC,Madhabananda Mallick,74889,4024,2.44
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,46,Dhamanagar,SC,Bhadrak,146326,BJD,Muktikanta Mandal,68823,BJP,Bishnucharan Sethi,34548,34275,23.42
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,47,Chandabali,GEN,Bhadrak,158907,BJD,Byomakesh Ray,54380,INC,Amiya Mahapatra,41573,12807,8.06
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,48,Binjharpur,SC,Jajpur,126557,BJD,Pramila Mallik,76921,INC,Babita Mallick,34379,42542,33.61
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,49,Bari,GEN,Jajpur,133158,BJD,Debasis Nayak,58524,IND,Biswa Ranjan Mallick,41488,17036,12.79
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,50,Barchana,GEN,Jajpur,121693,BJD,Amar Prasad Satpathy,52188,INC,Janmejoy Lenka,30827,21361,17.55
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,51,Dharmasala,GEN,Jajpur,153026,BJD,Pranab Kumar Balabantaray,88024,INC,Srinath Mishra,26594,61430,40.14
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,52,Jajapur,GEN,Jajpur,146368,BJD,Pranab Prakash Das,88596,INC,Santosh Nanda,36715,51881,35.45
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,53,Korei,GEN,Jajpur,130862,BJD,Akash Dasnayak,53065,INC,Biswajeet Nayak,42070,10995,8.4
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,54,Sukinda,GEN,Jajpur,142080,BJD,Pritiranjan Gharai,62546,INC,Sarat Raut,31646,30900,21.75
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,55,Dhenkanal,GEN,Dhenkanal,168441,BJD,Sudhira Samal,80373,BJP,Krushna Chandra Patra,44654,35719,21.21
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,56,Hindol,SC,Dhenkanal,162116,BJD,Simarani Nayak,78876,BJP,Laxmidhar Behara,38388,40488,24.97
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,57,Kamakhyanagar,GEN,Dhenkanal,139454,BJD,Prafulla Kumar Mallik,66388,INC,Bhabani Sankar Mohapatra,27473,38915,27.91
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,58,Parjanga,GEN,Dhenkanal,147770,BJD,Nrusingha Charan Sahu,81489,BJP,Bibhuti Bhusan Pradhan,33999,47490,32.14
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,59,Pallahara,GEN,Angul,121219,BJD,Mahesh Sahoo,57461,BJP,Ashok Mohanty,30934,26527,21.88
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,60,Talcher,GEN,Angul,112704,BJD,Braja Kishore Pradhan,49547,BJP,Kalindicharan Samal,25422,24125,21.41
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,61,Angul,GEN,Angul,139576,BJD,Rajanikant Singh,57039,INC,Pratap Chandra Pradhan,50593,6446,4.62
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,62,Chhendipada,SC,Angul,145428,BJD,Susanta Behera,67805,INC,Agasti Behera,30393,37412,25.73
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,63,Athamallik,GEN,Angul,141562,BJD,Sanjib Sahoo,61981,INC,Surendra Pradhan,45983,15998,11.3
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,64,Birmaharajpur,SC,Subarnapur,147348,BJD,Padmanabha Behera,61648,BJP,Ananda Barik,60187,1461,0.99
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,65,Subarnapur,GEN,Subarnapur,179070,BJD,Niranjan Pujari,72545,BJP,Pramod Mohapatra,45486,27059,15.11
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,66,Loisinga,SC,Balangir,157681,BJD,Jogendra Behera,59944,INC,Pandaba Chandra Kumbhar,56712,3232,2.05
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,67,Patanagarh,GEN,Balangir,177270,BJP,Kanak Vardhan Singh Deo,86766,BJD,Prakruti Debi Singh Deo,54761,32005,18.05
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,68,Bolangir,GEN,Balangir,152770,INC,Narasingha Mishra,70845,BJD,Anaga Udaya Singh Deo,69195,1650,1.08
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,69,Titilagarh,GEN,Balangir,161606,BJD,Tukuni Sahu,70928,INC,Surendra Singh Bhoi,69320,1608,1.0
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,70,Kantabanji,GEN,Balangir,167762,BJD,Ayyub Khan,66531,INC,Santosh Singh Saluja,62745,3786,2.26
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,71,Nuapada,GEN,Nuapada,145431,BJP,Basanta Panda,58404,BJD,Rajendra Dholakia,51832,6572,4.52
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,72,Khariar,GEN,Nuapada,156026,BJP,Durjyodhan Majhi,60757,INC,Adhiraj Mohan Panigrahi,59369,1388,0.89
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,73,Umarkote,ST,Nabarangpur,132328,BJD,Subhash Gond,52653,INC,Jathindra Gond,42921,9732,7.35
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,74,Jharigam,ST,Nabarangpur,150190,BJD,Prakash Chandra Majhi,67121,INC,Uldhar Majhi,62569,4552,3.03
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,75,Nabarangpur,ST,Nabarangpur,163381,BJD,Manohar Randhari,54379,INC,Sadan Nayak,52468,1911,1.17
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,76,Dabugam,ST,Nabarangpur,143151,INC,Bhujabal Majhi,89724,BJD,Motiram Nayak,44768,44956,31.4
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,77,Lanjigarh,ST,Kalahandi,142082,BJD,Balabhadra Majhi,69749,INC,Pradip Kumar Dishari,56653,13096,9.22
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,78,Junagarh,GEN,Kalahandi,160446,BJD,Dibya Sankar Mishra,82625,BJP,Anil Singh Deo,51222,31403,19.57
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,79,Dharmagarh,GEN,Kalahandi,172692,BJD,Puspendra Singh Deo,64309,BJP,Rabindra Patajosi,54528,9781,5.66
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,80,Bhabanipatana,SC,Kalahandi,144734,BJD,Anam Naik,52041,INC,Dusmanta Naik,50337,1704,1.18
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,81,Narla,GEN,Kalahandi,150986,BJD,Dhaneswar Majhi,52574,INC,Jagannath Pattnayak,47788,4786,3.17
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,82,Baliguda,ST,Kandhamal,96494,BJD,Rajib Patra,57000,INC,Kiesa Pradhan,25654,31346,32.48
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,83,Ghumusur Udayagiri,ST,Kandhamal,121690,INC,Jacob Pradhan,69434,BJD,Pradeep Kumar Pradhan,33314,36120,29.68
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,84,Phulbani,ST,Kandhamal,120157,BJD,Duguni Kanhar,47654,BJP,Debanarayan Pradhan,42329,5325,4.43
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,85,Kantamal,GEN,Boudh,114969,BJD,Mahidhar Rana,41326,INC,Harinarayana Pradhan,35042,6284,5.47
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,86,Boudh,GEN,Boudh,108941,BJD,Pradip Kumar Amat,58869,INC,Susanta Kumar Pradhan,26612,32257,29.61
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,87,Baramba,GEN,Cuttack,153536,BJD,Debiprasad Mishra,73733,INC,Laxmi Debi,38520,35213,22.93
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,88,Banki,GEN,Cuttack,141886,BJD,Pravat Tripathy,63123,INC,Rabindra Mallick,61593,1530,1.08
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,89,Athagarh,GEN,Cuttack,143589,BJD,Ranendra Pratap Swain,90249,INC,Bichitrananda Muduli,20211,70038,48.78
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,90,Cuttack City,GEN,Cuttack,117676,BJD,Debashish Samantaray,73808,INC,Mohammed Moquim,28817,44991,38.23
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,91,Choudwar,GEN,Cuttack,117421,BJD,Pravat Ranjan Biswal,65380,INC,Suresh Mohapatra,23057,42323,36.04
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,92,Niali,SC,Cuttack,155094,BJD,Pramod Kumar Mallick,94173,INC,Chhabi Malik,25336,68837,44.38
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,93,Cuttack Sadar,SC,Cuttack,137432,BJD,Chandra Sarathi Behera,63665,BJP,Dilip Mallick,27305,36360,26.46
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,94,Salipur,GEN,Cuttack,163833,INC,Prakash Chandra Behera,96644,BJD,Prasanta Behera,40215,56429,34.44
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,95,Mahanga,GEN,Cuttack,176898,BJD,Pratap Jena,93353,IND,Sarada Prasad Padhan,31988,61365,34.69
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,96,Patkura,GEN,Kendrapara,157970,BJD,Bed Prakash Agrawal,104008,INC,Jayanta Mohanty,36286,67722,42.87
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,97,Kendrapara,SC,Kendrapara,129634,BJD,Kishore Chandra Tarai,58370,INC,Ganeswar Behera,56686,1684,1.3
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,98,Aul,GEN,Kendrapara,152746,INC,Debendra Sarma,69098,BJD,Pratap Keshari Deb,62174,6924,4.53
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,99,Rajanagar,GEN,Kendrapara,152067,INC,Ansuman Mohanty,72516,BJD,Dhruba Charan Sahoo,67034,5482,3.6
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,100,Mahakalapada,GEN,Kendrapara,160977,BJD,Atanu Sabyasachi Nayak,101583,BJP,Bijaya Mohapatra,34041,67542,41.96
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,101,Paradeep,GEN,Jagatsinghpur,138376,BJD,Damodar Rout,75191,INC,Arindam Sarkhel,45084,30107,21.76
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,102,Tirtol,SC,Jagatsinghpur,153098,BJD,Rajashree Mallick,76750,INC,Rajakisor Behara,33236,43514,28.42
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,103,Balikuda-Erasama,GEN,Jagatsinghpur,170699,BJD,Prasanta Muduli,81215,INC,Lalatendu Mohapatra,60269,20946,12.27
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,104,Jagatsingpur,GEN,Jagatsinghpur,143072,INC,Chiranjib Biswal,66082,BJD,Bishnu Charan Das,60963,5119,3.58
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,105,Kakatapur,SC,Puri,151467,BJD,Surendra Sethy,71247,INC,Biswa Bhusan Das,65963,5284,3.49
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,106,Nimapara,GEN,Puri,164859,BJD,Samir Ranjan Dash,75014,BJP,Pravati Parida,50944,24070,14.6
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,107,Puri,GEN,Puri,137246,BJD,Maheswar Mohanty,72583,INC,Uma Ballav Rath,32180,40403,29.44
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,108,Bramhagiri,GEN,Puri,158062,BJD,Sanjaya Kumar Das Burma,75718,INC,Lalitendu Bidyadhar Mohapatra,36937,38781,24.54
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,109,Satyabadi,GEN,Puri,138518,IND,Umakanta Samantaray,79970,BJD,Rama Ranjan Baliarsingh,26769,53201,38.41
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,110,Pipili,GEN,Puri,154510,BJD,Pradeep Maharathy,65609,INC,Judhistira Samantaray,33866,31743,20.54
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,111,Jayadeb,SC,Khurda,124330,BJD,Sasi Bhusan Behera,49936,INC,Naba Kishor Mallick,35580,14356,11.55
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,112,Bhubaneswar Central,GEN,Khurda,89242,BJD,Bijaya Mohanty,42689,BJP,Jagannath Pradhan,18813,23876,26.75
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,113,Bhubaneswar North,GEN,Khurda,114058,BJD,Priyadarsi Mishra,62511,BJP,Dilip Mohanty,24743,37768,33.11
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,114,Ekamra Bhubaneswar,GEN,Khurda,115914,BJD,Ashok Chandra Panda,70392,BJP,Amiya Dash,26653,43739,37.73
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,115,Jatani,GEN,Khurda,141323,BJD,Bhagirathi Bhadajena,81292,INC,Suresh Kumar Routray,44911,36381,25.74
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,116,Begunia,GEN,Khurda,137389,BJD,Prasanta Kumar Jagadev,64564,OTH,Pradeep Sahoo,62249,2315,1.68
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,117,Khorda,GEN,Khurda,152630,BJD,Rajendra Kumar Sahoo,60363,BJP,Jyotirindra Nath Mitra,38583,21780,14.27
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,118,Chilika,GEN,Khurda,140816,BJP,Bibhutibhusan Harichandran,73631,BJD,Raghunath Sahu,38833,34798,24.71
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,119,Ranpur,GEN,Nayagarh,132491,BJD,Rabinarayan Mohapatra,66746,BJP,Surama Padhy,32806,33940,25.62
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,120,Khandapada,GEN,Nayagarh,118676,BJD,Anubhav Patnaik,75366,OTH,Soumya Ranjan Patnaik,27967,47399,39.94
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,121,Daspalla,SC,Nayagarh,112985,BJD,Purna Chandra Nayak,59179,INC,Indumati Nayak,17536,41643,36.86
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,122,Nayagarh,GEN,Nayagarh,137540,BJD,Arun Kumar Sahoo,81655,INC,Manoj Ray,28141,53514,38.91
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,123,Bhanjanagar,GEN,Ganjam,139396,BJD,Bikram Keshari Arukha,77354,INC,Binayak Tripathy,34502,42852,30.74
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,124,Polosara,GEN,Ganjam,140518,BJD,Srikanta Sahu,56038,INC,Gokula Nanda Mallik,35713,20325,14.46
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,125,Kabisurjyanagar,GEN,Ganjam,128163,BJD,Suguna Kumari Deo,69433,IND,Hara Prasad Sahu,19648,49785,38.85
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,126,Khalikote,SC,Ganjam,125583,BJD,Purnachandra Sethy,91212,INC,Pandaba Jalli,17284,73928,58.87
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,127,Chhatrapur,SC,Ganjam,130506,BJD,Priyansu Pradhan,56221,CPI,Krushna Chandra Nayak,28757,27464,21.04
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,128,Asika,GEN,Ganjam,105432,BJD,Debaraj Mohanty,57754,INC,Debaraj Mohanty,19222,38532,36.55
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,129,Surada,GEN,Ganjam,132630,BJD,Purna Chandra Swain,79493,INC,Basanta Bisoyi,24639,54854,41.36
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,130,Sanakhemundi,GEN,Ganjam,128927,BJD,Nandini Devi,89085,INC,Ramesh Chandra Jena,32956,56129,43.54
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,131,Hinjili,GEN,Ganjam,124705,BJD,Naveen Patnaik,91022,INC,Sibaram Patra,19459,71563,57.39
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,132,Gopalpur,GEN,Ganjam,118721,BJD,Pradeep Kumar Panigrahy,59159,BJP,Bibhuti Bhusan Jena,23295,35864,30.21
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,133,Berhampur,GEN,Ganjam,104698,BJD,Ramesh Chandra Chyau Patnaik,67837,INC,Bikram Kumar Panda,12897,54940,52.47
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,134,Digapahandi,GEN,Ganjam,120011,BJD,Surjya Narayana Patra,53271,INC,S. Sujith Kumar,32894,20377,16.98
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,135,Chikiti,GEN,Ganjam,117739,BJD,Usha Devi,75214,INC,Manoranjan Dyan Samantara,29771,45443,38.6
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,136,Mohana,ST,Gajapati,143139,BJD,Basanti Mallick,79197,INC,Dasarathi Gomango,39534,39663,27.71
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,137,Paralakhemundi,GEN,Gajapati,127952,INC,K. Surya Rao,38097,BJD,K. Narayana Rao,36479,1618,1.26
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,138,Gunupur,ST,Rayagada,127814,BJD,Trinatha Gomango,46687,INC,Purusottam Gomango,46229,458,0.36
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,139,Bissam Cuttack,ST,Rayagada,148765,BJD,Jagannath Saraka,67929,INC,Dambarudhar Ulaka,66016,1913,1.29
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,140,Rayagada,ST,Rayagada,150163,BJD,Lal Bihari Himirika,70923,INC,Makaranda Muduli,41459,29464,19.62
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,141,Lakhmipur,ST,Koraput,111840,INC,Kailash Chandra Kulesika,61065,BJD,Hema Gamang,32733,28332,25.33
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,142,Kotpad,ST,Koraput,145938,INC,Chandra Sekhar Majhi,84050,BJD,Ashok Pangi,43248,40802,27.96
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,143,Jeypore,GEN,Koraput,138156,INC,Tara Prasad Bahinipati,80219,BJD,Rabi Narayan Nanda,40232,39987,28.94
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,144,Koraput,SC,Koraput,118787,INC,Krushna Chandra Sagaria,57475,BJD,Raghuram Machha,48787,8688,7.31
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,145,Pottangi,ST,Koraput,124499,BJD,Prafulla Pangi,64001,INC,Rama Chandra Kadam,36882,27119,21.78
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,146,Malkangiri,ST,Malkangiri,147167,BJD,Manasa Madkami,76879,INC,Mala Madhi,34660,42219,28.69
+ae-odisha-2014,AE,Odisha,2014,2014,official_winners_only,147,Chitrakonda,ST,Malkangiri,110925,BJD,Dambaru Sisa,63815,INC,Sunadhar Kakari,26087,37728,34.01

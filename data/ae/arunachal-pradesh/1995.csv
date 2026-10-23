@@ -1,0 +1,61 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,1,Lumla,ST,Tawang,5333,IND,R.G. Rinpoche,3031,INC,Jambey Wangdi,1834,1197,22.45
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,2,Tawang,ST,Tawang,5839,INC,Thupten Tempa,3024,IND,Theg Tse Rinpoche,2815,209,3.58
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,3,Mukto,ST,Tawang,4747,INC,Dorjee Khandu,3532,JD,Rinchen Dorjee,1215,2317,48.81
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,4,Dirang,ST,West Kameng,8026,INC,Tsering Gyurme,4054,IND,Lobsang Tsering,2791,1263,15.74
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,5,Kalaktang,ST,West Kameng,6656,INC,Rinchin Khandu Khrimey,4071,BJP,Nima Tsering Khrime,2585,1486,22.33
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,6,Thrizino-Buragaon,ST,West Kameng,5930,IND,Naresh Glow,2493,INC,Sinam Dususow,1563,930,15.68
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,7,Bomdila,ST,West Kameng,5895,INC,Japu Deru,3358,IND,R.T. Khunjuju,2537,821,13.93
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,8,Bameng,ST,East Kameng,6183,INC,Medhi Dodum,4525,JD,Donglo Sonam,1658,2867,46.37
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,9,Chayang Tajo,ST,East Kameng,7019,INC,Kameng Dolo,3849,JD,Tame Phassang,3170,679,9.67
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,10,Seppa East,ST,East Kameng,6983,JP,Bida Taku,3193,JD,Atum Welly,2062,1131,16.2
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,11,Seppa West,ST,East Kameng,4481,INC,Hari Notung,1620,JD,Rachob Taba,1326,294,6.56
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,12,Pakke Kessang,ST,East Kameng,5037,INC,Dera Natung,2838,IND,Techi Hemu,1715,1123,22.3
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,13,Itanagar,ST,Papum Pare *,22462,INC,Lechi Legi,11740,JD,Nabum Rebia,6717,5023,22.36
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,14,Doimukh,ST,Papum Pare *,8750,JD,T.C. Teli,4814,INC,Ngurang Tazap,3936,878,10.03
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,15,Sagalee,ST,Papum Pare *,7300,INC,Nabam Tuki,4579,IND,Taba Haniya,2472,2107,28.86
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,16,Yachuli,ST,Lower Subansiri,7507,INC,Neelam Taram,5933,JD,Bida Taba Goyee,1574,4359,58.07
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,17,Ziro Hapoli,ST,Lower Subansiri,10813,JP,Tapi Batt,3894,INC,Kuru Hasang,3681,213,1.97
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,18,Palin,ST,Kurung Kumey,7030,JD,Takam Sanjoy,4072,INC,Dugi Tajik,2805,1267,18.02
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,19,Nyapin Palin,ST,Kurung Kumey,7459,INC,Tadar Taniang,3062,JD,Tattar Kipa,2538,524,7.03
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,20,Tali,ST,Kurung Kumey,4091,INC,Zara Tata,2182,IND,Rigio Tache,1752,430,10.51
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,21,Koloriang,ST,Kurung Kumey,6543,IND,Kahfa Bengia,3286,INC,Chera Talo,3197,89,1.36
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,22,Nacho,ST,Upper Subansiri,4526,INC,Tarik Rava,1940,JD,Tanga Byaling,1624,316,6.98
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,23,Taliha,ST,Upper Subansiri,4158,IND,Punji Mara,1677,INC,Tara Payeng,1031,646,15.54
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,24,Daporijo,ST,Upper Subansiri,7613,IND,Daklo Nidak,3911,INC,Tadak Dulom,3702,209,2.75
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,25,Raga,ST,Upper Subansiri,7218,INC,Talo Mugli,5147,JD,Lonku Tania,2071,3076,42.62
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,26,Dumporijo,ST,Upper Subansiri,6047,INC,Takar Doni,3405,JD,Tadam Lida,2642,763,12.62
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,27,Liromoba,ST,West Siang,5626,INC,Lijum Ronya,3566,IND,Libi Yomgam,1995,1571,27.92
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,28,Likabali,ST,West Siang,5704,INC,Kardu Taipodia,3774,IND,Rima Taipodia,1820,1954,34.26
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,29,Basar,ST,West Siang,9745,IND,Tomo Riba,5138,INC,Gojen Gadi,4360,778,7.98
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,30,Along West,ST,West Siang,6512,INC,Kento Ete,3086,JD,Kirge Eshi,2110,976,14.99
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,31,Along East,ST,West Siang,7541,INC,Doi Ado,2815,IND,Gumli Lollen,2462,353,4.68
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,32,Rumgong,ST,West Siang,6260,INC,Dibang Tatak,2901,JD,Tamiyo Taga,2709,192,3.07
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,33,Mechuka,ST,West Siang,4629,INC,Pasang Wangchuk Sona,1843,JD,Tadik Chije,1632,211,4.56
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,34,Tuting Yingkiong,ST,Upper Siang *,7707,INC,Gegong Apang,6189,JD,Oteng Jongkey,1518,4671,60.61
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,35,Pangin,ST,East Siang,7715,INC,Tahung Tatak,3358,BJP,Tanyong Tatak,2337,1021,13.23
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,36,Nari-Koyu,ST,East Siang,3905,INC,Tako Dabi,1947,IND,Tanya Dabi,1726,221,5.66
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,37,Pasighat West,ST,East Siang,8105,INC,Yadap Apang,4165,IND,Tatong Padung,3861,304,3.75
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,38,Pasighat East,ST,East Siang,9981,INC,Tobar Jamoh,5410,IND,Ninong Ering,3907,1503,15.06
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,39,Mebo,ST,East Siang,5765,INC,Lombo Tayeng,2772,JD,Bakin Pertin,1872,900,15.61
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,40,Mariyang-Geku,ST,Upper Siang *,7452,INC,Kabang Borang,3684,IND,J.K. Panggeng,2501,1183,15.87
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,41,Anini,ST,Dibang Valley,3024,INC,Tade Tacho,1274,JD,Rajesh Tacho,1215,59,1.95
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,42,Dambuk,ST,Lower Dibang Valley,6780,IND,Roding Pertin,3513,INC,Bidi Lego,3267,246,3.63
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,43,Roing,ST,Lower Dibang Valley,7273,INC,Mukut Mithi,4258,IND,Akane Linggi,2421,1837,25.26
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,44,Tezu Hayuliang,ST,Lohit,8514,INC,Sobeng Tayang,4694,BJP,Sotai Kri,2769,1925,22.61
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,45,Hayuliang,ST,Anjaw,7824,INC,Kalikho Pul,5261,JD,Khapriso Krong,2563,2698,34.48
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,46,Chowkham,ST,Lohit,7976,INC,Chow Tewa Mein,3793,JD,Indrajit Namchoom,2949,844,10.58
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,47,Namsai,ST,Lohit,12852,INC,Chow Rajingda Namshum,6791,JD,C.P. Namchoom,6061,730,5.68
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,48,Lekang,ST,Lohit,9836,JD,Chowna Mein,5913,INC,Omem Moyong Deori,3923,1990,20.23
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,49,Bordumsa Diyum,GEN,Changlang,7468,INC,C.C. Singpho,3811,IND,Singdunong Singpho,2544,1267,16.97
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,50,Miao,ST,Changlang,10350,INC,Samchom Ngemu,6140,IND,Kamlung Mosang,4210,1930,18.65
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,51,Nampong,ST,Changlang,6646,IND,Setong Sena,4054,INC,Komoli Mosang,2592,1462,22.0
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,52,Changlang South,ST,Changlang,3171,INC,Tengam Ngemu,1774,IND,Ngungtim Changmi,1397,377,11.89
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,53,Changlang North,ST,Changlang,6664,IND,Thinghap Taiju,3373,INC,Wangnia Pongte,3291,82,1.23
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,54,Namsang,ST,Tirap,6344,IND,Wangcha Rajkumar,3842,INC,Wangpha Lowang,2502,1340,21.12
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,55,Khonsa East,ST,Tirap,6133,INC,T.L. Rajkumar,3062,IND,Kamthok Lowang,3033,29,0.47
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,56,Khonsa West,ST,Tirap,5942,INC,Sijen Kongkang,3506,IND,Wangdi Hakhun,2436,1070,18.01
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,57,Borduria Bogapani,ST,Tirap,5107,INC,Lowangcha Wanglat,3653,IND,Dinwang Lowang,1454,2199,43.06
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,58,Kanubari,ST,Tirap,5785,INC,Noksong Boham,2351,IND,Hejam Ponglaham,1858,493,8.52
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,59,Longding Pumao,ST,Tirap,6742,IND,Tingpong Wangham,4256,INC,Langfu Lukham,2486,1770,26.25
+ae-arunachal-pradesh-1995,AE,Arunachal Pradesh,1995,1995,official,60,Pongchao Wakka,ST,Tirap,10103,IND,Honchun Ngandam,4136,INC,Anok Wangsa,3908,228,2.26

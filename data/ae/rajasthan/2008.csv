@@ -1,0 +1,201 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,1,Sadulshahar,GEN,Ganganagar,137374,INC,Santosh Kumar Saharan,49174,BJP,Gurjant Singh,46299,2875,2.09
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,2,Ganganagar,GEN,Ganganagar,118029,BJP,Radhey Shyam,48453,INC,Rajkumar,36409,12044,10.2
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,3,Karanpur,GEN,Ganganagar,142145,IND,Gurmeet Singh Kunnar,46032,BJP,Surender Pal Singh,39937,6095,4.29
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,4,Suratgarh,GEN,Ganganagar,137417,INC,Ganga Jal,43590,IND,Rajender Singh Bhadu,33781,9809,7.14
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,5,Raisinghnagar,SC,Ganganagar,143873,INC,Daulat Raj,66261,BJP,Nihal Chand,61219,5042,3.5
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,6,Anupgarh,SC,Ganganagar,129817,CPI(M),Pawan Kumar Duggal,48467,INC,Kuldeep Indora,26897,21570,16.62
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,7,Sangaria,GEN,Hanumangarh *,143129,INC,Param Navadeep,36802,BJP,Damyanti Beniwal,28685,8117,5.67
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,8,Hanumangarh,GEN,Hanumangarh *,158389,INC,"Vinod Kumar ""Lilawali""",61079,BJP,Rampratap,60693,386,0.24
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,9,Pilibanga,SC,Hanumangarh *,154137,INC,Aad Ram,52745,BJP,Dharmendra Kumar,46271,6474,4.2
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,10,Nohar,GEN,Hanumangarh *,153227,BJP,Abhishek Matoria,57023,INC,Suchitra Arya,46746,10277,6.71
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,11,Bhadra,GEN,Hanumangarh *,154312,IND,Jaideep,76071,INC,Sanjeev Kumar,40796,35275,22.86
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,12,Khajuwala,SC,Bikaner,95074,BJP,Vishwanath,25985,IND,Govind Ram,25118,867,0.91
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,13,Bikaner West,GEN,Bikaner,102739,BJP,Gopal Krishan,56572,INC,Dr Bulakidas Kalla,37711,18861,18.36
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,14,Bikaner East,GEN,Bikaner,102809,BJP,Sidhi Kumari,60591,INC,Dr. Tanveer Malawat,22938,37653,36.62
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,15,Kolayat,GEN,Bikaner,113100,BJP,Devi Singh Bhati,62078,INC,Hukama Ram,40732,21346,18.87
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,16,Lunkaransar,GEN,Bikaner,105966,INC,Virendra Beniwal,47050,INLD,Laxminarayan,23447,23603,22.27
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,17,Dungargarh,GEN,Churu,121838,INC,Manglaram,54868,IND,Kishnaram,44250,10618,8.71
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,18,Nokha,GEN,Bikaner,133536,IND,Kanhaiya Lal Jhanwar -,49796,INC,Rameshwar Lal Dudi -,47519,2277,1.71
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,19,Sadulpur,GEN,Churu,130414,BJP,Kamla Kaswan,47244,BSP,Virendra Singh,40649,6595,5.06
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,20,Taranagar,GEN,Churu,140662,BJP,Rajendra Rathore,54517,INC,Dr.Chandrashekhar Baid,36904,17613,12.52
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,21,Sardarshahar,GEN,Churu,151539,BJP,Ashok Kumar,73902,INC,Bhanwar Lal,64128,9774,6.45
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,22,Churu,GEN,Churu,116751,INC,Hazi Maqbool,56458,BJP,Harlal Saharan,48347,8111,6.95
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,23,Ratangarh,GEN,Churu,122777,BJP,Raj Kumar Rinwa,54860,INC,Abhinesh Maharshi,37009,17851,14.54
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,24,Sujangarh,SC,Churu,120573,INC,Master Bhanwarlal,56292,BJP,Khemaram,42231,14061,11.66
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,25,Pilani,SC,Jhunjhunun,101035,BJP,Sundar Lal,43506,INC,Hanuman Prasaad,40260,3246,3.21
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,26,Surajgarh,GEN,Jhunjhunun,137001,INC,Sharwan Kumar,44985,BJP,Santosh Ahlawat,37771,7214,5.27
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,27,Jhunjhunu,GEN,Jhunjhunun,112980,INC,Brijendra Singh Ola,38571,BJP,Dr. Mool Singh,29255,9316,8.25
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,28,Mandawa,GEN,Jhunjhunun,103243,INC,Rita Choudhary,28502,IND,Narendra Kumar,28097,405,0.39
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,29,Nawalgarh,GEN,Jhunjhunun,120530,BSP,Dr. Rajkumar Sharma,50273,INC,Pratibha Singh,36193,14080,11.68
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,30,Udaipurwati,GEN,Jhunjhunun,108817,BSP,Rajendra Singh,28478,INC,Vijendra Singh,20641,7837,7.2
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,31,Khetri,GEN,Jhunjhunun,99537,INC,Jitendra Singh,33639,BJP,Dharmpal,22572,11067,11.12
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,32,Fatehpur,GEN,Sikar,105970,INC,Bhanwarukhan,47590,BJP,Nand Kishore Maharia,39326,8264,7.8
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,33,Lachmangarh,GEN,Sikar,128343,INC,Govind Singh Dotasra,31705,IND,Dinesh Joshi,31671,34,0.03
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,34,Dhod,SC,Sikar,131919,CPI(M),Pema Ram,47840,INC,Parasram Mordiya,44695,3145,2.38
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,35,Sikar,GEN,Sikar,120861,INC,Rajendra Pareek,46976,BJP,Mahesh Sharma,39210,7766,6.43
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,36,Dantaramgarh,GEN,Sikar,131809,CPI(M),Amra Ram,45909,INC,Narayan Singh,40990,4919,3.73
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,37,Khandela,GEN,Sikar,119406,BJP,Banshidhar,49398,INC,Mahadev Singh,39500,9898,8.29
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,38,Neem Ka Thana,GEN,Sikar,123656,INC,Ramesh Chand,64075,BJP,Prem Singh Bajor,41416,22659,18.32
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,39,Srimadhopur,GEN,Sikar,117517,INC,Deependra Singh,36590,BJP,Harlal Singh Kharra,29357,7233,6.15
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,40,Kotputli,GEN,Jaipur,107013,LSWP,Ramswaroop Kasana,22328,INC,Rajendra Singh,21435,893,0.83
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,41,Viratnagar,GEN,Jaipur,102454,BJP,Dr. Phool Chand Bhinda,26660,INC,Ram Chandra,22582,4078,3.98
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,42,Shahpura,GEN,Jaipur,111343,BJP,Rao Rajendra Singh,44536,INC,Alok,37321,7215,6.48
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,43,Chomu,GEN,Jaipur,120178,INC,Bhagwan Sahay Saini,45380,BJP,Ram Lal Sharma,45245,135,0.11
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,44,Phulera,GEN,Jaipur,129425,BJP,Nirmal Kumawat,59140,INC,Dr.Hari Singh,56430,2710,2.09
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,45,Dudu,SC,Jaipur,127938,INC,Babu Lal Nagar,63287,BJP,Babu Lal Bachher,57974,5313,4.15
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,46,Jhotwara,GEN,Jaipur,148455,BJP,Rajpal Singh Shekhawat,68851,INC,Lal Chand Kataria,66396,2455,1.65
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,47,Amber,GEN,Jaipur,126125,INC,Ganga Sahay,53179,BJP,Naveen Pilania,49382,3797,3.01
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,48,Jamwa Ramgarh,ST,Jaipur,107734,INC,Gopal Meena,36451,BJP,Jagdish Narayan,34898,1553,1.44
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,49,Hawamahal,GEN,Jaipur,109032,INC,Brij Kishore Sharma,44926,BJP,Manju Sharma,44346,580,0.53
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,50,Vidhyadhar Nagar,GEN,Jaipur,138204,BJP,Narpat Singh Rajvi,64263,INC,Vikram Singh,55223,9040,6.54
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,51,Civil Lines,GEN,Jaipur,116748,INC,Pratap Singh,58166,BJP,Ashok Lahoti,51205,6961,5.96
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,52,Kishanpole,GEN,Jaipur,114911,BJP,Mohan Lal Gupta,56245,INC,Ask Ali Tak,51506,4739,4.12
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,53,Adarsh Nagar,GEN,Jaipur,112422,BJP,Ashok Parnami,52983,INC,Mahir Azad,51265,1718,1.53
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,54,Malviya Nagar,GEN,Jaipur,114459,BJP,Kali Charan Saraff,62011,INC,Rajiv Arora,44453,17558,15.34
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,55,Sanganer,GEN,Jaipur,127518,BJP,Ghanshyam Tiwari,75729,INC,Suresh Mishra,42817,32912,25.81
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,56,Bagru,SC,Jaipur,119155,INC,Ganga Devi,57036,BJP,Rakshpal Kuldeep,53519,3517,2.95
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,57,Bassi,ST,Jaipur,115326,IND,Anju Devi Dhanka,54098,INC,Kanhaya Lal,14744,39354,34.12
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,58,Chaksu,SC,Jaipur,109614,BJP,Promila,37562,IND,Ashok Tanwar,33324,4238,3.87
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,59,Tijara,GEN,Alwar,101462,INC,Aimaduddin Urf Durru,27567,BSP,Fazal Hussain,20736,6831,6.73
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,60,Kishangarh Bas,GEN,Alwar,119301,BJP,Ramhaet Singh,31594,INC,Deep Chand,29484,2110,1.77
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,61,Mundawar,GEN,Alwar,125010,INC,Major O.P. Yadav,57190,BJP,Dharmapal Choudhary,53964,3226,2.58
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,62,Behror,GEN,Alwar,112274,BJP,Dr.Jaswant Singh Yadav,56890,INC,Dr Karan Singh Yadav,36886,20004,17.82
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,63,Bansur,GEN,Alwar,117720,BJP,Rohitash Kumar,41361,INC,Shakuntala,28382,12979,11.03
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,64,Thanagazi,GEN,Alwar,108880,BJP,Hemsingh Bhadana,35271,IND,Kanti Lal,33976,1295,1.19
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,65,Alwar Rural,SC,Alwar,98059,INC,Tika Ram,35896,BJP,Dr.Jagdish Prasad,27371,8525,8.69
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,66,Alwar Urban,GEN,Alwar,101792,BJP,Banwari Lal Singhal,49075,INC,Narendra Sharma,35367,13708,13.47
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,67,Ramgarh,GEN,Alwar,126425,BJP,Gyan Dev Ahuja,61493,INC,Zubair Khan,45411,16082,12.72
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,68,Rajgarh-Laxmangarh,ST,Alwar,121502,SP,Suraj Bhan,45002,INC,Johri Lal,44065,937,0.77
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,69,Kathumar,SC,Alwar,107817,BJP,Babu Lal,49572,INC,Ramesh Khinchi,47879,1693,1.57
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,70,Kaman,GEN,Bharatpur,121470,INC,Zahida,57332,BJP,Nasru Khan,49467,7865,6.47
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,71,Nagar,GEN,Bharatpur,111726,BJP,Anita,22942,INC,Attar Singh Bhadana,18358,4584,4.1
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,72,Deeg Kumher,GEN,Bharatpur,119762,BJP,Dr. Digamber Singh,52669,INC,Vishvendra Singh,49145,3524,2.94
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,73,Bharatpur,GEN,Bharatpur,107947,BJP,Vijay Bansal (Pappu),52595,BSP,Aditya Raj Sharma,29109,23486,21.76
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,74,Nadbai,GEN,Bharatpur,129635,BJP,Krishnendra Kaur (Deepa),45495,BSP,Yashavant Singh Ramu,39315,6180,4.77
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,75,Weir,SC,Bharatpur,109732,BJP,Bahadur Singh,33981,BSP,Atar Singh Pagariya,29516,4465,4.07
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,76,Bayana,SC,Bharatpur,106098,BJP,Gyarsaram,32016,BSP,Munni Devi,23261,8755,8.25
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,77,Baseri,SC,Dhaulpur,78805,BJP,Sukhram,28109,IND,Usha,20365,7744,9.83
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,78,Bari,GEN,Dhaulpur,113601,BSP,Girraj Singh,35895,BJSH,Jaswant,32965,2930,2.58
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,79,Dholpur,GEN,Dhaulpur,97117,BJP,Abdul Sageer Khan,28077,INC,Ashok Sharma,26523,1554,1.6
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,80,Rajakhera,GEN,Dhaulpur,95845,BJP,Raveendra Singh Bohara,38237,INC,Pradhyumn Singh,35333,2904,3.03
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,81,Todabhim,ST,Karauli *,155407,IND,Kirodi Lal,87239,BSP,Matadeen,5722,81517,52.45
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,82,Hindaun,SC,Karauli *,109677,INC,Bharosi Lal,30374,BJP,Rajkumari,28519,1855,1.69
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,83,Karauli,GEN,Karauli *,128300,BJP,Rohini Kumari,44937,BSP,Darshan Singh,43681,1256,0.98
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,84,Sapotra,ST,Karauli *,116062,BSP,Ramesh,37878,INC,Mukhraj,29549,8329,7.18
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,85,Bandikui,GEN,Dausa *,109372,IND,Ram Kishor,42200,BJP,Shailendra Joshi,29250,12950,11.84
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,86,Mahuwa,GEN,Dausa *,113213,IND,Golama,51610,BSP,Vijay Shankar Bohara,27479,24131,21.31
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,87,Sikrai,SC,Dausa *,111302,INC,Mamta Bhupesh,54470,BJP,Geeta Verma,27323,27147,24.39
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,88,Dausa,GEN,Dausa *,113575,BSP,Murari Lal Meena,43387,INC,Ram Avtar Choudhary,42285,1102,0.97
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,89,Lalsot,ST,Dausa *,118816,IND,Parsadi Lal,49263,SP,Babu Lal Dhanaka,32258,17005,14.31
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,90,Gangapur,GEN,Sawai Madhopur,109757,BSP,Ramkesh,42547,BJP,Man Singh,31176,11371,10.36
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,91,Bamanwas,ST,Sawai Madhopur,103664,INC,Nawalkishor,45204,LSWP,Sampat Lal,26652,18552,17.9
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,92,Sawai Madhopur,GEN,Sawai Madhopur,110832,INC,Alauddin Azad,37952,IND,Kirori Lal,34998,2954,2.67
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,93,Khandar,SC,Sawai Madhopur,101847,INC,Ashok,44440,BJP,Hari Narayan,33808,10632,10.44
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,94,Malpura,GEN,Tonk,135868,IND,Ranveer Pahalwan,31365,INC,Dr.Chandrabhan,27552,3813,2.81
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,95,Niwai,SC,Tonk,117779,INC,Kamal Bairwa,40105,BJP,Satish Chandel,37667,2438,2.07
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,96,Tonk,GEN,Tonk,109040,INC,Zakiya,48452,BJP,Mahaveer Prasad,37916,10536,9.66
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,97,Deoli-Uniara,GEN,Tonk,139021,INC,Ram Narayan Meena,55085,BJP,Nathu Singh Gurjar,43981,11104,7.99
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,98,Kishangarh,GEN,Ajmer,134574,INC,Nathu Ram Sinodiya,65042,BJP,Bhagirath Choudhary,55318,9724,7.23
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,99,Pushkar,GEN,Ajmer,114444,INC,Naseem Akhtar Insaf,42881,BJP,Bhanwar Singh Palara,36347,6534,5.71
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,100,Ajmer North,GEN,Ajmer,88961,BJP,Vasudev Devnani,41907,INC,Dr. Shrigopal Baheti,41219,688,0.77
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,101,Ajmer South,SC,Ajmer,88831,BJP,Anita Bhadel,44902,INC,Dr. Rajkumar Jaipal,25596,19306,21.73
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,102,Nasirabad,GEN,Ajmer,116665,INC,Mahendra Singh,52815,BJP,Sanwar Lal,52744,71,0.06
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,103,Beawar,GEN,Ajmer,105759,BJP,Shankar Singh,57912,IND,K. C. Chaudhary,20498,37414,35.38
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,104,Masuda,GEN,Ajmer,130742,IND,Brahmdev,42170,INC,Ram Chandra,34492,7678,5.87
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,105,Kekri,GEN,Ajmer,130873,INC,Raghunandan,47173,BJP,Rinku Kanwar,34514,12659,9.67
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,106,Ladnun,GEN,Nagaur,123416,IND,Haraji Ram,48875,BJP,Manohar Singh,40677,8198,6.64
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,107,Deedwana,GEN,Nagaur,125937,INC,Rupa Ram,61529,BJP,Yoonus Khan,45040,16489,13.09
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,108,Jayal,SC,Nagaur,105668,INC,Manju Devi,43202,BJP,Manju,33198,10004,9.47
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,109,Nagaur,GEN,Nagaur,115626,BJP,Habibur Rahaman,53469,INC,Harendra Mirdha,46569,6900,5.97
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,110,Khinwsar,GEN,Nagaur,129655,BJP,Hanuman Bainiwal,58760,BSP,Durgsingh,34317,24443,18.85
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,111,Merta,SC,Nagaur,111706,BJP,Sukharam,58476,INC,Pancharam Indawar,34436,24040,21.52
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,112,Degana,GEN,Nagaur,125860,BJP,Ajay Singh,49472,INC,Richhpal Singh,48298,1174,0.93
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,113,Makrana,GEN,Nagaur,126443,INC,Zakir Hussain,42906,BJP,Shriram,33151,9755,7.71
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,114,Parbatsar,GEN,Nagaur,116992,BJP,Maan Singh,26704,IND,Lachha Ram,25012,1692,1.45
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,115,Nawan,GEN,Nagaur,127402,INC,Mahendra Choudhary,62963,BJP,Harish Chand,41116,21847,17.15
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,116,Jaitaran,GEN,Pali,137570,IND,Dilip Choudhary,43077,BJP,Surendra Goyal,36409,6668,4.85
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,117,Sojat,SC,Pali,98951,BJP,Sanjana Agri,32610,INC,Ratan Panwar,26709,5901,5.96
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,118,Pali,GEN,Pali,116843,BJP,Gyan Chand Parakh,49686,IND,Bheem Raj Bhati,41996,7690,6.58
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,119,Marwar Junction,GEN,Pali,118754,BJP,Kesa Ram Choudhary,54737,INC,Khushveer Singh,52955,1782,1.5
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,120,Bali,GEN,Pali,144288,BJP,Pushpendra Singh,61229,INC,Jaisingh,40483,20746,14.38
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,121,Sumerpur,GEN,Pali,112125,INC,Bina Kak,43268,BJP,Shankar Singh,34451,8817,7.86
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,122,Phalodi,GEN,Jodhpur,108923,INC,Om Joshi,51354,BJP,Pabba Ram,44452,6902,6.34
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,123,Lohawat,GEN,Jodhpur,117007,BJP,Gajendra Singh Khinvsar,44437,IND,Malaram Vishnoi,36742,7695,6.58
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,124,Shergarh,GEN,Jodhpur,128903,BJP,Babu Singh Rathore,55085,INC,Ummed Singh Rathore,52783,2302,1.79
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,125,Osian,GEN,Jodhpur,121010,INC,Mahipal Maderana,37212,IND,Shambhu Singh,33814,3398,2.81
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,126,Bhopalgarh,SC,Jodhpur,114556,BJP,Kamsa,48311,INC,Heera Devi,43810,4501,3.93
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,127,Sardarpura,GEN,Jodhpur,100180,INC,Ashok Gehlot,55516,BJP,Rajendra Gehlot,40176,15340,15.31
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,128,Jodhpur,GEN,Jodhpur,98829,BJP,Kailash Bhansali,49122,INC,Jugal Kabra,40523,8599,8.7
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,129,Soorsagar,GEN,Jodhpur,108595,BJP,Suryakanta Vyas,49154,INC,Sayeed Ansari,43657,5497,5.06
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,130,Luni,GEN,Jodhpur,150601,INC,Malkhan Singh,63316,BJP,Jogaram Patel,47817,15499,10.29
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,131,Bilara,SC,Jodhpur,122759,BJP,Arjun Lal,61462,INC,Shankar Lal,46599,14863,12.11
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,132,Jaisalmer,GEN,Jaisalmer,118537,BJP,Chhotu Singh,34072,INC,Sunita,28297,5775,4.87
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,133,Pokaran,GEN,Jaisalmer,101592,INC,Saleh Mohammad,42756,BJP,Shaitan Singh,42417,339,0.33
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,134,Sheo,GEN,Barmer,143550,INC,Ameen Khan,75787,BJP,Jalam Singh,45927,29860,20.8
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,135,Barmer,GEN,Barmer,118988,INC,Mewaram Jain,62219,BJP,Mradurekha Choudhary,38175,24044,20.21
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,136,Baytoo,GEN,Barmer,112796,INC,Col. Sonaram,62207,BJP,Kailash,25789,36418,32.29
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,137,Pachpadra,GEN,Barmer,115502,INC,Madan,51702,BJP,Amraram,39577,12125,10.5
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,138,Siwana,GEN,Barmer,109418,BJP,Kansingh,32040,BSP,Mahendra Kumar,28058,3982,3.64
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,139,Gudha Malani,GEN,Barmer,129679,INC,Hemaram Choudhary,62166,BJP,Laduram,52889,9277,7.15
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,140,Chohtan,SC,Barmer,127957,INC,Padmaram,69400,BJP,Tarunrai Kaga,45497,23903,18.68
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,141,Ahore,GEN,Jalor,105338,INC,Bhag Raj Chowdhary,36253,BJP,Chiranji Lal,22502,13751,13.05
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,142,Jalore,SC,Jalor,101547,INC,Ramlal Meghwal,52741,BJP,Jogeshwar Garg,36476,16265,16.02
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,143,Bhinmal,GEN,Jalor,124400,BJP,Poora Ram Choudhary,59669,INC,Samrjit Singh,38470,21199,17.04
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,144,Sanchore,GEN,Jalor,155539,IND,Jeevaram Choudhary,55257,INC,Sukharam Vishnoi,51643,3614,2.32
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,145,Raniwara,GEN,Jalor,126299,INC,Ratan,46716,BJP,Narayan Singh Dewal,26914,19802,15.68
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,146,Sirohi,GEN,Sirohi,118185,BJP,Otaram,56400,INC,Sanyam Lodha,47830,8570,7.25
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,147,Pindwara Abu,ST,Sirohi,90087,INC,Ganga,40018,BJP,Durgaram,36672,3346,3.71
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,148,Reodar,SC,Sirohi,113175,BJP,Jagasi Ram,47402,INC,Neeraj Dangi,44164,3238,2.86
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,149,Gogunda,ST,Udaipur,122867,INC,Mangi Lal Garasiya,56157,BJP,Hunsa Ram Garasiya,46045,10112,8.23
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,150,Jhadol,ST,Udaipur,124834,BJP,Babu Lal Kharadi,46654,INC,Heera Lal,39335,7319,5.86
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,151,Kherwara,ST,Udaipur,136855,INC,Dayaram Parmar,68702,BJP,Nana Lal Ahari,53945,14757,10.78
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,152,Udaipur Rural,ST,Udaipur,112338,INC,Sajjan Katara,55494,BJP,Vandana Meena,44798,10696,9.52
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,153,Udaipur,GEN,Udaipur,111481,BJP,Gulab Chand Kataria,65706,INC,Trilok Purbia,41197,24509,21.98
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,154,Mavli,GEN,Udaipur,124781,INC,Pushkar Lal,58289,BJP,Dharmnarayan Joshi,53556,4733,3.79
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,155,Vallabhnagar,GEN,Udaipur,140151,INC,Gajendra Singh,59995,BJP,M Randheer Singh,53335,6660,4.75
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,156,Salumber,ST,Udaipur,127662,INC,Raguveer Singh,65140,BJP,Narendrakumar,41787,23353,18.29
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,157,Dhariawad,ST,Udaipur,133247,INC,Nagraj,66147,BJP,Goutam Lal Meena,48475,17672,13.26
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,158,Dungarpur,ST,Dungarpur,106839,INC,Lal Shanker Gatiya,48536,BJP,Sushila Bhil,36915,11621,10.88
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,159,Aspur,ST,Dungarpur,114776,INC,Raiyaji,59159,BJP,Prakrati Kharadi,44612,14547,12.67
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,160,Sagwara,ST,Dungarpur,119352,INC,Surendra Kumar,73408,BJP,Kanakmal Katara,41082,32326,27.08
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,161,Chorasi,ST,Dungarpur,108308,INC,Shankar Lal Ahari,46023,BJP,Sushil Katara,39809,6214,5.74
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,162,Ghatol,ST,Banswara,141151,IND,Nanalal,53262,BJP,Navneetlal,32640,20622,14.61
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,163,Garhi,ST,Banswara,135387,INC,Kanta Garasiya,63360,BJP,Dharmendra Rathore,37927,25433,18.79
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,164,Banswara,ST,Banswara,130112,INC,Arjun Singh Bamaniya,47753,BJP,Dhansingh Rawat,31904,15849,12.18
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,165,Bagidora,ST,Banswara,119906,INC,Mahendrajeet Singh,76113,JDU,Jeetmalkhant,31424,44689,37.27
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,166,Kushalgarh,ST,Banswara,109453,JDU,Fateh Singh,37610,INC,Savlal,36653,957,0.87
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,167,Kapasan,SC,Chittaurgarh,128530,INC,Shankar,50147,IND,Arjun Lal,43493,6654,5.18
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,168,Begun,GEN,Chittaurgarh,142841,INC,Rajendra Singh,59106,BJP,Chunni Lal Dhakar,58463,643,0.45
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,169,Chittorgarh,GEN,Chittaurgarh,137365,INC,Surendra Singh,67959,BJP,Shrichand Kripalani,56408,11551,8.41
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,170,Nimbahera,GEN,Chittaurgarh,159226,INC,Anjana Udailal,95622,BJP,Ashokkumar Navlakha,57112,38510,24.19
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,171,Bari Sadri,GEN,Chittaurgarh,151052,INC,Prakash Chandra,80402,BJP,Bheru Singh Chauhan,53813,26589,17.6
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,172,Pratapgarh,ST,Chittaurgarh,127772,BJP,Nandlal,65134,INC,Bhadurlal Meena,51291,13843,10.83
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,173,Bhim,GEN,Rajsamand *,101211,BJP,Hari Singh Rawat(Panna,38262,INC,Laxman Singh,37532,730,0.72
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,174,Kumbhalgarh,GEN,Rajsamand *,109418,INC,Ganesh Singh Parmar,50193,BJP,Surendra Singh Rathore,46019,4174,3.81
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,175,Rajsamand,GEN,Rajsamand *,115191,BJP,Kiran Maheshwari,54275,INC,Hari Singh Rathore,48817,5458,4.74
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,176,Nathdwara,GEN,Rajsamand *,132007,BJP,Kalyan Singh Chouhan,62216,INC,C. P. Joshi,62215,1,0.0
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,177,Asind,GEN,Bhilwara,140643,BJP,Ramlal Gurjar,63325,INC,Hagamilal,59213,4112,2.92
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,178,Mandal,GEN,Bhilwara,130092,INC,Ram Lal,58696,BJP,Kalu Lal Gurjar,56380,2316,1.78
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,179,Sahara,GEN,Bhilwara,126720,INC,Kailash Chandra Trivedi,59874,BJP,Dr. Ratan Lal Jat,46368,13506,10.66
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,180,Bhilwara,GEN,Bhilwara,108084,BJP,Vitthal Shankar Avasthi,59490,INC,Om Prakash Naraniwal,42213,17277,15.98
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,181,Shahpura,SC,Bhilwara,115507,INC,Mahaveer Prasad Mochi,53233,BJP,Shrikishan Songara,46855,6378,5.52
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,182,Jahazpur,GEN,Bhilwara,128708,BJP,Shivjiram Meena,56339,INC,Dhiraj Gurjar,54474,1865,1.45
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,183,Mandalgarh,GEN,Bhilwara,130864,INC,Pradeep Kumar Singh,35675,BJP,Kirti Kumari,34187,1488,1.14
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,184,Hindoli,GEN,Bundi,137417,BJP,Prabhu Lal,46123,INC,Harimohan,40043,6080,4.42
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,185,Keshoraipatan,SC,Bundi,119050,INC,C L Premi,49047,BJP,Gopal Pacherwal,45631,3416,2.87
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,186,Bundi,GEN,Bundi,135122,BJP,Ashok Dogara,56992,INC,Mamta Sharma,46249,10743,7.95
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,187,Pipalda,GEN,Kota,96856,INC,Premchand,38709,BJP,Manvendra Singh,27836,10873,11.23
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,188,Sangod,GEN,Kota,105541,INC,Bharat Singh Kundanpur,52294,BJP,Heera Lal Nagar,42930,9364,8.87
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,189,Kota North,GEN,Kota,123855,INC,Shanti Kumar Dhariwal,68560,BJP,Suman Shringi,46829,21731,17.55
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,190,Kota South,GEN,Kota,136750,BJP,Om Birla,74381,INC,Ramkishan,50129,24252,17.73
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,191,Ladpura,GEN,Kota,123591,BJP,Bhawani Singh Rajawat,58395,INC,Naimuddin (Guddu),57645,750,0.61
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,192,Ramganj Mandi,SC,Kota,95062,BJP,Chandrakanta Meghwal,45106,INC,Ramgopal,43232,1874,1.97
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,193,Anta,GEN,Baran *,112381,INC,Pramod Kumar (Bhaya),56519,BJP,Raghuveer Singh,26851,29668,26.4
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,194,Kishanganj,ST,Baran *,101950,INC,Nirmala,52578,BJP,Hemraj,36200,16378,16.06
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,195,Baran-Atru,SC,Baran *,117411,INC,Panachand,64697,BJP,Madan Dilawar,48123,16574,14.12
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,196,Chhabra,GEN,Baran *,127454,INC,Karan Singh,58771,BJP,Pratap Singh,51823,6948,5.45
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,197,Dag,SC,Jhalawar,130364,INC,Madanlal,58537,BJP,Ramlal,56828,1709,1.31
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,198,Jhalrapatan,GEN,Jhalawar,144186,BJP,Vasundhara Raje,81593,INC,Mohan Lal,49012,32581,22.6
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,199,Khanpur,GEN,Jhalawar,130600,BJP,Anil Kumar,63664,INC,Meenakshee Chandrawat,58709,4955,3.79
+ae-rajasthan-2008,AE,Rajasthan,2008,2008,official,200,Manohar Thana,GEN,Jhalawar,138507,INC,Kailash Chand Meena,70151,BJP,Shyam Sunder,57047,13104,9.46

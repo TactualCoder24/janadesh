@@ -1,0 +1,543 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ls-1977,LS,India,1977,1977,official,1,Andaman & Nicobar Islands,GEN,Andaman & Nicobar Islands,60568,INC,Manoranjan Bhakta,35400,IND,K.R. Ganesh,25168,10232,16.89
+ls-1977,LS,India,1977,1977,official,2,Adilabad,GEN,Andhra Pradesh,291306,INC,G. Narsimha Reddy,167410,BLD,Gopidi Ganga Reddy,96244,71166,24.43
+ls-1977,LS,India,1977,1977,official,3,Amalapuram,GEN,Andhra Pradesh,420509,INC,Kusuma Krishna Murty,271982,BLD,B. V. Ramanayya,135993,135989,32.34
+ls-1977,LS,India,1977,1977,official,4,Anakapalli,GEN,Andhra Pradesh,366879,INC,Appalanaidu S. R. A. S,199228,BLD,Chalapathi Rao P. V,163292,35936,9.8
+ls-1977,LS,India,1977,1977,official,5,Anantapur,GEN,Andhra Pradesh,388350,INC,Darur Pullaiah,215279,BLD,D. Narayanaswamy,173071,42208,10.87
+ls-1977,LS,India,1977,1977,official,6,Bapatla,GEN,Andhra Pradesh,470721,INC,Ankineedu Prasada Rao Pamulapati,253438,BLD,Jagarlamudi Chandramouli,210492,42946,9.12
+ls-1977,LS,India,1977,1977,official,7,Bhadrachalam,GEN,Andhra Pradesh,259060,INC,Radha Bai Ananda Rao,155198,BLD,P. Vani Ramanarao,59230,95968,37.04
+ls-1977,LS,India,1977,1977,official,8,Bobbili,GEN,Andhra Pradesh,330592,INC,Pusapati Vijayrama Gajapathi Raju,171095,BLD,Peesapati Pundarikaksha Chari,119507,51588,15.6
+ls-1977,LS,India,1977,1977,official,9,Chittoor,GEN,Andhra Pradesh,458705,INC,P. Rajagopal Naidu,229252,BLD,N. P. Changalraya Naidu,218805,10447,2.28
+ls-1977,LS,India,1977,1977,official,10,Cuddapah,GEN,Andhra Pradesh,475761,INC,Kandala Obul Reddy,232351,BLD,Vutukuru Rami Reddy,224789,7562,1.59
+ls-1977,LS,India,1977,1977,official,11,Eluru,GEN,Andhra Pradesh,456511,INC,Kommareddy Suryanarayana,290410,BLD,Krishna Murthy Garapati,156377,134033,29.36
+ls-1977,LS,India,1977,1977,official,12,Guntur,GEN,Andhra Pradesh,506590,INC,Kotha Raghuramaiah,290914,BLD,Kasaraneini Sadasiva Rao,205385,85529,16.88
+ls-1977,LS,India,1977,1977,official,13,Hanamkonda,GEN,Andhra Pradesh,390384,INC,P. V. Narsimha Rao,231593,BLD,P. Janardhan Reddy,153910,77683,19.9
+ls-1977,LS,India,1977,1977,official,14,Hindupur,GEN,Andhra Pradesh,389728,INC,P. Bayapa Reddy,236797,BLD,K. Ramachandra Reddy,146764,90033,23.1
+ls-1977,LS,India,1977,1977,official,15,Hyderabad,GEN,Andhra Pradesh,339773,INC,K. S. Narayana,156295,IND,Sultan Salahuddin Owaisi,91227,65068,19.15
+ls-1977,LS,India,1977,1977,official,16,Kakinada,GEN,Andhra Pradesh,434644,INC,Sanjeevirao M. S,269017,BLD,Vaddi Mutyalarao,145749,123268,28.36
+ls-1977,LS,India,1977,1977,official,17,Karimnagar,GEN,Andhra Pradesh,357532,INC,M. Satyanarayan Rao,210349,BLD,Juvvadi Gautma Rao,96301,114048,31.9
+ls-1977,LS,India,1977,1977,official,18,Khammam,GEN,Andhra Pradesh,406643,INC,Jalagam Kondala Rao,208617,CPI(M),Yalamanchili Radha Krushna Murthy,122628,85989,21.15
+ls-1977,LS,India,1977,1977,official,19,Kurnool,GEN,Andhra Pradesh,357702,INC,K. Vijaya Bhaskara Reddy,270741,BLD,Somappa,71385,199356,55.73
+ls-1977,LS,India,1977,1977,official,20,Machilipatnam,GEN,Andhra Pradesh,456788,INC,Ankineedu Maganti,262551,BLD,Vadde Sobhanadreswara Rao,185622,76929,16.84
+ls-1977,LS,India,1977,1977,official,21,Mahabubnagar,GEN,Andhra Pradesh,343697,INC,J. Rameshwara Rao,216455,BLD,D. K. Satya Reddy,121966,94489,27.49
+ls-1977,LS,India,1977,1977,official,22,Medak,GEN,Andhra Pradesh,357921,INC,Mallikarjun,239813,BLD,Narasimba Reddy,96303,143510,40.1
+ls-1977,LS,India,1977,1977,official,23,Miryalguda,GEN,Andhra Pradesh,440145,INC,G. S. Reddy,217430,CPI(M),Bhimireddi Narasimha Reddy,167751,49679,11.29
+ls-1977,LS,India,1977,1977,official,24,Nagarkurnool,GEN,Andhra Pradesh,354013,INC,Mailala Bheeshma Dev,238388,BLD,Puttapaga Padhakrishna,115625,122763,34.68
+ls-1977,LS,India,1977,1977,official,25,Nalgonda,GEN,Andhra Pradesh,391382,INC,Mohd. Abdul Lateef,208892,BLD,Marepalli Jagan Mohan Reddy,101858,107034,27.35
+ls-1977,LS,India,1977,1977,official,26,Nandyal,GEN,Andhra Pradesh,485325,BLD,Neelam Sanjeeva Reddy,258147,INC,Pendakanti Venkata Subbaiah,222404,35743,7.36
+ls-1977,LS,India,1977,1977,official,27,Narasapur,GEN,Andhra Pradesh,460973,INC,Alluri Subhash Chandra Bose,256519,CPI(M),Uddaraju Ramam,142162,114357,24.81
+ls-1977,LS,India,1977,1977,official,28,Narasaraopet,GEN,Andhra Pradesh,423627,INC,Brahmananda Reddy Kasu,246146,BLD,Illuri Kotireddy,158075,88071,20.79
+ls-1977,LS,India,1977,1977,official,29,Nellore,GEN,Andhra Pradesh,411530,INC,Kamakshaiah Doddavarapu,272184,CPI(M),Prappancha Bhanuraju Thummalagunta,129404,142780,34.69
+ls-1977,LS,India,1977,1977,official,30,Nizamabad,GEN,Andhra Pradesh,357028,INC,Mudaganti Ram Gopal Reddy,252291,BLD,Gangareddy,92898,159393,44.64
+ls-1977,LS,India,1977,1977,official,31,Ongole,GEN,Andhra Pradesh,450638,INC,Puli Venkata Reddy,252206,BLD,Muppavarapu Venkaiah Alias Venkaiah Naidu,162881,89325,19.82
+ls-1977,LS,India,1977,1977,official,32,Parvathipuram,GEN,Andhra Pradesh,317164,INC,Vyrichorla Kishore Chandra Suryanarayana Deo,174454,BLD,Satya Prasad Thatraj Veeravara Thodarmal,142710,31744,10.01
+ls-1977,LS,India,1977,1977,official,33,Peddapalli,GEN,Andhra Pradesh,319868,INC,V. Tulsiram,209187,BLD,Bangaru Lakshman,104110,105077,32.85
+ls-1977,LS,India,1977,1977,official,34,Rajahmundry,GEN,Andhra Pradesh,478638,INC,Pattabhirama Rao S. B. P,292323,BLD,Manthena Venkata Surya Subbaraju,175564,116759,24.39
+ls-1977,LS,India,1977,1977,official,35,Rajampet,GEN,Andhra Pradesh,428443,INC,Pothuraju Parthasarathi,233844,BLD,P. Thimma Reddy,179293,54551,12.73
+ls-1977,LS,India,1977,1977,official,36,Secunderabad,GEN,Andhra Pradesh,329532,INC,M. M. Hashim,160230,BLD,T. Laxmi Kantamma,156383,3847,1.17
+ls-1977,LS,India,1977,1977,official,37,Siddipet,GEN,Andhra Pradesh,361884,INC,G.Venkataswamy,232377,BLD,T.N. Sadalakshmi,129507,102870,28.43
+ls-1977,LS,India,1977,1977,official,38,Srikakulam,GEN,Andhra Pradesh,380951,INC,Rajgopalarao Boddepalli,187125,BLD,Gouthu Latchanna,178391,8734,2.29
+ls-1977,LS,India,1977,1977,official,39,Tenali,GEN,Andhra Pradesh,439245,INC,Meduri Nageswara Rao,244928,CPI(M),Gunturu Bapanaiah,187191,57737,13.14
+ls-1977,LS,India,1977,1977,official,40,Tirupati,GEN,Andhra Pradesh,440608,INC,Balakrishnaiah Tambura,240394,BLD,Allam Krishnaiah,200214,40180,9.12
+ls-1977,LS,India,1977,1977,official,41,Vijayawada,GEN,Andhra Pradesh,454169,INC,Godey Murahari,239733,BLD,Gottipati Murali Mohan,119696,120037,26.43
+ls-1977,LS,India,1977,1977,official,42,Visakhapatnam,GEN,Andhra Pradesh,336577,INC,Dronamraju Satyanarayana,171657,BLD,Tenneti Viswanathan,128828,42829,12.72
+ls-1977,LS,India,1977,1977,official,43,Warangal,GEN,Andhra Pradesh,383587,INC,S. B. Giri,251211,BLD,Jangareddy Chandabatla,128589,122622,31.97
+ls-1977,LS,India,1977,1977,official,44,Arunachal East,GEN,Arunachal Pradesh,50690,IND,Bakin Pertin,28557,INC,Nyeodek Yonggam,20909,7648,15.09
+ls-1977,LS,India,1977,1977,official,45,Arunachal West,GEN,Arunachal Pradesh,0,INC,Rinchin Khandu Khimre,0,,,,0,
+ls-1977,LS,India,1977,1977,official,46,Autonomous District,GEN,Assam,94222,INC,Biren Singh Engti,62475,IND,Sonaram Thaosen,31747,30728,32.61
+ls-1977,LS,India,1977,1977,official,47,Barpeta,GEN,Assam,345550,INC,Ismail Hossain Khan,196832,BLD,Biswa Goswami,148718,48114,13.92
+ls-1977,LS,India,1977,1977,official,48,Dhubri,GEN,Assam,331267,INC,Ahmmad Hossen,151328,BLD,Zahirul Islam,150738,590,0.18
+ls-1977,LS,India,1977,1977,official,49,Dibrugarh,GEN,Assam,238494,INC,Haren Bhumji,119882,BLD,Golap Borbora,105673,14209,5.96
+ls-1977,LS,India,1977,1977,official,50,Gauhati,GEN,Assam,284205,BLD,Renuka Devi Barktaki,149255,INC,Dinesh Chandra Goswami,112815,36440,12.82
+ls-1977,LS,India,1977,1977,official,51,Jorhat,GEN,Assam,301198,INC,Tarun Gogoi,148902,BLD,Dulal Chandra Barua,120215,28687,9.52
+ls-1977,LS,India,1977,1977,official,52,Kaliabor,GEN,Assam,288179,INC,Bedabrata Barua,155428,BLD,Ajit Kumar Sarmah,84271,71157,24.69
+ls-1977,LS,India,1977,1977,official,53,Karimganj,GEN,Assam,233396,INC,Nihar Ranjan Laskar,127454,BLD,Lilamoy Das,97154,30300,12.98
+ls-1977,LS,India,1977,1977,official,54,Kokrajhar,GEN,Assam,330713,IND,Charan Narzary,186808,INC,Dharanidhar Basumatari,143905,42903,12.97
+ls-1977,LS,India,1977,1977,official,55,Lakhimpur,GEN,Assam,275575,INC,Lalit Kumar Doley,162750,BLD,Mohananda Bora,97518,65232,23.67
+ls-1977,LS,India,1977,1977,official,56,Mangaldoi,GEN,Assam,290113,BLD,Hiralal Patowary,162603,INC,Dharanidhar Das,112601,50002,17.24
+ls-1977,LS,India,1977,1977,official,57,Nowgong,GEN,Assam,308769,INC,Dev Kanta Borooah,176605,BLD,Indreswar Goswami,122386,54219,17.56
+ls-1977,LS,India,1977,1977,official,58,Silchar,GEN,Assam,248723,INC,Rashida Haque Choudhury,138638,CPI(M),Noorul Huda,110085,28553,11.48
+ls-1977,LS,India,1977,1977,official,59,Tezpur,GEN,Assam,252906,BLD,Purnanarayan Sinha,129527,INC,Bijoy Chandra Bhagavati,123379,6148,2.43
+ls-1977,LS,India,1977,1977,official,60,Araria,GEN,Bihar,339393,BLD,Mahendra Narayan Sardar,221829,INC,Dumar Lal Baitha,113295,108534,31.98
+ls-1977,LS,India,1977,1977,official,61,Arrah,GEN,Bihar,458340,BLD,Chandradeo Prasad Verma,323913,INC,Baliram Bhagat,113036,210877,46.01
+ls-1977,LS,India,1977,1977,official,62,Aurangabad,GEN,Bihar,406645,BLD,Satyendra Narain Singh,251139,INC,Ram Swaroop Yadav,130692,120447,29.62
+ls-1977,LS,India,1977,1977,official,63,Bagaha,GEN,Bihar,274525,BLD,Jagannath Prasad,138443,INC,Bhola Raut,97755,40688,14.82
+ls-1977,LS,India,1977,1977,official,64,Balia,GEN,Bihar,373968,BLD,Ramajiwan Singh,146772,CPI,Surya Narayan Singh,99140,47632,12.74
+ls-1977,LS,India,1977,1977,official,65,Banka,GEN,Bihar,336709,BLD,Limaye Madhu,239550,INC,Chandra Shekhar Singh,78866,160684,47.72
+ls-1977,LS,India,1977,1977,official,66,Barh,GEN,Bihar,490128,BLD,Shyam Sunder Gupta,372227,INC,Dharamvir Singh,101945,270282,55.15
+ls-1977,LS,India,1977,1977,official,67,Begusarai,GEN,Bihar,416742,BLD,Shyam Nandan Mishra,185382,INC,Tarkeshri Sinha,150154,35228,8.45
+ls-1977,LS,India,1977,1977,official,68,Bettiah,GEN,Bihar,317498,BLD,Fazlur Rahman,186486,INC,Kedar Pandey,90158,96328,30.34
+ls-1977,LS,India,1977,1977,official,69,Bhagalpur,GEN,Bihar,424864,BLD,Dr. Ramji Singh,304791,INC,Bhagwat Jha Azad,120073,184718,43.48
+ls-1977,LS,India,1977,1977,official,70,Bikramganj,GEN,Bihar,417263,BLD,Ram Awadhesh Singh,248578,INC,Ram Subhag Singh,96827,151751,36.37
+ls-1977,LS,India,1977,1977,official,71,Buxar,GEN,Bihar,440350,BLD,Rama Nand Tiwary,286418,INC,Anant Prasad Sharma,82705,203713,46.26
+ls-1977,LS,India,1977,1977,official,72,Chapra,GEN,Bihar,483198,BLD,Lalu Prasad,415409,INC,Ram Shekhar Prasad Singh,41609,373800,77.36
+ls-1977,LS,India,1977,1977,official,73,Chatra,GEN,Bihar,271889,BLD,Sukdeo Prasad Verma,203878,INC,Shankar Dayal Singh,60344,143534,52.79
+ls-1977,LS,India,1977,1977,official,74,Darbhanga,GEN,Bihar,417082,BLD,Surendra Jha Suman,306857,INC,Radhanandan Jha,94855,212002,50.83
+ls-1977,LS,India,1977,1977,official,75,Dhanbad,GEN,Bihar,298960,IND,A. K. Roy,205495,INC,Ram Narain Sharma,63646,141849,47.45
+ls-1977,LS,India,1977,1977,official,76,Dumka,GEN,Bihar,233333,BLD,Bateshwar Hemram,115386,INC,Prithiwichand Kisku,62132,53254,22.82
+ls-1977,LS,India,1977,1977,official,77,Gaya,GEN,Bihar,439454,BLD,Ishwar Chaudhry,341000,INC,Mishri Sada,92682,248318,56.51
+ls-1977,LS,India,1977,1977,official,78,Giridih,GEN,Bihar,281266,BLD,Ram Das Singh,164120,INC,I. Ahmad,85843,78277,27.83
+ls-1977,LS,India,1977,1977,official,79,Godda,GEN,Bihar,358156,BLD,Jagdambi Prasad Yadav,250749,INC,Jagdish N. Mandal,91758,158991,44.39
+ls-1977,LS,India,1977,1977,official,80,Gopalganj,GEN,Bihar,420162,BLD,Dwarikanath Tiwary,294466,INC,Abdul Ghafoor,121474,172992,41.17
+ls-1977,LS,India,1977,1977,official,81,Hajipur,GEN,Bihar,525179,BLD,Ram Vilas Paswan,469007,INC,Baleshwar Ram,44462,424545,80.84
+ls-1977,LS,India,1977,1977,official,82,Hazaribagh,GEN,Bihar,287693,BLD,Kunwar Basant Narain Singh,186058,INC,Damodar Pandey,44941,141117,49.05
+ls-1977,LS,India,1977,1977,official,83,Jahanabad,GEN,Bihar,490262,BLD,Hari Lal Prasad Sinha,317954,INC,Chandrika Prasad Yadav,66984,250970,51.19
+ls-1977,LS,India,1977,1977,official,84,Jamshedpur,GEN,Bihar,262006,BLD,Rudra Pratap Sarangi,131419,INC,V. G. Gopal,67666,63753,24.33
+ls-1977,LS,India,1977,1977,official,85,Jhanjharpur,GEN,Bihar,464530,BLD,Dhanik Lal Mandal,305554,INC,Jagannath Mishra,148073,157481,33.9
+ls-1977,LS,India,1977,1977,official,86,Katihar,GEN,Bihar,309850,BLD,Yuvraj,215074,INC,Shah Mohammad Tarique 'Anwar',85285,129789,41.89
+ls-1977,LS,India,1977,1977,official,87,Khagaria,GEN,Bihar,403191,BLD,Gyaneshwar Prasad Yadav,230687,INC,Jai N. Mehta,81395,149292,37.03
+ls-1977,LS,India,1977,1977,official,88,Khunti,GEN,Bihar,183763,BLD,Karia Munda,91859,JKD,Nirel Mundu,56976,34883,18.98
+ls-1977,LS,India,1977,1977,official,89,Kishanganj,GEN,Bihar,287084,BLD,Halimuddin Ahmed,168175,INC,Jamilur Rahman,88045,80130,27.91
+ls-1977,LS,India,1977,1977,official,90,Kodarma,GEN,Bihar,251535,BLD,Ritlal Prasad Verma,169387,INC,Chaplendu Bhattacharyyia,53359,116028,46.13
+ls-1977,LS,India,1977,1977,official,91,Lohardaga,GEN,Bihar,249920,BLD,Lalu Oraon,142274,INC,Kartik Oraon,77391,64883,25.96
+ls-1977,LS,India,1977,1977,official,92,Madhepura,GEN,Bihar,460054,BLD,Bindhyeshwari Prasad Mandal,301076,INC,Rajendra Prasad Yadav,100359,200717,43.63
+ls-1977,LS,India,1977,1977,official,93,Madhubani,GEN,Bihar,467923,BLD,Hukmdeo Narain Yadav,200543,CPI,Bhogendra Jha,143422,57121,12.21
+ls-1977,LS,India,1977,1977,official,94,Maharajganj,GEN,Bihar,443550,BLD,Ram Deo Singh,345781,INC,Daroga Prasad Roy,93883,251898,56.79
+ls-1977,LS,India,1977,1977,official,95,Monghyr,GEN,Bihar,510633,BLD,Shri Krishna Singh,337791,INC,Devendra Prasad Yadav,164174,173617,34.0
+ls-1977,LS,India,1977,1977,official,96,Motihari,GEN,Bihar,359129,BLD,Thakur Rampati Singh,167732,INC,Bibhuti Mishra,93779,73953,20.59
+ls-1977,LS,India,1977,1977,official,97,Muzaffarpur,GEN,Bihar,507064,BLD,George Fernandes,396687,INC,Nitishwer Prasad Singh,62470,334217,65.91
+ls-1977,LS,India,1977,1977,official,98,Nalanda,GEN,Bihar,526650,BLD,Birendra Prasad,284684,CPI,Vijay Kumar Yadav,143662,141022,26.78
+ls-1977,LS,India,1977,1977,official,99,Nawada,GEN,Bihar,511649,BLD,Nathuni Ram,429785,INC,Mahabir Chaudhary,67084,362701,70.89
+ls-1977,LS,India,1977,1977,official,100,Palamu,GEN,Bihar,260260,BLD,Ramdeni Ram,201861,INC,Kamla Kumari,39022,162839,62.57
+ls-1977,LS,India,1977,1977,official,101,Patna,GEN,Bihar,499079,BLD,Maha Maya Prasad Sinha,382363,CPI,Ramavatar Shastri,59238,323125,64.74
+ls-1977,LS,India,1977,1977,official,102,Purnea,GEN,Bihar,355000,BLD,Lakhan Lal Kapoor,199034,INC,Madhuri Singh,106997,92037,25.93
+ls-1977,LS,India,1977,1977,official,103,Rajmahal,GEN,Bihar,218155,BLD,Father Anthoni Murmu,148677,INC,Yofesh Chandra Murmu,56191,92486,42.39
+ls-1977,LS,India,1977,1977,official,104,Ranchi,GEN,Bihar,267092,BLD,Ravindra Verma,130938,INC,Sheo Prasad Sahu,68222,62716,23.48
+ls-1977,LS,India,1977,1977,official,105,Rosera,GEN,Bihar,440217,BLD,Ram Sewak Hazari,311240,INC,Ram Bhagat Paswan,116734,194506,44.18
+ls-1977,LS,India,1977,1977,official,106,Saharsa,GEN,Bihar,455799,BLD,Vinayak Prasad Yadav,306994,INC,Chiranjib Jha,118288,188706,41.4
+ls-1977,LS,India,1977,1977,official,107,Samastipur,GEN,Bihar,513878,BLD,Karpoori Thakur,401935,INC,Yamuna Prasad Mandal,74501,327434,63.72
+ls-1977,LS,India,1977,1977,official,108,Sasaram,GEN,Bihar,417876,BLD,Jagivan Ram,327995,INC,Mungeri Lall,84185,243810,58.35
+ls-1977,LS,India,1977,1977,official,109,Sheohar,GEN,Bihar,429219,BLD,Thakur Girjanandan Singh,241672,INC,Hari Kishore Singh,174643,67029,15.62
+ls-1977,LS,India,1977,1977,official,110,Singhbhum,GEN,Bihar,172270,JKP,Bagun Sumbrui,126288,INC,Moran Singh Purty,24422,101866,59.13
+ls-1977,LS,India,1977,1977,official,111,Sitamarhi,GEN,Bihar,497863,BLD,Shyam Sunder Das,261321,INC,Nagendra Prasad Yadav,171227,90094,18.1
+ls-1977,LS,India,1977,1977,official,112,Siwan,GEN,Bihar,434118,BLD,Mirtanjay Prasad Verma,325030,INC,Mohamad Yusuf,93954,231076,53.23
+ls-1977,LS,India,1977,1977,official,113,Vaishali,GEN,Bihar,512490,BLD,Digvijoy Narain Singh,435757,INC,Nawal Kishore Singh,70260,365497,71.32
+ls-1977,LS,India,1977,1977,official,114,Chandigarh,GEN,Chandigarh,107081,BLD,Krishna Kant,70808,INC,Sat Pal,30382,40426,37.75
+ls-1977,LS,India,1977,1977,official,115,Dadra & Nagar Haveli,GEN,Dadra & Nagar Haveli,24131,INC,Patel Ramubhai Ravjibhai,11324,BLD,Gond Devaji Raju,7678,3646,15.11
+ls-1977,LS,India,1977,1977,official,116,Chandni Chowk,GEN,Delhi,258457,BLD,Sikander Bakht,185850,INC,Subhadra Joshi,69861,115989,44.88
+ls-1977,LS,India,1977,1977,official,117,Delhi Sadar,GEN,Delhi,217730,BLD,Kanwar Lal Gupta,144243,INC,Amar Nath Chawla,64372,79871,36.68
+ls-1977,LS,India,1977,1977,official,118,East Delhi,GEN,Delhi,354078,BLD,Kishore Lal,240594,INC,H.K.L. Bhagat,107487,133107,37.59
+ls-1977,LS,India,1977,1977,official,119,Karol Bagh,GEN,Delhi,215533,BLD,Shiv Narain Sarsonia,138691,INC,T. Sohan Lal,73623,65068,30.19
+ls-1977,LS,India,1977,1977,official,120,New Delhi,GEN,Delhi,176744,BLD,Atal Bihari Vajpayee,125936,INC,Shashi Bhushan,48750,77186,43.67
+ls-1977,LS,India,1977,1977,official,121,Outer Delhi,GEN,Delhi,311941,BLD,Brahm Perkash,206028,INC,Dalip Singh,101662,104366,33.46
+ls-1977,LS,India,1977,1977,official,122,South Delhi,GEN,Delhi,263512,BLD,Vijay Kumar Malhotra,183947,INC,Charanjit Singh,76390,107557,40.82
+ls-1977,LS,India,1977,1977,official,123,Marmagoa,GEN,"Goa, Daman & Diu",141920,INC,Faleiro Eduardo Martinho,61283,MAG,Ribeiro Dionisio Francisco,51815,9468,6.67
+ls-1977,LS,India,1977,1977,official,124,Panaji,GEN,"Goa, Daman & Diu",151126,MAG,Kasar Amrut Shivram,66933,INC,Kakodkar Purushottam Keshav,55867,11066,7.32
+ls-1977,LS,India,1977,1977,official,125,Ahmedabad,GEN,Gujarat,371018,INC,Ahesan Jafri,187715,BLD,Brahmkumar Bhatt,177702,10013,2.7
+ls-1977,LS,India,1977,1977,official,126,Amreli,GEN,Gujarat,257894,INC,Dwarkadas Mohanlal Patel,140586,BLD,Gondhiya Narsinhdas Gordhandas,81580,59006,22.88
+ls-1977,LS,India,1977,1977,official,127,Anand,GEN,Gujarat,391277,INC,Ajitsinh Fulsinh Dabhi,221099,BLD,Jadav Himatsinh Khodsinh,158320,62779,16.04
+ls-1977,LS,India,1977,1977,official,128,Banaskantha,GEN,Gujarat,272513,BLD,Chaudhary Motibhai Ranchhodbhai,168648,INC,Popatlal Mulshankar Joshi,103865,64783,23.77
+ls-1977,LS,India,1977,1977,official,129,Bhavnagar,GEN,Gujarat,253794,BLD,Prasannavadan Manilal Methta,128792,INC,Chabildas Pragjibhai Metha,117655,11137,4.39
+ls-1977,LS,India,1977,1977,official,130,Broach,GEN,Gujarat,334124,INC,Patel Ahmedbhai Mohmadbhai,189815,BLD,Unia Suleman Essuf,126936,62879,18.82
+ls-1977,LS,India,1977,1977,official,131,Bulsar,GEN,Gujarat,316718,BLD,Patel Nanubhai Nichhabhai,161861,INC,Patel Nirmalabhen Harjibhai,143897,17964,5.67
+ls-1977,LS,India,1977,1977,official,132,Chhota Udaipur,GEN,Gujarat,309613,INC,Rathawa Amarsinh Viriyabhai,170343,BLD,Rathawa Manharbhai Virsingbhai,129220,41123,13.28
+ls-1977,LS,India,1977,1977,official,133,Dhandhuka,GEN,Gujarat,274019,BLD,Parmar Natavarlal Bhagavandas,134527,INC,Rathod Balvantrai Ramjibhai,106761,27766,10.13
+ls-1977,LS,India,1977,1977,official,134,Dohad,GEN,Gujarat,175683,INC,Damor Somjibhai Pujabhai,89538,BLD,Minama Govindsingh Lalchandbhai,86145,3393,1.93
+ls-1977,LS,India,1977,1977,official,135,Gandhinagar,GEN,Gujarat,386629,BLD,Purushottam Ganesh Mavalankar,221967,INC,Govindbhai C. Patel,161850,60117,15.55
+ls-1977,LS,India,1977,1977,official,136,Godhra,GEN,Gujarat,285018,INC,Desai Hitendrabhai Kanaiyalal,138634,BLD,Mody Pillo Homi,137254,1380,0.48
+ls-1977,LS,India,1977,1977,official,137,Jamnagar,GEN,Gujarat,243616,BLD,Vinodbhai B. Sheth,121790,INC,Jadeja Daulatsinghji Pratapsinghji,119120,2670,1.1
+ls-1977,LS,India,1977,1977,official,138,Junagadh,GEN,Gujarat,323281,BLD,Nathwani Narendra Pragji,167567,INC,Adani Ratubhai Mulshanker,155714,11853,3.67
+ls-1977,LS,India,1977,1977,official,139,Kaira,GEN,Gujarat,395697,INC,Desai Dharmsingh Dadubhai,211884,BLD,Vaghela Shankarbhai Desaibhai,170040,41844,10.57
+ls-1977,LS,India,1977,1977,official,140,Kapadvanj,GEN,Gujarat,323881,BLD,Vaghela Shankarji Laxmanji,188390,INC,Rathod Natvarsinh Takhatsinh,120419,67971,20.99
+ls-1977,LS,India,1977,1977,official,141,Kutch,GEN,Gujarat,231019,BLD,Dave Anantray Devshankar,115514,INC,Mehta Mahipatray Mulshankar,104697,10817,4.68
+ls-1977,LS,India,1977,1977,official,142,Mandvi,GEN,Gujarat,327615,INC,Gamit Chhitubhai Devjibhai,183609,BLD,Chaudhary Mukundbhai Janabhai,144006,39603,12.09
+ls-1977,LS,India,1977,1977,official,143,Mehsana,GEN,Gujarat,382424,BLD,Patel Maniben Vallabhbhai,240776,INC,Patel Natvarlal Amratlal Gagabhai,118664,122112,31.93
+ls-1977,LS,India,1977,1977,official,144,Patan,GEN,Gujarat,298186,BLD,Chavda Khemchandbhai Somabhai,182973,INC,Vanakar Punamchandbhai Mithabhai,109407,73566,24.67
+ls-1977,LS,India,1977,1977,official,145,Porbandar,GEN,Gujarat,268077,BLD,Patel Dharmasinhbhai Dahyabhai,143252,INC,Dhami Ramniklal Kababhai,118823,24429,9.11
+ls-1977,LS,India,1977,1977,official,146,Rajkot,GEN,Gujarat,304784,BLD,Patel Keshubhai Savdasbhai,143051,INC,Arvindkumar Mohanlal Patel,127250,15801,5.18
+ls-1977,LS,India,1977,1977,official,147,Sabarkantha,GEN,Gujarat,305361,BLD,H. M. Patel,164502,INC,Kumarshri Rajendra Sinhji Daljitsinhji,126440,38062,12.46
+ls-1977,LS,India,1977,1977,official,148,Surat,GEN,Gujarat,393050,BLD,Desai Morarji Ranchhodji,206206,INC,Chauhan Jashvantsingh Dan Singh,184746,21460,5.46
+ls-1977,LS,India,1977,1977,official,149,Surendranagar,GEN,Gujarat,282693,BLD,Amin Ramdas Kishordas ( R. K. Amin ),139927,INC,Shah Manubhai Mansukhlal,134494,5433,1.92
+ls-1977,LS,India,1977,1977,official,150,Vadodara,GEN,Gujarat,404387,INC,Gaekwad Fatesinhrao Pratapsinhrao,219101,BLD,Patel Manubhai Motilal,178178,40923,10.12
+ls-1977,LS,India,1977,1977,official,151,Ambala,GEN,Haryana,387189,BLD,Suraj Bhan,264590,INC,Ram Prakash,99096,165494,42.74
+ls-1977,LS,India,1977,1977,official,152,Bhiwani,GEN,Haryana,427584,BLD,Chandrawati,289135,INC,Bansi Lal,127893,161242,37.71
+ls-1977,LS,India,1977,1977,official,153,Faridabad,GEN,Haryana,417485,BLD,Dharam Vir Vasisht,184948,IND,Khurshid Ahmad,157615,27333,6.55
+ls-1977,LS,India,1977,1977,official,154,Hissar,GEN,Haryana,401528,BLD,Inder Singh,322456,INC,Jaswant Singh,79072,243384,60.61
+ls-1977,LS,India,1977,1977,official,155,Karnal,GEN,Haryana,415837,BLD,Bhagwat Dayal,340961,INC,Jagdish Prasad,64125,276836,66.57
+ls-1977,LS,India,1977,1977,official,156,Kurukshetra,GEN,Haryana,418857,BLD,Raghbir Singh,322164,INC,Devdutt Puri,71322,250842,59.89
+ls-1977,LS,India,1977,1977,official,157,Mahendragarh,GEN,Haryana,462881,BLD,Manoharlal,255881,VHP,Birender Singh,192867,63014,13.61
+ls-1977,LS,India,1977,1977,official,158,Rohtak,GEN,Haryana,392871,BLD,Sher Singh,320550,INC,Munphool Singh,60905,259645,66.09
+ls-1977,LS,India,1977,1977,official,159,Sirsa,GEN,Haryana,395788,BLD,Chandram,270861,INC,Dalbir Singh,117693,153168,38.7
+ls-1977,LS,India,1977,1977,official,160,Sonepat,GEN,Haryana,428524,BLD,Mukhtiar Singh,346900,INC,Subhashni,66677,280223,65.39
+ls-1977,LS,India,1977,1977,official,161,Hamirpur,GEN,Himachal Pradesh,315042,BLD,Ranjit Singh,182582,INC,Narain Chand,132460,50122,15.91
+ls-1977,LS,India,1977,1977,official,162,Kangra,GEN,Himachal Pradesh,296836,BLD,Durga Chand,157832,INC,Vikramchand,118828,39004,13.14
+ls-1977,LS,India,1977,1977,official,163,Mandi,GEN,Himachal Pradesh,259715,BLD,Ganga Singh,138143,INC,Virbhadra Singh,102638,35505,13.67
+ls-1977,LS,India,1977,1977,official,164,Shimla,GEN,Himachal Pradesh,267300,BLD,Balak Ram,172763,INC,Zalam Singh,85472,87291,32.66
+ls-1977,LS,India,1977,1977,official,165,Anantnag,GEN,Jammu & Kashmir,248650,INC,Mohd. Shafi Qureshi,79742,IND,Ab. Razak Mir,71411,8331,3.35
+ls-1977,LS,India,1977,1977,official,166,Baramulla,GEN,Jammu & Kashmir,247424,JKNC,Abdul Ahad,147222,IND,Syed Alishah Geelani,100202,47020,19.0
+ls-1977,LS,India,1977,1977,official,167,Jammu,GEN,Jammu & Kashmir,344912,IND,Thakur Baldev Singh,153837,JKNC,Balraj Puri,125898,27939,8.1
+ls-1977,LS,India,1977,1977,official,168,Ladakh,GEN,Jammu & Kashmir,43383,INC,Parvati Devi,23130,IND,Mohammad Ali Alias Ali Kargil,20253,2877,6.63
+ls-1977,LS,India,1977,1977,official,169,Srinagar,GEN,Jammu & Kashmir,310158,JKNC,Akbar Jahan Begam,210072,IND,Molvi Iftikhar Hussain Ansari,87431,122641,39.54
+ls-1977,LS,India,1977,1977,official,170,Udhampur,GEN,Jammu & Kashmir,229797,INC,Karan Singh,130272,BLD,Om Parkash Saraf,71316,58956,25.66
+ls-1977,LS,India,1977,1977,official,171,Bagalkot,GEN,Karnataka,352688,INC,Patil Sanganagouda Basangouda,212393,BLD,Tungal Keshavrao Krishnappa,140295,72098,20.44
+ls-1977,LS,India,1977,1977,official,172,Bangalore North,GEN,Karnataka,366676,INC,C. K. Jafar Sharif,198669,BLD,M. Chandrasekhar,158485,40184,10.96
+ls-1977,LS,India,1977,1977,official,173,Bangalore South,GEN,Karnataka,418490,BLD,K. S. Hegde,221974,INC,K. Hanumantaiya,180809,41165,9.84
+ls-1977,LS,India,1977,1977,official,174,Belgaum,GEN,Karnataka,318723,INC,Kotrashetti Appayappa Karaveerappa,178331,BLD,Patil Paravatgouda Basangouda,114329,64002,20.08
+ls-1977,LS,India,1977,1977,official,175,Bellary,GEN,Karnataka,371634,INC,K. S. Veera Bhadrappa,258589,BLD,N. Thippanna,113045,145544,39.16
+ls-1977,LS,India,1977,1977,official,176,Bidar,GEN,Karnataka,301402,INC,Shankardev Balaji Rao,168554,BLD,Ramchandra Veerappa,118324,50230,16.67
+ls-1977,LS,India,1977,1977,official,177,Bijapur,GEN,Karnataka,325726,INC,Choudhari Kalingappa Bhimanna,173700,BLD,Nagathan Irappa Chanamallappa,152026,21674,6.65
+ls-1977,LS,India,1977,1977,official,178,Chamarajanagar,GEN,Karnataka,385962,INC,B. Rachaiah,214233,BLD,V. Sreenivasa Prasad,142615,71618,18.56
+ls-1977,LS,India,1977,1977,official,179,Chikkaballapura,GEN,Karnataka,395909,INC,M. V. Krishnappa,207589,BLD,G. Narayana Gowda,159115,48474,12.24
+ls-1977,LS,India,1977,1977,official,180,Chikkodi,GEN,Karnataka,322223,INC,B. Shankaranand,173166,BLD,Karale Laxman Bhimarao,127666,45500,14.12
+ls-1977,LS,India,1977,1977,official,181,Chikmagalur,GEN,Karnataka,351910,INC,D. B. Chandre Gowda,208239,BLD,B. L. Subbamma,143671,64568,18.35
+ls-1977,LS,India,1977,1977,official,182,Chitradurga,GEN,Karnataka,371862,INC,K. Mallanna,227926,BLD,H. C. Boraiah,141272,86654,23.3
+ls-1977,LS,India,1977,1977,official,183,Davanagere,GEN,Karnataka,412243,INC,Kondajji Basappa,244200,BLD,K. G. Maheswarappa,152078,92122,22.35
+ls-1977,LS,India,1977,1977,official,184,Dharwad North,GEN,Karnataka,356826,INC,Mahishi Sarojini Bindurao,205627,BLD,Joshi Jaganath Rao Anant,151199,54428,15.25
+ls-1977,LS,India,1977,1977,official,185,Dharwad South,GEN,Karnataka,394314,INC,Mohsin F. H,239210,BLD,C. M. Ibrahim,147270,91940,23.32
+ls-1977,LS,India,1977,1977,official,186,Gulbarga,GEN,Karnataka,310522,INC,Sidram Reddi,188381,BLD,Govind Vadeyaraj,102989,85392,27.5
+ls-1977,LS,India,1977,1977,official,187,Hassan,GEN,Karnataka,417601,BLD,S. Nanjesha Gowda,207560,INC,G. L. Nalluregowda,206479,1081,0.26
+ls-1977,LS,India,1977,1977,official,188,Kanakapura,GEN,Karnataka,407458,INC,M. V. Chandrasekhara Murthy,192111,BLD,M. V. Rajasekharan,187459,4652,1.14
+ls-1977,LS,India,1977,1977,official,189,Kanara,GEN,Karnataka,378956,INC,Kadam Balsu Pursu,195974,BLD,Ramakrishna Hegde,161580,34394,9.08
+ls-1977,LS,India,1977,1977,official,190,Kolar,GEN,Karnataka,351490,INC,G. Y. Krishnan,196290,BLD,Y. Ramakrishna,123274,73016,20.77
+ls-1977,LS,India,1977,1977,official,191,Koppal,GEN,Karnataka,328481,INC,Sidrameshwara Swamy Basayya,223451,BLD,Sanganna Andanappa,97672,125779,38.29
+ls-1977,LS,India,1977,1977,official,192,Mandya,GEN,Karnataka,414039,INC,K. Chickalingaiah,200360,BLD,M. Srinivas,195039,5321,1.29
+ls-1977,LS,India,1977,1977,official,193,Mangalore,GEN,Karnataka,388588,INC,Janardhana Poojari,233458,BLD,A. K. Subbaiah,155130,78328,20.16
+ls-1977,LS,India,1977,1977,official,194,Mysore,GEN,Karnataka,364491,INC,H. D. Tulsidas,195657,BLD,M. S. Gurupadaswamy,153989,41668,11.43
+ls-1977,LS,India,1977,1977,official,195,Raichur,GEN,Karnataka,288042,INC,Rajshekhar Mallappa,212232,BLD,M. Nagappa Basappa,75810,136422,47.36
+ls-1977,LS,India,1977,1977,official,196,Shimoga,GEN,Karnataka,397294,INC,A. R. Badarinarayan,236065,BLD,J. H. Patel,161229,74836,18.84
+ls-1977,LS,India,1977,1977,official,197,Tumkur,GEN,Karnataka,411216,INC,K. Lakkappa,237086,BLD,S. Mallikarjuniah,170269,66817,16.25
+ls-1977,LS,India,1977,1977,official,198,Udupi,GEN,Karnataka,365359,INC,T. A. Pai,224788,BLD,V. S. Acharya,121326,103462,28.32
+ls-1977,LS,India,1977,1977,official,199,Adoor,GEN,Kerala,421827,CPI,P. K. Kodiyan,227939,CPI(M),K. Chandrasekharan Shastri,187372,40567,9.62
+ls-1977,LS,India,1977,1977,official,200,Alappuzha,GEN,Kerala,476886,INC,V. M. Sudheeran,270451,CPI(M),E. Balanandan,206435,64016,13.42
+ls-1977,LS,India,1977,1977,official,201,Badagara,GEN,Kerala,498854,INC,K. P. Unnikrishnan,253462,BLD,Arangil Sreedharan,245392,8070,1.62
+ls-1977,LS,India,1977,1977,official,202,Calicut,GEN,Kerala,448422,INC,V. A. Seyid Muhammad,231063,BLD,M. Kamalam,217359,13704,3.06
+ls-1977,LS,India,1977,1977,official,203,Chirayinkil,GEN,Kerala,415581,INC,Vayalar Ravi,238253,CPI(M),K. Anirudhan,177328,60925,14.66
+ls-1977,LS,India,1977,1977,official,204,Ernakulam,GEN,Kerala,457169,INC,Henry Austin,227896,CPI(M),K. N. Raveendranath,220611,7285,1.59
+ls-1977,LS,India,1977,1977,official,205,Idukki,GEN,Kerala,415813,INC,C. M. Stephen,228035,KCP,M. M. Joseph,148778,79257,19.06
+ls-1977,LS,India,1977,1977,official,206,Kannur,GEN,Kerala,447288,CPI,C. K. Chandrappan,225328,CPI(M),O. Bharathan,212451,12877,2.88
+ls-1977,LS,India,1977,1977,official,207,Kasaragod,GEN,Kerala,449568,INC,Ramachandran Kadannappally,227305,CPI(M),M. Ramanna Rai,222263,5042,1.12
+ls-1977,LS,India,1977,1977,official,208,Kollam,GEN,Kerala,447542,RSP,N. Sreekantan Nair,272378,IND,N. Rajagopalan,159217,113161,25.29
+ls-1977,LS,India,1977,1977,official,209,Kottayam,GEN,Kerala,456096,KEC,Skariah Thomas,242387,KCP,Varkey George,173692,68695,15.06
+ls-1977,LS,India,1977,1977,official,210,Manjeri,GEN,Kerala,431269,IUML,Ebrahim Sulaiman Sait,264235,MLO,B. M. Hussain,167034,97201,22.54
+ls-1977,LS,India,1977,1977,official,211,Mavelikara,GEN,Kerala,444236,INC,B. K. Nair,238169,IND,B. G. Verghese,181617,56552,12.73
+ls-1977,LS,India,1977,1977,official,212,Mukundapuram,GEN,Kerala,463849,INC,A. C. George,225095,IND,S. C. S. Menon,220875,4220,0.91
+ls-1977,LS,India,1977,1977,official,213,Muvattupuzha,GEN,Kerala,453754,KEC,George J. Mathew,249287,KCP,K. M. Joseph Kuruppamadham,204467,44820,9.88
+ls-1977,LS,India,1977,1977,official,214,Ottapalam,GEN,Kerala,429103,INC,K. Kunhambu,232412,CPI(M),C. K. Chakrapani,196691,35721,8.32
+ls-1977,LS,India,1977,1977,official,215,Palakkad,GEN,Kerala,417678,INC,A. Sunnasahib,207604,CPI(M),T. Sivadasa Menon,192733,14871,3.56
+ls-1977,LS,India,1977,1977,official,216,Ponnani,GEN,Kerala,421436,IUML,G. M. Banatwala,269491,MLO,M. Moideen Kutty Haji,151945,117546,27.89
+ls-1977,LS,India,1977,1977,official,217,Thiruvananthapuram,GEN,Kerala,433598,CPI,M. N. Govindan Nair,244277,BLD,P. Viswambharan,174455,69822,16.1
+ls-1977,LS,India,1977,1977,official,218,Thrissur,GEN,Kerala,426204,CPI,K. A. Rajan,221815,CPI(M),Aravindakshan,184309,37506,8.8
+ls-1977,LS,India,1977,1977,official,219,Lakshadweep,GEN,Lakshadweep,16386,INC,Muhammed Sayeed Padannatha,9600,IND,Mohammed Koya Kunnamkalam,6786,2814,17.17
+ls-1977,LS,India,1977,1977,official,220,Balaghat,GEN,Madhya Pradesh,285743,RPK,Kacharu Lal Hemraj Jain,153980,INC,Chintaman Rao Gautam,104272,49708,17.4
+ls-1977,LS,India,1977,1977,official,221,Bastar,GEN,Madhya Pradesh,188889,BLD,Drigpal Shah Keshri Shah,101007,INC,Lambodar Baliyar,50953,50054,26.5
+ls-1977,LS,India,1977,1977,official,222,Betul,GEN,Madhya Pradesh,220301,BLD,Subhash Chandra Ahuja,108660,INC,Narendra Kumar Salve,81737,26923,12.22
+ls-1977,LS,India,1977,1977,official,223,Bhind,GEN,Madhya Pradesh,330856,BLD,Raghubir Singh Machhand,241267,INC,Raghav Ram,80373,160894,48.63
+ls-1977,LS,India,1977,1977,official,224,Bhopal,GEN,Madhya Pradesh,364683,BLD,Arif Beg,231023,INC,Shankar Dayal Sharma,122497,108526,29.76
+ls-1977,LS,India,1977,1977,official,225,Bilaspur,GEN,Madhya Pradesh,287251,BLD,Niranjan Prasad Kesharwani,150039,INC,Ashok Rao,137212,12827,4.47
+ls-1977,LS,India,1977,1977,official,226,Chhindwara,GEN,Madhya Pradesh,226943,INC,Gargishankar Ramkrishna Mishra,99396,BLD,Pratulchandra Dwivedi,97027,2369,1.04
+ls-1977,LS,India,1977,1977,official,227,Damoh,GEN,Madhya Pradesh,345483,BLD,Narendra Singh Yadvendra Singh,247451,INC,Vithal Bhai Lallu Bhai Patel,98032,149419,43.25
+ls-1977,LS,India,1977,1977,official,228,Dhar,GEN,Madhya Pradesh,294846,BLD,Bharat Singh Gulab Singh,170110,INC,Mangilal Adiwasi,124736,45374,15.39
+ls-1977,LS,India,1977,1977,official,229,Durg,GEN,Madhya Pradesh,336251,BLD,Mohan Bhaiya,177922,INC,Chandoolal Chandrakar,126347,51575,15.34
+ls-1977,LS,India,1977,1977,official,230,Guna,GEN,Madhya Pradesh,320304,IND,Madhav Rao Scindia,184513,BLD,Gurbakhsh Singh Thakur Singh,108062,76451,23.87
+ls-1977,LS,India,1977,1977,official,231,Gwalior,GEN,Madhya Pradesh,326353,BLD,Narayan Krishna Shejwalker,219838,INC,Sumer Singh,67646,152192,46.63
+ls-1977,LS,India,1977,1977,official,232,Hoshangabad,GEN,Madhya Pradesh,309021,BLD,Kamath Hari Vishnu,208596,INC,Choudhary Nitiraj Singh Daulat Singh,100425,108171,35.0
+ls-1977,LS,India,1977,1977,official,233,Indore,GEN,Madhya Pradesh,351754,BLD,Kalyan Jain,174278,INC,Bhatt Nandkishore,137642,36636,10.42
+ls-1977,LS,India,1977,1977,official,234,Jabalpur,GEN,Madhya Pradesh,329112,BLD,Sharad Yadav,194516,INC,Jagdish Narain Awasthy,118625,75891,23.06
+ls-1977,LS,India,1977,1977,official,235,Janjgir,GEN,Madhya Pradesh,246832,BLD,Madan Bhaiya,118665,INC,Ramgopal Tiwari,105096,13569,5.5
+ls-1977,LS,India,1977,1977,official,236,Jhabua,GEN,Madhya Pradesh,246428,BLD,Bhagirath Bhawar,154550,INC,Dilip Singh Bhuriya,91878,62672,25.43
+ls-1977,LS,India,1977,1977,official,237,Kanker,GEN,Madhya Pradesh,254553,BLD,Aghansingh,151392,INC,Arvind Bishram,97615,53777,21.13
+ls-1977,LS,India,1977,1977,official,238,Khajuraho,GEN,Madhya Pradesh,327497,BLD,Laxmi Narain Nayak,244641,INC,Shiva Narain Khare,82856,161785,49.4
+ls-1977,LS,India,1977,1977,official,239,Khandwa,GEN,Madhya Pradesh,310039,BLD,Parmanand Thakurdas Govindjiwala,182031,INC,Gangacharan Dixit,128008,54023,17.42
+ls-1977,LS,India,1977,1977,official,240,Khargone,GEN,Madhya Pradesh,320937,BLD,Rameshwar Patidar,163834,INC,Subhas Yadaw,127976,35858,11.17
+ls-1977,LS,India,1977,1977,official,241,Mahasamund,GEN,Madhya Pradesh,303809,BLD,Brijlal Verma,182054,INC,Shrikrishna Agrawal,102527,79527,26.18
+ls-1977,LS,India,1977,1977,official,242,Mandla,GEN,Madhya Pradesh,180493,BLD,Shyamlal Dhurve,126646,INC,Mangru Ganoo Uikey,53847,72799,40.33
+ls-1977,LS,India,1977,1977,official,243,Mandsaur,GEN,Madhya Pradesh,395041,BLD,Laxminarayan Pandey,199688,INC,Bansilal Gandhi,148581,51107,12.94
+ls-1977,LS,India,1977,1977,official,244,Morena,GEN,Madhya Pradesh,270434,BLD,Chhabiram Argal,172959,INC,Budhram,91655,81304,30.06
+ls-1977,LS,India,1977,1977,official,245,Raigarh,GEN,Madhya Pradesh,248362,BLD,Narhari Prasad Sukhdeo Sai,116574,INC,Ummed Singh,96762,19812,7.98
+ls-1977,LS,India,1977,1977,official,246,Raipur,GEN,Madhya Pradesh,306240,BLD,Purushottam Lal Kaushik,186296,INC,Vidyacharan Shukla,102684,83612,27.3
+ls-1977,LS,India,1977,1977,official,247,Rajgarh,GEN,Madhya Pradesh,306943,BLD,Pandit Vashant Kumar Ram Krishna,226578,INC,Kanhiyalal Bhura Bhai,75043,151535,49.37
+ls-1977,LS,India,1977,1977,official,248,Rajnandgaon,GEN,Madhya Pradesh,275740,BLD,Madan Tiwary,178476,INC,Ram Sahai Pandey,90543,87933,31.89
+ls-1977,LS,India,1977,1977,official,249,Rewa,GEN,Madhya Pradesh,366930,BLD,Yammuna Prasad,176634,IND,Maha Martand Singh,169941,6693,1.82
+ls-1977,LS,India,1977,1977,official,250,Sagar,GEN,Madhya Pradesh,285921,BLD,Narmada Prasad Rai,173922,INC,Sahodra Bai Rai,104993,68929,24.11
+ls-1977,LS,India,1977,1977,official,251,Sarangarh,GEN,Madhya Pradesh,219884,BLD,Govind Ram Miri,116030,INC,Gondil Prasad Anuragi,103854,12176,5.54
+ls-1977,LS,India,1977,1977,official,252,Sarguja,GEN,Madhya Pradesh,231721,BLD,Larang Sai,165952,INC,Babunath,65769,100183,43.23
+ls-1977,LS,India,1977,1977,official,253,Satna,GEN,Madhya Pradesh,350724,BLD,Sukhendra Singh,249938,INC,Ram Chandra Bajpai,97361,152577,43.5
+ls-1977,LS,India,1977,1977,official,254,Seoni,GEN,Madhya Pradesh,269944,BLD,Nirmal Chandra Jain,157123,INC,Thakur Raghuraj Sing,103562,53561,19.84
+ls-1977,LS,India,1977,1977,official,255,Shahdol,GEN,Madhya Pradesh,232745,BLD,Dalpat Singh Paraste,164652,INC,Dhanshah Pradhan,68093,96559,41.49
+ls-1977,LS,India,1977,1977,official,256,Shajapur,GEN,Madhya Pradesh,398729,BLD,Phool Chand Verma,238787,INC,Bapulal Malviya,153995,84792,21.27
+ls-1977,LS,India,1977,1977,official,257,Sidhi,GEN,Madhya Pradesh,253659,BLD,Surya Narayan Singh,141968,INC,Rana Bahadur Singh,65495,76473,30.15
+ls-1977,LS,India,1977,1977,official,258,Ujjain,GEN,Madhya Pradesh,355021,BLD,Hukumchand Kachhaway,202276,INC,Durgadas Suryavanshi,133179,69097,19.46
+ls-1977,LS,India,1977,1977,official,259,Vidisha,GEN,Madhya Pradesh,335979,BLD,Raghavji,218276,INC,Gufran Md. Azam,94542,123734,36.83
+ls-1977,LS,India,1977,1977,official,260,Ahmednagar,GEN,Maharashtra,324234,INC,Shinde Annasaheb Pandurang,179550,BLD,Gade Mohanrao Abasaheb,114737,64813,19.99
+ls-1977,LS,India,1977,1977,official,261,Akola,GEN,Maharashtra,376008,INC,Sathe Vasantrao Purushottam,208468,BLD,Lahane Motiram Udaybhanji,146969,61499,16.36
+ls-1977,LS,India,1977,1977,official,262,Amravati,GEN,Maharashtra,361716,INC,Bonde Nana Mahadeo,259062,BLD,Kaloti Haribhau Dattatraya,98400,160662,44.42
+ls-1977,LS,India,1977,1977,official,263,Aurangabad,GEN,Maharashtra,356003,BLD,Bapu Kaldate,201021,INC,Chandrashekhar Rajurkar,143932,57089,16.04
+ls-1977,LS,India,1977,1977,official,264,Baramati,GEN,Maharashtra,375596,BLD,Sambhajirao Kakade,203148,INC,Gadgil Vithal Narhar,172448,30700,8.17
+ls-1977,LS,India,1977,1977,official,265,Beed,GEN,Maharashtra,343097,CPI(M),Burande Gangadhar Appa,197497,INC,Laxman Shankarao Deshmukh,145600,51897,15.13
+ls-1977,LS,India,1977,1977,official,266,Bhandara,GEN,Maharashtra,392601,BLD,Mankar Laxmanrao Bisanji,211106,INC,Gupta Chhedilal Budhanlal,159473,51633,13.15
+ls-1977,LS,India,1977,1977,official,267,Buldhana,GEN,Maharashtra,342151,RPK,Gawai Daulat Gunaji,183460,RPI,Jadhao Gopalrao Sakharam,140605,42855,12.53
+ls-1977,LS,India,1977,1977,official,268,Chandrapur,GEN,Maharashtra,376285,BLD,Raje Vishveshvarrao,209974,INC,Abdul Shafee,120988,88986,23.65
+ls-1977,LS,India,1977,1977,official,269,Chimur,GEN,Maharashtra,436071,INC,Thakur Krishnarao Dagoji,234902,RPK,Ghodichor Manohar Raghoji,171933,62969,14.44
+ls-1977,LS,India,1977,1977,official,270,Dahanu,GEN,Maharashtra,298410,CPI(M),Kom Lahanu Shidava,175538,INC,Dumada Laxman Kakadya,122872,52666,17.65
+ls-1977,LS,India,1977,1977,official,271,Dhule,GEN,Maharashtra,314507,INC,Patil Vijaykumar Naval,178735,BLD,Patil Uttamrao Laxmanrao,126586,52149,16.58
+ls-1977,LS,India,1977,1977,official,272,Erandol,GEN,Maharashtra,351546,BLD,Patil Sonusing Dhansing,182680,INC,Patil Krishnarao Madhavrao,168866,13814,3.93
+ls-1977,LS,India,1977,1977,official,273,Hingoli,GEN,Maharashtra,310357,BLD,Patil Chandrakant Ramkrishna,144991,INC,Deshmukh Balajirao Gopalrao,109240,35751,11.52
+ls-1977,LS,India,1977,1977,official,274,Ichalkaranji,GEN,Maharashtra,389254,INC,Mane Rajaram Alias Balasaheb Shankarrao,211309,BLD,Desai Kakasaheb Gopalrao,177945,33364,8.57
+ls-1977,LS,India,1977,1977,official,275,Jalgaon,GEN,Maharashtra,350583,BLD,Borole Yashwant Mansaram,170451,INC,Mahajan Yadav Shivaram,158265,12186,3.48
+ls-1977,LS,India,1977,1977,official,276,Jalna,GEN,Maharashtra,313082,BLD,Pundalik Hari Danve,168828,INC,Manikrao Palodkar,144254,24574,7.85
+ls-1977,LS,India,1977,1977,official,277,Karad,GEN,Maharashtra,328375,INC,Chavan Premlabai Dajisaheb,243305,PWP,Desai Bhausaheb Balwant,72490,170815,52.02
+ls-1977,LS,India,1977,1977,official,278,Khed,GEN,Maharashtra,296368,INC,Annasaheb Magar,157947,BLD,Mukundrao Patil,138421,19526,6.59
+ls-1977,LS,India,1977,1977,official,279,Kolaba,GEN,Maharashtra,345605,PWP,Dinkar Balu Patil,199463,INC,Shankar Babaji Sawant,146142,53321,15.43
+ls-1977,LS,India,1977,1977,official,280,Kolhapur,GEN,Maharashtra,374098,PWP,Desai Dajiba Balwantrao,186077,INC,Mane Shankarrao Dattatray,185912,165,0.04
+ls-1977,LS,India,1977,1977,official,281,Kopargaon,GEN,Maharashtra,270656,INC,Vikhe Eknathrao Vithalrao,181013,BLD,Pawar Kishore Rameshwar,82469,98544,36.41
+ls-1977,LS,India,1977,1977,official,282,Latur,GEN,Maharashtra,352276,PWP,Patil Uddhavrao Sahebrrao,178815,INC,Patil Pandharinath Gyanoba,170964,7851,2.23
+ls-1977,LS,India,1977,1977,official,283,Malegaon,GEN,Maharashtra,278478,BLD,Mahale Hari Shankar,144555,INC,Kahandole Zamaru Mangalu,129118,15437,5.54
+ls-1977,LS,India,1977,1977,official,284,Mumbai North,GEN,Maharashtra,415009,BLD,Gore Mrinal Keshav,278246,INC,Ridwan Harris,131156,147090,35.44
+ls-1977,LS,India,1977,1977,official,285,Mumbai North Central,GEN,Maharashtra,395292,CPI(M),Ahilya P. Rangnekar,228123,INC,Bhandare R. D,158208,69915,17.69
+ls-1977,LS,India,1977,1977,official,286,Mumbai North East,GEN,Maharashtra,424980,BLD,Subramaniam Swamy,260699,INC,Kulkarni Rajaram Alias Raja Gopal,137577,123122,28.97
+ls-1977,LS,India,1977,1977,official,287,Mumbai North West,GEN,Maharashtra,403409,BLD,Ram Jethmalani,246446,INC,Gokhale Hari Ramchandra,152947,93499,23.18
+ls-1977,LS,India,1977,1977,official,288,Mumbai South,GEN,Maharashtra,399772,BLD,Rajada Ratansingh Gokuldas,226893,INC,Ankleshwaria Ramanlal Chhotalal,162499,64394,16.11
+ls-1977,LS,India,1977,1977,official,289,Mumbai South Central,GEN,Maharashtra,381534,BLD,Kamble Bapu Chandrasen,194786,INC,Hoshing Vasant Ranganath,141083,53703,14.08
+ls-1977,LS,India,1977,1977,official,290,Nagpur,GEN,Maharashtra,386119,INC,Awari Gev Mancharsha,172010,RPK,Khobragade Bhaurao Dewaji,130457,41553,10.76
+ls-1977,LS,India,1977,1977,official,291,Nanded,GEN,Maharashtra,373652,PWP,Dhondge Keshavrao Shankarrao,253736,INC,Mhaisekar Govindrao Ramchandra,119916,133820,35.81
+ls-1977,LS,India,1977,1977,official,292,Nandurbar,GEN,Maharashtra,306458,INC,Naik Surupsingh Hariya,186949,BLD,Padvi Dilawarsingh Dongarsingh,119509,67440,22.01
+ls-1977,LS,India,1977,1977,official,293,Nashik,GEN,Maharashtra,326346,BLD,Hande Vithalrao Ganpatrao,164258,INC,Thakre Baburao Ganpat,153017,11241,3.44
+ls-1977,LS,India,1977,1977,official,294,Osmanabad,GEN,Maharashtra,273382,INC,Shrangare Tukaram Sadashiv,162934,BLD,Sarwade Kamlakarrao Rukmaji,101390,61544,22.51
+ls-1977,LS,India,1977,1977,official,295,Pandharpur,GEN,Maharashtra,308966,INC,Thorat Sandipan Bhagwan,203709,RPK,Kale Tatyasaheb Manohar,105257,98452,31.86
+ls-1977,LS,India,1977,1977,official,296,Parbhani,GEN,Maharashtra,298503,PWP,Deshmukh Sheshrao Apparao,139651,INC,Limbajirao Alias Ramrao Nagorao Raut,108112,31539,10.57
+ls-1977,LS,India,1977,1977,official,297,Pune,GEN,Maharashtra,376666,BLD,Mohan Dharia,209922,INC,Vasant Thorat,161755,48167,12.79
+ls-1977,LS,India,1977,1977,official,298,Rajapur,GEN,Maharashtra,325328,BLD,Madhu Dandavate,220855,INC,Gopalrao Mayekar,104473,116382,35.77
+ls-1977,LS,India,1977,1977,official,299,Ramtek,GEN,Maharashtra,364363,INC,Barve Jatiramji Chaitramji,196977,IND,Ram Hedaoo,154028,42949,11.79
+ls-1977,LS,India,1977,1977,official,300,Ratnagiri,GEN,Maharashtra,320708,BLD,Parulekar Bapusaheb,173004,INC,Peje Santaram Laxman,147704,25300,7.89
+ls-1977,LS,India,1977,1977,official,301,Sangli,GEN,Maharashtra,327956,INC,Gotkhinde Ganapatrao Tukaram,192125,BLD,Vasudeo Daji Jadhav,135831,56294,17.17
+ls-1977,LS,India,1977,1977,official,302,Satara,GEN,Maharashtra,341138,INC,Chavan Yashvantrao Balwantrao,260562,BLD,Lavangare Nitin Jagannath,68961,191601,56.17
+ls-1977,LS,India,1977,1977,official,303,Sholapur,GEN,Maharashtra,332805,INC,Damani Surajratan Fatehchand,183424,BLD,Kadadi Madeppa Bandappa,149381,34043,10.23
+ls-1977,LS,India,1977,1977,official,304,Thane,GEN,Maharashtra,390497,BLD,Mhalgi Ramchandra Kashinath,230502,INC,Deshmukh Pandurang Shivram,147756,82746,21.19
+ls-1977,LS,India,1977,1977,official,305,Wardha,GEN,Maharashtra,415164,INC,Gode Santoshrao Vyankatrao,219442,IND,Dhote Jambuwantrao Bapurao,102788,116654,28.1
+ls-1977,LS,India,1977,1977,official,306,Washim,GEN,Maharashtra,355499,INC,Naik Vasantrao Phulsing,213339,RPK,Khandare Shankarrao Sambhuji,140182,73157,20.58
+ls-1977,LS,India,1977,1977,official,307,Yeotmal,GEN,Maharashtra,390446,INC,Jawade Shridharrao Natthobaji,192228,IND,Yembadwar Nanasaheb Narayanrao,181931,10297,2.64
+ls-1977,LS,India,1977,1977,official,308,Inner Manipur,GEN,Manipur,247793,INC,N. Tombi Singh,105740,MRP,Alimudin,80081,25659,10.36
+ls-1977,LS,India,1977,1977,official,309,Outer Manipur,GEN,Manipur,217548,INC,Yangmaso Shaiza,105111,MRP,Sehkhogin,29049,76062,34.96
+ls-1977,LS,India,1977,1977,official,310,Shillong,GEN,Meghalaya,184146,IND,Hoping Stone Lyngdoh,55732,INC,Peter Garnette Marbaniang,50967,4765,2.59
+ls-1977,LS,India,1977,1977,official,311,Tura,GEN,Meghalaya,69900,INC,Purna A. Sangma,40288,IND,Mody K. Marak,26254,14034,20.08
+ls-1977,LS,India,1977,1977,official,312,Mizoram,GEN,Mizoram,100725,IND,R. Rothuama,53350,INC,C. L. Ruala,37342,16008,15.89
+ls-1977,LS,India,1977,1977,official,313,Nagaland,GEN,Nagaland,241154,UDF,Rano M. Shaiza,124627,INC,Hokishe Sema,116527,8100,3.36
+ls-1977,LS,India,1977,1977,official,314,Aska,GEN,Odisha,291261,INC,Rama Chandra Rath,121721,BLD,Ananta Narayan Singhdeo,117944,3777,1.3
+ls-1977,LS,India,1977,1977,official,315,Balasore,GEN,Odisha,341260,BLD,Samarendra Kundu,190219,INC,Shyam Sundar Mahapatra,130758,59461,17.42
+ls-1977,LS,India,1977,1977,official,316,Berhampore,GEN,Odisha,206039,INC,Jagannath Rao R,119132,BLD,Varahagiri Shanker Giri,69043,50089,24.31
+ls-1977,LS,India,1977,1977,official,317,Bhadrak,GEN,Odisha,326377,BLD,Bairagi Jena,198977,INC,Arjun Charan Sethi,127400,71577,21.93
+ls-1977,LS,India,1977,1977,official,318,Bhubaneswar,GEN,Odisha,238229,CPI(M),Sivaji Patnaik,106960,INC,Chintamani Panigrahi,101491,5469,2.3
+ls-1977,LS,India,1977,1977,official,319,Bolangir,GEN,Odisha,220482,BLD,Ainthu Sahoo,139103,INC,Ananga Udaya Singh Deo,81379,57724,26.18
+ls-1977,LS,India,1977,1977,official,320,Cuttack,GEN,Odisha,320631,BLD,Sarat Kumar Kar,176445,INC,Janaki Balav Patnaik,116043,60402,18.84
+ls-1977,LS,India,1977,1977,official,321,Deogarh,GEN,Odisha,247615,BLD,Pabitra Mohan Pradhan,117057,INC,Badkumar Pratap Gangadeb,107015,10042,4.06
+ls-1977,LS,India,1977,1977,official,322,Dhenkanal,GEN,Odisha,252278,BLD,Debendra Satpathy,143008,INC,Raja Kamakhya Prasad Singh Deo Mahindra Bahadur,98348,44660,17.7
+ls-1977,LS,India,1977,1977,official,323,Jagatsinghpur,GEN,Odisha,399021,BLD,Pradyumna Kishore Bal,228620,INC,Basudev Mohapatra,118669,109951,27.56
+ls-1977,LS,India,1977,1977,official,324,Jajpur,GEN,Odisha,308095,BLD,Rama Chandra Mallick,171191,INC,Baishnab Charan Mallick,121531,49660,16.12
+ls-1977,LS,India,1977,1977,official,325,Kalahandi,GEN,Odisha,182371,IND,Pratap Keshari Deo,117816,BLD,Gangadhar Hota,64555,53261,29.2
+ls-1977,LS,India,1977,1977,official,326,Kendrapara,GEN,Odisha,387360,BLD,Bijayananda Pattanayak,265868,INC,Bhagabata Prasad Mohanty,121492,144376,37.27
+ls-1977,LS,India,1977,1977,official,327,Keonjhar,GEN,Odisha,188346,BLD,Govinda Munda,113790,INC,Rahas Bihari Mohapapatra,66045,47745,25.35
+ls-1977,LS,India,1977,1977,official,328,Koraput,GEN,Odisha,142559,INC,Giridhar Gomango,78494,BLD,Mutika Papanna,64065,14429,10.12
+ls-1977,LS,India,1977,1977,official,329,Mayurbhanj,GEN,Odisha,206813,BLD,Chandra Mohan Sinha,99074,INC,Chaitanya Prasad Majhi,87725,11349,5.49
+ls-1977,LS,India,1977,1977,official,330,Nabarangpur,GEN,Odisha,133361,INC,Khagapati Pradhani,68196,BLD,Rabisingh Majhi,65165,3031,2.27
+ls-1977,LS,India,1977,1977,official,331,Phulbani,GEN,Odisha,201099,BLD,Sribatcha Digal,97359,INC,Bakshi Nayak,94716,2643,1.31
+ls-1977,LS,India,1977,1977,official,332,Puri,GEN,Odisha,289063,BLD,Padmacharan Samantasinhar,179802,INC,Banamali Patnaik,109261,70541,24.4
+ls-1977,LS,India,1977,1977,official,333,Sambalpur,GEN,Odisha,296208,BLD,Gananath Pradhan,176221,INC,Banamali Babu,119987,56234,18.98
+ls-1977,LS,India,1977,1977,official,334,Sundargarh,GEN,Odisha,215326,BLD,Debananda Amat,114640,INC,Gajadhar Majhi,70087,44553,20.69
+ls-1977,LS,India,1977,1977,official,335,Puducherry,GEN,Puducherry,216244,ADK,Aravinda Bala Pajanor,115302,NCO,Ansari Duraisamy,96101,19201,8.88
+ls-1977,LS,India,1977,1977,official,336,Amritsar,GEN,Punjab,476813,BLD,Baldev Parkash,238020,INC,Raghunandan Lal,212979,25041,5.25
+ls-1977,LS,India,1977,1977,official,337,Bhatinda,GEN,Punjab,425144,SAD,Dhanna Singh,262864,INC,Gulzar Singh,87553,175311,41.24
+ls-1977,LS,India,1977,1977,official,338,Faridkot,GEN,Punjab,477547,SAD,Parkash Singh,282713,INC,Avtar Singh,182012,100701,21.09
+ls-1977,LS,India,1977,1977,official,339,Ferozepur,GEN,Punjab,204817,SAD,Mohinder Singh Sayanwala,179894,INC,Mohinder Singh Gill,15955,163939,80.04
+ls-1977,LS,India,1977,1977,official,340,Gurdaspur,GEN,Punjab,402451,BLD,Yagya Datt,204802,INC,Prabodh Chander,176680,28122,6.99
+ls-1977,LS,India,1977,1977,official,341,Hoshiarpur,GEN,Punjab,417651,BLD,Balbir Singh,258731,INC,Darbara Singh,144114,114617,27.44
+ls-1977,LS,India,1977,1977,official,342,Jalandhar,GEN,Punjab,420954,SAD,Iqbal Singh Dhillon,261558,INC,Swaran Singh,143450,118108,28.06
+ls-1977,LS,India,1977,1977,official,343,Ludhiana,GEN,Punjab,494149,SAD,Jagdev Singh Talwandi,296119,INC,Devinder Singh Garcha,192525,103594,20.96
+ls-1977,LS,India,1977,1977,official,344,Patiala,GEN,Punjab,452576,SAD,Gurcharan Sing Tohra,265111,INC,Amarender Singh,174794,90317,19.96
+ls-1977,LS,India,1977,1977,official,345,Phillaur,GEN,Punjab,453578,CPI(M),Bhagat Ram,276973,INC,Gurcharan Dass,127942,149031,32.86
+ls-1977,LS,India,1977,1977,official,346,Ropar,GEN,Punjab,482007,SAD,Basant Singh,276418,INC,Buta Singh,193846,82572,17.13
+ls-1977,LS,India,1977,1977,official,347,Sangrur,GEN,Punjab,451391,SAD,Surjit Singh,291371,INC,Ranjit Singh,126322,165049,36.56
+ls-1977,LS,India,1977,1977,official,348,Tarn Taran,GEN,Punjab,452233,SAD,Mohan Singh Tur,257283,INC,Gurdial Singh Dhillon,177313,79970,17.68
+ls-1977,LS,India,1977,1977,official,349,Ajmer,GEN,Rajasthan,336410,BLD,Srikaran Sharda,212284,INC,Bishweshwar Nath Bhargava,108036,104248,30.99
+ls-1977,LS,India,1977,1977,official,350,Alwar,GEN,Rajasthan,312957,BLD,Ramji Lal Yadav,234151,INC,Hari Prashad,61673,172478,55.11
+ls-1977,LS,India,1977,1977,official,351,Banswara,GEN,Rajasthan,328543,BLD,Heera Bhai,198354,INC,Prabhu Lal Rawat,110955,87399,26.6
+ls-1977,LS,India,1977,1977,official,352,Barmer,GEN,Rajasthan,298869,BLD,Tan Singh,191574,INC,Khet Singh,103249,88325,29.55
+ls-1977,LS,India,1977,1977,official,353,Bayana,GEN,Rajasthan,333979,BLD,Shyam Sunder Lal,213862,INC,Jagannath Prasad,97174,116688,34.94
+ls-1977,LS,India,1977,1977,official,354,Bharatpur,GEN,Rajasthan,363883,BLD,Ram Kishan,256887,INC,Raj Bahadur,100398,156489,43.01
+ls-1977,LS,India,1977,1977,official,355,Bhilwara,GEN,Rajasthan,352112,BLD,Rooplal Somani,227649,INC,Ram Prasad Ladha,99257,128392,36.46
+ls-1977,LS,India,1977,1977,official,356,Bikaner,GEN,Rajasthan,359159,BLD,Hari Ram Makkasar,219436,INC,Ram Chandra Chowdhary,114192,105244,29.3
+ls-1977,LS,India,1977,1977,official,357,Chittorgarh,GEN,Rajasthan,320414,BLD,Shyam Sunder,229048,INC,Bhanwar Lal Jhanwar,91366,137682,42.97
+ls-1977,LS,India,1977,1977,official,358,Churu,GEN,Rajasthan,370895,BLD,Daulat Ram,259592,INC,Mohammad Usman,106701,152891,41.22
+ls-1977,LS,India,1977,1977,official,359,Dausa,GEN,Rajasthan,328656,BLD,Nathu Singh,236345,INC,Nawal Kishore Sharma,72942,163403,49.72
+ls-1977,LS,India,1977,1977,official,360,Ganganagar,GEN,Rajasthan,363247,BLD,Bega Ram,204812,INC,Birbal,139457,65355,17.99
+ls-1977,LS,India,1977,1977,official,361,Jaipur,GEN,Rajasthan,351569,BLD,Satish Chander,249367,INC,Janardan Singh,59885,189482,53.9
+ls-1977,LS,India,1977,1977,official,362,Jalore,GEN,Rajasthan,280596,BLD,Hukam Ram,168299,INC,Virda Ram,112297,56002,19.96
+ls-1977,LS,India,1977,1977,official,363,Jhalawar,GEN,Rajasthan,328023,BLD,Chaturbhuj,229820,INC,Brij Raj Singh,98203,131617,40.12
+ls-1977,LS,India,1977,1977,official,364,Jhunjhunu,GEN,Rajasthan,361578,BLD,Kanhaiya Lal,233734,INC,Shiv Nath Singh,106783,126951,35.11
+ls-1977,LS,India,1977,1977,official,365,Jodhpur,GEN,Rajasthan,342863,BLD,Ranchhordas Gattani,174431,INC,Poonam Chand Bishnoi,152746,21685,6.32
+ls-1977,LS,India,1977,1977,official,366,Kota,GEN,Rajasthan,345885,BLD,Krishna Kumar Goyal,241835,INC,Kirit Bhai,92451,149384,43.19
+ls-1977,LS,India,1977,1977,official,367,Nagaur,GEN,Rajasthan,364609,INC,Nathu Ram,189290,BLD,Kishan Lal Shah,169136,20154,5.53
+ls-1977,LS,India,1977,1977,official,368,Pali,GEN,Rajasthan,319896,BLD,Amrit Nehata,197790,INC,Mool Chand Daga,109543,88247,27.59
+ls-1977,LS,India,1977,1977,official,369,Salumber,GEN,Rajasthan,262367,BLD,Ialiya,180432,INC,Devi Lal Meena,81935,98497,37.54
+ls-1977,LS,India,1977,1977,official,370,Sawai Madhopur,GEN,Rajasthan,302440,BLD,Meetha Lal,214125,INC,Chuttan Lal,88315,125810,41.6
+ls-1977,LS,India,1977,1977,official,371,Sikar,GEN,Rajasthan,387962,BLD,Jagdish Prasad Mathur,256672,INC,Shri Kishan,99479,157193,40.52
+ls-1977,LS,India,1977,1977,official,372,Tonk,GEN,Rajasthan,329469,BLD,Ram Kanwar,240810,INC,Banwari Lal,78893,161917,49.14
+ls-1977,LS,India,1977,1977,official,373,Udaipur,GEN,Rajasthan,358045,BLD,Bhanu Kumar Shastri,240181,INC,Kalu Lal Shrimali,93125,147056,41.07
+ls-1977,LS,India,1977,1977,official,374,Sikkim,GEN,Sikkim,0,INC,Chatra Bahadur Chhetri,0,,,,0,
+ls-1977,LS,India,1977,1977,official,375,Arakkonam,GEN,Tamil Nadu,465330,INC,Alagesan O.V,243818,DMK,Veeraswami N,185954,57864,12.44
+ls-1977,LS,India,1977,1977,official,376,Chengalpattu,GEN,Tamil Nadu,450270,ADK,Mohanarangam R,236818,DMK,Era Sezhiyan,201179,35639,7.92
+ls-1977,LS,India,1977,1977,official,377,Chennai Central,GEN,Tamil Nadu,459054,NCO,Ramachandran P,259437,ADK,Raja Mohamed K,186026,73411,15.99
+ls-1977,LS,India,1977,1977,official,378,Chennai North,GEN,Tamil Nadu,462301,DMK,Asai Thambi A.V.P,250852,ADK,Manoharan K,205749,45103,9.76
+ls-1977,LS,India,1977,1977,official,379,Chennai South,GEN,Tamil Nadu,474577,INC,Venkataraman R,241033,DMK,Murasoli Maran,226204,14829,3.12
+ls-1977,LS,India,1977,1977,official,380,Chidambaram,GEN,Tamil Nadu,447578,ADK,Murugesan A,278406,DMK,Rajangam N,169172,109234,24.41
+ls-1977,LS,India,1977,1977,official,381,Coimbatore,GEN,Tamil Nadu,513670,CPI,Parvathi Krishnan,267424,NCO,Lakshmanan S.V,246246,21178,4.12
+ls-1977,LS,India,1977,1977,official,382,Cuddalore,GEN,Tamil Nadu,414561,INC,Bhuvarahan G,231128,NCO,Radhakrishnan S,142071,89057,21.48
+ls-1977,LS,India,1977,1977,official,383,Dharmapuri,GEN,Tamil Nadu,398163,INC,Ramamurthy K,239908,NCO,Ponnuswami P,134222,105686,26.54
+ls-1977,LS,India,1977,1977,official,384,Dindigul,GEN,Tamil Nadu,475417,ADK,Maya Thevar K,283341,CPI(M),Balasubramanyam A,114117,169224,35.59
+ls-1977,LS,India,1977,1977,official,385,Gobichettipalayam,GEN,Tamil Nadu,435501,INC,Ramaswamy K.S,255120,NCO,Karuppuswamy N.K,149662,105458,24.22
+ls-1977,LS,India,1977,1977,official,386,Karur,GEN,Tamil Nadu,506396,INC,Gopal K,315259,NCO,Meenakshisundaram M,169739,145520,28.74
+ls-1977,LS,India,1977,1977,official,387,Krishnagiri,GEN,Tamil Nadu,339698,ADK,Periasamy P.V,222979,DMK,Kamalanathan M,103751,119228,35.1
+ls-1977,LS,India,1977,1977,official,388,Madurai,GEN,Tamil Nadu,481771,INC,Swaminathan R.V,299309,CPI(M),Ramamurthi P,164964,134345,27.89
+ls-1977,LS,India,1977,1977,official,389,Mayiladuthurai,GEN,Tamil Nadu,486569,INC,Kudanthai Ramalingam N,272202,NCO,Govindasamy S,197937,74265,15.26
+ls-1977,LS,India,1977,1977,official,390,Nagapattinam,GEN,Tamil Nadu,516028,CPI,Murugaiyan S.G,278419,DMK,Thazhai Karunnanithi M,237609,40810,7.91
+ls-1977,LS,India,1977,1977,official,391,Nagercoil,GEN,Tamil Nadu,430815,NCO,Kumari Ananthan,244526,INC,M.Moses,170290,74236,17.23
+ls-1977,LS,India,1977,1977,official,392,Nilgiris,GEN,Tamil Nadu,432887,ADK,Ramalingam P.S,241777,NCO,Nanja Gowder M.K,182431,59346,13.71
+ls-1977,LS,India,1977,1977,official,393,Palani,GEN,Tamil Nadu,490804,INC,Subramaniam C,351897,DMK,Saminathan K.N,130129,221768,45.18
+ls-1977,LS,India,1977,1977,official,394,Perambalur,GEN,Tamil Nadu,475137,ADK,Asokaraj A,326046,DMK,J.S. Raju,146019,180027,37.89
+ls-1977,LS,India,1977,1977,official,395,Periyakulam,GEN,Tamil Nadu,471059,ADK,Ramasamy S,328100,DMK,Palanivel Rajan,123708,204392,43.39
+ls-1977,LS,India,1977,1977,official,396,Pollachi,GEN,Tamil Nadu,402246,ADK,Raju K.A,259388,DMK,Dhandapani C.T,135194,124194,30.88
+ls-1977,LS,India,1977,1977,official,397,Pudukkottai,GEN,Tamil Nadu,524130,ADK,Elanchezhian V.S,342120,NCO,Vairava Thevar V,118505,223615,42.66
+ls-1977,LS,India,1977,1977,official,398,Ramanathapuram,GEN,Tamil Nadu,440104,ADK,Anbalagan P,297612,DMK,Sathiyandran M.S.K,122482,175130,39.79
+ls-1977,LS,India,1977,1977,official,399,Rasipuram,GEN,Tamil Nadu,441779,INC,Devarajan B,275212,NCO,Jothivenkatachallum,141774,133438,30.2
+ls-1977,LS,India,1977,1977,official,400,Salem,GEN,Tamil Nadu,432869,ADK,Kannan P,254138,DMK,Rajaram K,174534,79604,18.39
+ls-1977,LS,India,1977,1977,official,401,Sivaganga,GEN,Tamil Nadu,475465,ADK,P.Thiagarajan,338999,NCO,R. Ramanathan Chettiar,127466,211533,44.49
+ls-1977,LS,India,1977,1977,official,402,Sivakasi,GEN,Tamil Nadu,498015,INC,V. Jayalakshmi,271568,NCO,G. Ramanujam,156720,114848,23.06
+ls-1977,LS,India,1977,1977,official,403,Sriperumbudur,GEN,Tamil Nadu,451365,ADK,Jaganathan S,239632,NCO,Elumalai T.P,193700,45932,10.18
+ls-1977,LS,India,1977,1977,official,404,Tenkasi,GEN,Tamil Nadu,440655,INC,Arunachalam M,305069,NCO,Rajagopalan S,118193,186876,42.41
+ls-1977,LS,India,1977,1977,official,405,Thanjavur,GEN,Tamil Nadu,480375,ADK,Somasundaram S.D,289059,DMK,Ganesan L,191316,97743,20.35
+ls-1977,LS,India,1977,1977,official,406,Tindivanam,GEN,Tamil Nadu,433198,INC,Lakshminarayanan M.R,233155,DMK,Krishnamoorthy V,183670,49485,11.42
+ls-1977,LS,India,1977,1977,official,407,Tiruchendur,GEN,Tamil Nadu,445853,INC,Kosalaram K.T,272338,NCO,Devadasan Edwin,152148,120190,26.96
+ls-1977,LS,India,1977,1977,official,408,Tiruchengode,GEN,Tamil Nadu,509784,ADK,Kolanthaivelu R,303738,DMK,Muthusamy M,175558,128180,25.14
+ls-1977,LS,India,1977,1977,official,409,Tiruchirappalli,GEN,Tamil Nadu,484085,CPI,M. Kalyanasundaram,276390,NCO,Y. Venkateswara Dikshidar,200345,76045,15.71
+ls-1977,LS,India,1977,1977,official,410,Tirunelveli,GEN,Tamil Nadu,436223,ADK,Arunachalam V,304562,DMK,Samsuddin Alias Kathiravan K.M,121869,182693,41.88
+ls-1977,LS,India,1977,1977,official,411,Tiruppattur,GEN,Tamil Nadu,428433,DMK,Viswanathan C.N,257322,ADK,Chinnaraje Gounder C.K,158656,98666,23.03
+ls-1977,LS,India,1977,1977,official,412,Vandavasi,GEN,Tamil Nadu,458738,ADK,Venugopal Gounder,267930,DMK,Durai Murugan,186798,81132,17.69
+ls-1977,LS,India,1977,1977,official,413,Vellore,GEN,Tamil Nadu,449004,NCO,Dhandayuthapani V,220994,IND,Abdul Samad,217833,3161,0.7
+ls-1977,LS,India,1977,1977,official,414,Tripura East,GEN,Tripura,281066,INC,Kirit Bikram Kishore Deb Barma,133907,CPI(M),Dasaratha Deb,120724,13183,4.69
+ls-1977,LS,India,1977,1977,official,415,Tripura West,GEN,Tripura,307124,BLD,Sachindralal Singha,104858,INC,Tarit Mohan Dsgupta,99811,5047,1.64
+ls-1977,LS,India,1977,1977,official,416,Agra,GEN,Uttar Pradesh,366034,BLD,Shambhu Nath Chaturvedi,257472,INC,Achal Singh,96920,160552,43.86
+ls-1977,LS,India,1977,1977,official,417,Akbarpur,GEN,Uttar Pradesh,360231,BLD,Mangal Deo Visharad,281082,INC,Ramji Ram,69256,211826,58.8
+ls-1977,LS,India,1977,1977,official,418,Aligarh,GEN,Uttar Pradesh,396356,BLD,Nawab Singh Chauhan,280811,INC,Ghan Shyam Singh,90053,190758,48.13
+ls-1977,LS,India,1977,1977,official,419,Allahabad,GEN,Uttar Pradesh,330419,BLD,Janeshwar Mishra,190697,INC,Vishwanath Pratap Singh,100709,89988,27.23
+ls-1977,LS,India,1977,1977,official,420,Almora,GEN,Uttar Pradesh,241192,BLD,Murli Manohar Joshi,153409,INC,Narendra Singh Bisht,75933,77476,32.12
+ls-1977,LS,India,1977,1977,official,421,Amethi,GEN,Uttar Pradesh,291732,BLD,Ravindra Pratap Singh,176410,INC,Sanjay Gandhi,100566,75844,26.0
+ls-1977,LS,India,1977,1977,official,422,Amroha,GEN,Uttar Pradesh,353108,BLD,Chandrapal Singh,209895,INC,Sattar Ahmad,73401,136494,38.66
+ls-1977,LS,India,1977,1977,official,423,Aonla,GEN,Uttar Pradesh,294734,BLD,Brij Raj Singh,196703,INC,Savitri Shyam,59515,137188,46.55
+ls-1977,LS,India,1977,1977,official,424,Azamgarh,GEN,Uttar Pradesh,355324,BLD,Ram Naresh,238985,INC,Chandrajeet,101175,137810,38.78
+ls-1977,LS,India,1977,1977,official,425,Baghpat,GEN,Uttar Pradesh,451064,BLD,Chaudhari Charan Singh,286301,INC,Ram Chandra Vikal,164763,121538,26.94
+ls-1977,LS,India,1977,1977,official,426,Bahraich,GEN,Uttar Pradesh,304670,BLD,Om Prakash Tyagi,186946,INC,Sardar Jogendra Singh ( Sardar Saheb ),85527,101419,33.29
+ls-1977,LS,India,1977,1977,official,427,Ballia,GEN,Uttar Pradesh,362663,BLD,Chandra Shekhar,262641,INC,Chandrika Prasad,95423,167218,46.11
+ls-1977,LS,India,1977,1977,official,428,Balrampur,GEN,Uttar Pradesh,338064,BLD,Nanaji Deshmukh,217254,INC,Raj Lakshmi Kumari,103248,114006,33.72
+ls-1977,LS,India,1977,1977,official,429,Banda,GEN,Uttar Pradesh,286479,BLD,Ambika Prasad,138848,INC,Rameshwar Prasad,81353,57495,20.07
+ls-1977,LS,India,1977,1977,official,430,Bansgaon,GEN,Uttar Pradesh,299196,BLD,Phirangi Prasad,225143,INC,Sukh Deo Prasad,74053,151090,50.5
+ls-1977,LS,India,1977,1977,official,431,Barabanki,GEN,Uttar Pradesh,298295,BLD,Ram Kinkar,206061,INC,Baijnath Kureel,58650,147411,49.42
+ls-1977,LS,India,1977,1977,official,432,Bareilly,GEN,Uttar Pradesh,294183,BLD,Ram Murti,196147,INC,Satish Chandra,88462,107685,36.6
+ls-1977,LS,India,1977,1977,official,433,Basti,GEN,Uttar Pradesh,311449,BLD,Sheo Narain,216542,INC,Anant Prasad Dhusia,76165,140377,45.07
+ls-1977,LS,India,1977,1977,official,434,Bijnor,GEN,Uttar Pradesh,347833,BLD,Mahi Lal,258663,INC,Ram Dayal,62849,195814,56.3
+ls-1977,LS,India,1977,1977,official,435,Bilhaur,GEN,Uttar Pradesh,364539,BLD,Ram Gopal Singh,256306,INC,Sushila Rohtagi,88131,168175,46.13
+ls-1977,LS,India,1977,1977,official,436,Budaun,GEN,Uttar Pradesh,340263,BLD,Onkar Singh,231556,INC,Malik Mohammad Mushir Ahmad Khan,88904,142652,41.92
+ls-1977,LS,India,1977,1977,official,437,Bulandshahr,GEN,Uttar Pradesh,402569,BLD,Mahmood Hassan Khan,292611,INC,Kr. Surendra Pal Singh,81598,211013,52.42
+ls-1977,LS,India,1977,1977,official,438,Chail,GEN,Uttar Pradesh,250353,BLD,Ram Nihor Rakesh,174012,INC,Jagdish Prasad,57291,116721,46.62
+ls-1977,LS,India,1977,1977,official,439,Chandauli,GEN,Uttar Pradesh,391799,BLD,Narsingh,289376,INC,Chanda,84960,204416,52.17
+ls-1977,LS,India,1977,1977,official,440,Deoria,GEN,Uttar Pradesh,335555,BLD,Ugrasen,258864,INC,Vishwa Nath,76691,182173,54.29
+ls-1977,LS,India,1977,1977,official,441,Domariyaganj,GEN,Uttar Pradesh,388730,BLD,Madhav Prasad Tripathi,266876,INC,Keshav Deo Malviya,108050,158826,40.86
+ls-1977,LS,India,1977,1977,official,442,Etah,GEN,Uttar Pradesh,372705,BLD,Mahadeepak Singh,268136,INC,Mustafa Rashid Shervani,86616,181520,48.7
+ls-1977,LS,India,1977,1977,official,443,Etawah,GEN,Uttar Pradesh,364143,BLD,Arjun Singh Bhadoria,276214,INC,Shri Shankar Tewari,66049,210165,57.71
+ls-1977,LS,India,1977,1977,official,444,Faizabad,GEN,Uttar Pradesh,307968,BLD,Anant Ram Jaiswal,213719,INC,Ram Krishna Sinha,65916,147803,47.99
+ls-1977,LS,India,1977,1977,official,445,Farrukhabad,GEN,Uttar Pradesh,369180,BLD,Daya Ram Shakya,263287,INC,Awdhesh Chandra Singh,76862,186425,50.5
+ls-1977,LS,India,1977,1977,official,446,Fatehpur Sikri,GEN,Uttar Pradesh,289916,BLD,Bashir Ahmad,227808,INC,Sant Bux Singh,57319,170489,58.81
+ls-1977,LS,India,1977,1977,official,447,Firozabad,GEN,Uttar Pradesh,315502,BLD,Ramji Lal Suman,232679,INC,Raja Ram Pipal,75915,156764,49.69
+ls-1977,LS,India,1977,1977,official,448,Garhwal,GEN,Uttar Pradesh,261805,BLD,Jagannath Sharma,180944,INC,Chandramohan Singh,76351,104593,39.95
+ls-1977,LS,India,1977,1977,official,449,Ghatampur,GEN,Uttar Pradesh,358204,BLD,Jwala Prasad Kureel,271854,INC,Radhey Shyam,86350,185504,51.79
+ls-1977,LS,India,1977,1977,official,450,Ghazipur,GEN,Uttar Pradesh,364231,BLD,Gauri Shanker Rai,195258,INC,Zainul Bashar,100913,94345,25.9
+ls-1977,LS,India,1977,1977,official,451,Ghosi,GEN,Uttar Pradesh,348085,BLD,Shivram,191190,INC,Ram Kunwar,77558,113632,32.64
+ls-1977,LS,India,1977,1977,official,452,Gonda,GEN,Uttar Pradesh,264309,BLD,Satya Deo Singh,157963,INC,Anand Singh Alias Annu Bhaiya,86690,71273,26.97
+ls-1977,LS,India,1977,1977,official,453,Gorakhpur,GEN,Uttar Pradesh,323284,BLD,Harikesh Bahadur,238635,INC,Narsingh Narain Pandey,55581,183054,56.62
+ls-1977,LS,India,1977,1977,official,454,Hamirpur,GEN,Uttar Pradesh,305999,BLD,Tej Pratap Singh,165488,INC,Swami Brahma Nandji,84213,81275,26.56
+ls-1977,LS,India,1977,1977,official,455,Hapur,GEN,Uttar Pradesh,425703,BLD,Kunwar Mahood Ali Khan,268074,INC,B.P. Maurya,132677,135397,31.81
+ls-1977,LS,India,1977,1977,official,456,Hardoi,GEN,Uttar Pradesh,303585,BLD,Parmai Lal,191873,INC,Kindar Lal,77586,114287,37.65
+ls-1977,LS,India,1977,1977,official,457,Hardwar,GEN,Uttar Pradesh,357958,BLD,Bhagwan Dass,255091,INC,Sunder Lal,77888,177203,49.5
+ls-1977,LS,India,1977,1977,official,458,Hathras,GEN,Uttar Pradesh,393889,BLD,Ram Prasad Deshmukh,300907,INC,Chandra Pal Shailani,92982,207925,52.79
+ls-1977,LS,India,1977,1977,official,459,Jalaun,GEN,Uttar Pradesh,367583,BLD,Ramcharan,276429,INC,Chowdhary Ram Sewak,91154,185275,50.4
+ls-1977,LS,India,1977,1977,official,460,Jalesar,GEN,Uttar Pradesh,365102,BLD,Multan Singh Chaudhary,269054,INC,Rohan Lal,62508,206546,56.57
+ls-1977,LS,India,1977,1977,official,461,Jaunpur,GEN,Uttar Pradesh,332490,BLD,Yadvendra Dutta Dubey,209923,INC,Raj Deo Singh,110051,99872,30.04
+ls-1977,LS,India,1977,1977,official,462,Jhansi,GEN,Uttar Pradesh,339175,BLD,Sushila Naiyar,222118,INC,Govind Das Richharia,91633,130485,38.47
+ls-1977,LS,India,1977,1977,official,463,Kairana,GEN,Uttar Pradesh,375373,BLD,Chandan Singh,242500,INC,Shafquat Jang,95642,146858,39.12
+ls-1977,LS,India,1977,1977,official,464,Kaiserganj,GEN,Uttar Pradesh,300905,BLD,Rudra Sen,190807,INC,Kunwar Rudra Pratap Singh,66011,124796,41.47
+ls-1977,LS,India,1977,1977,official,465,Kannauj,GEN,Uttar Pradesh,411313,BLD,Ram Prakash Tripathi,287612,INC,Balram Singh Yadav,116570,171042,41.58
+ls-1977,LS,India,1977,1977,official,466,Kanpur,GEN,Uttar Pradesh,379992,BLD,Manohar Lal,269629,INC,Naresh Chandra Chaturvedi,95340,174289,45.87
+ls-1977,LS,India,1977,1977,official,467,Khalilabad,GEN,Uttar Pradesh,378455,BLD,Brij Bhushan Tiwari,271395,INC,Krishna Chandra,93935,177460,46.89
+ls-1977,LS,India,1977,1977,official,468,Kheri,GEN,Uttar Pradesh,285610,BLD,S.B. Shah,173813,INC,Bal Govind Verma,99509,74304,26.02
+ls-1977,LS,India,1977,1977,official,469,Khurja,GEN,Uttar Pradesh,359795,BLD,Mohan Lal,289737,INC,Hari Singh,63920,225817,62.76
+ls-1977,LS,India,1977,1977,official,470,Lalganj,GEN,Uttar Pradesh,342056,BLD,Ramdhan,253068,INC,Lalsa,88988,164080,47.97
+ls-1977,LS,India,1977,1977,official,471,Lucknow,GEN,Uttar Pradesh,332049,BLD,Hemwati Nandan Bahuguna,242362,INC,Sheila Kaul,77017,165345,49.8
+ls-1977,LS,India,1977,1977,official,472,Machhlishahr,GEN,Uttar Pradesh,320427,BLD,Raj Keshar Singh,211193,INC,Nageshwar Dwivedi,84137,127056,39.65
+ls-1977,LS,India,1977,1977,official,473,Maharajganj,GEN,Uttar Pradesh,297519,BLD,Shibban Lal Saksena,184090,INC,Raghubar Prasad,52099,131991,44.36
+ls-1977,LS,India,1977,1977,official,474,Mainpuri,GEN,Uttar Pradesh,368223,BLD,Raghunath Singh Verma,289426,INC,Maharaj Singh,64304,225122,61.14
+ls-1977,LS,India,1977,1977,official,475,Mathura,GEN,Uttar Pradesh,386124,BLD,Maniram,296518,INC,Ramhet Singh,81253,215265,55.75
+ls-1977,LS,India,1977,1977,official,476,Meerut,GEN,Uttar Pradesh,399421,BLD,Kailash Prakash,253035,INC,Shahnawaz Khan,128303,124732,31.23
+ls-1977,LS,India,1977,1977,official,477,Mirzapur,GEN,Uttar Pradesh,313044,BLD,Faqir Ali,192000,INC,Aziz Imam,91040,100960,32.25
+ls-1977,LS,India,1977,1977,official,478,Misrikh,GEN,Uttar Pradesh,287301,BLD,Ram Lal Rahi,206727,INC,Sankta Prasad,80574,126153,43.91
+ls-1977,LS,India,1977,1977,official,479,Mohanlalganj,GEN,Uttar Pradesh,267424,BLD,Ram Lal Kuril,203445,INC,Ganga Devi,47703,155742,58.24
+ls-1977,LS,India,1977,1977,official,480,Moradabad,GEN,Uttar Pradesh,303595,BLD,Gulam Mohd. Khan,196648,INC,D.N. Sinha,57797,138851,45.74
+ls-1977,LS,India,1977,1977,official,481,Muzaffarnagar,GEN,Uttar Pradesh,400913,BLD,Saeed Murtaza,270644,INC,Varun Singh,87985,182659,45.56
+ls-1977,LS,India,1977,1977,official,482,Nainital,GEN,Uttar Pradesh,318170,BLD,Bharat Bhushan,196304,INC,Krishna Chandra Pant,111658,84646,26.6
+ls-1977,LS,India,1977,1977,official,483,Padrauna,GEN,Uttar Pradesh,312222,BLD,Ram Dhari Shastri,215660,INC,Genda Singh,96562,119098,38.15
+ls-1977,LS,India,1977,1977,official,484,Phulpur,GEN,Uttar Pradesh,314562,BLD,Kamala Bahuguna,205038,INC,Ram Pujan Patel,82686,122352,38.9
+ls-1977,LS,India,1977,1977,official,485,Pilibhit,GEN,Uttar Pradesh,334675,BLD,Mohd. Shamusul Hasan Khan,238691,INC,Mohan Swarup,66015,172676,51.6
+ls-1977,LS,India,1977,1977,official,486,Pratapgarh,GEN,Uttar Pradesh,286270,BLD,Roop Nath Singh Yadava,206339,INC,Dinesh Singh,57019,149320,52.16
+ls-1977,LS,India,1977,1977,official,487,Rae Bareli,GEN,Uttar Pradesh,332122,BLD,Raj Narain,177719,INC,Indira Nahru Gandhi,122517,55202,16.62
+ls-1977,LS,India,1977,1977,official,488,Rampur,GEN,Uttar Pradesh,415682,BLD,Rajendra Kumar Sharma,237708,INC,Zulfiquar Ali Khan,149630,88078,21.19
+ls-1977,LS,India,1977,1977,official,489,Robertsganj,GEN,Uttar Pradesh,321535,BLD,Sheo Sampat,235164,INC,Ram Swaroop,72120,163044,50.71
+ls-1977,LS,India,1977,1977,official,490,Saharanpur,GEN,Uttar Pradesh,391845,BLD,Rasheed Masood,263777,INC,Zahid Hasan,100392,163385,41.7
+ls-1977,LS,India,1977,1977,official,491,Saidpur,GEN,Uttar Pradesh,360809,BLD,Ram Sagar,267155,INC,Sankatha Prasad Shastri,77087,190068,52.68
+ls-1977,LS,India,1977,1977,official,492,Salempur,GEN,Uttar Pradesh,351801,BLD,Ram Naresh Kushwaha,253659,INC,Tarkeshwar Pandey,72738,180921,51.43
+ls-1977,LS,India,1977,1977,official,493,Sambhal,GEN,Uttar Pradesh,333665,BLD,Shanti Devi,214520,INC,Jugal Kishore,81656,132864,39.82
+ls-1977,LS,India,1977,1977,official,494,Shahabad,GEN,Uttar Pradesh,329960,BLD,Ganga Bhakt Singh,199387,INC,Dharmgaj Singh,97839,101548,30.78
+ls-1977,LS,India,1977,1977,official,495,Shahjahanpur,GEN,Uttar Pradesh,355931,BLD,Surendra Vikram,242026,INC,Kunwar Jitendra Prasad,86602,155424,43.67
+ls-1977,LS,India,1977,1977,official,496,Sitapur,GEN,Uttar Pradesh,309913,BLD,Hargovind Verma,194400,INC,Jagdish Chandra Dixit,84425,109975,35.49
+ls-1977,LS,India,1977,1977,official,497,Sultanpur,GEN,Uttar Pradesh,309439,BLD,Zulfikar Ullah,232330,INC,Kedar Nath Singh,66796,165534,53.49
+ls-1977,LS,India,1977,1977,official,498,Tehri Garhwal,GEN,Uttar Pradesh,241732,BLD,Trepansingh Negi,141338,INC,Hirasingh Bist,70267,71071,29.4
+ls-1977,LS,India,1977,1977,official,499,Unnao,GEN,Uttar Pradesh,323352,BLD,Raghavendra Singh,225122,INC,Zairu Rahman Ansari,64248,160874,49.75
+ls-1977,LS,India,1977,1977,official,500,Varanasi,GEN,Uttar Pradesh,352173,BLD,Chandra Shekher,233194,INC,Raja Ram,61340,171854,48.8
+ls-1977,LS,India,1977,1977,official,501,Alipurduars,GEN,West Bengal,295162,RSP,Pius Tirkey,167865,INC,Tuna Oraon,127297,40568,13.74
+ls-1977,LS,India,1977,1977,official,502,Arambagh,GEN,West Bengal,389305,BLD,Prafulla Chandra Sen,298371,INC,Santi Mohan Roy,90934,207437,53.28
+ls-1977,LS,India,1977,1977,official,503,Asansol,GEN,West Bengal,276773,CPI(M),Robin Sen,163492,INC,Syed Mohammad Jalal,91265,72227,26.1
+ls-1977,LS,India,1977,1977,official,504,Balurghat,GEN,West Bengal,357661,RSP,Palas Barman,206112,INC,Rasendra Nath Burman,151549,54563,15.26
+ls-1977,LS,India,1977,1977,official,505,Bankura,GEN,West Bengal,307940,BLD,Mondal Bijoy,175664,INC,Shankar Narayan Singh Deo,95587,80077,26.0
+ls-1977,LS,India,1977,1977,official,506,Barasat,GEN,West Bengal,362741,AIFB,Chitta Basu,203694,CPI,Ranen Sen,87900,115794,31.92
+ls-1977,LS,India,1977,1977,official,507,Barrackpore,GEN,West Bengal,457519,INC,Sougata Roy,295551,CPI(M),Mahammad Ismail,154537,141014,30.82
+ls-1977,LS,India,1977,1977,official,508,Basirhat,GEN,West Bengal,342228,BLD,Alhaj M.A. Hannan,168644,INC,A.K.M. Ishaque,156458,12186,3.56
+ls-1977,LS,India,1977,1977,official,509,Berhampore,GEN,West Bengal,380587,RSP,Tridip Chaudhuri,204809,INC,Sudip Bandyopadhyay,102629,102180,26.85
+ls-1977,LS,India,1977,1977,official,510,Birbhum,GEN,West Bengal,278604,CPI(M),Gadadhar Saha,136517,INC,Birendaban Saha,105968,30549,10.97
+ls-1977,LS,India,1977,1977,official,511,Bolpur,GEN,West Bengal,256932,CPI(M),Saradish Roy,128963,CPI,Durga Banerjee,93012,35951,13.99
+ls-1977,LS,India,1977,1977,official,512,Burdwan,GEN,West Bengal,354473,BLD,Raj Krishna Dawn,190318,INC,Shyama Prasad Kundu,119315,71003,20.03
+ls-1977,LS,India,1977,1977,official,513,Contai,GEN,West Bengal,380162,BLD,Guha Samar,284509,INC,Sudhangshu Panda,89995,194514,51.17
+ls-1977,LS,India,1977,1977,official,514,Cooch Behar,GEN,West Bengal,350184,AIFB,Amrendranath Roy Pradhan,226521,INC,Benoy Krishna Daschowdhury,123663,102858,29.37
+ls-1977,LS,India,1977,1977,official,515,Darjeeling,GEN,West Bengal,261953,INC,Krishna Bahadur Chettri,109520,CPI(M),Ratanlal Brahman,91040,18480,7.05
+ls-1977,LS,India,1977,1977,official,516,Diamond Harbour,GEN,West Bengal,379376,CPI(M),Jyotirmoy Basu,267890,INC,Biren Mahanti,111486,156404,41.23
+ls-1977,LS,India,1977,1977,official,517,Dum Dum,GEN,West Bengal,422006,BLD,Asoke Krishna Dutt,215766,CPI,Indrajit Gupta,193986,21780,5.16
+ls-1977,LS,India,1977,1977,official,518,Durgapur,GEN,West Bengal,346235,CPI(M),Krishna Chandra Haldar,218833,INC,Manoranjan Pramanik,127402,91431,26.41
+ls-1977,LS,India,1977,1977,official,519,Hooghly,GEN,West Bengal,357512,CPI(M),Bijoy Krishna Modak,223818,INC,Bishnu Charan Banerjee,117559,106259,29.72
+ls-1977,LS,India,1977,1977,official,520,Howrah,GEN,West Bengal,377239,CPI(M),Samar Mukherjee 11Dharmatala Lane,236530,INC,Nityananda Dey,131799,104731,27.76
+ls-1977,LS,India,1977,1977,official,521,Jadavpur,GEN,West Bengal,347144,CPI(M),Somnath Chatterjee,236085,CPI,Mohammad Elias,97450,138635,39.94
+ls-1977,LS,India,1977,1977,official,522,Jalpaiguri,GEN,West Bengal,302981,IND,Khagendra Nath Dasgupta,173484,INC,Maya Ray,115786,57698,19.04
+ls-1977,LS,India,1977,1977,official,523,Jangipur,GEN,West Bengal,317291,CPI(M),Sasankasekher Sanyal,155008,INC,Lutfal Haque (Haji),152822,2186,0.69
+ls-1977,LS,India,1977,1977,official,524,Jhargram,GEN,West Bengal,344059,CPI(M),Jadunath Kisku,159433,INC,Amiya Kumar Kisku,111838,47595,13.83
+ls-1977,LS,India,1977,1977,official,525,Joynagar,GEN,West Bengal,369183,BLD,Sakti Kumar Sarkar,180587,INC,Nirmal Kanti Mondal,119950,60637,16.42
+ls-1977,LS,India,1977,1977,official,526,Katwa,GEN,West Bengal,360300,INC,Dhirendra Nath Basu,179927,CPI(M),Syed Mansur Habibullah,168047,11880,3.3
+ls-1977,LS,India,1977,1977,official,527,Kolkata North East,GEN,West Bengal,352141,BLD,Pratap Chandra Chunder,237787,CPI,Hirendra Nath Mukherjee,108028,129759,36.85
+ls-1977,LS,India,1977,1977,official,528,Kolkata North West,GEN,West Bengal,313880,BLD,Bijoy Singh Nahar,179681,INC,Ashoke Kumar Sen,110048,69633,22.18
+ls-1977,LS,India,1977,1977,official,529,Kolkata South,GEN,West Bengal,388354,BLD,Dilip Chakravarty,225556,INC,Priya Ranjan Das Munshi,157616,67940,17.49
+ls-1977,LS,India,1977,1977,official,530,Krishnanagar,GEN,West Bengal,321433,CPI(M),Renupada Das,198830,INC,Shibsankar Bandyopadhayay,107462,91368,28.43
+ls-1977,LS,India,1977,1977,official,531,Malda,GEN,West Bengal,358965,CPI(M),Dinesh Chandra Joardar,188103,INC,Pranab Kumar Mukherjee,158395,29708,8.28
+ls-1977,LS,India,1977,1977,official,532,Mathurapur,GEN,West Bengal,387518,CPI(M),Mukunda Kumar Mondal,188227,INC,Purnendu Sekhar Naskar,146635,41592,10.73
+ls-1977,LS,India,1977,1977,official,533,Medinipur,GEN,West Bengal,325998,BLD,Ghosal Sudhir Kumar,180061,CPI,Choubey Narayan,145937,34124,10.47
+ls-1977,LS,India,1977,1977,official,534,Murshidabad,GEN,West Bengal,351915,BLD,Syed Kazim Ali Meerza,140927,INC,Azizur Rahman,104838,36089,10.26
+ls-1977,LS,India,1977,1977,official,535,Nabadwip,GEN,West Bengal,360854,CPI(M),Bibha Ghosh (Goswami ),193714,CPI,Nitaipada Sarkar,106428,87286,24.19
+ls-1977,LS,India,1977,1977,official,536,Panskura,GEN,West Bengal,363271,BLD,Abha Maiti,230704,INC,Phulrenu Guha,132567,98137,27.01
+ls-1977,LS,India,1977,1977,official,537,Purulia,GEN,West Bengal,294143,AIFB,Chittaranjan Mahata,200985,INC,Pashupati Mahato,84433,116552,39.62
+ls-1977,LS,India,1977,1977,official,538,Raiganj,GEN,West Bengal,336476,BLD,Md. Hayat Ali,188694,INC,Abedin Anowarul,121570,67124,19.95
+ls-1977,LS,India,1977,1977,official,539,Srerampur,GEN,West Bengal,380327,CPI(M),Dinen Bhattacharya,260071,CPI,Jadu Gopal Sen,120256,139815,36.76
+ls-1977,LS,India,1977,1977,official,540,Tamluk,GEN,West Bengal,412155,BLD,Sushil Kumar Dhara,254049,INC,Satis Chandra Samanta,135474,118575,28.77
+ls-1977,LS,India,1977,1977,official,541,Uluberia,GEN,West Bengal,395826,CPI(M),Shyamaprasanna Bhattacharyya,225583,INC,Nirmalendu Bhattacharjee,111084,114499,28.93
+ls-1977,LS,India,1977,1977,official,542,Vishnupur,GEN,West Bengal,363103,CPI(M),Ajit Kumar Saha,244370,INC,Gour Chandra Lohar,113996,130374,35.91

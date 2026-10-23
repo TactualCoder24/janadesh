@@ -1,0 +1,544 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ls-1999,LS,India,1999,1999,official,1,Andaman & Nicobar Islands,GEN,Andaman & Nicobar Islands,145791,BJP,Bishnu Pada Ray,76891,INC,Manoranjan Bhakta,62944,13947,9.57
+ls-1999,LS,India,1999,1999,official,2,Adilabad,GEN,Andhra Pradesh,743602,TDP,Dr. S. Venugopal Chary,390308,INC,Mohd. Sultan Ahmad,280585,109723,14.76
+ls-1999,LS,India,1999,1999,official,3,Amalapuram,GEN,Andhra Pradesh,663249,TDP,Ganti Mohanachandra Balayogi,368476,INC,Gollapalli Suryarao,249597,118879,17.92
+ls-1999,LS,India,1999,1999,official,4,Anakapalli,GEN,Andhra Pradesh,744984,TDP,Ganta Srinivasa Rao,392984,INC,Gurunadha Rao Gudivada,334520,58464,7.85
+ls-1999,LS,India,1999,1999,official,5,Anantapur,GEN,Andhra Pradesh,752838,TDP,Kalava Srinivasulu,378488,INC,Anantha Venkata Rami Reddy,357386,21102,2.8
+ls-1999,LS,India,1999,1999,official,6,Bapatla,GEN,Andhra Pradesh,715681,TDP,D. Rama Naidu,399596,INC,Jesudasu Seelam,307139,92457,12.92
+ls-1999,LS,India,1999,1999,official,7,Bhadrachalam,GEN,Andhra Pradesh,728556,TDP,Dumpa Mary Vijaya Kumari,293593,INC,T.Ratnabai,256490,37103,5.09
+ls-1999,LS,India,1999,1999,official,8,Bobbili,GEN,Andhra Pradesh,694150,INC,Botcha Satyanarayana,339768,TDP,Aruna Padala,335947,3821,0.55
+ls-1999,LS,India,1999,1999,official,9,Chittoor,GEN,Andhra Pradesh,835406,TDP,Noothana Kalva Ramakrishna Reddy,419208,INC,R.Gopinath,400570,18638,2.23
+ls-1999,LS,India,1999,1999,official,10,Cuddapah,GEN,Andhra Pradesh,722854,INC,Vivekananda Reddy Y.S,367833,TDP,Kandula Rajamohan Reddy,341236,26597,3.68
+ls-1999,LS,India,1999,1999,official,11,Eluru,GEN,Andhra Pradesh,834469,TDP,Bolla Bulli Ramaiah,435884,INC,Maganti Venkateswara Rao (Babu),373653,62231,7.46
+ls-1999,LS,India,1999,1999,official,12,Guntur,GEN,Andhra Pradesh,781254,TDP,Yemparala Venkateswararao,399065,INC,Rayapati Sambasiva Rao,358735,40330,5.16
+ls-1999,LS,India,1999,1999,official,13,Hanamkonda,GEN,Andhra Pradesh,727832,TDP,Chada Suresh Reddy,375285,INC,M.Kamaluddin Ahmed,289504,85781,11.79
+ls-1999,LS,India,1999,1999,official,14,Hindupur,GEN,Andhra Pradesh,769054,TDP,B.K. Parthasarathi,432575,INC,S. Gangadhar,297939,134636,17.51
+ls-1999,LS,India,1999,1999,official,15,Hyderabad,GEN,Andhra Pradesh,1083678,AIMIM,Sultan Salahuddin Owaisi,448165,BJP,Baddam Bal Reddy,387344,60821,5.61
+ls-1999,LS,India,1999,1999,official,16,Kakinada,GEN,Andhra Pradesh,812541,TDP,Mudragada Padmanabham,435811,INC,Thota Subbarao,314376,121435,14.95
+ls-1999,LS,India,1999,1999,official,17,Karimnagar,GEN,Andhra Pradesh,801273,BJP,Chennamaneni Vidyasagar Rao,398437,INC,Anand Rao Chelimeda,379067,19370,2.42
+ls-1999,LS,India,1999,1999,official,18,Khammam,GEN,Andhra Pradesh,916571,INC,Renuka Chowdhury,328596,TDP,Baby Swarna Kumari Maddineni,320198,8398,0.92
+ls-1999,LS,India,1999,1999,official,19,Kurnool,GEN,Andhra Pradesh,752286,TDP,Kambhalapati E. Krishna Murthy,385688,INC,Kotla Vijaya Bhaskara Reddy,361201,24487,3.26
+ls-1999,LS,India,1999,1999,official,20,Machilipatnam,GEN,Andhra Pradesh,711867,TDP,Ambati Brahmanaiah,387533,INC,Kavuru Sambasiva Rao,304537,82996,11.66
+ls-1999,LS,India,1999,1999,official,21,Mahabubnagar,GEN,Andhra Pradesh,791720,BJP,A.P.Jitender Reddy,391588,INC,Dr.Mallikarjun,340693,50895,6.43
+ls-1999,LS,India,1999,1999,official,22,Medak,GEN,Andhra Pradesh,830380,BJP,A. Narendra,400244,INC,M. Baga Reddy,378161,22083,2.66
+ls-1999,LS,India,1999,1999,official,23,Miryalguda,GEN,Andhra Pradesh,909820,INC,Jaipal Reddy Sudini,401437,TDP,Rangashai Reddy Yadevelli,349360,52077,5.72
+ls-1999,LS,India,1999,1999,official,24,Nagarkurnool,GEN,Andhra Pradesh,811672,TDP,Dr.Manda Jagannath,431095,INC,Dr.Mallu Ravi,364195,66900,8.24
+ls-1999,LS,India,1999,1999,official,25,Nalgonda,GEN,Andhra Pradesh,950587,TDP,Gutha Sukender Reddy,427505,INC,Kanukula Janardhan Reddy,347770,79735,8.39
+ls-1999,LS,India,1999,1999,official,26,Nandyal,GEN,Andhra Pradesh,729632,TDP,Bhuma Nagi Reddy,391655,INC,Gangula Prathapa Reddy,319046,72609,9.95
+ls-1999,LS,India,1999,1999,official,27,Narasapur,GEN,Andhra Pradesh,704453,BJP,Uppalapati Venkata Krishnam Raju,421099,INC,Kanumuru Bapiraju,255151,165948,23.56
+ls-1999,LS,India,1999,1999,official,28,Narasaraopet,GEN,Andhra Pradesh,859857,INC,Janardhanareddy Nedurumalli,432266,TDP,Lal Janbasha S.M,418384,13882,1.61
+ls-1999,LS,India,1999,1999,official,29,Nellore,GEN,Andhra Pradesh,769832,TDP,Rajeswaramma Vukkala,381166,INC,Panabaka Lakshmi,340713,40453,5.25
+ls-1999,LS,India,1999,1999,official,30,Nizamabad,GEN,Andhra Pradesh,753900,TDP,Ganga Reddy Gaddam,373260,INC,S.Santosh Reddy,369824,3436,0.46
+ls-1999,LS,India,1999,1999,official,31,Ongole,GEN,Andhra Pradesh,776640,TDP,Karanam Balarama Krishna Murthy,392840,INC,Sreenivasulu Reddy Magunta,370892,21948,2.83
+ls-1999,LS,India,1999,1999,official,32,Parvathipuram,GEN,Andhra Pradesh,613641,TDP,Dadichiluka Veera Gouri Sankara Rao,304000,INC,Kishore Chandra Suryanarayana Deo Vyricherla,290719,13281,2.16
+ls-1999,LS,India,1999,1999,official,33,Peddapalli,GEN,Andhra Pradesh,860574,TDP,Dr.Smt.C. Suguna Kumari,406529,INC,G.Venkat Swamy,390640,15889,1.85
+ls-1999,LS,India,1999,1999,official,34,Rajahmundry,GEN,Andhra Pradesh,796286,BJP,Satyanarayana Rao S.B.P.B.K,411956,INC,Chitturi Ravindra,351925,60031,7.54
+ls-1999,LS,India,1999,1999,official,35,Rajampet,GEN,Andhra Pradesh,660558,TDP,Gunipati Ramaiah,322107,INC,Annaiahgari Saiprathap,294937,27170,4.11
+ls-1999,LS,India,1999,1999,official,36,Secunderabad,GEN,Andhra Pradesh,970791,BJP,Bandaru Dattatraya,506626,INC,Nadendla Bhaskara Rao,409000,97626,10.06
+ls-1999,LS,India,1999,1999,official,37,Siddipet,GEN,Andhra Pradesh,1042532,TDP,M. Rajaiah,583346,INC,Yellaiah Nandi,429625,153721,14.74
+ls-1999,LS,India,1999,1999,official,38,Srikakulam,GEN,Andhra Pradesh,658100,TDP,Yerrannaidu Kinjarapu,373851,INC,Kanithi Viswanadaham,276969,96882,14.72
+ls-1999,LS,India,1999,1999,official,39,Tenali,GEN,Andhra Pradesh,645601,TDP,Ummareddy Venkateswarlu,339800,INC,P.Shiv Shanker,266771,73029,11.31
+ls-1999,LS,India,1999,1999,official,40,Tirupati,GEN,Andhra Pradesh,790437,BJP,Dr.N.Venkataswamy,386478,INC,Chintha Mohan,373981,12497,1.58
+ls-1999,LS,India,1999,1999,official,41,Vijayawada,GEN,Andhra Pradesh,929476,TDP,Gadde Rama Mohan,482968,INC,Upendra Parvathaneni,395902,87066,9.37
+ls-1999,LS,India,1999,1999,official,42,Visakhapatnam,GEN,Andhra Pradesh,884861,TDP,M.V.V.S.Murthy,442036,INC,T.Subbarami Reddy,403117,38919,4.4
+ls-1999,LS,India,1999,1999,official,43,Warangal,GEN,Andhra Pradesh,831989,TDP,Bodakunti Venkateshwarlu,385593,INC,Dr. T. Kalpanadevi,372227,13366,1.61
+ls-1999,LS,India,1999,1999,official,44,Arunachal East,GEN,Arunachal Pradesh,190344,INC,Wangcha Rajkumar,110792,BJP,Tapir Gao,69389,41403,21.75
+ls-1999,LS,India,1999,1999,official,45,Arunachal West,GEN,Arunachal Pradesh,235319,INC,Jarbom Gamlin,131483,AC,Omak Apang,70760,60723,25.8
+ls-1999,LS,India,1999,1999,official,46,Autonomous District,GEN,Assam,386800,CPIML,Dr Jayanta Rongpi,208789,INC,Biren Singh Engti,148914,59875,15.48
+ls-1999,LS,India,1999,1999,official,47,Barpeta,GEN,Assam,754333,INC,A F Golam Osmani,325838,BJP,Ramani Kanta Deka,236476,89362,11.85
+ls-1999,LS,India,1999,1999,official,48,Dhubri,GEN,Assam,809069,INC,Abdul Hamid,279812,BJP,Dr Pannalal Oswal,258472,21340,2.64
+ls-1999,LS,India,1999,1999,official,49,Dibrugarh,GEN,Assam,557674,INC,Paban Singh Ghatowar,270863,BJP,Ajit Chaliha,203747,67116,12.03
+ls-1999,LS,India,1999,1999,official,50,Gauhati,GEN,Assam,837428,BJP,Bijoya Chakravarty,384771,INC,Bhubaneswar Kalita,309533,75238,8.98
+ls-1999,LS,India,1999,1999,official,51,Jorhat,GEN,Assam,630744,INC,Bijoy Krishna Handique,304690,BJP,Janaki Nath Handique,205330,99360,15.75
+ls-1999,LS,India,1999,1999,official,52,Kaliabor,GEN,Assam,758710,INC,Tarun Gogoi,373542,AGP,Keshab Mahanta,206150,167392,22.06
+ls-1999,LS,India,1999,1999,official,53,Karimganj,GEN,Assam,679706,INC,Nepal Chandra Das,336799,BJP,Parimal Suklabaidya,294540,42259,6.22
+ls-1999,LS,India,1999,1999,official,54,Kokrajhar,GEN,Assam,890015,IND,Sansuma Khunggur Bwismuthiary,334367,URMCA,Theodore Kisku Rapaz,246942,87425,9.82
+ls-1999,LS,India,1999,1999,official,55,Lakhimpur,GEN,Assam,743823,INC,Ranee Narah,255925,AGP,Sarbananda Sonowal,201402,54523,7.33
+ls-1999,LS,India,1999,1999,official,56,Mangaldoi,GEN,Assam,832398,INC,Madhab Rajbangshi,283749,BJP,Munindra Singha Lahkar,267315,16434,1.97
+ls-1999,LS,India,1999,1999,official,57,Nowgong,GEN,Assam,761698,BJP,Rajen Gohain,328861,INC,Nripen Goswami,293433,35428,4.65
+ls-1999,LS,India,1999,1999,official,58,Silchar,GEN,Assam,592867,INC,Sontosh Mohan Dev,329256,BJP,Kabindra Purkayastha,221504,107752,18.17
+ls-1999,LS,India,1999,1999,official,59,Tezpur,GEN,Assam,677202,INC,Moni Kumar Subba,230884,BJP,Ram Prasad Sarmah,205178,25706,3.8
+ls-1999,LS,India,1999,1999,official,60,Araria,GEN,Bihar,638646,RJD,Sukdeo Paswan,308579,BJP,Parmanand Rishidev,306410,2169,0.34
+ls-1999,LS,India,1999,1999,official,61,Arrah,GEN,Bihar,681789,RJD,Ram Prasad Singh,264140,JDU,H P Singh,171858,92282,13.54
+ls-1999,LS,India,1999,1999,official,62,Aurangabad,GEN,Bihar,674623,INC,Shyama Singh,317418,JDU,Sushil Kumar Singh,247002,70416,10.44
+ls-1999,LS,India,1999,1999,official,63,Bagaha,GEN,Bihar,570270,JDU,Mahendra Baitha,261498,RJD,Purnamasi Ram,206747,54751,9.6
+ls-1999,LS,India,1999,1999,official,64,Balia,GEN,Bihar,499385,JDU,Ramjivan Singh,169443,RJD,Ashok Kumar,157411,12032,2.41
+ls-1999,LS,India,1999,1999,official,65,Banka,GEN,Bihar,626293,JDU,Digvijay Singh,233453,IND,Giridhari Yadav,212045,21408,3.42
+ls-1999,LS,India,1999,1999,official,66,Barh,GEN,Bihar,750668,JDU,Nitish Kumar,362016,RJD,Vijay Krishna,360681,1335,0.18
+ls-1999,LS,India,1999,1999,official,67,Begusarai,GEN,Bihar,635267,INC,Rajo Singh,318244,JDU,Shyam Sundar Singh,298294,19950,3.14
+ls-1999,LS,India,1999,1999,official,68,Bettiah,GEN,Bihar,689040,BJP,Dr Madan Prasad Jaiswal,343027,RJD,Mataur Rahman,303377,39650,5.75
+ls-1999,LS,India,1999,1999,official,69,Bhagalpur,GEN,Bihar,669871,CPI(M),Subodh Ray,321159,BJP,Prabhash Chandra Tiwari,275619,45540,6.8
+ls-1999,LS,India,1999,1999,official,70,Bikramganj,GEN,Bihar,734918,RJD,Kanti Singh,346259,JDU,Vashisht Narayan Singh,311491,34768,4.73
+ls-1999,LS,India,1999,1999,official,71,Buxar,GEN,Bihar,602749,BJP,Lal Muni Choubey,235968,RJD,Shivanand Tiwary,224362,11606,1.93
+ls-1999,LS,India,1999,1999,official,72,Chapra,GEN,Bihar,770075,BJP,Rajiv Pratap Rudi,390477,RJD,Hira Lal Rai,346924,43553,5.66
+ls-1999,LS,India,1999,1999,official,73,Chatra,GEN,Bihar,416769,RJD,Nagmani,219783,BJP,Dhirendra Agrawal,164684,55099,13.22
+ls-1999,LS,India,1999,1999,official,74,Darbhanga,GEN,Bihar,758291,BJP,Kirti Azad,395549,RJD,Md Ali Ashraf Fatmi,340001,55548,7.33
+ls-1999,LS,India,1999,1999,official,75,Dhanbad,GEN,Bihar,761461,BJP,Rita Verma,366065,MCO,A K Roy,351839,14226,1.87
+ls-1999,LS,India,1999,1999,official,76,Dumka,GEN,Bihar,545500,BJP,Babu Lal Marandi,201141,JMM,Rupi Soren Kisku,196493,4648,0.85
+ls-1999,LS,India,1999,1999,official,77,Gaya,GEN,Bihar,636450,BJP,Ramji Manjhi,319530,RJD,Rajesh Kumar,298747,20783,3.27
+ls-1999,LS,India,1999,1999,official,78,Giridih,GEN,Bihar,532036,BJP,Ravindra Kumar Pandey,248454,INC,Rajendra Prasad Singh,228630,19824,3.73
+ls-1999,LS,India,1999,1999,official,79,Godda,GEN,Bihar,633556,BJP,Jagdambi Prasad Yadav,221191,JMM,Suraj Mandal,141299,79892,12.61
+ls-1999,LS,India,1999,1999,official,80,Gopalganj,GEN,Bihar,741844,JDU,Raghunath Jha,365107,RJD,Kali Prasad Pandey,328983,36124,4.87
+ls-1999,LS,India,1999,1999,official,81,Hajipur,GEN,Bihar,779601,JDU,Ram Vilas Paswan,434609,RJD,Ramai Ram,329105,105504,13.53
+ls-1999,LS,India,1999,1999,official,82,Hazaribagh,GEN,Bihar,591881,BJP,Yashwant Sinha,283956,RJD,Akalu Ram Mahto,101314,182642,30.86
+ls-1999,LS,India,1999,1999,official,83,Jahanabad,GEN,Bihar,775282,JDU,Arun Kumar,333332,RJD,Surendra Prasad Yadav,316045,17287,2.23
+ls-1999,LS,India,1999,1999,official,84,Jamshedpur,GEN,Bihar,628228,BJP,Abha Mahato,285232,INC,Ghanashyam Mahato,163744,121488,19.34
+ls-1999,LS,India,1999,1999,official,85,Jhanjharpur,GEN,Bihar,674416,JDU,Devendra Prasad Yadav,375852,RJD,Surendra Prasad Yadav,248038,127814,18.95
+ls-1999,LS,India,1999,1999,official,86,Katihar,GEN,Bihar,639558,BJP,Nikhil Kumar Choudhary,280911,NCP,Tariq Anwar,144059,136852,21.4
+ls-1999,LS,India,1999,1999,official,87,Khagaria,GEN,Bihar,662439,JDU,Renu Kumari,293412,RJD,Nayana Rana,261590,31822,4.8
+ls-1999,LS,India,1999,1999,official,88,Khunti,GEN,Bihar,404838,BJP,Kariya Munda,187484,INC,Sushila Kerketta,161222,26262,6.49
+ls-1999,LS,India,1999,1999,official,89,Kishanganj,GEN,Bihar,717635,BJP,Syed Shahnawaz Hussain,258035,RJD,Taslimuddin,249387,8648,1.21
+ls-1999,LS,India,1999,1999,official,90,Kodarma,GEN,Bihar,594997,INC,Tilakdhari Pd Singh,273808,BJP,Ritlal Prasad Verma,263630,10178,1.71
+ls-1999,LS,India,1999,1999,official,91,Lohardaga,GEN,Bihar,363514,BJP,Dukha Bhagat,163658,INC,Indra Nath Bhagat,159835,3823,1.05
+ls-1999,LS,India,1999,1999,official,92,Madhepura,GEN,Bihar,648473,JDU,Sharad Yadav,328761,RJD,Lalu Prasad,298441,30320,4.68
+ls-1999,LS,India,1999,1999,official,93,Madhubani,GEN,Bihar,706948,BJP,Hukumdeo Narayan Yadav,328616,INC,Dr Shakil Ahmad,266001,62615,8.86
+ls-1999,LS,India,1999,1999,official,94,Maharajganj,GEN,Bihar,697300,JDU,Prabhunath Singh,398475,INC,Mahachandra Prasad Singh,294412,104063,14.92
+ls-1999,LS,India,1999,1999,official,95,Monghyr,GEN,Bihar,705278,JDU,Brahma Nand Mandal,346615,RJD,Bijoy Kumar Bijoy,324800,21815,3.09
+ls-1999,LS,India,1999,1999,official,96,Motihari,GEN,Bihar,677062,BJP,Radha Mohan Singh,338696,RJD,Rama Devi,317026,21670,3.2
+ls-1999,LS,India,1999,1999,official,97,Muzaffarpur,GEN,Bihar,719527,JDU,Captain Jai Na. Pd. Nishad,363820,RJD,Mahendra Sahni,303100,60720,8.44
+ls-1999,LS,India,1999,1999,official,98,Nalanda,GEN,Bihar,871579,JDU,George Fernandes,464458,CPI,Gaya Singh,358637,105821,12.14
+ls-1999,LS,India,1999,1999,official,99,Nawada,GEN,Bihar,850352,BJP,Sanjay Paswan,453943,RJD,Vijay Kumar Choudhary,369858,84085,9.89
+ls-1999,LS,India,1999,1999,official,100,Palamu,GEN,Bihar,508960,BJP,Braj Mohan Ram,271657,RJD,Jorawar Ram,186532,85125,16.73
+ls-1999,LS,India,1999,1999,official,101,Patna,GEN,Bihar,802107,BJP,C P Thakur,379370,RJD,Ram Kripal Yadav,332478,46892,5.85
+ls-1999,LS,India,1999,1999,official,102,Purnea,GEN,Bihar,693718,IND,Rajesh Ranjan,438193,BJP,Jay Krishna Mandal,185627,252566,36.41
+ls-1999,LS,India,1999,1999,official,103,Rajmahal,GEN,Bihar,560248,INC,Thomas Hansda,250298,BJP,Som Marandi,188199,62099,11.08
+ls-1999,LS,India,1999,1999,official,104,Ranchi,GEN,Bihar,577090,BJP,Ram Tahal Choudhary,379261,INC,K K Tewari,138084,241177,41.79
+ls-1999,LS,India,1999,1999,official,105,Rosera,GEN,Bihar,723714,JDU,Ram Chandra Paswan,420564,RJD,Pitamber Paswan,277648,142916,19.75
+ls-1999,LS,India,1999,1999,official,106,Saharsa,GEN,Bihar,721597,JDU,Dinesh Chandra Yadav,392926,RJD,Surya Narayan Yadav,298433,94493,13.09
+ls-1999,LS,India,1999,1999,official,107,Samastipur,GEN,Bihar,791038,JDU,Manjay Lal,368776,RJD,Ashok Singh,356088,12688,1.6
+ls-1999,LS,India,1999,1999,official,108,Sasaram,GEN,Bihar,653315,BJP,Muni Lall,257223,RJD,Ram Keshi Bharati,238547,18676,2.86
+ls-1999,LS,India,1999,1999,official,109,Sheohar,GEN,Bihar,715936,RJD,Md Anwarul Haque,347279,BPSP,Anand Mohan,344744,2535,0.35
+ls-1999,LS,India,1999,1999,official,110,Singhbhum,GEN,Bihar,471500,BJP,Laxman Gilua,231237,INC,Vijay Singh Soy,148926,82311,17.46
+ls-1999,LS,India,1999,1999,official,111,Sitamarhi,GEN,Bihar,742752,JDU,Nawal Kishore Rai,410557,RJD,Suryadeo Rai,309300,101257,13.63
+ls-1999,LS,India,1999,1999,official,112,Siwan,GEN,Bihar,702293,RJD,M Sahabuddin,385069,CPIML,Amar Nath Yadav,255229,129840,18.49
+ls-1999,LS,India,1999,1999,official,113,Vaishali,GEN,Bihar,709752,RJD,Raghuvansh Prasad Singh,308458,BPSP,Lovely Anand,263066,45392,6.4
+ls-1999,LS,India,1999,1999,official,114,Chandigarh,GEN,Chandigarh,282816,INC,Pawan Kumar Bansal,132924,BJP,Krishan Lal Sharma,127475,5449,1.93
+ls-1999,LS,India,1999,1999,official,115,Dadra & Nagar Haveli,GEN,Dadra & Nagar Haveli,71905,IND,Delkar Mohanbhai Sanjibhai,29853,BJP,Bhurkud Dilipbhai Navjibhai,14975,14878,20.69
+ls-1999,LS,India,1999,1999,official,116,Daman & Diu,GEN,Daman & Diu,50800,INC,Patel Dahyabhai Vallabhbhai,25136,BJP,Tandel Devjibhai Jogibhai,21910,3226,6.35
+ls-1999,LS,India,1999,1999,official,117,Chandni Chowk,GEN,Delhi,204453,BJP,Vijay Goel,74001,INC,Jai Prakash Agarwal,72006,1995,0.98
+ls-1999,LS,India,1999,1999,official,118,Delhi Sadar,GEN,Delhi,278285,BJP,Madan Lal Khurana,143186,INC,Jagdish Tytler,129316,13870,4.98
+ls-1999,LS,India,1999,1999,official,119,East Delhi,GEN,Delhi,1038275,BJP,Lal Bihari Tiwari,521434,INC,Avm H.L.Kapur,438674,82760,7.97
+ls-1999,LS,India,1999,1999,official,120,Karol Bagh,GEN,Delhi,258293,BJP,Anita Arya,128956,INC,Meira Kumar,116502,12454,4.82
+ls-1999,LS,India,1999,1999,official,121,New Delhi,GEN,Delhi,226758,BJP,Jag Mohan,124626,INC,R.K.Dhawan,96733,27893,12.3
+ls-1999,LS,India,1999,1999,official,122,Outer Delhi,GEN,Delhi,1287487,BJP,Sahib Singh Verma,709692,INC,Deep Chand Sharma,507220,202472,15.73
+ls-1999,LS,India,1999,1999,official,123,South Delhi,GEN,Delhi,499937,BJP,Vijay Kumar Malhotra,261230,INC,Dr. Manmohan Singh,231231,29999,6.0
+ls-1999,LS,India,1999,1999,official,124,Marmagoa,GEN,Goa,218809,BJP,Angle Ramakant Soiru,106064,INC,Alemao Joaquim Braz,91607,14457,6.61
+ls-1999,LS,India,1999,1999,official,125,Panaji,GEN,Goa,190985,BJP,Shripad Yasso Naik,104958,INC,Khalap Ramakant,68237,36721,19.23
+ls-1999,LS,India,1999,1999,official,126,Ahmedabad,GEN,Gujarat,527737,BJP,Harin Pathak,280696,INC,Girish Popatlal Dani (Girish Dani),227728,52968,10.04
+ls-1999,LS,India,1999,1999,official,127,Amreli,GEN,Gujarat,407488,BJP,Dileep Sanghani,217670,INC,Virjibhai Thummar,181346,36324,8.91
+ls-1999,LS,India,1999,1999,official,128,Anand,GEN,Gujarat,548033,BJP,Patel Dipakbhai Chimanbhai (Sathi),273683,INC,Chavda Ishvarbhai Khodabhai,270022,3661,0.67
+ls-1999,LS,India,1999,1999,official,129,Banaskantha,GEN,Gujarat,593248,BJP,Chaudhary Haribhai Parthibhai,308313,INC,B K Gadhvi,282337,25976,4.38
+ls-1999,LS,India,1999,1999,official,130,Bhavnagar,GEN,Gujarat,435165,BJP,Rana Rajendrasinh Ghanshyamsinh (Rajubhai Rana),265446,INC,Gohil Dilipsinh Ajitsinh (Dilipsinh Gohil),164093,101353,23.29
+ls-1999,LS,India,1999,1999,official,131,Broach,GEN,Gujarat,581035,BJP,Mansukhbhai Vasava,290195,INC,Amarsinh Ramsinh Vasava,243055,47140,8.11
+ls-1999,LS,India,1999,1999,official,132,Bulsar,GEN,Gujarat,582106,BJP,Manibhai Ramjibhai Chaudhari,300195,INC,Uttambhai Harjibhai Patel,273409,26786,4.6
+ls-1999,LS,India,1999,1999,official,133,Chhota Udaipur,GEN,Gujarat,510280,BJP,Ramsinh Rathawa,248970,INC,Naranbhai Rathawa,247772,1198,0.23
+ls-1999,LS,India,1999,1999,official,134,Dhandhuka,GEN,Gujarat,462197,BJP,Varma Ratilal Kalidas,229754,INC,Manubhai Parmar,224531,5223,1.13
+ls-1999,LS,India,1999,1999,official,135,Dohad,GEN,Gujarat,463502,BJP,Katara Babubhai Khimabhai,232288,INC,Somjibhai Damor,219857,12431,2.68
+ls-1999,LS,India,1999,1999,official,136,Gandhinagar,GEN,Gujarat,741260,BJP,Lal Krishna Advani (L K Advani),453229,INC,T N Seshan,264285,188944,25.49
+ls-1999,LS,India,1999,1999,official,137,Godhra,GEN,Gujarat,473144,BJP,Solanki Bhupendrasinh Prabhatsinh,280684,INC,Patel Shantilal Parshotamdas,185662,95022,20.08
+ls-1999,LS,India,1999,1999,official,138,Jamnagar,GEN,Gujarat,352700,BJP,Koradiya Chandreshbhai Valjibhai (Chandresh Patel),190726,INC,Patel Raghavji Hansrajbhai,154957,35769,10.14
+ls-1999,LS,India,1999,1999,official,139,Junagadh,GEN,Gujarat,492253,BJP,Chikhaliya Bhavnaben Devrajbhai,266809,INC,Chavda Pethaljibhai Nathabhai,219961,46848,9.52
+ls-1999,LS,India,1999,1999,official,140,Kaira,GEN,Gujarat,485304,INC,Dinsha Patel,258024,BJP,Chauhan Prabhatsinh Hathisinh,224307,33717,6.95
+ls-1999,LS,India,1999,1999,official,141,Kapadvanj,GEN,Gujarat,664576,INC,Vaghela Shankarsinh Laxmansinh,413193,BJP,Chauhan Jaysinhji Manshingji,247812,165381,24.89
+ls-1999,LS,India,1999,1999,official,142,Kutch,GEN,Gujarat,383764,BJP,Gadhvi Pushpadan Sambhudan,191533,INC,Babubhai Meghji Shah,187218,4315,1.12
+ls-1999,LS,India,1999,1999,official,143,Mandvi,GEN,Gujarat,600610,BJP,Patel Mansinhbhai Kalyanji,320172,INC,Gamit Chhitubhai Devjibhai,263341,56831,9.46
+ls-1999,LS,India,1999,1999,official,144,Mehsana,GEN,Gujarat,628636,INC,Patel Atmaram Maganbhai,340445,BJP,Dr A K Patel,284710,55735,8.87
+ls-1999,LS,India,1999,1999,official,145,Patan,GEN,Gujarat,479027,INC,Rashtrapal Pravinchandra Somabhai,246798,BJP,Kanodia Maheshkumar Mithabhai,229671,17127,3.58
+ls-1999,LS,India,1999,1999,official,146,Porbandar,GEN,Gujarat,325856,BJP,Javiya Gordhanbhai Jadavbhai,210627,INC,Manvar Balvantbhai Bachubhai,109267,101360,31.11
+ls-1999,LS,India,1999,1999,official,147,Rajkot,GEN,Gujarat,546230,BJP,Dr Kathiriya Vallabhbhai Ramjibhai,312941,INC,Radadiya Vithalbhai Hansarajbhai,226194,86747,15.88
+ls-1999,LS,India,1999,1999,official,148,Sabarkantha,GEN,Gujarat,661161,INC,Nisha Amarsinh Chaudhary,334565,BJP,Patel Kanubhai Ravjibhai,320189,14376,2.17
+ls-1999,LS,India,1999,1999,official,149,Surat,GEN,Gujarat,615730,BJP,Kashiram Rana,423773,INC,Rupin Rameshchandra Patchigar,174576,249197,40.47
+ls-1999,LS,India,1999,1999,official,150,Surendranagar,GEN,Gujarat,468954,INC,Makwana Savshibhai Kanjibhai,244368,BJP,Dave Bhavnaben Kardamkumar,218463,25905,5.52
+ls-1999,LS,India,1999,1999,official,151,Vadodara,GEN,Gujarat,585026,BJP,Jayaben Thakkar,322758,INC,Dr Urmilaben Chimanbhai Patel,230109,92649,15.84
+ls-1999,LS,India,1999,1999,official,152,Ambala,GEN,Haryana,692337,BJP,Rattan Lal Kataria,357460,INC,Phool Chand Mullana,232982,124478,17.98
+ls-1999,LS,India,1999,1999,official,153,Bhiwani,GEN,Haryana,733042,INLD,Ajay Singh Chautala,381255,INC,Dharambir,177849,203406,27.75
+ls-1999,LS,India,1999,1999,official,154,Faridabad,GEN,Haryana,745484,BJP,Ram Chander Bainda,367842,INC,Zakir Hussain,333594,34248,4.59
+ls-1999,LS,India,1999,1999,official,155,Hissar,GEN,Haryana,639302,INLD,Surender Singh Barwala,396540,INC,Birender Singh,236088,160452,25.1
+ls-1999,LS,India,1999,1999,official,156,Karnal,GEN,Haryana,771101,BJP,I.D. Swami,433733,INC,Bhajan Lal,285879,147854,19.17
+ls-1999,LS,India,1999,1999,official,157,Kurukshetra,GEN,Haryana,723757,INLD,Prof Kailasho Devi,438701,INC,Om Parkash Jindal,275091,163610,22.61
+ls-1999,LS,India,1999,1999,official,158,Mahendragarh,GEN,Haryana,744706,BJP,Dr. Sudha Yadav,420706,INC,Inderjit Singh,281566,139140,18.68
+ls-1999,LS,India,1999,1999,official,159,Rohtak,GEN,Haryana,633373,INLD,Inder Singh,366926,INC,Bhupinder Singh,222233,144693,22.84
+ls-1999,LS,India,1999,1999,official,160,Sirsa,GEN,Haryana,635428,INLD,Dr. Sushil Kumar Indora,419278,INC,Om Parkash,199552,219726,34.58
+ls-1999,LS,India,1999,1999,official,161,Sonepat,GEN,Haryana,654509,BJP,Kishan Singh Sangwan,457056,INC,Chiranji Lal,190918,266138,40.66
+ls-1999,LS,India,1999,1999,official,162,Hamirpur,GEN,Himachal Pradesh,555440,BJP,Suresh Chandel,336172,INC,Thakur Ram Lal,206925,129247,23.27
+ls-1999,LS,India,1999,1999,official,163,Kangra,GEN,Himachal Pradesh,552860,BJP,Shanta Kumar,325066,INC,Sat Mahajan,224324,100742,18.22
+ls-1999,LS,India,1999,1999,official,164,Mandi,GEN,Himachal Pradesh,525240,BJP,Maheshwar Singh,325929,INC,Kaul Singh,194904,131025,24.95
+ls-1999,LS,India,1999,1999,official,165,Shimla,GEN,Himachal Pradesh,500164,HVC,Lt. Col. Dhani Ram Shandil,264002,INC,Gangu Ram Musafir,217072,46930,9.38
+ls-1999,LS,India,1999,1999,official,166,Anantnag,GEN,Jammu & Kashmir,102877,JKNC,Ali Mohd Naik,38745,IND,Mufti Mohmad Syeed,25253,13492,13.11
+ls-1999,LS,India,1999,1999,official,167,Baramulla,GEN,Jammu & Kashmir,191735,JKNC,Abdul Rashid Shaheen,84243,IND,Muzaffar Hussain Baig,48130,36113,18.83
+ls-1999,LS,India,1999,1999,official,168,Jammu,GEN,Jammu & Kashmir,665921,BJP,Vishno Datt Sharma,289412,JKNC,Rajinder Singh Chib,147393,142019,21.33
+ls-1999,LS,India,1999,1999,official,169,Ladakh,GEN,Jammu & Kashmir,115860,JKNC,Hassan Khan,52187,INC,Thupstan Chhewang,50097,2090,1.8
+ls-1999,LS,India,1999,1999,official,170,Srinagar,GEN,Jammu & Kashmir,96984,JKNC,Omer Abdullah,55542,IND,Mebooba Mufti,18683,36859,38.01
+ls-1999,LS,India,1999,1999,official,171,Udhampur,GEN,Jammu & Kashmir,397187,BJP,Prof. Chaman Lal Gupta,194678,JKNC,Jagjiwan Lal,76371,118307,29.79
+ls-1999,LS,India,1999,1999,official,172,Bagalkot,GEN,Karnataka,752964,INC,R.S. Patil,378488,JDU,Ajayakumar Sambasadashiv Sarnaik,302054,76434,10.15
+ls-1999,LS,India,1999,1999,official,173,Bangalore North,GEN,Karnataka,1028358,INC,C.K Jaffar Sharief,525523,JDU,Michael B.Fernandes,349918,175605,17.08
+ls-1999,LS,India,1999,1999,official,174,Bangalore South,GEN,Karnataka,804342,BJP,Ananth Kumar,410161,INC,B.K.Hari Prasad,344107,66054,8.21
+ls-1999,LS,India,1999,1999,official,175,Belgaum,GEN,Karnataka,781767,INC,Amarsinh Vasantarao Patil,383444,BJP,Babagouda Patil,333546,49898,6.38
+ls-1999,LS,India,1999,1999,official,176,Bellary,GEN,Karnataka,802055,INC,Sonia Gandhi,414650,BJP,Sushma Swaraj,358550,56100,6.99
+ls-1999,LS,India,1999,1999,official,177,Bidar,GEN,Karnataka,729679,BJP,Ramchandra Veerappa,350221,INC,Narasingarao Suryawanshi,198188,152033,20.84
+ls-1999,LS,India,1999,1999,official,178,Bijapur,GEN,Karnataka,714224,BJP,Basangouda Ramangouda Patil(Yatnal),348816,INC,Gudadinni Laxmibai Basagondappa,312177,36639,5.13
+ls-1999,LS,India,1999,1999,official,179,Chamarajanagar,GEN,Karnataka,767545,JDU,V.Sreenivasaprasad,311547,INC,A.Siddaraju,295401,16146,2.1
+ls-1999,LS,India,1999,1999,official,180,Chikkaballapura,GEN,Karnataka,818520,INC,R.L. Jalappa,422587,JDU,N.Ramesh,211401,211186,25.8
+ls-1999,LS,India,1999,1999,official,181,Chikkodi,GEN,Karnataka,743378,JDU,Jigajinagi Rameshchandappa,392450,INC,Kanagali Pradeepkumar Shankaranand,307860,84590,11.38
+ls-1999,LS,India,1999,1999,official,182,Chikmagalur,GEN,Karnataka,714803,BJP,D.C.Srikantappa,324470,INC,D.M.Putte Gowda,294193,30277,4.24
+ls-1999,LS,India,1999,1999,official,183,Chitradurga,GEN,Karnataka,831807,JDU,Shashi Kumar,370793,INC,C.P.Mudalagiriyappa,359615,11178,1.34
+ls-1999,LS,India,1999,1999,official,184,Davanagere,GEN,Karnataka,850078,BJP,G.Mallikarjunappa,398969,INC,Shamanur Shivashankarappa,382700,16269,1.91
+ls-1999,LS,India,1999,1999,official,185,Dharwad North,GEN,Karnataka,719939,BJP,Vijay Sankeshwar,345197,INC,Veeranna A.Mattikatti,303595,41602,5.78
+ls-1999,LS,India,1999,1999,official,186,Dharwad South,GEN,Karnataka,768791,INC,Prof. I.G. Sanadi,355523,JDU,B.M.Menasinkai,316325,39198,5.1
+ls-1999,LS,India,1999,1999,official,187,Gulbarga,GEN,Karnataka,740243,INC,Iqbal Ahemed Saradgi,352359,BJP,Basavaraj Patil Sedam,282522,69837,9.43
+ls-1999,LS,India,1999,1999,official,188,Hassan,GEN,Karnataka,858626,INC,G.Putta Swamy Gowda,398344,JDS,H.D.Deve Gowda,256587,141757,16.51
+ls-1999,LS,India,1999,1999,official,189,Kanakapura,GEN,Karnataka,1233825,INC,M.V.Chandrashekara Murthy,532910,BJP,M. Srinivas,498893,34017,2.76
+ls-1999,LS,India,1999,1999,official,190,Kanara,GEN,Karnataka,744534,INC,Alva Margaret,356246,BJP,Anant Kumar,345655,10591,1.42
+ls-1999,LS,India,1999,1999,official,191,Kolar,GEN,Karnataka,815758,INC,K.H. Muniyappa,321964,BJP,G. Mangamma,239182,82782,10.15
+ls-1999,LS,India,1999,1999,official,192,Koppal,GEN,Karnataka,760573,INC,H.G.Ramulu,350599,JDU,Basavaraj Rayareddy,338087,12512,1.65
+ls-1999,LS,India,1999,1999,official,193,Mandya,GEN,Karnataka,800594,INC,Ambareesh @ Amaranatha .M.H,418110,JDS,Krishna,265930,152180,19.01
+ls-1999,LS,India,1999,1999,official,194,Mangalore,GEN,Karnataka,719583,BJP,V.Dhananjaya Kumar,353536,INC,M.Veerappa Moily,345067,8469,1.18
+ls-1999,LS,India,1999,1999,official,195,Mysore,GEN,Karnataka,899475,INC,Srikantadatta Narasimharaja Wadiyar,338051,BJP,C.H.Vijayashankar,324620,13431,1.49
+ls-1999,LS,India,1999,1999,official,196,Raichur,GEN,Karnataka,686443,INC,A. Venkatesh Naik,359946,JDU,Abdul Samad Siddiq,187740,172206,25.09
+ls-1999,LS,India,1999,1999,official,197,Shimoga,GEN,Karnataka,807043,INC,S.Bangarappa,427870,BJP,Ayanur Manjunatha,332832,95038,11.78
+ls-1999,LS,India,1999,1999,official,198,Tumkur,GEN,Karnataka,773846,INC,G.S.Basavaraj,318922,BJP,S.Mallikarjunaiah,254985,63937,8.26
+ls-1999,LS,India,1999,1999,official,199,Udupi,GEN,Karnataka,684881,INC,Vinay Kumar Sorake,352326,BJP,I.M. Jayaram Shetty,320739,31587,4.61
+ls-1999,LS,India,1999,1999,official,200,Adoor,GEN,Kerala,698186,INC,Kodikunnil Suresh,337003,CPI,Chengara Surendran,314997,22006,3.15
+ls-1999,LS,India,1999,1999,official,201,Alappuzha,GEN,Kerala,788776,INC,V.M. Sudheeran,392700,CPI(M),Murali,357606,35094,4.45
+ls-1999,LS,India,1999,1999,official,202,Badagara,GEN,Kerala,857638,CPI(M),A.K. Premajam,404355,INC,P.M. Suresh Babu,378511,25844,3.01
+ls-1999,LS,India,1999,1999,official,203,Calicut,GEN,Kerala,822307,INC,K. Muraleedharan,383425,JDS,C.M. Ibrahim,333023,50402,6.13
+ls-1999,LS,India,1999,1999,official,204,Chirayinkil,GEN,Kerala,685378,CPI(M),Varkala Radhakrishnan,309304,INC,M.I. Shanavas,306176,3128,0.46
+ls-1999,LS,India,1999,1999,official,205,Ernakulam,GEN,Kerala,775950,INC,Adv. George Eden,394058,IND,Mani Vithayathil,282753,111305,14.34
+ls-1999,LS,India,1999,1999,official,206,Idukki,GEN,Kerala,773904,KEC,K. Francis George,365313,INC,Prof. P.J.Kurian,356015,9298,1.2
+ls-1999,LS,India,1999,1999,official,207,Kannur,GEN,Kerala,880180,CPI(M),A.P. Abdullakkutty,428390,INC,Mullappally Ramachandran,418143,10247,1.16
+ls-1999,LS,India,1999,1999,official,208,Kasaragod,GEN,Kerala,925384,CPI(M),T. Govindan,423564,INC,Khader Mangad,391986,31578,3.41
+ls-1999,LS,India,1999,1999,official,209,Kollam,GEN,Kerala,735557,CPI(M),P. Rajendran,351869,INC,M.P. Gangadharan,332585,19284,2.62
+ls-1999,LS,India,1999,1999,official,210,Kottayam,GEN,Kerala,728325,CPI(M),Suresh Kurup,344296,INC,P.C. Chacko,333697,10599,1.46
+ls-1999,LS,India,1999,1999,official,211,Manjeri,GEN,Kerala,810166,IUML,E. Ahamed,437563,CPI(M),Adv. I.T. Najeeb,314152,123411,15.23
+ls-1999,LS,India,1999,1999,official,212,Mavelikara,GEN,Kerala,663907,INC,Ramesh Chennithala,310455,IND,Prof. Ninan Koshy,277012,33443,5.04
+ls-1999,LS,India,1999,1999,official,213,Mukundapuram,GEN,Kerala,785578,INC,K. Karunakaran,397156,CPI(M),E.M. Sreedharan,344693,52463,6.68
+ls-1999,LS,India,1999,1999,official,214,Muvattupuzha,GEN,Kerala,688264,KCM,Adv. P.C. Thomas,357402,CPI(M),Adv. P.M. Ismail,280463,76939,11.18
+ls-1999,LS,India,1999,1999,official,215,Ottapalam,GEN,Kerala,776652,CPI(M),S. Ajayakumar,359758,INC,Pandalam Sudhakaran,346043,13715,1.77
+ls-1999,LS,India,1999,1999,official,216,Palakkad,GEN,Kerala,806543,CPI(M),N.N.Krishnadas,372536,INC,M.T. Padma,341769,30767,3.81
+ls-1999,LS,India,1999,1999,official,217,Ponnani,GEN,Kerala,688923,IUML,G.M. Banatwalla,372572,CPI,P.P. Suneer,243094,129478,18.79
+ls-1999,LS,India,1999,1999,official,218,Thiruvananthapuram,GEN,Kerala,755941,INC,Advocate V.S. Sivakumar,288390,CPI,Kaniyapuram Ramachandran,273905,14485,1.92
+ls-1999,LS,India,1999,1999,official,219,Thrissur,GEN,Kerala,730417,INC,A.C. Jose,343793,CPI,V.V. Raghavan,332161,11632,1.59
+ls-1999,LS,India,1999,1999,official,220,Lakshadweep,GEN,Lakshadweep,29860,INC,P.M. Sayeed,16113,JDU,Dr. K.P. Muthukoya,12924,3189,10.68
+ls-1999,LS,India,1999,1999,official,221,Balaghat,GEN,Madhya Pradesh,578066,BJP,Prahladsingh Patel,251308,INC,Vishweshwer Bhagat,230630,20678,3.58
+ls-1999,LS,India,1999,1999,official,222,Bastar,GEN,Madhya Pradesh,356603,BJP,Baliram Kashyap,155421,INC,Mahendra Karma,134684,20737,5.82
+ls-1999,LS,India,1999,1999,official,223,Betul,GEN,Madhya Pradesh,534072,BJP,"Vijay Kumar Khandelwal "" Munni Bhaiya""",272512,INC,Gufran Bhai,208040,64472,12.07
+ls-1999,LS,India,1999,1999,official,224,Bhind,GEN,Madhya Pradesh,661420,BJP,Dr. Ramlakhan Singh,270766,INC,Satyadev Katare,217192,53574,8.1
+ls-1999,LS,India,1999,1999,official,225,Bhopal,GEN,Madhya Pradesh,976493,BJP,Uma Bharti,537905,INC,Suresh Pachori,369041,168864,17.29
+ls-1999,LS,India,1999,1999,official,226,Bilaspur,GEN,Madhya Pradesh,525808,BJP,Punnulal Mohale,274860,INC,Rameshwar Kosariya,199527,75333,14.33
+ls-1999,LS,India,1999,1999,official,227,Chhindwara,GEN,Madhya Pradesh,625024,INC,Kamal Nath,399904,BJP,Santosh Jain,210976,188928,30.23
+ls-1999,LS,India,1999,1999,official,228,Damoh,GEN,Madhya Pradesh,563999,BJP,Dr. Ramkrishna Kusmaria,246909,INC,Tilak Singh Lodhi,233190,13719,2.43
+ls-1999,LS,India,1999,1999,official,229,Dhar,GEN,Madhya Pradesh,682608,INC,Gajendra Singh Rajukhedi,355482,BJP,Harsh Chouhan,321377,34105,5.0
+ls-1999,LS,India,1999,1999,official,230,Durg,GEN,Madhya Pradesh,760714,BJP,Tara Chand Sahu,389777,INC,Pradeep Choubey,345259,44518,5.85
+ls-1999,LS,India,1999,1999,official,231,Guna,GEN,Madhya Pradesh,679493,INC,Madhavrao Scindia,443965,BJP,Rao Deshraj Singh Yadav,229537,214428,31.56
+ls-1999,LS,India,1999,1999,official,232,Gwalior,GEN,Madhya Pradesh,616704,BJP,Jaibhan Singh Pavaiya,254486,INC,Chandra Mohan Nagori,171370,83116,13.48
+ls-1999,LS,India,1999,1999,official,233,Hoshangabad,GEN,Madhya Pradesh,676383,BJP,Sundar Lal Patwa,353760,INC,Rajkumar Patel,309313,44447,6.57
+ls-1999,LS,India,1999,1999,official,234,Indore,GEN,Madhya Pradesh,825794,BJP,Sumitra Mahajan,474167,INC,Mahesh Joshi,342852,131315,15.9
+ls-1999,LS,India,1999,1999,official,235,Jabalpur,GEN,Madhya Pradesh,528526,BJP,Jaishree Banerjee ( Bhabhi Ji),300648,INC,Chandra Mohan,190894,109754,20.77
+ls-1999,LS,India,1999,1999,official,236,Janjgir,GEN,Madhya Pradesh,664373,INC,Dr. Charandas Mahant,278931,BJP,Dr. Banshilal Mahto,264698,14233,2.14
+ls-1999,LS,India,1999,1999,official,237,Jhabua,GEN,Madhya Pradesh,600380,INC,Kantilal Bhuriya,371842,BJP,Dilipsingh Bhuriya,222465,149377,24.88
+ls-1999,LS,India,1999,1999,official,238,Kanker,GEN,Madhya Pradesh,574090,BJP,Sohan Potai,318040,INC,Chhabila Arvind Netam,229849,88191,15.36
+ls-1999,LS,India,1999,1999,official,239,Khajuraho,GEN,Madhya Pradesh,733841,INC,Satyavrat Chaturvedi ( Vinod Bhaiya ),335861,BJP,Akhand Pratap Singh Yadav,254724,81137,11.06
+ls-1999,LS,India,1999,1999,official,240,Khandwa,GEN,Madhya Pradesh,620707,BJP,Nandkumarsingh Chouhan ( Nandu Bhaiya ),364161,INC,Tanvant Singh Keer,238058,126103,20.32
+ls-1999,LS,India,1999,1999,official,241,Khargone,GEN,Madhya Pradesh,685899,INC,Tarachand Patel,354133,BJP,Balkrishna Bauji Patidar,315987,38146,5.56
+ls-1999,LS,India,1999,1999,official,242,Mahasamund,GEN,Madhya Pradesh,682047,INC,Shyama Charan Shukla,340635,BJP,"Chandra Shekhar Sahu "" Champu""",325200,15435,2.26
+ls-1999,LS,India,1999,1999,official,243,Mandla,GEN,Madhya Pradesh,482338,BJP,Faggan Singh Kulaste,232042,INC,Devendra Tekam,225470,6572,1.36
+ls-1999,LS,India,1999,1999,official,244,Mandsaur,GEN,Madhya Pradesh,745366,BJP,Dr. Lakshaminarayan Pandey,395928,INC,Rajendra Singh Gautam,340443,55485,7.44
+ls-1999,LS,India,1999,1999,official,245,Morena,GEN,Madhya Pradesh,496736,BJP,Ashok Chhaviram Argal,210790,INC,Gopal Das,148564,62226,12.53
+ls-1999,LS,India,1999,1999,official,246,Raigarh,GEN,Madhya Pradesh,570022,BJP,Vishnudeo Sai,276244,INC,Pushpa Devi Singh,270471,5773,1.01
+ls-1999,LS,India,1999,1999,official,247,Raipur,GEN,Madhya Pradesh,660930,BJP,Ramesh Bais,354736,INC,Jugal Kishore Sahu,274676,80060,12.11
+ls-1999,LS,India,1999,1999,official,248,Rajgarh,GEN,Madhya Pradesh,664162,INC,Laxman Singh,354234,BJP,Nitish Bhardwaj,288541,65693,9.89
+ls-1999,LS,India,1999,1999,official,249,Rajnandgaon,GEN,Madhya Pradesh,591992,BJP,Dr. Raman,304611,INC,Motilal Vora,277896,26715,4.51
+ls-1999,LS,India,1999,1999,official,250,Rewa,GEN,Madhya Pradesh,739776,INC,Sunder Lal Tiwari,275115,BSP,Ramalakhan Singh Patel,210964,64151,8.67
+ls-1999,LS,India,1999,1999,official,251,Sagar,GEN,Madhya Pradesh,536853,BJP,Virendra Kumar,293357,INC,Madhavi Chaudhary Advocate,232884,60473,11.26
+ls-1999,LS,India,1999,1999,official,252,Sarangarh,GEN,Madhya Pradesh,674884,BJP,P. R. Khute,281769,INC,Parasram Bhardwaj,230010,51759,7.67
+ls-1999,LS,India,1999,1999,official,253,Sarguja,GEN,Madhya Pradesh,580351,INC,Khel Sai Singh,297778,BJP,Larang Sai,236352,61426,10.58
+ls-1999,LS,India,1999,1999,official,254,Satna,GEN,Madhya Pradesh,617860,BJP,Ramanand Singh,217932,INC,Rajendra Kumar Singh,214527,3405,0.55
+ls-1999,LS,India,1999,1999,official,255,Seoni,GEN,Madhya Pradesh,586552,BJP,Ram Naresh Tripathi,282891,INC,Vimla Verma,266957,15934,2.72
+ls-1999,LS,India,1999,1999,official,256,Shahdol,GEN,Madhya Pradesh,583816,BJP,Dalpat Singh,262229,INC,Ajit Jogi,242328,19901,3.41
+ls-1999,LS,India,1999,1999,official,257,Shajapur,GEN,Madhya Pradesh,753559,BJP,Thavarchand Gehlot,387607,INC,Radhakishan Malviya,352941,34666,4.6
+ls-1999,LS,India,1999,1999,official,258,Sidhi,GEN,Madhya Pradesh,606876,BJP,Chandra Pratap Singh ( Baba Sahab),264981,INC,Tilakraj Singh,260126,4855,0.8
+ls-1999,LS,India,1999,1999,official,259,Ujjain,GEN,Madhya Pradesh,664097,BJP,Dr. Satyanarayan Jatiya,360103,INC,Tulasiram Silawat,292065,68038,10.25
+ls-1999,LS,India,1999,1999,official,260,Vidisha,GEN,Madhya Pradesh,647645,BJP,Shivraj Singh,360421,INC,Jasvant Singh,278024,82397,12.72
+ls-1999,LS,India,1999,1999,official,261,Ahmednagar,GEN,Maharashtra,731858,BJP,Dilipkumar Mansukhlal Gandhi,278508,NCP,Maruti Deoram Alias Dada Patil Shelke,250051,28457,3.89
+ls-1999,LS,India,1999,1999,official,262,Akola,GEN,Maharashtra,671649,BBM,Ambedkar Prakash Yashwant,272243,BJP,Fundkar Pandurang Pundlik,263527,8716,1.3
+ls-1999,LS,India,1999,1999,official,263,Amravati,GEN,Maharashtra,663733,SHS,Gudhe Anant Mahadeoappa,319916,RPI,R S Gavai,246264,73652,11.1
+ls-1999,LS,India,1999,1999,official,264,Aurangabad,GEN,Maharashtra,854279,SHS,Chandrakant Khaire,383144,INC,A R Antulay,327255,55889,6.54
+ls-1999,LS,India,1999,1999,official,265,Baramati,GEN,Maharashtra,884108,NCP,Pawar Sharadchandra Govindrao,510928,BJP,Dr Pratibha Lokhande,212025,298903,33.81
+ls-1999,LS,India,1999,1999,official,266,Beed,GEN,Maharashtra,808082,BJP,Jaysingrao Gaikwad Patil,332946,NCP,Radhakrishna Sahebrao Patil,281756,51190,6.33
+ls-1999,LS,India,1999,1999,official,267,Bhandara,GEN,Maharashtra,635954,BJP,Chunnilalbhau Thakur,291355,INC,Dr Shrikant Jichkar,287536,3819,0.6
+ls-1999,LS,India,1999,1999,official,268,Buldhana,GEN,Maharashtra,705137,SHS,Adsul Anandrao Vithoba,294922,INC,Wasnik Mukul Balkrushna,249915,45007,6.38
+ls-1999,LS,India,1999,1999,official,269,Chandrapur,GEN,Maharashtra,788538,INC,Puglia Nareshkumar Chunnalal,328522,BJP,Ahir Hansraj Gangaram,325685,2837,0.36
+ls-1999,LS,India,1999,1999,official,270,Chimur,GEN,Maharashtra,741450,BJP,Diwathe Namdeo Harbaji,300601,RPI,Kawade Jogendra Laxman,230561,70040,9.45
+ls-1999,LS,India,1999,1999,official,271,Dahanu,GEN,Maharashtra,659988,BJP,Adv Chintaman Wanaga,240866,INC,Shingada Damodar Barku,178596,62270,9.44
+ls-1999,LS,India,1999,1999,official,272,Dhule,GEN,Maharashtra,586271,BJP,Ramdas Rupla Gavit,211904,INC,Chaure Bapu Hari,198919,12985,2.21
+ls-1999,LS,India,1999,1999,official,273,Erandol,GEN,Maharashtra,628895,BJP,Annasaheb M K Patil,297867,NCP,More Vasantrao Jivanrao,193411,104456,16.61
+ls-1999,LS,India,1999,1999,official,274,Hingoli,GEN,Maharashtra,689137,SHS,Mane Shivaji Gyanbarao,297284,BBM,Adv Pole Naik Madhavrao Bahenarao,216629,80655,11.7
+ls-1999,LS,India,1999,1999,official,275,Ichalkaranji,GEN,Maharashtra,778613,NCP,Mane Nivedita Sambhajirao,337657,INC,Awade Kallappa Baburao,324845,12812,1.65
+ls-1999,LS,India,1999,1999,official,276,Jalgaon,GEN,Maharashtra,701485,BJP,Y G Mahajan Sir,334020,INC,Dr Ulhas Vasudeo Patil,244225,89795,12.8
+ls-1999,LS,India,1999,1999,official,277,Jalna,GEN,Maharashtra,726464,BJP,Danve Raosaheb Dadarao Patil,332620,INC,Bangar Dnyandeo Ganpatrao,208711,123909,17.06
+ls-1999,LS,India,1999,1999,official,278,Karad,GEN,Maharashtra,733926,NCP,Shriniwas Dadasaheb Patil (Marulkar),350504,INC,Chavan Prithviraj Dajisaheb,227543,122961,16.75
+ls-1999,LS,India,1999,1999,official,279,Khed,GEN,Maharashtra,661353,NCP,Ashok Namdeorao Mohol,284476,SHS,Bankhele Kisanrao Baburao,227458,57018,8.62
+ls-1999,LS,India,1999,1999,official,280,Kolaba,GEN,Maharashtra,660244,PWPI,Ramsheth Thakur,274361,SHS,D B Patil,231264,43097,6.53
+ls-1999,LS,India,1999,1999,official,281,Kolhapur,GEN,Maharashtra,747874,NCP,Mandlik Sadashivrao Dadoba,346459,INC,Udaysingrao Gaikwad,237549,108910,14.56
+ls-1999,LS,India,1999,1999,official,282,Kopargaon,GEN,Maharashtra,652938,SHS,E V Alias Balasaheb Vikhe Patil,253498,NCP,Solicitor Gulabrao Sakharam Shelke,206083,47415,7.26
+ls-1999,LS,India,1999,1999,official,283,Latur,GEN,Maharashtra,753109,INC,Patil Shivraj Vishwanath,314213,BJP,Dr Gopalrao Vitthlrao Patil,273923,40290,5.35
+ls-1999,LS,India,1999,1999,official,284,Malegaon,GEN,Maharashtra,653567,JDS,Mahale Haribahu Shankar,191643,BJP,Gangurde Babanrao Lahanu,187251,4392,0.67
+ls-1999,LS,India,1999,1999,official,285,Mumbai North,GEN,Maharashtra,918529,BJP,Ram Naik,517941,INC,Chandrakant Gosalia,363805,154136,16.78
+ls-1999,LS,India,1999,1999,official,286,Mumbai North Central,GEN,Maharashtra,528291,SHS,Manohar Gajanan Joshi,294935,BBM,Raja Dhale,125940,168995,31.99
+ls-1999,LS,India,1999,1999,official,287,Mumbai North East,GEN,Maharashtra,929417,BJP,Kirit Somaiya,400436,INC,Adv Kamat Gurudas,393160,7276,0.78
+ls-1999,LS,India,1999,1999,official,288,Mumbai North West,GEN,Maharashtra,700414,INC,Sunil Dutt,366669,SHS,Madhukar Sirpotdar,281130,85539,12.21
+ls-1999,LS,India,1999,1999,official,289,Mumbai South,GEN,Maharashtra,302999,BJP,Jayawanti Mehta,144945,INC,Murli Deora,134702,10243,3.38
+ls-1999,LS,India,1999,1999,official,290,Mumbai South Central,GEN,Maharashtra,367605,SHS,Mohan Vishnu Rawale,176323,SP,A Majeed Memon Advocate,97287,79036,21.5
+ls-1999,LS,India,1999,1999,official,291,Nagpur,GEN,Maharashtra,810365,INC,Vilas Muttemwar,424450,BJP,Vinod Yashwantrao Gudadhe (Patil),351755,72695,8.97
+ls-1999,LS,India,1999,1999,official,292,Nanded,GEN,Maharashtra,732365,INC,Khatgaonkar Bhaskarrao Bapurao,327293,BJP,Dr Dhanajirao Vyankatrao Deshmukh,294718,32575,4.45
+ls-1999,LS,India,1999,1999,official,293,Nandurbar,GEN,Maharashtra,671039,INC,Gavit Manikrao Hodlya,318338,NCP,Vasave Govind Ramu,187567,130771,19.49
+ls-1999,LS,India,1999,1999,official,294,Nashik,GEN,Maharashtra,728772,SHS,Dhikale Uttamrao Nathuji,303084,NCP,Patil Madhav Balwant,266272,36812,5.05
+ls-1999,LS,India,1999,1999,official,295,Osmanabad,GEN,Maharashtra,633187,SHS,Kamble Shivaji Vithalrao,252135,NCP,Deokule Kanifnath,193062,59073,9.33
+ls-1999,LS,India,1999,1999,official,296,Pandharpur,GEN,Maharashtra,780810,IND,Athawale Ramdas Bandu,413115,BJP,Kshirsagar Nagnath Dattatray,153610,259505,33.24
+ls-1999,LS,India,1999,1999,official,297,Parbhani,GEN,Maharashtra,661632,SHS,Jadhav Suresh Ramrao,254019,INC,Jamkar Raosaheb Bapusaheb,210354,43665,6.6
+ls-1999,LS,India,1999,1999,official,298,Pune,GEN,Maharashtra,732654,BJP,Pradeep Rawat,304955,INC,Joshi Mohan,213670,91285,12.46
+ls-1999,LS,India,1999,1999,official,299,Rajapur,GEN,Maharashtra,433752,SHS,Suresh Prabhakar Prabhu,221523,JDS,Prof Madhu Dandavate,108673,112850,26.02
+ls-1999,LS,India,1999,1999,official,300,Ramtek,GEN,Maharashtra,655822,SHS,Subodh Mohite,242454,INC,Purohit Banwari Lal,230765,11689,1.78
+ls-1999,LS,India,1999,1999,official,301,Ratnagiri,GEN,Maharashtra,534353,SHS,Anant Gangaram Geete,293834,NCP,Ziman Sujit Bhagoji,178491,115343,21.59
+ls-1999,LS,India,1999,1999,official,302,Sangli,GEN,Maharashtra,706357,INC,Prakash (Bapu) Vasantrao Patil,381162,NCP,Patil Madan Vishwanath,220602,160560,22.73
+ls-1999,LS,India,1999,1999,official,303,Satara,GEN,Maharashtra,669261,NCP,Laxmanrao Pandurang Jadhav Patil,313325,SHS,Hindurao N Naik Nimbalkar,188554,124771,18.64
+ls-1999,LS,India,1999,1999,official,304,Sholapur,GEN,Maharashtra,603446,INC,Shinde Sushilkumar Sambhajirao,286578,BJP,Valyal Lingraj Balirayya,209583,76995,12.76
+ls-1999,LS,India,1999,1999,official,305,Thane,GEN,Maharashtra,905683,SHS,Prakash Paranjpe,391446,INC,Nakul Patil,291763,99683,11.01
+ls-1999,LS,India,1999,1999,official,306,Wardha,GEN,Maharashtra,651394,INC,Prabha Rao,249564,BJP,Suresh Ganpatrao Waghmare,242502,7062,1.08
+ls-1999,LS,India,1999,1999,official,307,Washim,GEN,Maharashtra,639415,SHS,Bhawana Pundlikrao Gawali,244820,INC,Deshmukh Anantrao Vitthalrao,205225,39595,6.19
+ls-1999,LS,India,1999,1999,official,308,Yavatmal,GEN,Maharashtra,615388,INC,Uttamrao Deorao Patil,258535,BJP,Haribhau Rathod,243309,15226,2.47
+ls-1999,LS,India,1999,1999,official,309,Inner Manipur,GEN,Manipur,442686,MSCP,Th. Chaoba,153387,MPP,Khaidem Mani,145192,8195,1.85
+ls-1999,LS,India,1999,1999,official,310,Outer Manipur,GEN,Manipur,450962,NCP,Holkhomang,120559,INC,R. K. Theko,91750,28809,6.39
+ls-1999,LS,India,1999,1999,official,311,Shillong,GEN,Meghalaya,364856,INC,Paty Ripple Kyndiah,145020,UDP,Stanlington D. Khongwir,107197,37823,10.37
+ls-1999,LS,India,1999,1999,official,312,Tura,GEN,Meghalaya,289474,NCP,Purno Agitok Sangma,182883,INC,Atul C Marak,69304,113579,39.24
+ls-1999,LS,India,1999,1999,official,313,Mizoram,GEN,Mizoram,291786,IND,Vanlalzawma,171557,MDF,Rokamlova,8444,163113,55.9
+ls-1999,LS,India,1999,1999,official,314,Nagaland,GEN,Nagaland,725045,INC,K. Asungba Sangtam,516119,IND,Shurhozelie,162521,353598,48.77
+ls-1999,LS,India,1999,1999,official,315,Aska,GEN,Odisha,479497,BJD,Naveen Patnaik,359178,CPI,Duti Krushna Panda,102442,256736,53.54
+ls-1999,LS,India,1999,1999,official,316,Balasore,GEN,Odisha,768769,BJP,Mahameghabahan Aira Kharabela Swain,428070,INC,Subhankar Mohapatra,291698,136372,17.74
+ls-1999,LS,India,1999,1999,official,317,Berhampore,GEN,Odisha,570556,BJP,Anadicharan Sahu,310704,INC,Jayanti Patnaik,256581,54123,9.49
+ls-1999,LS,India,1999,1999,official,318,Bhadrak,GEN,Odisha,679138,BJD,Arjun Charan Sethi,397450,INC,Panchanan Mandal,275017,122433,18.03
+ls-1999,LS,India,1999,1999,official,319,Bhubaneswar,GEN,Odisha,625342,BJD,Prasanna Kumar Patasani,414429,INC,Bibhuti Bhusan Singh Mardaraj,180468,233961,37.41
+ls-1999,LS,India,1999,1999,official,320,Bolangir,GEN,Odisha,632212,BJP,Sangeeta Kumari Singh Deo,404988,INC,Sarat Pattanayak,224009,180979,28.63
+ls-1999,LS,India,1999,1999,official,321,Cuttack,GEN,Odisha,619806,BJD,Bhartruhari Mahtab,407603,INC,Kanhu Charan Lenka,202286,205317,33.13
+ls-1999,LS,India,1999,1999,official,322,Deogarh,GEN,Odisha,680720,BJP,Debendra Pradhan,376412,INC,Hemananda Biswal,289543,86869,12.76
+ls-1999,LS,India,1999,1999,official,323,Dhenkanal,GEN,Odisha,604130,INC,Kamakhya Prasad Singh Deo,248824,BJD,Tathagata Satpathy,245150,3674,0.61
+ls-1999,LS,India,1999,1999,official,324,Jagatsinghpur,GEN,Odisha,758422,BJD,Trilochan Kanungo,439888,INC,Ranjib Biswal,290606,149282,19.68
+ls-1999,LS,India,1999,1999,official,325,Jajpur,GEN,Odisha,593767,BJD,Jagannath Mallik,351442,INC,Rama Chandra Mallik,237458,113984,19.2
+ls-1999,LS,India,1999,1999,official,326,Kalahandi,GEN,Odisha,642488,BJP,Bikram Keshari Deo,371911,INC,Bhakta Charan Das,255392,116519,18.14
+ls-1999,LS,India,1999,1999,official,327,Kendrapara,GEN,Odisha,620436,BJD,Prabhat Kumar Samantray,359314,INC,Archana Nayak,257175,102139,16.46
+ls-1999,LS,India,1999,1999,official,328,Keonjhar,GEN,Odisha,617995,BJP,Ananta Nayak,416956,INC,Yashobant Singh Laguri,194403,222553,36.01
+ls-1999,LS,India,1999,1999,official,329,Koraput,GEN,Odisha,551432,INC,Hema Gamang,277555,BJD,Jayaram Pangi,265401,12154,2.2
+ls-1999,LS,India,1999,1999,official,330,Mayurbhanj,GEN,Odisha,568018,BJP,Salkhan Murmu,300902,INC,Kamala Tiria,152820,148082,26.07
+ls-1999,LS,India,1999,1999,official,331,Nabarangpur,GEN,Odisha,653503,BJP,Parsuram Majhi,331863,INC,Chandra Sekhar Majhi,315712,16151,2.47
+ls-1999,LS,India,1999,1999,official,332,Phulbani,GEN,Odisha,630796,BJD,Padmanava Behera,357024,INC,Mrutyunjaya Nayak,254809,102215,16.2
+ls-1999,LS,India,1999,1999,official,333,Puri,GEN,Odisha,660679,BJD,Braja Kishore Tripathy,383060,INC,Jayant Das,251315,131745,19.94
+ls-1999,LS,India,1999,1999,official,334,Sambalpur,GEN,Odisha,692437,BJD,Prasanna Acharya,398597,INC,Dr. Krupasindhu Bhoi,271634,126963,18.34
+ls-1999,LS,India,1999,1999,official,335,Sundargarh,GEN,Odisha,617578,BJP,Jual Oram,326395,INC,Christopher Ekka,173881,152514,24.7
+ls-1999,LS,India,1999,1999,official,336,Puducherry,GEN,Puducherry,444162,INC,M O H Farook,165108,PMK,M Ramadass,140920,24188,5.45
+ls-1999,LS,India,1999,1999,official,337,Amritsar,GEN,Punjab,589600,INC,Raghunandan Lal Bhatia,296533,BJP,Daya Singh Sodhi,264534,31999,5.43
+ls-1999,LS,India,1999,1999,official,338,Bhatinda,GEN,Punjab,650568,CPI,Bhan Singh Bhaura,327484,SAD,Chatin Singh Samaon,266167,61317,9.43
+ls-1999,LS,India,1999,1999,official,339,Faridkot,GEN,Punjab,871696,INC,Jagmeet Singh Brar,418454,SAD,Sukhbir Singh Badal,413306,5148,0.59
+ls-1999,LS,India,1999,1999,official,340,Ferozepur,GEN,Punjab,750100,SAD,Zora Singh,300236,INC,Hans Raj,285375,14861,1.98
+ls-1999,LS,India,1999,1999,official,341,Gurdaspur,GEN,Punjab,670569,BJP,Vinod Khanna,315267,INC,Sukhbuns Kaur,313868,1399,0.21
+ls-1999,LS,India,1999,1999,official,342,Hoshiarpur,GEN,Punjab,580260,INC,Charanjit Singh Channi,256211,BJP,Kamal Chaudhry,222005,34206,5.89
+ls-1999,LS,India,1999,1999,official,343,Jalandhar,GEN,Punjab,562889,INC,Balbir Singh,267209,SAD,Prabhjot Kaur,232643,34566,6.14
+ls-1999,LS,India,1999,1999,official,344,Ludhiana,GEN,Punjab,666969,INC,Gurcharan Singh Galib,346928,SAD,Amrik Singh Aliwal,241682,105246,15.78
+ls-1999,LS,India,1999,1999,official,345,Patiala,GEN,Punjab,781794,INC,Preneet Kaur,360125,SAD,Surjit Singh Rakhra,281217,78908,10.09
+ls-1999,LS,India,1999,1999,official,346,Phillaur,GEN,Punjab,613664,INC,Santosh Chowdhary,263540,DBSM,Satnam Singh Kainth,236962,26578,4.33
+ls-1999,LS,India,1999,1999,official,347,Ropar,GEN,Punjab,711537,INC,Shamsher Singh,326651,SAD,Satwinder Kaur,249270,77381,10.88
+ls-1999,LS,India,1999,1999,official,348,Sangrur,GEN,Punjab,710204,SAD(M),Simranjit Singh Mann,298846,SAD,Surjit Singh Barnala,212529,86317,12.15
+ls-1999,LS,India,1999,1999,official,349,Tarn Taran,GEN,Punjab,594675,SAD,Tarlochan Singh Tur,305899,INC,Gurinder Partap Singh Kairon,230282,75617,12.72
+ls-1999,LS,India,1999,1999,official,350,Ajmer,GEN,Rajasthan,593468,BJP,Rasa Singh Rawat,332130,INC,Prabha Thakur,244456,87674,14.77
+ls-1999,LS,India,1999,1999,official,351,Alwar,GEN,Rajasthan,614866,BJP,Dr. Jaswant Singh Yadav,325556,INC,Mahendra Kumari,267628,57928,9.42
+ls-1999,LS,India,1999,1999,official,352,Banswara,GEN,Rajasthan,643286,INC,Tara Chand Bhagora,379775,JDU,Rajesh Katara,263511,116264,18.07
+ls-1999,LS,India,1999,1999,official,353,Barmer,GEN,Rajasthan,829839,INC,Col. Sonaram Choudhary,424150,BJP,Manvendra Singh,392010,32140,3.87
+ls-1999,LS,India,1999,1999,official,354,Bayana,GEN,Rajasthan,494960,BJP,Bahadur Singh,234881,INC,Jagnnath Pahadia,201549,33332,6.73
+ls-1999,LS,India,1999,1999,official,355,Bharatpur,GEN,Rajasthan,573657,BJP,Vishvendra Singh,277460,INC,Jagat Singh,180442,97018,16.91
+ls-1999,LS,India,1999,1999,official,356,Bhilwara,GEN,Rajasthan,600245,BJP,Vijayendra Pal Singh,287858,INC,Rampal Upadhayay,273629,14229,2.37
+ls-1999,LS,India,1999,1999,official,357,Bikaner,GEN,Rajasthan,935738,INC,Rameshwar Lal Dudi,493638,BJP,Rampratap Kasania,399129,94509,10.1
+ls-1999,LS,India,1999,1999,official,358,Chittorgarh,GEN,Rajasthan,808929,BJP,Shrichand Kriplani,411275,INC,Udai Lal Anjana,373898,37377,4.62
+ls-1999,LS,India,1999,1999,official,359,Churu,GEN,Rajasthan,680334,BJP,Ram Singh Kaswan,351485,INC,Narendra Budania,304676,46809,6.88
+ls-1999,LS,India,1999,1999,official,360,Dausa,GEN,Rajasthan,745274,INC,Rajesh Pilot,372263,BJP,Rohitash Kumar Sharma,365361,6902,0.93
+ls-1999,LS,India,1999,1999,official,361,Ganganagar,GEN,Rajasthan,665090,BJP,Nihal Chand,358104,INC,Er. Shankar Pannu,262218,95886,14.42
+ls-1999,LS,India,1999,1999,official,362,Jaipur,GEN,Rajasthan,808422,BJP,Girdhari Lal Bhargava,456720,INC,Pt. Raghu Sharma,314930,141790,17.54
+ls-1999,LS,India,1999,1999,official,363,Jalore,GEN,Rajasthan,643506,INC,Buta Singh,330652,BJP,Bangaru Laxman,294728,35924,5.58
+ls-1999,LS,India,1999,1999,official,364,Jhalawar,GEN,Rajasthan,677725,BJP,Vansundhara Raje,409574,INC,Dr. Abrar Ahmed,257159,152415,22.49
+ls-1999,LS,India,1999,1999,official,365,Jhunjhunu,GEN,Rajasthan,668984,INC,Sisram Ola,330198,BJP,Banwari Lal Saini,253850,76348,11.41
+ls-1999,LS,India,1999,1999,official,366,Jodhpur,GEN,Rajasthan,656353,BJP,Jaswant Singh Vishnoi,368463,INC,Poonam Chand,255166,113297,17.26
+ls-1999,LS,India,1999,1999,official,367,Kota,GEN,Rajasthan,628960,BJP,Raghuveer Singh Koushal,320205,INC,Ramnaryan Meena,295436,24769,3.94
+ls-1999,LS,India,1999,1999,official,368,Nagaur,GEN,Rajasthan,704758,INC,Ram Raghunath Choudhary,267914,BSP,Vijay Poonia,219445,48469,6.88
+ls-1999,LS,India,1999,1999,official,369,Pali,GEN,Rajasthan,532861,BJP,Pusp Jain,316844,INC,Mithalal Jain,212178,104666,19.64
+ls-1999,LS,India,1999,1999,official,370,Salumber,GEN,Rajasthan,562458,INC,Bheru Lal Meena,290976,BJP,Mahaveer Bhagora,238568,52408,9.32
+ls-1999,LS,India,1999,1999,official,371,Sawai Madhopur,GEN,Rajasthan,511512,BJP,Jaskaur,277014,INC,Usha,218133,58881,11.51
+ls-1999,LS,India,1999,1999,official,372,Sikar,GEN,Rajasthan,749404,BJP,Subhash Maharia,341445,INC,Balram,313272,28173,3.76
+ls-1999,LS,India,1999,1999,official,373,Tonk,GEN,Rajasthan,539462,BJP,Shyam Lal Bansiwal,287265,INC,Dwarka Prasad Bairwa,238907,48358,8.96
+ls-1999,LS,India,1999,1999,official,374,Udaipur,GEN,Rajasthan,700086,INC,Girija Vyas,372645,BJP,Shanti Lal Chaplot,318554,54091,7.73
+ls-1999,LS,India,1999,1999,official,375,Sikkim,GEN,Sikkim,205133,SDF,Bhim Pd. Dahal,107828,SSP,Satish Chandra Rai,86466,21362,10.41
+ls-1999,LS,India,1999,1999,official,376,Arakkonam,GEN,Tamil Nadu,726113,DMK,"Jagathrakshakan, S. Dr",346520,INC,"Thangka Balu, K.V",250876,95644,13.17
+ls-1999,LS,India,1999,1999,official,377,Chengalpattu,GEN,Tamil Nadu,688181,PMK,"Moorthy, A.K",330551,AIADMK,"Thirunavukkarasu, S.S",317740,12811,1.86
+ls-1999,LS,India,1999,1999,official,378,Chennai Central,GEN,Tamil Nadu,617900,DMK,Murasoli Maran,364565,AIADMK,"Abdul Latheef, M",227616,136949,22.16
+ls-1999,LS,India,1999,1999,official,379,Chennai North,GEN,Tamil Nadu,879473,DMK,"Kuppusamy, C",471101,CPI(M),"Soundara Rajan, A",311312,159789,18.17
+ls-1999,LS,India,1999,1999,official,380,Chennai South,GEN,Tamil Nadu,936522,DMK,"Baalu, T.R",562221,INC,"Dhandayudhapani, V",322037,240184,25.65
+ls-1999,LS,India,1999,1999,official,381,Chidambaram,GEN,Tamil Nadu,724305,PMK,"Ponnuswamy, E",345331,AITC,"Thirumavalavan, R",225768,119563,16.51
+ls-1999,LS,India,1999,1999,official,382,Coimbatore,GEN,Tamil Nadu,874020,BJP,"Radhakrishnan, C.P",430068,CPI,"Nallakannu, R",375991,54077,6.19
+ls-1999,LS,India,1999,1999,official,383,Cuddalore,GEN,Tamil Nadu,709744,DMK,"Sankar, Adhi",358367,AIADMK,Dhamotharan M.C,284414,73953,10.42
+ls-1999,LS,India,1999,1999,official,384,Dharmapuri,GEN,Tamil Nadu,715771,PMK,"Elangovan, P.D",340162,AIADMK,"Munusamy, K.P",314622,25540,3.57
+ls-1999,LS,India,1999,1999,official,385,Dindigul,GEN,Tamil Nadu,673398,AIADMK,"Sreenivaasan, C",294794,DMK,"Chandrasekar, S",274451,20343,3.02
+ls-1999,LS,India,1999,1999,official,386,Gobichettipalayam,GEN,Tamil Nadu,626188,AIADMK,"Kaliappan, K.K",299184,DMK,"Arjun, K.G.S",269172,30012,4.79
+ls-1999,LS,India,1999,1999,official,387,Karur,GEN,Tamil Nadu,719705,AIADMK,"Chinnasamy, M",334407,DMK,"Palanisamy, K.C",331560,2847,0.4
+ls-1999,LS,India,1999,1999,official,388,Krishnagiri,GEN,Tamil Nadu,681212,DMK,"Vetriselvan, V",347737,AIADMK,"Thambidurai, M",315913,31824,4.67
+ls-1999,LS,India,1999,1999,official,389,Madurai,GEN,Tamil Nadu,748404,CPI(M),"Mohan, P",328204,DMK,"Muthuramalingam, Pon",290981,37223,4.97
+ls-1999,LS,India,1999,1999,official,390,Mayiladuthurai,GEN,Tamil Nadu,645796,INC,Manishankar Aiyar,324384,PMK,Arul Mozhi P.D,284253,40131,6.21
+ls-1999,LS,India,1999,1999,official,391,Nagapattinam,GEN,Tamil Nadu,685512,DMK,"Vijayan, A.K.S",342237,CPI,Selvarasu.M,319771,22466,3.28
+ls-1999,LS,India,1999,1999,official,392,Nagercoil,GEN,Tamil Nadu,612095,BJP,"Radhakrishnan,P",307319,INC,Dennis.N,161676,145643,23.79
+ls-1999,LS,India,1999,1999,official,393,Nilgiris,GEN,Tamil Nadu,729000,BJP,"Mathan, M. (Alias) Master Mathan, M",369828,INC,"Prabhu, R",345869,23959,3.29
+ls-1999,LS,India,1999,1999,official,394,Palani,GEN,Tamil Nadu,665079,AIADMK,"Kumarasamy, P",297850,MDMK,"Ganesha Murthi, A",269133,28717,4.32
+ls-1999,LS,India,1999,1999,official,395,Perambalur,GEN,Tamil Nadu,680615,DMK,Raja. A,330675,AIADMK,Rajarethinam.P,262624,68051,10.0
+ls-1999,LS,India,1999,1999,official,396,Periyakulam,GEN,Tamil Nadu,658531,AIADMK,Dhinakaran,303881,DMK,"Selvendran, P",258075,45806,6.96
+ls-1999,LS,India,1999,1999,official,397,Pollachi,GEN,Tamil Nadu,602641,MDMK,"Krishnan, Dr.C",293038,AIADMK,"Thiyagarajan, M",283523,9515,1.58
+ls-1999,LS,India,1999,1999,official,398,Pudukkottai,GEN,Tamil Nadu,770004,MADMK,Thirunavukarasu,396216,INC,Singaaravadivel.S,331914,64302,8.35
+ls-1999,LS,India,1999,1999,official,399,Ramanathapuram,GEN,Tamil Nadu,629308,AIADMK,Malaisamy.K,265253,DMK,Bhavani Rajenthiran.M.S.K. (Tmt.),258607,6646,1.06
+ls-1999,LS,India,1999,1999,official,400,Rasipuram,GEN,Tamil Nadu,629001,AIADMK,"Saroja, V. Dr",304843,PMK,"Uthayarasu, S",266438,38405,6.11
+ls-1999,LS,India,1999,1999,official,401,Salem,GEN,Tamil Nadu,731277,AIADMK,"Selvaganapathi, T.M",363689,TRC,"Ramamurthy, K",338278,25411,3.47
+ls-1999,LS,India,1999,1999,official,402,Sivaganga,GEN,Tamil Nadu,611631,INC,"Sudarsana Natchiappan,E.M",246078,BJP,Raja.H,222267,23811,3.89
+ls-1999,LS,India,1999,1999,official,403,Sivakasi,GEN,Tamil Nadu,779464,MDMK,Vaiko,325829,AIADMK,"Ramaswami, V.Justice",251048,74781,9.59
+ls-1999,LS,India,1999,1999,official,404,Sriperumbudur,GEN,Tamil Nadu,729076,DMK,"Krishnaswamy, A",385558,AIADMK,"Venugopal, K",310556,75002,10.29
+ls-1999,LS,India,1999,1999,official,405,Tenkasi,GEN,Tamil Nadu,666826,AIADMK,"Murugesan,S",239241,BJP,"Arumugam,S",238354,887,0.13
+ls-1999,LS,India,1999,1999,official,406,Thanjavur,GEN,Tamil Nadu,650394,DMK,Palanimanickam.S.S,295191,AIADMK,Thangamuthu.K,262177,33014,5.08
+ls-1999,LS,India,1999,1999,official,407,Tindivanam,GEN,Tamil Nadu,683601,MDMK,Ramachandran N. Gingee,323234,INC,Ramamurthee K,313884,9350,1.37
+ls-1999,LS,India,1999,1999,official,408,Tiruchendur,GEN,Tamil Nadu,535072,DMK,"Jayaseelan, A.D.K",237630,AIADMK,"Rajan, Dr.B.P",177964,59666,11.15
+ls-1999,LS,India,1999,1999,official,409,Tiruchengode,GEN,Tamil Nadu,834015,MDMK,"Kannappan, M",409293,AIADMK,"Palanisamy, K",404737,4556,0.55
+ls-1999,LS,India,1999,1999,official,410,Tiruchirappalli,GEN,Tamil Nadu,691136,BJP,Arangarajan Kumaramangalam,377450,INC,"Adaikalaraj,L",288253,89197,12.91
+ls-1999,LS,India,1999,1999,official,411,Tirunelveli,GEN,Tamil Nadu,600554,AIADMK,"Pandian, P.H",249975,DMK,"Geetha Jeevan, P",223481,26494,4.41
+ls-1999,LS,India,1999,1999,official,412,Tiruppattur,GEN,Tamil Nadu,731615,DMK,"Venugopal, D",350703,AIADMK,"Rajendran, A.R",327090,23613,3.23
+ls-1999,LS,India,1999,1999,official,413,Vandavasi,GEN,Tamil Nadu,668725,PMK,"Durai, M",345539,INC,"Krishnasswamy, M",286342,59197,8.85
+ls-1999,LS,India,1999,1999,official,414,Vellore,GEN,Tamil Nadu,689375,PMK,"Shanmugam, N.T",324547,AIADMK,Mohamed Asif,298862,25685,3.73
+ls-1999,LS,India,1999,1999,official,415,Tripura East,GEN,Tripura,556251,CPI(M),Baju Ban Riyan,304934,BJP,Jishnu Dev Varma,154434,150500,27.06
+ls-1999,LS,India,1999,1999,official,416,Tripura West,GEN,Tripura,648343,CPI(M),Samar Chowdhury,372553,AITC,Sudhir Ranjan Majumdar,174154,198399,30.6
+ls-1999,LS,India,1999,1999,official,417,Agra,GEN,Uttar Pradesh,642426,SP,Raj Babbar,288558,BJP,Bhagwan Shankar Rawat,175576,112982,17.59
+ls-1999,LS,India,1999,1999,official,418,Akbarpur,GEN,Uttar Pradesh,738870,BSP,Mayawati,259762,SP,Ram Piyare Suman,206376,53386,7.23
+ls-1999,LS,India,1999,1999,official,419,Aligarh,GEN,Uttar Pradesh,554097,BJP,Sheela Gautam,219313,BSP,Sahab Singh,138496,80817,14.59
+ls-1999,LS,India,1999,1999,official,420,Allahabad,GEN,Uttar Pradesh,648516,BJP,Dr. Murli Manohar Joshi,219114,SP,Kunwar Rewati Raman Singh Alias Maniji,148783,70331,10.84
+ls-1999,LS,India,1999,1999,official,421,Almora,GEN,Uttar Pradesh,397605,BJP,Bachi Singh Rawat,192388,INC,Harish Rawat,180929,11459,2.88
+ls-1999,LS,India,1999,1999,official,422,Amethi,GEN,Uttar Pradesh,624172,INC,Sonia Gandhi,418960,BJP,Dr.Sanjai Singh,118948,300012,48.07
+ls-1999,LS,India,1999,1999,official,423,Amroha,GEN,Uttar Pradesh,770196,BSP,Rashid Alvi,337919,BJP,Chetan Chauhan,244694,93225,12.1
+ls-1999,LS,India,1999,1999,official,424,Aonla,GEN,Uttar Pradesh,584999,SP,Kunwar Sarvraj Singh,195839,BJP,Rajveer Singh,178213,17626,3.01
+ls-1999,LS,India,1999,1999,official,425,Azamgarh,GEN,Uttar Pradesh,652880,SP,Rama Kant Yadav,227616,BSP,Akbar Ahmad Dumpy,200637,26979,4.13
+ls-1999,LS,India,1999,1999,official,426,Baghpat,GEN,Uttar Pradesh,742063,RLD,Ajit Singh,358069,BJP,Sompal,203650,154419,20.81
+ls-1999,LS,India,1999,1999,official,427,Bahraich,GEN,Uttar Pradesh,594588,BJP,Padamsen Chaudhary,223768,BSP,Arif Mohammad Khan,218017,5751,0.97
+ls-1999,LS,India,1999,1999,official,428,Ballia,GEN,Uttar Pradesh,610924,SJP(R),Chandra Shekhar,235946,BJP,Ram Krishna Urf Gopal,180271,55675,9.11
+ls-1999,LS,India,1999,1999,official,429,Balrampur,GEN,Uttar Pradesh,666280,SP,Rizvan Zaheer Alias Rijju Bhaiya,255267,BJP,Bhisham Shankar Tiwari Alias Kaushal Tiwari,235110,20157,3.03
+ls-1999,LS,India,1999,1999,official,430,Banda,GEN,Uttar Pradesh,578807,BSP,Ram Sajiwan,209995,SP,Shyam Charan Gupta,181364,28631,4.95
+ls-1999,LS,India,1999,1999,official,431,Bansgaon,GEN,Uttar Pradesh,598765,BJP,Raj Narayan Pasi,184684,SP,Subhawati Paswan,174996,9688,1.62
+ls-1999,LS,India,1999,1999,official,432,Barabanki,GEN,Uttar Pradesh,621034,SP,Ram Sagar,210958,BJP,Baij Nath Rawat,155680,55278,8.9
+ls-1999,LS,India,1999,1999,official,433,Bareilly,GEN,Uttar Pradesh,655509,BJP,Santosh Gangwar,292813,SP,Master Chhote Lal Gangwar,158113,134700,20.55
+ls-1999,LS,India,1999,1999,official,434,Basti,GEN,Uttar Pradesh,585359,BJP,Shriram Chauhan,174378,BSP,Lal Mani Prasad,172546,1832,0.31
+ls-1999,LS,India,1999,1999,official,435,Bijnor,GEN,Uttar Pradesh,704925,BJP,Sheeshram Singh Ravi,214266,SP,Omwati Devi,190566,23700,3.36
+ls-1999,LS,India,1999,1999,official,436,Bilhaur,GEN,Uttar Pradesh,632450,BJP,Shyam Bihari Mishra,192054,BSP,Raja Ram Pal,188831,3223,0.51
+ls-1999,LS,India,1999,1999,official,437,Budaun,GEN,Uttar Pradesh,604083,SP,Saleem Iqbal Shervani,236496,BJP,Shanti Devi Shakya,195182,41314,6.84
+ls-1999,LS,India,1999,1999,official,438,Bulandshahr,GEN,Uttar Pradesh,494757,BJP,Chhatra Pal,180102,INC,Saeedul Hassan,118173,61929,12.52
+ls-1999,LS,India,1999,1999,official,439,Chail,GEN,Uttar Pradesh,506746,BSP,Suresh Pasi,151557,BJP,Dr. Amrit Lal Bharti,122272,29285,5.78
+ls-1999,LS,India,1999,1999,official,440,Chandauli,GEN,Uttar Pradesh,726686,SP,Jawahar Lal Jaiswal,265412,BJP,Anand Ratna Maurya,191883,73529,10.12
+ls-1999,LS,India,1999,1999,official,441,Deoria,GEN,Uttar Pradesh,694139,BJP,Shri Prakash Mani,251814,SP,Mohan Singh,209673,42141,6.07
+ls-1999,LS,India,1999,1999,official,442,Domariyaganj,GEN,Uttar Pradesh,617151,BJP,Ram Pal Singh,198263,INC,Mohd Mukim,162696,35567,5.76
+ls-1999,LS,India,1999,1999,official,443,Etah,GEN,Uttar Pradesh,587138,SP,Kr. Devendra Singh Yadav,226999,BJP,Dr. Mahadeepak Singh Shakya,174475,52524,8.95
+ls-1999,LS,India,1999,1999,official,444,Etawah,GEN,Uttar Pradesh,601874,SP,Raghuraj Singh Shakya,233065,BSP,Shiv Prasad Yadav,149382,83683,13.9
+ls-1999,LS,India,1999,1999,official,445,Faizabad,GEN,Uttar Pradesh,657165,BJP,Vinay Katiyar,193191,BSP,Siya Ram Nishad,135629,57562,8.76
+ls-1999,LS,India,1999,1999,official,446,Farrukhabad,GEN,Uttar Pradesh,632970,SP,Chandra Bhushan Singh (Munnoo Babu),222984,BJP,Prof. Ram Bakhsh Singh Verma,160422,62562,9.88
+ls-1999,LS,India,1999,1999,official,447,Fatehpur Sikri,GEN,Uttar Pradesh,538388,BJP,Ashok Patel,142911,BSP,Surya Bali Nishad,141848,1063,0.2
+ls-1999,LS,India,1999,1999,official,448,Firozabad,GEN,Uttar Pradesh,573312,SP,Ram Jilal Suman,289459,BJP,Prabhu Dayal Katheriyar,206091,83368,14.54
+ls-1999,LS,India,1999,1999,official,449,Garhwal,GEN,Uttar Pradesh,472181,BJP,Maj Gen. (Rtd) Bhuwan Chandra Khanduri(A.V.S.M.),239745,INC,Satpal Maharaj,210063,29682,6.29
+ls-1999,LS,India,1999,1999,official,450,Ghatampur,GEN,Uttar Pradesh,558114,BSP,Pyare Lal Sankhwar,156582,SP,Arun Kumari Kori,156477,105,0.02
+ls-1999,LS,India,1999,1999,official,451,Ghazipur,GEN,Uttar Pradesh,734039,BJP,Manoj,240592,SP,Om Prakash,229559,11033,1.5
+ls-1999,LS,India,1999,1999,official,452,Ghosi,GEN,Uttar Pradesh,677481,BSP,Bal Krishna,207105,JDU,Siddhartha Rai,170604,36501,5.39
+ls-1999,LS,India,1999,1999,official,453,Gonda,GEN,Uttar Pradesh,577026,BJP,Braj Bhushan Sharan Singh,243162,SP,Kirti Vardhan Singh Raja Bhaiya,183965,59197,10.26
+ls-1999,LS,India,1999,1999,official,454,Gorakhpur,GEN,Uttar Pradesh,650545,BJP,Aditya Nath,267382,SP,Jamuna Prasad Nishad,260043,7339,1.13
+ls-1999,LS,India,1999,1999,official,455,Hamirpur,GEN,Uttar Pradesh,612344,BSP,Ashok Kumar Singh Chandel,217732,SP,Rajnarain Alias Rajju Maharaj,206068,11664,1.9
+ls-1999,LS,India,1999,1999,official,456,Hapur,GEN,Uttar Pradesh,723634,BJP,Ramesh Chand Tomar,234525,RLD,Trilok Tyagi,222567,11958,1.65
+ls-1999,LS,India,1999,1999,official,457,Hardoi,GEN,Uttar Pradesh,554985,ABLTC,Jai Prakash,206256,SP,Usha Verma,200852,5404,0.97
+ls-1999,LS,India,1999,1999,official,458,Hardwar,GEN,Uttar Pradesh,666882,BJP,Harpal Singh Sathi,236844,BSP,Ramesh Kumar Burman,203997,32847,4.93
+ls-1999,LS,India,1999,1999,official,459,Hathras,GEN,Uttar Pradesh,459758,BJP,Kishan Lal Diler,178253,BSP,Ganga Prasad Pushkar,109846,68407,14.88
+ls-1999,LS,India,1999,1999,official,460,Jalaun,GEN,Uttar Pradesh,574855,BSP,Brij Lal Khabri,197705,BJP,Bhanu Pratap Singh Varma,184353,13352,2.32
+ls-1999,LS,India,1999,1999,official,461,Jalesar,GEN,Uttar Pradesh,661686,SP,Prof. S.P. Singh Baghel,217336,BJP,Ompal Singh Nidar,209274,8062,1.22
+ls-1999,LS,India,1999,1999,official,462,Jaunpur,GEN,Uttar Pradesh,691518,BJP,Chinmayanand,207405,SP,Paras Nath Yadav,198770,8635,1.25
+ls-1999,LS,India,1999,1999,official,463,Jhansi,GEN,Uttar Pradesh,750501,INC,Sujan Singh Bundela,283387,BJP,Rajendra Agnihotri,200866,82521,11.0
+ls-1999,LS,India,1999,1999,official,464,Kairana,GEN,Uttar Pradesh,692027,RLD,Amir Alam,206345,BJP,Niranjan Singh Malik,168073,38272,5.53
+ls-1999,LS,India,1999,1999,official,465,Kaiserganj,GEN,Uttar Pradesh,635728,SP,Beni Prasad Verma,233934,BJP,Chamundeshwri Pratap Chand Alias C.P.Chandsingh,182375,51559,8.11
+ls-1999,LS,India,1999,1999,official,466,Kannauj,GEN,Uttar Pradesh,684085,SP,Mulayam Singh Yadav,291617,ABLTC,Arvind Pratap Singh,212478,79139,11.57
+ls-1999,LS,India,1999,1999,official,467,Kanpur,GEN,Uttar Pradesh,635624,INC,Sriprakash Jaiswal,293610,BJP,Jagat Veer Singh Drone,259151,34459,5.42
+ls-1999,LS,India,1999,1999,official,468,Khalilabad,GEN,Uttar Pradesh,664508,SP,Bhal Chandra Yadav,236837,BSP,Ram Prasad Chaudhary,206809,30028,4.52
+ls-1999,LS,India,1999,1999,official,469,Kheri,GEN,Uttar Pradesh,705160,SP,Ravi Prakash Verma,202373,BJP,Rajendra Kumar Gupta,197858,4515,0.64
+ls-1999,LS,India,1999,1999,official,470,Khurja,GEN,Uttar Pradesh,481734,BJP,Ashok Kumar Pradhan,216011,INC,Smt. Satyawati Urf Satya Bahin,105713,110298,22.9
+ls-1999,LS,India,1999,1999,official,471,Lalganj,GEN,Uttar Pradesh,688528,BSP,Dr. Bali Ram,229122,SP,Daroga,198123,30999,4.5
+ls-1999,LS,India,1999,1999,official,472,Lucknow,GEN,Uttar Pradesh,753943,BJP,Atal Bihari Vajpayee,362709,INC,Dr Karan Singh,239085,123624,16.4
+ls-1999,LS,India,1999,1999,official,473,Machhlishahr,GEN,Uttar Pradesh,654155,SP,Chandra Nath Singh,201509,BJP,Dr. Ram Vilas Vedanti,180350,21159,3.23
+ls-1999,LS,India,1999,1999,official,474,Maharajganj,GEN,Uttar Pradesh,677114,SP,Akhilesh Singh,239826,BJP,Pankaj Chaudhary,229182,10644,1.57
+ls-1999,LS,India,1999,1999,official,475,Mainpuri,GEN,Uttar Pradesh,569538,SP,Balram Singh Yadav,244113,BJP,Darshan Singh Yadav,216087,28026,4.92
+ls-1999,LS,India,1999,1999,official,476,Mathura,GEN,Uttar Pradesh,530156,BJP,Ch. Tejvir Singh,210212,RLD,Rameshwar Singh,168485,41727,7.87
+ls-1999,LS,India,1999,1999,official,477,Meerut,GEN,Uttar Pradesh,744064,INC,Avtar Singh Bhadana,258456,BJP,Amar Pal Singh,233620,24836,3.34
+ls-1999,LS,India,1999,1999,official,478,Mirzapur,GEN,Uttar Pradesh,771124,SP,Phoolan Devi,290849,BJP,Virendra Singh,206373,84476,10.95
+ls-1999,LS,India,1999,1999,official,479,Misrikh,GEN,Uttar Pradesh,612319,SP,Sushila Saroj,159279,BSP,Ram Shankar Bhargav,155072,4207,0.69
+ls-1999,LS,India,1999,1999,official,480,Mohanlalganj,GEN,Uttar Pradesh,608254,SP,Reena Chowdhary,182034,BJP,Purnima Verma,146676,35358,5.81
+ls-1999,LS,India,1999,1999,official,481,Moradabad,GEN,Uttar Pradesh,640314,ABLTC,Chandra Vijay Singh Alias Baby Raja,253321,SP,Dr. Shafiqur Rahman Barq,156871,96450,15.06
+ls-1999,LS,India,1999,1999,official,482,Muzaffarnagar,GEN,Uttar Pradesh,682351,INC,Saiduzzaman,196669,BJP,Sohanveer Singh,170918,25751,3.77
+ls-1999,LS,India,1999,1999,official,483,Nainital,GEN,Uttar Pradesh,793919,INC,Narayan Datt Tiwari,350381,BJP,Balraj Passi,237974,112407,14.16
+ls-1999,LS,India,1999,1999,official,484,Padrauna,GEN,Uttar Pradesh,695346,BJP,Ram Nagina Mishra,196651,SP,Baleshwar Yadav,169913,26738,3.85
+ls-1999,LS,India,1999,1999,official,485,Phulpur,GEN,Uttar Pradesh,680027,SP,Dharam Raj Singh Patel,183282,BJP,Beni Madhav Bind,163243,20039,2.95
+ls-1999,LS,India,1999,1999,official,486,Pilibhit,GEN,Uttar Pradesh,748004,IND,Maneka Gandhi,433421,BSP,Anis Ahmad Khan Alias Phool Baboo,193566,239855,32.07
+ls-1999,LS,India,1999,1999,official,487,Pratapgarh,GEN,Uttar Pradesh,567099,INC,Rajkumari Ratna Singh,202170,BJP,Abhai Pratap Singh,196167,6003,1.06
+ls-1999,LS,India,1999,1999,official,488,Rae Bareli,GEN,Uttar Pradesh,684461,INC,Captain Satish Sharma,224202,SP,Gajadhar Singh,150653,73549,10.75
+ls-1999,LS,India,1999,1999,official,489,Rampur,GEN,Uttar Pradesh,810424,INC,Begum Noor Bano Urf Mahtab Zamani Begum,338493,BJP,Mukhtar Abbas Naqvi,223022,115471,14.25
+ls-1999,LS,India,1999,1999,official,490,Robertsganj,GEN,Uttar Pradesh,743357,BJP,Ram Shakal,200826,SP,Hari Prasad Alias Ghamdi Singh,184898,15928,2.14
+ls-1999,LS,India,1999,1999,official,491,Saharanpur,GEN,Uttar Pradesh,771959,BSP,Mansoor Ali Khan,235659,RLD,Rasheed Masood,213352,22307,2.89
+ls-1999,LS,India,1999,1999,official,492,Saidpur,GEN,Uttar Pradesh,703749,SP,Tufani Saroj,237438,BSP,Sharada Prasad,206067,31371,4.46
+ls-1999,LS,India,1999,1999,official,493,Salempur,GEN,Uttar Pradesh,636475,BSP,Babban Rajbhar,170558,SP,Hari Vansh Sahai,161508,9050,1.42
+ls-1999,LS,India,1999,1999,official,494,Sambhal,GEN,Uttar Pradesh,619859,SP,Mulayam Singh Yadav,259430,BJP,Ch. Bhupendra Singh,143596,115834,18.69
+ls-1999,LS,India,1999,1999,official,495,Shahabad,GEN,Uttar Pradesh,639946,BSP,Daud Ahmad,214146,BJP,Raghvendra Singh,172014,42132,6.58
+ls-1999,LS,India,1999,1999,official,496,Shahjahanpur,GEN,Uttar Pradesh,673946,INC,Kr. Jitendra Prasad,207167,SP,Ram Murti Singh Verma,189175,17992,2.67
+ls-1999,LS,India,1999,1999,official,497,Sitapur,GEN,Uttar Pradesh,636913,BSP,Rajesh Verma,211120,BJP,Janardan Prasad Misra,174758,36362,5.71
+ls-1999,LS,India,1999,1999,official,498,Sultanpur,GEN,Uttar Pradesh,610404,BSP,Jai Bhadra Singh,173558,SP,Ram Lakhan Verma,158959,14599,2.39
+ls-1999,LS,India,1999,1999,official,499,Tehri Garhwal,GEN,Uttar Pradesh,483197,BJP,Manabendra Shah,207839,INC,Vijay Bahuguna,192068,15771,3.26
+ls-1999,LS,India,1999,1999,official,500,Unnao,GEN,Uttar Pradesh,590401,SP,Deepak Kumar,207242,BSP,Mohd. Moin,169467,37775,6.4
+ls-1999,LS,India,1999,1999,official,501,Varanasi,GEN,Uttar Pradesh,624357,BJP,Shankar Prasad Jaiswal,211955,INC,Rajesh Kumar Mishra,159096,52859,8.47
+ls-1999,LS,India,1999,1999,official,502,Alipurduars,GEN,West Bengal,760862,RSP,Joachim Baxla,389919,BJP,Dhirendra Narjinarai,236786,153133,20.13
+ls-1999,LS,India,1999,1999,official,503,Arambagh,GEN,West Bengal,933500,CPI(M),Anil Basu,503920,BJP,Chunilal Chakraborty,387199,116721,12.5
+ls-1999,LS,India,1999,1999,official,504,Asansol,GEN,West Bengal,815292,CPI(M),Bikash Chowdhury,377265,AITC,Ajit Ghatak (Moloy Ghatak),339401,37864,4.64
+ls-1999,LS,India,1999,1999,official,505,Balurghat,GEN,West Bengal,840898,RSP,Barman Ranen,375669,BJP,Subhash Ch. Barman,312748,62921,7.48
+ls-1999,LS,India,1999,1999,official,506,Bankura,GEN,West Bengal,723929,CPI(M),Acharia Basudeb,381720,IND,Natabar Bagdi,274722,106998,14.78
+ls-1999,LS,India,1999,1999,official,507,Barasat,GEN,West Bengal,1031285,AITC,Dr.Ranjit Kumar Panja,518520,AIFB,Saral Deb,421620,96900,9.4
+ls-1999,LS,India,1999,1999,official,508,Barrackpore,GEN,West Bengal,830719,CPI(M),Tarit Baran Topdar,399269,AITC,Jayanta Bhattacharya,358494,40775,4.91
+ls-1999,LS,India,1999,1999,official,509,Basirhat,GEN,West Bengal,856295,CPI,Ajoy Chakraborty,407903,AITC,M. Nuruzzaman,325316,82587,9.64
+ls-1999,LS,India,1999,1999,official,510,Berhampore,GEN,West Bengal,926375,INC,Adhir Ranjan Chowdhury,434073,RSP,Pramothes Mukherjee,338682,95391,10.3
+ls-1999,LS,India,1999,1999,official,511,Birbhum,GEN,West Bengal,723560,CPI(M),Ram Chandra Dome,373687,BJP,Dr. Madan Lal Choudhury,216531,157156,21.72
+ls-1999,LS,India,1999,1999,official,512,Bolpur,GEN,West Bengal,781954,CPI(M),Somnath Chatterjee,464199,AITC,Suniti Chattaraj,277810,186389,23.84
+ls-1999,LS,India,1999,1999,official,513,Burdwan,GEN,West Bengal,971754,CPI(M),Sar Nikhilananda,598170,BJP,Anup Mukherjee,296487,301683,31.05
+ls-1999,LS,India,1999,1999,official,514,Contai,GEN,West Bengal,815448,AITC,Neetish Sengupta,395048,CPI(M),Sudhir Giri,382915,12133,1.49
+ls-1999,LS,India,1999,1999,official,515,Cooch Behar,GEN,West Bengal,891829,AIFB,Amar Roy Pradhan,443148,AITC,Ambika Charan Ray,334983,108165,12.13
+ls-1999,LS,India,1999,1999,official,516,Darjeeling,GEN,West Bengal,580471,CPI(M),S.P. Lepcha,256826,INC,Nar Bahadur Khatiwara,144857,111969,19.29
+ls-1999,LS,India,1999,1999,official,517,Diamond Harbour,GEN,West Bengal,844342,CPI(M),Samik Lahiri,402761,AITC,Sardar Amjad Ali,331598,71163,8.43
+ls-1999,LS,India,1999,1999,official,518,Dum Dum,GEN,West Bengal,1191114,BJP,Tapan Sikdar,614471,CPI(M),Anil Bhattacharya,479910,134561,11.3
+ls-1999,LS,India,1999,1999,official,519,Durgapur,GEN,West Bengal,869091,CPI(M),Sunil Khan,461940,BJP,Anil Kumar Saha,343977,117963,13.57
+ls-1999,LS,India,1999,1999,official,520,Hooghly,GEN,West Bengal,919250,CPI(M),Rupchand Pal,440674,AITC,Tapan Das Gupta,428189,12485,1.36
+ls-1999,LS,India,1999,1999,official,521,Howrah,GEN,West Bengal,981399,CPI(M),Swadesh Chakraborty,490537,AITC,Dr. Kakoli Ghosh Dastidar,387088,103449,10.54
+ls-1999,LS,India,1999,1999,official,522,Jadavpur,GEN,West Bengal,991198,AITC,Krishna Bose,485366,CPI(M),Kanti Ganguly,418601,66765,6.74
+ls-1999,LS,India,1999,1999,official,523,Jalpaiguri,GEN,West Bengal,831795,CPI(M),Minati Sen,405785,AITC,Kalyan Chakraborty,296848,108937,13.1
+ls-1999,LS,India,1999,1999,official,524,Jangipur,GEN,West Bengal,775493,CPI(M),Abul Hasnat Khan,352580,INC,Mainul Haque,291263,61317,7.91
+ls-1999,LS,India,1999,1999,official,525,Jhargram,GEN,West Bengal,791700,CPI(M),Rupchand Murmu,402325,AITC,Dakhin Murmu,293644,108681,13.73
+ls-1999,LS,India,1999,1999,official,526,Joynagar,GEN,West Bengal,802529,RSP,Sanat Kumar Mondal,396383,BJP,Krishna Pada Majumder,284082,112301,13.99
+ls-1999,LS,India,1999,1999,official,527,Katwa,GEN,West Bengal,918349,CPI(M),Mahboob Zahedi,461502,AITC,Amal Kumar Dutta,353140,108362,11.8
+ls-1999,LS,India,1999,1999,official,528,Kolkata North East,GEN,West Bengal,658631,AITC,Ajit Kumar Panja,297491,CPI(M),Md. Salim,255917,41574,6.31
+ls-1999,LS,India,1999,1999,official,529,Kolkata North West,GEN,West Bengal,443486,AITC,Sudip Bandyopadhyay,206684,CPI(M),Rajdeo Goala,112514,94170,21.23
+ls-1999,LS,India,1999,1999,official,530,Kolkata South,GEN,West Bengal,805121,AITC,Mamata Banerjee,469103,CPI(M),Subhankar Chakraborty,255095,214008,26.58
+ls-1999,LS,India,1999,1999,official,531,Krishnanagar,GEN,West Bengal,837424,BJP,Satyabrata Mookherjee,366954,CPI(M),Dilip Chakraborty,344720,22234,2.66
+ls-1999,LS,India,1999,1999,official,532,Malda,GEN,West Bengal,810196,INC,Abul Barkat Ataul Ghani Khan Choudhury,325833,CPI(M),Sailen Sarkar,301280,24553,3.03
+ls-1999,LS,India,1999,1999,official,533,Mathurapur,GEN,West Bengal,818609,CPI(M),Radhika Ranjan Pramanik,382962,AITC,Gobinda Chandra Naskar,331237,51725,6.32
+ls-1999,LS,India,1999,1999,official,534,Medinipur,GEN,West Bengal,852492,CPI,Indrajit Gupta,414545,BJP,Manoranjon Dutta,385772,28773,3.38
+ls-1999,LS,India,1999,1999,official,535,Murshidabad,GEN,West Bengal,827395,CPI(M),Moinul Hassan,391366,INC,Mannan Hossain,268006,123360,14.91
+ls-1999,LS,India,1999,1999,official,536,Nabadwip,GEN,West Bengal,1002084,AITC,Ananda Mohan Biswas,459319,CPI(M),Asim Bala,420184,39135,3.91
+ls-1999,LS,India,1999,1999,official,537,Panskura,GEN,West Bengal,816130,CPI,Gita Mukherjee,401431,AITC,Gouri Ghosh,354573,46858,5.74
+ls-1999,LS,India,1999,1999,official,538,Purulia,GEN,West Bengal,681196,AIFB,Birsingh Mahato,351143,BJP,Tapati Mahato,176273,174870,25.67
+ls-1999,LS,India,1999,1999,official,539,Raiganj,GEN,West Bengal,875716,INC,Priya Ranjan Dasmunsi,409331,CPI(M),Subrata Mukherjee,334076,75255,8.59
+ls-1999,LS,India,1999,1999,official,540,Srerampur,GEN,West Bengal,911306,AITC,Akbor Ali Khandoker,411406,CPI(M),Sudarsan Roy Chaudhury,363642,47764,5.24
+ls-1999,LS,India,1999,1999,official,541,Tamluk,GEN,West Bengal,909682,CPI(M),Lakshman Chandra Seth,455168,AITC,Nirmalendu Bhattacharjee,400342,54826,6.03
+ls-1999,LS,India,1999,1999,official,542,Uluberia,GEN,West Bengal,808564,CPI(M),Hannan Mollah,399397,AITC,Dr. Sudipta Roy,331820,67577,8.36
+ls-1999,LS,India,1999,1999,official,543,Vishnupur,GEN,West Bengal,834502,CPI(M),Sandhya Bauri,483084,AITC,Adhibas Duley,301514,181570,21.76

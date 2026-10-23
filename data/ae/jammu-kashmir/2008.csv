@@ -1,0 +1,88 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,1,Karnah,GEN,Kupwara,21458,JKNC,Kafil Ur Rehman,4110,JKANC,Ab Rehman Bhadana,2962,1148,5.35
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,2,Kupwara,GEN,Kupwara,55525,JKNC,Mir Saifullah,16696,JKPDP,Fayaz Ahmad Mir,11514,5182,9.33
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,3,Lolab,GEN,Kupwara,57382,JKPDP,Abdul Haq Khan,23337,JKNC,Qaisar Jamsheed Lone,17990,5347,9.32
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,4,Handwara,GEN,Kupwara,57678,JKNC,Chowdary Mohd Ramzan,27907,IND,Gh Mohi-Ud-Din Sofi,16317,11590,20.09
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,5,Langate,GEN,Kupwara,36429,IND,Ab Rashid Sheikh,7964,JKPDP,Mohd Sultan Pandithpori,7754,210,0.58
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,6,Uri,GEN,Baramula,53964,INC,Taj Mohi-Ud-Din,24036,JKNC,Mohammad Shafi,22157,1879,3.48
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,7,Rafiabad,GEN,Baramula,36772,JKNC,Javaid Ahmad Dar,13198,JKPDP,Mohammad Dilawar Mir,12982,216,0.59
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,8,Sopore,GEN,Baramula,18017,JKNC,Mohd Ashraf Ganie,4368,INC,Abdul Rashid Dar,3304,1064,5.91
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,9,Gurez,GEN,Baramula,11392,JKNC,Nazir Ahmad Khan,5817,INC,Faqeer Ahmad Khan,5085,732,6.43
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,10,Bandipora,GEN,Baramula,49997,JKPDP,Nizamuddin Bhat,13051,IND,Usman Abdul Majid,12231,820,1.64
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,11,Sonawari,GEN,Baramula,50595,JKNC,Mohd. Akbar Lone,20108,IND,Abid Hussain Ansari,7951,12157,24.03
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,12,Sangrama,GEN,Baramula,27809,JKPDP,Syed Basharat Ahmad,7812,IND,Shoaib Nabi Lone,6482,1330,4.78
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,13,Baramulla,GEN,Baramula,24355,JKPDP,Muzaffar Hussain Baig,13019,JKNC,Nazir Hussain Khan,7621,5398,22.16
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,14,Gulmarg,GEN,Baramula,49592,JKDPN,Gh Hassan Mir,18253,JKNC,Sheikh Mushtafa Kamal,11812,6441,12.99
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,15,Pattan,GEN,Baramula,40482,JKPDP,Iftikhar Hussain Ansari,20703,JKNC,Abdul Rashid Shaheen,9432,11271,27.84
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,16,Kangan,GEN,Srinagar,34939,JKNC,Altaf Ahmad,19210,JKPDP,Bashir Ahmad Mir,11495,7715,22.08
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,17,Ganderbal,GEN,Srinagar,39818,JKNC,Omar Abdullah,16519,JKPDP,Qazi Mohammad Afzal,8304,8215,20.63
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,18,Hazratbal,GEN,Srinagar,24722,JKNC,Farooq Abdullah,11041,JKPDP,Asiea,6769,4272,17.28
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,19,Zadibal,GEN,Srinagar,12426,JKNC,Peer Aafaq Ahmed,4335,JKPDP,Shahi Jahan Dar,3094,1241,9.99
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,20,Idgah,GEN,Srinagar,12390,JKNC,Mubarak Ahmad Gul,4457,JKPDP,Asifa Tariq Qara,2778,1679,13.55
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,21,Khanyar,GEN,Srinagar,8514,JKNC,Ali Mohammad Sagar,6314,JKPDP,Showkat Ahmad Hafiz,806,5508,64.69
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,22,Habbakadal,GEN,Srinagar,5770,JKNC,Shameema Firdous,2374,BJP,Hira Lal Chatta,672,1702,29.5
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,23,Amirakadal,GEN,Srinagar,11258,JKNC,Nasir Aslam Wani,3912,JKPDP,Parvaiz Ahmed Bhat,3103,809,7.19
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,24,Sonawar,GEN,Srinagar,24856,JKNC,Farooq Abdullah,7018,JKPDP,Sheikh Ghulam Qadir,6924,94,0.38
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,25,Batamaloo,GEN,Srinagar,21073,JKNC,Mohamad Irfan Shah,9447,JKPDP,Tariq Hameed Karra,6738,2709,12.86
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,26,Chadoora,GEN,Badgam,39354,JKPDP,Javaid Mustaffa Mir,16278,JKNC,Ali Mohammad Dar,13338,2940,7.47
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,27,Badgam,GEN,Badgam,48942,JKNC,Aga Syed Ruhullah,19652,JKPDP,Mohammad Kamal Malik,9692,9960,20.35
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,28,Beerwah,GEN,Badgam,47995,JKPDP,Shafi Ahmad Wani,11720,JKNC,Ab Majid Matoo,11556,164,0.34
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,29,Khansahib,GEN,Badgam,53930,PDF,Hakeem Mohammad Yasin,22616,JKPDP,Saif Ud Din Bhat,14221,8395,15.57
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,30,Chrari Sharief,GEN,Badgam,50883,JKNC,Abdul Rahim Rather,24579,JKPDP,Ghulam Nabi Lone,18204,6375,12.53
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,31,Tral,GEN,Pulwama,36510,JKPDP,Mushtaq Ahmad Shah,10393,JKNC,Mohd Ashraf Bhat,6586,3807,10.43
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,32,Pampore,GEN,Pulwama,30178,JKPDP,Zahoor Ahmad,11117,INC,Mohd Anwar Bhat,5969,5148,17.06
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,33,Pulwama,GEN,Pulwama,29188,JKPDP,Mohd Khalil Bandh,10639,IND,Sonaullah Dar,4003,6636,22.74
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,34,Rajpora,GEN,Pulwama,40508,JKPDP,Syed Bashir Ahmad Shah,10177,IND,Gulam Mohi-Ud-Din Mir,9230,947,2.34
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,35,Wachi,GEN,Pulwama,33749,JKPDP,Mehbooba Mufti,12810,JKNC,Showkat Hussain Ganie,4474,8336,24.7
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,36,Shopian,GEN,Pulwama,37704,JKPDP,Abdul Razaq Wagay,8006,INC,Mohd. Shafi,5208,2798,7.42
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,37,Noorabad,GEN,Anantnag,46092,JKNC,Sakina Itoo,16240,JKPDP,Abdul Aziz Zagar,11722,4518,9.8
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,38,Kulgam,GEN,Anantnag,50163,CPI(M),Mohmad Yousuf Rather,17175,JKPDP,Nazir Ahmad Laway,16939,236,0.47
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,39,Homeshalibugh,GEN,Anantnag,36309,JKPDP,Abdul Gaffar Sofi,12249,JKNC,Abdul Majeed,7439,4810,13.25
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,40,Anantnag,GEN,Anantnag,31499,JKPDP,Mufti Mohammad Sayeed,12439,JKNC,Mirza Mehboob Beigh,7548,4891,15.53
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,41,Devsar,GEN,Anantnag,52914,JKPDP,Mohammad Sartaj Madni,14175,JKNC,Peerzada Ghulam Ahmad,10174,4001,7.56
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,42,Dooru,GEN,Anantnag,43855,INC,Ghulam Ahmad Mir,15870,JKPDP,Syed Farooq Ahmad,9952,5918,13.49
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,43,Kokernag,GEN,Anantnag,50030,INC,Peerzada Mohd. Syed,13384,JKNC,Gulam Nabi Bhat,12114,1270,2.54
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,44,Shangus,GEN,Anantnag,49495,JKPDP,Peerzada Mansoor,13853,INC,Gulzar Ahmad Wani,12423,1430,2.89
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,45,Bijbehara,GEN,Anantnag,46752,JKPDP,Abdul Rehman Bhat,23320,JKNC,Bashir Ahmad Shah,13046,10274,21.98
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,46,Pahalgam,GEN,Anantnag,49334,JKPDP,Rafi Ahmad Mir,24316,JKNC,Altaf Ahmad Wani,13394,10922,22.14
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,47,Nobra,GEN,Leh(Ladakh),8617,IND,Tsetan Namgyal,4608,INC,Tsewang Rigzin,3678,930,10.79
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,48,Leh,GEN,Leh(Ladakh),37640,INC,Nawang Rigzin,19008,IND,Thupstan Chhewang,17485,1523,4.05
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,49,Kargil,GEN,Kargil,42757,JKNC,Qamar Ali Akhoon,22935,IND,Haji Nissar Ali,17635,5300,12.4
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,50,Zanskar,GEN,Kargil,14652,JKNC,Feroz Ahmed Khan,6552,INC,Ghulam Raza,5634,918,6.27
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,51,Kishtwar,GEN,Doda,51356,JKNC,Sajjad Ahmad Kichloo,19248,BJP,Sunil Kumar,16783,2465,4.8
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,52,Inderwal,GEN,Doda,53157,INC,Ghulam Mohd Saroori,22684,BJP,Shakti Raj,12269,10415,19.59
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,53,Doda,GEN,Doda,52196,INC,Abdul Majid Wani,23254,JKNC,Khalid Najib Suharwardy,16102,7152,13.7
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,54,Bhaderwah,GEN,Doda,60835,INC,Ghulam Nabi Azad,38238,BJP,Daya Krishan,8802,29436,48.39
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,55,Ramban,SC,Doda,50097,INC,Ashok Kumar,21779,BJP,Bali Bhagat,11460,10319,20.6
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,56,Banihal,GEN,Doda,47683,INC,Vikar Rasool,8287,IND,Showkat Javed,5254,3033,6.36
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,57,Gulabgarh,GEN,Udhampur,45609,JKNC,Abdul Gani Malik,14268,IND,Mumtaz Ahmed,11020,3248,7.12
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,58,Reasi,GEN,Udhampur,70336,BJP,Baldev Raj,26031,INC,Jugal Kishore,19369,6662,9.47
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,59,Gool Arnas,GEN,Udhampur,42086,INC,Ajaz Ahmed Khan,15594,JKNC,Gulam Qadir Mughal,12142,3452,8.2
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,60,Udhampur,GEN,Udhampur,71164,JKNPP,Balwant Singh Mankotia,25259,BJP,Pawan Kumar Gupta,22494,2765,3.89
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,61,Chanani,SC,Udhampur,45881,INC,Krishan Chander,16276,BJP,Dina Nath,9838,6438,14.03
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,62,Ramnagar,GEN,Udhampur,64871,JKNPP,Harsh Dev Singh,30609,BSP,Vinod Khajuria,18463,12146,18.72
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,63,Bani,GEN,Kathua,27903,BJP,Lal Chand,11041,JKNC,Ghulam Hyder Malik,8792,2249,8.06
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,64,Basohli,GEN,Kathua,47235,BJP,Jagdish Raj Sapolia,16651,JKNC,Davinder Singh,13770,2881,6.1
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,65,Kathua,GEN,Kathua,74070,IND,Charanjit Singh,19123,BSP,Som Raj,16761,2362,3.19
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,66,Billawar,GEN,Kathua,62215,INC,Manohar Lal Sharma,22262,BJP,Satish Sharma,13879,8383,13.47
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,67,Hiranagar,SC,Jammu,64680,BJP,Durga Dass,19730,IND,Prem Lal,16993,2737,4.23
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,68,Samba,SC,Jammu,53899,JKNPP,Yash Paul Kundal,14631,BJP,Satwant Kour,12642,1989,3.69
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,69,Vijaypur,GEN,Jammu,77515,JKNC,Surjit Singh,21090,BJP,Chander Parkash,19878,1212,1.56
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,70,Nagrota,GEN,Jammu,48958,BJP,Jugal Kishore,11141,JKNC,M.K Ajat Shatru,9521,1620,3.31
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,71,Gandhi Nagar,GEN,Jammu,92138,INC,Raman Bhalla,33486,BJP,Nirmal Singh,31223,2263,2.46
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,72,Jammu East,GEN,Jammu,31364,BJP,Ashok Kumar Khajuria,15907,INC,Narender Singh,5474,10433,33.26
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,73,Jammu West,GEN,Jammu,85174,BJP,Chaman Lal Gupta,34288,IND,Surinder Singh Shangari,21251,13037,15.31
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,74,Bishnah,GEN,Jammu,62674,IND,Ashwani Kumar Sharma,14078,BSP,Kamal Verma,13589,489,0.78
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,75,R.S. Pura,SC,Jammu,54932,BJP,Gharu Ram Bhagat,15902,INC,Suman Lata Bhagat,14272,1630,2.97
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,76,Suchetgarh,GEN,Jammu,45682,BJP,Sham Lal Choudhary,17995,JKNC,Taranjeet Singh,10403,7592,16.62
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,77,Marh,GEN,Jammu,52417,BJP,Sukh Nandan Kumar,18368,JKNC,Ajay Kumar Sadhotra,11787,6581,12.56
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,78,Raipur Domana,SC,Jammu,60036,BJP,Bharat Bhushan,28685,INC,Mula Ram,16416,12269,20.44
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,79,Akhnoor,GEN,Jammu,65872,INC,Sham Lal Sharma,31600,BJP,Govind Ram Sharma,17716,13884,21.08
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,80,Chhamb,SC,Jammu,52140,INC,Tara Chand,25335,BJP,Chaman Lal,22940,2395,4.59
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,81,Nowshera,GEN,Rajauri,62365,JKNC,Radhay Sham Sharma,16511,INC,Romesh Chander Sharma,12691,3820,6.13
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,82,Darhal,GEN,Rajauri,67952,JKPDP,Zulfkar Ali,19399,IND,Mohd Iqbal,14858,4541,6.68
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,83,Rajouri,GEN,Rajauri,73469,INC,Shabbir Ahmed Khan,10013,JKPDP,Tasadiq Hussain,9680,333,0.45
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,84,Kalakote,GEN,Rajauri,55494,JKNC,Rachhpal Singh,25314,IND,Ashok Kumar Sharma,13894,11420,20.58
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,85,Surankote,GEN,Punch,63553,INC,Mohd. Aslam,28102,JKNC,Mushtaq Ahmed Shah,26051,2051,3.23
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,86,Mendhar,GEN,Punch,60958,JKPDP,Sardar Rafiq Hussain,29036,JKNC,Javid Ahmed Rana,28294,742,1.22
+ae-jammu-kashmir-2008,AE,Jammu & Kashmir,2008,2008,official,87,Poonch Haveli,GEN,Punch,71415,JKNC,Ajaz Ahmed Jan,28297,INC,Ch. Bashir Ahmed Naaz,18364,9933,13.91

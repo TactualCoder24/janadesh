@@ -20,7 +20,7 @@ def main():
     tot_fixed = 0
     for f in sorted(glob.glob(f'{D}/*.json')):
         b = os.path.basename(f)
-        if b in ('index.json', 'search.json', 'polls.json'):
+        if b in ('index.json', 'search.json', 'polls.json', 'stats.json'):
             continue
         els = json.load(open(f, encoding='utf-8')); dirty = False
         for e in els:

@@ -1,0 +1,402 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ls-1951,LS,India,1951,1951,official,1,Ajmer North,GEN,Ajmer,97165,INC,Jawala Prashad,46679,BJS,Chand Karan,28990,17689,18.21
+ls-1951,LS,India,1951,1951,official,2,Ajmer South,GEN,Ajmer,81834,INC,Mukat Behari Lal,43082,CPI,Kumaranand,25128,17954,21.94
+ls-1951,LS,India,1951,1951,official,3,Autonomous District,GEN,Assam,109663,INC,Bonily Khongmen,59326,KJD,Wilson Reade,32987,26339,24.02
+ls-1951,LS,India,1951,1951,official,4,Barpeta,GEN,Assam,176868,INC,Beliram Das,76293,SOC,Bipin Pal Das,63950,12343,6.98
+ls-1951,LS,India,1951,1951,official,5,Cachar Lushal Hills,GEN,Assam,329715,INC,"Laskar, Nibaran Chandra",192847,KMPP,"Deb, Suresh Chandra",84160,108687,32.96
+ls-1951,LS,India,1951,1951,official,6,Darrang,GEN,Assam,162120,INC,Kamakhya Prasad Tripathi,81775,SOC,H. C. Barua,47298,34477,21.27
+ls-1951,LS,India,1951,1951,official,7,Dibrugarh,GEN,Assam,148712,INC,"Hazarika, Jogendra Nath",93554,SOC,"Sonowal, Parasuram",22844,70710,47.55
+ls-1951,LS,India,1951,1951,official,8,Gauhati,GEN,Assam,202596,INC,Rohini Kumar Chaudhury,96122,SOC,Lakshya Dhar Chaudhury,72553,23569,11.63
+ls-1951,LS,India,1951,1951,official,9,Goalpara Garo Hills,GEN,Assam,704435,SOC,Jonab Amjad Ali,182093,INC,Sitanath Brahma Chowdhury,165144,16949,2.41
+ls-1951,LS,India,1951,1951,official,10,Golaghat Jorhat,GEN,Assam,172180,INC,Debeswar Sarma,93002,SOC,Bhabesh Chandra Barua,42327,50675,29.43
+ls-1951,LS,India,1951,1951,official,11,Nowgong,GEN,Assam,173832,INC,"Barooah, Dev Kanta",79673,SOC,Goswami Lakshmi Prasad,46829,32844,18.89
+ls-1951,LS,India,1951,1951,official,12,Sibsagar North Lakhimpur,GEN,Assam,169015,INC,"Buragohain, Surendranath",90279,IND,"Barbarua, Lalit",31616,58663,34.71
+ls-1951,LS,India,1951,1951,official,13,Raisen,GEN,Bhopal,74501,INC,Chatrunarain Malvia,49185,IND,Thakur Shankar Singh,25316,23869,32.04
+ls-1951,LS,India,1951,1951,official,14,Sehore,GEN,Bhopal,94956,INC,Saeed Ullah Razmi,48107,HMS,Udhav Das,34712,13395,14.11
+ls-1951,LS,India,1951,1951,official,15,Bhagalpur Central,GEN,Bihar,145939,INC,Banarshi Pd. Jhunjhunwala,67332,SOC,Sahajanand Kumar,33942,33390,22.88
+ls-1951,LS,India,1951,1951,official,16,Bhagalpur Cum Purnea,GEN,Bihar,288502,INC,Anup Lal Mehata,159358,SOC,Kirai Mushahar,129144,30214,10.47
+ls-1951,LS,India,1951,1951,official,17,Bhagalpur South,GEN,Bihar,144686,INC,Susama Sen,71979,SOC,Baijnath Prasad Singh,45255,26724,18.47
+ls-1951,LS,India,1951,1951,official,18,Chailbassa,GEN,Bihar,178206,JHP,Kanu Ram Deogam,136609,IND,Purno Chandra Birua,24818,111791,62.73
+ls-1951,LS,India,1951,1951,official,19,Champaran East,GEN,Bihar,138767,INC,Syed Mahmood,69144,SOC,Jai Gopal Sinha,46962,22182,15.99
+ls-1951,LS,India,1951,1951,official,20,Champaran North,GEN,Bihar,104179,INC,Bipin Bihari Verma,52424,IND,Shattru Mardan Sah,30672,21752,20.88
+ls-1951,LS,India,1951,1951,official,21,Darbhanga Central,GEN,Bihar,136243,INC,Shri Narayan Das,79435,SOC,Ramnandan Mishra,30806,48629,35.69
+ls-1951,LS,India,1951,1951,official,22,Darbhanga Cum Bhagalpur,GEN,Bihar,146291,INC,Lalit Narayan Misra,94414,SOC,Tapeshwari Mandal,51877,42537,29.08
+ls-1951,LS,India,1951,1951,official,23,Darbhanga East,GEN,Bihar,132722,INC,Aniruydh Sinha,69944,SOC,Lakshman Jha,47766,22178,16.71
+ls-1951,LS,India,1951,1951,official,24,Darbhanga North,GEN,Bihar,167758,INC,Shyam Nandan Prasad,64314,IND,Kameshwar Singh,56053,8261,4.92
+ls-1951,LS,India,1951,1951,official,25,Gaya East,GEN,Bihar,261558,INC,Brajeshwar Prasad,124524,SOC,Ramdhari Das,55359,69165,26.44
+ls-1951,LS,India,1951,1951,official,26,Gaya North,GEN,Bihar,127767,SOC,Bigeshwar Missir,55817,INC,Jagannath Prasad Sinha,49047,6770,5.3
+ls-1951,LS,India,1951,1951,official,27,Gaya West,GEN,Bihar,141212,INC,Satyandra Narain Singh,54758,SOC,Bilash Singh,49047,5711,4.04
+ls-1951,LS,India,1951,1951,official,28,Hazaribagh West,GEN,Bihar,118881,CNSPJP,Ram Narayan Singh,67824,INC,Jhani Ram,42183,25641,21.57
+ls-1951,LS,India,1951,1951,official,29,Hazaribhag East,GEN,Bihar,129617,INC,Nageshwar Pd. Sinha,65251,CNSPJP,Tara Kishore Prasad,48857,16394,12.65
+ls-1951,LS,India,1951,1951,official,30,Manbhum North,GEN,Bihar,281946,INC,Mohan Hari,97279,LSS,Prabhat Chandra Bose,83209,14070,4.99
+ls-1951,LS,India,1951,1951,official,31,Manbhum South Cum Dhalbhum,GEN,Bihar,345531,LSS,Bhajahari Mahaton,85957,JHP,Chaitan Manjhi,61713,24244,7.02
+ls-1951,LS,India,1951,1951,official,32,Monghyr North East,GEN,Bihar,146688,SOC,Suresh Chandra Mishra,73967,INC,Rajendra Prasad Yadav,72721,1246,0.85
+ls-1951,LS,India,1951,1951,official,33,Monghyr North West,GEN,Bihar,115332,INC,Mathura Prasad Misra,53473,SOC,Brahamdeo Pd. Sinha,34345,19128,16.59
+ls-1951,LS,India,1951,1951,official,34,Monghyr Sadar Cum Jamui,GEN,Bihar,320804,INC,Banarsi Pd. Sinha,131586,SOC,Nayan Tara Das,98050,33536,10.45
+ls-1951,LS,India,1951,1951,official,35,Muzafarpur East,GEN,Bihar,139632,INC,Awadeshwar Pd. Sinha,67220,SOC,Ram Janam Ojha,43975,23245,16.65
+ls-1951,LS,India,1951,1951,official,36,Muzaffarpur Central,GEN,Bihar,141330,INC,Shyam Nandan Sahay,82652,SOC,Radha Mohan Shukla,39640,43012,30.43
+ls-1951,LS,India,1951,1951,official,37,Muzaffarpur Cum Darbhanga,GEN,Bihar,318538,INC,Rajeshwar Patel,152490,SOC,Ram Chander Sharma,122895,29595,9.29
+ls-1951,LS,India,1951,1951,official,38,Muzaffarpur North East,GEN,Bihar,154884,INC,Dig Vijoy Narayan Singh,70603,SOC,Ram Bahadur Lal,38094,32509,20.99
+ls-1951,LS,India,1951,1951,official,39,Muzaffarpur North West,GEN,Bihar,134435,INC,Chandeswar Narain Prasad Sinha,51720,SOC,Baijnath Pd. Verma,49238,2482,1.85
+ls-1951,LS,India,1951,1951,official,40,Palamau Cum Hazaribagh Cum Ranchi,GEN,Bihar,281685,INC,Jithan Kherwar,96034,JHP,Gajendra Prasad Sinha,73671,22363,7.94
+ls-1951,LS,India,1951,1951,official,41,Pataliputra,GEN,Bihar,133645,INC,Sarangdhar Singh,64992,SOC,Gyan Chand,38294,26698,19.98
+ls-1951,LS,India,1951,1951,official,42,Patna Central,GEN,Bihar,131506,INC,Kailash Pati Sinha,66982,IND,Chandrika Singh,20581,46401,35.28
+ls-1951,LS,India,1951,1951,official,43,Patna Cum Shahabad,GEN,Bihar,136851,INC,Balram Bhagat,69428,SOC,Devendra Prasad Singh,23688,45740,33.42
+ls-1951,LS,India,1951,1951,official,44,Patna East,GEN,Bihar,132716,INC,Tarkeshwari Devi,62238,SOC,B. P. Jawahar,29388,32850,24.75
+ls-1951,LS,India,1951,1951,official,45,Purnea Central,GEN,Bihar,138412,INC,Phani Gopal Sen Gupta,78720,IND,Durga Prasad,25361,53359,38.55
+ls-1951,LS,India,1951,1951,official,46,Purnea Cum Santal Parganas,GEN,Bihar,390438,INC,Bhagat Jha (Azad),166049,JHP,Jughar Soren Paul,147837,18212,4.66
+ls-1951,LS,India,1951,1951,official,47,Purnea North East,GEN,Bihar,120467,INC,Mohammad Islamuddin,89754,IND,Krishna Lal Therari,21405,68349,56.74
+ls-1951,LS,India,1951,1951,official,48,Ranchi North East,GEN,Bihar,133505,INC,Abdul Ibrahim,43576,SOC,Ajit Nath Banerjee,32185,11391,8.53
+ls-1951,LS,India,1951,1951,official,49,Ranchi West,GEN,Bihar,228856,JHP,Jaipal Singh,139275,INC,Jagannath Singh Manki,73169,66106,28.89
+ls-1951,LS,India,1951,1951,official,50,Samastipur,GEN,Bihar,122946,INC,Satya Narain Sinha,63019,SOC,Badri Narain Sinha,38790,24229,19.71
+ls-1951,LS,India,1951,1951,official,51,Santal Parganas Cum Hazaribagh,GEN,Bihar,488963,INC,Ram Raj Jajware,158325,IND,Lal Hembrom,134007,24318,4.97
+ls-1951,LS,India,1951,1951,official,52,Saran Central,GEN,Bihar,121823,INC,Mahendra Nath Singh,67011,SOC,Sukdeo Prasad,28144,38867,31.9
+ls-1951,LS,India,1951,1951,official,53,Saran Cum Champaran,GEN,Bihar,289011,INC,Bibhuti Missir,131531,SOC,Bhola Raut,47582,83949,29.05
+ls-1951,LS,India,1951,1951,official,54,Saran East,GEN,Bihar,104790,INC,Satya Narain Singh,69468,SOC,Kanhaiya Prasad Verma,24165,45303,43.23
+ls-1951,LS,India,1951,1951,official,55,Saran North,GEN,Bihar,111627,INC,Jhulan Sinha,68062,IND,Vidyabhushan Shukla,23125,44937,40.26
+ls-1951,LS,India,1951,1951,official,56,Saran South,GEN,Bihar,117340,INC,Dwarka Nath Tiwari,50277,SOC,Rajendra Singh,31007,19270,16.42
+ls-1951,LS,India,1951,1951,official,57,Shahabad North West,GEN,Bihar,150612,IND,Kamal Singh,43165,INC,Kalawati,40773,2392,1.59
+ls-1951,LS,India,1951,1951,official,58,Shahabad South,GEN,Bihar,381421,INC,Ram Subhag Singh,114988,SOC,Jagjiwan Ram,74074,40914,10.73
+ls-1951,LS,India,1951,1951,official,59,Bilaspur,GEN,Bilaspur,0,IND,Anand Chand,0,,,,0,
+ls-1951,LS,India,1951,1951,official,60,Ahmedabad,GEN,Bombay,467573,INC,Mavlankar Ganesh Vasudeo,230778,RRP,Vaishya Muldas Bhudardas,112239,118539,25.35
+ls-1951,LS,India,1951,1951,official,61,Ahmednagar North,GEN,Bombay,184024,INC,Kanavade Pandharinath Ramchandra,102300,CPI,Kakde Jagannath Kanoji,42935,59365,32.26
+ls-1951,LS,India,1951,1951,official,62,Ahmednagar South,GEN,Bombay,156054,INC,Bogavat Uttamchand Ramchand,88815,KKP,Satha Navsherwanji Naorojaji,67239,21576,13.83
+ls-1951,LS,India,1951,1951,official,63,Banaskantha,GEN,Bombay,140636,INC,Chavda Akbar Dalumiyan,91753,SOC,Mehta Gordhandas Girdharlal,36042,55711,39.61
+ls-1951,LS,India,1951,1951,official,64,Belgaum North,GEN,Bombay,217619,INC,Datar Balwant Nagesh,133176,KMPP,Chikodi Panditappa Rayappa,31462,101714,46.74
+ls-1951,LS,India,1951,1951,official,65,Belgaum South,GEN,Bombay,237245,INC,Patil Shankargouda Virangouda,119521,KMPP,Jakati Basavannappa Veerbhadrappa,70043,49478,20.86
+ls-1951,LS,India,1951,1951,official,66,Bhusawal,GEN,Bombay,219720,INC,Rane Shivram Rango,124798,SOC,Patil Nathoo Narayan,56472,68326,31.1
+ls-1951,LS,India,1951,1951,official,67,Bijapur North,GEN,Bombay,179215,INC,Dube Rajaram Girdharlal,119895,KMPP,Sugandhi Murgeppa Siddappa,44095,75800,42.3
+ls-1951,LS,India,1951,1951,official,68,Bijapur South,GEN,Bombay,219578,INC,Bidari Ramappa Balappa,159884,KMPP,Munavalli Basappa Nagappa,59694,100190,45.63
+ls-1951,LS,India,1951,1951,official,69,Broach,GEN,Bombay,208885,INC,Bhatt Chandrashankar Manishankar,98835,IND,Yagnik Indulal Kanaiyalal,62461,36374,17.41
+ls-1951,LS,India,1951,1951,official,70,Dharwad North,GEN,Bombay,216283,INC,Karmaka Dattatraya Parsuramrao,129077,KMPP,Kambli Siddappa Totappa,87206,41871,19.36
+ls-1951,LS,India,1951,1951,official,71,Dharwad South,GEN,Bombay,239315,INC,Neswi Timmappa Rudrappa,144225,KMPP,Hosmani Siddappa Kariappa,95090,49135,20.53
+ls-1951,LS,India,1951,1951,official,72,Jalgaon,GEN,Bombay,205133,INC,Pataskar Hari Vinayak,127361,SOC,Chavan Devram Ramji,53065,74296,36.22
+ls-1951,LS,India,1951,1951,official,73,Kaira North,GEN,Bombay,230681,INC,Dabhi Fulsinhjee Bharatsinhji,136810,KMPP,Desai Dinubhai Ganpatidas,77514,59296,25.7
+ls-1951,LS,India,1951,1951,official,74,Kaira South,GEN,Bombay,233148,INC,Patel Maniben Vallabhbhai,146223,IND,Patel Lallubhai Desaibhai,86925,59298,25.43
+ls-1951,LS,India,1951,1951,official,75,Kanara,GEN,Bombay,230512,INC,Alva Jaochim Piedade,139557,SOC,Desai Dinkar Dattatraya,90955,48602,21.08
+ls-1951,LS,India,1951,1951,official,76,Kolaba,GEN,Bombay,183658,INC,Deshmukh Chintaman Dwarkanath,112873,PWP,Raut Rajaram Balkrishna,70785,42088,22.92
+ls-1951,LS,India,1951,1951,official,77,Kolhapur Cum Satara,GEN,Bombay,686418,IND,Khardekar Balasaheb Hasanmantrao,223056,INC,Kumbhar Ratnappa Bharamappa,163505,59551,8.68
+ls-1951,LS,India,1951,1951,official,78,Mehsana East,GEN,Bombay,202822,INC,Parekh Shantilal Girdharlal,107525,IND,Patel Purshottamdas Ranchhoddas,74084,33441,16.49
+ls-1951,LS,India,1951,1951,official,79,Mehsana West,GEN,Bombay,225034,IND,Kilachand Tulshidas Kilachand,110478,INC,Desai Khandubhai Kasanji,106414,4064,1.81
+ls-1951,LS,India,1951,1951,official,80,Mumbai City North,GEN,Bombay,577751,INC,Gandhi Vithal Balkrishna,149138,SOC,Mehta Ashok Ranjitram,139741,9397,1.63
+ls-1951,LS,India,1951,1951,official,81,Mumbai City South,GEN,Bombay,194136,INC,Patil Sadashiv Kanoji,96302,SOC,Purshottamdas Trikamdas,61215,35087,18.07
+ls-1951,LS,India,1951,1951,official,82,Mumbai Suburban,GEN,Bombay,199927,INC,Raiji Jayashri Naishadh,88519,SOC,Chattopadhyaya Kamladevi,75729,12790,6.4
+ls-1951,LS,India,1951,1951,official,83,Nasik Central,GEN,Bombay,205175,INC,Deshpande Govind Hari,89261,SOC,Zodge Narayanrao Ganpatrao,45600,43661,21.28
+ls-1951,LS,India,1951,1951,official,84,North Satara,GEN,Bombay,198739,INC,Altekar Ganesh Sadashiv,91319,PWP,Nalavade Ramchandra Manohar,54095,37224,18.73
+ls-1951,LS,India,1951,1951,official,85,Pancchmahals Cum Vadodara East,GEN,Bombay,318085,INC,Gandhi Maneklal Maganlal,201891,SOC,Kavi Karansing Narsing,116194,85697,26.94
+ls-1951,LS,India,1951,1951,official,86,Poona Central,GEN,Bombay,192406,INC,Gadgil Narhar Vishnu,102692,PWP,Jedhe Keshavrao Marutrao,42200,60492,31.44
+ls-1951,LS,India,1951,1951,official,87,Poona South,GEN,Bombay,179289,INC,Maydeo Indira Anant,114720,SOC,Limaye Shridhar Purshottam,32432,82288,45.9
+ls-1951,LS,India,1951,1951,official,88,Ratnagiri North,GEN,Bombay,151181,INC,Bhosale Jagannathrao Krishnarao,75366,IND,Karandikar Shivram Laxman,34426,40940,27.08
+ls-1951,LS,India,1951,1951,official,89,Ratnagiri South,GEN,Bombay,144239,INC,Joshi Moreshwar Dinkar,57481,SOC,Gore Narayan Ganesh,38224,19257,13.35
+ls-1951,LS,India,1951,1951,official,90,Sabarkantha,GEN,Bombay,201468,INC,Nanda Gulzarilal Bulaqiram,106048,IND,Maharaj Himmatsinhji Dowlatsinhji,83674,22374,11.11
+ls-1951,LS,India,1951,1951,official,91,Sholapur,GEN,Bombay,633159,PWP,More Shankar Shantaram,209697,SCF,Rajbhoj Pandurang Nathuji,193076,16621,2.63
+ls-1951,LS,India,1951,1951,official,92,South Satara,GEN,Bombay,223955,INC,Pawar Vyankatrao Pirajirao,133915,PWP,Patil Dhondaji Pandurang,59705,74210,33.14
+ls-1951,LS,India,1951,1951,official,93,Surat,GEN,Bombay,450978,INC,Desai Kanhaiyalal Nanabhai,244016,SOC,Patel Bahadurbhai Kuthabhai,126233,117783,26.12
+ls-1951,LS,India,1951,1951,official,94,Thana,GEN,Bombay,468553,INC,Nandkar Anant Savalaram,151952,SOC,Vartak Govind Dharmaji,140595,11357,2.42
+ls-1951,LS,India,1951,1951,official,95,Vadodara West,GEN,Bombay,201509,IND,Amin Indhubhai Bhailalbhai,91419,SOC,"Gokhale, Hari Ramchandra",55595,35824,17.78
+ls-1951,LS,India,1951,1951,official,96,West Khandesh,GEN,Bombay,450149,INC,Bharatiya Shaligram Ramchandra,171242,PWP,Natwadkar Jayantrao Ganpat,105649,65593,14.57
+ls-1951,LS,India,1951,1951,official,97,Coorg,GEN,Coorg,63813,INC,N. Somanna,38063,IND,K. T. Uthappa,25750,12313,19.3
+ls-1951,LS,India,1951,1951,official,98,Delhi Sadar,GEN,Delhi,101590,INC,Radha Raman,60505,BJS,Rang Behari Lal,37164,23341,22.98
+ls-1951,LS,India,1951,1951,official,99,New Delhi,GEN,Delhi,102175,KMPP,Suchetia Kripalani,47735,INC,Man Mohani Sehgal,40064,7671,7.51
+ls-1951,LS,India,1951,1951,official,100,Outer Delhi,GEN,Delhi,288296,INC,C. Krisnan Nair,118562,BJS,Naval Prabhakar,74077,44485,15.43
+ls-1951,LS,India,1951,1951,official,101,Chamba Sirmur,GEN,Himachal Pradesh,47812,INC,A. R. Sewal,28451,BJS,H. S. Bam,11865,16586,34.69
+ls-1951,LS,India,1951,1951,official,102,Mandi Mahasu,GEN,Himachal Pradesh,133944,INC,Amrit Kaur,47152,KMPP,Gopi Ram,19872,27280,20.37
+ls-1951,LS,India,1951,1951,official,103,Adilabad,GEN,Hyderabad,156907,SOC,C. Madhav Reddy,90995,INC,J. V. Narsingrao,65912,25083,15.99
+ls-1951,LS,India,1951,1951,official,104,Ambad,GEN,Hyderabad,145667,INC,Hanmanth Rao Ganeshrao,80563,PDF,Chandragupta Digambar Das,65104,15459,10.61
+ls-1951,LS,India,1951,1951,official,105,Aurangabad,GEN,Hyderabad,138306,INC,Sureshchandra Shivprasad Arya,71092,PDF,S. K. Vaisham Payan,35869,35223,25.47
+ls-1951,LS,India,1951,1951,official,106,Bhir,GEN,Hyderabad,126253,PDF,Ramchander Govind Paranjppe,67752,INC,Sridhar Vaman Naik,58501,9251,7.33
+ls-1951,LS,India,1951,1951,official,107,Bidar,GEN,Hyderabad,158378,INC,Shoukatulla Shah Ansari,92105,SOC,R. V. Bidap,38702,53403,33.72
+ls-1951,LS,India,1951,1951,official,108,Gulabarga,GEN,Hyderabad,106140,INC,Swamy Ramanand Tirth,56087,IND,Saran Gowda,39041,17046,16.06
+ls-1951,LS,India,1951,1951,official,109,Hyderabad City,GEN,Hyderabad,147657,INC,Ahmed Mohiuddin,70004,PDF,Makhdoom Mohiuddin,54344,15660,10.61
+ls-1951,LS,India,1951,1951,official,110,Ibrahimpatam,GEN,Hyderabad,144579,INC,Sadat Ali Khan,66536,SCF,Subbiah J. H,33241,33295,23.03
+ls-1951,LS,India,1951,1951,official,111,Karimnagar,GEN,Hyderabad,648234,PDF,Badan Yella Reddy,197234,SCF,M. R. Krishnan,175527,21707,3.35
+ls-1951,LS,India,1951,1951,official,112,Khammam,GEN,Hyderabad,188064,PDF,T. B. Vittala Rao,101223,INC,Gadiuirm Krishna Reddy,28591,72632,38.62
+ls-1951,LS,India,1951,1951,official,113,Kustagi,GEN,Hyderabad,170259,IND,Shiv Murthy Swamy,107209,INC,Madhava Rao Anwari,63050,44159,25.94
+ls-1951,LS,India,1951,1951,official,114,Mahboobnagar,GEN,Hyderabad,344270,INC,Janardhan Reddy,173926,SOC,M. Rami Reddy,102131,71795,20.85
+ls-1951,LS,India,1951,1951,official,115,Medak,GEN,Hyderabad,197637,PDF,Jaisoorya,90366,INC,Srinivas Rao,70686,19680,9.96
+ls-1951,LS,India,1951,1951,official,116,Nalgonda,GEN,Hyderabad,438034,PDF,Ravi Narayan Reddy,309162,INC,Sukam Atchalu,96837,212325,48.47
+ls-1951,LS,India,1951,1951,official,117,Nanded,GEN,Hyderabad,340686,INC,Shanker Rao Srinivas Rao,122638,SCF,Deo Rao Namdeo Rao,67788,54850,16.1
+ls-1951,LS,India,1951,1951,official,118,Nizamabad,GEN,Hyderabad,160995,INC,Harish Chandra Heda,86619,SOC,Kashinath Rao Mukalpar,74376,12243,7.6
+ls-1951,LS,India,1951,1951,official,119,Osmanabad,GEN,Hyderabad,194043,INC,Diwan Raghevendra Srinivas Rao,101573,PWP,Narsing Rao Balbim Rao,92470,9103,4.69
+ls-1951,LS,India,1951,1951,official,120,Parbhani,GEN,Hyderabad,140434,PWP,Narayan Rao Waghmare,92698,INC,Ramchander Rao Nandapurkar,47736,44962,32.02
+ls-1951,LS,India,1951,1951,official,121,Vicarabad,GEN,Hyderabad,181357,INC,Ebenezer S. A,140861,SOC,Narayan,40496,100365,55.34
+ls-1951,LS,India,1951,1951,official,122,Warangal,GEN,Hyderabad,186506,PDF,Pendyal Raghava Rao,77264,INC,Koloji Narayan Rao,73651,3613,1.94
+ls-1951,LS,India,1951,1951,official,123,Yadgir,GEN,Hyderabad,0,INC,Krishna Charya Joshi,0,,,,0,
+ls-1951,LS,India,1951,1951,official,124,Kutch East,GEN,Kutch,49236,INC,Dholakia Gulabshanker Amrutlal,31625,IND,Thacker Premji Raghavji,17611,14014,28.46
+ls-1951,LS,India,1951,1951,official,125,Kutch West,GEN,Kutch,70344,INC,Khimji Bhawanji Arjun,47146,IND,Shah Khusal Talaksi,17213,29933,42.55
+ls-1951,LS,India,1951,1951,official,126,Guna,GEN,Madhya Bharat,138858,HMS,V. G. Deshpande,56518,INC,Gopi Krishna Vijayvargiya,53549,2969,2.14
+ls-1951,LS,India,1951,1951,official,127,Gwalior,GEN,Madhya Bharat,144412,HMS,V. G. Deshpande,65695,INC,Vaidehi Charan Parashar,54638,11057,7.66
+ls-1951,LS,India,1951,1951,official,128,Indore,GEN,Madhya Bharat,178654,INC,Nandlal Surya Narayan,109506,BJS,Pant Vaidya Narayan Waman,46989,62517,34.99
+ls-1951,LS,India,1951,1951,official,129,Jhabua,GEN,Madhya Bharat,140946,INC,Amar Singh,58299,SOC,Pratap Singh,45151,13148,9.33
+ls-1951,LS,India,1951,1951,official,130,Mandsaur,GEN,Madhya Bharat,140861,INC,Kailash Nath Katju,92356,SOC,Kannaiyalal Dongarwal,48505,43851,31.13
+ls-1951,LS,India,1951,1951,official,131,Morena Bhind,GEN,Madhya Bharat,267666,INC,Radha Charan,124878,RRP,Suraj Prasad Alias Surya Prasad,83834,41044,15.33
+ls-1951,LS,India,1951,1951,official,132,Nimar,GEN,Madhya Bharat,127499,INC,Bajinath Mahodaya,83433,SOC,Dattatraya Bhope,44066,39367,30.88
+ls-1951,LS,India,1951,1951,official,133,Shajapur Rajgarh,GEN,Madhya Bharat,324471,INC,Liladhar Joshi,139948,RRP,Bhagu Nandu,91648,48300,14.89
+ls-1951,LS,India,1951,1951,official,134,Ujjain,GEN,Madhya Bharat,133816,INC,Radhelal Vyas,72868,RRP,Prabhavati Chandrashekhar,31132,41736,31.19
+ls-1951,LS,India,1951,1951,official,135,Amravati East,GEN,Madhya Pradesh,221630,INC,Panjabrao Shamrao Deshmukh,139120,IND,Gangabisen Maniklal Sikchi,42472,96648,43.61
+ls-1951,LS,India,1951,1951,official,136,Amravati West,GEN,Madhya Pradesh,207654,INC,Krushnarao Gulabrao Deshmukh,120266,SOC,Madhaorao Dhanaji Sagane,37664,82602,39.78
+ls-1951,LS,India,1951,1951,official,137,Balaghat,GEN,Madhya Pradesh,179578,INC,C. D. Goutam,117725,SOC,Sheoram Bisen,45125,72600,40.43
+ls-1951,LS,India,1951,1951,official,138,Bastar,GEN,Madhya Pradesh,213845,IND,Muchaki Kosa,177588,INC,Surti Kistaya,36257,141331,66.09
+ls-1951,LS,India,1951,1951,official,139,Betul,GEN,Madhya Pradesh,216283,INC,Bhikulal Lakhmichand Chandak,129277,IND,Gopal Namuji Deshmukh,35195,94082,43.5
+ls-1951,LS,India,1951,1951,official,140,Bhandara,GEN,Madhya Pradesh,636811,INC,Chaturbhuj Vithaldas Jasani,230096,SOC,Tularam Chandrabhan Sakhare,154125,75971,11.93
+ls-1951,LS,India,1951,1951,official,141,Bilaspur,GEN,Madhya Pradesh,335157,INC,Reshamlal,129832,IND,Sardar Amarsingh Saigal,56015,73817,22.02
+ls-1951,LS,India,1951,1951,official,142,Bilaspur Durg Raipur,GEN,Madhya Pradesh,359994,INC,Agamdas,116713,KMPP,Bhupendranath Mishra,90571,26142,7.26
+ls-1951,LS,India,1951,1951,official,143,Buldana Akola,GEN,Madhya Pradesh,651479,INC,Gopalrao Bajirao Khedkar,243386,SCF,Laxman Sharwan Bhatkar,152004,91382,14.03
+ls-1951,LS,India,1951,1951,official,144,Chanda,GEN,Madhya Pradesh,230336,INC,Mulla Abdullabhai Taherali,142277,SOC,Govindrao Nilkanthrao Hastak,55148,87129,37.83
+ls-1951,LS,India,1951,1951,official,145,Chhindwara,GEN,Madhya Pradesh,131682,INC,Raichand Bhai Shah,69997,IND,Pannalal Bhargava,35742,34255,26.01
+ls-1951,LS,India,1951,1951,official,146,Durg,GEN,Madhya Pradesh,191348,INC,W. S. Kirolikar,121648,CPI,Gangaprasad,29422,92226,48.2
+ls-1951,LS,India,1951,1951,official,147,Durg Bastar,GEN,Madhya Pradesh,214924,INC,Bhagwati Charan Shukla,102666,RRP,Hanumanprasad Brahmachari,48017,54649,25.43
+ls-1951,LS,India,1951,1951,official,148,Hoshangabad,GEN,Madhya Pradesh,164838,INC,Syed Ahmad,65375,IND,H. V. Kamath,65201,174,0.11
+ls-1951,LS,India,1951,1951,official,149,Jabalpur North,GEN,Madhya Pradesh,176914,INC,Sushil Kumar,78923,IND,Ramdass,47661,31262,17.67
+ls-1951,LS,India,1951,1951,official,150,Mahasamund,GEN,Madhya Pradesh,159178,INC,Sheodas Daga,110886,KMPP,Adwaitgir,48292,62594,39.32
+ls-1951,LS,India,1951,1951,official,151,Mandla Jabalpur South,GEN,Madhya Pradesh,360146,INC,Govind Das Maheshwari,212914,SOC,Mangroo,78248,134666,37.39
+ls-1951,LS,India,1951,1951,official,152,Nagpur,GEN,Madhya Pradesh,210078,INC,Anusayabai Purushottam Kale,103566,SOC,Vinayak Sakharam Dandekar,44502,59064,28.12
+ls-1951,LS,India,1951,1951,official,153,Nimar,GEN,Madhya Pradesh,175023,INC,Tiwari Babulal Surajbhan,83228,BJS,Badrinarayan Ganpatrao,35905,47323,27.04
+ls-1951,LS,India,1951,1951,official,154,Sagar,GEN,Madhya Pradesh,157374,INC,Sodhia Khubchand Daryao Singh,87689,BJS,Chintamanrao Balajirao,31943,55746,35.42
+ls-1951,LS,India,1951,1951,official,155,Surguja Raigarh,GEN,Madhya Pradesh,413021,INC,Babunath Singh,148487,IND,Maharajkumar Chandikeshwar Sharan Singh Ju Deo,101178,47309,11.45
+ls-1951,LS,India,1951,1951,official,156,Wardha,GEN,Madhya Pradesh,238029,INC,Shrimannarayan Dharamnarayan Agarwal,144755,SOC,Nilkanth Ramchandra Abhyyankar,37330,107425,45.13
+ls-1951,LS,India,1951,1951,official,157,Yeotmal,GEN,Madhya Pradesh,221757,INC,Sahadeo Arjun Bharati,124376,SOC,Ramnarayan Ramgopal Chemadia,54887,69489,31.34
+ls-1951,LS,India,1951,1951,official,158,Anantapur,GEN,Madras,215922,INC,Paidi Lakshmayya,85187,IND,Pamidi Bayapa Reddi,76187,9000,4.17
+ls-1951,LS,India,1951,1951,official,159,Aruppukkottai,GEN,Madras,200738,FBL(MG),U. Muthuramalinga Thevar,90512,INC,M. Gulam Mohideen,70724,19788,9.86
+ls-1951,LS,India,1951,1951,official,160,Bellary,GEN,Madras,219591,INC,T. Subrahmanyam,124976,IND,Y. Mahabaleshwarappa,94615,30361,13.83
+ls-1951,LS,India,1951,1951,official,161,Chengalpattu,GEN,Madras,150835,INC,O. V. Alagesan,55102,KMPP,A. R. L. Pathy,39857,15245,10.11
+ls-1951,LS,India,1951,1951,official,162,Chennai,GEN,Madras,195370,INC,T. T. Krishnamachari,79431,JUSP,Balasubramanya Mdr,63254,16177,8.28
+ls-1951,LS,India,1951,1951,official,163,Chittoor,GEN,Madras,538212,INC,T. N. Vishwanatha Reddi,161590,KLP,M. V. Gangadara Siva,119412,42178,7.84
+ls-1951,LS,India,1951,1951,official,164,Coimbatore,GEN,Madras,0,INC,T. A. Ramalinga Chettiar,0,,,,0,
+ls-1951,LS,India,1951,1951,official,165,Cuddalore,GEN,Madras,438858,TNT,Govindaswamy Kachirayar,186894,INC,Kanakasabai,164985,21909,4.99
+ls-1951,LS,India,1951,1951,official,166,Cuddapah,GEN,Madras,239982,CPI,Eswara Reddi Yeddula,85125,INC,P. Basi Reddy,66658,18467,7.7
+ls-1951,LS,India,1951,1951,official,167,Dharmapuri,GEN,Madras,185545,IND,N. Satyanathan,66216,INC,K. Subramanian,61570,4646,2.5
+ls-1951,LS,India,1951,1951,official,168,Dindigul,GEN,Madras,209488,INC,Ammu Swaminathan,77285,CPI,Krishnaswami,64953,12332,5.89
+ls-1951,LS,India,1951,1951,official,169,Eluru,GEN,Madras,602251,CPI,K. Subha Rao,187822,KMPP,B. S. Murthy,164671,23151,3.84
+ls-1951,LS,India,1951,1951,official,170,Erode,GEN,Madras,628159,INC,Balakrishnan,169708,IND,Periasami Gounder,137955,31753,5.05
+ls-1951,LS,India,1951,1951,official,171,Gudivada,GEN,Madras,276723,CPI,K. Gopala Rao,142537,INC,Duggirala Balaramakrishniah,86785,55752,20.15
+ls-1951,LS,India,1951,1951,official,172,Guntur,GEN,Madras,254499,IND,S. V. Laxmi Narasimham,79350,KLP,N. G. Ranga,61833,17517,6.88
+ls-1951,LS,India,1951,1951,official,173,Kakinada,GEN,Madras,219834,CPI,Chelikani Venkata Rama Rao,85901,INC,Moslakanti Tirumal Rao,59540,26361,11.99
+ls-1951,LS,India,1951,1951,official,174,Kancheepuram,GEN,Madras,199957,CWL,A. Krishnaswami,111233,INC,T. Chengalvarayan,88724,22509,11.26
+ls-1951,LS,India,1951,1951,official,175,Kannur,GEN,Madras,252481,CPI,A. K. Gopalan,166299,INC,C. K. K. Govindan Nayar,79270,87029,34.47
+ls-1951,LS,India,1951,1951,official,176,Kozhikode,GEN,Madras,236008,KMPP,Achuthan Damodaran Menon,104466,INC,"Ummar Koya, Parappil",77012,27454,11.63
+ls-1951,LS,India,1951,1951,official,177,Krishnagiri,GEN,Madras,147253,INC,C. R. Narasimhan,61672,IND,C. Doraisami Gounder,55478,6194,4.21
+ls-1951,LS,India,1951,1951,official,178,Kumbakonam,GEN,Madras,229457,INC,C. Ramaswamy Mudaliar,95433,IND,Ramaiah,62124,33309,14.52
+ls-1951,LS,India,1951,1951,official,179,Kurnool,GEN,Madras,194213,INC,H. Sitharama Reddy,70887,IND,Y. Gadilingana Goud,57874,13013,6.7
+ls-1951,LS,India,1951,1951,official,180,Madurai,GEN,Madras,543817,INC,S. Balasubramaniam,195762,CPI,P. M. Kakkan,96036,99726,18.34
+ls-1951,LS,India,1951,1951,official,181,Malappuram,GEN,Madras,203899,ML,B. Pocker,79470,INC,T. V Chathukutty Nair,62494,16976,8.33
+ls-1951,LS,India,1951,1951,official,182,Masulipatnam,GEN,Madras,253728,CPI,Sanka Butehikottaiah,124101,INC,K. Venkata Ramayya,77250,46851,18.47
+ls-1951,LS,India,1951,1951,official,183,Mayuram,GEN,Madras,631982,CPI,K. Ananda Nambiar,198743,INC,K. Santhanam,189089,9654,1.53
+ls-1951,LS,India,1951,1951,official,184,Nandyal,GEN,Madras,244765,IND,Seshagiri Rao,67905,INC,Sura Rami Reddy,61301,6604,2.7
+ls-1951,LS,India,1951,1951,official,185,Narasaraopet,GEN,Madras,216472,IND,Chapalamadugu Ramiah Chowdry,78332,INC,Nandala Anjaneyulu Reddi,48396,29936,13.83
+ls-1951,LS,India,1951,1951,official,186,Nellore,GEN,Madras,207004,IND,Bezwada Ramachandra Reddy,67582,INC,Vennalakurthi Raghavaiah,65795,1787,0.86
+ls-1951,LS,India,1951,1951,official,187,Ongole,GEN,Madras,547148,IND,M. Nanadass,152472,KMPP,P. Venkataraghaviah,101343,51129,9.34
+ls-1951,LS,India,1951,1951,official,188,Parvathipuram,GEN,Madras,198166,IND,N. Rama Seshiah,67124,INC,Senapathi Sitharama Patrudu,39540,27584,13.92
+ls-1951,LS,India,1951,1951,official,189,Pathapatnam,GEN,Madras,167679,INC,V. V. Giri,50084,IND,Madusudana Jagadev Raja Bahadur,43689,6395,3.81
+ls-1951,LS,India,1951,1951,official,190,Penukonda,GEN,Madras,217626,KMPP,K. S. Raghavachari,109408,INC,Kalluri Subba Rao,85098,24310,11.17
+ls-1951,LS,India,1951,1951,official,191,Perambalur,GEN,Madras,225858,TNT,V. Boorarangaswami Pandayachi,84332,INC,R. Krishnaswami Reddiar,65443,18889,8.36
+ls-1951,LS,India,1951,1951,official,192,Periyakulam,GEN,Madras,242777,INC,A/ Sakthivadivel Gounder,107875,FBL(MG),C. Raghupathi Thevar,74991,32884,13.54
+ls-1951,LS,India,1951,1951,official,193,Pollachi,GEN,Madras,210359,INC,Damodaram,93405,SOC,Krisnabai Nimbkar Vasudev,46744,46661,22.18
+ls-1951,LS,India,1951,1951,official,194,Ponnani,GEN,Madras,513501,KMPP,Kelappan Koyhapali,146366,INC,Karunakara Menon,136603,9763,1.9
+ls-1951,LS,India,1951,1951,official,195,Pudukkottai,GEN,Madras,191697,KMPP,K. M. Vallatharsu,102404,INC,V. Ramaiah Servai,89293,13111,6.84
+ls-1951,LS,India,1951,1951,official,196,Rajahmundry,GEN,Madras,793698,CPI,Kaneti Mohana Rao,147706,SOC,Nalla Reddi Naidu,146331,1375,0.17
+ls-1951,LS,India,1951,1951,official,197,Ramanathapuram,GEN,Madras,193589,INC,V. Vr. N. Ar. Nagappa Chettiar,109110,KMPP,T. Sundaram,44118,64992,33.57
+ls-1951,LS,India,1951,1951,official,198,Salem,GEN,Madras,203792,INC,S. V. Ramaswami,90570,IND,Konnu Rao Sahaib S. Durai Konnu Pillai,79705,10865,5.33
+ls-1951,LS,India,1951,1951,official,199,Sankaranainarkoil,GEN,Madras,246936,INC,M. Sankarapandian,96577,IND,Ahmad Ibrahim,92459,4118,1.67
+ls-1951,LS,India,1951,1951,official,200,South Kanara (North),GEN,Madras,220761,INC,U. Srinivasa Mallyya,98122,KMPP,K. B Jinaraja Hegde,86268,11854,5.37
+ls-1951,LS,India,1951,1951,official,201,South Kanara South,GEN,Madras,206101,INC,B. Shiva Rao,96619,KMPP,K. R. Karanth,87778,8841,4.29
+ls-1951,LS,India,1951,1951,official,202,Srikakulam,GEN,Madras,185675,IND,Boddapalli Rajagopala Rao,51992,INC,Pasupati Lakshmi Narsinha Raju,42593,9399,5.06
+ls-1951,LS,India,1951,1951,official,203,Srivaikuntam,GEN,Madras,172254,INC,A. V. Thomas,107338,SOC,M. M. Subramanian,64916,42422,24.63
+ls-1951,LS,India,1951,1951,official,204,Srivilliputhur,GEN,Madras,224114,INC,K. Kamaraj Nadar,104829,IND,G. D. Naidu,77835,26994,12.04
+ls-1951,LS,India,1951,1951,official,205,Tellicherry,GEN,Madras,231138,KMPP,N. Damodaran,98483,INC,P. Kunhiraman,62182,36301,15.71
+ls-1951,LS,India,1951,1951,official,206,Tenali,GEN,Madras,259773,INC,Kotha Raghuramiah,103126,CPI,Koratala Satyanarayana,101738,1388,0.53
+ls-1951,LS,India,1951,1951,official,207,Thanjavur,GEN,Madras,201724,INC,R. Venkataraman,92483,IND,R. Srinivasa Sarma,87476,5007,2.48
+ls-1951,LS,India,1951,1951,official,208,Thiruvallur,GEN,Madras,525870,INC,Margatham Chandrasekar,110265,IND,P. Natesan,80985,29280,5.57
+ls-1951,LS,India,1951,1951,official,209,Tindivanam,GEN,Madras,452259,TNT,A. Jayaraman,220670,INC,V. Muniswami,152306,68364,15.12
+ls-1951,LS,India,1951,1951,official,210,Tiruchengode,GEN,Madras,174637,IND,S. K. Baby Alias Kandaswami,95664,INC,Dr. P. Subbaroyan,78973,16691,9.56
+ls-1951,LS,India,1951,1951,official,211,Tiruchirappalli,GEN,Madras,214952,IND,E. Mathuram,94184,INC,N. Halasyam,77007,17177,7.99
+ls-1951,LS,India,1951,1951,official,212,Tirunelveli,GEN,Madras,194203,INC,Thanu Pillai,86077,IND,Athimoolam,71871,14206,7.32
+ls-1951,LS,India,1951,1951,official,213,Tirupati,GEN,Madras,223527,INC,M. Ananthasayanam Ayyanagar,114782,KLP,"N. Venkataram, Naidu",108745,6037,2.7
+ls-1951,LS,India,1951,1951,official,214,Tiruppur,GEN,Madras,208375,INC,T. S. Avinashilingam Chettiar,117630,IND,Venkatachalam,90745,26885,12.9
+ls-1951,LS,India,1951,1951,official,215,Vandavasi,GEN,Madras,177512,CWL,Munisami,96011,INC,Ramachandra Reddy,68498,27513,15.5
+ls-1951,LS,India,1951,1951,official,216,Vellore,GEN,Madras,520966,INC,Muthukrishnan,139448,CWL,Ramachander,118154,21294,4.09
+ls-1951,LS,India,1951,1951,official,217,Vijayawada,GEN,Madras,264680,IND,Harindranath Chatopadhyya,124320,INC,Rajyam Sinha,49396,74924,28.31
+ls-1951,LS,India,1951,1951,official,218,Visakhapatnam,GEN,Madras,339476,IND,Lanka Sundaram,140718,INC,K. Subbaraju,124102,16616,4.89
+ls-1951,LS,India,1951,1951,official,219,Vizianagaram,GEN,Madras,181852,SOC,Kandala Subramaniam,112096,INC,Pasumarihi Veerabhadraswami,27541,84555,46.5
+ls-1951,LS,India,1951,1951,official,220,Inner Manipur,GEN,Manipur,74906,INC,Jogeswor Singh,22902,CPI,Th. Bira Singh,13184,9718,12.97
+ls-1951,LS,India,1951,1951,official,221,Outer Manipur,GEN,Manipur,77561,SOC,Rishang,23625,AMN,Suisa,18271,5354,6.9
+ls-1951,LS,India,1951,1951,official,222,Bangalore North,GEN,Mysore,177057,INC,N. Keshavaiengar,83513,SOC,C. G. K. Reddy,24666,58847,33.24
+ls-1951,LS,India,1951,1951,official,223,Bangalore South,GEN,Mysore,155948,INC,T. Madiah Gowda,80951,KMPP,K. Srinivasa Rao,36766,44185,28.33
+ls-1951,LS,India,1951,1951,official,224,Chitaldrug,GEN,Mysore,218227,INC,S. Nijalingappa,126584,KMPP,G. Marulappa,47432,79152,36.27
+ls-1951,LS,India,1951,1951,official,225,Hassan Chickmagalur,GEN,Mysore,171850,INC,H. Siddananjappa,116561,SOC,S. Sivappa,55289,61272,35.65
+ls-1951,LS,India,1951,1951,official,226,Kolar,GEN,Mysore,545302,INC,Doddathimmiah,203988,IND,M. V. Krishnappa,108581,95407,17.5
+ls-1951,LS,India,1951,1951,official,227,Mandya,GEN,Mysore,212015,INC,M. K. Sivananjappa,125566,KMPP,M. C. Lingegowda,86449,39117,18.45
+ls-1951,LS,India,1951,1951,official,228,Mysore,GEN,Mysore,405378,INC,N. Rachiah,209203,KMPP,M. S. Gurupadaswamy,196175,13028,3.21
+ls-1951,LS,India,1951,1951,official,229,Shimoga,GEN,Mysore,235659,INC,K. G. Wodeyar,108990,SOC,T. L. Kalliah,53719,55271,23.45
+ls-1951,LS,India,1951,1951,official,230,Tumkur,GEN,Mysore,223505,INC,C. R. Basappa,116596,SOC,Kadri Shamanna,47756,68840,30.8
+ls-1951,LS,India,1951,1951,official,231,Balasore,GEN,Odisha,343365,INC,Kanhu Charan Jena,205151,SOC,Bhagabat Sahu,94005,111146,32.37
+ls-1951,LS,India,1951,1951,official,232,Bargarh,GEN,Odisha,98141,IND,Ghanshyam Das Thirani,27461,GP,Gananath Gautia,22159,5302,5.4
+ls-1951,LS,India,1951,1951,official,233,Cuttack,GEN,Odisha,164145,INC,Harekrishna Mahtab,89387,CPI,Baidyanath Rath,39576,49811,30.35
+ls-1951,LS,India,1951,1951,official,234,Dhenkanal West Cuttack,GEN,Odisha,284067,INC,Niranjan Jena,133666,SOC,Sarangadhar Das,95907,37759,13.29
+ls-1951,LS,India,1951,1951,official,235,Ganjam South,GEN,Odisha,109695,CPI,Bijoy Chandra Das,61002,IND,Dataram Varaha Narsingh Rao,28524,32478,29.61
+ls-1951,LS,India,1951,1951,official,236,Ghumsur,GEN,Odisha,145186,IND,Umacharan Patnaik,81880,INC,Biswanath Das,63306,18574,12.79
+ls-1951,LS,India,1951,1951,official,237,Jajpur Keonjhar,GEN,Odisha,243084,INC,Bhubananda Das,104114,GP,Lakhmidhar Jena,83529,20585,8.47
+ls-1951,LS,India,1951,1951,official,238,Kalahandi Bolangir,GEN,Odisha,287067,GP,Giridhari Bhoi,198378,INC,Rajendra Narayan Singh Deo,88689,109689,38.21
+ls-1951,LS,India,1951,1951,official,239,Kendrapara,GEN,Odisha,173806,INC,Nityananda Kanungo,84540,SOC,Dhruba Ch. Sahu,46488,38052,21.89
+ls-1951,LS,India,1951,1951,official,240,Khurda,GEN,Odisha,138531,INC,Lingraj Misra,66765,CPI,Mohan Das,41048,25717,18.56
+ls-1951,LS,India,1951,1951,official,241,Mayurbhanj,GEN,Odisha,108238,INC,Ramchandra Majhi,48830,SOC,Hansada Purnachandra,37670,11160,10.31
+ls-1951,LS,India,1951,1951,official,242,Nabarangpur,GEN,Odisha,143222,GP,Ponnada Subarao,67257,INC,Jagdish Chandra Nayak,65479,1778,1.24
+ls-1951,LS,India,1951,1951,official,243,Puri,GEN,Odisha,155622,INC,Lokanath Misra,85945,CPI,Man Mohan Misra,69677,16268,10.45
+ls-1951,LS,India,1951,1951,official,244,Rayagada Phulbani,GEN,Odisha,0,INC,T. Sangana,0,,,,0,
+ls-1951,LS,India,1951,1951,official,245,Sambalpur,GEN,Odisha,128485,GP,Natabar Pandey,70622,INC,Gauri Sankar Misra,37284,33338,25.95
+ls-1951,LS,India,1951,1951,official,246,Sundargarh,GEN,Odisha,179734,INC,Sibnarayan Singh,74062,GP,Natabar Nayak,68724,5338,2.97
+ls-1951,LS,India,1951,1951,official,247,Kapurthala Bhatinda,GEN,Patiala and East Punjab States Union,551595,SAD,Hukam Singh,210067,INC,Ajit Singh,149760,60307,10.93
+ls-1951,LS,India,1951,1951,official,248,Mohindergarh,GEN,Patiala and East Punjab States Union,180559,INC,Hira Singh,57290,IND,Sher Singh,36499,20791,11.51
+ls-1951,LS,India,1951,1951,official,249,Patiala,GEN,Patiala and East Punjab States Union,219562,INC,Ram Partap,103552,SAD,Karam Singh,80948,22604,10.3
+ls-1951,LS,India,1951,1951,official,250,Sangrur,GEN,Patiala and East Punjab States Union,211718,IND,Ranjit Singh,70569,INC,Bhagwan Singh,56751,13818,6.53
+ls-1951,LS,India,1951,1951,official,251,Ambala Shimla,GEN,Punjab,200028,INC,Tek Chand,98249,BJS,Sohan Lal,53866,44383,22.19
+ls-1951,LS,India,1951,1951,official,252,Amritsar,GEN,Punjab,180439,INC,Gurmukh Singh Musaffar,86382,SAD,Hukam Singh,54172,32210,17.85
+ls-1951,LS,India,1951,1951,official,253,Fazilka Sirsa,GEN,Punjab,214413,INC,Atma Singh,75412,SAD,Gur Raj Singh,55245,20167,9.41
+ls-1951,LS,India,1951,1951,official,254,Ferozepore Ludhiana,GEN,Punjab,539730,SAD,Lal Singh,157908,INC,Mangal Singh,157233,675,0.13
+ls-1951,LS,India,1951,1951,official,255,Gurdaspur,GEN,Punjab,182413,INC,Teja Singh,86052,IND,Gurbhajan Singh,64364,21688,11.89
+ls-1951,LS,India,1951,1951,official,256,Gurgaon,GEN,Punjab,251946,INC,Thakar Das,113269,IND,Jiwan Khan,36615,76654,30.42
+ls-1951,LS,India,1951,1951,official,257,Hissar,GEN,Punjab,188389,INC,Achint Ram,66266,IND,Hardev Sahai,36295,29971,15.91
+ls-1951,LS,India,1951,1951,official,258,Hoshiarpur,GEN,Punjab,635916,INC,Diwan Chand,198585,SCF,Ram Das,123007,75578,11.88
+ls-1951,LS,India,1951,1951,official,259,Jalandhar,GEN,Punjab,199468,INC,Amar Nath,100103,SAD,Ajit Singh,65645,34458,17.27
+ls-1951,LS,India,1951,1951,official,260,Jhajjar Rewari,GEN,Punjab,246224,INC,Ghamandi Lal,102435,ZP,Partap Singh,98503,3932,1.6
+ls-1951,LS,India,1951,1951,official,261,Kangra,GEN,Punjab,159053,INC,Hem Raj,102669,BJS,Yodh Raj,28311,74358,46.75
+ls-1951,LS,India,1951,1951,official,262,Karnal,GEN,Punjab,662184,INC,Subhadra Joshi,203588,RRP,Virendra Kumar,89475,114113,17.23
+ls-1951,LS,India,1951,1951,official,263,Nawan Shahr,GEN,Punjab,250375,INC,Baldev Singh,116109,CPI,Har Kishan Singh,73448,42661,17.04
+ls-1951,LS,India,1951,1951,official,264,Rohtak,GEN,Punjab,253188,INC,Ranbir Singh,108148,ZP,Hari Ram,81776,26372,10.42
+ls-1951,LS,India,1951,1951,official,265,Tarn Taran,GEN,Punjab,212396,INC,Surjit Singh,78207,CPI,Dalip Singh,54844,23363,11.0
+ls-1951,LS,India,1951,1951,official,266,Alwar,GEN,Rajasthan,199856,INC,Sobha Ram,112121,KLP,P. D. Singania,42471,69650,34.85
+ls-1951,LS,India,1951,1951,official,267,Banswara Dungarpur,GEN,Rajasthan,117265,INC,Bhikha Bhai,80064,IND,Shri Ramji,37201,42863,36.55
+ls-1951,LS,India,1951,1951,official,268,Barmer Jalore,GEN,Rajasthan,128092,IND,Bhawani Singh,81546,INC,Poonam Chand,37053,44493,34.74
+ls-1951,LS,India,1951,1951,official,269,Bharatpur Sawaimadhopur,GEN,Rajasthan,548907,IND,Girraj Sharan Singh,196391,KLP,Manak Chand,176395,19996,3.64
+ls-1951,LS,India,1951,1951,official,270,Bhilwara,GEN,Rajasthan,108838,RRP,Hari Ram,51562,INC,Ramesh Chander,38361,13201,12.13
+ls-1951,LS,India,1951,1951,official,271,Bikaner Churu,GEN,Rajasthan,187557,IND,Maharaja Karni Singh,117926,INC,Raja Kushal Singh,54227,63699,33.96
+ls-1951,LS,India,1951,1951,official,272,Chittoor,GEN,Rajasthan,112548,BJS,Umashanker,52460,INC,Manak Lal,45861,6599,5.86
+ls-1951,LS,India,1951,1951,official,273,Ganganagar Jhunjhunu,GEN,Rajasthan,457086,INC,Panna Lal,154079,RRP,Murarka Radhey Shyam,75379,78700,17.22
+ls-1951,LS,India,1951,1951,official,274,Jaipur,GEN,Rajasthan,119094,INC,Daulat Mal,49773,IND,Chiranji Lal,35989,13784,11.57
+ls-1951,LS,India,1951,1951,official,275,Jaipur Sawaimadhopur,GEN,Rajasthan,122770,INC,Ram Karan Joshi,66197,HMS,Sohan Mal,35338,30859,25.14
+ls-1951,LS,India,1951,1951,official,276,Jodhpur,GEN,Rajasthan,177850,IND,Hanwant Singh,139833,INC,Nuri Md. Yasin,38017,101816,57.25
+ls-1951,LS,India,1951,1951,official,277,Kotab Bundi,GEN,Rajasthan,93005,RRP,Chandra Sen,41715,INC,Dwarka Lal,24575,17140,18.43
+ls-1951,LS,India,1951,1951,official,278,Kotah Jhalawar,GEN,Rajasthan,94936,INC,Nemichand Kasilwal,38518,IND,Sita Ram,35859,2659,2.8
+ls-1951,LS,India,1951,1951,official,279,Nagaur Pali,GEN,Rajasthan,200411,IND,Gajadhar,94105,INC,Pittie Govinglal,79640,14465,7.22
+ls-1951,LS,India,1951,1951,official,280,Sikar,GEN,Rajasthan,134158,RRP,Nand Lal,52980,INC,Bajai Kamal Nayan Jamna Lal,48795,4185,3.12
+ls-1951,LS,India,1951,1951,official,281,Sirohi Pali,GEN,Rajasthan,159335,IND,Ajit Singh,99925,INC,Gokal Bhai Bhutt,37080,62845,39.44
+ls-1951,LS,India,1951,1951,official,282,Tonk,GEN,Rajasthan,129770,INC,Panna Lal Kaushik,60980,KLP,Lami Naraian,42423,18557,14.3
+ls-1951,LS,India,1951,1951,official,283,Udaipur,GEN,Rajasthan,91944,INC,Balwant Singh,37331,BJS,Lal Singh,33761,3570,3.88
+ls-1951,LS,India,1951,1951,official,284,Gohilwad,GEN,Saurashtra,124240,INC,Mehta Balwantrai Gopalji,80256,IND,Shridharani Krishanlal Jethalal,22710,57546,46.32
+ls-1951,LS,India,1951,1951,official,285,Gohilwad Sorath,GEN,Saurashtra,163639,INC,Shah Chimanlal Chakubhai,118239,SOC,Gandhi Hirachand,21784,96455,58.94
+ls-1951,LS,India,1951,1951,official,286,Halar,GEN,Saurashtra,0,INC,Major Gen. M. S. Himatsinhji,0,,,,0,
+ls-1951,LS,India,1951,1951,official,287,Madhya Saurashtra,GEN,Saurashtra,139962,INC,Joshi Jethalal Harikrishna,86003,SKS,Bhatt Vinubhai Jagannath,29766,56237,40.18
+ls-1951,LS,India,1951,1951,official,288,Sorath,GEN,Saurashtra,170901,INC,Nathiwani Narendra,123581,HMS,Nanavati Venilal,47320,76261,44.62
+ls-1951,LS,India,1951,1951,official,289,Zalawad,GEN,Saurashtra,163963,INC,Parikh Rasiklal Umedchand,98033,IND,Shah Lavanprasad Fulchand,30650,67383,41.1
+ls-1951,LS,India,1951,1951,official,290,Alappuzha,GEN,Travancore Cochin,275409,IND,P. T. Punnose,158430,INC,A. P. Udayabhanu,82050,76380,27.73
+ls-1951,LS,India,1951,1951,official,291,Chirayinkil,GEN,Travancore Cochin,233287,IND,V. Parameswaran Nair,94771,INC,T. K. Narayana Pillai,77867,16904,7.25
+ls-1951,LS,India,1951,1951,official,292,Crangannur,GEN,Travancore Cochin,239313,INC,K. T. Achyuthan,93216,IND,George Chadayammuri,71608,21608,9.03
+ls-1951,LS,India,1951,1951,official,293,Ernakulam,GEN,Travancore Cochin,247832,INC,A. M. Thomas,103834,KSP,Padmanabha Menon,102098,1736,0.7
+ls-1951,LS,India,1951,1951,official,294,Kottayam,GEN,Travancore Cochin,284961,INC,C. P. Mathew,170654,IND,Varkey Santhisthan,114307,56347,19.77
+ls-1951,LS,India,1951,1951,official,295,Meenachil,GEN,Travancore Cochin,267829,INC,P. T. Chacko,130245,IND,Madhavan Pillai,79895,50350,18.8
+ls-1951,LS,India,1951,1951,official,296,Nagercoil,GEN,Travancore Cochin,227904,TTC,A. Nesamony,115893,IND,Sivathanu Pillai,43778,72115,31.64
+ls-1951,LS,India,1951,1951,official,297,Quilon Cum Mavelikara,GEN,Travancore Cochin,836488,RSP,Sreekantan Nair,220312,IND,R. Velayudhan,194089,26223,3.13
+ls-1951,LS,India,1951,1951,official,298,Thiruvalla,GEN,Travancore Cochin,257600,INC,Mathen C. P,153823,SOC,Narayana Pillai,84924,68899,26.75
+ls-1951,LS,India,1951,1951,official,299,Thiruvananthapuram,GEN,Travancore Cochin,255044,IND,Annie Mascarene,116617,SOC,T. K. Narayana Pillai,48500,68117,26.71
+ls-1951,LS,India,1951,1951,official,300,Trichur,GEN,Travancore Cochin,172906,INC,Iyyunni Chalakka,70300,IND,Joseph Mundaserry,56362,13938,8.06
+ls-1951,LS,India,1951,1951,official,301,Tripura East,GEN,Tripura,79520,CPI,Dasaratha Deb,42866,INC,Sachindra Lal Singh,29650,13216,16.62
+ls-1951,LS,India,1951,1951,official,302,Tripura West,GEN,Tripura,77851,CPI,Birendra Chandra Dutt,53592,IND,M. K. Durjoykishore Dev Barman,10987,42605,54.73
+ls-1951,LS,India,1951,1951,official,303,Agra District (East),GEN,Uttar Pradesh,156403,INC,Raghubir Singh,70154,IND,Hirday Nand Kunzru,47642,22512,14.39
+ls-1951,LS,India,1951,1951,official,304,Agra District (West),GEN,Uttar Pradesh,177414,INC,Achal Singh Seth,102181,IND,Krishan Dutt Paliwal,45882,56299,31.73
+ls-1951,LS,India,1951,1951,official,305,Aligarh District,GEN,Uttar Pradesh,495552,INC,Nardeo Ji,206335,SCF,Shri Chand Singhal,117963,88372,17.83
+ls-1951,LS,India,1951,1951,official,306,Allahabad Distt (East) Cum Jaunpur Distt (West),GEN,Uttar Pradesh,421322,INC,Jawahar Lal Nehru,233571,KMPP,Masuriya Din,59642,173929,41.28
+ls-1951,LS,India,1951,1951,official,307,Allahabad Distt (West),GEN,Uttar Pradesh,129771,INC,Sri Prakasa,68708,KMPP,R. N. Basu,32026,36682,28.27
+ls-1951,LS,India,1951,1951,official,308,Almora District (North East),GEN,Uttar Pradesh,100667,INC,Devi Datt,54964,SOC,Purna Nand,24169,30795,30.59
+ls-1951,LS,India,1951,1951,official,309,Azamgarh District (East) Cum Ballia District (West),GEN,Uttar Pradesh,153266,INC,Algu Rai Shastri,47559,CPI,Zainul Abdin Ahmad,40296,7263,4.74
+ls-1951,LS,India,1951,1951,official,310,Azamgarh District (West),GEN,Uttar Pradesh,313868,INC,Vishwa Nath,112449,SOC,Sita Ram,81534,30915,9.85
+ls-1951,LS,India,1951,1951,official,311,Bahraich District (East),GEN,Uttar Pradesh,96028,INC,Rafi Ahmad Kidwai,47624,RRP,Rameshwar,22159,25465,26.52
+ls-1951,LS,India,1951,1951,official,312,Bahraich District (West),GEN,Uttar Pradesh,142131,INC,Jogendra Singh,60298,IND,Sunder Dass,50578,9720,6.84
+ls-1951,LS,India,1951,1951,official,313,Ballia District (East),GEN,Uttar Pradesh,126480,IND,Murli Manohar,47393,INC,Govind Malaviya,40962,6431,5.08
+ls-1951,LS,India,1951,1951,official,314,Banaras District (Central),GEN,Uttar Pradesh,162478,INC,Raghunath Singh,78763,SOC,Vishwanath Sharma,39446,39317,24.2
+ls-1951,LS,India,1951,1951,official,315,Banaras District (East),GEN,Uttar Pradesh,153123,INC,Tribhuan Narain Singh,65446,IND,Ranjit Singh,27731,37715,24.63
+ls-1951,LS,India,1951,1951,official,316,Banda District Cum Fatehpur District,GEN,Uttar Pradesh,288466,INC,Shive Dayal,87353,SOC,Piarey Lal Kureel,56601,30752,10.66
+ls-1951,LS,India,1951,1951,official,317,Bareilly District (South),GEN,Uttar Pradesh,138758,INC,Satish Chandra,66740,SOC,Seth Damodar Saroop,30067,36673,26.43
+ls-1951,LS,India,1951,1951,official,318,Basti District (North),GEN,Uttar Pradesh,172752,INC,Udai Shanker Dubey,128312,UPPP,Ambika Pratap Narain,22802,105510,61.08
+ls-1951,LS,India,1951,1951,official,319,Basti Distt Central (East) Cum Gorakhpur Distt (West),GEN,Uttar Pradesh,328641,INC,Ram Shanker Lal,193733,HMS,Sohan Lal Dhusiya,61989,131744,40.09
+ls-1951,LS,India,1951,1951,official,320,Bijnor District (South),GEN,Uttar Pradesh,190669,INC,Nemi Saran,75018,IND,Govind Sahay,43520,31498,16.52
+ls-1951,LS,India,1951,1951,official,321,Budaun District (West),GEN,Uttar Pradesh,131103,INC,Badan Sing,71074,IND,Narendra Sing,44841,26233,20.01
+ls-1951,LS,India,1951,1951,official,322,Bulandshahr District,GEN,Uttar Pradesh,514995,INC,Balmiki Kanhaiya Lal,223717,SCF,Raghubar Dayal,114258,109459,21.25
+ls-1951,LS,India,1951,1951,official,323,Dehra Dun Distt Cum Bijnor Distt (North West) Cum Saharanpur District (West),GEN,Uttar Pradesh,191655,INC,Mahavir Tyagi,122141,BJS,J. R. Goyal,26472,95669,49.92
+ls-1951,LS,India,1951,1951,official,324,Deoria District (East),GEN,Uttar Pradesh,127752,SOC,Ram Ji,62133,INC,Ram Dhari,35972,26161,20.48
+ls-1951,LS,India,1951,1951,official,325,Deoria District (South),GEN,Uttar Pradesh,119616,INC,Sarayu,53530,SOC,Bishwa Nath,37160,16370,13.69
+ls-1951,LS,India,1951,1951,official,326,Deoria District (West),GEN,Uttar Pradesh,114804,INC,Bishwa Nath,63325,SOC,Adya Prasad,26690,36635,31.91
+ls-1951,LS,India,1951,1951,official,327,Etah Disctict North East Cum Budaun Distt (East),GEN,Uttar Pradesh,153239,INC,Raghubir Sahai,63147,BJS,Hakim Sing,40769,22378,14.6
+ls-1951,LS,India,1951,1951,official,328,Etah District (Central),GEN,Uttar Pradesh,168730,INC,Rohan Lal Chaturvedi,68367,BJS,Rao Krishan Pal Singh,38782,29585,17.53
+ls-1951,LS,India,1951,1951,official,329,Etah Distt (West) Cum Mainpuri Distt (West) Cum Mathura District (East),GEN,Uttar Pradesh,185634,INC,Digamber Singh,104536,SOC,Ganga Singh,41457,63079,33.98
+ls-1951,LS,India,1951,1951,official,330,Faizabad Distt (North West),GEN,Uttar Pradesh,307781,INC,Panna Lal,130002,KMPP,Lallan Ji,81614,48388,15.72
+ls-1951,LS,India,1951,1951,official,331,Farrukhabad District (North),GEN,Uttar Pradesh,167836,INC,Mool Chand Dube,86024,SOC,Tej Narain,37939,48085,28.65
+ls-1951,LS,India,1951,1951,official,332,Garhwal Distt (East) Cum Moradabad Distt (North East),GEN,Uttar Pradesh,96529,INC,Bhaktadarshan,65994,SOC,Pratap Singh,20664,45330,46.96
+ls-1951,LS,India,1951,1951,official,333,Garhwal Distt (West) Cum Tehri Garhwal Distt Cum Bijnor Distt (North),GEN,Uttar Pradesh,135092,IND,Maharani Sahiba Kamlendu Mati Shah,68811,INC,Krishna Singh,54829,13982,10.35
+ls-1951,LS,India,1951,1951,official,334,Ghazipur District (West),GEN,Uttar Pradesh,169758,INC,Har Prasad,52809,SOC,Vishwanath,39433,13376,7.88
+ls-1951,LS,India,1951,1951,official,335,Ghazipur Distt (East) Cum Ballia District South (West),GEN,Uttar Pradesh,117115,SOC,Ram Nagina,44195,INC,Krishna Nand,43793,402,0.34
+ls-1951,LS,India,1951,1951,official,336,Gonda District (East) Cum Basti District (West),GEN,Uttar Pradesh,117305,INC,Kesho Deo Malviya,68516,HMS,Bishwa Nath Prasad Agarwal,29251,39265,33.47
+ls-1951,LS,India,1951,1951,official,337,Gonda District (North),GEN,Uttar Pradesh,164274,INC,Chowdhari Hyder Husain,82217,BJS,Dikshit Deomani Acharya,61376,20841,12.69
+ls-1951,LS,India,1951,1951,official,338,Gonda District (West),GEN,Uttar Pradesh,131240,HMS,Nayar Shakuntala,66330,INC,Tandon Lal Behar,48111,18219,13.88
+ls-1951,LS,India,1951,1951,official,339,Gorakhpur District (Central),GEN,Uttar Pradesh,144643,INC,Dasrath Pd. Divedi,108898,IND,Kedar Nath Lahri,14507,94391,65.26
+ls-1951,LS,India,1951,1951,official,340,Gorakhpur District (North),GEN,Uttar Pradesh,120382,INC,Hari Shanker Prasad,67341,KMPP,Shibban Lal Saksena,32531,34810,28.92
+ls-1951,LS,India,1951,1951,official,341,Gorakhpur District (South),GEN,Uttar Pradesh,104695,INC,Sinhasan Singh,57450,HMS,Mahant Digvijai Nath,25678,31772,30.35
+ls-1951,LS,India,1951,1951,official,342,Hamirpur District,GEN,Uttar Pradesh,128684,INC,Mannu Lal Duvedi,42118,IND,Ran Vijaya Bahadur Singh,37974,4144,3.22
+ls-1951,LS,India,1951,1951,official,343,Hardoi Distt (North West) Cum Farrukhabad Distt (East) Cum Shahjanpur Distt (South),GEN,Uttar Pradesh,420170,INC,Bashir Husain Zaidi,111883,RRP,Bulaqi Ram,65907,45976,10.94
+ls-1951,LS,India,1951,1951,official,344,Jalaun Distt Cum Etawah Distt (West) Cum Jhansi Distt (North),GEN,Uttar Pradesh,430806,INC,Lotan Ram,151820,SCF,Hoti Lal,88659,63161,14.66
+ls-1951,LS,India,1951,1951,official,345,Jaunpur District (East),GEN,Uttar Pradesh,377397,INC,Birbal Singh,177285,IND,Ganpat,76569,100716,26.69
+ls-1951,LS,India,1951,1951,official,346,Jhansi District (South),GEN,Uttar Pradesh,135532,INC,Dhulekar Raghunath,83714,CPI,Kanchan Mani Ram,19403,64311,47.45
+ls-1951,LS,India,1951,1951,official,347,Kanpur District Central,GEN,Uttar Pradesh,136821,INC,Hari Har Nath Shastri,88812,SOC,Ramau Shanker Avasthi,17635,71177,52.02
+ls-1951,LS,India,1951,1951,official,348,Kanpur District South Cum Etawah District,GEN,Uttar Pradesh,160257,INC,Bal Krishna Sharma,78355,SOC,Chandra Shekher,51765,26590,16.59
+ls-1951,LS,India,1951,1951,official,349,Kanpur Distt North Cum Farrukhabad Distt South,GEN,Uttar Pradesh,166635,INC,V. N. Tiwari,83859,SOC,P. D. Katiyar,54943,28916,17.35
+ls-1951,LS,India,1951,1951,official,350,Lucknow District Central,GEN,Uttar Pradesh,148569,INC,Vijai Laxmi Pandit,102764,BJS,Har Govind Dayal,35112,67652,45.54
+ls-1951,LS,India,1951,1951,official,351,Lucknow Distt Cum Bara Banki Distt,GEN,Uttar Pradesh,327226,INC,Ganga Devi,123427,SOC,Mohan Lal Saxena,50206,73221,22.38
+ls-1951,LS,India,1951,1951,official,352,Mainpuri District (East),GEN,Uttar Pradesh,139345,INC,Badshah Gupta,61736,BJS,Raghuber Sahai,23265,38471,27.61
+ls-1951,LS,India,1951,1951,official,353,Mathura District (West),GEN,Uttar Pradesh,182335,INC,Krishna Chandra,71235,IND,Mahendra Pratap Singh,52974,18261,10.02
+ls-1951,LS,India,1951,1951,official,354,Meerut District (North East),GEN,Uttar Pradesh,209089,INC,Shah Nawaz Khan,125288,RRP,Suraj Bal Swami,36136,89152,42.64
+ls-1951,LS,India,1951,1951,official,355,Meerut District (South),GEN,Uttar Pradesh,185764,INC,Krishna Chandra Sharma,117256,BJS,Harsaran Dass,27557,89699,48.29
+ls-1951,LS,India,1951,1951,official,356,Meerut District (West),GEN,Uttar Pradesh,205243,INC,Khushi Ram Sharma,124601,IND,Hukam Singh,45551,79050,38.52
+ls-1951,LS,India,1951,1951,official,357,Mirzapur District Cum Banaras District (West),GEN,Uttar Pradesh,332412,INC,Rup Narain,135831,IND,J. N. Wilson,41580,94251,28.35
+ls-1951,LS,India,1951,1951,official,358,Moradabad District,GEN,Uttar Pradesh,163085,INC,Hifzul Rehman,97863,BJS,Hari Raj Sarup,50890,46973,28.8
+ls-1951,LS,India,1951,1951,official,359,Moradabad District (West),GEN,Uttar Pradesh,156871,INC,Ram Saran,74644,SOC,Om Prakash,41552,33092,21.1
+ls-1951,LS,India,1951,1951,official,360,Muzaffarnagar District (South),GEN,Uttar Pradesh,199562,INC,Tripathi Hira Ballabh,103994,IND,Ranjit Singh,29999,73995,37.08
+ls-1951,LS,India,1951,1951,official,361,Naini Tal Distt Cum Almora Distt (South West) Cum Bareilly Distt (North),GEN,Uttar Pradesh,129142,INC,C. D. Pande,74314,SOC,Dan Singh,54828,19486,15.09
+ls-1951,LS,India,1951,1951,official,362,Pilibhit Distt Cum Bareilly Distt (East),GEN,Uttar Pradesh,128991,INC,Mukund Lal Agarwala,55612,SOC,Ram Chandra Singh Sadhu,29120,26492,20.54
+ls-1951,LS,India,1951,1951,official,363,Pratapgarh Distt (East),GEN,Uttar Pradesh,122001,INC,Munishwar Dutt Upadhyaya,77668,BJS,Pashupati Pratap Singh,23518,54150,44.38
+ls-1951,LS,India,1951,1951,official,364,Pratapgarh Distt (West) Cum Rae Bareli Distt (East),GEN,Uttar Pradesh,314174,INC,Feroze Gandhi,158569,SOC,Baij Nath Kureel,44791,113778,36.21
+ls-1951,LS,India,1951,1951,official,365,Rampur District Cum Bareilly District (West),GEN,Uttar Pradesh,181607,INC,Abul Kalam Azad,108180,HMS,Bishan Chandra Seth,73427,34753,19.14
+ls-1951,LS,India,1951,1951,official,366,Saharanpur Distt (West) Cum Muzaffer Nagar Distt (North),GEN,Uttar Pradesh,408474,INC,Sunder Lal,253220,SOC,Ajit Prashad,63848,189372,46.36
+ls-1951,LS,India,1951,1951,official,367,Shajahanpur Distt (North) Cum Kheri Distt (East),GEN,Uttar Pradesh,372745,INC,Rameshwar Prasad Nevatia,126252,IND,Ganeshi Lal Chowdhry,93057,33195,8.91
+ls-1951,LS,India,1951,1951,official,368,Sitapur Distt Cum Kheri Distt (West),GEN,Uttar Pradesh,347495,INC,Pragi Lal,134275,BJS,Uma Nehru,59877,74398,21.41
+ls-1951,LS,India,1951,1951,official,369,Sultanpur District (South),GEN,Uttar Pradesh,136044,INC,B. V. Keskar,74242,BJS,Ram Sumiran,24410,49832,36.63
+ls-1951,LS,India,1951,1951,official,370,Sultanpur Distt (North) Cum Faizabad Distt (South West),GEN,Uttar Pradesh,112311,INC,M. A. Kazmi,46091,RRP,Surendra Partap Sahi,27324,18767,16.71
+ls-1951,LS,India,1951,1951,official,371,Unnao District Cum Rae Bareli Distt (West) Cum Hardoi District (South East),GEN,Uttar Pradesh,307616,INC,Vishamabher Daya L,168081,SOC,Swami Ramanand,51290,116791,37.97
+ls-1951,LS,India,1951,1951,official,372,Chhatarpur Datia Tikamgarh,GEN,Vindhya Pradesh,238650,INC,Ram Sahai Tiwari,82104,BJS,Moti Lal Malvi,32171,49933,20.92
+ls-1951,LS,India,1951,1951,official,373,Rewa,GEN,Vindhya Pradesh,97630,INC,Rajbhan Singh,26549,KMPP,Maharao Raja-Kamlakar Singh,23248,3301,3.38
+ls-1951,LS,India,1951,1951,official,374,Satna,GEN,Vindhya Pradesh,101641,INC,Upadhiya S. D,48800,RRP,Sada Shiv,17099,31701,31.19
+ls-1951,LS,India,1951,1951,official,375,Shahdol Sidhi,GEN,Vindhya Pradesh,159557,SOC,Bhagwan Dutta Shastri,62033,IND,Ram Ratan Gupta,57256,4777,2.99
+ls-1951,LS,India,1951,1951,official,376,Bankura,GEN,West Bengal,469101,INC,Jagannath Koley,108885,HMS,Pashupati Mandal,90112,18773,4.0
+ls-1951,LS,India,1951,1951,official,377,Barrackpore,GEN,West Bengal,159207,INC,Das Ramananda,81585,BJS,Ghosh Debprasad,30081,51504,32.35
+ls-1951,LS,India,1951,1951,official,378,Basirhat,GEN,West Bengal,497327,CPI,Chakravartty Renu,172182,INC,Datta Satya Hari,149212,22970,4.62
+ls-1951,LS,India,1951,1951,official,379,Berhampore,GEN,West Bengal,178873,RSP,Tridib Chaudhuri,82579,IND,A. K. M. Zakariah,54186,28393,15.87
+ls-1951,LS,India,1951,1951,official,380,Birbhum,GEN,West Bengal,366606,INC,Anil Kumar Chanda,116734,HMS,Kamal Krishna Das,90311,26423,7.21
+ls-1951,LS,India,1951,1951,official,381,Burdwan,GEN,West Bengal,341111,INC,Atulla Ghose,119987,FBL(MG),Mono Mohan Das,90242,29745,8.72
+ls-1951,LS,India,1951,1951,official,382,Contai,GEN,West Bengal,210471,INC,"Dass, Basanta Kumar",79809,KMPP,"Bandopadhya, Promatha Nath",79682,127,0.06
+ls-1951,LS,India,1951,1951,official,383,Diamond Harbour,GEN,West Bengal,518131,CPI,Basu Kamal,120982,INC,Naskar Purnendu Sekhar,118671,2311,0.45
+ls-1951,LS,India,1951,1951,official,384,Ghatal,GEN,West Bengal,180379,CPI,Chowdhury Nikunja Behari,73435,INC,Basu Maitreyee,68916,4519,2.51
+ls-1951,LS,India,1951,1951,official,385,Hooghly,GEN,West Bengal,198385,HMS,N. C. Chatterjee,71798,INC,Renuka Roy,66898,4900,2.47
+ls-1951,LS,India,1951,1951,official,386,Howrah,GEN,West Bengal,178071,INC,Santosh Kumar Dutta,60929,CPI,"Sarkar, Anil Kumar",59163,1766,0.99
+ls-1951,LS,India,1951,1951,official,387,Kalna Katwa,GEN,West Bengal,185672,INC,Jonab Abdus Sattar,72682,HMS,Ashutosh Lahiri,50791,21891,11.79
+ls-1951,LS,India,1951,1951,official,388,Kolkata North East,GEN,West Bengal,143132,CPI,Hirendra Nath Mukherjee,71970,INC,Mukherjee Bejoy Behari,36180,35790,25.0
+ls-1951,LS,India,1951,1951,official,389,Kolkata North West,GEN,West Bengal,139731,RSP,Meghnath Shah,74124,INC,Himatsingka Prabhu Dayal,51168,22956,16.43
+ls-1951,LS,India,1951,1951,official,390,Kolkata South East,GEN,West Bengal,144614,BJS,Syama Prosad Mookerjee,65026,INC,Mriganka Mohan Sur,44044,20982,14.51
+ls-1951,LS,India,1951,1951,official,391,Kolkata South West,GEN,West Bengal,144065,INC,Ashim Krishna Dutt,73634,IND,Bankim Chandra Bhattacharyya,39436,34198,23.74
+ls-1951,LS,India,1951,1951,official,392,Malda,GEN,West Bengal,145601,INC,Surendra Mohan Ghose,81666,IND,Amarendra Krishna Bhaduri,39733,41933,28.8
+ls-1951,LS,India,1951,1951,official,393,Medinipur,GEN,West Bengal,419483,BJS,Bandopadhyaya Durga Charan,151494,INC,Basu Atul Chandra,105986,45508,10.85
+ls-1951,LS,India,1951,1951,official,394,Murshidabad,GEN,West Bengal,186684,INC,Muhammed Khuda Bukhsh,124892,IND,Dhirendra Nath Rai,52661,72231,38.69
+ls-1951,LS,India,1951,1951,official,395,Nabadwip,GEN,West Bengal,159025,INC,Lakshmi Kanta Maitra,91464,IND,Kumaresh Chandra,51943,39521,24.85
+ls-1951,LS,India,1951,1951,official,396,North Bengal,GEN,West Bengal,539832,INC,Upendra Nath Barman,177618,IND,Birendra Nath Katham,86973,90645,16.79
+ls-1951,LS,India,1951,1951,official,397,Santipur,GEN,West Bengal,160938,INC,Arun Chandra Guha,80439,RCPI,Biml Kumar Chatterjee,26245,54194,33.67
+ls-1951,LS,India,1951,1951,official,398,Srerampur,GEN,West Bengal,190924,CPI,Tusar Kanti Chattopadhyaya,77734,INC,Sachindra Chaudhuri,68798,8936,4.68
+ls-1951,LS,India,1951,1951,official,399,Tamluk,GEN,West Bengal,255379,INC,"Samanta, Satish Chandra",101109,KMPP,Tripati Hrishikesh,83340,17769,6.96
+ls-1951,LS,India,1951,1951,official,400,Uluberia,GEN,West Bengal,184939,INC,Satyaban Roy,76719,FBL(MG),Arabindo Ghosal,69321,7398,4.0
+ls-1951,LS,India,1951,1951,official,401,West Dinajpur,GEN,West Bengal,149398,INC,Susil Ranjan Chattopadhyay,88815,CPI,Narendra Mohan Sen,60583,28232,18.9

@@ -1,0 +1,31 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-goa-1967,AE,Goa,1967,1967,official,1,Pernem,GEN,,7480,MAG,K . B . Laxman,4499,IND,B . Desprabhu,2181,2318,30.99
+ae-goa-1967,AE,Goa,1967,1967,official,2,Mandrem,GEN,,9640,MAG,A . J . Dsouza,6907,UGS,K . M . Vinayak,1540,5367,55.67
+ae-goa-1967,AE,Goa,1967,1967,official,3,Siolim,GEN,,10279,MAG,A . P . Pandurang,5175,UGS,D . Zeferino,4556,619,6.02
+ae-goa-1967,AE,Goa,1967,1967,official,4,Calangute,GEN,,11657,UGS,S . Valente,6329,MAG,M . R . Dharma,4633,1696,14.55
+ae-goa-1967,AE,Goa,1967,1967,official,5,Aldona,GEN,,10527,UGS,L . S . O . Fernando,6084,MAG,M . N . Pandharinath,3969,2115,20.09
+ae-goa-1967,AE,Goa,1967,1967,official,6,Mapusa,GEN,,10416,MAG,M . G . Govind,5476,UGS,K . T . Mangesh,4040,1436,13.79
+ae-goa-1967,AE,Goa,1967,1967,official,7,Tivim,GEN,,7772,MAG,J . Rane,4761,UGS,N . Narayananant,1794,2967,38.18
+ae-goa-1967,AE,Goa,1967,1967,official,8,Bicholim,GEN,,8192,MAG,C . D . Keshav,5565,IND,S . S . Sakharam,1149,4416,53.91
+ae-goa-1967,AE,Goa,1967,1967,official,9,Pale,GEN,,8712,MAG,A . K . S . Usgaonkar,5671,IND,S . U . P . Krishna,1961,3710,42.58
+ae-goa-1967,AE,Goa,1967,1967,official,10,Satari,GEN,,7397,MAG,K . G . Appa,2962,IND,D . B . Hirojirao,1068,1894,25.6
+ae-goa-1967,AE,Goa,1967,1967,official,11,Panjim,GEN,,9037,UGS,Y . S . Desai,3846,MAG,T . M . Upendra,3776,70,0.77
+ae-goa-1967,AE,Goa,1967,1967,official,12,Santa Cruz,GEN,,11823,UGS,S . J . De,7087,UGF,J . L . C . Araujo,4045,3042,25.73
+ae-goa-1967,AE,Goa,1967,1967,official,13,Santo Andre,GEN,,9841,UGS,P . T . Francisco,5656,MAG,M . A . Santana,3466,2190,22.25
+ae-goa-1967,AE,Goa,1967,1967,official,14,St Estevam,GEN,,9687,MAG,B . P . Shrinivas,5296,UGS,J . T . Timotio,3355,1941,20.04
+ae-goa-1967,AE,Goa,1967,1967,official,15,Marcaim,GEN,,8442,MAG,B . D . Balkrishna,7800,UGS,K . T . Pundlik,423,7377,87.38
+ae-goa-1967,AE,Goa,1967,1967,official,16,Ponda,GEN,,9319,MAG,K . S . Gurudatt,7144,UGS,K .S . Dattatray,1567,5577,59.85
+ae-goa-1967,AE,Goa,1967,1967,official,17,Siroda,GEN,,8624,MAG,K . V . Subrai,4571,UGS,J . F . S . Fernandes,1294,3277,38.0
+ae-goa-1967,AE,Goa,1967,1967,official,18,Sanguem,GEN,,7894,MAG,M . V . Datta,4646,UGS,S . H . A . Lathif,2785,1861,23.57
+ae-goa-1967,AE,Goa,1967,1967,official,19,Canacona,GEN,,8696,MAG,N . G . M . Balkrishna,5126,UGS,M . R . Desai,2141,2985,34.33
+ae-goa-1967,AE,Goa,1967,1967,official,20,Quepem,GEN,,6657,MAG,S . K . Desai,2955,UGS,D . S . Yeshvant,1734,1221,18.34
+ae-goa-1967,AE,Goa,1967,1967,official,21,Curchorem,GEN,,8536,UGS,A . Razak,3657,MAG,N . X . G . Desai,3519,138,1.62
+ae-goa-1967,AE,Goa,1967,1967,official,22,Cuncolim,GEN,,8652,UGS,F . R . S . A . Joao,3774,MAG,K . M . Jaiwant,1720,2054,23.74
+ae-goa-1967,AE,Goa,1967,1967,official,23,Benaulim,GEN,,8759,UGS,M . E . Jose,6528,IND,C . F . Clodomiro,1008,5520,63.02
+ae-goa-1967,AE,Goa,1967,1967,official,24,Navelim,GEN,,11001,UGS,V . L . Mauricio,6546,MAG,D . P . Santano,2831,3715,33.77
+ae-goa-1967,AE,Goa,1967,1967,official,25,Margao,GEN,,8473,UGS,N . A . Narcinva,4905,MAG,S . V . Purshotam,2832,2073,24.47
+ae-goa-1967,AE,Goa,1967,1967,official,26,Curtorim,GEN,,10161,UGS,B . R . Joaquim,8778,IND,C . A . M . Jose,556,8222,80.92
+ae-goa-1967,AE,Goa,1967,1967,official,27,Cortalim,GEN,,9058,UGS,L . P . Barbosa,6977,IND,L . C . Carvalho,1662,5315,58.68
+ae-goa-1967,AE,Goa,1967,1967,official,28,Mormugao,GEN,,12081,MAG,G . Patil,5570,UGS,M . R . Manuel,3932,1638,13.56
+ae-goa-1967,AE,Goa,1967,1967,official,29,Daman,GEN,,9414,IND,M . M . Bhathala,2775,UGS,B . O . Pandya,2544,231,2.45
+ae-goa-1967,AE,Goa,1967,1967,official,30,Diu,GEN,,6575,IND,F . N . Srinivassa,1552,PSP,A . R . Hadmat,1407,145,2.21

@@ -1,0 +1,61 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,1,Nartiang,ST,Jaintia Hills,28257,INC,Sniawbhalang Dhar,18392,IND,Hilarius Dkhar,9534,8858,31.35
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,2,Jowai,ST,Jaintia Hills,25554,INC,Roytre Christopher,9496,IND,Moonlight Pariat,8817,679,2.66
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,3,Raliang,ST,Jaintia Hills,24174,INC,Comingone Ymbon,11272,UDP,Konstan Sungoh,7850,3422,14.16
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,4,Mowkaiaw,ST,Jaintia Hills,23810,IND,Robinus Syngkon,7064,INC,Qually Suiam,6370,694,2.91
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,5,Sutnga Saipung,ST,Jaintia Hills,29036,IND,Hopeful Bamon,14205,INC,Shitlang Pale,12743,1462,5.04
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,6,Khliehriat,ST,Jaintia Hills,29717,IND,Justine Dkhar,10807,INC,Finelynes Bareh,6815,3992,13.43
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,7,Amlarem,ST,Jaintia Hills,24951,IND,Stephanson Mukhim,8297,INC,Lahkmen Rymbui,7163,1134,4.54
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,8,Mawhati,ST,Ri Bhoi  *,23095,IND,Julias Kitbok Dorphang,8246,UDP,Donbok Khymdeit,7087,1159,5.02
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,9,Nongpoh,ST,Ri Bhoi  *,21475,INC,Dr. D.D.Lapang,10927,UDP,Rona Khymdeit,7329,3598,16.75
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,10,Jirang,ST,Ri Bhoi  *,24750,NESDP,Lamboklang Mylliem,10336,INC,Barnabas Nongbah,7840,2496,10.08
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,11,Umsning,ST,Ri Bhoi  *,21202,INC,Dr. Celestine Lyngdoh,6637,IND,Donkupar Sumer,4695,1942,9.16
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,12,Umroi,ST,Ri Bhoi  *,18523,INC,Ngaitlang Dhar,9489,IND,Stanlywiss Rymbai,5351,4138,22.34
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,13,Mawryngkneng,ST,East Khasi Hills,22465,IND,David A. Nongrum,6200,INC,Pynehborlang Mukhim,5574,626,2.79
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,14,Pynthorumkhrah,GEN,East Khasi Hills,20467,INC,A. L. Hek,10588,IND,Process T. Sawkmie,8637,1951,9.53
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,15,Mawlai,ST,East Khasi Hills,28098,UDP,Embhahlang Syiemlieh,14029,INC,Founder Strong Cajee,8250,5779,20.57
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,16,East Shillong,ST,East Khasi Hills,16052,INC,Mazel Ampareen Lyngdoh,10103,UDP,B. M. Lanong,5019,5084,31.67
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,17,North Shillong,ST,East Khasi Hills,17913,INC,Roshan Warjri,8445,KHNAM,Adelbert Nongrum,6265,2180,12.17
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,18,West Shillong,GEN,East Khasi Hills,18468,UDP,Paul Lyngdoh,9333,INC,Mohendro Rapsang,8852,481,2.6
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,19,South Shillong,GEN,East Khasi Hills,20879,NCP,Sanbor Shullai,7179,INC,Manas Chaudhuri,6034,1145,5.48
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,20,Mylliem,ST,East Khasi Hills,21233,INC,Ronnie V. Lyngdoh,8072,IND,Teilinia S. Thangkhiew,6274,1798,8.47
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,21,Nongthymmai,ST,East Khasi Hills,20793,UDP,Jemino Mawthoh,9347,INC,Charles Pyngrope,8210,1137,5.47
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,22,Nongkrem,ST,East Khasi Hills,22278,HSPDP,Ardent Miller,8585,INC,Lambor Malngiang,6595,1990,8.93
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,23,Sohiong,ST,East Khasi Hills,21854,INC,H. Donkupar R. Lyngdoh,12353,UDP,Braston Kharphuli,9501,2852,13.05
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,24,Mawphlang,ST,East Khasi Hills,21366,INC,Kennedy Cornelius,9212,UDP,J. Antonius Lyngdoh,5868,3344,15.65
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,25,Mawsynram,ST,East Khasi Hills,22825,INC,Pynshngainlang Syiem,6923,UDP,Khraw Kupar Jyrwa,6414,509,2.23
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,26,Shella,ST,East Khasi Hills,18465,UDP,Donkupar Roy,5940,IND,Leston Wanswett,5585,355,1.92
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,27,Pynursla,ST,East Khasi Hills,26600,INC,Prestone Tynsong,12251,UDP,Banalari Khongwar,8187,4064,15.28
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,28,Sohra,ST,East Khasi Hills,18368,UDP,Titosstarwell Chyne,8787,INC,Dr.Phlour W. Khongjee,6621,2166,11.79
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,29,Mawkynrew,ST,East Khasi Hills,23900,UDP,Remington Pyngrope,6513,IND,Banteidor Lyngdoh,6076,437,1.83
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,30,Mairang,ST,West Khasi Hills,26055,UDP,Metbah Lyngdoh,13726,INC,Eureka F.P. Lyngdoh,12110,1616,6.2
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,31,Mawthadraishan,ST,West Khasi Hills,25951,UDP,Brolding Nongsiej,7786,HSPDP,Fenella Lyngdoh,7362,424,1.63
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,32,Nongstoin,ST,West Khasi Hills,23981,HSPDP,Hopingstone Lyngdoh,10931,INC,Adviser Pariong,8475,2456,10.24
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,33,Rambrai Jyrngam,ST,West Khasi Hills,22173,HSPDP,Phlastingwell,7625,IND,Kimfa Sidney Marbaniang,5756,1869,8.43
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,34,Mawshynrut,ST,West Khasi Hills,23018,HSPDP,Witting Mawsor,6778,INC,Methodius Dkhar,4375,2403,10.44
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,35,Ranikor,ST,West Khasi Hills,22288,INC,Martin M. Danggo,9189,UDP,Probin K. Raswai,8734,455,2.04
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,36,Mawkyrwat,ST,West Khasi Hills,23056,INC,Rowell Lyngdoh,6024,IND,Hadrian Lyngdoh,5050,974,4.22
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,37,Kharkutta,ST,East Garo Hills,23914,INC,Cherak Momin,7733,NPP,Omillo K Sangma,6046,1687,7.05
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,38,Mendipathar,ST,East Garo Hills,17369,NCP,Marthon Sangma,5307,INC,Frankenstein Momin,5296,11,0.06
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,39,Resubelpara,ST,East Garo Hills,17753,INC,Salseng C. Marak,9070,NPP,Timothy Shira,7741,1329,7.49
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,40,Bajengdoba,ST,East Garo Hills,20195,IND,Brigady Marak,7139,INC,Adolf Lu Hitler R. Marak,6919,220,1.09
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,41,Songsak,ST,East Garo Hills,19535,NPP,Nihim D Shira,6697,IND,Fardina C Marak,4518,2179,11.15
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,42,Rongjeng,ST,East Garo Hills,20350,INC,Sengnam Marak,6709,IND,Sabina D Sangma,3923,2786,13.69
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,43,William Nagar,ST,East Garo Hills,21537,INC,Deborah C Marak,8402,IND,Jonathone N Sangma,5525,2877,13.36
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,44,Raksamgre,ST,West Garo Hills,19471,INC,Limison D. Sangma,5761,IND,Edmund K Sangma,4701,1060,5.44
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,45,Tikrikila,ST,West Garo Hills,22466,IND,Michael T. Sangma,6995,INC,Rahinath Barchung,5293,1702,7.58
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,46,Phulbari,GEN,West Garo Hills,20601,INC,Abu Taher Mondal,4831,IND,Mark Goera B Marak,4332,499,2.42
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,47,Rajabala,GEN,West Garo Hills,24019,IND,Ashahel D Shira,6572,UDP,Dr Azad Zaman,2806,3766,15.68
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,48,Selsella,ST,West Garo Hills,24030,INC,Clement Marak,12004,NPP,Conrad Kongkal Sangma,9897,2107,8.77
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,49,Dadenggre,ST,West Garo Hills,22477,NPP,James Pangsang Kongkal,6725,IND,Ismail R. Marak,5892,833,3.71
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,50,North Tura,ST,West Garo Hills,20596,INC,Noverfield R. Marak,4713,IND,Roger Benny A. Sangma,4148,565,2.74
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,51,South Tura,ST,West Garo Hills,19654,IND,John Leslee K Sangma,7137,INC,Billykid A. Sangma,7119,18,0.09
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,52,Rangsakona,ST,West Garo Hills,23653,INC,Zenith M. Sangma,11407,IND,Subir M. Marak,5337,6070,25.66
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,53,Ampati,ST,West Garo Hills,21890,INC,Dr. Mukul Sangma,15031,NPP,Clement G. Momin,5935,9096,41.55
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,54,Mahendraganj,ST,West Garo Hills,23086,INC,Dikkanchi D. Shira,11580,UDP,Nimarson Momin,4721,6859,29.71
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,55,Salmanpara,ST,West Garo Hills,19551,INC,Winnerson D. Sangma,6824,NPP,Boston Marak,4935,1889,9.66
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,56,Gambegre,ST,West Garo Hills,19609,IND,Saleng A. Sangma,7260,INC,Besterfield N. Sangma,3803,3457,17.63
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,57,Dalu,ST,West Garo Hills,14300,INC,Kenethson R. Sangma,3363,SP,Brening A Sangma,2885,478,3.34
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,58,Rongara Siju,ST,South Garo Hills *,20061,IND,Rophul S. Marak,5458,INC,Francis Pondit R. Sangma,4802,656,3.27
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,59,Chokpot,ST,South Garo Hills *,19562,GNC,Clifford Marak,5558,NPP,Phillipole D. Marak,5073,485,2.48
+ae-meghalaya-2013,AE,Meghalaya,2013,2013,official,60,Baghmara,ST,South Garo Hills *,20270,IND,Samuel M. Sangma,7728,INC,Sirgan A. Sangma,3025,4703,23.2

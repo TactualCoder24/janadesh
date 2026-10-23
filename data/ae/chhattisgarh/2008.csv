@@ -1,0 +1,91 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,1,Bharatpur-Sonhat,ST,Koriya *,89731,BJP,Phoolchand Singh,35443,INC,Gulab Singh,28145,7298,8.13
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,2,Manendragarh,GEN,Koriya *,73493,BJP,Deepak Kumar Patel,30912,NCP,Ramanuj (Ramu Bhaiya ),16630,14282,19.43
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,3,Baikunthpur,GEN,Koriya *,91909,BJP,Bhaiya Lal Rajwade,36215,INC,Bedanti Tiwari,30679,5536,6.02
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,4,Premnagar,GEN,Surguja,131381,BJP,Renuka Singh,56652,INC,Naresh Kumar Rajwade,40543,16109,12.26
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,5,Bhatgaon,GEN,Surguja,129088,BJP,Ravi Shankar Tripathi,35943,INC,Shyam Lal Jaiswal,18510,17433,13.5
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,6,Pratappur,ST,Surguja,131332,INC,Dr. Premsai Singh Tekam,54108,BJP,Ramsevak Paikra,49863,4245,3.23
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,7,Ramanujganj,ST,Surguja,119809,BJP,Ram Vichar Netam,54562,INC,Vrihaspat Singh,50352,4210,3.51
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,8,Samri,ST,Surguja,126580,BJP,Siddha Nath Paikra,49972,IND,Chintamani Maharaj,19474,30498,24.09
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,9,Lundra,ST,Surguja,121538,INC,Ramdev Ram,51558,BJP,Kamalbhan Singh,43384,8174,6.73
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,10,Ambikapur,GEN,Surguja,133083,INC,T S Baba,56043,BJP,Anurag Singh Dev,55063,980,0.74
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,11,Sitapur,ST,Surguja,116604,INC,Amarjeet Bhagat,36281,BJP,Ganesh Ram Bhagat,34544,1737,1.49
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,12,Jashpur,ST,Jashpur *,128633,BJP,Jageswar Ram Bhagat,64553,INC,Vinay Kumar Bhagat,48783,15770,12.26
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,13,Kunkuri,ST,Jashpur *,117898,BJP,Bharat Sai,57113,INC,Uttamdan Minj,47521,9592,8.14
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,14,Pathalgaon,ST,Jashpur *,136298,INC,Rampukar Singh,64543,BJP,Vishnu Deo Sai,54627,9916,7.28
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,15,Lailunga,ST,Raigarh,131070,INC,Hriday Ram Rathiya,62107,BJP,Satyanand Rathiya,48026,14081,10.74
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,16,Raigarh,GEN,Raigarh,147457,INC,Doctor Shakrajeet,72054,BJP,Vijay Agrawal,59110,12944,8.78
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,17,Sarangarh,SC,Raigarh,159394,INC,Smt. Padma Ghanshaym,61659,BJP,Shamsher Singh,50814,10845,6.8
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,18,Kharsia,GEN,Raigarh,142359,INC,Nand Kumar Patel,81497,BJP,Laxmi Devi Patel,48069,33428,23.48
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,19,Dharamjaigarh,ST,Raigarh,131600,BJP,Om Prakash Rathiya,52435,INC,Chanesh Ram Rathiya,49068,3367,2.56
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,20,Rampur,ST,Korba *,127095,BJP,Nankiram Kanwar,58415,INC,Pyarelal Kanwar,50094,8321,6.55
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,21,Korba,GEN,Korba *,118037,INC,Jai Singh Bhaiya,48277,BJP,Banwari Lal Agrawal,47690,587,0.5
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,22,Katghora,GEN,Korba *,116159,INC,Bodhram Kanwar,38929,BJP,Jyotinand Dubey,31963,6966,6.0
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,23,Pali-Tanakhar,ST,Korba *,128043,INC,Ram Dayal Uike,56676,GGP,Hira Singh Markam,27233,29443,22.99
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,24,Marwahi,ST,Bilaspur,120695,INC,Ajit Jogi,67523,BJP,Dhyan Singh Porte,25431,42092,34.87
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,25,Kota,GEN,Bilaspur,121328,INC,Dr.Renu Jogi,55317,BJP,Mool Chand Khandelwal,45506,9811,8.09
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,26,Lormi,GEN,Bilaspur,109469,INC,Dharamjeet Singh,48569,BJP,Jawahar Sahu,43580,4989,4.56
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,27,Mungeli,SC,Bilaspur,114988,BJP,Punnulal Mohle,52074,INC,Churawan Mangeshkar,41749,10325,8.98
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,28,Takhatpur,GEN,Bilaspur,118522,BJP,Raju Singh,43431,INC,Balram Singh,37838,5593,4.72
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,29,Bilha,GEN,Bilaspur,143445,BJP,Dharam Lal Kaushik,62517,INC,Siyaram Kaushik,56447,6070,4.23
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,30,Bilaspur,GEN,Bilaspur,117368,BJP,Amar Agrawal,60784,INC,Anil Tah,51408,9376,7.99
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,31,Beltara,GEN,Bilaspur,99408,BJP,Badridhar Diwan,38867,INC,Bhuvneshwar Prasad,33891,4976,5.01
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,32,Masturi,SC,Bilaspur,143983,BJP,Dr. Krishna Murti Bandhi,54002,INC,Madan Singh Dahariya,44794,9208,6.4
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,33,Akaltara,GEN,Janjgir - Champa*,112926,BSP,Saurabh Singh,37393,INC,Chunnilal Sahu,34505,2888,2.56
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,34,Janjgir-Champa,GEN,Janjgir - Champa*,108885,BJP,Narayan Chandel,42006,INC,Motilal Dewangan,40816,1190,1.09
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,35,Sakti,GEN,Janjgir - Champa*,111783,INC,Smt. Saroja Manharan,47368,BJP,Medharam Sahu,37976,9392,8.4
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,36,Chandrapur,GEN,Janjgir - Champa*,124934,BJP,Yuddhveer Singh Judev,48843,NCP,Novel Kumar Verma,31553,17290,13.84
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,37,Jaijaipur,GEN,Janjgir - Champa*,116673,INC,Mahant Ramsunder Das,43346,BSP,Keshav Prasad Chandra,33907,9439,8.09
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,38,Pamgarh,SC,Janjgir - Champa*,100654,BSP,Dujram Bouddh,39534,BJP,Ambesh Jangde,33579,5955,5.92
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,39,Saraipali,SC,Mahasamund *,127747,INC,Dr. Haridas Bhardwaj,64456,BJP,Nira Chauhan,48234,16222,12.7
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,40,Basna,GEN,Mahasamund *,138877,INC,Devendra Bahadur Singh,52145,BJP,Premshankar Patel,36238,15907,11.45
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,41,Khallari,GEN,Mahasamund *,123908,INC,Paresh Bagbahara,66074,BJP,Preetam Singh Deewan,43569,22505,18.16
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,42,Mahasamund,GEN,Mahasamund *,114637,INC,Agni Chandrakar,52667,BJP,Moti Lal Sahu,47623,5044,4.4
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,43,Bilaigarh,SC,Raipur,147102,INC,Dr Shiv Kumar Dahriya,55863,BJP,Dr Sanam Jangade,42241,13622,9.26
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,44,Kasdol,GEN,Raipur,171699,INC,Raj Kamal Singhaniya,77661,BJP,Yogesh Chandrakar,50455,27206,15.85
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,45,Baloda Bazar,GEN,Raipur,135906,BJP,Laxmi Baghel,56788,INC,Ganesh Shankar Bajpai,51606,5182,3.81
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,46,Bhatapara,GEN,Raipur,127340,INC,Chaitram Sahu,58242,BJP,Shiv Ratan Sharma,52010,6232,4.89
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,47,Dharsiwa,GEN,Raipur,114664,BJP,Devji Bhai Patel,51396,INC,Chhatrapal Sirmour,45057,6339,5.53
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,48,Raipur Rural,GEN,Raipur,98662,BJP,Nand Kumar Sahu,46535,INC,Satyanarayan Sharma,43556,2979,3.02
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,49,Raipur City West,GEN,Raipur,100258,BJP,Rajesh Moonat,51391,INC,Santosh Agrawal,36546,14845,14.81
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,50,Raipur City North,GEN,Raipur,96712,INC,Kuldeep Singh Juneja,46982,BJP,Sachhidanand Upasne,45546,1436,1.48
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,51,Raipur City South,GEN,Raipur,113426,BJP,Brijmohan Agrawal,65686,INC,Yogesh Tiwari,40747,24939,21.99
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,52,Arang,SC,Raipur,109012,INC,Guru Rudra Kumar,34655,BJP,Sanjay Dheedhee,33318,1337,1.23
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,53,Abhanpur,GEN,Raipur,120302,BJP,Chandrashekar Sahu,56249,INC,Dhanendra Sahu,54759,1490,1.24
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,54,Rajim,GEN,Raipur,127163,INC,Amitesh Shukl,55803,BJP,Santosh Upadhyay,51887,3916,3.08
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,55,Bindranawagarh,ST,Raipur,135768,BJP,Damru Dhar Pujari,67505,INC,Onkar Shah,50801,16704,12.3
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,56,Sihawa,ST,Dhamtari *,121945,INC,Ambika Markam,56048,BJP,Pinky Shivraj Shah,41152,14896,12.22
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,57,Kurud,GEN,Dhamtari *,135150,INC,Lekhram Sahu,64299,BJP,Ajay Chandrakar (Dala),58094,6205,4.59
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,58,Dhamtari,GEN,Dhamtari *,139633,INC,Gurumukh Singh Hora,76746,BJP,Vipin Kumar Sahu,49739,27007,19.34
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,59,Sanjari Balod,GEN,Durg,133207,BJP,Madan Lal Sahu,56620,INC,Mohan Patel,49984,6636,4.98
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,60,Dondi Lohara,ST,Durg,125531,BJP,Neelima Singh Tekam,41534,INC,Anita Kumeti,37547,3987,3.18
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,61,Gunderdehi,GEN,Durg,139369,BJP,Virendra Kumar Sahu,64010,INC,Ghana Ram Sahu,61425,2585,1.85
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,62,Patan,GEN,Durg,123036,BJP,Vijay Baghel,59000,INC,Bhupesh Baghel,51158,7842,6.37
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,63,Durg-Rural,GEN,Durg,111959,INC,Pratima Chandrakar,49710,BJP,Preetpal Belchandan,48153,1557,1.39
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,64,Durg City,GEN,Durg,114662,BJP,Hemchand Yadav,53803,INC,Arun Vora,53101,702,0.61
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,65,Bhilai Nagar,GEN,Durg,102398,INC,Badruddin Quraishi,52848,BJP,Prem Prakash Pandey,43985,8863,8.66
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,66,Vaishali Nagar,GEN,Durg,120922,BJP,Saroj Pandey,63078,INC,Brij Mohan Singh,41811,21267,17.59
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,67,Ahiwara,SC,Durg,115004,BJP,Doman Lal Korsewada,57795,INC,Oni Kumar Mahilang,45144,12651,11.0
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,68,Saja,GEN,Durg,135037,INC,Ravindra Choubey,63775,BJP,Labhchand Baphna,58720,5055,3.74
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,69,Bemetara,GEN,Durg,122551,INC,Tamradhwaj Sahu,57082,BJP,Awadhesh Singh Chandel,50609,6473,5.28
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,70,Navagarh,SC,Durg,129311,BJP,Dyaldas Baghel,53519,INC,Derhu Prasad,47012,6507,5.03
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,71,Pandariya,GEN,Kawardha *,166908,INC,Akbar Bhai,72397,BJP,Lalji Chandravanshi,70536,1861,1.11
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,72,Kawardha,GEN,Kawardha *,176363,BJP,Dr. Siyaram Sahu,78817,INC,Yogeshwarraj Singh,68409,10408,5.9
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,73,Khairagarh,GEN,Rajnandgaon,122847,BJP,Komal Janghel,62437,INC,Motilal Janghel,42893,19544,15.91
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,74,Dongargarh,SC,Rajnandgaon,121216,BJP,Ramji Bharti,57315,INC,Dhanesh Patila,49900,7415,6.12
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,75,Rajnandgaon,GEN,Rajnandgaon,130083,BJP,Dr. Raman,77230,INC,Udai Mudliyar,44841,32389,24.9
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,76,Dongargaon,GEN,Rajnandgaon,121823,BJP,Kheduram Sahu,61344,INC,Shrimati Geeta Devi Singh,51937,9407,7.72
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,77,Khujji,GEN,Rajnandgaon,114353,INC,Bhola Ram Sahu,57594,BJP,Smt. Januma Devi Thakur,41475,16119,14.1
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,78,Mohala-Manpur,ST,Rajnandgaon,94150,INC,Shivraj Singh Usare,43890,BJP,Darbar Singh Mandavi,37449,6441,6.84
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,79,Antagarh,ST,Kanker *,81218,BJP,Vikram Usendi,37255,INC,Mantu Ram Pawar,37146,109,0.13
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,80,Bhanupratappur,ST,Kanker *,107644,BJP,Bramhanand,41384,IND,Manoj Mandavi,25905,15479,14.38
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,81,Kanker,ST,Kanker *,104299,BJP,Sumitra Markole,46793,INC,Dr. Preeti Netam,29290,17503,16.78
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,82,Keshkal,ST,Baster,111388,BJP,Sewakram Netam,46006,INC,Dhannu Markam,37392,8614,7.73
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,83,Kondagaon,ST,Baster,106066,BJP,Lata Usendi,44691,INC,Mohan Markam,41920,2771,2.61
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,84,Narayanpur,ST,Baster,88431,BJP,Kedarnath Kashyap,48459,INC,Rajnuram Netam,26824,21635,24.47
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,85,Bastar,ST,Baster,97129,BJP,Dr Subhau Kashyap,39991,INC,Lakheshwar Baghel,38790,1201,1.24
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,86,Jagdalpur,GEN,Baster,114344,BJP,Santosh Bafna,55003,INC,Rekhchand Jain,37479,17524,15.33
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,87,Chitrakot,ST,Baster,91136,BJP,Baiduram Kashyap,31642,INC,Pratibha Shah,22411,9231,10.13
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,88,Dantewada,ST,Dantewada*,96722,BJP,Bhima Mandavi,36813,CPI,Manish Kunjam,24805,12008,12.41
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,89,Bijapur,ST,Dantewada*,43628,BJP,Mahesh Gagda,20049,INC,Rajendra Pambhoi,9528,10521,24.12
+ae-chhattisgarh-2008,AE,Chhattisgarh,2008,2008,official,90,Konta,ST,Dantewada*,68889,INC,Lakhma Kawasi,21630,BJP,Padam Nanda,21438,192,0.28

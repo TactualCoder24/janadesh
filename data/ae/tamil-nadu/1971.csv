@@ -1,0 +1,235 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,1,Washermanpet,GEN,,72143,DMK,M.Vedachalam,38989,NCO,Ananthan,32231,6758,9.37
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,2,Harbour,GEN,Chennai,59115,IND,A M Mohideen,29225,NCO,Umapathy G,28739,486,0.82
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,3,Basin Bridge,GEN,,86301,DMK,M R Kannan,48959,NCO,K. Ramadoss,33174,15785,18.29
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,4,Park Town,GEN,,56199,SWA,H V Hande,30743,DMK,A V Asaithambi,25456,5287,9.41
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,5,Perambur,SC,Chennai,87056,DMK,Sathivanimuthu,49070,NCO,D Sulochana,37047,12023,13.81
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,6,Purasawalkam,GEN,,84063,DMK,Anbazhagan.K,47182,NCO,Bashyam Reddy,35016,12166,14.47
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,7,Egmore,GEN,Chennai,76329,DMK,Arangannal,40596,NCO,M Kothandapani,35733,4863,6.37
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,8,Thousand Lights,GEN,Chennai,67767,DMK,K A Mathialagan,38891,NCO,N M Mani Varma,27332,11559,17.06
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,9,Triplicane,GEN,,71902,DMK,V R Nedunchezhiyan,36237,NCO,K Vinayakam,35198,1039,1.45
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,10,Mylapore,GEN,Chennai,76899,NCO,T N Anandana Yaki,42301,DMK,M P Sivagnanam,34598,7703,10.02
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,11,T-Nagar,GEN,Chennai,76775,NCO,K M Subramaniam,37100,DMK,D V Narayanasamy,36221,879,1.14
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,12,Saidapet,GEN,Chennai,116290,DMK,M. Karunanidhi,63334,NCO,N Kamalingam,50823,12511,10.76
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,13,Gummidipoondi,GEN,Thiruvallur,74230,DMK,K A Vezhavendan,43355,NCO,P Obul Reddy,30875,12480,16.81
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,14,Ponneri,SC,Thiruvallur,68136,DMK,P Nagalingam,39783,NCO,Elumalai T P,21650,18133,26.61
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,15,Thiruvottiyur,GEN,Thiruvallur,95812,DMK,M V Narayanaswamy,51487,NCO,Venkatesalu Naidu,35391,16096,16.8
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,16,St Thomas Mount,GEN,,107028,DMK,M G Ramachandran,65405,NCO,T L Raghupathy,40773,24632,23.01
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,17,Tirupporur,GEN,,70507,DMK,M Munu Adhi,40187,NCO,T M Dhanapal,24950,15237,21.61
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,18,Chengalpattu,GEN,Kancheepuram,67558,DMK,C G Vishwanathan,41949,NCO,S T Neelakantan,18290,23659,35.02
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,19,Maduranthakam,GEN,Kancheepuram,65541,DMK,C Arumugam,42295,NCO,V Gopal Reddiar,23246,19049,29.06
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,20,Acharapakkam,SC,,59636,DMK,V Balasundaram,39816,NCO,C Ganesan,13457,26359,44.2
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,21,Uthiramerur,GEN,Kancheepuram,70385,DMK,K M Erasagopal,48462,NCO,C Ramasamy,19896,28566,40.59
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,22,Kancheepuram,GEN,Kancheepuram,83800,DMK,G. V. M. Annamalai,44009,NCO,D. V. Natesa Mudaliar,37697,6312,7.53
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,23,Kunnathur,SC,,73091,DMK,M. Gopal,47126,NCO,P. Appavoo,24488,22638,30.97
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,24,Sriperumbudur,GEN,Kancheepuram,78818,DMK,Di. Rajarathanam,46617,NCO,Manali Ramakrishna Mudaliar,32201,14416,18.29
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,25,Kadambathur,GEN,,57472,DMK,A Parandhaman,38569,NCO,Era Kulasekaran,18903,19666,34.22
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,26,Thiruvallur,SC,Thiruvallur,58110,DMK,S. M. Dorairaj,36496,NCO,V. S. Arunachalam,17759,18737,32.24
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,27,Tiruttani,GEN,Thiruvallur,70374,DMK,E. S. Thyagarajan,43436,NCO,A. Ekambara Reddy,26938,16498,23.44
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,28,Arakkonam,GEN,Vellore,70294,DMK,Balaraman N. S,42256,NCO,S. K. Subramania Mudaly,26878,15378,21.88
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,29,Sholingur,GEN,Vellore,66397,NCO,A. M. Ponnurangam,36776,DMK,Natrajan K. M,29621,7155,10.78
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,30,Ranipet,GEN,Vellore,67379,IND,K. A Wahab,36357,NCO,A. G. Ranganatha Naicker,31022,5335,7.92
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,31,Arcot,GEN,Vellore,67700,DMK,N. Veerasami,39126,NCO,N. R. Ethirajalu Naidu,25061,14065,20.78
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,32,Katpadi,GEN,Vellore,64868,DMK,Durai Murugan,37487,NCO,Dhandayuthapani,20919,16568,25.54
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,33,Gudiyattam,GEN,Vellore,62000,DMK,Duraisami F. K,34954,NCO,Adimoolam D. A,18580,16374,26.41
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,34,Pernambattu,SC,,60063,DMK,N. Krishnan,35804,NCO,P. Rajagopal,21665,14139,23.54
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,35,Natrampalli,GEN,,60185,DMK,T. C. Thimmaraya Gounder,33303,NCO,K. Shanmugasundaram,26882,6421,10.67
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,36,Tiruppattur,GEN,Vellore,66840,DMK,Ramasamy G,37120,NCO,Y. Shammugan,29720,7400,11.07
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,37,Vaniyambadi,GEN,Vellore,49702,IND,M. A. Latheef,27899,NCO,R. C. Samanna Gounder,19082,8817,17.74
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,38,Ambur,SC,Vellore,59697,DMK,M. Panneerselvam,32937,NCO,Adimoolam M,21449,11488,19.24
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,39,Kaniyambadi,GEN,,63640,DMK,Thopputhiruvengadam,34435,NCO,L. Balaraman,24647,9788,15.38
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,40,Vellore,GEN,Vellore,73735,DMK,Ma. Pa. Sarathy,38968,NCO,A. K. Lalalajapathy,32401,6567,8.91
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,41,Arani,GEN,Tiruvannamalai,62281,DMK,A. C. Narasimhan,37682,NCO,M. Darumarajan,24599,13083,21.01
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,42,Cheyyar,GEN,Tiruvannamalai,71655,DMK,K. Govindan,39978,NCO,Perumalsamy Nayagar,31677,8301,11.58
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,43,Vandavasi,SC,Tiruvannamalai,64917,DMK,V. Rajagopal,41452,NCO,D. Dasarathan,23465,17987,27.71
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,44,Peranamallur,GEN,,60717,DMK,P. Ettiappan,39160,NCO,Boopalan,21557,17603,28.99
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,45,Polur,GEN,Tiruvannamalai,59960,DMK,T. P. Srinivasan,34728,NCO,Natesa Gounder T. R,25232,9496,15.84
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,46,Chengam,SC,Tiruvannamalai,52551,DMK,C. Pandurangam,32260,NCO,A. Ar. Mugam,16705,15555,29.6
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,47,Thandarambattu,GEN,,64591,DMK,M. S. Radhakrishnan,37991,NCO,Sahadeva Ginder K,26600,11391,17.64
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,48,Kalasapakkam,GEN,Tiruvannamalai,72853,DMK,S. Murugaiyan,42893,NCO,M. Sundraswamy,29960,12933,17.75
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,49,Tiruvannamalai,GEN,Tiruvannamalai,74956,DMK,P. U. Shanmugam,46633,NCO,D. Annamalai Pillai,28323,18310,24.43
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,50,Melmalayanur,GEN,,58207,DMK,R. R. Munusami,31166,NCO,Gopal Gounder K,22294,8872,15.24
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,51,Gingee,GEN,Villupuram,66022,DMK,S. Sagadeva Gounder,39397,NCO,V. Perumal Nainar,26625,12772,19.35
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,52,Tindivanam,GEN,Villupuram,60784,DMK,Rajaram G,33933,NCO,K. Ramamurthy,22048,11885,19.55
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,53,Vanur,SC,Villupuram,57047,DMK,N. Muthuvel,34121,NCO,A. Venkatachalam,19306,14815,25.97
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,54,Kandamangalam,SC,,56329,DMK,M. Raman,32293,NCO,P. P. Mathavan,20628,11665,20.71
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,55,Villupuram,GEN,Villupuram,69704,DMK,M. Shanmugam,35838,NCO,V. P. Sharangapani Gounder,28562,7276,10.44
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,56,Nellikuppam,GEN,,61741,DMK,V. Krishnamoorthi Gounder,27741,NCO,K. G. Kandan,21921,5820,9.43
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,57,Cuddalore,GEN,Cuddalore,66950,DMK,R. Govindaraj,35219,NCO,P. R. Seenivasa Podayachi,30909,4310,6.44
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,58,Panruti,GEN,Cuddalore,80940,DMK,S. Ramachandran,42141,NCO,S. V. Vadivelu Padayachi,33156,8985,11.1
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,59,Kurinjipadi,SC,Cuddalore,53404,DMK,N. Rajangan,27465,NCO,M. Jayaraman,25939,1526,2.86
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,60,Bhuvanagiri,GEN,Cuddalore,64585,IND,M. A. Abusali,28615,NCO,R. Balakrishnan,23291,5324,8.24
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,61,Kattumannarkoil,SC,Cuddalore,63508,DMK,S. Perumal,32847,NCO,T. M. Kuppusami,29551,3296,5.19
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,62,Chidambaram,GEN,Cuddalore,71027,DMK,P. Ponchokkalingam,35750,NCO,R. Gopalkrishnan,34071,1679,2.36
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,63,Vridhachalam,GEN,Cuddalore,77645,DMK,M. Selvraj,42132,NCO,B. Thiyagarajan,34934,7198,9.27
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,64,Mangalur,SC,,62431,DMK,G. Jabamalai,32612,NCO,R. Perumal,21114,11498,18.42
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,65,Ulundurpet,GEN,Villupuram,62534,DMK,V. Subramaniam,36191,NCO,N. Po. Nambalam,25236,10955,17.52
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,66,Tirukkoyilur,GEN,Villupuram,69691,DMK,A. S. Kumarasamy,38520,NCO,A. Vadivel,31171,7349,10.55
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,67,Mugaiyur,GEN,,64592,DMK,A. G. Padmavathi,38744,NCO,K. A. Ranganathan,19605,19139,29.63
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,68,Rishivandiyam,SC,Villupuram,56592,DMK,N. Dharmaling A. M,29350,NCO,Mappan K,27242,2108,3.72
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,69,Sankarapuram,GEN,Villupuram,57016,DMK,N. Natchiyappan,28544,NCO,Duraimuthusamy,28472,72,0.13
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,70,Kallakurichi,GEN,Villupuram,72887,DMK,D. Kesavalu,38513,NCO,S. Sivaraman,34374,4139,5.68
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,71,Hosur,GEN,Krishnagiri,44287,SWA,B. Venkatasamy,28259,IND,T. Venkata Reddy,15063,13196,29.8
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,72,Uddanapalle,GEN,,43022,IND,K. S. Kothanadaramaiah,13854,NCO,N. Ramachandra Reddy,13384,470,1.09
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,73,Krishnagiri,GEN,Krishnagiri,49916,DMK,C. Manniappan,31445,NCO,T. G. Selvaraj,18471,12974,25.99
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,74,Kaveripattinam,GEN,,63937,DMK,V. C. Govindasamy,41546,NCO,E. Pattabi Naidu,22391,19155,29.96
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,75,Uthangarai,GEN,Krishnagiri,63274,DMK,K. R. Krishnan,36256,NCO,M. Raman,24392,11864,18.75
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,76,Harur,SC,Dharmapuri,60888,DMK,S. A. Chinnaraju,33039,NCO,M. Ponnusamy,24159,8880,14.58
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,77,Dharmapuri,GEN,Dharmapuri,73592,DMK,R. Chinnasamy,39861,NCO,D. N. Adivel,27834,12027,16.34
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,78,Palacodu,GEN,Dharmapuri,61279,DMK,M. V. Karivengadam,32378,NCO,B. K. Narashiman,28901,3477,5.67
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,79,Pennagaram,GEN,Dharmapuri,63589,DMK,N. Manickkam,33298,NCO,P. K. C. Muthuswami,30291,3007,4.73
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,80,Mettur,GEN,Salem,56844,PSP,Surendran,32656,NCO,Karuppanna Gounder,21538,11118,19.56
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,81,Taramangalam,GEN,,53821,DMK,Paramasivam,33257,NCO,Ramasamy Gounder,20564,12693,23.58
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,82,Omalur,SC,Salem,42862,DMK,V. Selladurai,26065,NCO,C. Govindan,15307,10758,25.1
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,83,Salem-I,GEN,,90847,DMK,K. Jayaraman,46262,NCO,P. Thiagarajan,42867,3395,3.74
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,84,Salem-Ii,GEN,,70402,DMK,Rajaram,37152,NCO,R. Ramakrishnan,31844,5308,7.54
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,85,Yercaud,ST,Salem,48014,DMK,Chinnusamy V,29196,NCO,K. Chinna Gounden,18818,10378,21.61
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,86,Panamarathupatti,GEN,,65841,DMK,Ponnumalai T,35832,NCO,P. Chinnu Alias Seperumal,26854,8978,13.64
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,87,Veerapandi,GEN,Salem,66479,DMK,S. Arumugam,41369,NCO,T. V. Thirumalai,18449,22920,34.48
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,88,Edappadi,GEN,Salem,65123,DMK,A. Arumugam,35638,NCO,T. Natarajan,29485,6153,9.45
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,89,Sankari,SC,Salem,45677,DMK,V. Muthur,27741,NCO,P.T. Seerangan,17422,10319,22.59
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,90,Tiruchengodu,GEN,Namakkal,71610,DMK,S. Kandappan,43605,NCO,V. Kumarasamy,24345,19260,26.9
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,91,Kapilamalai,GEN,,77180,DMK,C. V. Velappan,43022,NCO,P. Thyagarajan,33045,9977,12.93
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,92,Namakkal,GEN,Namakkal,73839,DMK,Palanivelan,39553,NCO,Kaliappan,30447,9106,12.33
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,93,Senthamangalam,ST,Namakkal,60629,DMK,Chinna Veilaiya Gounder,34507,NCO,Vellaya Gounder,21452,13055,21.53
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,94,Rasipuram,GEN,Namakkal,74827,DMK,R. Nainamalai,41079,NCO,P. Ganapathy,31161,9918,13.25
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,95,Attur,GEN,Salem,75445,DMK,V. Palanivel Gounder,39828,NCO,C. Palanimuthu,35617,4211,5.58
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,96,Talavasal,SC,,66145,DMK,Moo Marimuthu,32195,NCO,T. Er. Sappan,29013,3182,4.81
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,97,Gudalur,SC,Nilgiris,40745,SWA,K. H. Bomman,18519,CPI,K. Putta,16578,1941,4.76
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,98,Udhagamandalam,GEN,Nilgiris,51318,DMK,M. Devarajan,28901,SWA,Nanjan M. B,17662,11239,21.9
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,99,Coonoor,GEN,Nilgiris,54982,DMK,J. Karunainathan,33451,NCO,N. Andy,15325,18126,32.97
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,100,Mettuppalayam,GEN,Coimbatore,69566,DMK,M. C. Thooyamani,39013,IND,Ramaswami,30553,8460,12.16
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,101,Avanashi,GEN,Tiruppur,58828,IND,T. O. Periaswamy,29356,DMK,K. Thangavellu,28637,719,1.22
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,102,Thondamuthur,GEN,Coimbatore,84873,DMK,R. Manickavasakam,51181,IND,M. Nataraj,29689,21492,25.32
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,103,Singanallur,GEN,Coimbatore,66598,PSP,A. Subramaniam,35888,NCO,P. L. Subbian,20848,15040,22.58
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,104,Perur,SC,,68080,CPI,N. Marudachalam,39270,NCO,K. P. Palanisami,21307,17963,26.39
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,105,Coimbatore North,GEN,Coimbatore,62621,DMK,P. Gopal,34736,SWA,S. S. Krishnaswamy,25286,9450,15.09
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,106,Coimbatore South,GEN,Coimbatore,66367,DMK,K. Rangana Than,31003,NCO,A. Devaraj,27491,3512,5.29
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,107,Kinathukkadavu,GEN,Coimbatore,69825,DMK,M. Kannappan,47776,IND,S. T. Duraisamy,22049,25727,36.84
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,108,Pollachi,GEN,Coimbatore,65567,DMK,A. P. Shanmugasundara Goundar,41654,IND,A. Easwarasamy Gounder,23396,18258,27.85
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,109,Valparai,SC,Coimbatore,59344,DMK,E. Ramaswamy,38779,NCO,M. Kuppuswamy,14728,24051,40.53
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,110,Udumalpet,GEN,Tiruppur,72293,DMK,S. J. Sadiq Pasha,45369,IND,T. Malayappa Gounder,25887,19482,26.95
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,111,Dharapuram,SC,Tiruppur,63575,DMK,V. P. Palaniammal,40947,NCO,V. N. Gopal,21597,19350,30.44
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,112,Vellakoil,GEN,,61772,DMK,M. Pilanisamy,42067,IND,S. M. Ramaswamy Gounder,16231,25836,41.82
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,113,Kangayam,GEN,Tiruppur,63942,DMK,Kovai Chezhiyan,42461,IND,K. G. Palanisamy Gounder,20419,22042,34.47
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,114,Pongalur,GEN,,61985,DMK,N. Palanisamy,37178,IND,A. Senapathi,18747,18431,29.73
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,115,Palladam,GEN,Tiruppur,60583,PSP,K. N. Kumarasamy,34876,NCO,R. Sengaliappan,21070,13806,22.79
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,116,Tiruppur,GEN,,74281,DMK,S. Doraisamy,40762,IND,Khader S. A,32995,7767,10.46
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,117,Modakkurichi,GEN,Erode,77533,DMK,M. Chinnasami,45108,SOP,M. Chenniappan,31431,13677,17.64
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,118,Perundurai,GEN,Erode,68982,CPI,N. K. Palanisamy,38882,IND,K. Chinnasamy Gounder,30100,8782,12.73
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,119,Erode,GEN,,78167,DMK,M. Subramanian,47809,NCO,K. P. Muthusamy,30358,17451,22.33
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,120,Bhavani,GEN,Erode,64900,DMK,A. M. Raja,38527,NCO,P. Kuppusamy Mudaliar,25480,13047,20.1
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,121,Andhiyur,GEN,Tiruppur,57567,DMK,E. M. Natarasan,32691,NCO,K. S. Nanjappan,24876,7815,13.58
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,122,Gobichettipalayam,GEN,Tiruppur,59187,DMK,S. M. Palaniappan,35184,SWA,K. M. Sundaramurthy,20623,14561,24.6
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,123,Sathyamangalam,GEN,,57323,DMK,Subramaniam Sk,31873,NCO,Karuthiruman P. G,22887,8986,15.68
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,124,Bhavanisagar,SC,Erode,53971,DMK,Ramarasan V. K,28003,NCO,Velusamy M,20992,7011,12.99
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,125,Oddamchatram,GEN,Dindigul,69235,DMK,Nachimuthu Goundar N,40845,NCO,Palaniyappan A. P,27654,13191,19.05
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,126,Palani,SC,Dindigul,69764,DMK,Palanisamy C,38919,NCO,Subramanian R,24589,14330,20.54
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,127,Periyakulam,GEN,Theni,66718,DMK,Anbucheliyan,37926,NCO,Chinnasamy Chettai,28331,9595,14.38
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,128,Bodinayakkanur,GEN,Theni,65091,DMK,Surulivel M,35427,IND,Yellanna A,19050,16377,25.16
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,129,Cumbum,GEN,Theni,70562,NCO,Gopal K. P,34483,DMK,Chellathurai P.S,33806,677,0.96
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,130,Theni,GEN,,71533,DMK,Palanivelrajan,45785,NCO,Ramasamy,25748,20037,28.01
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,131,Andipatti,GEN,Theni,57225,SWA,Gurusamy Naidu N. V,20814,AIFB,Paramasivam S,16682,4132,7.22
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,132,Sedapatti,GEN,,55459,AIFB,Thavamani Thevar V,20334,SWA,Ramakrishnan M. K,15388,4946,8.92
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,133,Thirumangalam,GEN,Madurai,64016,AIFB,M. C. A. Rethinasamy Thevar,36468,NCO,N. S. V. Chithan,27548,8920,13.93
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,134,Usilampatti,GEN,Madurai,66201,AIFB,P. K. Mookiah Thevar,49292,IND,S. Andi Thevar,16909,32383,48.92
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,135,Nilakkottai,SC,Dindigul,63123,DMK,Muniyandi A,38583,NCO,Ponnammal A. S,24540,14043,22.25
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,136,Sholavandan,GEN,Madurai,78312,DMK,Maniyan P. S,43254,NCO,Sundarajan Servai R,34542,8712,11.12
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,137,Thirupparankundram,GEN,Madurai,77591,DMK,Kaverimaniam C,39110,NCO,Pandythevar I,26880,12230,15.76
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,138,Madurai West,GEN,Madurai,85426,CPI,Thangamani K. T. K,40899,NCO,Anandam P,31753,9146,10.71
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,139,Madurai Central,GEN,Madurai,63195,DMK,K. Thiruppathy,30905,NCO,P. Nedumaran,27695,3210,5.08
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,140,Madurai East,GEN,Madurai,63181,DMK,K. Ramakrishnan K. S,27884,NCO,Muthuram L. K. T,25472,2412,3.82
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,141,Melur South,SC,,76685,DMK,O. P. Raman,45090,NCO,C. Karuthanan,28214,16876,22.01
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,142,Melur North,GEN,,74547,DMK,P. Malaichamy,37337,NCO,M. Andi Ambalam,37210,127,0.17
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,143,Vadamadurai,GEN,,61259,DMK,Nagarajan K,35989,NCO,Rajendran S,25270,10719,17.5
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,144,Dindigul,GEN,Dindigul,69778,NCO,Sundaram Pillai O. N,27775,IND,Jama Hussain,26384,1391,1.99
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,145,Athoor,GEN,Dindigul,70675,DMK,Nachiappan A. M. T,42195,NCO,Lakshmanan T. P. S,25467,16728,23.67
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,146,Vedasandur,GEN,Dindigul,67821,DMK,Muthusamy P,36746,NCO,Nanjundarow S,23007,13739,20.26
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,147,Aravakurichi,GEN,Karur,56846,IUML,Abdul Jabbar,34164,SWA,Kadasamy Gounder S,18859,15305,26.92
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,148,Karur,GEN,Karur,81297,DMK,Nallasamy,45977,NCO,Nall Swamys T. M,35320,10657,13.11
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,149,Thottiyam,GEN,,77398,DMK,S. K. Vadivelu,39821,NCO,K. M. Shanmughasundaram,37577,2244,2.9
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,150,Musiri,GEN,Tiruchirappalli,64641,DMK,P. S. Muthuselvan,35091,NCO,A. R. Murugaiah,24232,10859,16.8
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,151,Uppiliapuram,GEN,,83065,DMK,T. P. Alagamuthu,42861,NCO,R. Periasami,36054,6807,8.19
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,152,Perambalur,SC,Perambalur,70623,DMK,J. S. Raju,39043,NCO,K. Periyanan,23335,15708,22.24
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,153,Varahur,GEN,,72538,DMK,K. Palanivelan,42733,NCO,K. C. Periyasamy,26043,16690,23.01
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,154,Andimadam,GEN,,74103,DMK,S. Sadasiva Padayachi,39313,NCO,G. Thiyagarajan,34790,4523,6.1
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,155,Jayankondam,SC,Ariyalur,72044,DMK,A. Chinnasamy,41627,NCO,S. Ramasamy,29346,12281,17.05
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,156,Ariyalur,GEN,Ariyalur,75287,DMK,G. Sivaperumal,48320,NCO,R. Sambasivam Moopanar,22740,25580,33.98
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,157,Lalgudi,GEN,Tiruchirappalli,73775,DMK,Muthamil Selvan Vn,40213,NCO,Rengasamy Udayar D,28250,11963,16.22
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,158,Srirangam,SC,Tiruchirappalli,70615,NCO,Jothi Venkatachalam,36172,DMK,Kamatchiammal R,33239,2933,4.15
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,159,Tiruchirapalli-I,GEN,,72358,DMK,Krishnamurthy V,38099,NCO,Lourdusamy Pillai A. S. G,33450,4649,6.42
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,160,Tiruchirapalli-Ii,GEN,,72829,DMK,Dharmalingam A. Pi,40593,NCO,Subramanian,31295,9298,12.77
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,161,Thiruverumbur,GEN,Tiruchirappalli,81491,DMK,Kamaichi,43233,NCO,Swaminathan V,38258,4975,6.1
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,162,Kulithalai,GEN,Karur,82343,DMK,Kandaswamy M,44198,NCO,Srinivasan Reddiar P. E,38145,6053,7.35
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,163,Krishnarajapuram,SC,Karur,65737,DMK,P. Soundara Pandian,36177,NCO,P. M. Thangavelraj,29020,7157,10.89
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,164,Kadavur,GEN,,61515,NCO,Karuraigiri Muthiah,31752,DMK,P. Krishnasamy,29763,1989,3.23
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,165,Viralimalai,GEN,Pudukkottai,72757,DMK,Ilechezhiyan V. S,41813,NCO,Karuppiah Udayar A,30274,11539,15.86
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,166,Thirumaiyam,GEN,Pudukkottai,72615,DMK,A. Thiagarajan,38630,NCO,Pr. Ramanathan,24353,14277,19.66
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,167,Alangudi,GEN,Pudukkottai,79826,DMK,K. V. Subbiah,43279,NCO,Ta. S. Thangavelu,35397,7882,9.87
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,168,Pudukkottai,GEN,Pudukkottai,74095,NCO,Sathiamoorthy M,34680,CPI,Subbaiah Kr,33393,1287,1.74
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,169,Thiruvaiyaru,GEN,Thanjavur,73186,DMK,Ilangovan G,37139,NCO,Palani K. B,29813,7326,10.01
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,170,Thanjavur,GEN,Thanjavur,68711,DMK,Natarajan S,38288,NCO,Arokiasamy Nadar A. Y,30423,7865,11.45
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,171,Papanasam,GEN,Thanjavur,77381,DMK,N. Ganapathy,43497,NCO,V. Ramakrishnan,33884,9613,12.42
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,172,Valangiman,SC,,66291,DMK,N. Somasundaram,38519,NCO,V. Thangavelu,24351,14168,21.37
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,173,Kumbakonam,GEN,Thanjavur,77265,NCO,N. Kasiraman,39755,DMK,S. Padmananbhan,37136,2619,3.39
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,174,Aduthurai,GEN,,78083,DMK,K. Rajamanickam,40023,NCO,A. Marimuthu,38060,1963,2.51
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,175,Sirkazhi,SC,Nagapattinam,60053,CPI,Vadivel S,31977,NCO,Mani K. B. S,25667,6310,10.51
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,176,Sembanarkoil,GEN,,60298,DMK,Sampath T. V,33937,NCO,Sambandam K. R,19447,14490,24.03
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,177,Mayuram,GEN,Nagapattinam,73603,DMK,N. Kittappa,37311,NCO,M. R. Krishnappa,36292,1019,1.38
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,178,Kuttalam,GEN,,63733,DMK,S. Ganesan,34781,NCO,K. K. Deen,22554,12227,19.18
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,179,Kodavasal,GEN,,65552,DMK,Periasamy Udayar K,31302,NCO,Daksinamoorthy Kalingaraya,23576,7726,11.79
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,180,Nannilam,SC,Thiruvarur,61835,DMK,Devandiran A,36740,NCO,Arunachalam V. S,21432,15308,24.76
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,181,Thiruvarur,SC,Thiruvarur,64950,DMK,M. Karunanidhi,30828,NCO,Vedaiyan V,18686,12142,18.69
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,182,Nagapattinam,GEN,Nagapattinam,66392,DMK,Rajamanickam,29744,NCO,Ramanatha Thevar,23342,6402,9.64
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,183,Vedaranyam,GEN,Nagapattinam,65436,DMK,Meenakshisundaram M,41787,NCO,Velayuthan P. C,17478,24309,37.15
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,184,Thiruthuraipoondi,GEN,Thiruvarur,64792,CPI,Manali Kandasami C,40714,NCO,Thayamanavang G,22118,18596,28.7
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,185,Kottur,SC,,64728,CPI,Subbiah A. K,47419,NCO,Rajamanickam T,17309,30110,46.52
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,186,Mannargudi,GEN,Thiruvarur,67648,DMK,Balakrishnan K,35211,NCO,Swaminatha Udayar T. S,28083,7128,10.54
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,187,Orathanadu,GEN,Thanjavur,79479,DMK,Ganesan L,49269,NCO,Dhadayaudhapani,26283,22986,28.92
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,188,Gandharvakottai,GEN,Pudukkottai,72969,DMK,Govindarasu Kalingarar,42025,NCO,Ramachandra Durai R,28239,13786,18.89
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,189,Pattukkottai,GEN,Thanjavur,70794,PSP,Marimuthu A. R,44565,NCO,Nagarajan N,26229,18336,25.9
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,190,Peravurani,GEN,Thanjavur,87832,IND,Chelliah,32025,DMK,M. Krishnamoorthy,30005,2020,2.3
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,191,Aranthangi,GEN,Pudukkottai,88377,DMK,S. Ramanathan,49322,NCO,Ramanathan Servaikarar,37289,12033,13.62
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,192,Tirupathur,GEN,Sivaganga,77164,DMK,S. Madhavan,54117,NCO,S. Sethuramalingam,23047,31070,40.26
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,193,Karaikudi,GEN,Sivaganga,66844,DMK,C. T. Chidambaram,39986,SWA,S. P. R. Ramaswamy,26858,13128,19.64
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,194,Tiruvadanai,GEN,Ramanathapuram,74401,DMK,Pr. Shanmugham,40417,SWA,K. R. Kariamanickam Ambalam,33457,6960,9.35
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,195,Ilayangudi,GEN,,73482,DMK,Malaikannan V,45551,NCO,Ramakrishna Thevar S,24138,21413,29.14
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,196,Ramanathapuram,GEN,Ramanathapuram,62549,DMK,Sathiyendran M. S. K,40690,NCO,Balagangadharan R,19649,21041,33.64
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,197,Kadaladi,SC,,48597,DMK,Ramalingam C,31521,SWA,Alangaram M,13863,17658,36.34
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,198,Mudhukulathur,GEN,Ramanathapuram,55591,IND,Kadher Batcha Alias Vellaichind,18267,NCO,Subramoniam R. C,17532,735,1.32
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,199,Paramakudi,SC,Ramanathapuram,72260,DMK,Siraimeettan T. K,42614,NCO,Rakkan K. V,24864,17750,24.56
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,200,Sivaganga,GEN,Sivaganga,70310,DMK,S. Sethuraman,42320,NCO,O. Subramanian,24654,17666,25.13
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,201,Manamadurai,GEN,Sivaganga,74989,DMK,T. Soniah,42584,NCO,S. Sankaralingam,32405,10179,13.57
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,202,Kariapatti,GEN,,61360,AIFB,Perumal A. R,31499,NCO,Muthuvel Serval M,22175,9324,15.2
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,203,Aruppukkottai,GEN,Virudhunagar,65332,AIFB,Sowdi Sundara Bharathi,37021,SWA,Veerasamy M,27908,9113,13.95
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,204,Virudhunagar,GEN,Virudhunagar,63060,DMK,P. Seenivasan,31455,SWA,V. Seenivasaga Naidu,29878,1577,2.5
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,205,Sattur,GEN,Virudhunagar,58827,AIFB,Alagu Thevar S,32610,SWA,Dorairaj Naicker R,24216,8394,14.27
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,206,Sivakasi,GEN,Virudhunagar,67074,DMK,Kalimuthu K,39854,SWA,Sundararaj Naicker N,25486,14368,21.42
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,207,Srivilliputhur,SC,Virudhunagar,65558,DMK,Andi Alias Surusamy K,41522,NCO,Dharmaraj S. P,24036,17486,26.67
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,208,Rajapalayam,GEN,Virudhunagar,72990,CPI,Suppu K,36827,NCO,Srirenga Raja K. R,36163,664,0.91
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,209,Vilathikulam,GEN,Thoothukkudi,56834,DMK,Rathinasabapathy M,32583,NCO,Subba Reddiar K,22097,10486,18.45
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,210,Kovilpatti,GEN,Thoothukkudi,62490,CPI,Alagarsamy S,38844,NCO,Subba Naicker L,23646,15198,24.32
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,211,Ottapidaram,SC,Thoothukkudi,48442,AIFB,M. Muthiah,27571,SWA,K. Manoharan,17861,9710,20.04
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,212,Sankarankovil,SC,Tirunelveli,57696,DMK,Subbiah S,35677,NCO,Jame M,22019,13658,23.67
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,213,Vasudevanallur,GEN,Tirunelveli,63123,DMK,Velladurai A,35954,NCO,Gopa Thevar A,27169,8785,13.92
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,214,Kadayanallur,GEN,Tirunelveli,71728,DMK,Subbbiah Mudaliar A. R,37649,NCO,Abdul Majid Sahib S. M,34079,3570,4.98
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,215,Tenkasi,GEN,Tirunelveli,70260,DMK,Kathiravan Alias Samshudeen,39110,NCO,Iswar An I. C,31150,7960,11.33
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,216,Alangulam,GEN,Tirunelveli,71214,DMK,Arunachalam V,36526,NCO,Ramachandran S. K. T,34688,1838,2.58
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,217,Ambasamudram,GEN,Tirunelveli,67047,NCO,Sangumuthu Thevar S,31192,DMK,Ananthakrishnan R. V,27707,3485,5.2
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,218,Cheranmahadevi,GEN,,69285,SWA,Sivaprakasam D. S. A,34739,DMK,Ratnavelpandian S,34546,193,0.28
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,219,Gangaikondan,SC,,56032,DMK,Karuppiah A,32963,NCO,Koil Pillai S,18207,14756,26.33
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,220,Tirunelveli,GEN,Tirunelveli,69698,DMK,P. Padmanabhan,43325,NCO,Rajathikunghithapatham,26373,16952,24.32
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,221,Melapalayam,GEN,,62519,IUML,M. Kather Mohideen S,35470,NCO,Shanmugavel C,21785,13685,21.89
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,222,Srivaikuntam,GEN,Thoothukkudi,67938,DMK,Adithanar,37329,NCO,Annamalai R. A. R,27724,9605,14.14
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,223,Thoothukkudi,GEN,Thoothukkudi,68503,DMK,Ramalingam R,39030,NCO,Naorojiammal,29473,9557,13.95
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,224,Tiruchendur,GEN,Thoothukkudi,74665,DMK,Edmund,39974,NCO,Ganesasundaram,34045,5929,7.94
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,225,Sattangulam,GEN,,64789,DMK,K. P. Kandasasmy,33510,NCO,T. Martin,28592,4918,7.59
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,226,Nanguneri,GEN,Tirunelveli,61962,DMK,Ganapthy T,33099,NCO,Thavasikani S.T,28863,4236,6.84
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,227,Radhapuram,GEN,Tirunelveli,65167,DMK,Karthesan V,33678,NCO,Karuthiah K. P,31489,2189,3.36
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,228,Kanniyakumari,GEN,Kanniyakumari,70220,DMK,Rajah Pillai K,35884,NCO,Mahadevan Pillai B,31326,4558,6.49
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,229,Nagercoil,GEN,Kanniyakumari,72215,SWA,Moses M,34726,DMK,Christopher G,34185,541,0.75
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,230,Kollachal,GEN,Kanniyakumari,68026,NCO,Pauliah A,37401,DMK,Retna Raj S,29852,7549,11.1
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,231,Padmanabhapuram,GEN,Kanniyakumari,57833,NCO,Swamdihas Nadar A,32416,DMK,Michael G. C,17174,15242,26.36
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,232,Thiruvattar,GEN,,60500,NCO,James J,36097,CPI(M),Hemachandran J,14315,21782,36.0
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,233,Vilavancode,GEN,Kanniyakumari,52010,NCO,Ronnappan Nadar R,32139,DMK,Gnanaraj Christopher G,11170,20969,40.32
+ae-tamil-nadu-1971,AE,Tamil Nadu,1971,1971,official,234,Killiyoor,GEN,Kanniyakumari,55536,NCO,Dennis N,34573,DMK,Russelraj C,20541,14032,25.27

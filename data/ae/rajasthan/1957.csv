@@ -1,0 +1,134 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,1,Khetri,SC,,60143,INC,Sish Ram Ola,19620,CPI,Khyali Ram,15314,4306,7.16
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,2,Pilani,GEN,,28209,INC,Sumitra,12963,IND,Hazari,9394,3569,12.65
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,3,Mandawa,GEN,,31176,CPI,Lachhu Ram,15424,INC,Bheem Singh,14106,1318,4.23
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,4,Jhunjhunu,GEN,,27440,INC,Narottam Lal,12923,IND,Mahavir Prasad,11755,1168,4.26
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,5,Gudha,GEN,,22797,INC,Shivnath Singh,11023,RRP,Sawai Singh,6387,4636,20.34
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,6,Nawalgarh,GEN,,24309,IND,Shri Ram,10313,INC,Vidhya Dhar Kulhari,8598,1715,7.06
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,7,Fatehpur,GEN,,22267,INC,Abdul Gaffar Khan,3955,IND,Alam Ali Khan,2939,1016,4.56
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,8,Lachhmangarh,GEN,,27310,INC,Kishan Singh,8265,RRP,Girdhari Singh,5253,3012,11.03
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,9,Sikar,GEN,,25336,BJS,Jagdish Prasad,7526,INC,Ladoo Ram,6472,1054,4.16
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,10,Singrawat,GEN,,22198,INC,Ram Deo Singh,9674,RRP,Bajrang Lal,6493,3181,14.33
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,11,Danta Ramgarh,GEN,,36293,RRP,Madan Singh,17770,INC,Jagan Singh,13083,4687,12.91
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,12,Sri Madhopur,GEN,,23740,BJS,Bhaniron Singh,7568,INC,Geeta Bajaj,5778,1790,7.54
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,13,Neem Ka Thana,SC,,53176,INC,Narayan Lal,18780,IND,Gyan Chand,13048,5732,10.78
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,14,Hawa Mahal,GEN,,15826,INC,Ram Kishore,8585,IND,Girdhari Lal,2494,6091,38.49
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,15,Johri Bazar,GEN,,17789,BJS,Satish,7565,INC,Shah Alimuddin,6036,1529,8.6
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,16,Kishanpole,GEN,,14464,INC,Chandra Kala,3665,IND,Harish Chandra,2754,911,6.3
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,17,Amber,SC,,29021,INC,Sahdeo,9540,RRP,Hari Shankar S. Shastri,7728,1812,6.24
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,18,Phulera,GEN,,16769,INC,P. K. Chaudhri,5908,IND,Suwa Lal,4674,1234,7.36
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,19,Dudu,SC,,32494,RRP,Narendra Singh,18985,INC,Ladu,13509,5476,16.85
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,20,Lalsot,ST,,30719,RRP,Prabhu Lal,19993,INC,Nathu Lal,10726,9267,30.17
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,21,Dausa,ST,,56848,IND,Ram Dhan,18083,INC,Gajja,12469,5614,9.88
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,22,Bandikui,GEN,,19174,INC,Bishambher Nath Joshi,7687,IND,Baliya,4515,3172,16.54
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,23,Jamwa Ramgarh,SC,,53189,IND,Doongersi Dass,19147,INC,Bhairon Lal,15823,3324,6.25
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,24,Bairath,GEN,,17778,IND,Mukti Lal,4903,INC,Goru Jat,3374,1529,8.6
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,25,Kotputli,GEN,,25703,BJS,Ram Karan Singh,15464,INC,Hazari Lal,9385,6079,23.65
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,26,Behror,GEN,,30227,IND,Chander Singh,13991,INC,Shanti Devi,9622,4369,14.45
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,27,Bansur,GEN,,21586,INC,Badri Prasad Gupta,11175,IND,Narayan Singh,3775,7400,34.28
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,28,Tijara,SC,,59092,INC,Ghasi Ram Yadav,30522,CPI,Sampat Ram,22538,7984,13.51
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,29,Alwar,GEN,,17991,INC,Chhotu Singh,8889,CPI,Rama Nand Agrawal,7366,1523,8.47
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,30,Ramgarh,GEN,,25368,INC,Ganga Devi,7084,CPI,Haru Mal,5644,1440,5.68
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,31,Lachman Garh,SC,,67776,INC,Bhola Nath,28291,IND,Gokal Chand,17598,10693,15.78
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,32,Rajgarh,ST,,28288,RRP,Raghubir Singh,14111,INC,Bhawani Sahai,9137,4974,17.58
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,33,Kaman,GEN,,46722,IND,Nathi Singh,22544,INC,Md. Ibrahaim,20590,1954,4.18
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,34,Deeg,GEN,,31357,INC,Jugal Kishore Chaturvedi,18294,IND,Kumar Sen,6278,12016,38.32
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,35,Bharatpur,GEN,,32385,IND,Hoti Lal,9819,INC,Nathi Singh,9813,6,0.02
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,36,Weir,SC,,100440,IND,Raja Man Singh,26963,INC,Vishwa Priya,24496,2467,2.46
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,37,Bayana,SC,,80860,INC,Shribhan Singh,30147,IND,Goverdhan Singh,19160,10987,13.59
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,38,Bari,GEN,,20248,INC,Subedar Singh,7922,IND,Ram Nath,6880,1042,5.15
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,39,Dholpur,GEN,,22567,INC,Bahadur Singh,7415,IND,Jamana Prasad,6165,1250,5.54
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,40,Rajakhera,GEN,,21117,IND,Mahendra Singh,8024,INC,Mangal Singh S/O Baji Rao,7423,601,2.85
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,41,Mahwa,ST,,67578,INC,Tika Ram Paliwal,23915,IND,Gopi Sahai,18591,5324,7.88
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,42,Karauli,SC,,58065,IND,Brijendra Pal,16191,INC,Onkar Singh,15405,786,1.35
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,43,Sawai Madhopur,SC,,56208,INC,Mangi Lal,14078,IND,Abid Ali,11227,2851,5.07
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,44,Gangapur,ST,,56698,IND,Ridhi Chand,15546,INC,Prathi Raj,14739,807,1.42
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,46,Tonk,SC,,41556,INC,Narain Singh,19141,IND,Lalu Ram,14126,5015,12.07
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,47,Uniara,GEN,,23903,RRP,Sardar Singh,12623,INC,Radha Kishan,7432,5191,21.72
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,48,Hindoli,ST,,35622,INC,Modu Lal,21278,PSP,Bhanwar Lal,11076,10202,28.64
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,49,Bundi,GEN,,12701,INC,Sajjan Singh,6529,IND,Vaidya Nityanand,2725,3804,29.95
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,50,Kotah,GEN,,20626,INC,Rameshwar Dayal,8215,IND,Purushottam Das,7116,1099,5.33
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,51,Pipalda,ST,,37420,INC,Rikhab Chand,16129,BJS,Ram Narayan,14955,1174,3.14
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,52,Baran,SC,,38556,INC,Dalip Singh,11124,BJS,Lal Chand,9150,1974,5.12
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,53,Chhabra,SC,,27653,BJS,Daya Krishna,11396,IND,Ratan Lal,9018,2378,8.6
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,54,Aklera,ST,,31989,INC,Bhairav Lal,16725,IND,Sampat Raj,11057,5668,17.72
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,55,Jhalrapatan,GEN,,19814,INC,Jayandra Singh,17226,IND,Kanhaiya Lal Mittal,2588,14638,73.88
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,56,Dag,SC,,36100,INC,Ram Chandra,25683,IND,Harish Chandra,6161,19522,54.08
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,57,Begun,GEN,,18410,INC,Sugan Chand,8136,RRP,Ummed Singh,6605,1531,8.32
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,58,Chittorgarh,GEN,,15102,INC,Lal Singh,7272,RRP,Laxman Singh,7261,11,0.07
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,59,Nimbahera,GEN,,15874,INC,Shri Niwas,8969,RRP,Bhopal Singh,6905,2064,13.0
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,60,Kapasin,SC,,32312,INC,Bhawani Shanker,15694,RRP,Jai Chand,10650,5044,15.61
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,61,Partapgarh,ST,,40933,INC,Amrit Lal,13132,BJS,Amra,10318,2814,6.87
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,62,Banswara,ST,,19460,IND,Mogji,11272,INC,Hari Ram,8188,3084,15.85
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,63,Ghatol,GEN,,22565,INC,Hari Deo,12924,IND,Keshav Chandra,9641,3283,14.55
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,64,Bagidora,GEN,,21584,INC,Nathu Ram,12708,IND,Kalia,8876,3832,17.75
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,65,Kushalgarh,GEN,,21199,IND,Heera,15591,INC,Rangji,5608,9983,47.09
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,67,Dungarpur,GEN,,20967,IND,Bal Mukund,10460,INC,Jai Kishan,8586,1874,8.94
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,68,Aspur,GEN,,30167,INC,Bhogi Lal Pandiya,14662,IND,Lachman Singh,14114,548,1.82
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,69,Vallabhnagar,SC,,28670,INC,Har Prasad,18026,BJS,Gulab Singh,6403,11623,40.54
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,70,Salumber,ST,,26329,INC,Phoola,16266,RRP,Sohan Lal,5428,10838,41.16
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,71,Sarada,ST,,11836,INC,Devi Lal,9689,PSP,Khatu,2147,7542,63.72
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,72,Phalasia,ST,,11470,INC,Vidhya Sagar,9160,RRP,Nana,2310,6850,59.72
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,73,Gogunda,ST,,11256,INC,Laxman,8000,PSP,Puna,2369,5631,50.03
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,74,Udaipur,GEN,,18329,INC,Mohan Lal Sukhadia,13375,BJS,Madan Lal,2990,10385,56.66
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,75,Mavli,GEN,,17980,INC,Janardan Rai,8553,PSP,Narenderapal Singh,3521,5032,27.99
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,76,Rajsamand,GEN,,23934,INC,Niranjan Nath,20255,RRP,Kalyan Mal,1873,18382,76.8
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,77,Nathdwara,GEN,,17847,INC,Kishan Lal,9770,BJS,Vijai Singh,8077,1693,9.49
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,78,Kumbhalgarh,GEN,,15213,INC,Manohar,7539,IND,Vijai Ram,2494,5045,33.16
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,79,Bhim,GEN,,28970,IND,Fateh Singh,14311,INC,Laxmi Kumari,11867,2444,8.44
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,80,Asind,GEN,,14704,INC,Jai Singh Ranawat,7602,RRP,Vijai Singh,3735,3867,26.3
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,81,Banera,GEN,,16714,INC,Tej Mal,7340,PSP,Umrao Singh,3440,3900,23.33
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,82,Shahpura,SC,,40911,INC,Ram Prasad,17888,RRP,Kana,8353,9535,23.31
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,83,Mandalgarh,GEN,,17034,INC,Ganpati Lal,9189,RRP,Sajjan Singh,3143,6046,35.49
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,84,Bhilwara,GEN,,20704,INC,Kamla Bai,10145,BJS,Ganesh Lal,6211,3934,19.0
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,85,Mandal,ST,,37282,RRP,Shiv Charan Das,16194,INC,Kalu,15309,885,2.37
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,86,Ajmer City West,GEN,,27470,IND,Arjan Das,14400,INC,Pohu Mal,10410,3990,14.52
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,87,Ajmer City East,GEN,,25745,IND,Mahendra Singh,16778,INC,Balkrishan Kaul,8211,8567,33.28
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,88,Pushkar,GEN,,20179,INC,Prabha,8475,IND,Keshav Sen,6810,1665,8.25
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,89,Nasirabad,GEN,,20277,INC,Jwala Prasad,12449,IND,Bhagirath Singh,6267,6182,30.49
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,90,Kishangarh,GEN,,16428,INC,Purshottam Lal,7613,IND,Chand Mal,4143,3470,21.12
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,91,Kekri,SC,,55021,INC,Hari Bhau Upadhyaya,20004,RRP,Hazari S/O Shiv Ram,15765,4239,7.7
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,92,Beawar,GEN,,25564,INC,Brij Mohan Lal Sharma,10750,CPI,Kumar Anand,10400,350,1.37
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,93,Masuda,GEN,,23726,INC,Narain Singh,15171,IND,Panchu Lal,4145,11026,46.47
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,94,Raipur,GEN,,20094,INC,Shanker Lal,8736,RRP,Kishan Singh,6690,2046,10.18
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,95,Sojat,GEN,,22366,INC,Teja Ram,13438,IND,Karan Raj,8928,4510,20.16
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,96,Kharchi,SC,,56379,IND,Veno,11892,INC,Keshari Singh,11221,671,1.19
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,97,Pali,GEN,,23923,INC,Mool Chand,11956,CPI,Mohan Lal,7090,4866,20.34
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,98,Bali,ST,,53767,INC,Deva,14804,IND,Moti S/O Mula,11745,3059,5.69
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,99,Abu,GEN,,21965,IND,Dalpat Singh,11672,INC,Rameshwar,10293,1379,6.28
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,100,Sirohi,SC,,55467,INC,Mohabat Singh,21956,IND,Veerka,17382,4574,8.25
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,101,Sanchore,GEN,,12486,RRP,Laxmi Chand,4838,IND,Ram Gopal,4406,432,3.46
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,102,Raniwara,GEN,,17011,RRP,Mangal Singh,8816,INC,Raghu Nath,8195,621,3.65
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,103,Jalore,SC,,31968,RRP,Hasiya,9330,INC,Narpat Singh,8439,891,2.79
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,104,Ahore,GEN,,21598,INC,Madho Singh,9750,IND,Sajan Singh,6793,2957,13.69
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,105,Chohtan,GEN,,17084,INC,Vali Mohammed,9315,RRP,Nathu Singh,7087,2228,13.04
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,106,Barmer,GEN,,17022,RRP,Tan Singh,9866,INC,Rukmani,5507,4359,25.61
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,107,Balotra,SC,,36810,RRP,Anop Singh,11719,IND,Mota Ram,11161,558,1.52
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,108,Guda Malani,GEN,,14247,INC,Ram Dan,6712,RRP,Babu,4981,1731,12.15
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,109,Jaisalmer,GEN,,20783,IND,Hukam Singh,17668,INC,Satya Deo,3115,14553,70.02
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,110,Phalodi,SC,,36533,RRP,Suraj Mal,16571,IND,Keshri Singh,7846,8725,23.88
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,111,Osian,GEN,,23620,INC,Paras Ram,15303,PSP,Rewat Dan,8317,6986,29.58
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,112,Bilara,GEN,,28643,INC,Bhairon Singh,13981,IND,Chandra Singh,12769,1212,4.23
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,113,Jodhpur City I,GEN,,18725,INC,Anand Singh,8540,IND,Khet Lakhan,3025,5515,29.45
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,114,Jodhpur City Ii,GEN,,21314,INC,Barkatullah Khan,9150,CPI,Hari Kishan,4463,4687,21.99
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,115,Luni,GEN,,19411,INC,Poonam Chand,9649,RRP,Ayuwan Singh,5589,4060,20.92
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,116,Bikaner City,GEN,,23609,PSP,Murli Dhar,12089,INC,Ahmed Bux,5419,6670,28.25
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,117,Lunkaransar,GEN,,14895,INC,Bhim Sen,4838,IND,Sohan Lal,2874,1964,13.19
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,118,Nokha,SC,,50326,IND,Rupa Ram,10094,PSP,Girdhari Lal,7525,2569,5.1
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,120,Karanpur,GEN,,32028,INC,Satwant Kaur,15394,IND,Gurdeep Singh,11583,3811,11.9
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,121,Ganganagar,GEN,,28355,INC,Dev Nath,15649,IND,Banwari Lal,8649,7000,24.69
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,122,Suratgarh,GEN,,31079,INC,Raja Ram,17840,IND,Man Singh,11131,6709,21.59
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,123,Hanumangarh,GEN,,35698,IND,Sheopat Singh,18546,INC,Ram Chandra Chaudhari,17152,1394,3.9
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,124,Nohar,SC,,85572,IND,Ram Kishan,30261,INC,Hans Raj,24763,5498,6.42
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,125,Churu,SC,,55330,IND,Mohar Singh S/O Jiwan Ram,14446,INC,Rawata,11132,3314,5.99
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,126,Sardar Shahar,GEN,,23101,INC,Chandan Mal,7182,IND,Onkar Mal,6551,631,2.73
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,127,Dungargarh,GEN,,21192,INC,Daulat Ram,10971,IND,Koda Mal,7572,3399,16.04
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,128,Ratangarh,GEN,,23537,IND,Kishna,5841,INC,Mohan Lal,2682,3159,13.42
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,129,Sujangarh,GEN,,21234,IND,Shanno Devi,7049,INC,Shanti Kumari,6841,208,0.98
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,130,Nagaur,GEN,,26799,INC,Nathu Ram Nirdha,17822,RRP,Bhopal Singh,7924,9898,36.93
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,131,Jayal,GEN,,25901,INC,Manak Chand,13156,RRP,Ganga Singh,10145,3011,11.63
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,132,Ladnu,GEN,,30434,INC,Ram Niwas Mirdha,17468,RRP,Umed Singh,7517,9951,32.7
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,133,Deedwana,GEN,,35480,INC,Moti Lal,19905,IND,Bhanwar Singh,9718,10187,28.71
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,134,Nawan,SC,,68268,INC,Jeth Mal,21895,IND,Kishan Lal,14684,7211,10.56
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,135,Degana,GEN,,29722,INC,Gauri Punia,17442,BJS,Krishna Singh,12280,5162,17.37
+ae-rajasthan-1957,AE,Rajasthan,1957,1957,official,136,Merta,GEN,,26845,INC,Gopal Lal,8940,IND,Ram Krishna,8036,904,3.37

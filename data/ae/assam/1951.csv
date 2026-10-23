@@ -1,0 +1,91 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-assam-1951,AE,Assam,1951,1951,official,1,Lungleh,GEN,,10611,MU,"Dengthuama, R",6202,UMFO,"Thuamluaia, C",4409,1793,16.9
+ae-assam-1951,AE,Assam,1951,1951,official,2,Aijal East,GEN,,13708,MU,Pu R. Thanhlira,11136,UMFO,Pu Lalhmingliana,2572,8564,62.47
+ae-assam-1951,AE,Assam,1951,1951,official,3,Aijal West,GEN,,13855,MU,Pu Ch. Saprawnga,11766,UMFO,Pu Rokuma,2089,9677,69.84
+ae-assam-1951,AE,Assam,1951,1951,official,4,Ratabari Patharkandi,GEN,,54974,INC,Baidyanath Mookerjee,19794,CPI,Ramesh Chandra Das Chowdhury,7279,12515,22.77
+ae-assam-1951,AE,Assam,1951,1951,official,5,Patharkandi,GEN,,14411,INC,Maulavi Mahmud Ali,8485,SOC,Girindra Kr Deb Purkayastha,2975,5510,38.23
+ae-assam-1951,AE,Assam,1951,1951,official,6,Karimganj,GEN,,17194,KMPP,Ramendra Mohan Das,8591,INC,Kamini Kumar Sen,8112,479,2.79
+ae-assam-1951,AE,Assam,1951,1951,official,7,Badarpur,GEN,,16724,INC,Maulana Abdul Jalil,6996,FBL(RG),Rathindra Nath Sen,3223,3773,22.56
+ae-assam-1951,AE,Assam,1951,1951,official,8,Katigora,GEN,,21731,INC,"Barbhuiya, Namwar Ali",12908,KMPP,"Paul, Kumud Chandra",6170,6738,31.01
+ae-assam-1951,AE,Assam,1951,1951,official,9,Lakhipur,GEN,,44727,INC,"Dhubi, Raghunandan",23634,IND,"Chaubey, Ram Prasad",5941,17693,39.56
+ae-assam-1951,AE,Assam,1951,1951,official,10,Barkhola,GEN,,22416,INC,"Nath, Raichand",7495,IND,"Laskar, Kamrul Islam",6022,1473,6.57
+ae-assam-1951,AE,Assam,1951,1951,official,11,Silchar,GEN,,18377,IND,"Laskar, Mehrab Ali",4232,INC,"Chanda, Jyotsna",4186,46,0.25
+ae-assam-1951,AE,Assam,1951,1951,official,12,Silchar Sonai,GEN,,23725,INC,"Choudhury, Moinul Haque",14142,CPI,"Barai, Sitaram",2931,11211,47.25
+ae-assam-1951,AE,Assam,1951,1951,official,13,Sonai,GEN,,21332,INC,"Sinha , Nanda Kishore",8554,IND,"Laskar, Khurshed Ali",4594,3960,18.56
+ae-assam-1951,AE,Assam,1951,1951,official,14,Hailakandi Silchar,GEN,,20581,INC,Hem Chandra Chakravarty,15266,KMPP,Paresh Chandra Chowdhary,2478,12788,62.13
+ae-assam-1951,AE,Assam,1951,1951,official,15,Hailakandi,GEN,,22397,INC,Abdul Matlib Mazumdar,12527,KMPP,Mantaz Ali,3799,8728,38.97
+ae-assam-1951,AE,Assam,1951,1951,official,16,Katlicherra,GEN,,25141,INC,Gourishankar Roy,13241,IND,Muzarrof Ali Laskar,7471,5770,22.95
+ae-assam-1951,AE,Assam,1951,1951,official,17,Shillong,GEN,,14188,INC,J. J. M. Nicholas-Roy,4458,KJD,G. Gilbert Swell,3172,1286,9.06
+ae-assam-1951,AE,Assam,1951,1951,official,18,Jowai,GEN,,13151,IND,U. Kistobinu Rymbai,6443,,Larsingh Khyriem,,6443,48.99
+ae-assam-1951,AE,Assam,1951,1951,official,19,Nongstoin,GEN,,16261,IND,Ajra Singh Khongphai,11531,KJD,T. W. Roy,4730,6801,41.82
+ae-assam-1951,AE,Assam,1951,1951,official,20,Nongpoh,GEN,,16495,KJFSC,A . Alley,9441,KJD,Sirendro,7054,2387,14.47
+ae-assam-1951,AE,Assam,1951,1951,official,21,Cherra,GEN,,17989,KJD,Maham Singh,9292,KJRO,C . Dellington Khylleb,4719,4573,25.42
+ae-assam-1951,AE,Assam,1951,1951,official,22,North Cachar Hills,GEN,,6517,IND,"Hagjer, Joy Bhadra",3674,,"Hojai, Desondas",,3674,56.38
+ae-assam-1951,AE,Assam,1951,1951,official,23,Mikir Hills West,GEN,,9895,INC,"Rongpher, Nihang",5617,IND,Tron Riswel,2443,3174,32.08
+ae-assam-1951,AE,Assam,1951,1951,official,24,Mikir Hills East,GEN,,14839,INC,"Terang, Khorsing",8485,IND,"Be, Song",4186,4299,28.97
+ae-assam-1951,AE,Assam,1951,1951,official,29,Tura,GEN,,11313,GNC,"Momin, Emerson",5035,IND,"Sangma, Nohu",4127,908,8.03
+ae-assam-1951,AE,Assam,1951,1951,official,30,Phulbari,GEN,,15079,IND,"Sangma, Emonsing",6897,GNC,"Momin, Brownson",3535,3362,22.3
+ae-assam-1951,AE,Assam,1951,1951,official,31,Dainadubi,GEN,,12998,GNC,"Sangma, Aaram",6007,IND,"Sangma, Nallindra",4875,1132,8.71
+ae-assam-1951,AE,Assam,1951,1951,official,32,Mankachar,GEN,,16276,INC,Kobad Hussain Ahmed,6798,IND,"Kobad, Hussain",3127,3671,22.55
+ae-assam-1951,AE,Assam,1951,1951,official,33,Salmara South,GEN,,25304,IND,Md. Sahadatali Mandal,14541,INC,Prakritish Ch. Barua,3097,11444,45.23
+ae-assam-1951,AE,Assam,1951,1951,official,34,Dhubri,GEN,,31512,IND,Tamizuddin Prodhani,11433,INC,"Sayed, Ahmed Ali",6460,4973,15.78
+ae-assam-1951,AE,Assam,1951,1951,official,35,Golakganj,GEN,,24515,INC,Santosh Kumar Barua,12280,SOC,Bhuban Ch. Pradhani,5312,6968,28.42
+ae-assam-1951,AE,Assam,1951,1951,official,36,Gossaigaon,GEN,,27100,INC,Jatindra Narayan Das,5276,IND,Narendra Brahma,4985,291,1.07
+ae-assam-1951,AE,Assam,1951,1951,official,37,Kokrajhar Sidli,GEN,,71992,INC,Rupnath Brahma,14068,IND,Raja Ajit Narayan Deb,13909,159,0.22
+ae-assam-1951,AE,Assam,1951,1951,official,38,Bilasipara,GEN,,30393,IND,Md. Umaruddin,14736,INC,Jatindra Narayan Neogi,3120,11616,38.22
+ae-assam-1951,AE,Assam,1951,1951,official,39,Bijni,GEN,,24384,INC,Swami Krishnananda Brahmachari,9555,IND,Padma Lochan Boro,5509,4046,16.59
+ae-assam-1951,AE,Assam,1951,1951,official,40,North Salmara,GEN,,26002,INC,"Das, Hareswar",13255,SOC,"Das, Paramananda",11370,1885,7.25
+ae-assam-1951,AE,Assam,1951,1951,official,41,Goalpara,GEN,,48532,INC,"Nath, Khagendranath",21261,IND,"Ahmed, Naziruddin",20968,293,0.6
+ae-assam-1951,AE,Assam,1951,1951,official,42,Sorbhog,GEN,,25403,INC,Akshoy Kumar Das,11248,IND,Ataur Rahman Choudhury,5260,5988,23.57
+ae-assam-1951,AE,Assam,1951,1951,official,43,Tarabari,GEN,,25720,IND,Pahar Khan,20190,INC,Ataur Rahman,5530,14660,57.0
+ae-assam-1951,AE,Assam,1951,1951,official,44,Barpeta West,GEN,,25761,IND,Mukhtar Ali,10025,KMPP,Syed Abdur Rouf,2015,8010,31.09
+ae-assam-1951,AE,Assam,1951,1951,official,45,Barpeta North East,GEN,,65541,INC,Mahendra Mohan Choudhury,25461,KMPP,Mahadeb Das,17354,8107,12.37
+ae-assam-1951,AE,Assam,1951,1951,official,46,Patacharkuchi,GEN,,37659,SOC,Homeswar Deb Chaudhuri,13809,INC,Narnarayan Goswami,13793,16,0.04
+ae-assam-1951,AE,Assam,1951,1951,official,47,Nalbari South,GEN,,20491,INC,Prafulla Chandra Goswami,9503,SOC,Trailokyanath Goswami,8557,946,4.62
+ae-assam-1951,AE,Assam,1951,1951,official,48,Nalbari North,GEN,,18843,INC,Prabhat Chandra Goswami,8821,SOC,Kaliram Barman,6429,2392,12.69
+ae-assam-1951,AE,Assam,1951,1951,official,49,Rangiya,GEN,,44810,INC,Siddhinath Sarma,16054,IND,Dharanidhar Basumatari,10223,5831,13.01
+ae-assam-1951,AE,Assam,1951,1951,official,50,Kamalpur,GEN,,19472,IND,Mohendranath Deka,4874,KMPP,Sarat Chandra Goswami,4682,192,0.99
+ae-assam-1951,AE,Assam,1951,1951,official,51,Hajo,GEN,,30028,INC,Bishnuram Medhi,15922,SOC,Taj Uddin Ahmed,12174,3748,12.48
+ae-assam-1951,AE,Assam,1951,1951,official,52,Boko,GEN,,24753,SOC,Radha Charan Choudhury,8056,INC,Lakshmi Dhar Bora,6403,1653,6.68
+ae-assam-1951,AE,Assam,1951,1951,official,53,Palasbari,GEN,,22397,SOC,Horewar Goswami,12115,INC,Abala Kanta Goswami,7998,4117,18.38
+ae-assam-1951,AE,Assam,1951,1951,official,54,Pub Bangsar Silasundari Ghopa,GEN,,22854,INC,Radhikaram Das,10622,SOC,Balendra Phookan,6197,4425,19.36
+ae-assam-1951,AE,Assam,1951,1951,official,55,Gauhati,GEN,,16829,CPI,Gauri Sankar Bhattacharyya,5505,INC,Rajabala Das,5292,213,1.27
+ae-assam-1951,AE,Assam,1951,1951,official,56,Mangaldoi,GEN,,20916,INC,Purandar Sarma,10095,SOC,Sandhiram Saharia,5349,4746,22.69
+ae-assam-1951,AE,Assam,1951,1951,official,57,Kalaigaon,GEN,,22405,SOC,Dandiram Datta,10409,INC,Siba Prasad Sarma,9709,700,3.12
+ae-assam-1951,AE,Assam,1951,1951,official,58,Panery,GEN,,34423,INC,Sashadhar Ghosh,16294,IND,Hiralal Patowary,12152,4142,12.03
+ae-assam-1951,AE,Assam,1951,1951,official,59,Dhekiajuli North,GEN,,17302,INC,Omeo Kumar Das,13181,IND,Francis Munda,4121,9060,52.36
+ae-assam-1951,AE,Assam,1951,1951,official,60,Dhekiajuli South,GEN,,19653,INC,Mohi Kanta Das,11017,SOC,Prajapati Rijal Bamun,5487,5530,28.14
+ae-assam-1951,AE,Assam,1951,1951,official,61,Tezpur North,GEN,,21454,INC,Biswadev Sarma,12849,SOC,Surendra Mohan Choudhury,5612,7237,33.73
+ae-assam-1951,AE,Assam,1951,1951,official,62,Tezpur South,GEN,,22471,INC,Kamla Prasad Agarwalla,10403,SOC,Dambarudhar Bora,3265,7138,31.77
+ae-assam-1951,AE,Assam,1951,1951,official,63,Sootea,GEN,,20378,INC,Bijoy Chandra Bhagabati,10631,IND,Binode Kumar Sarwan,5960,4671,22.92
+ae-assam-1951,AE,Assam,1951,1951,official,64,Gohpur,GEN,,25748,INC,Gahan Chandra Goswami,12795,SOC,Gopal Chandra Mahanta,7155,5640,21.9
+ae-assam-1951,AE,Assam,1951,1951,official,65,Laharighat,GEN,,20167,IND,Mohammed Rofique,7764,INC,Nurul Islam,7319,445,2.21
+ae-assam-1951,AE,Assam,1951,1951,official,66,Marigaon Dhing,GEN,,54878,INC,"Das, Beliram",20846,IND,"Bora, Motiram",7810,13036,23.75
+ae-assam-1951,AE,Assam,1951,1951,official,67,Nowgong Raha,GEN,,52864,INC,"Sarma, Pratap Chandra",16286,CPI,"Hazarika, Mahendra",9527,6759,12.79
+ae-assam-1951,AE,Assam,1951,1951,official,68,Jamunamukh,GEN,,30003,INC,"Bara, Bimala Kanta",15993,BPI,"Sircar, Benoy Bhusan",3648,12345,41.15
+ae-assam-1951,AE,Assam,1951,1951,official,69,Samaguri,GEN,,18433,INC,Barthakur Usha,5808,SOC,"Saikia, Babendra Kumar",5509,299,1.62
+ae-assam-1951,AE,Assam,1951,1951,official,70,Kaliabor,GEN,,22881,INC,"Bara, Lila Kanta",11867,SOC,"Hazarika, Lakeswar",6156,5711,24.96
+ae-assam-1951,AE,Assam,1951,1951,official,71,Rupohihat,GEN,,21039,INC,Mohammed Idris,13585,KMPP,Tazamal Husen,3354,10231,48.63
+ae-assam-1951,AE,Assam,1951,1951,official,72,Golaghat East,GEN,,20039,INC,"Barua, Rajendranath",9898,SOC,"Barua, Sankor Chandra",5253,4645,23.18
+ae-assam-1951,AE,Assam,1951,1951,official,73,Golaghat West,GEN,,44249,INC,"Kheria, Chanoo",21485,SOC,"Pegu, Mal",8926,12559,28.38
+ae-assam-1951,AE,Assam,1951,1951,official,74,Dergaon,GEN,,19424,INC,"Rajkhowa, Debeswar",12965,SOC,"Sarma, Narendranath",4937,8028,41.33
+ae-assam-1951,AE,Assam,1951,1951,official,75,Jorhat South,GEN,,18660,INC,"Kuladhar, Chaliha",7178,APP,P. M. Sarwan,5370,1808,9.69
+ae-assam-1951,AE,Assam,1951,1951,official,76,Jorhat North,GEN,,39670,INC,Ramnath Das,15650,SOC,Nilmani Phookan,7081,8569,21.6
+ae-assam-1951,AE,Assam,1951,1951,official,77,Titabar,GEN,,22729,APP,Sarju Prasad Singh,6516,INC,Rameswar Bora,5431,1085,4.77
+ae-assam-1951,AE,Assam,1951,1951,official,78,Teok,GEN,,23691,INC,Harinarayan Baruah,13046,SOC,Sonaram Chutia,5497,7549,31.86
+ae-assam-1951,AE,Assam,1951,1951,official,79,Amguri,GEN,,19547,INC,"Kakoti, Rabin",11365,SOC,"Hazarika, Mahendra",4268,7097,36.31
+ae-assam-1951,AE,Assam,1951,1951,official,80,Sibsagar,GEN,,19634,INC,"Gogoi, Girindranath",11613,IND,"Hazarika, Budhanath",3380,8233,41.93
+ae-assam-1951,AE,Assam,1951,1951,official,81,Nazira,GEN,,20932,INC,"Bezbarua, Ananda Chandra",12982,SOC,"Barpuari, Baidyanath",5678,7304,34.89
+ae-assam-1951,AE,Assam,1951,1951,official,82,Nazira Sonari,GEN,,20225,INC,"Gogoi, Thanuram",13183,IND,"Ghasi, Madhu",2713,10470,51.77
+ae-assam-1951,AE,Assam,1951,1951,official,83,Sonari,GEN,,19975,INC,"Chetia, Purnanda",10314,IND,"Chatowar, Kripasing",6213,4101,20.53
+ae-assam-1951,AE,Assam,1951,1951,official,84,Bihpuria,GEN,,17027,INC,Sarveswar Boruwa,6717,IND,Debananda Dewri,3880,2837,16.66
+ae-assam-1951,AE,Assam,1951,1951,official,85,North Lakhimpur,GEN,,51126,INC,Hem Chandra Hazarika,13959,SOC,Karka Doley,6498,7461,14.59
+ae-assam-1951,AE,Assam,1951,1951,official,86,Moran,GEN,,20374,IND,"Gogoi, Ghana Kanta",10221,INC,"Gohain, Padma Kumari",7955,2266,11.12
+ae-assam-1951,AE,Assam,1951,1951,official,87,Dibrugarh West,GEN,,14214,INC,"Ali, Faiznur",6248,IND,"Hazarika, Rajani Kanta",3127,3121,21.96
+ae-assam-1951,AE,Assam,1951,1951,official,88,Dibrugarh East,GEN,,21398,INC,"Barooah, Ramesh Chandra",13204,CPI,"Chakravarty, Benoy",5839,7365,34.42
+ae-assam-1951,AE,Assam,1951,1951,official,89,Tinsukia North,GEN,,14665,INC,"Khaund, Indreswar",10922,SOC,"Borbora, Golap Chandra",1956,8966,61.14
+ae-assam-1951,AE,Assam,1951,1951,official,90,Tinsukia South,GEN,,16342,INC,"Bhuyan, Jadunath",10253,IND,Bose Anath Bandhu,2266,7987,48.87
+ae-assam-1951,AE,Assam,1951,1951,official,91,Bordubi,GEN,,13708,INC,"Das, Manik Chandra",7602,SOC,"Datta, Cheniram",2763,4839,35.3
+ae-assam-1951,AE,Assam,1951,1951,official,92,Jaipur,GEN,,17013,INC,"Barua, Jago Kanta",8081,SOC,"Gogoi, Bhadreswar",4846,3235,19.01
+ae-assam-1951,AE,Assam,1951,1951,official,93,Doom Dooma,GEN,,21599,INC,"Chowdhury, Harihar",17428,SOC,"Gohain, Purnakanta",4171,13257,61.38
+ae-assam-1951,AE,Assam,1951,1951,official,94,Digboi,GEN,,37565,INC,"Khakhlari, Jadav Chandra",18121,IND,"Lohar, Dalbir Singh",4567,13554,36.08

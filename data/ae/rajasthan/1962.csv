@@ -1,0 +1,176 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,1,Pilani,GEN,,37515,IND,Hajari Lal,18249,INC,Harlal Singh,10279,7970,21.24
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,2,Surajgarh,SC,,28907,SWA,Shiv Narain Chhachhia,11500,INC,Mahadeo Prasad,9487,2013,6.96
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,3,Khetri,GEN,,31903,INC,Shisi Ram Ola,10626,SWA,Chuni Lal,10562,64,0.2
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,4,Gudha,GEN,,31264,SWA,Jiv Raj,13303,INC,Shiv Nath Singh,11457,1846,5.9
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,5,Nawalgarh,GEN,,33108,INC,Bhim Singh,14083,IND,Hari Singh,7172,6911,20.87
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,6,Jhunjhunu,GEN,,35052,INC,Sumitra,17643,IND,Sita Ram,13347,4296,12.26
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,7,Mandawa,GEN,,36346,SWA,Raghuvir Singh,15436,INC,Ram Narain,14091,1345,3.7
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,8,Fatehpur,GEN,,32456,IND,Babu Ram,14581,INC,Abdul Gaffar Khan,6866,7715,23.77
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,9,Lachhmangarh,GEN,,35064,INC,Kishansingh,9923,CPI,Trilok Singh,9410,513,1.46
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,10,Sikar,GEN,,31803,INC,Swaroop Narain,13749,BJS,Jagdish Prasad,7805,5944,18.69
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,11,Singrawat,GEN,,27608,INC,Ram Deo Singh,10432,BJS,Gordharn Singh,7470,2962,10.73
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,12,Danta Ramgarh,GEN,,43288,INC,Jagan Singh,17327,IND,Madan Singh,16715,612,1.41
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,13,Sri Madhopur,GEN,,33927,INC,Ram Chandra,18427,SWA,Hanut Singh,6032,12395,36.53
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,14,Thoi,GEN,,25702,INC,Gyan Chand,8574,BJS,Pooran Mal,6658,1916,7.45
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,15,Neem Ka Thana,GEN,,25252,INC,Chhotu,13432,BJS,Dayal Chand,6194,7238,28.66
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,16,Chomu,SC,,18919,SWA,Bhanu Prashad,13190,INC,Hari Shanker,3271,9919,52.43
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,17,Amber,GEN,,24048,SWA,Man Singh,17723,INC,Jai Singh,3285,14438,60.04
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,18,Hawamahal,GEN,,33243,SWA,Durga Lal,17792,BJS,Girdhari Lal,10281,7511,22.59
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,19,Johri Bazar,GEN,,43456,BJS,Satish Chandra,17207,SWA,Takiuddin Ahmed,11686,5521,12.7
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,20,Kishanpole,GEN,,42690,BJS,Bheron Singh,19188,SWA,Mahendra Singh,12487,6701,15.7
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,21,Phulera,GEN,,30227,SWA,Sagar Mal,18988,INC,P. K. Chaudhari,8721,10267,33.97
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,22,Dudu,GEN,,28692,SWA,Amarsingh,18261,INC,Deendayal,7610,10651,37.12
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,23,Phagi,SC,,26456,SWA,Gopi Lal,17865,INC,Ramlal,4059,13806,52.18
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,24,Chaksu,GEN,,30197,SWA,Nathu Lal,22891,INC,Narayan Chaturvedi,6844,16047,53.14
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,25,Lalsot,ST,,27607,SWA,Ram Sahai,18217,INC,Sawal Ram,9390,8827,31.97
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,26,Sikrai,ST,,25638,SWA,Lakshman Prashad,16860,INC,Kishan Lal,7218,9642,37.61
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,27,Bandikui,GEN,,31674,SWA,Mathuresh Behari,18185,INC,Bishamber Nath Joshi,11734,6451,20.37
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,28,Dausa,GEN,,35929,SWA,Mool Chand,21262,INC,Ram Karan Joshi,13720,7542,20.99
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,29,Basi,GEN,,31415,SWA,Abhai Singh,23878,INC,Gauri Shanker,6574,17304,55.08
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,30,Jamwa Ramgarh,SC,,25648,SWA,Dunga Ram,17981,BJS,Bhagirat,3067,14914,58.15
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,31,Bairath,GEN,,33243,INC,Kamla Devi,16839,HMS,Dharmendra,13653,3186,9.58
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,32,Kotputli,GEN,,29132,INC,Muktilal,18429,BJS,Prithviraj,10703,7726,26.52
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,33,Behror,GEN,,36583,INC,Ghasi Ram Yadav,17372,SOC,Bishambar Dayal,12075,5297,14.48
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,34,Bansur,GEN,,33476,IND,Satish Kumar,18397,INC,Badri Prasad Gupta,12148,6249,18.67
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,35,Mandawar,GEN,,40589,INC,Hari Prasad,20692,IND,Mahendra Singh,11536,9156,22.56
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,36,Tijara,SC,,43984,CPI,Hari Ram,26782,INC,Sampat Ram,15407,11375,25.86
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,37,Ramgarh,GEN,,31037,INC,Uma Mathur,9937,CPI,Haru Mal,9386,551,1.78
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,38,Alwar,GEN,,31481,CPI,Rama Nand,17326,INC,Chhotu Singh,13159,4167,13.24
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,39,Thanagazi,GEN,,22564,INC,Jai Krishan,11168,IND,Mool Chan,4481,6687,29.64
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,40,Rajgarh,ST,,27909,INC,Hari Kishan,14124,IND,Bharat Lal,12836,1288,4.61
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,41,Govindgarh,GEN,,33305,IND,Nathi Singh,17536,INC,Bhola Nath,15769,1767,5.31
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,42,Kathumar,SC,,22834,INC,Gokal Chand,11229,BJS,Ganga Sahai,10002,1227,5.37
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,43,Kaman,GEN,,45599,INC,Majlis,23016,CPI,Prem Chand,11275,11741,25.75
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,44,Deeg,GEN,,45363,SWA,Man Singh,19934,INC,Durga Prasad,15551,4383,9.66
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,45,Bharatpur,GEN,,44067,IND,Natthi Singh,13112,INC,Hoti Lal,10782,2330,5.29
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,46,Nadbai,SC,,33548,IND,Natthi Lal,10692,INC,Gordhan Singh Ken,9897,795,2.37
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,47,Weir,GEN,,34832,SOC,Ram Kishan,18040,INC,Vishwapriya,11721,6319,18.14
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,48,Bayana,GEN,,26936,SOC,Mukat Behari Lal,11907,INC,Shreebhan Singh,8568,3339,12.4
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,49,Rupbas,SC,,42832,SWA,Sawalia Ram,15981,INC,Chunni Lal,10384,5597,13.07
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,50,Rajakhera,GEN,,33325,INC,Pratap Singh,17941,SOC,Maharaj Singh,10797,7144,21.44
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,51,Dholpur,GEN,,31021,SOC,Hari Shanker,15149,INC,Bahadur Singh,8342,6807,21.94
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,52,Bari,GEN,,26959,IND,Raghubir Singh,9278,SOC,Mangal Singh,9044,234,0.87
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,53,Karauli,GEN,,33648,INC,Brijendra Pal,19699,BJS,Umrao Singh,3946,15753,46.82
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,54,Hindaun,SC,,27063,BJS,Sarwan,12694,INC,Umedi Lal,8952,3742,13.83
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,55,Mahuwa,GEN,,31577,BJS,Shiv Ram,10135,INC,Shiv Charan Singh,9076,1059,3.35
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,56,Nadoti,GEN,,20440,INC,Chhuttan Lal,10475,RRP,Gopi Sahai,7236,3239,15.85
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,57,Gangapur,GEN,,31005,BJS,Govind Sahai,11692,INC,Gulab Chand Palliwal,10507,1185,3.82
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,59,Khandar,SC,,18962,SWA,Harphool,10312,INC,Mangi Lal,6858,3454,18.22
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,60,Sawai Madhopur,GEN,,39960,SWA,Ram Singh,25729,INC,Abid Ali,9918,15811,39.57
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,61,Newai,SC,,41386,SWA,Jai Narain,29307,INC,Lalu Ram,11041,18266,44.14
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,62,Tonk,GEN,,35287,SWA,Radha Krishan,17832,INC,Bhanwar Lal,7800,10032,28.43
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,63,Uniara,GEN,,35683,SWA,Digvijai Singh,22725,INC,Mahendra Kumar,11065,11660,32.68
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,64,Malpura,GEN,,46485,SWA,Jai Singh,27463,INC,Damodar Vyas,18688,8775,18.88
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,65,Kishangarh,GEN,,26678,SWA,Bal Chand,11007,INC,Pursottam Lal,9280,1727,6.47
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,66,Pushkar,GEN,,26340,INC,Prabha Misra,10651,BJS,Devi Singh,7561,3090,11.73
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,67,Ajmer City West,GEN,,35616,INC,Pohumal,16639,BJS,Chiranji Lal,8295,8344,23.43
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,68,Ajmer City East,GEN,,33698,INC,Bal Krishna,22961,BJS,Nanak Ram,7916,15045,44.65
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,69,Nasirabad,GEN,,24502,INC,Jawala Prasad,8305,SWA,Hanumansingh,6969,1336,5.45
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,70,Beawar,GEN,,31414,CPI,Kumaranand,11681,INC,Brij Mohan Lal,9575,2106,6.7
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,71,Masuda,GEN,,30234,INC,Narayan Singh,14199,SWA,Fatehsingh,13222,977,3.23
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,72,Bhinai,SC,,19578,SWA,Chauthu,9416,INC,Hari Chand,6758,2658,13.58
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,73,Kekri,GEN,,32564,INC,Haribhau Upadhyay,13752,SWA,Narpat Singh,12762,990,3.04
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,74,Hindoli,ST,,14844,INC,Ganga Singh,7015,PSP,Kishan Chand,6689,326,2.2
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,75,Patan,GEN,,27078,BJS,Hari Prasad,12887,INC,Bhanwar Lal,9370,3517,12.99
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,76,Bundi,GEN,,25473,INC,Brij Sunder,8849,BJS,Ram Dutt,8821,28,0.11
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,77,Kotah,GEN,,32903,BJS,Krishan Kumar,11885,INC,Rameshwar Dayal,9414,2471,7.51
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,78,Digod,GEN,,27569,BJS,Mahendra Singh,15319,INC,Rikhab Chand,9224,6095,22.11
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,79,Pipalda,ST,,24887,BJS,Laxmi Chand,14521,INC,Ram Narain,9022,5499,22.1
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,80,Baran,SC,,23855,BJS,Daya Chand,13115,INC,Dhanna Lal,8270,4845,20.31
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,81,Chhabra,GEN,,25326,INC,Nagendra Bala,13647,BJS,Daya Kishan,4619,9028,35.65
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,82,Atur,SC,,27449,INC,Madho Lal,20420,SOC,Mool Chand,3037,17383,63.33
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,83,Chechat,GEN,,30887,INC,Jujhar Singh,20458,BJS,Vijay Singh,5594,14864,48.12
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,84,Khanpur,GEN,,22894,IND,Prabhu Lal Senter,9538,BJS,Chaturbhuj,5899,3639,15.89
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,85,Aklera,ST,,16787,INC,Bherav Lal Kalabadal,10337,SOC,Panna,3196,7141,42.54
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,86,Jhalrapatan,GEN,,32965,INC,Harish Chandra,27095,BJS,Surajmal,4382,22713,68.9
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,87,Pirawa,GEN,,19097,INC,Govind Singh,10676,BJS,Shanker Lal,4425,6251,32.73
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,88,Dag,SC,,14803,BJS,Jailal,8000,INC,Ram Chandra,5624,2376,16.05
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,89,Begun,GEN,,24558,SWA,Choshar Singh Babel,14375,INC,Sugan Chand Jain,10183,4192,17.07
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,90,Kapasin,GEN,,23645,INC,Bhawani Shanker Nandwana,11326,IND,Nathulal,10452,874,3.7
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,91,Chittorgarh,GEN,,19472,INC,Chatarbhuj Upadhaya,11328,BJS,Kailash Chandra,7159,4169,21.41
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,92,Nimbahera,GEN,,19982,BJS,A. Jabbar,10929,INC,Shri Niwas,8054,2875,14.39
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,93,Bhadesar,SC,,15983,INC,Ganesh Lal,7369,PSP,Kailash Chandra,5092,2277,14.25
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,94,Sadari,GEN,,22783,INC,Shankar Lal Jat,7391,IND,Himmat Singh,6916,475,2.08
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,95,Pratapgarh,ST,,23941,INC,Harlal,7529,SOC,Basantilal,6223,1306,5.46
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,96,Banswara,ST,,28341,SOC,Vithla,16373,SWA,Heera,6124,10249,36.16
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,97,Kushalgarh,ST,,33420,SOC,Hira,19987,INC,Bhimarat,10807,9180,27.47
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,98,Bagidora,ST,,28893,INC,Nathuram,11005,SOC,Kama,10640,365,1.26
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,99,Ghatol,GEN,,32057,INC,Harideo Joshi,16165,SOC,Narayan,9191,6974,21.75
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,100,Sagwara,ST,,37221,INC,Bheeka Bhai,22327,SWA,Lalshanker,13432,8895,23.9
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,101,Dungarpur,ST,,30408,SWA,Vijaypal,14439,INC,Ram Chandra,13007,1432,4.71
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,102,Aspur,GEN,,41426,SWA,Lakshmansingh,23517,INC,Bhogilal,17106,6411,15.48
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,103,Lasadia,GEN,,20830,SWA,Udailal,9427,INC,Gulabsingh,9222,205,0.98
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,104,Bhopalsagar,SC,,17674,INC,Amritlal,6880,BJS,Bherulal,5819,1061,6.0
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,105,Mavli,GEN,,24058,BJS,Sampatlal,9810,INC,Janardanrai,7890,1920,7.98
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,106,Rajsamand,GEN,,27736,INC,Niranjan Nath Acharya,17704,IND,Roshanlal Badola,7530,10174,36.68
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,107,Nathdwara,GEN,,27162,BJS,Vije Singh,14221,INC,Kishan Lal,9306,4915,18.1
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,108,Udaipur,GEN,,32761,INC,Mohanlal,21844,BJS,Bhanu Kumar,10442,11402,34.8
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,109,Girwa,GEN,,18441,BJS,Jodh Singh,7164,INC,Roshan Lal,6997,167,0.91
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,110,Salumber,ST,,17624,SWA,Mava,9111,INC,Shiv Ram,7530,1581,8.97
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,111,Sarada,ST,,17684,INC,Devi Lal,9350,SWA,Rajeng,7497,1853,10.48
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,112,Phalasia,ST,,17297,SWA,Nana,9639,INC,Vidyasagar,7028,2611,15.1
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,113,Gogunda,ST,,17235,SWA,Lalit Mohan,13331,INC,Lakhsaman,3904,9427,54.7
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,114,Kumbhalgarh,GEN,,24314,SWA,Govind Singh,11011,INC,Hiralal,10733,278,1.14
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,115,Bhim,GEN,,28996,INC,Lakshmi Kumari,19608,BJS,Shanker Lal,6653,12955,44.68
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,116,Mandal,GEN,,18041,INC,Gokul Prasad,10412,BJS,Shiv Charan Dass,2629,7783,43.14
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,117,Sahada,ST,,19596,INC,Devender Kumar,15396,IND,Kishana,3385,12011,61.29
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,118,Bhilwara,GEN,,27282,INC,Nirmala Devi,13727,BJS,Banshi Lal,5730,7997,29.31
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,119,Mandalgarh,GEN,,20430,INC,Ganpati Lal,8600,IND,Chandravir Singh,7424,1176,5.76
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,120,Jahazpur,GEN,,18311,INC,Ram Prasad Ladha,8238,IND,Fateh Singh,2421,5817,31.77
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,121,Shahpura,SC,,15247,INC,Kana S/O Dhula,6747,SWA,Debi,5920,827,5.42
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,122,Banera,GEN,,22068,IND,Umrao Singh,12945,INC,Tej Mal Bapna,8150,4795,21.73
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,123,Asind,GEN,,22299,INC,Girdhari Lal,9885,IND,Jamna Lal,4977,4908,22.01
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,124,Raipur,GEN,,33017,IND,Mangi Lal,17480,INC,Shanker Lal,12482,4998,15.14
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,125,Sojat,GEN,,29652,INC,Teja Ram,12599,CPI,Heer Singh,8832,3767,12.7
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,126,Pali,GEN,,39781,SWA,Kesri Singh,17954,INC,Mool Chand,13267,4687,11.78
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,127,Kharchi,GEN,,24474,INC,Kesree Singh,13506,IND,Vena Ram,7425,6081,24.85
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,128,Desuri,SC,,16544,INC,Dineshrai,6979,SWA,Deoraj,5842,1137,6.87
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,129,Bali,GEN,,30262,INC,Mohan Raj,11515,SWA,Sajan Singh,10224,1291,4.27
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,130,Sumerpur,ST,,21996,INC,Aldaram,10779,SWA,Bhara,6560,4219,19.18
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,131,Pindwara,GEN,,17436,INC,Ravishanker,8885,IND,Mohanlal,5664,3221,18.47
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,132,Sirohi,SC,,13305,INC,Dharmaram,6143,IND,Lalaram,2803,3340,25.1
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,133,Abu,GEN,,26235,INC,Dalpat Singh,13160,IND,Bhagwan Dass,9742,3418,13.03
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,134,Sanchore,GEN,,27411,INC,Raghunath Vishno,15598,RRP,Laxmichand Jain,10889,4709,17.18
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,135,Raniwara,GEN,,17605,INC,Bhag Raj,10199,IND,Chatar Singh,5479,4720,26.81
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,136,Bhinmal,GEN,,18237,INC,Malam Singh,7856,IND,Ukh Chand,7533,323,1.77
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,137,Jalore,SC,,10785,INC,Virda Ram,3865,RRP,Jepa,2115,1750,16.23
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,138,Ahore,GEN,,31276,RRP,Chhattra Singh,12594,INC,Madho Singh Rathore,8312,4282,13.69
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,139,Siwana,SC,,16371,INC,Hari Ram,5863,IND,Rawat Ram,4856,1007,6.15
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,140,Pachpadra,GEN,,31683,IND,Amar Singh,15673,INC,Madan Kaur,13179,2494,7.87
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,141,Barmer,GEN,,26320,IND,Umed Singh,13254,INC,Vridhi Chand,11936,1318,5.01
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,142,Gura Malani,GEN,,21809,INC,Ganga Ram,11577,IND,Bachoo,5005,6572,30.13
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,143,Chohtan,GEN,,23181,RRP,Fateh Singh,12076,INC,Ahmad Bux,9890,2186,9.43
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,144,Jaisalmer,GEN,,27893,INC,Hukam Singh,16157,RRP,Anope Singh,8646,7511,26.93
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,145,Shergarh,GEN,,23143,RRP,Shobhag Singh,15075,INC,Khet Singh,7718,7357,31.79
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,146,Jodhpur City I,GEN,,26912,INC,Anand Singh Kachhawaha,10521,BJS,Rewa Chand,6623,3898,14.48
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,147,Jodhpur City I I,GEN,,27275,INC,Barkatulla Khan,9964,BJS,Guman Mal,6907,3057,11.21
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,148,Luni,GEN,,38818,IND,Swaroop Singh,21564,INC,Poonam Chan,14189,7375,19.0
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,149,Bilara,GEN,,45603,IND,Chandra Singh,23985,INC,Bhairon Singh,19269,4716,10.34
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,150,Osian,GEN,,31636,INC,Parsh Ram,17964,PSP,Rewat Dan,10721,7243,22.89
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,151,Phalodi,SC,,20952,INC,Lala Ram,11897,RRP,Suraj Mal,9055,2842,13.56
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,152,Nokha,SC,,21513,IND,Rooparam,12095,INC,Prabhu Dayal,6753,5342,24.83
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,153,Kolayat,GEN,,28089,PSP,Manik Chand,7976,IND,Chandra Singh,6320,1656,5.9
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,154,Bikaner,GEN,,29078,PSP,Murlidhar Vyas,11725,INC,Mool Chand Pareek,9673,2052,7.06
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,155,Lunkaransar,GEN,,25165,INC,Bhimsen,7783,CPI,Jukam Ram,6043,1740,6.91
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,156,Raisinghnagar,GEN,,53860,CPI,Yogendranath,30714,INC,Chuni Lal,13823,16891,31.36
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,157,Karanpur,GEN,,43318,IND,Jawand Singh,21571,INC,Satwant Kaur,19445,2126,4.91
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,158,Ganganagar,GEN,,43054,IND,Kedarnath,25840,INC,Motiram,14396,11444,26.58
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,159,Suratgarh,GEN,,43856,INC,Manphool Singh,21497,IND,Man Singh,21349,148,0.34
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,160,Hanumangarh,GEN,,51003,CPI,Shopat Singh,31501,INC,Ramchandra Chaudhary,18217,13284,26.05
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,161,Rawatsar,SC,,31629,IND,Juglal,14328,INC,Dhannaram Chamar,12555,1773,5.61
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,162,Nohar,GEN,,46355,IND,Hardutt Singh,24823,INC,Hansraj,19169,5654,12.2
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,163,Sadulpur,SC,,24938,INC,Rawat Ram,12502,CPI,Het Ram,8950,3552,14.24
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,164,Churu,GEN,,29880,IND,Mohar Singh,13113,INC,Pratap Singh,8466,4647,15.55
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,165,Sardarshahar,GEN,,38371,INC,Chandan Mal,15144,IND,Mal Chand,14177,967,2.52
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,166,Dungargarh,GEN,,36744,INC,Daulat Ram,14165,IND,Jaswant Singh,13292,873,2.38
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,167,Ratangarh,GEN,,35773,IND,Mohan Lal,13170,INC,Jaideo Prasad,12646,524,1.46
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,168,Sujangarh,GEN,,32833,INC,Phool Chand,11756,IND,Debi Singh,6385,5371,16.36
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,169,Nagaur,GEN,,28538,INC,Ram Niwas,17031,BJS,Sampatmal,5037,11994,42.03
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,170,Jayal,GEN,,31198,SWA,Ganga Singh,10472,INC,Manik Chand Kothari,9073,1399,4.48
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,171,Ladnu,GEN,,36155,INC,Mathuradas,17127,IND,Kanhaiya Lal,9395,7732,21.39
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,172,Deedwana,GEN,,43719,INC,Moti Lal,23523,IND,Magan Singh,19292,4231,9.68
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,173,Nawan,GEN,,40960,IND,Hanuman Singh,16755,INC,Gulam Mustfa,9818,6937,16.94
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,174,Parbatsar,SC,,28982,INC,Jeth Mal,18594,SWA,Jeev Raj,10388,8206,28.31
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,175,Degana,GEN,,29317,INC,Gori Poonia,14350,RRP,Bhopal Singh,9873,4477,15.27
+ae-rajasthan-1962,AE,Rajasthan,1962,1962,official,176,Merta,GEN,,37217,INC,Nathu Ram,18871,IND,Ahsan Ali,12658,6213,16.69

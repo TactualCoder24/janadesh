@@ -1,0 +1,126 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-assam-1991,AE,Assam,1991,1991,official,1,Ratabari,SC,Karimganj,63495,BJP,Ram Payare Rabidas,27478,CPI(M),Rathish Ranjan Choudhury,18178,9300,14.65
+ae-assam-1991,AE,Assam,1991,1991,official,2,Patharkandi,GEN,Karimganj,79984,BJP,Madhusudan Tewari,25157,IND,Main Uddin Ahmed,21105,4052,5.07
+ae-assam-1991,AE,Assam,1991,1991,official,3,Karimganj North,GEN,Karimganj,80269,BJP,Mission Ranjan Das,34288,AGP,Sirajul Haque Choudhury,21079,13209,16.46
+ae-assam-1991,AE,Assam,1991,1991,official,4,Karimganj South,GEN,Karimganj,74079,BJP,Pranab Kumar Nath,24020,AGP,Makbul Ali,23280,740,1.0
+ae-assam-1991,AE,Assam,1991,1991,official,5,Badarpur,GEN,Karimganj,77860,INC,Abu Saleh Najmuddin,53963,BJP,Dipak Deb,19912,34051,43.73
+ae-assam-1991,AE,Assam,1991,1991,official,6,Hailakandi,GEN,Hailakandi,72533,BJP,Chittendra Nath Mazumder,28775,JD,Sahabuddin Chodhury,15761,13014,17.94
+ae-assam-1991,AE,Assam,1991,1991,official,7,Katlicherra,GEN,Hailakandi,82347,INC,Gautam Roy,41297,IND,Sachidananda Upadhyay,32782,8515,10.34
+ae-assam-1991,AE,Assam,1991,1991,official,8,Algapur,GEN,Hailakandi,72252,AGP,Sahidul Alam Chodhary,34596,BJP,Krishna Prasad Rai,28194,6402,8.86
+ae-assam-1991,AE,Assam,1991,1991,official,9,Silchar,GEN,Cachar,89112,BJP,Samarendra Nath Sen,37493,INC,Karnendu Bhattacharjee,23642,13851,15.54
+ae-assam-1991,AE,Assam,1991,1991,official,10,Sonai,GEN,Cachar,80454,BJP,Badrinarayan Singh,21931,AGP,Abdul Haque Barbhuiya,18346,3585,4.46
+ae-assam-1991,AE,Assam,1991,1991,official,11,Dholai,SC,Cachar,71990,BJP,Parimal Suklabaidya,32678,AGP,Kamakhya Prasad Mala,16366,16312,22.66
+ae-assam-1991,AE,Assam,1991,1991,official,12,Udharband,GEN,Cachar,67073,INC,Jagannath Singh,25080,JD,Lokman Ali,17877,7203,10.74
+ae-assam-1991,AE,Assam,1991,1991,official,13,Lakhipur,GEN,Cachar,71044,INC,Dinesh Prasad Goala,18538,BJP,Debendra Singha,13715,4823,6.79
+ae-assam-1991,AE,Assam,1991,1991,official,14,Barkhola,GEN,Cachar,66326,JD,Abdul Matin Mazumdar,26964,BJP,Nabendu Kumar Das,21806,5158,7.78
+ae-assam-1991,AE,Assam,1991,1991,official,15,Katigora,GEN,Cachar,76847,BJP,Kali Ranjan Deb,35232,CPI(M),Sanjib Sikidar,18255,16977,22.09
+ae-assam-1991,AE,Assam,1991,1991,official,16,Haflong,ST,North Cachar Hills,54868,INC,Gobinda Ch. Langthasa,33868,IND,Jatan Kumar Thaosen,21000,12868,23.45
+ae-assam-1991,AE,Assam,1991,1991,official,17,Bokajan,ST,Karbi Anglong,52062,ADC,Monsing Rongpi,28585,INC,Rajen Timung,12631,15954,30.64
+ae-assam-1991,AE,Assam,1991,1991,official,18,Howraghat,ST,Karbi Anglong,54934,ADC,Babu Rongpi,31323,IND,Khorsing Engti,11123,20200,36.77
+ae-assam-1991,AE,Assam,1991,1991,official,19,Diphu,ST,Karbi Anglong,64758,ADC,Dipendra Rongpi,31521,INC,Kunjalal Hagjer,14657,16864,26.04
+ae-assam-1991,AE,Assam,1991,1991,official,20,Baithalangso,ST,Karbi Anglong,70993,ADC,Holiram Terang,35050,INC,Dhaniram Rongpi,29249,5801,8.17
+ae-assam-1991,AE,Assam,1991,1991,official,21,Mankachar,GEN,Dhubri,75144,INC,Zahirul Islam,36801,ICS(SCS),Borhan Uddin Mollah,16941,19860,26.43
+ae-assam-1991,AE,Assam,1991,1991,official,22,Salmara South,GEN,Dhubri,66660,IND,Dewan Joynal Abedin,23314,INC,Wazed Ali Choudhury,18172,5142,7.71
+ae-assam-1991,AE,Assam,1991,1991,official,23,Dhubri,GEN,Dhubri,70703,BJP,Dhruba Kr. Sen,19966,CPI(M),Saber Ali Sheikh,16215,3751,5.31
+ae-assam-1991,AE,Assam,1991,1991,official,24,Gauripur,GEN,Dhubri,77881,INC,Md. Mohidul Haque,18049,BJP,Birendra Nath Ray,16176,1873,2.4
+ae-assam-1991,AE,Assam,1991,1991,official,25,Golakganj,GEN,Dhubri,79293,CPI,Alauddin Sarkar,36926,BJP,Jadabananda Adhikary,33636,3290,4.15
+ae-assam-1991,AE,Assam,1991,1991,official,26,Bilasipara West,GEN,Dhubri,62936,CPI,Giasuddin Ahmed,15550,UMF,Ali Akbar Miah,12741,2809,4.46
+ae-assam-1991,AE,Assam,1991,1991,official,27,Bilasipara East,GEN,Dhubri,80063,INC,Anowar Hussin,27123,ICS(SCS),Sarat Chandra Sinha,14132,12991,16.23
+ae-assam-1991,AE,Assam,1991,1991,official,28,Gossaigaon,GEN,Kokrajhar,83939,IND,Tajendra Narzary,59309,INC,Mithias Tudu,20970,38339,45.67
+ae-assam-1991,AE,Assam,1991,1991,official,30,Kokrajhar East,ST,Kokrajhar,83783,IND,Pramila Brahma,66390,INC,Dhwajendra Brahma,11691,54699,65.29
+ae-assam-1991,AE,Assam,1991,1991,official,31,Sidli,ST,Kokrajhar,98146,IND,Khiren Borgoyary,77024,INC,Louis Islary,12829,64195,65.41
+ae-assam-1991,AE,Assam,1991,1991,official,32,Bongaigaon,GEN,Bongaigaon,68109,AGP,Phani Bhoosan Choudhary,27055,CPI(M),Bali Narayan Singha,21279,5776,8.48
+ae-assam-1991,AE,Assam,1991,1991,official,33,Bijni,GEN,Kokrajhar,68146,IND,Kamal Brahma,35736,INC,Uday Chandra Das,14537,21199,31.11
+ae-assam-1991,AE,Assam,1991,1991,official,34,Abhayapuri North,GEN,Bongaigaon,60579,AGP,Bhupen Roy,15493,INC,Abdul Hai Nagori,13044,2449,4.04
+ae-assam-1991,AE,Assam,1991,1991,official,35,Abhayapuri South,SC,Bongaigaon,68479,INC,Chandan Kumar Sarkar,22311,AGP,Rabin Banikya,21618,693,1.01
+ae-assam-1991,AE,Assam,1991,1991,official,36,Dudhnai,ST,Goalpara,68596,INC,Jagat Patgiri,19007,AGP,Akan Rabha,17434,1573,2.29
+ae-assam-1991,AE,Assam,1991,1991,official,37,Goalpara East,GEN,Goalpara,69775,INC,Ratneshwar Das,17416,AGP,Jyotish Chandra Das,12746,4670,6.69
+ae-assam-1991,AE,Assam,1991,1991,official,38,Goalpara West,GEN,Goalpara,68019,IND,Nazmul Hoque,27412,AGP,Prafulla Kumar Rabha,21958,5454,8.02
+ae-assam-1991,AE,Assam,1991,1991,official,39,Jaleswar,GEN,Goalpara,60220,INC,Afzalur Rahman,24433,JD,Aftabuddin,12914,11519,19.13
+ae-assam-1991,AE,Assam,1991,1991,official,40,Sorbhog,GEN,Barpeta,84485,INC,Samsul Hoque,31436,CPI(M),Hemen Das,27991,3445,4.08
+ae-assam-1991,AE,Assam,1991,1991,official,41,Bhabanipur,GEN,Barpeta,65500,IND,Milan Boro,23394,AGP,Surendra Nath Medhi,14405,8989,13.72
+ae-assam-1991,AE,Assam,1991,1991,official,42,Patacharkuchi,GEN,Barpeta,64011,IND,Krishna Kanta Lahkar,13987,NAGP,Premanada Hazarika,8212,5775,9.02
+ae-assam-1991,AE,Assam,1991,1991,official,43,Barpeta,GEN,Barpeta,90473,INC,Ismail Hussain,45705,IND,Mukul Das,41968,3737,4.13
+ae-assam-1991,AE,Assam,1991,1991,official,44,Jania,GEN,Barpeta,71292,IND,Asahaque Ali,15492,INC,Jalil Talukdar,9045,6447,9.04
+ae-assam-1991,AE,Assam,1991,1991,official,45,Baghbar,GEN,Barpeta,59613,INC,Dildar Rezza,15801,UMF,Sheikh A. Hamid,15368,433,0.73
+ae-assam-1991,AE,Assam,1991,1991,official,46,Sarukhetri,GEN,Barpeta,79448,CPI(M),Nizamuddin Khan,22511,INC,Kandarpa Kumar Das,18504,4007,5.04
+ae-assam-1991,AE,Assam,1991,1991,official,47,Chenga,GEN,Barpeta,56550,IND,Liakat Ali Khan,25102,INC,Hemanta Talukdar,8792,16310,28.84
+ae-assam-1991,AE,Assam,1991,1991,official,48,Boko,SC,Kamrup,77669,INC,Gopinath Das,36143,NAGP,Jyoti Prasad Das,25439,10704,13.78
+ae-assam-1991,AE,Assam,1991,1991,official,49,Chaygaon,GEN,Kamrup,67004,AGP,Kamala Kalita,19345,INC,Joy Kumar Jain,12952,6393,9.54
+ae-assam-1991,AE,Assam,1991,1991,official,50,Palasbari,GEN,Kamrup,68998,AGP,Jatin Mali,28665,JD,Harendra Deba Goswami,14007,14658,21.24
+ae-assam-1991,AE,Assam,1991,1991,official,51,Jalukbari,GEN,Kamrup,70209,NAGP,Bhrigu Kumar Phukan,34599,INC,Adil Shah,14484,20115,28.65
+ae-assam-1991,AE,Assam,1991,1991,official,52,Dispur,GEN,Kamrup,78033,AGP,Atul Bora,26175,INC,Akon Bora,14809,11366,14.57
+ae-assam-1991,AE,Assam,1991,1991,official,53,Gauhati East,GEN,Kamrup,63668,INC,Chitta Ranjan Patowari,18123,ICS(SCS),Pankaj Bora,9668,8455,13.28
+ae-assam-1991,AE,Assam,1991,1991,official,54,Gauhati West,GEN,Kamrup,69902,NAGP,Ramendra Narayan Kalita,14161,AGP,Ram Kumar Das,12516,1645,2.35
+ae-assam-1991,AE,Assam,1991,1991,official,55,Hajo,GEN,Kamrup,70815,NAGP,Badan Baruah,14025,INC,Abdul Mazid,12035,1990,2.81
+ae-assam-1991,AE,Assam,1991,1991,official,56,Kamalpur,GEN,Kamrup,68666,NAGP,Hiteswar Deka,15932,INC,Benudhar Kalita,12676,3256,4.74
+ae-assam-1991,AE,Assam,1991,1991,official,57,Rangiya,GEN,Kamrup,75840,AGP,Thaneswar Baro,27209,CPI(M),Purna Boro,18106,9103,12.0
+ae-assam-1991,AE,Assam,1991,1991,official,58,Tamulpur,GEN,Nalbari,82139,IND,Derhagra Musha,19920,AGP,Ramesh Mazumdar,12057,7863,9.57
+ae-assam-1991,AE,Assam,1991,1991,official,59,Nalbari,GEN,Nalbari,77293,AGP,Nagen Sarma,22452,NAGP,Hemanta Kr. Barman,21929,523,0.68
+ae-assam-1991,AE,Assam,1991,1991,official,60,Barkhetry,GEN,Nalbari,75108,INC,Bhumidhar Barman,30243,NAGP,Pulakesh Barua,28336,1907,2.54
+ae-assam-1991,AE,Assam,1991,1991,official,61,Dharmapur,GEN,Nalbari,58706,IND,Chandra Mohan Patowary,19490,INC,Kishore,11231,8259,14.07
+ae-assam-1991,AE,Assam,1991,1991,official,62,Barama,ST,Nalbari,73003,NAGP,Pani Ram Rabha,21927,AGP,Rekha Rani Das Boro,19599,2328,3.19
+ae-assam-1991,AE,Assam,1991,1991,official,63,Chapaguri,ST,Barpeta,75356,AGP,Suren Swargiary,24634,IND,Jog Mohan Barkachary,23759,875,1.16
+ae-assam-1991,AE,Assam,1991,1991,official,64,Panery,GEN,Darrang,62717,IND,Karendra Basumatari,19636,INC,Mridula Saharia,16992,2644,4.22
+ae-assam-1991,AE,Assam,1991,1991,official,65,Kalaigaon,GEN,Darrang,67650,IND,Jew Ram Boro,16534,AGP,Mahendra Mohan Raichoudhury,13531,3003,4.44
+ae-assam-1991,AE,Assam,1991,1991,official,66,Sipajhar,GEN,Darrang,71580,AGP,Zoii Nath Sarmah,35971,JD,Madhab Rajbangshi,22166,13805,19.29
+ae-assam-1991,AE,Assam,1991,1991,official,67,Mangaldoi,SC,Darrang,72346,INC,Nakul Chandra Das,36519,AGP,Hiren Kumar Das,19774,16745,23.15
+ae-assam-1991,AE,Assam,1991,1991,official,68,Dalgaon,GEN,Darrang,69770,INC,Syeda Anwara Taimur,24346,UMF,Abdul Jabbar,24058,288,0.41
+ae-assam-1991,AE,Assam,1991,1991,official,69,Udalaguri,ST,Darrang,67913,INC,Jaman Singh Brahma,28149,IND,Binai Khungur Basumatari,24091,4058,5.98
+ae-assam-1991,AE,Assam,1991,1991,official,70,Majbat,GEN,Darrang,57615,INC,Silvius Condpan,24337,IND,Rameshwar Boro,10383,13954,24.22
+ae-assam-1991,AE,Assam,1991,1991,official,71,Dhekiajuli,GEN,Sonitpur,63528,INC,Hiranya Bora,34051,AGP,Ratul Nath,9571,24480,38.53
+ae-assam-1991,AE,Assam,1991,1991,official,72,Barchalla,GEN,Sonitpur,64363,INC,Rudra Parajuli,26911,AGP,Prafulla Kumar Goswami,10739,16172,25.13
+ae-assam-1991,AE,Assam,1991,1991,official,73,Tezpur,GEN,Sonitpur,59182,INC,Bijit Saikia,26646,NAGP,Brindabon Goswami,16115,10531,17.79
+ae-assam-1991,AE,Assam,1991,1991,official,74,Rangapara,GEN,Sonitpur,60866,INC,Golok Rajbanshi,30516,CPI(M),Dhaniram Khosla,12903,17613,28.94
+ae-assam-1991,AE,Assam,1991,1991,official,75,Sootea,GEN,Sonitpur,67155,INC,Kushal Sahu,24172,PTCA,Nagen Basumatari,12140,12032,17.92
+ae-assam-1991,AE,Assam,1991,1991,official,76,Biswanath,GEN,Sonitpur,61985,INC,Nurjamal Sarkar,28818,AGP,Prabin Hazarika,10779,18039,29.1
+ae-assam-1991,AE,Assam,1991,1991,official,77,Behali,GEN,Sonitpur,48705,INC,Barnabash Tantee,25074,IND,Biswajeet Goswami,4534,20540,42.17
+ae-assam-1991,AE,Assam,1991,1991,official,78,Gohpur,GEN,Sonitpur,81801,INC,Kosheswar Barua,16891,IND,Sobharam Goyari,11783,5108,6.24
+ae-assam-1991,AE,Assam,1991,1991,official,79,Jagiroad,SC,Marigaon,70183,AGP,Bubul Das,24080,INC,Milik Das,22527,1553,2.21
+ae-assam-1991,AE,Assam,1991,1991,official,80,Marigaon,GEN,Marigaon,66412,CPI,Munin Mahanta,15635,AGP,Lakhi Mahanta,14542,1093,1.65
+ae-assam-1991,AE,Assam,1991,1991,official,81,Laharighat,GEN,Marigaon,64886,INC,Samsul Huda,20389,IND,Anil Raja,15872,4517,6.96
+ae-assam-1991,AE,Assam,1991,1991,official,82,Raha,SC,Nagaon,77221,AGP,Gahin Chandra Das,31137,INC,Jagdish Das,25023,6114,7.92
+ae-assam-1991,AE,Assam,1991,1991,official,83,Dhing,GEN,Nagaon,73732,INC,Muzibar Rahman,44063,AGP,Inmul Haque,9645,34418,46.68
+ae-assam-1991,AE,Assam,1991,1991,official,84,Batadroba,GEN,Nagaon,68395,INC,Goutom Bora,22902,AGP,Digen Chandra Bora,18207,4695,6.86
+ae-assam-1991,AE,Assam,1991,1991,official,85,Rupohihat,GEN,Nagaon,71252,INC,Rashidul Haque,40273,GGS,Abdul Aziz,11376,28897,40.56
+ae-assam-1991,AE,Assam,1991,1991,official,86,Nowgong,GEN,Nagaon,68629,INC,Mukut Sarma,32446,AGP,Prafulla Kumar Mahanta,29778,2668,3.89
+ae-assam-1991,AE,Assam,1991,1991,official,87,Barhampur,GEN,Nagaon,70099,AGP,Prafulla Kumar Mahanta,31027,INC,Ramesh Chandra Phukan,13694,17333,24.73
+ae-assam-1991,AE,Assam,1991,1991,official,88,Samaguri,GEN,Nagaon,56888,INC,Nurul Hussain,18825,GGS,A. Aziz,16777,2048,3.6
+ae-assam-1991,AE,Assam,1991,1991,official,89,Kaliabor,GEN,Nagaon,53102,INC,Boloram Nag,25868,AGP,Gunin Hazarika,18484,7384,13.91
+ae-assam-1991,AE,Assam,1991,1991,official,90,Jamunamukh,GEN,Nagaon,65995,INC,Abdul Jalil Ragibi,14192,IND,Abu Jaifar Atia,12385,1807,2.74
+ae-assam-1991,AE,Assam,1991,1991,official,91,Hojai,GEN,Nagaon,77875,INC,Ardhendu Kumar Dey,32481,BJP,Sikha Sur Choudhury,17631,14850,19.07
+ae-assam-1991,AE,Assam,1991,1991,official,92,Lumding,GEN,Nagaon,60305,INC,Debesh Ch. Chaakroborty,14762,BJP,Bal Gobinda Lal,13581,1181,1.96
+ae-assam-1991,AE,Assam,1991,1991,official,93,Bokakhat,GEN,Golaghat,52687,INC,Bhupen Bhuyan,24263,AGP,Bhagirath Karan,8658,15605,29.62
+ae-assam-1991,AE,Assam,1991,1991,official,94,Sarupathar,GEN,Golaghat,84826,AGP,Binod Gowal,40324,INC,Aklius Tirkey,32119,8205,9.67
+ae-assam-1991,AE,Assam,1991,1991,official,95,Golaghat,GEN,Golaghat,70128,INC,Nagen Neog,27222,JD,Soneswar Bora,21457,5765,8.22
+ae-assam-1991,AE,Assam,1991,1991,official,96,Khumtai,GEN,Golaghat,53312,INC,Jiba Kanta Gogoi,19544,AGP,Probin Kumar Gogoi,16457,3087,5.79
+ae-assam-1991,AE,Assam,1991,1991,official,97,Dergaon,SC,Jorhat,59561,INC,Hem Prakash Narayan,23468,AGP,Nalin Chandra Hazarika,23029,439,0.74
+ae-assam-1991,AE,Assam,1991,1991,official,98,Jorhat,GEN,Jorhat,59148,AGP,Hitendra Nath Goswami,23249,INC,Dina Nath Rajkhowa,20451,2798,4.73
+ae-assam-1991,AE,Assam,1991,1991,official,99,Majuli,ST,Jorhat,56430,AGP,Padmeswar Doley,17497,IND,Padmadhar Pegu,16293,1204,2.13
+ae-assam-1991,AE,Assam,1991,1991,official,100,Titabar,GEN,Jorhat,54238,INC,Mahendra Bora,19405,CPI,Kula Das,9573,9832,18.13
+ae-assam-1991,AE,Assam,1991,1991,official,101,Mariani,GEN,Jorhat,49077,INC,Rupam Kurmi,21508,AGP,Dineswar Tasa,5677,15831,32.26
+ae-assam-1991,AE,Assam,1991,1991,official,102,Teok,GEN,Jorhat,49286,AGP,Renu Poma Rajkhowa,15773,INC,Membar Gogoi,14223,1550,3.14
+ae-assam-1991,AE,Assam,1991,1991,official,103,Amguri,GEN,Sibsagar,48679,INC,Anjan Dutta,14156,AGP,Pradip Hazarika,13899,257,0.53
+ae-assam-1991,AE,Assam,1991,1991,official,104,Nazira,GEN,Sibsagar,51760,INC,Hiteshwar Saikia,34533,CPI,Ruhit Bora,6363,28170,54.42
+ae-assam-1991,AE,Assam,1991,1991,official,105,Mahmara,GEN,Sibsagar,52217,INC,Lakhi Prasad Borgohain,24891,NAGP,Hiranya Konwar,6846,18045,34.56
+ae-assam-1991,AE,Assam,1991,1991,official,106,Sonari,GEN,Sibsagar,67077,INC,Sarat Borkataky,38877,AGP,Bani Chanqmai,15386,23491,35.02
+ae-assam-1991,AE,Assam,1991,1991,official,107,Thowra,GEN,Sibsagar,48170,INC,Devananda Konwar,18569,AGP,Rajendra Prasad Bora,11222,7347,15.25
+ae-assam-1991,AE,Assam,1991,1991,official,108,Sibsagar,GEN,Sibsagar,55659,CPI,Promod Gogoi,18856,INC,Pranab Kumar Gogoi,17260,1596,2.87
+ae-assam-1991,AE,Assam,1991,1991,official,109,Bihpuria,GEN,Lakhimpur,56257,INC,Borgaram Deori,11973,AGP,Kesharam Bora,9085,2888,5.13
+ae-assam-1991,AE,Assam,1991,1991,official,110,Naoboicha,GEN,Lakhimpur,70266,INC,Moni Kumar Subba,34130,AGP,Sarbeswar Borah,9868,24262,34.53
+ae-assam-1991,AE,Assam,1991,1991,official,111,Lakhimpur,GEN,Lakhimpur,60644,INC,Indra Gogoi,19737,AGP,Utpal Dutta,14889,4848,7.99
+ae-assam-1991,AE,Assam,1991,1991,official,112,Dhakuakhana,ST,Dhemaji,77546,AGP,Bharat Chandra Narah,23891,INC,Paramananda Doley,18505,5386,6.95
+ae-assam-1991,AE,Assam,1991,1991,official,113,Dhemaji,ST,Dhemaji,83328,AGP,Dilip Kumar Saikia,23730,INC,Durgeswar Patir,15719,8011,9.61
+ae-assam-1991,AE,Assam,1991,1991,official,114,Jonai,ST,Dhemaji,78529,INC,Gomeswar Pegu,20908,URC,Bijoy Pegu,12333,8575,10.92
+ae-assam-1991,AE,Assam,1991,1991,official,115,Moran,GEN,Dibrugarh,47299,INC,Joy Chandra Nagbanshi,22461,AGP,Kiran Kumar Gogoi,8469,13992,29.58
+ae-assam-1991,AE,Assam,1991,1991,official,116,Dibrugarh,GEN,Dibrugarh,47853,INC,Keshab Gogoi,20278,AGP,Bhaskar Bora,11208,9070,18.95
+ae-assam-1991,AE,Assam,1991,1991,official,117,Lahowal,GEN,Dibrugarh,49203,INC,Haren Bhumij,21239,AGP,Karuna Hazarika,8287,12952,26.32
+ae-assam-1991,AE,Assam,1991,1991,official,118,Duliajan,GEN,Dibrugarh,52727,INC,Aniya Gogoi,26794,AGP,Diganta Saikia,13872,12922,24.51
+ae-assam-1991,AE,Assam,1991,1991,official,119,Tingkhong,GEN,Dibrugarh,53325,INC,Prithibi Majhi,25252,AGP,Jogesh Bikash Chetia,8968,16284,30.54
+ae-assam-1991,AE,Assam,1991,1991,official,120,Naharkatia,GEN,Dibrugarh,57383,CPI(M),Sasha Kamal Handique,16710,INC,Hari Phukan,16654,56,0.1
+ae-assam-1991,AE,Assam,1991,1991,official,121,Chabua,GEN,Tinsukia,59512,INC,Upendra Sanatan,32179,AGP,Bhaben Barua,17150,15029,25.25
+ae-assam-1991,AE,Assam,1991,1991,official,122,Tinsukia,GEN,Tinsukia,55809,INC,Shio Sambhu Ojha,32415,AGP,Prokash Dutta,11187,21228,38.04
+ae-assam-1991,AE,Assam,1991,1991,official,123,Digboi,GEN,Tinsukia,53017,INC,Rameswar Dhanowar,33799,AGP,Lila Bora,11054,22745,42.9
+ae-assam-1991,AE,Assam,1991,1991,official,124,Margherita,GEN,Tinsukia,61273,INC,Kulbahadur Chetri,28463,AGP,Debojit Baruah,20939,7524,12.28
+ae-assam-1991,AE,Assam,1991,1991,official,125,Doom Dooma,GEN,Tinsukia,53193,INC,Dileswar Tanti,36679,AGP,Monoj Manki,6992,29687,55.81
+ae-assam-1991,AE,Assam,1991,1991,official,126,Sadiya,GEN,Tinsukia,55731,INC,Debendra Nath Baruah,16083,AGP,Buddha Deori,9380,6703,12.03

@@ -1,0 +1,120 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,1,Sirpur,GEN,Adilabad,149692,BSP,Koneru Konappa,48515,BRS,Kaveti Sammaiah,39773,8742,5.84
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,2,Chennur,GEN,Adilabad,122083,BRS,Nallala Odelu,62006,INC,Gaddam Vinod Kumar,36991,25015,20.49
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,3,Bellampalli,GEN,Adilabad,114911,BRS,Durgam Chinnaiah,70969,CPI,Gunda Mallesh,20443,50526,43.97
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,4,Mancherial,GEN,Adilabad,152104,BRS,Diwakar Rao Nadipelli,93726,INC,Gaddam Aravinda Reddy,35379,58347,38.36
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,5,Asifabad,GEN,Adilabad,144287,BRS,Kova Laxmi,58220,INC,Atram Sakku,39448,18772,13.01
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,6,Khanapur,GEN,Adilabad,137428,BRS,Ajmeera Rekha,67794,TDP,Rathod Ritesh,29080,38714,28.17
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,7,Adilabad,GEN,Adilabad,151471,BRS,Jogu Ramanna,61982,BJP,Payal Shankar,46441,15541,10.26
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,8,Boath,GEN,Adilabad,142128,BRS,Rathod Bapu Rao,64512,INC,Anil Jadhav,36811,27701,19.49
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,9,Nirmal,GEN,Adilabad,157978,BSP,Allola Indrakaran Reddy,60032,BRS,Kuchadi Sriharirao,51707,8325,5.27
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,10,Mudhole,GEN,Adilabad,167161,INC,Gaddigari Vittal Reddy,64992,BJP,Padakanti Ramadevi,49764,15228,9.11
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,11,Armur,GEN,Nizamabad,127641,BRS,Asannagari Jeevan Reddy,63489,INC,K. R. Suresh Reddy,50367,13122,10.28
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,12,Bodhan,GEN,Nizamabad,144446,BRS,Shakil Aamir Mohammed,63586,INC,Sudarshan Reddy Podduturi,48606,14980,10.37
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,13,Jukkal,GEN,Nizamabad,137583,BRS,Hanmanth Shinde,71034,INC,S. Gangaram,36445,34589,25.14
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,14,Banswada,GEN,Nizamabad,132705,BRS,Pocharam Srinivas Reddy,63273,INC,Kasula Balaraju,40289,22984,17.32
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,15,Yellareddy,GEN,Nizamabad,152960,BRS,Eanugu Ravinder Reddy,68496,INC,Jajala Surender,45261,23235,15.19
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,16,Kamareddy,GEN,Nizamabad,147897,BRS,Gampa Govardhan,67337,INC,Mohammed Ali Shabbir,59218,8119,5.49
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,17,Nizamabad Urban,GEN,Nizamabad,138316,BRS,Bigala Ganesh,43085,AIMIM,Mir Majaz Ali Shaik,32546,10539,7.62
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,18,Nizamabad Rural,GEN,Nizamabad,156759,BRS,Bajireddy Goverdhan,72925,INC,Dharmapuri Srinivaas,48141,24784,15.81
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,19,Balkonda,GEN,Nizamabad,140728,BRS,Vemula Prashanth Reddy,66818,INC,Anil Kumar Eravathri,31790,35028,24.89
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,20,Koratla,GEN,Karimnagar,148258,BRS,Kalvakuntla Vidya Sagar Rao,57969,IND,Juvvadi Narsinga Rao,37702,20267,13.67
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,21,Jagital,GEN,Karimnagar,145370,INC,Jeevan Reddy Thatiparthi,61288,BRS,M. Sanjay Kumar,53627,7661,5.27
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,22,Dharmapuri,GEN,Karimnagar,149818,BRS,Koppula Eshwar,69185,INC,Adluri Laxman Kumar,50144,19041,12.71
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,23,Ramagundam,GEN,Karimnagar,124257,BRS,Somarapu Satyanarayana,32307,AIFB,Korukanti Chandar,30232,2075,1.67
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,24,Manthani,GEN,Karimnagar,160598,BRS,Putta Madhukar,79303,INC,Sridhar Babu,61027,18276,11.38
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,25,Peddapalle,GEN,Karimnagar,169849,BRS,Dasari Manohar Reddy,97374,INC,T. Bhanu Prasad Rao,33953,63421,37.34
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,26,Karimnagar,GEN,Karimnagar,181805,BRS,Gangula Kamalakar,74395,BJP,Bandi Sanjay Kumar,50542,23853,13.12
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,27,Choppadandi,GEN,Karimnagar,152630,BRS,Bodige Shobha,88724,INC,Suddala Devaiah,32556,56168,36.8
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,28,Vemulawada,GEN,Karimnagar,140689,BRS,Chennamaneni Ramesh,60201,BJP,Aadi Srinivas,54771,5430,3.86
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,29,Sircilla,GEN,Karimnagar,159523,BRS,K. T. Rama Rao,93097,INC,Konduru Ravinder Rao,39546,53551,33.57
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,30,Manakondur,GEN,Karimnagar,155901,BRS,Rasamayi Balakishan,84498,INC,Arepalli Mohan,37853,46645,29.92
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,31,Huzurabad,GEN,Karimnagar,159904,BRS,Etela Rajender,93959,INC,Kethiri Sudarshan Reddy,37737,56222,35.16
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,32,Husnabad,GEN,Karimnagar,168262,BRS,Vodithela Sathish Kumar,92544,INC,Aligireddy Praveen Reddy,59682,32862,19.53
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,33,Siddipet,GEN,Medak,150258,BRS,T. Harish Rao,108126,INC,Taduri Srinivas Goud,15296,92830,61.78
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,34,Medak,GEN,Medak,152972,BRS,Padma Devender Reddy,86644,INC,Vijayashanti,48370,38274,25.02
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,35,Narayankhed,GEN,Medak,158407,INC,Patlolla Kishta Reddy,62555,BRS,Mahareddy Bhupal Reddy,47759,14796,9.34
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,36,Andole,GEN,Medak,180879,BRS,Babu Mohan,87148,INC,Damodar Raja Narasimha,83856,3292,1.82
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,37,Narsapur,GEN,Medak,167407,BRS,Chilumula Madan Reddy,82030,INC,Vakiti Sunitha Laxma Reddy,68453,13577,8.11
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,38,Zahirabad,GEN,Medak,172053,INC,J. Geeta Reddy,59668,BRS,Koninty Manik Rao,58791,877,0.51
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,39,Sangareddy,GEN,Medak,152639,BRS,Chinta Prabhakar,80334,INC,Turupu Jayaprakash Reddy,51714,28620,18.75
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,40,Patancheru,GEN,Medak,195572,BRS,Gudem Mahipal Reddy,72479,TDP,M. Sapanadev,53978,18501,9.46
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,41,Dubbak,GEN,Medak,149304,BRS,Solipeta Ramalinga Reddy,79684,INC,Cheruku Muthyam Reddy,42925,36759,24.62
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,42,Gajwel,GEN,Medak,189423,BRS,K. Chandrashekar Rao,83460,TDP,Vanteru Pratap Reddy,64802,18658,9.85
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,43,Medchal,GEN,Rangareddi,275613,BRS,M. Sudheer Reddy,119644,TDP,Thotakura Jangaiah Yadav,74140,45504,16.51
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,44,Malkajgiri,GEN,Rangareddi,187661,BRS,C. Kanaka Reddy,62716,BJP,Naraparaju Ramchander Rao,60464,2252,1.2
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,45,Quthbullapur,GEN,Rangareddi,262775,TDP,K. P. Vivekanand Goud,103481,BRS,K. Hanmanth Reddy,68164,35317,13.44
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,46,Kukatpally,GEN,Rangareddi,196055,TDP,Madhavaram Krishna Rao,84304,BRS,G. Padma Rao,47857,36447,18.59
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,47,Uppal,GEN,Rangareddi,206278,BJP,N. V. S. S. Prabhakar,75229,BRS,Bethi Subhas Reddy,62296,12933,6.27
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,48,Ibrahimpatnam,GEN,Rangareddi,179650,TDP,Manchireddy Kishan Reddy,47913,IND,Malreddy Ramreddy,36972,10941,6.09
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,49,L. B. Nagar,GEN,Rangareddi,220707,TDP,R. Krishnaiah,74180,BRS,Muddagowni Ram Mohan Goud,63166,11014,4.99
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,50,Maheshwaram,GEN,Rangareddi,213399,TDP,Teegala Krishna Reddy,91463,INC,Malreddy Ranga Reddy,61288,30175,14.14
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,51,Rajendranagar,GEN,Rangareddi,229101,TDP,T. Prakash Goud,77688,INC,B. Gnaneshwar,51846,25842,11.28
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,52,Serilingampally,GEN,Rangareddi,253987,TDP,Arekapudi Gandhi,116504,BRS,Komaragoni Shanker,48054,68450,26.95
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,53,Chevella,GEN,Rangareddi,160403,INC,Kale Yadaiah,63327,BRS,K. S. Ratnam,62557,770,0.48
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,54,Pargi,GEN,Rangareddi,160060,INC,T. Ram Mohan Reddy,72571,BRS,K. Harishwar Reddy,67081,5490,3.43
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,55,Vikarabad,GEN,Rangareddi,138386,BRS,B. Sanjeeva Rao,64820,INC,G. Prasad Kumar,54718,10102,7.3
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,56,Tandur,GEN,Rangareddi,143018,BRS,P. Mahender Reddy,65745,INC,Malkud Narayan Rao,48512,17233,12.05
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,57,Musheerabad,GEN,Hyderabad,131288,BJP,K. Laxman,56742,BRS,Muta Gopal,32914,23828,18.15
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,58,Malakpet,GEN,Hyderabad,113523,AIMIM,Ahmed Bin Abdullah Balala,53628,BJP,B. Venkat Reddy,32479,21149,18.63
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,59,Amberpet,GEN,Hyderabad,121507,BJP,G. Kishan Reddy,67679,BRS,Aedla Sudhakar Reddy,15650,52029,42.82
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,60,Khairatabad,GEN,Hyderabad,128676,BJP,Chintala Ramachandra Reddy,47494,INC,Danam Nagender,28849,18645,14.49
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,61,Jubilee Hills,GEN,Hyderabad,141036,TDP,Maganti Gopinath,43411,AIMIM,V. Naveen Yadav,35527,7884,5.59
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,62,Sanathnagar,GEN,Hyderabad,108589,TDP,Talasani Srinivas Yadav,49158,BRS,Dande Vittal,25258,23900,22.01
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,63,Nampally,GEN,Hyderabad,126080,AIMIM,Jaffer Hussain,59863,TDP,Mohammed Feroz Khan,43308,16555,13.13
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,64,Karwan,GEN,Hyderabad,151281,AIMIM,Kausar Mohiuddin,81616,BJP,Baddam Bal Reddy,45929,35687,23.59
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,65,Goshamahal,GEN,Hyderabad,124520,BJP,T. Raja Singh,72857,INC,Mukesh Goud,36098,36759,29.52
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,66,Charminar,GEN,Hyderabad,92217,AIMIM,Syed Ahmed Pasha Quadri,52665,TDP,M. A. Basith,22030,30635,33.22
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,67,Chandrayangutta,GEN,Hyderabad,127678,AIMIM,Akbaruddin Owaisi,75573,OTH,Khayam Khan,19854,55719,43.64
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,68,Yakutpura,GEN,Hyderabad,129757,AIMIM,Mumtaz Ahmed Khan,59481,BJP,Chermani Roop Raj,28845,30636,23.61
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,69,Bahadurpura,GEN,Hyderabad,118514,AIMIM,Mohammad Moazam Khan,92986,TDP,Mohammed Abdul Rahman,10287,82699,69.78
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,70,Secunderabad,GEN,Hyderabad,119364,BRS,T. Padma Rao Goud,50610,TDP,Kuna Venkatesh Goud,27907,22703,19.02
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,71,Secunderabad Cantt.,GEN,Hyderabad,106514,TDP,G. Sayanna,37812,BRS,Gajjela Nagesh,35043,2769,2.6
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,72,Kodangal,GEN,Mahbubnagar,150960,TDP,Revanth Reddy,58965,BRS,Gurunath Reddy,43024,15941,10.56
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,73,Narayanpet,GEN,Mahbubnagar,147022,TDP,S. Rajender Reddy,43180,BRS,K. Shivakumar Reddy,40740,2440,1.66
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,74,Mahbubnagar,GEN,Mahbubnagar,145579,BRS,V. Srinivas Goud,44649,BJP,Yennam Srinivas Reddy,41563,3086,2.12
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,75,Jadcherla,GEN,Mahbubnagar,146083,BRS,C. Laxma Reddy,70514,INC,Mallu Ravi,55818,14696,10.06
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,76,Devarkadra,GEN,Mahbubnagar,157982,BRS,Alla Venkateshwar Reddy,69876,INC,Pavan Kumar,52055,17821,11.28
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,77,Makthal,GEN,Mahbubnagar,149810,INC,Chittem Rammohan Reddy,54606,BRS,Yelkoti Yella Reddy,44014,10592,7.07
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,78,Wanaparthy,GEN,Mahbubnagar,168465,INC,G. Chinna Reddy,59603,BRS,Singireddy Niranjan Reddy,55307,4296,2.55
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,79,Gadwal,GEN,Mahbubnagar,174682,INC,D. K. Aruna,84791,BRS,Bandla Krishna Mohan Reddy,76389,8402,4.81
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,80,Alampur,GEN,Mahbubnagar,162096,INC,S. A. Sampath Kumar,58776,TDP,V. M. Abraham,51887,6889,4.25
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,81,Nagarkurnool,GEN,Mahbubnagar,153765,BRS,Marri Janardhan Reddy,63566,INC,Kuchakulla Damodar Reddy,48882,14684,9.55
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,82,Achampet,GEN,Mahbubnagar,159925,BRS,Guvvala Balaraju,68256,INC,Chikkudu Vamshi Krishna,55366,12890,8.06
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,83,Kalwakurthy,GEN,Mahbubnagar,162432,INC,Challa Vamshi Chand Reddy,42947,BJP,Achary Talloju,42866,81,0.05
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,84,Shadnagar,GEN,Mahbubnagar,151447,BRS,Anjaiah Yelganamoni,68712,INC,Chowlapally Pratap Reddy,51780,16932,11.18
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,85,Kollapur,GEN,Mahbubnagar,158643,BRS,Jupally Krishna Rao,74340,INC,Beeram Harshavardhan Reddy,63616,10724,6.76
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,86,Devarakonda,GEN,Nalgonda,169177,CPI,Ravindra Kumar Ramavath,60295,TDP,Bheelya Naik Kethavath,55896,4399,2.6
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,87,Nagarjuna Sagar,GEN,Nalgonda,164537,INC,Kunduru Jana Reddy,70290,BRS,Nomula Narsimhaiah Yadav,53672,16618,10.1
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,88,Miryalaguda,GEN,Nalgonda,163422,INC,Nallamothu Bhaskar Rao,61398,BRS,Alugubelli Amarender Reddy,55400,5998,3.67
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,89,Huzurnagar,GEN,Nalgonda,177416,INC,N. Uttam Kumar Reddy,69086,BRS,Kasoju Shankaramma,45436,23650,13.33
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,90,Kodad,GEN,Nalgonda,177236,INC,N. Padmavathi Reddy,80111,TDP,Bollam Mallaiah Yadav,67048,13063,7.37
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,91,Suryapet,GEN,Nalgonda,168065,BRS,Guntakandla Jagadish Reddy,42386,IND,Sankineni Venkateshwer Rao,40218,2168,1.29
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,92,Nalgonda,GEN,Nalgonda,169490,INC,Komatireddy Venkat Reddy,61982,TDP,Kancharla Bhupal Reddy,51220,10762,6.35
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,93,Munugode,GEN,Nalgonda,179910,BRS,Kusukuntla Prabhakar Reddy,68599,IND,Palvai Sravanthi Reddy,28731,39868,22.16
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,94,Bhongir,GEN,Nalgonda,158131,BRS,Pailla Shekar Reddy,54334,OTH,Jitta Bala Krishna Reddy,39011,15323,9.69
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,95,Nakrekal,GEN,Nalgonda,184349,BRS,Vemula Veeresham,64043,INC,Chirumarthi Lingaiah,61609,2434,1.32
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,96,Thungathurthi,GEN,Nalgonda,181274,BRS,Gadari Kishore Kumar,66872,INC,Addanki Dayakar,64407,2465,1.36
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,97,Alair,GEN,Nalgonda,173471,BRS,Gongidi Sunitha,91419,INC,Budida Bikshamaiah Goud,60056,31363,18.08
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,98,Jangaon,GEN,Warangal,164168,BRS,Muthireddy Yadagiri Reddy,80114,INC,Ponnala Lakshmaiah,48955,31159,18.98
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,99,Ghanpur Station,GEN,Warangal,179772,BRS,Thatikonda Rajaiah,103962,INC,Gunde Vijaya Rama Rao,44961,59001,32.82
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,100,Palakurthi,GEN,Warangal,181306,TDP,Errabelli Dayakar Rao,59813,INC,Dugyala Shrinivas Rao,55352,4461,2.46
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,101,Dornakal,GEN,Warangal,158276,INC,D. S. Redya Naik,80895,BRS,Satyavathi Rathod,58278,22617,14.29
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,102,Mahabubabad,GEN,Warangal,167128,BRS,Banoth Shankar Nayak,74840,INC,Kavitha Maloth,65932,8908,5.33
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,103,Narsampet,GEN,Warangal,171649,IND,Donthi Madhava Reddy,72075,BRS,Peddi Sudarshan Reddy,54687,17388,10.13
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,104,Parkal,GEN,Warangal,161318,TDP,Challa Dharma Reddy,66237,BRS,Sahoder Reddy Muddasani,57300,8937,5.54
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,105,Warangal West,GEN,Warangal,128021,BRS,Dasyam Vinay Bhasker,75929,INC,Swarna Errabelli,24721,51208,40.0
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,106,Warangal East,GEN,Warangal,140631,BRS,Konda Surekha,84126,INC,Basavaraju Saraiah,31853,52273,37.17
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,107,Waradhanapet,GEN,Warangal,168354,BRS,Aroori Ramesh,111366,INC,Kondeti Shridhar,29159,82207,48.83
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,108,Bhupalpalle,GEN,Warangal,190756,BRS,S. Madhusudhana Chary,65505,INC,Gandra Venkata Ramana Reddy,58257,7248,3.8
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,109,Mulug,GEN,Warangal,152288,BRS,Azmeera Chandulal,58113,INC,Podem Veeraiah,41773,16340,10.73
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,110,Pinapaka,GEN,Khammam,131379,YSRCP,Payam Venkateswarlu,41424,INC,N. Shankar,27708,13716,10.44
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,111,Yellandu,GEN,Khammam,149551,INC,Koram Kanakaiah,44596,TDP,Haripriya Banoth,33171,11425,7.64
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,112,Khammam,GEN,Khammam,186683,INC,Puvvada Ajay Kumar,70771,TDP,Thummala Nageswara Rao,65059,5712,3.06
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,113,Palair,GEN,Khammam,175487,INC,Ramireddy Venkatareddy,68931,TDP,Maddineni Swarna Kumari,47311,21620,12.32
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,114,Madhira,GEN,Khammam,169526,INC,Mallu Bhatti Vikramarka,62403,CPI(M),Kamal Raju Lingala,50587,11816,6.97
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,115,Wyra,GEN,Khammam,143045,YSRCP,Banoth Madanlal,57719,TDP,Banoth Balaji,47419,10300,7.2
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,116,Sathupalli,GEN,Khammam,180880,TDP,Sandra Venkata Veeraiah,71773,YSRCP,Matta Dayanand Vijay Kumar,69404,2369,1.31
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,117,Kothagudem,GEN,Khammam,158533,BRS,Jalagam Venkat Rao,48622,YSRCP,Vanama Venkateswara Rao,32769,15853,10.0
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,118,Aswaraopeta,GEN,Khammam,114767,YSRCP,Thati Venkateswarlu,39583,TDP,Mecha Nageswara Rao,38837,746,0.65
+ae-telangana-2014,AE,Telangana,2014,2014,official_winners_only,119,Bhadrachalam,GEN,Khammam,99671,CPI(M),Sunnam Rajaiah,34666,TDP,K. P. R. K. Phaneeswaramma,33579,1087,1.09

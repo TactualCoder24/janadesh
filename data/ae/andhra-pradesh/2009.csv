@@ -1,0 +1,295 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,1,Sirpur,GEN,Adilabad,123947,BRS,Kaveti Sammaiah,47978,INC,Koneru Konappa,40564,7414,5.98
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,2,Chennur,SC,Adilabad,112579,BRS,Nallala Odelu,45012,INC,G. Vinod,33463,11549,10.26
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,3,Bellampally,SC,Adilabad,102237,CPI,Gunda Mallesh,41957,INC,Chilumula Shankar,33065,8892,8.7
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,4,Mancherial,GEN,Adilabad,132187,BRS,Aravinda Reddy Gaddam,58340,INC,Diwakar Rao Nadipalli,44513,13827,10.46
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,5,Asifabad,ST,Adilabad,117917,INC,Athram Sakku,42907,BRS,Pendram Gopi,27621,15286,12.96
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,6,Khanapur,ST,Adilabad,116595,TDP,Suman Rathod,56014,INC,Ajmeera Hari Naik,29582,26432,22.67
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,7,Adilabad,GEN,Adilabad,119852,TDP,Jogu Ramanna,62235,INC,Chilkuri Ramchandra,36655,25580,21.34
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,8,Boath,ST,Adilabad,116040,TDP,Godam Nagesh,64895,INC,Anil Kumar Jadhav,33900,30995,26.71
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,9,Nirmal,GEN,Adilabad,131569,PRAP,Alleti Maheshwar Reddy,44261,INC,Allola Indra Karan Reddy,41716,2545,1.93
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,10,Mudhole,GEN,Adilabad,137648,TDP,Venugopala Chary. S,45019,PRAP,Gaddigari Vittal Reddy,44836,183,0.13
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,11,Armur,GEN,Nizamabad,120822,TDP,Annapurna Aleti,49009,INC,K.R.Suresh Reddy,35950,13059,10.81
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,12,Bodhan,GEN,Nizamabad,132023,INC,Sudershan Reddy,42494,BRS,Shakeel.M.D,41219,1275,0.97
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,13,Jukkal,SC,Nizamabad,127735,TDP,Hanmanth Shinde,72971,INC,Savithri S,38847,34124,26.71
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,14,Banswada,GEN,Nizamabad,128254,TDP,Pocharam Srinivas Reddy,69857,INC,Bajireddi Goverdhan,43754,26103,20.35
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,15,Yellareddy,GEN,Nizamabad,147200,BRS,Eanugu Ravinder Reddy,77153,INC,Janardhan Goud,40294,36859,25.04
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,16,Kamareddy,GEN,Nizamabad,144914,TDP,Gampa Govardhan,86986,INC,Ali Mahammad Shabbir,39278,47708,32.92
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,17,Nizamabad (Urban),GEN,Nizamabad,95187,BJP,Endala Lakshmi Narayana,40475,INC,Dharmapuri Srinivas,29460,11015,11.57
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,18,Nizamabad (Rural),GEN,Nizamabad,150784,TDP,Mandava Venkateshwara,71813,INC,Akula Lalitha,43086,28727,19.05
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,19,Balkonda,GEN,Nizamabad,128467,PRAP,Anil Kumar Eravathri,46313,INC,Srinivas Reddy,38154,8159,6.35
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,20,Koratla,GEN,Karimnagar,129291,BRS,Kalvakuntla Vidyasagar,41861,INC,Juvvadi Rathnakar Rao,26316,15545,12.02
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,21,Jagtial,GEN,Karimnagar,133309,TDP,L. Ramana,73264,INC,T. Jeevan Reddy,43415,29849,22.39
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,22,Dharmapuri,SC,Karimnagar,127744,BRS,Eshwar Koppula,45848,INC,Adluri Laxman Kumar,44364,1484,1.16
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,23,Ramagundam,GEN,Karimnagar,119025,IND,Somarapu Satyanarayana,32479,PRAP,Kausika Harinath,30259,2220,1.87
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,24,Manthani,GEN,Karimnagar,150881,INC,Duddilla Sridhar Babu,63770,PRAP,Putta Madhu,50561,13209,8.75
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,25,Peddapalle,GEN,Karimnagar,160103,TDP,Chinthakunta Vijaya,64319,INC,Mukunda Reddy Geetla,40837,23482,14.67
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,26,Karimnagar,GEN,Karimnagar,140123,TDP,Gangula Kamalakar,68738,INC,Chalimeda Lakshmi,38604,30134,21.51
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,27,Choppadandi,SC,Karimnagar,138764,TDP,Suddala Devaiah,68841,INC,Gunukonda Babu,35853,32988,23.77
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,28,Vemulawada,GEN,Karimnagar,122095,TDP,Ramesh Chennamaneni,36601,INC,Aadi Srinivas,34780,1821,1.49
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,29,Sircilla,GEN,Karimnagar,136637,BRS,Kalvakuntla Taraka Rama,36783,IND,K.K. Mahender Reddy,36612,171,0.13
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,30,Manakondur,SC,Karimnagar,141094,INC,Arepalli Mohan,45304,BRS,Voraganti Anand,43132,2172,1.54
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,31,Huzurabad,GEN,Karimnagar,146178,BRS,Eatala Rajender,56752,INC,V. Krishna Mohan Rao,41717,15035,10.29
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,32,Husnabad,GEN,Karimnagar,164666,INC,Aligireddy Praveen Reddy,49370,BRS,Capt. V. Laxmikantha Rao,36195,13175,8.0
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,33,Siddipet,GEN,Medak,132031,BRS,Thaneeru Harish Rao,85843,INC,Anjaiah Byri,21166,64677,48.99
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,34,Medak,GEN,Medak,150882,TDP,Mynampalli Hanumanth,57942,INC,P. Shashidhar Reddy,36791,21151,14.02
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,35,Narayankhed,GEN,Medak,145634,INC,Patlolla Kista Reddy,68472,PRAP,M. Vijayapal Reddy,40799,27673,19.0
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,36,Andole,SC,Medak,170218,INC,C. Damodar Raja Narsimha,78671,TDP,P. Babu Mohan,75765,2906,1.71
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,37,Narsapur,GEN,Medak,158268,INC,Vakiti Sunitha Laxmareddy,73924,CPI,Chilmula Krishna Reddy,60650,13274,8.39
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,38,Zahirabad,SC,Medak,153492,INC,Dr. J. Geeta,62758,TDP,Y. Narotham,60572,2186,1.42
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,39,Sangareddy,GEN,Medak,138194,INC,Jaya Prakash Reddy .T,41101,TDP,Chinta Prabhaker,34329,6772,4.9
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,40,Patancheru,GEN,Medak,161962,INC,T. Nandeshwar Goud,42516,TDP,M. Sapanadev,41269,1247,0.77
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,41,Dubbak,GEN,Medak,142535,INC,Cheruku Muthyam Reddy,52989,BRS,Solipeta Rama Linga Reddy,50349,2640,1.85
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,42,Gajwel,GEN,Medak,177095,INC,Tumkunta Narsa Reddy,74443,TDP,Lasmannagari Prathap,67268,7175,4.05
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,43,Medchal,GEN,Rangareddi,191189,INC,Kichannagari Laxma Reddy,69312,TDP,Nakka Prabhakar Goud,63742,5570,2.91
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,44,Malkajgiri,GEN,Rangareddi,191912,INC,A.Rajender,56629,PRAP,C.Kanaka Reddy,47434,9195,4.79
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,45,Quthbullapur,GEN,Rangareddi,157578,IND,Kuna Srisailam Goud,53753,BRS,Koona Pandu Vivekanand,30534,23219,14.73
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,46,Kukatpally,GEN,Rangareddi,205976,LSP,Dr.Jaya Prakash Narayan,71753,INC,Vaddepalli Narsing Rao,56110,15643,7.59
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,47,Uppal,GEN,Rangareddi,153500,INC,Bandari Raji Reddy,57874,BRS,M.Yadagiri Reddy,29691,28183,18.36
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,48,Ibrahimpatnam,GEN,Rangareddi,154627,TDP,Manchireddy Kishan,56508,INC,Malreddy Ranga Reddy,47292,9216,5.96
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,49,Lal Bahadur Nagar,GEN,Rangareddi,195541,INC,Sudheer Reddy Devireddy,67510,TDP,S. V. Krishna Prasad,54368,13142,6.72
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,50,Maheshwaram,GEN,Rangareddi,174911,INC,Patlolla Sabitha,65077,TDP,T.Krisna Reddy,57244,7833,4.48
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,51,Rajendranagar,GEN,Rangareddi,159601,TDP,T.Prakash Goud,49522,INC,Jnaneshwar,42037,7485,4.69
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,52,Serilingampally,GEN,Rangareddi,203009,INC,Bikshapathi Yadav.M,61135,TDP,Movva Satyanarayana,59808,1327,0.65
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,53,Chevella,SC,Rangareddi,148243,TDP,K.S.Ratnam,62332,INC,Kale Yadaiah,60083,2249,1.52
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,54,Pargi,GEN,Rangareddi,141083,TDP,Koppula Harsihwar Reddy,53099,IND,T.Ram Mohan Reddy,38655,14444,10.24
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,55,Vicarabad,SC,Rangareddi,128027,INC,G.Prasad Kumar,58810,BRS,A.Chandra Shekar,53951,4859,3.8
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,56,Tandur,GEN,Rangareddi,130521,TDP,P.Mahender Reddy,63737,INC,Malkud Ramesh,50534,13203,10.12
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,57,Musheerabad,GEN,Hyderabad,132769,INC,T. Manemma,45966,BJP,Dr. K. Laxman,31123,14843,11.18
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,58,Malakpet,GEN,Hyderabad,101297,AIMIM,Ahmed Bin Abdullah Balala,30839,TDP,Md. Muzaffar Ali Khan,22468,8371,8.26
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,59,Amberpet,GEN,Hyderabad,119800,BJP,G. Kishan Reddy,59134,INC,Mohd. Fareeduddin,31891,27243,22.74
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,60,Khairatabad,GEN,Hyderabad,129704,INC,Danam Nagender,50655,TDP,K. Vijaya Rama Rao,36797,13858,10.68
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,61,Jubilee Hills,GEN,Hyderabad,136858,INC,P. Vishnuvardhan Reddy,54519,TDP,Mohammed Saleem,32778,21741,15.89
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,62,Sanathnagar,GEN,Hyderabad,111118,INC,Marri Shashidhar Reddy,37994,BRS,T.Padma Rao,29669,8325,7.49
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,63,Nampalli,GEN,Hyderabad,110827,AIMIM,Mohd. Virasat Rasool,34439,PRAP,Mohd. Feroz Khan,27640,6799,6.13
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,64,Karwan,GEN,Hyderabad,112189,AIMIM,Mohd. Muqtada Khan,44950,BJP,Devara Karunakar,25667,19283,17.19
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,65,Goshamahal,GEN,Hyderabad,122759,INC,M Mukesh Goud,55829,BJP,Prem Singh Rathore,35341,20488,16.69
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,66,Charminar,GEN,Hyderabad,89955,AIMIM,Syed Ahmed Pasha Quadri,43725,TDP,Ali Bin Ibrahim Masqati,33030,10695,11.89
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,67,Chandrayangutta,GEN,Hyderabad,97642,AIMIM,Akbaruddin Owaisi,45492,MBT,Dr.Khayam Khan,30315,15177,15.54
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,68,Yakutpura,GEN,Hyderabad,114634,AIMIM,Mumtaz Ahmed Khan,61698,MBT,Hamza Bin Omer Al Jabri,18406,43292,37.77
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,69,Bahdurpura,GEN,Hyderabad,92454,AIMIM,Mohd. Moazam Khan,65453,CPI,Mir Ahmed Ali,8718,56735,61.37
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,70,Secunderabad,GEN,Hyderabad,124070,INC,Jayasudha Kapoor,45063,TDP,Talasani Srinivas Yadav,40668,4395,3.54
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,71,Secunderabad Cantonment,SC,Hyderabad,110257,INC,Dr.P.Sankar Rao,36853,TDP,G. Sayanna,32670,4183,3.79
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,72,Kodangal,GEN,Mahbubnagar,132789,TDP,Anumula Revanth Reddy,61685,INC,Gurunath Reddy,54696,6989,5.26
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,73,Narayanpet,GEN,Mahbubnagar,122001,TDP,Yelkoti Yella Reddy,45945,INC,Sugappa,33802,12143,9.95
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,74,Mahbubnagar,GEN,Mahbubnagar,116536,IND,N.Rajeshwar Reddy,38247,BRS,Syed Ibrahim,33110,5137,4.41
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,75,Jadcherla,GEN,Mahbubnagar,140215,TDP,M.Chandra Shekar,66857,INC,Dr.Mallu Ravi,53320,13537,9.65
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,76,Devarkadra,GEN,Mahbubnagar,141582,TDP,Seetha Dayakar Reddy,58576,INC,S.Swarna Sudhakar,39540,19036,13.45
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,77,Makthal,GEN,Mahbubnagar,131310,TDP,K.Dayakar Reddy,53261,INC,Chittem Ram Mohan Reddy,47560,5701,4.34
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,78,Wanaparthy,GEN,Mahbubnagar,156080,TDP,Ravula Chandra Shekar,71190,INC,Dr.G.Chinna Reddy,60622,10568,6.77
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,79,Gadwal,GEN,Mahbubnagar,141325,INC,Aruna D.K,63433,TDP,Krishna Mohan Reddy,53006,10427,7.38
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,80,Alampur,SC,Mahbubnagar,129361,INC,Abraham.V.M,49722,TDP,Prasanna Kumar. R,48539,1183,0.91
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,81,Nagarkurnool,GEN,Mahbubnagar,147455,TDP,Dr. Nagam Janardhan,68026,INC,Kuchakulla Damoder,61433,6593,4.47
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,82,Achampet,SC,Mahbubnagar,144980,TDP,P.Ramulu,67361,INC,Dr.C.Vamshi Krishna,62530,4831,3.33
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,83,Kalwakurthy,GEN,Mahbubnagar,156071,TDP,G.Jaipal Yadav,56990,INC,Yadma Kista Reddy,56393,597,0.38
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,84,Shadnagar,GEN,Mahbubnagar,142636,INC,Chowlapally Pratap,62222,BRS,Anjaiah Yelganamoni,52384,9838,6.9
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,85,Kollapur,GEN,Mahbubnagar,151011,INC,Jupally Krishna Rao,58046,TDP,Chintalapally,56538,1508,1.0
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,86,Devarakonda,ST,Nalgonda,147251,INC,Balu Naik Nenavath,64887,CPI,Ravindra Kumar Ramavath,57419,7468,5.07
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,87,Nagarjuna Sagar,GEN,Nalgonda,154414,INC,Kunduru Jana Reddy,67958,TDP,Tera Chinnapa Reddy,61744,6214,4.02
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,88,Miryalguda,GEN,Nalgonda,147068,CPI(M),Julakanti Ranga Reddy,52227,INC,Gangadhar Tirunagaru,47864,4363,2.97
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,89,Huzurnagar,GEN,Nalgonda,167440,INC,Nalamada Uttam Kumar,80835,BRS,Jagadeesh Reddy,51641,29194,17.44
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,90,Kodad,GEN,Nalgonda,164047,TDP,Chander Rao Venepalli,64742,INC,Md.Mahaboob Jani,54918,9824,5.99
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,91,Suryapet,GEN,Nalgonda,151005,INC,R.Damodar Reddy,57014,BRS,Poreddy Chandra Sekhar,50817,6197,4.1
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,92,Nalgonda,GEN,Nalgonda,147859,INC,Komatireddy Venkat,60665,CPI(M),Nandyala Narsimha Reddy,52288,8377,5.67
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,93,Munugode,GEN,Nalgonda,164231,CPI,Vujjini Yadagiri Rao,57383,INC,Govardhan Reddy Palvai,53789,3594,2.19
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,94,Bhongir,GEN,Nalgonda,148370,TDP,Alimineti Uma Madhava,53073,IND,Jitta Bala Krishna Reddy,43720,9353,6.3
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,95,Nakrekal,SC,Nalgonda,168436,INC,Chirumarthy Lingaiah,72023,CPI(M),Mamidi Sarvaiah,59847,12176,7.23
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,96,Thungathurthy,SC,Nalgonda,172952,TDP,Mothukupally Narsimhulu,80888,INC,Gudipati Narsaiah,69025,11863,6.86
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,97,Alair,GEN,Nalgonda,168882,INC,Budida Bikshmaiah,66905,BRS,Kallem Yadagiri Reddy,54003,12902,7.64
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,98,Jangaon,GEN,Warangal,151269,INC,Ponnala Lakshmaiah,61218,BRS,Kommuri Pratap Reddy,60982,236,0.16
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,99,Ghanpur (Station),SC,Warangal,171646,INC,Rajaiah Thatikonda,68162,TDP,Kadiyam Sreehari,56952,11210,6.53
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,100,Palakurthi,GEN,Warangal,156818,TDP,Errabelli Dayakar Rao,65280,INC,Dugyala Srinivas Rao,62617,2663,1.7
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,101,Dornakal,ST,Warangal,150499,TDP,Satyavathi Rathod,69282,INC,Dharamsoth Redya Naik,64659,4623,3.07
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,102,Mahabubabad,ST,Warangal,152914,INC,Kavitha Maloth,66209,BRS,Azmeera Chandulal,50842,15367,10.05
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,103,Narsampet,GEN,Warangal,162844,TDP,Prakash Reddy Revuri,75400,INC,Donthi Madhava Reddy,66777,8623,5.3
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,104,Parkal,GEN,Warangal,147753,INC,Konda Surekha,69135,BRS,Bikshapathy Moluguri,56335,12800,8.66
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,105,Warangal West,GEN,Warangal,115558,BRS,Dasyam Vinaya Bhasker,45807,INC,Kondapalli Dayasagar Rao,39123,6684,5.78
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,106,Warangal East,GEN,Warangal,128462,INC,Baswaraju Saraiah,41952,PRAP,Errabelli Pradeep Kumar,34697,7255,5.65
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,107,Wardhannapet,SC,Warangal,149048,INC,Kondeti Sridhar,57871,BRS,Dr. Gunde Vijaya Rama Rao,51287,6584,4.42
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,108,Bhupalpalle,GEN,Warangal,160680,INC,Gandra Venkata Ramana,69570,BRS,Madhu Sudhana Chary,57598,11972,7.45
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,109,Mulug,ST,Warangal,134674,TDP,Anasuya Dansari,64285,INC,Podem Veeraiah,45510,18775,13.94
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,110,Pinapaka,ST,Khammam,115386,INC,Rega Kantha Rao,40028,CPI,Payam Venkateswarlu,39679,349,0.3
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,111,Yellanda,ST,Khammam,136415,TDP,Abbaiah Vooke,41605,INC,Kanakaiah Koram,38659,2946,2.16
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,112,Khammam,GEN,Khammam,153403,TDP,Thummala Nageswara Rao,55555,IND,Jalagam Venkat Rao,53083,2472,1.61
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,113,Palair,GEN,Khammam,155059,INC,Venkata Reddy Ramreddy,64555,CPI(M),Thammineni Veerabhadram,58889,5666,3.65
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,114,Madhira,SC,Khammam,159985,INC,Bhatti Vikramarka Mallu,59394,CPI(M),Kamala Raju Lingala,57977,1417,0.89
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,115,Wyra,ST,Khammam,127094,CPI,Chandravathi Banoth,53090,INC,Dr. Bhukya Ramachandra,39464,13626,10.72
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,116,Sathupalli,SC,Khammam,169220,TDP,Sandra Venkata Veeraiah,79491,INC,Chandrasekhar Sambhani,65483,14008,8.28
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,117,Kothagudem,GEN,Khammam,142986,CPI,Kunamneni Sambasiva Rao,47028,INC,Vanama Venkateswara Rao,45024,2004,1.4
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,118,Aswaraopeta,ST,Khammam,125313,INC,Mithrasena Vaggela,46183,CPI(M),Payam Venkaiah,41076,5107,4.08
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,119,Bhadrachalam,ST,Khammam,143908,INC,Kunja Satyavathi,51466,CPI(M),Sunnam Rajaiah,45083,6383,4.44
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,120,Ichchapuram,GEN,Srikakulam,136222,TDP,Piriya Sairaj,45277,INC,Narthu Ramarao,43002,2275,1.67
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,121,Palasa,GEN,Srikakulam,118288,INC,Juttu Jagannaikulu,47931,TDP,Gowthu Syam Sundara,41117,6814,5.76
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,122,Tekkali,GEN,Srikakulam,136450,INC,Revatipathi Korla,47513,TDP,Atchannaidu Kinjarapu,45620,1893,1.39
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,123,Pathapatnam,GEN,Srikakulam,126041,INC,Vijayaramaraju,58936,TDP,Kalamata Venkata Ramana,38146,20790,16.49
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,124,Srikakulam,GEN,Srikakulam,145380,INC,Dharmana Prasada Rao,56457,TDP,Appala Suryanarayana,51987,4470,3.07
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,125,Amadalavalasa,GEN,Srikakulam,119531,INC,Boddepalli Satyavathi,48128,PRAP,Thammineni Seetharam,31919,16209,13.56
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,126,Etcherla,GEN,Srikakulam,151801,INC,Meesala Neelakantam,59365,TDP,Nayana Suryanarayana,44350,15015,9.89
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,127,Narasannapeta,GEN,Srikakulam,136713,INC,Dharmana Krishna Das,60426,TDP,Baggu Lakshmana Rao,42837,17589,12.87
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,128,Rajam,SC,Srikakulam,134396,INC,Kondru Murali Mohan,61771,TDP,Kavali Prathibha Bharathi,34638,27133,20.19
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,129,Palakonda,ST,Srikakulam,108212,INC,Nimmaka Sugreevulu,45909,TDP,Gopalarao Nimmaka,29759,16150,14.92
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,130,Kurupam,ST,Vizianagaram,117042,INC,Janardhana That Raj,48493,PRAP,Nimmaka Jayaraju,33440,15053,12.86
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,131,Parvathipuram,SC,Vizianagaram,119956,INC,Jayamani Savarapu,49614,TDP,Bobbili Chiranjeevulu,46896,2718,2.27
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,132,Salur,ST,Vizianagaram,120950,INC,Rajanna Dora Peedika,49517,TDP,Gummidi Sandhya Rani,47861,1656,1.37
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,133,Bobbili,GEN,Vizianagaram,154065,INC,Venkata Sujay Krishna,75697,TDP,Thentu Lakshmunaidu,51525,24172,15.69
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,134,Cheepurupalli,GEN,Vizianagaram,142281,INC,Botcha Satyanarayana,60677,TDP,Gadde Baburao,54735,5942,4.18
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,135,Gajapathinagaram,GEN,Vizianagaram,150465,INC,Appalanarasayya Botcha,66670,TDP,Aruna Padala,38996,27674,18.39
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,136,Nellimarla,GEN,Vizianagaram,147725,INC,Appalanaidu Baddukonda,48155,TDP,Narayanaswamy Naidu,47558,597,0.4
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,137,Vizianagaram,GEN,Vizianagaram,138543,TDP,Ashok Gajapathi Raju,52890,INC,Kolagatla Veerabhadra,49608,3282,2.37
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,138,Srungavarapukota,GEN,Vizianagaram,157337,TDP,Kolla Lalitha Kumari,40142,INC,Allu Kesava Venkata,36702,3440,2.19
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,139,Bhimli,GEN,Visakhapatnam,176353,PRAP,Muttamsetti Srinivasa Rao,52130,TDP,Anjaneya Raju N.R,45820,6310,3.58
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,140,Visakhapatnam East,GEN,Visakhapatnam,138104,TDP,Ramakrishna Babu,44233,PRAP,Chennuboina Srinivasa,40202,4031,2.92
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,141,Visakhapatnam South,GEN,Visakhapatnam,128907,INC,Dronamraju Srinivasa Rao,45971,PRAP,Kola Guruvulu,45630,341,0.26
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,142,Visakhapatnam North,GEN,Visakhapatnam,142643,INC,Vijaya Kumar Thynala,49344,PRAP,Dr Shirin Rahman Shaik,43821,5523,3.87
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,143,Visakhapatnam West,GEN,Visakhapatnam,115997,INC,Vijaya Prasad Malla,45018,PRAP,Gana Venkata Reddi Naidu,40874,4144,3.57
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,144,Gajuwaka,GEN,Visakhapatnam,153596,PRAP,Chinthalapudi,50994,IND,Nagi Reddy Tippala,33087,17907,11.66
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,145,Chodavaram,GEN,Visakhapatnam,153994,TDP,Kalidindi Suryana Naga,55641,INC,Karanam Dharmasree,54256,1385,0.9
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,146,Madugula,GEN,Visakhapatnam,139224,TDP,Gavireddi Rama Naidu,52762,INC,Avugadda Rama Murthy,45935,6827,4.9
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,147,Araku Valley,ST,Visakhapatnam,120384,TDP,Siveri Soma,34959,INC,Vanjangi Kanthamma,34557,402,0.33
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,148,Paderu,ST,Visakhapatnam,110040,INC,Pasupuleti Balaraju,35653,CPI,Goddeti Demudu,35066,587,0.53
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,149,Anakapalle,GEN,Visakhapatnam,143588,PRAP,Ganta Srinivasa Rao,58568,INC,Konathala Ramakrishna,47702,10866,7.57
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,150,Pendurthi,GEN,Visakhapatnam,156695,PRAP,Panchakarla Ramesh Babu,51700,INC,Gandi Babji,48428,3272,2.09
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,151,Yellamanchili,GEN,Visakhapatnam,145773,INC,Uppalapati Venkata,53960,PRAP,Gonthina Venkata,43870,10090,6.92
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,152,Payakaraopet,SC,Visakhapatnam,157890,INC,Golla Baburao,50698,TDP,Chengala Venkata Rao,50042,656,0.42
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,153,Narsipatnam,GEN,Visakhapatnam,151401,INC,Bolem Muthyala Papa,65465,TDP,Ayyannapatrudu,57178,8287,5.47
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,154,Tuni,GEN,East Godavari,141416,INC,Venkata Krishnam Raju,55386,TDP,Yanamala Ramakrishnudu,46876,8510,6.02
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,155,Prathipadu,GEN,East Godavari,132851,TDP,Parvatha,46925,INC,Varupula Subbarao,43639,3286,2.47
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,156,Pithapuram,GEN,East Godavari,149479,PRAP,Vanga Geetha Viswanadh,46623,TDP,Varma S.V.S.N,45587,1036,0.69
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,157,Kakinada Rural,GEN,East Godavari,139855,PRAP,Kurasala Kannababu,53494,INC,Venkateswara Rao,45457,8037,5.75
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,158,Peddapuram,GEN,East Godavari,135244,PRAP,Pantham Gandhi Mohan,46211,TDP,Boddu Bhaskara Ramarao,43155,3056,2.26
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,159,Anaparthi,GEN,East Godavari,156386,INC,Nallamilli Seshareddy,70623,PRAP,Gollala Mamidada,34749,35874,22.94
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,160,Kakinada City,GEN,East Godavari,119664,INC,Dwarampudi,44606,PRAP,Bandana Hari,35327,9279,7.75
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,161,Ramachandrapuram,GEN,East Godavari,141850,INC,Bose Pilli,56589,PRAP,Thota Trimurthulu,52558,4031,2.84
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,162,Mummidivaram,GEN,East Godavari,153269,INC,Ponnada Venkata Satish,51087,TDP,Srinuvasa Raju Nadimpalli,49162,1925,1.26
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,163,Amalapuram,SC,East Godavari,138056,INC,Pinipe Viswsarupu,57922,PRAP,Chinta Krishna Murthy,51649,6273,4.54
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,164,Razole,SC,East Godavari,131598,INC,Rapaka Vara Prasada Rao,52319,PRAP,Nalli Venkata Krishna,46450,5869,4.46
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,165,Gannavaram,SC,East Godavari,134551,INC,Pamula Rajeswari Devi,44756,TDP,Pulaparti,41651,3105,2.31
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,166,Kothapeta,GEN,East Godavari,168196,PRAP,Bandaru Satyananda Rao,62453,INC,Chirla Jaggi Reddy,59983,2470,1.47
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,167,Mandapeta,GEN,East Godavari,156303,TDP,Jogeswara Rao V,68104,PRAP,Chowdary Vvss,50664,17440,11.16
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,168,Rajanagaram,GEN,East Godavari,142552,TDP,Pendurthi Venkatesh,51520,INC,Chitturi Ravindra,44584,6936,4.87
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,169,Rajahmundry City,GEN,East Godavari,132926,INC,Routhu Surya Prakasarao,41369,TDP,Gorantla Buchaiah,40085,1284,0.97
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,170,Rajamundry Rural,GEN,East Godavari,137742,TDP,Chandana Ramesh,44617,PRAP,Ravanam Swami Naidu,43070,1547,1.12
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,171,Jaggampeta,GEN,East Godavari,146893,INC,Thota Narasimham,51184,PRAP,Jyothula Nehru,50395,789,0.54
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,172,Ramchandrapuram,ST,East Godavari,95593,INC,Kosuri Kasi Viswanadha,32654,TDP,Chinnam Babu Ramesh,21851,10803,11.3
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,173,Kovur,SC,West Godavari,133179,TDP,T V Rama Rao,55669,INC,Koyye Mosenu Raju,40191,15478,11.62
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,174,Nidadavole,GEN,West Godavari,151382,TDP,Burugupalli Sesha Rao,51680,INC,G.Srinivas Naidu,45914,5766,3.81
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,175,Achanta,GEN,West Godavari,118745,INC,Satyanarayana Pithani,54903,TDP,Karri Radha Krishna,39148,15755,13.27
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,176,Palakol,GEN,West Godavari,130532,INC,Usha Rani Bangaru,49720,PRAP,Konidala Chiranjeevi,44274,5446,4.17
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,177,Narasapuram,GEN,West Godavari,115893,INC,Mudunuri Prasada Raju,58560,PRAP,Kothapalli Subbarayudu,41235,17325,14.95
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,178,Bhimavaram,GEN,West Godavari,158071,INC,Ramanjaneyulu,63862,PRAP,Vegesna Suryanarayana,41763,22099,13.98
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,179,Undi,GEN,West Godavari,161888,TDP,V V Siva Rama Raju,68102,INC,Pathapati Sarraju,52354,15748,9.73
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,180,Tanuku,GEN,West Godavari,162732,INC,Karumuri Venkata,53211,TDP,Y T Raja,51760,1451,0.89
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,181,Tadepalligudem,GEN,West Godavari,143596,PRAP,Eli Venkata,48747,INC,Kottu Satyanarayana,45727,3020,2.1
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,182,Unguturu,GEN,West Godavari,150782,INC,Vatti Vasant Kumar,52973,TDP,Ganni Laxmi Kantam,46514,6459,4.28
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,183,Denduluru,GEN,West Godavari,153922,TDP,Prabhakar Chintamaneni,69673,INC,Kotharu Ramachandra,55442,14231,9.25
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,184,Eluru,GEN,West Godavari,125527,INC,Alla Kali Krishna Srinivas (,49962,PRAP,Badeti Kota Rama Rao,36280,13682,10.9
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,185,Gopalapuram,SC,West Godavari,163337,TDP,Taneti Vanita,70659,INC,Usha Tigiripalli,56006,14653,8.97
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,186,Polavaram,ST,West Godavari,144662,INC,Tellam Bala Raju,50298,TDP,Punem Singanna Dora,44634,5664,3.92
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,187,Chintalapudi,SC,West Godavari,177513,INC,Maddala Rajesh Kumar,68078,TDP,Karra Raja Rao,66661,1417,0.8
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,188,Tiruvuru,SC,Krishna,147295,INC,Dirisam Padma Jyothi,63624,TDP,Swamy Das Nallagatla,63359,265,0.18
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,189,Nuzvid,GEN,Krishna,169896,TDP,Chinnam Rama Kotaiah,70206,INC,Venkata Pratap Appa Rao,65063,5143,3.03
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,190,Gannavaram,GEN,Krishna,174847,TDP,Venkata Bala Vardhana,82218,INC,Muddaraboina,66923,15295,8.75
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,191,Gudivada,GEN,Krishna,147866,TDP,Kodali Sri Venkateswara,68034,INC,Pinnamaneni,50404,17630,11.92
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,192,Kaikalur,GEN,Krishna,157295,TDP,Jayamangala Venkata,50346,PRAP,Kamineni Srinivas,49372,974,0.62
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,193,Pedana,GEN,Krishna,126484,INC,Jogi Ramesh,44480,TDP,Kagita Venkata Rao,43288,1192,0.94
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,194,Machilipatnam,GEN,Krishna,128282,INC,Perni Venkataramaiah,48580,TDP,Kollu Ravindra,37181,11399,8.89
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,195,Avanigadda,GEN,Krishna,160533,TDP,Ambati Brahmanaiah,55316,INC,Buddha Prasad Mandali,54899,417,0.26
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,196,Pamarru,SC,Krishna,143809,INC,D.Y.Das,60048,TDP,Uppuleti Kalpana,53108,6940,4.83
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,197,Penamaluru,GEN,Krishna,163797,INC,Parthasarothy Kolusu,61346,TDP,Chalasani Venkateswara,61169,177,0.11
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,198,Vijayawada West,GEN,Krishna,150643,PRAP,Velampalli Srinivasa Rao,51467,INC,Mallika Begum,43125,8342,5.54
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,199,Vijayawada Central,GEN,Krishna,158192,INC,Malladi Vishnu,52426,PRAP,Vangaveeti,51578,848,0.54
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,200,Vijayawada East,GEN,Krishna,172187,PRAP,Ravi Yalamanchili,53319,INC,Devineni,53129,190,0.11
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,201,Mylavaram,GEN,Krishna,171872,TDP,Uma Maheswara Rao,78554,INC,Appasani Sandeep,65887,12667,7.37
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,202,Nandigama,SC,Krishna,139629,TDP,Prabhakara Rao Tangirala,60489,INC,Parameswara Rao Velpula,55318,5171,3.7
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,203,Jaggayyapet,GEN,Krishna,148234,TDP,Rajagopal Sreeram,75107,INC,Udaya Bhanu Saminei,65429,9678,6.53
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,204,Pedakurapadu,GEN,Guntur,151249,TDP,Kommalapati Sreedhar,69013,INC,Noorjahan,59135,9878,6.53
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,205,Tadikonda,SC,Guntur,139329,INC,Dokka Manikya Vara,61406,TDP,Sravan Kumar Tenali,57786,3620,2.6
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,206,Mangalagiri,GEN,Guntur,161605,INC,Kamala Kandru,52585,PRAP,Tammisetty Janaki Devi,39823,12762,7.9
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,207,Ponnur,GEN,Guntur,158425,TDP,Dhulipalla Narendra,61008,INC,Marupudi Leeladhara Rao,58840,2168,1.37
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,208,Vemuru,SC,Guntur,145704,TDP,Ananda Babu Nakka,55168,INC,Merugu Nagarjuna,52938,2230,1.53
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,209,Repalle,GEN,Guntur,157379,INC,Mopidevi Venkata Ramana,64679,TDP,Anagani Satya Prasad,58734,5945,3.78
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,210,Tenali,GEN,Guntur,168384,INC,Nadendla Manohar,61582,TDP,Rajendra Prasad Alapati,58698,2884,1.71
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,211,Bapatla,GEN,Guntur,122771,INC,Gade Venkata Reddy,37456,TDP,Chirala Govardhana,36093,1363,1.11
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,212,Prathipadu,SC,Guntur,168669,INC,Sucharitha Mekathoti,66324,TDP,Kandukuri Veeraiah,64282,2042,1.21
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,213,Guntur West,GEN,Guntur,129170,INC,Kanna Lakshminarayana,44676,TDP,Chukkapalli Ramesh,41375,3301,2.56
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,214,Guntur East,GEN,Guntur,118574,INC,Shaik Mastan Vali,45586,PRAP,Shaik Showkat,36574,9012,7.6
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,215,Chilakaluripet,GEN,Guntur,154864,TDP,Prathipati Pulla Rao,77399,INC,Marri Rajasekhar,57586,19813,12.79
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,216,Narasaraopet,GEN,Guntur,135275,INC,Kasu Venkata Krishna,58988,TDP,Kodela Siva Prasad Rao,53017,5971,4.41
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,217,Sattenapalli,GEN,Guntur,148923,INC,Yarram Venkateswara,61949,TDP,Nimmakayala Raja,54802,7147,4.8
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,218,Vinukonda,GEN,Guntur,173342,TDP,Gonuguntla Venkata,89961,INC,Narendra Nath Chebrolu,65858,24103,13.9
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,219,Gurzala,GEN,Guntur,165790,TDP,Yarapathineni Srinivasa,72250,INC,Ala Venkateswarlu,62229,10021,6.04
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,220,Macherla,GEN,Guntur,152051,INC,Rama Krishna Reddy,66953,TDP,Julakanti Brahmananda,57168,9785,6.44
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,221,Yerragondapalem,SC,Prakasam,133874,INC,Audimulapu Suresh,67040,TDP,David Raju Palaparthi,53846,13194,9.86
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,222,Darsi,GEN,Prakasam,154589,INC,Buchepalli Siva Prasada,66418,TDP,Mannam Venkata Ramana,53028,13390,8.66
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,223,Parchur,GEN,Prakasam,169822,INC,Daggubati Venkateswara,73691,TDP,Gottipati Narasimha Rao,70731,2960,1.74
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,224,Addanki,GEN,Prakasam,173491,INC,Gottipati Ravikumar,86035,TDP,Karanam Bala Rama,70271,15764,9.09
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,225,Chirala,GEN,Prakasam,129737,INC,Amanchi Krishna Mohan,56600,TDP,Janjanam Srinivasarao,45314,11286,8.7
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,226,Santhanuthalapadu,SC,Prakasam,145171,INC,B.N. Vijay Kumar,63769,CPI(M),Anjaiah Jala,54238,9531,6.57
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,227,Ongole,GEN,Prakasam,156523,INC,Balineni Srinivasa Reddy,67214,TDP,Edara Hari Babu,44228,22986,14.69
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,228,Kandukur,GEN,Prakasam,154613,INC,Maheedhar Reddy,74553,TDP,Divi Siva Ram,70310,4243,2.74
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,229,Kondapi,SC,Prakasam,154814,INC,Gurrala Venkata Seshu,72075,TDP,Sri Bala Veeranjaneya,66911,5164,3.34
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,230,Markapur,GEN,Prakasam,142545,TDP,Kandula Narayana Reddy,69744,INC,Kunduru Pedda,60690,9054,6.35
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,231,Giddalur,GEN,Prakasam,148030,PRAP,Anna Rambabu,55573,INC,Byraboina Chandrasekhar,48027,7546,5.1
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,232,Kanigiri,GEN,Prakasam,131326,INC,Ugra Narasimha Reddy,60161,IND,Sunkara Madhu Sudhana,57226,2935,2.23
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,233,Kavali,GEN,Nellore,154690,TDP,Beeda Masthan Rao,69219,INC,Katam Reddy,50192,19027,12.3
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,234,Atmakur,GEN,Nellore,148137,INC,Anam Rama Narayana,76907,TDP,Kommi Lakshmaiah Naidu,58263,18644,12.59
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,235,Kovur,GEN,Nellore,169009,TDP,Nallapareddy Prasanna,73212,INC,Polamreddy Sreenivasulu,65768,7444,4.4
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,236,Nellore City,GEN,Nellore,106389,PRAP,Mungamuru Sridhara,36103,INC,Anil Kumar Poluboina,36013,90,0.08
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,237,Nellore Rural,GEN,Nellore,124110,INC,Anam Vivekananda Reddy,46941,PRAP,Anam Venkata Ramana,43810,3131,2.52
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,238,Sarvepalli,GEN,Nellore,155930,INC,Adala Prabhakara Reddy,73760,TDP,Chandra Mohan Reddy,63476,10284,6.6
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,239,Gudur,SC,Nellore,152836,TDP,Durga Prasad Rao Balli,64330,INC,Panabaka Krishnaiah,53092,11238,7.35
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,240,Sullurpeta,SC,Nellore,159872,TDP,Dr.Parasa Venkata,66089,INC,Vinnamala Saraswathi,60722,5367,3.36
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,241,Venkatagiri,GEN,Nellore,159851,TDP,Kurugondla Rama Krishna,69731,INC,Nedurumalli Rajyalakshmi,62965,6766,4.23
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,242,Udayagiri,GEN,Nellore,147807,INC,Mekapati Chandra Sekhar,69352,TDP,Kambam Vijaya Rami Reddy,55870,13482,9.12
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,243,Badvel,SC,Cuddapah,135133,INC,Kamalamma P.M,78486,TDP,Chennaiah Lakkineni,41892,36594,27.08
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,244,Rajampet,GEN,Cuddapah,138314,INC,Amaranath Reddy Akepati,60397,TDP,Madan Mohan Reddy .K,48055,12342,8.92
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,245,Kadapa,GEN,Cuddapah,136674,INC,Ahamadullah Mohammad,61613,TDP,Kandula Sivananda Reddy,54263,7350,5.38
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,246,Kodur,SC,Cuddapah,117663,INC,Koramutla Srinivasulu,51747,TDP,Ajay Babu Nandavaram,39359,12388,10.53
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,247,Rayachoti,GEN,Cuddapah,143194,INC,Gadikota Srikanth Reddy,71901,TDP,Palakondrayudu Sugavasi,57069,14832,10.36
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,248,Pulivendula,GEN,Cuddapah,146644,INC,Y.S. Raja Sekhar Reddy,103556,TDP,Venkata Satish Kumar,34875,68681,46.84
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,249,Kamalapuram,GEN,Cuddapah,135080,INC,Gandluru Veera Siva,65386,TDP,Putta Narasimha Reddy,61223,4163,3.08
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,250,Jammalamadugu,GEN,Cuddapah,174338,INC,Adi Narayana Reddy,84416,TDP,Rama Subba Reddy,77032,7384,4.24
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,251,Proddatur,GEN,Cuddapah,157198,TDP,Lingaareddy Mallela,73023,INC,Nandyala Varada Rajulu,56867,16156,10.28
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,252,Mydukur,GEN,Cuddapah,142117,INC,Duggireddy Lakshmireddy,62377,TDP,Raghurami Reddy,58016,4361,3.07
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,253,Allagadda,GEN,Kurnool,153847,PRAP,Bhuma Shobha Nagi Reddy,61555,INC,Gangula Prathap Reddy,59597,1958,1.27
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,254,Srisailam,GEN,Kurnool,115643,INC,Earasu Prathap Reddy,49384,TDP,Budda Rajasekhera Reddy,45077,4307,3.72
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,255,Nandikotkur,SC,Kurnool,141276,INC,Labbi Venkataswamy,63442,TDP,Chimme Bitchanna,57669,5773,4.09
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,256,Kurnool,GEN,Kurnool,111726,INC,T.G.Venkatesh,68467,CPI(M),Abdul Gafoor.M,24400,44067,39.44
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,257,Panyam,GEN,Kurnool,155697,INC,Katasani Ramabhupal,63323,TDP,Byreddy Rajasekher,54409,8914,5.73
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,258,Nandyal,GEN,Kurnool,145616,INC,Silpa Mohan Reddy,67430,PRAP,A. V. Subba Reddy,35541,31889,21.9
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,259,Banaganapalle,GEN,Kurnool,144539,PRAP,Katasani Rami Reddy,55438,INC,Challa Rama Krsihna,41752,13686,9.47
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,260,Dhone,GEN,Kurnool,139516,TDP,Kambalapadu Ediga,60769,INC,Kotla Sujathamma,56118,4651,3.33
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,261,Pathikonda,GEN,Kurnool,137210,TDP,Kambalapadu Edige,67640,INC,S.V.Chandra Mohan Reddy,57668,9972,7.27
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,262,Kodumur,SC,Kurnool,125276,INC,Parigela Murali Krishna,47844,TDP,M.Mani Gandhi,42519,5325,4.25
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,263,Yemmiganur,GEN,Kurnool,128723,INC,K.Chenna Kesava Reddy,53766,TDP,B.V.Mohan Reddy,51443,2323,1.8
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,264,Mantralayam,GEN,Kurnool,111957,TDP,Y.Balanagi Reddy,52431,INC,Dalavai Ramaiah,41734,10697,9.55
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,265,Adoni,GEN,Kurnool,116604,TDP,K.Meenakshi Naidu,45294,INC,Y.Sai Prasad Reddy,45038,256,0.22
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,266,Allur,GEN,Kurnool,139740,INC,Patil Neeraja Reddy,43105,PRAP,Gummanuru Jayaram,37460,5645,4.04
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,267,Rayadurg,GEN,Anantapur,155854,INC,Kapu Ramachandra Reddy,76259,TDP,Mettu Govinda Reddy,62168,14091,9.04
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,268,Uravakonda,GEN,Anantapur,142910,TDP,Payyavula Keshav,64728,INC,Y Visweswara Reddy,64499,229,0.16
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,269,Guntakal,GEN,Anantapur,139770,INC,Madhusudhan,61097,TDP,Sainath Goud Ramagowni,51753,9344,6.69
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,270,Tadpatri,GEN,Anantapur,150252,INC,Diwakar Reddy J.C,63358,TDP,Peram Nagi Reddy,56403,6955,4.63
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,271,Singanamala,SC,Anantapur,149475,INC,Dr Sake Sailajanath,65367,TDP,Pamidi Shamanthakamani,62191,3176,2.12
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,272,Anantapur Urban,GEN,Anantapur,116008,INC,B Gurunatha Reddy,45275,TDP,Mahalakshmi,32033,13242,11.41
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,273,Kalyandurg,GEN,Anantapur,146301,INC,Neelakantapuram,69614,TDP,Vunnam Hanumantharaya,65226,4388,3.0
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,274,Raptadu,GEN,Anantapur,142368,TDP,Paritala Sunithamma,64559,INC,Thopudurthi Prakash,62852,1707,1.2
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,275,Madakasira,SC,Anantapur,147887,INC,K Sudhakar,70657,TDP,K Eranna,60242,10415,7.04
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,276,Hindupur,GEN,Anantapur,143664,TDP,P Abdul Ghani,45506,IND,B Naveen Nischal,36742,8764,6.1
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,277,Penukonda,GEN,Anantapur,152382,TDP,B K Parthasarathi,68400,INC,K T Sreedhar,54015,14385,9.44
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,278,Puttaparthi,GEN,Anantapur,137276,TDP,Palle Raghunatha Reddy,59356,INC,Kadapala Mohan Reddy,58335,1021,0.74
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,279,Dharmavaram,GEN,Anantapur,148737,INC,Kethireddi Venkata Rami,61260,IND,G Suryanarayana,42088,19172,12.89
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,280,Kadiri,GEN,Anantapur,154935,TDP,Kandikunta Venkata,72308,INC,Battala Venkataramana,57331,14977,9.67
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,281,Thamballapalle,GEN,Chittoor,145692,TDP,Anipireddy Venkata,46653,INC,Gullolla Sankar,43695,2958,2.03
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,282,Pileru,GEN,Chittoor,150774,INC,Nallari Kiran Kumar,53905,TDP,Imtiyaz Ahmed Shaik,44773,9132,6.06
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,283,Madanapalle,GEN,Chittoor,137738,INC,M.Shajahan Basha (Jaha),53456,TDP,R.Krishna Sagar Reddy,42584,10872,7.89
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,284,Punganur,GEN,Chittoor,162821,INC,Peddireddy Ramachandra,84083,TDP,M.Venkatramana Raju,43356,40727,25.01
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,285,Chandragiri,GEN,Chittoor,170871,INC,Aruna Kumari Galla,71942,TDP,R.K.Roja,60962,10980,6.43
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,286,Tirupati,GEN,Chittoor,127627,PRAP,Konidala Chiranjeevi,56309,INC,Karunakar Reddy,40379,15930,12.48
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,287,Srikalahasti,GEN,Chittoor,163129,TDP,Gopalakrishna Reddy,70707,INC,S.C.V.Naidu,58244,12463,7.64
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,288,Satyavedu,SC,Chittoor,142184,TDP,H.Hemalatha,65471,INC,Kalathuru,55780,9691,6.82
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,289,Nagari,GEN,Chittoor,140363,TDP,Gali Muddukrishnama,60849,INC,Chenga Reddy Reddyvari,59541,1308,0.93
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,290,Gangadhara Nellore,SC,Chittoor,136442,INC,Kuthuhalam Gummadi,62249,TDP,Gandhi,51423,10826,7.93
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,291,Chittoor,GEN,Chittoor,127000,INC,C.K.Jayachandra Reddy @,46094,PRAP,Arani Srinivasulu J.M.C,44384,1710,1.35
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,292,Puthalapattu,SC,Chittoor,151757,INC,Dr.P.Ravi,64484,TDP,L.Lalitha Kumari,63533,951,0.63
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,293,Palamaner,GEN,Chittoor,173044,TDP,Amaranatha Reddy.N,79977,INC,Reddeppa Reddy.R,64429,15548,8.98
+ae-andhra-pradesh-2009,AE,Andhra Pradesh,2009,2009,official,294,Kuppam,GEN,Chittoor,145287,TDP,Nara Chandrababu Naidu,89952,INC,M.Subramanyam Reddy,43886,46066,31.71

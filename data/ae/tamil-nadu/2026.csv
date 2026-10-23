@@ -1,0 +1,235 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,1,Gummidipoondi,GEN,Thiruvallur,231585,TVK,S.Vijayakumar,94320,AIADMK,Sudhakar.V,66375,27945,12.07
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,2,Ponneri,GEN,Thiruvallur,225954,TVK,Dr.Ravi.M.S,110439,INC,Durai Chandrasekar,54671,55768,24.68
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,3,Tiruttani,GEN,Thiruvallur,237588,AIADMK,G.Hari,89169,TVK,M.Sathya Kumar,83376,5793,2.44
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,4,Thiruvallur,GEN,Thiruvallur,225296,TVK,Dr. T. Arunkumar,92190,DMK,V.G. Raajendran,67430,24760,10.99
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,5,Poonamallee,GEN,Thiruvallur,307323,TVK,Prakasam.R,161309,DMK,Krishnaswamy.A,88569,72740,23.67
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,6,Avadi,GEN,Thiruvallur,344472,TVK,R.Ramesh Kumar,180384,DMK,S.M.Nasar,104073,76311,22.15
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,7,Maduravoyal,GEN,Thiruvallur,292230,TVK,Rhevanth Charan,141725,DMK,Ganapathy. K,80216,61509,21.05
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,8,Ambattur,GEN,Thiruvallur,258496,TVK,Balamurugan.G,133339,DMK,Dr A.P. Poornima,74558,58781,22.74
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,9,Madavaram,GEN,Thiruvallur,360604,TVK,M.L.Vijayprabhu,190462,DMK,S.Sudharsanam,95477,94985,26.34
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,10,Thiruvottiyur,GEN,Thiruvallur,206283,TVK,Senthil Kumar. N,110067,CPI(M),Sundararaj. L,56503,53564,25.97
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,11,Dr. Radhakrishnan Nagar,GEN,Chennai,180645,TVK,N. Marie Wilson,97800,DMK,J. John Ebenezer,48132,49668,27.49
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,12,Perambur,GEN,Chennai,203783,TVK,C. Joseph Vijay,120365,DMK,R.D. Shekar,66650,53715,26.36
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,13,Kolathur,GEN,Chennai,183159,TVK,V. S. Babu,82997,DMK,M. K. Stalin,74202,8795,4.8
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,14,Villivakkam,GEN,Chennai,140757,TVK,Aadhav Arjuna,66445,DMK,Karthik Mohan,49143,17302,12.29
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,15,Thiru-Vi-Ka-Nagar,GEN,Chennai,143376,TVK,M. R. Pallavi,69125,DMK,K. S. Ravichandran,46792,22333,15.58
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,16,Egmore,GEN,Chennai,119043,TVK,Rajmohan,53901,DMK,Tamilan Prasanna,43097,10804,9.08
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,17,Royapuram,GEN,Chennai,126897,TVK,K.V. Vijay Damu,59091,DMK,Dr. A. Subair Khan,44842,14249,11.23
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,18,Harbour,GEN,Chennai,99022,DMK,P K Sekarbabu,45254,TVK,Sinora P S Ashok,33504,11750,11.87
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,19,Chepauk,GEN,Chennai,140098,DMK,Udhayanidhi Stalin,62992,TVK,Selvam. D,55852,7140,5.1
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,20,Thousand Lights,GEN,Chennai,131009,TVK,Prabhakar.J.C.D,58965,DMK,Ezhilan Naganathan,43824,15141,11.56
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,21,Anna Nagar,GEN,Chennai,162376,TVK,V.K.Ramkumar,71375,DMK,N.Chitrarasu,50012,21363,13.16
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,22,Virugampakkam,GEN,Chennai,171801,TVK,Sabarinathan.R,76092,DMK,Prabhakara Raja.A.M.V,49006,27086,15.77
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,23,Saidapet,GEN,Chennai,159477,TVK,Arul Prakasam. M,81205,DMK,Subramanian. Ma,52691,28514,17.88
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,24,T-Nagar,GEN,Chennai,133050,TVK,Anand N,51632,AIADMK,Sathiyanarayanan B,38605,13027,9.79
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,25,Mylapore,GEN,Chennai,149824,TVK,Venkataramanan. P,70070,DMK,Velu. Dha,41098,28972,19.34
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,26,Velachery,GEN,Chennai,183479,TVK,Kumar. R,80430,AIADMK,Ashok. M.K,47125,33305,18.15
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,27,Shozhinganallur,GEN,Kancheepuram,445214,TVK,Ecr P Saravanan,220382,DMK,S. Aravind Ramesh,123602,96780,21.74
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,28,Alandur,GEN,Kancheepuram,260307,TVK,M.Harish,112205,DMK,T.M.Anbarasan,82596,29609,11.37
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,29,Sriperumbudur,GEN,Kancheepuram,329927,TVK,Thennarasu.K,147611,INC,K. Selvaperunthagai,93365,54246,16.44
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,30,Pallavaram,GEN,Kancheepuram,282075,TVK,J.Kamatchi,133611,DMDK,D.Murugesan,78918,54693,19.39
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,31,Tambaram,GEN,Kancheepuram,277297,TVK,D.Sarathkumar,118967,DMK,R.S.Kiruthika Devi,83346,35621,12.85
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,32,Chengalpattu,GEN,Kancheepuram,322615,TVK,S. Thiyagarajan,137136,DMK,Karthikdhandapani,101495,35641,11.05
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,33,Thiruporur,GEN,Kancheepuram,261161,TVK,B.Vijayaraj,110095,VCK,R. Panneerdoss,70744,39351,15.07
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,34,Cheyyur,GEN,Kancheepuram,186801,AIADMK,Rajasekar. E,63809,TVK,Mohan Raja.M.G.K,58141,5668,3.03
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,35,Maduranthakam,GEN,Kancheepuram,197454,AIADMK,Maragatham Kumaravel.K,69284,TVK,Ezhil Katharine Ezhilmalai,62090,7194,3.64
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,36,Uthiramerur,GEN,Kancheepuram,226651,TVK,Munirathinam.J,84917,DMK,Sundar.K,70694,14223,6.28
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,37,Kancheepuram,GEN,Kancheepuram,245239,TVK,R.V. Ranjithkumar,91350,AIADMK,V. Somasundaram,75862,15488,6.32
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,38,Arakkonam,GEN,Vellore,181441,TVK,V. Gandhiraj,73776,VCK,Ezhil Caroline,50655,23121,12.74
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,39,Sholingur,GEN,Vellore,233112,TVK,G.Kapil,84506,PMK,K.Saravanan,78820,5686,2.44
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,40,Katpadi,GEN,Vellore,202752,TVK,Dr M Sudhakar,69868,AIADMK,V. Ramu,63998,5870,2.9
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,41,Ranipet,GEN,Vellore,219829,TVK,Thahira,91149,DMK,R. Gandhi,85362,5787,2.63
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,42,Arcot,GEN,Vellore,225130,AIADMK,S.M.Sukumar,105608,TVK,G.Vijay Mohan,62888,42720,18.98
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,43,Vellore,GEN,Vellore,189715,TVK,M.M.Vinoth Kannan,73032,DMK,P.Karthikeyan,66255,6777,3.57
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,44,Anaicut,GEN,Vellore,215215,AIADMK,D.Velazhagan,76302,DMK,A.P.Nandakumar,69221,7081,3.29
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,45,Kilvaithinankuppam,GEN,Vellore,188920,TVK,Thenral Kumar. E,74305,AIADMK,Jegan Moorthy. M,54050,20255,10.72
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,46,Gudiyattam,GEN,Vellore,228277,TVK,K.Sindu,82858,DMDK,K.B.Pradap,72761,10097,4.42
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,47,Vaniyambadi,GEN,Vellore,211910,IUML,Syed Farooq Basha Ssb,73181,TVK,Syed Bhurhanudeen,70199,2982,1.41
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,48,Ambur,GEN,Vellore,195116,DMK,Vilwanathan. A.C,74102,TVK,Imthiyaz Pandarattudu Abdu,66971,7131,3.65
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,49,Jolarpet,GEN,Vellore,212347,AIADMK,Veeramani K.C,78633,TVK,Munisamy C,62550,16083,7.57
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,50,Tiruppattur,GEN,Vellore,202461,TVK,Dr.Thirupathi. N,105098,DMK,Nallathambi. A,56835,48263,23.84
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,51,Uthangarai,GEN,Krishnagiri,204649,TVK,N Elaiyaraja,70201,AIADMK,T M Tamilselvam,65003,5198,2.54
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,52,Bargur,GEN,Krishnagiri,213329,AIADMK,E.C. Govindarasan,71240,TVK,E. Muralidharan,66999,4241,1.99
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,53,Krishnagiri,GEN,Krishnagiri,229045,TVK,Mukundhan.P,89374,AIADMK,Ashokkumar.K,70530,18844,8.23
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,54,Veppanahalli,GEN,Krishnagiri,221038,DMK,Srinivasan.P.S,74691,AIADMK,Munusamy.K.P,74553,138,0.06
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,55,Hosur,GEN,Krishnagiri,276156,AIADMK,Balakrishnareddy. P,109867,TVK,Vendarkarasan.S,82064,27803,10.07
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,56,Thalli,GEN,Krishnagiri,204328,CPI,Ramachandran. T,78283,BJP,Dr.Nagesh Kumar. C,73043,5240,2.56
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,57,Palacodu,GEN,Dharmapuri,223965,AIADMK,Anbalagan. K.P,102807,TVK,Gopi. R,63765,39042,17.43
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,58,Pennagaram,GEN,Dharmapuri,227992,TVK,Gajendran. S,81240,PMK,Selvam. V,78075,3165,1.39
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,59,Dharmapuri,GEN,Dharmapuri,237638,PMK,Sowmiya Anbumani,93713,TVK,Sivan. M,72817,20896,8.79
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,60,Pappireddippatti,GEN,Dharmapuri,235944,AIADMK,Maragatham Vetrivel,101829,DMK,Palaniappan. P,68715,33114,14.03
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,61,Harur,GEN,Dharmapuri,219260,AIADMK,Sampathkumar. V,75523,DMK,Shanmugam. A,72194,3329,1.52
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,62,Chengam,GEN,Tiruvannamalai,241783,AIADMK,S.Velu,87802,TVK,K Bharathidhasan,74524,13278,5.49
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,63,Tiruvannamalai,GEN,Tiruvannamalai,219281,DMK,Velu. E.V,88273,TVK,Arul Arumugam,85818,2455,1.12
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,64,Kilpennathur,GEN,Tiruvannamalai,219350,AIADMK,Ramachandran.S,90503,DMK,Pitchandi.K,60038,30465,13.89
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,65,Kalasapakkam,GEN,Tiruvannamalai,213704,AIADMK,Agri Krishnamurthy. S S,89629,DMK,Saravanan. P.S.T,62889,26740,12.51
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,66,Polur,GEN,Tiruvannamalai,210945,TVK,Abishek. R,67961,DMDK,Saravanan. P,67734,227,0.11
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,67,Arani,GEN,Tiruvannamalai,229455,AIADMK,Jayasudha. L,76735,DMK,Mahalakshmi Govarthanan,71104,5631,2.45
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,68,Cheyyar,GEN,Tiruvannamalai,221620,AIADMK,Mukkur N. Subramanian,86680,TVK,Dusi K Mohan,65599,21081,9.51
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,69,Vandavasi,GEN,Tiruvannamalai,190216,DMK,Ambethkumar. S,63805,AIADMK,Rani. P,60472,3333,1.75
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,70,Gingee,GEN,Viluppuram,216144,PMK,Ganeshkumar A,78201,DMK,Gingee Masthan K S,65556,12645,5.85
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,71,Mailam,GEN,Viluppuram,188922,AIADMK,Shanmugam C Ve,82353,TVK,Vijay Niranjan A,52312,30041,15.9
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,72,Tindivanam,GEN,Viluppuram,195312,VCK,Vanni Arasu,63833,AIADMK,Arjunan. P,63099,734,0.38
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,73,Vanur,GEN,Viluppuram,191600,DMK,Gowtham D,68873,TVK,Suresh P,61839,7034,3.67
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,74,Villupuram,GEN,Viluppuram,214849,DMK,Lakshmanan R,72982,TVK,Mohanraj N,68863,4119,1.92
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,75,Vikravandi,GEN,Viluppuram,208830,PMK,Sivakumar C,69727,TVK,Vijai Vadivel A,68817,910,0.44
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,76,Tirukkoyilur,GEN,Viluppuram,216818,AIADMK,Palanisamy S,73033,TVK,Vijay R Baranibalaaji,72748,285,0.13
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,77,Ulundurpet,GEN,Viluppuram,269951,DMK,Vasanthavel G R,98471,AIADMK,Kumaraguru R,96194,2277,0.84
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,78,Rishivandiyam,GEN,Viluppuram,244261,DMK,Karthikeyan K,89711,TVK,Ashok Kumar G,84849,4862,1.99
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,79,Sankarapuram,GEN,Viluppuram,235145,AIADMK,Rakesh R,80250,DMK,Udhayasuriyan T,76810,3440,1.46
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,80,Kallakurichi,GEN,Viluppuram,248743,TVK,Arul Vignesh C,81132,AIADMK,Rajeevgandhi S,80334,798,0.32
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,81,Gangavalli,GEN,Salem,195948,AIADMK,Nallathambi. A,73167,DMK,Chinnadurai. K,58763,14404,7.35
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,82,Attur,GEN,Salem,207265,AIADMK,Jayasankaran. A.P,80843,TVK,Selvabharathi. R,65525,15318,7.39
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,83,Yercaud,GEN,Salem,252342,AIADMK,Usharani. P,87772,TVK,Lakshmi Janarthanan. J,85583,2189,0.87
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,84,Omalur,GEN,Salem,269686,AIADMK,Mani. R,112246,TVK,Adhiyamaan. R.V,97707,14539,5.39
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,85,Mettur,GEN,Salem,230311,AIADMK,Venkatachalam. G,86498,DMK,Midhun Chakravarthy. M,67393,19105,8.3
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,86,Edappadi,GEN,Salem,256922,AIADMK,Edappadi Palaniswami. K,148933,IND,Premkumar. K,50823,98110,38.19
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,87,Sankari,GEN,Salem,243068,AIADMK,Vetrivel. S,87342,TVK,Senthilkumar. K,77825,9517,3.92
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,88,Salem West,GEN,Salem,233355,TVK,Lakshmanan.S,120407,PMK,Karthe.M,45540,74867,32.08
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,89,Salem North,GEN,Salem,209507,TVK,Sivakumar. K,85710,DMK,Rajendran. R,71676,14034,6.7
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,90,Salem South,GEN,Salem,207157,TVK,Vijay Tamilan Parthiban. A,91371,DMK,Loganathan. M,58002,33369,16.11
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,91,Veerapandi,GEN,Salem,235281,TVK,Palanivel. M.S,79907,AIADMK,Sri Balaji Sugumar. S,75836,4071,1.73
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,92,Rasipuram,GEN,Namakkal   *,203817,TVK,Logesh Tamilselvan D,74808,BJP,Premkumar S D,60297,14511,7.12
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,93,Senthamangalam,GEN,Namakkal   *,208476,TVK,P Chandrasekar,68815,AIADMK,C Chandrasekaran,66160,2655,1.27
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,94,Namakkal,GEN,Namakkal   *,211523,TVK,Dilip C S,79744,AIADMK,Sridevi Mohan P S,68736,11008,5.2
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,95,Paramathi-Velur,GEN,Namakkal   *,188396,AIADMK,Sekar S,61349,DMK,Moorthiy K S,61041,308,0.16
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,96,Tiruchengodu,GEN,Namakkal   *,190602,TVK,Arunraj K G,79500,AIADMK,Srmt Sekar (A) Chandrasekar R,51328,28172,14.78
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,97,Kumarapalayam,GEN,Namakkal   *,204659,TVK,C.Vijayalakshmi,81179,AIADMK,P.Thangamani,73483,7696,3.76
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,98,Erode East,GEN,Erode,161574,TVK,M.Vijay Balaji,69747,INC,Gopinath Palaniyappan,45781,23966,14.83
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,99,Erode West,GEN,Erode,220143,TVK,Ananth Moghan K.K,96836,DMK,S. Muthusamy,74586,22250,10.11
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,100,Modakkurichi,GEN,Erode,189834,TVK,D.Shanmugan,60715,BJP,S.Kirthika,58285,2430,1.28
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,101,Dharapuram,GEN,Erode,198886,AIADMK,Sathyabama.P,81100,DMK,Indirani.T,64373,16727,8.41
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,102,Kangayam,GEN,Erode,202828,AIADMK,Nsn Nataraj,71122,TVK,Mani Gounder,62989,8133,4.01
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,103,Perundurai,GEN,Erode,199874,AIADMK,Jayakumar. S,70302,DMK,Thoppu Venkatachalam (Alias) N.D. Venkatachalam,60609,9693,4.85
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,104,Bhavani,GEN,Erode,206914,AIADMK,Karuppanan. K.C,75577,TVK,Balakrishnan,68181,7396,3.57
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,105,Andhiyur,GEN,Erode,185021,AIADMK,Haribaskar.P,60042,DMK,Sivabalan.M,58782,1260,0.68
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,106,Gobichettipalayam,GEN,Erode,218820,TVK,Sengottaiyan.K.A,82612,DMK,Nallasivam.N,65992,16620,7.6
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,107,Bhavanisagar,GEN,Erode,212791,TVK,V.P.Tamilselvi,72391,AIADMK,A.Bannari,67822,4569,2.15
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,108,Udhagamandalam,GEN,The Nilgiris,147179,BJP,Bhojarajan.M,48488,TVK,Ibrahim.R,47512,976,0.66
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,109,Gudalur,GEN,The Nilgiris,150370,DMK,Dhravidamani.M,65590,AIADMK,Pon.Jayaseelan,42757,22833,15.18
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,110,Coonoor,GEN,The Nilgiris,140674,DMK,M. Raju,50470,AIADMK,A. Ramu,42371,8099,5.76
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,111,Mettuppalayam,GEN,Coimbatore,243480,TVK,Sunilanand,75664,DMK,Smt.Kavitha Kalyanasundaram,67896,7768,3.19
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,112,Avanashi,GEN,Coimbatore,230037,TVK,Kamali.S,84209,BJP,Dr. L. Murugan,68836,15373,6.68
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,113,Tiruppur North,GEN,Coimbatore,262379,TVK,V.Sathyabama,131401,AIADMK,M.S.M.Anandan,61409,69992,26.68
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,114,Tiruppur South,GEN,Coimbatore,179170,TVK,Balamurugan. S,73793,DMK,Dineshkumar. N,60892,12901,7.2
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,115,Palladam,GEN,Coimbatore,299597,TVK,K.Ramkumar,121297,AIADMK,K.P.Paramasivam,83400,37897,12.65
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,116,Sulur,GEN,Coimbatore,272191,TVK,Nm.Sukumar,90531,AIADMK,V.P.Kandasamy,85741,4790,1.76
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,117,Kavundampalayam,GEN,Coimbatore,361875,TVK,Kanimozhi Santhosh,146466,AIADMK,Arunkumar Prg,104326,42140,11.64
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,118,Coimbatore North,GEN,Coimbatore,225089,TVK,V. Sampathkumar,92500,DMK,Durai. Senthamil Selvan B.E,70508,21992,9.77
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,119,Thondamuthur,GEN,Coimbatore,257549,AIADMK,S.P.Velumani,93316,TVK,Sathish Raju (Alias) K.P.R. Sathish,78591,14725,5.72
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,120,Coimbatore South,GEN,Coimbatore,155740,DMK,V Senthilbalaji,59724,TVK,V. Senthilkumar,57453,2271,1.46
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,121,Singanallur,GEN,Coimbatore,219687,TVK,K.S.Sri Giri Prasath,84163,INC,V.Srinidhi,65024,19139,8.71
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,122,Kinathukkadavu,GEN,Coimbatore,266200,TVK,Vignesh K,99950,DMK,Sabari Karthikeyan K.V.K.S,88240,11710,4.4
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,123,Pollachi,GEN,Coimbatore,180347,DMK,K. Nithyanandhan,62013,AIADMK,Pollachi V. Jayaraman,57386,4627,2.57
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,124,Valparai,GEN,Coimbatore,149756,DMK,Kutty (Alias) Sudhakar. A,54671,TVK,Dr. Sridharan. A,45300,9371,6.26
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,125,Udumalpet,GEN,Coimbatore,202426,DMK,Jayakumar M,68549,AIADMK,Radhakrishnan K,65667,2882,1.42
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,126,Madathukulam,GEN,Coimbatore,187338,DMK,R Jayaramakrishnan,70458,AMMK,C Shanmugavelu,54490,15968,8.52
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,127,Palani,GEN,Dindigul,207869,AIADMK,Ravimanoharan. K,66986,TVK,Dr. Praveen Kumar. M,66293,693,0.33
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,128,Oddamchatram,GEN,Dindigul,200133,DMK,Sakkarapani. R,93099,BJP,Vidiyal S. Sekar,49850,43249,21.61
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,129,Athoor,GEN,Dindigul,236371,DMK,I. Periasamy,106240,TVK,N. Kalaiselvi,83872,22368,9.46
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,130,Nilakkottai,GEN,Dindigul,196951,TVK,Ayyanar.R,68580,DMK,Nagajothi.S,65655,2925,1.49
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,131,Natham,GEN,Dindigul,238544,AIADMK,Natham Viswanathan R,85708,DMK,Selvakumar K,73839,11869,4.98
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,132,Dindigul,GEN,Dindigul,211191,DMK,Senthilkumar. I.P,74489,TVK,Nazeer Raja. G,73358,1131,0.54
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,133,Vedasandur,GEN,Dindigul,226080,DMK,Saminathan. T,84948,AIADMK,Paramasivam. V.P.B,74885,10063,4.45
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,134,Aravakurichi,GEN,Karur  *,180441,DMK,Elango. R,70827,TVK,Karthikeyan. P,51445,19382,10.74
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,135,Karur,GEN,Karur  *,216290,AIADMK,M.R. Vijayabhaskar,71542,TVK,Mathiyalagan V.P,69721,1821,0.84
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,136,Krishnarajapuram,GEN,Karur  *,188832,TVK,Sathya. M,62378,AIADMK,Dr. Dhivya. S,58875,3503,1.86
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,137,Kulithalai,GEN,Karur  *,208479,DMK,Suriyanur. A. Chandran,68138,TVK,G.Balasubramani,67559,579,0.28
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,138,Manapparai,GEN,Tiruchirappalli,240267,TVK,R. Kathiravan,83041,AIADMK,Dr. Pl. Vijayakumar,81615,1426,0.59
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,139,Srirangam,GEN,Tiruchirappalli,254056,TVK,Ramesh,103235,DMK,S. Durairaj,69645,33590,13.22
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,140,Tiruchirappalli West,GEN,Tiruchirappalli,195249,DMK,K.N.Nehru,88235,TVK,G.Ramamoorthi,83449,4786,2.45
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,141,Tiruchirappalli East,GEN,Tiruchirappalli,181979,TVK,C. Joseph Vijay,91381,DMK,S. Inigo Irudayaraj,63965,27416,15.07
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,142,Thiruverumbur,GEN,Tiruchirappalli,212838,TVK,Vijayakumar (A) Navalpattu S. Viji,89837,DMK,Anbil Mahesh Poyyamozhi,81132,8705,4.09
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,143,Lalgudi,GEN,Tiruchirappalli,184823,AIADMK,Leemarose Martin,60795,TVK,Ku Pa Krishnan,58056,2739,1.48
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,144,Manachanallur,GEN,Tiruchirappalli,209181,DMK,Kathiravan. S,81447,TVK,V.Saravanan,69083,12364,5.91
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,145,Musiri,GEN,Tiruchirappalli,188048,TVK,M.Vignesh,71281,DMK,N.S.Karunairaaja,53839,17442,9.28
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,146,Thuraiyur,GEN,Tiruchirappalli,183729,TVK,Ravisankar.M,66263,AIADMK,E.Saroja,56649,9614,5.23
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,147,Perambalur,GEN,Perambalur,252494,TVK,Sivakumar. K,90882,DMK,Dr. Jayalakshmi. S.T,76489,14393,5.7
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,148,Kunnam,GEN,Perambalur,230086,DMK,Sivasankar. S.S,87237,AIADMK,Saranya. A,71680,15557,6.76
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,149,Ariyalur,GEN,Perambalur,235217,AIADMK,Rajendran S,95219,DMK,Latha Balu,70721,24498,10.42
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,150,Jayankondam,GEN,Perambalur,228132,PMK,Vaithilingam G,88992,DMK,Kannan Ka.So.Ka,70502,18490,8.1
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,151,Tittakudi,GEN,Cuddalore,175170,DMK,Ganesan C.V,63106,TVK,Rajasekar A,60477,2629,1.5
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,152,Vridhachalam,GEN,Cuddalore,208431,DMDK,Premallatha Vijayakant,69351,TVK,Vijay.S,66964,2387,1.15
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,153,Neyveli,GEN,Cuddalore,168012,AIADMK,Rajendran.R,63731,DMK,Saba.Rajendran,52769,10962,6.52
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,154,Panruti,GEN,Cuddalore,209860,AIADMK,Mohan. K,78398,VCK,Abdur Rahman. A.R,67735,10663,5.08
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,155,Cuddalore,GEN,Cuddalore,189484,TVK,B.Rajkumar,70856,INC,A.S.Chandarasekaran,55337,15519,8.19
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,156,Kurinjipadi,GEN,Cuddalore,213336,DMK,M.R.K.Panneerselvam,76695,AIADMK,A Bhuvanenthiran,69106,7589,3.56
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,157,Bhuvanagiri,GEN,Cuddalore,206629,AIADMK,Arunmozhithevan . A,75707,DMK,Saravanan. Durai . K,73220,2487,1.2
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,158,Chidambaram,GEN,Cuddalore,195770,DMK,Thamimun Ansari. M,69739,AIADMK,Pandian. K.A,63992,5747,2.94
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,159,Kattumannarkoil,GEN,Cuddalore,187440,VCK,L.E. Jothimani,85179,PMK,A. Sozhan,52116,33063,17.64
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,160,Sirkazhi,GEN,Nagapattinam  *,199893,DMK,Senthilselvan.R,71449,AIADMK,Sakthi.M,60032,11417,5.71
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,161,Mayuram,GEN,Nagapattinam  *,187987,INC,Jamal Mohamed Younoos. Y.N,68011,PMK,Palanisamy. A M.Com,57166,10845,5.77
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,162,Poompuhar,GEN,Nagapattinam  *,218738,DMK,Nivedha M Murugan,81096,AIADMK,Pavunraj. S,72836,8260,3.78
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,163,Nagapattinam,GEN,Nagapattinam  *,150847,DMK,M.H.Jawahirullah,56305,TVK,M.Sugumar,46524,9781,6.48
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,164,Kilvelur,GEN,Nagapattinam  *,151092,CPI(M),Latha. T,56108,TVK,Senthil Pandian. P,53830,2278,1.51
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,165,Vedaranyam,GEN,Nagapattinam  *,161653,AIADMK,Manian. O.S,59172,DMK,Pugazhendi. M,51841,7331,4.54
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,166,Thiruthuraipoondi,GEN,Thiruvarur,190233,CPI,Marimuthu.K,74062,TVK,Pandiyan.S,61140,12922,6.79
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,167,Mannargudi,GEN,Thiruvarur,193695,AMMK,Kamaraj. S,68416,DMK,Rajaa.T.R.B,66850,1566,0.81
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,168,Thiruvarur,GEN,Thiruvarur,217050,DMK,Kalaivanan Poondi K,93408,TVK,Veeramani V,75260,18148,8.36
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,169,Nannilam,GEN,Thiruvarur,230508,AIADMK,Kamaraj. R,103462,DMK,Mohamed Mubarak,61738,41724,18.1
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,170,Thiruvidaimarudur,GEN,Thanjavur,208197,DMK,Govi.Chezhiaan,79951,TVK,S.Prabakaran,65835,14116,6.78
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,171,Kumbakonam,GEN,Thanjavur,207328,TVK,Vinoth,78650,DMK,Anbalagan G,77971,679,0.33
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,172,Papanasam,GEN,Thanjavur,207007,IUML,A.M. Shahjahan,69284,TVK,Azarudeen Uduman Ali,68219,1065,0.51
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,173,Thiruvaiyaru,GEN,Thanjavur,221163,DMK,Durai. Chandrasekaran,80425,TVK,Mathi. Manikandan,71870,8555,3.87
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,174,Thanjavur,GEN,Thanjavur,197524,TVK,R. Vijaysaravanan,87705,DMK,Shan. Ramanathan,70750,16955,8.58
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,175,Orathanadu,GEN,Thanjavur,194673,DMK,R. Vaithilingam,86759,TVK,Dr. K. Arvind,51731,35028,17.99
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,176,Pattukkottai,GEN,Thanjavur,183007,DMK,Annadurai K,65963,TVK,Mathan C,52209,13754,7.52
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,177,Peravurani,GEN,Thanjavur,175579,DMK,Ashokkumar. N,60919,AIADMK,Govi.Elango,57757,3162,1.8
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,178,Gandharvakottai,GEN,Pudukkottai,166491,TVK,N. Subramanian,58795,BJP,C. Uthayakumar,47756,11039,6.63
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,179,Viralimalai,GEN,Pudukkottai,203546,AIADMK,Vijayabaskar. C,105773,TVK,Murugesan. P,43700,62073,30.5
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,180,Pudukkottai,GEN,Pudukkottai,189911,DMK,V. Muthuraja,66825,TVK,K.M. Shariff,64958,1867,0.98
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,181,Thirumaiyam,GEN,Pudukkottai,181667,DMK,Regupathy.S,58201,TVK,Chinthamani.C,56709,1492,0.82
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,182,Alangudi,GEN,Pudukkottai,179810,DMK,Siva.V.Meyyanathan,64929,TVK,Kandasamy,51952,12977,7.22
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,183,Aranthangi,GEN,Pudukkottai,182150,TVK,Mohamed Farvas. J,73244,INC,Ramachandran . T,63182,10062,5.52
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,184,Karaikudi,GEN,Sivaganga,228748,TVK,Dr.Prabhu. Tk,101358,INC,Mangudi. S,55284,46074,20.14
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,185,Tirupathur,GEN,Sivaganga,214963,TVK,Seenivasa Sethupathy. R,83375,DMK,Periakaruppan. Kr,83374,1,0.0
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,186,Sivaganga,GEN,Sivaganga,213014,TVK,Kulanthai Rani A,73737,AIADMK,Senthilnathan Pr,58656,15081,7.08
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,187,Manamadurai,GEN,Sivaganga,207797,TVK,Elangovan.D,69971,DMK,Tamilarasi.A,68763,1208,0.58
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,188,Melur,GEN,Madurai,190172,INC,P.Viswanathan,60080,TVK,A.Maduraiveeran,57356,2724,1.43
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,189,Madurai East,GEN,Madurai,270389,TVK,Karthikeyan S,118777,DMK,Moorthy P,102230,16547,6.12
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,190,Sholavandan,GEN,Madurai,188509,TVK,Karuppaiah.M.V,63907,DMK,Venkatesan.A,61229,2678,1.42
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,191,Madurai North,GEN,Madurai,161048,TVK,A.Kallanai,72853,DMK,G.Thalapathi,54815,18038,11.2
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,192,Madurai South,GEN,Madurai,140891,TVK,M.M.Gopison,62415,DMK,M.Boominathan,40886,21529,15.28
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,193,Madurai Central,GEN,Madurai,147930,TVK,Madhar Badhurudeen,63414,DMK,Palanivel Thiaga Rajan,44286,19128,12.93
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,194,Madurai West,GEN,Madurai,215510,TVK,Thangapandi Sr,88250,DMK,Balaji R,76319,11931,5.54
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,195,Thirupparankundram,GEN,Madurai,254318,TVK,Nirmalkumar. R,114316,DMK,Kiruthiga Thangapandi,72763,41553,16.34
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,196,Thirumangalam,GEN,Madurai,230047,DMK,Manimaran.M,88291,AIADMK,Udhayakumar.R.B,64484,23807,10.35
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,197,Usilampatti,GEN,Madurai,223356,TVK,Vijay. M,65743,AIADMK,Mahendran. I,63938,1805,0.81
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,198,Andipatti,GEN,Theni  *,216301,DMK,Maharajan.A,74324,TVK,Pandi.V,64770,9554,4.42
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,199,Periyakulam,GEN,Theni  *,209703,TVK,Sabari Iyngaran G,85656,VCK,Sakthivel P,66335,19321,9.21
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,200,Bodinayakkanur,GEN,Theni  *,219697,DMK,Panneerselvam.O,85206,TVK,Prakash.S,78401,6805,3.1
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,201,Cumbum,GEN,Theni  *,209907,TVK,Jeganathmishra Pla,85394,DMK,Eramakrishnan N,84643,751,0.36
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,202,Rajapalayam,GEN,Virudhunagar,182267,TVK,Jegadeshwari. K,65548,DMK,Thangapandian. S,54943,10605,5.82
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,203,Srivilliputhur,GEN,Virudhunagar,192598,TVK,Karthik.A,65653,CPI,Mahalingam.P,57072,8581,4.46
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,204,Sattur,GEN,Virudhunagar,198258,DMK,Kadarkarairaj. A,62060,BJP,Nainar Nagenthran,56071,5989,3.02
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,205,Sivakasi,GEN,Virudhunagar,192569,TVK,Keerthana S,68709,INC,Ashokan G,57039,11670,6.06
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,206,Virudhunagar,GEN,Virudhunagar,166878,TVK,Selvam P,63653,DMDK,Vijayaprabhakar,54262,9391,5.63
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,207,Aruppukkottai,GEN,Virudhunagar,177721,DMK,Ramachandran. K.K.S.S.R,65104,TVK,Karthik Kumar. K,60161,4943,2.78
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,208,Tiruchuli,GEN,Virudhunagar,180825,DMK,Thangam Thenarasu,75085,TVK,Samayan.S,61600,13485,7.46
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,209,Paramakudi,GEN,Ramanathapuram,189043,DMK,Advocate. Kathiravan. K.K,59161,TVK,Gopirajan. G,55613,3548,1.88
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,210,Tiruvadanai,GEN,Ramanathapuram,219924,TVK,Rajeev,69551,INC,Rm. Karumanickam,67038,2513,1.14
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,211,Ramanathapuram,GEN,Ramanathapuram,236623,DMK,Katharbatcha Muthuramalingam,89137,TVK,Shahul Hameed,76678,12459,5.27
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,212,Mudhukulathur,GEN,Ramanathapuram,230944,DMK,R.S.Rajakannappan,68003,TVK,Malarvizhi. B,51405,16598,7.19
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,213,Vilathikulam,GEN,Thoothukkudi,174172,DMK,Markandayan G V,58395,TVK,P. Kasiram,50167,8228,4.72
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,214,Thoothukkudi,GEN,Thoothukkudi,203859,TVK,Srinath,100536,DMK,P. Geetha Jeevan,62805,37731,18.51
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,215,Tiruchendur,GEN,Thoothukkudi,185328,DMK,Anitha R. Radhakrishnan,72723,TVK,J. Murugan,66851,5872,3.17
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,216,Srivaikuntam,GEN,Thoothukkudi,175842,TVK,Saravanan. G,58814,AIADMK,Shanmuganathan. S. P,57628,1186,0.67
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,217,Ottapidaram,GEN,Thoothukkudi,195238,TVK,P .Mathanraja,81625,DMK,P.M.Ramajeyam,52542,29083,14.9
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,218,Kovilpatti,GEN,Thoothukkudi,193639,DMK,Karunanithi.K,61643,TVK,Balasubramanian.S,60800,843,0.44
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,219,Sankarankovil,GEN,Tirunelveli,195920,AIADMK,Dr. Dhilipan Jaishankar,64865,TVK,C. Ramarajan,58376,6489,3.31
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,220,Vasudevanallur,GEN,Tirunelveli,189158,DMK,E. Raja,63045,BJP,Ananthan Ayyasamy,56462,6583,3.48
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,221,Kadayanallur,GEN,Tirunelveli,221424,DMK,Rajendran. T. M,79832,AIADMK,C. Krishnamurali,73579,6253,2.82
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,222,Tenkasi,GEN,Tirunelveli,234314,DMK,Dr.Kalai Kathiravan,79699,AIADMK,S.Selva Mohandas Pandian,69400,10299,4.4
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,223,Alangulam,GEN,Tirunelveli,219875,DMK,Paul Manoj Pandian,69170,AIADMK,K R P Prabakaran,61372,7798,3.55
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,224,Tirunelveli,GEN,Tirunelveli,217708,TVK,Murughan.R.S,75840,DMK,Subramanian.S,64426,11414,5.24
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,225,Ambasamudram,GEN,Tirunelveli,190135,AIADMK,Dr.Esakki Subaya,65589,INC,V.P.Durai,55344,10245,5.39
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,226,Palayamkottai,GEN,Tirunelveli,179769,DMK,M.Abdul Wahab,79744,TVK,Maria John,65939,13805,7.68
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,227,Nanguneri,GEN,Tirunelveli,208698,TVK,Reddiarpatti V. Narayanan,74952,INC,Ruby.R.Manoharan,58533,16419,7.87
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,228,Radhapuram,GEN,Tirunelveli,199462,TVK,Dr.Sathish Christopher,69947,DMK,Appavu.M,57634,12313,6.17
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,229,Kanniyakumari,GEN,Kanniyakumari,238325,AIADMK,Thalavai Sundaram. N,75045,DMK,Mahesh.R,74831,214,0.09
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,230,Nagercoil,GEN,Kanniyakumari,195833,DMK,Austin,69880,TVK,Bervin Kings G,62310,7570,3.87
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,231,Kollachal,GEN,Kanniyakumari,198432,INC,Tharahai Cuthbert,66207,TVK,Prem Alex Lawrence,63374,2833,1.43
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,232,Padmanabhapuram,GEN,Kanniyakumari,179940,CPI(M),Chellaswamy. R,68938,TVK,Krishna Kumar. S,53369,15569,8.65
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,233,Vilavancode,GEN,Kanniyakumari,174099,INC,Praveen T.T,70755,TVK,Michael Kumar K,49785,20970,12.04
+ae-tamil-nadu-2026,AE,Tamil Nadu,2026,2026,official,234,Killiyoor,GEN,Kanniyakumari,177032,INC,Rajesh Kumar. S,66434,TVK,Sabin. S,65123,1311,0.74

@@ -1,0 +1,127 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-assam-2011,AE,Assam,2011,2011,official,1,Ratabari,GEN,Karimganj,82973,INC,Kripanath Mallah,33043,BJP,Nikhil Suklabaidya,20614,12429,14.98
+ae-assam-2011,AE,Assam,2011,2011,official,2,Patharkandi,GEN,Karimganj,106456,INC,Monilal Gowala,44986,AIUDF,Kartik Sena Sinha,41762,3224,3.03
+ae-assam-2011,AE,Assam,2011,2011,official,3,Karimganj North,GEN,Karimganj,108415,INC,Kamalakhya Dey,45027,BJP,Mission Ranjan Das,27257,17770,16.39
+ae-assam-2011,AE,Assam,2011,2011,official,4,Karimganj South,GEN,Karimganj,104544,INC,Siddeque Ahmed,45395,AITC,Ekbal Hussain,22282,23113,22.11
+ae-assam-2011,AE,Assam,2011,2011,official,5,Badarpur,GEN,Karimganj,91604,INC,Jamal Uddin Ahmed,35869,AIUDF,Helal Uddin Choudhury,28487,7382,8.06
+ae-assam-2011,AE,Assam,2011,2011,official,6,Hailakandi,GEN,Hailakandi,87250,INC,Abdul Muhib Mazumder,33038,BJP,Subrata Kumar Nath,28045,4993,5.72
+ae-assam-2011,AE,Assam,2011,2011,official,7,Katlicherra,GEN,Hailakandi,108910,INC,Gautam Roy,65435,AIUDF,Jyotish Chandra Dey,33468,31967,29.35
+ae-assam-2011,AE,Assam,2011,2011,official,8,Algapur,GEN,Hailakandi,106315,AGP,Sahidul Alam Choudhury,57167,INC,Rahul Roy,42126,15041,14.15
+ae-assam-2011,AE,Assam,2011,2011,official,9,Silchar,GEN,Cachar,121141,INC,Sushmita Dev,60978,BJP,Rajdeep Roy,45127,15851,13.08
+ae-assam-2011,AE,Assam,2011,2011,official,10,Sonai,GEN,Cachar,103016,INC,Anamul Haque,63611,BJP,Audesh Kumar Singh,21583,42028,40.8
+ae-assam-2011,AE,Assam,2011,2011,official,11,Dholai,GEN,Cachar,102881,INC,Girindra Mallik,52734,BJP,Parimal Suklabaidya,38364,14370,13.97
+ae-assam-2011,AE,Assam,2011,2011,official,12,Udharband,GEN,Cachar,92414,INC,Ajit Singh,56755,BJP,Surendra Prasad Sinha,12320,44435,48.08
+ae-assam-2011,AE,Assam,2011,2011,official,13,Lakhipur,GEN,Cachar,94666,INC,Dinesh Prasad Goala,51975,BJP,Reena Singh,21897,30078,31.77
+ae-assam-2011,AE,Assam,2011,2011,official,14,Barkhola,GEN,Cachar,88447,INC,Rumi Nath,44824,IND,Misbahul Islam Laskar,34189,10635,12.02
+ae-assam-2011,AE,Assam,2011,2011,official,15,Katigora,GEN,Cachar,102529,AIUDF,Ataur Rahman,33226,INC,Anwarul Haque,27084,6142,5.99
+ae-assam-2011,AE,Assam,2011,2011,official,16,Haflong,GEN,North Cachar Hills,66757,INC,Gobinda Ch. Langthasa,38076,BJP,Kulendra Daulagupu,12588,25488,38.18
+ae-assam-2011,AE,Assam,2011,2011,official,17,Bokajan,GEN,Karbi Anglong,98752,INC,Klengdoon Engti,53332,IND,Jagat Sing Engti,36524,16808,17.02
+ae-assam-2011,AE,Assam,2011,2011,official,18,Howraghat,GEN,Karbi Anglong,85057,INC,Khorsing Engti,43014,IND,Chomang Kro,33279,9735,11.45
+ae-assam-2011,AE,Assam,2011,2011,official,19,Diphu,GEN,Karbi Anglong,117481,INC,Bidya Sing Engleng,54022,IND,George Millick,41551,12471,10.62
+ae-assam-2011,AE,Assam,2011,2011,official,20,Baithalangso,GEN,Karbi Anglong,129434,INC,Mansing Rongpi,64059,IND,Jotson Bey,54721,9338,7.21
+ae-assam-2011,AE,Assam,2011,2011,official,21,Mankachar,GEN,Dhubri,140946,IND,Zabed Islam,64639,INC,Dr. Motiur Rohman,53852,10787,7.65
+ae-assam-2011,AE,Assam,2011,2011,official,22,Salmara South,GEN,Dhubri,123146,AIUDF,Abdur Rahman Ajmal,62254,INC,Wazed Ali Choudhury,58498,3756,3.05
+ae-assam-2011,AE,Assam,2011,2011,official,23,Dhubri,GEN,Dhubri,125141,AIUDF,Jahan Uddin,53937,INC,Nazibul Umar,46455,7482,5.98
+ae-assam-2011,AE,Assam,2011,2011,official,24,Gauripur,GEN,Dhubri,133189,BOPF,Banendra Kumar,53849,AIUDF,Nizanur Rahman,37190,16659,12.51
+ae-assam-2011,AE,Assam,2011,2011,official,25,Golakganj,GEN,Dhubri,134968,INC,Abu Taher Bepari,59320,BJP,Aswini Roy Sarkar,55312,4008,2.97
+ae-assam-2011,AE,Assam,2011,2011,official,26,Bilasipara West,GEN,Dhubri,111908,AIUDF,Hafiz Bashir Ahmed,40501,INC,Ali Akbar Miah,36717,3784,3.38
+ae-assam-2011,AE,Assam,2011,2011,official,27,Bilasipara East,GEN,Dhubri,135029,AIUDF,Gul Akhtara Begum,49519,AGP,Prasanta Kumar Barua,25094,24425,18.09
+ae-assam-2011,AE,Assam,2011,2011,official,28,Gossaigaon,GEN,Kokrajhar,131325,BOPF,Majendra Narzary,47543,AIUDF,Khairul Alam Miah,26598,20945,15.95
+ae-assam-2011,AE,Assam,2011,2011,official,29,Kokrajhar West,GEN,Kokrajhar,119560,BOPF,Pradip Kumar Brahma,68838,IND,Urkhao Gwra Brahma,37335,31503,26.35
+ae-assam-2011,AE,Assam,2011,2011,official,30,Kokrajhar East,GEN,Kokrajhar,112910,BOPF,Pramila Rani Brahma,74670,IND,Kishore Basumatary,28766,45904,40.66
+ae-assam-2011,AE,Assam,2011,2011,official,31,Sidli,GEN,Kokrajhar,124862,BOPF,Chandan Brahma,68127,IND,Maoti Brahma Hazowary,31246,36881,29.54
+ae-assam-2011,AE,Assam,2011,2011,official,32,Bongaigaon,GEN,Bongaigaon,112482,AGP,Phani Bhusan Choudhury,45871,INC,Prabhat Baisnab,33474,12397,11.02
+ae-assam-2011,AE,Assam,2011,2011,official,33,Bijni,GEN,Kokrajhar,95303,BOPF,Kamalshing Narzary,39861,INC,Khalilur Rahman,26536,13325,13.98
+ae-assam-2011,AE,Assam,2011,2011,official,34,Abhayapuri North,GEN,Bongaigaon,104933,AGP,Bhupen Roy,38111,INC,Abdul Hai Nagori,36574,1537,1.46
+ae-assam-2011,AE,Assam,2011,2011,official,35,Abhayapuri South,GEN,Bongaigaon,121959,INC,Chandan Kumar Sarkar,51510,AIUDF,Bijay Das,35621,15889,13.03
+ae-assam-2011,AE,Assam,2011,2011,official,36,Dudhnai,GEN,Goalpara,125609,INC,Sib Charan Basumatary,46890,AGP,Diganta Kumar Rava,40873,6017,4.79
+ae-assam-2011,AE,Assam,2011,2011,official,37,Goalpara East,GEN,Goalpara,135692,AIUDF,Monowar Hussain,36353,AGP,Jyotish Das,34511,1842,1.36
+ae-assam-2011,AE,Assam,2011,2011,official,38,Goalpara West,GEN,Goalpara,110603,AIUDF,Sheikh Shah Alam,37800,AGP,Purandar Rabha,26862,10938,9.89
+ae-assam-2011,AE,Assam,2011,2011,official,39,Jaleswar,GEN,Goalpara,103740,AIUDF,Moin Uddin Ahmed,52643,INC,Aftab Uddin Mollah,35847,16796,16.19
+ae-assam-2011,AE,Assam,2011,2011,official,40,Sorbhog,GEN,Barpeta,130272,BJP,Ranjeet Kumar Dass,40716,AIUDF,A. Salim,21534,19182,14.72
+ae-assam-2011,AE,Assam,2011,2011,official,41,Bhabanipur,GEN,Barpeta,92189,AIUDF,Abul Kalam Azad,24756,IND,Phanidhar Talukdar,19714,5042,5.47
+ae-assam-2011,AE,Assam,2011,2011,official,42,Patacharkuchi,GEN,Barpeta,88195,BJP,Manoranjan Das,30829,AGP,Pabindra Deka,26248,4581,5.19
+ae-assam-2011,AE,Assam,2011,2011,official,43,Barpeta,GEN,Barpeta,131164,AIUDF,Abdur Rahim Khan,56915,AGP,Gunindra Nath Das,44606,12309,9.38
+ae-assam-2011,AE,Assam,2011,2011,official,44,Jania,GEN,Barpeta,114831,AIUDF,Rafiqul Islam,59978,INC,Abdul Khaleque,42464,17514,15.25
+ae-assam-2011,AE,Assam,2011,2011,official,45,Baghbar,GEN,Barpeta,93526,AIUDF,Sherman Ali Ahmed,60434,INC,Rajib Ahmed,28313,32121,34.34
+ae-assam-2011,AE,Assam,2011,2011,official,46,Sarukhetri,GEN,Barpeta,120885,AIUDF,Ali Hossain,51537,INC,Tara Prasad Das,23915,27622,22.85
+ae-assam-2011,AE,Assam,2011,2011,official,47,Chenga,GEN,Barpeta,87689,INC,Sukur Ali Ahmed,36886,AGP,Liakat Ali Khan,24404,12482,14.23
+ae-assam-2011,AE,Assam,2011,2011,official,48,Boko,GEN,Kamrup,141195,AIUDF,Gopi Nath Das,54388,INC,Jayanta Das,43697,10691,7.57
+ae-assam-2011,AE,Assam,2011,2011,official,49,Chaygaon,GEN,Kamrup,118206,INC,Rekibuddin Ahmed,64307,AGP,Dr. Kamala Kalita,48714,15593,13.19
+ae-assam-2011,AE,Assam,2011,2011,official,50,Palasbari,GEN,Kamrup,105872,IND,Jatin Mali,36718,INC,Pranab Kalita,19993,16725,15.8
+ae-assam-2011,AE,Assam,2011,2011,official,51,Jalukbari,GEN,Kamrup,130132,INC,Himanta Biswa Sarma,93812,BJP,Prodyut Kumar Bora,16409,77403,59.48
+ae-assam-2011,AE,Assam,2011,2011,official,52,Dispur,GEN,Kamrup,200316,INC,Akon Bora,83096,AGP,Atul Bora,74849,8247,4.12
+ae-assam-2011,AE,Assam,2011,2011,official,53,Gauhati East,GEN,Kamrup,127475,INC,Capt. Robin Bordoloi,47727,BJP,Siddhartha,43730,3997,3.14
+ae-assam-2011,AE,Assam,2011,2011,official,54,Gauhati West,GEN,Kamrup,157498,INC,Hementa Talukdar,54343,BJP,Manoj Ram Phookan,43017,11326,7.19
+ae-assam-2011,AE,Assam,2011,2011,official,55,Hajo,GEN,Kamrup,108312,AITC,Dwipen Pathak,33331,INC,Kirip Chaliha,27731,5600,5.17
+ae-assam-2011,AE,Assam,2011,2011,official,56,Kamalpur,GEN,Kamrup,107958,BJP,Jadab Chandra Deka,40288,INC,Uttara Kalita,28141,12147,11.25
+ae-assam-2011,AE,Assam,2011,2011,official,57,Rangiya,GEN,Kamrup,117191,INC,Ghanashyam Kalita,34119,AGP,Thaneswar Boro,24045,10074,8.6
+ae-assam-2011,AE,Assam,2011,2011,official,58,Tamulpur,GEN,Nalbari,121637,BOPF,Emmanuel Mosahary,44017,INC,Chandi Basumatary,39409,4608,3.79
+ae-assam-2011,AE,Assam,2011,2011,official,59,Nalbari,GEN,Nalbari,117569,INC,Jayanta Malla Baruah,39896,AGP,Alaka Sarma,31673,8223,6.99
+ae-assam-2011,AE,Assam,2011,2011,official,60,Barkhetry,GEN,Nalbari,118481,INC,Bhumidhar Barman,53958,AGP,Pulakesh Barua,47612,6346,5.36
+ae-assam-2011,AE,Assam,2011,2011,official,61,Dharmapur,GEN,Nalbari,98920,INC,Nilamani Sen Deka,50786,AGP,Chandra Mohan,45455,5331,5.39
+ae-assam-2011,AE,Assam,2011,2011,official,62,Barama,GEN,Nalbari,103008,BOPF,Maneswar Brahma,42692,AGP,Rekha Rani Dasboro,24373,18319,17.78
+ae-assam-2011,AE,Assam,2011,2011,official,63,Chapaguri,GEN,Barpeta,100578,BOPF,Hitesh Basumatary,70981,AGP,Tijen Basumatary,19059,51922,51.62
+ae-assam-2011,AE,Assam,2011,2011,official,64,Panery,GEN,Darrang,92365,BOPF,Kamali Basumatari,38202,INC,Santiuse Kujur,37646,556,0.6
+ae-assam-2011,AE,Assam,2011,2011,official,65,Kalaigaon,GEN,Darrang,113845,AGP,Mukunda Ram Choudhury,42550,BOPF,Maheswar Baro,39742,2808,2.47
+ae-assam-2011,AE,Assam,2011,2011,official,66,Sipajhar,GEN,Darrang,113299,INC,Binanda Kumar Saikia,51927,IND,Dr. Zoii Nath Sarmah,43181,8746,7.72
+ae-assam-2011,AE,Assam,2011,2011,official,67,Mangaldoi,GEN,Darrang,144279,INC,Basanta Das,65440,AIUDF,Mahendra Das,41717,23723,16.44
+ae-assam-2011,AE,Assam,2011,2011,official,68,Dalgaon,GEN,Darrang,140547,INC,Ilias Ali,62280,AIUDF,Mazibur Rahman,58616,3664,2.61
+ae-assam-2011,AE,Assam,2011,2011,official,69,Udalaguri,GEN,Darrang,94334,BOPF,Rihon Daimari,40970,IND,Bhramon Baglari,24776,16194,17.17
+ae-assam-2011,AE,Assam,2011,2011,official,70,Majbat,GEN,Darrang,91004,BOPF,Rakheswar Brahma,25268,INC,Jitu Kissan,23642,1626,1.79
+ae-assam-2011,AE,Assam,2011,2011,official,71,Dhekiajuli,GEN,Sonitpur,119651,INC,Habul Chakraborty,45799,AGP,Apurba Kumar,25352,20447,17.09
+ae-assam-2011,AE,Assam,2011,2011,official,72,Barchalla,GEN,Sonitpur,98098,INC,Tanka Bahadur Rai,47270,AGP,Ratul Kumar Nath,29696,17574,17.91
+ae-assam-2011,AE,Assam,2011,2011,official,73,Tezpur,GEN,Sonitpur,105991,INC,Rajen Borthakur,43738,AGP,Brindaban Goswami,22156,21582,20.36
+ae-assam-2011,AE,Assam,2011,2011,official,74,Rangapara,GEN,Sonitpur,100105,INC,Bhimananda Tanti,40364,BJP,Niranjan Nath,16838,23526,23.5
+ae-assam-2011,AE,Assam,2011,2011,official,75,Sootea,GEN,Sonitpur,109202,AGP,Padma Hazarika,45155,CPI(M),Khemraj Chetri,32362,12793,11.71
+ae-assam-2011,AE,Assam,2011,2011,official,76,Biswanath,GEN,Sonitpur,105711,AGP,Prabin Hazarika,48104,INC,Nurjamal Sarkar,46605,1499,1.42
+ae-assam-2011,AE,Assam,2011,2011,official,77,Behali,GEN,Sonitpur,80881,INC,Pallab Lochan Das,40798,BJP,Ranjit Dutta,22662,18136,22.42
+ae-assam-2011,AE,Assam,2011,2011,official,78,Gohpur,GEN,Sonitpur,129499,INC,Monika Bora,60441,IND,Utpal Borah,24217,36224,27.97
+ae-assam-2011,AE,Assam,2011,2011,official,79,Jagiroad,GEN,Marigaon,140958,INC,Bibekananda Dalai,67659,AGP,Bubul Das,33211,34448,24.44
+ae-assam-2011,AE,Assam,2011,2011,official,80,Marigaon,GEN,Marigaon,116228,INC,Jonjonali Baruah,55811,AGP,Bireswar Medhi,28090,27721,23.85
+ae-assam-2011,AE,Assam,2011,2011,official,81,Laharighat,GEN,Marigaon,108063,INC,Dr. Nazrul Islam,53550,AIUDF,Farook Rahman Khan,40927,12623,11.68
+ae-assam-2011,AE,Assam,2011,2011,official,82,Raha,GEN,Nagaon,129705,INC,Pijush Hazarika,56430,AIUDF,Guneswar Das,38447,17983,13.86
+ae-assam-2011,AE,Assam,2011,2011,official,83,Dhing,GEN,Nagaon,131934,AIUDF,Aminul Islam,72457,INC,Dr. Idris Ali,53285,19172,14.53
+ae-assam-2011,AE,Assam,2011,2011,official,84,Batadroba,GEN,Nagaon,102586,INC,Gautam Bora,40950,AIUDF,Matiur Rahman,40819,131,0.13
+ae-assam-2011,AE,Assam,2011,2011,official,85,Rupohihat,GEN,Nagaon,119739,AIUDF,Mazibur Rahman,44441,INC,Salma Jesmin,44208,233,0.19
+ae-assam-2011,AE,Assam,2011,2011,official,86,Nowgong,GEN,Nagaon,113841,INC,Dr. Durlav Chandra,47977,AGP,Girindra Kumar Baruah,39957,8020,7.04
+ae-assam-2011,AE,Assam,2011,2011,official,87,Barhampur,GEN,Nagaon,108024,AGP,Prafulla Kumar Mahanta,55889,INC,Suresh Borah,39933,15956,14.77
+ae-assam-2011,AE,Assam,2011,2011,official,88,Samaguri,GEN,Nagaon,107383,INC,Rockybul Hussain,61332,AGP,Prafulla Kumar Mahanta,41472,19860,18.49
+ae-assam-2011,AE,Assam,2011,2011,official,89,Kaliabor,GEN,Nagaon,90564,AGP,Keshab Mahanta,44886,INC,Tapan Kumar Borah,35857,9029,9.97
+ae-assam-2011,AE,Assam,2011,2011,official,90,Jamunamukh,GEN,Nagaon,122339,AIUDF,Mohammed Sirajuddin,61267,INC,Rejaul Karim Chowdhury,48541,12726,10.4
+ae-assam-2011,AE,Assam,2011,2011,official,91,Hojai,GEN,Nagaon,159124,INC,Dr. Ardhendu Kumar Dey,70649,AIUDF,Dr. Aditya Langthasa,50755,19894,12.5
+ae-assam-2011,AE,Assam,2011,2011,official,92,Lumding,GEN,Nagaon,125904,AIUDF,Swapan Kar,39443,BJP,Sushil Dutta,37612,1831,1.45
+ae-assam-2011,AE,Assam,2011,2011,official,93,Bokakhat,GEN,Golaghat,92692,INC,Arun Phukan,32020,IND,Jiten Gogoi,30291,1729,1.87
+ae-assam-2011,AE,Assam,2011,2011,official,94,Sarupathar,GEN,Golaghat,147706,INC,Aklius Tirkey,74428,AGP,Binod Gowala,42335,32093,21.73
+ae-assam-2011,AE,Assam,2011,2011,official,95,Golaghat,GEN,Golaghat,122757,INC,Ajanta Neog,79648,AGP,Amiyo Kumar Borah,33477,46171,37.61
+ae-assam-2011,AE,Assam,2011,2011,official,96,Khumtai,GEN,Golaghat,86078,INC,Bismita Gogoi,41123,AGP,Upashana Gogoi,22734,18389,21.36
+ae-assam-2011,AE,Assam,2011,2011,official,97,Dergaon,GEN,Jorhat,99373,INC,Aroti Hazarika Kachari,55705,AGP,Sushila Hazarika,34445,21260,21.39
+ae-assam-2011,AE,Assam,2011,2011,official,98,Jorhat,GEN,Jorhat,104931,INC,Rana Goswami,68049,AGP,Hitendra Nath Goswami,30079,37970,36.19
+ae-assam-2011,AE,Assam,2011,2011,official,99,Majuli,GEN,Jorhat,85536,INC,Rajib Lochan Pegu,39655,IND,Padmeswar Doley,23691,15964,18.66
+ae-assam-2011,AE,Assam,2011,2011,official,100,Titabar,GEN,Jorhat,88257,INC,Tarun Gogoi,65418,AGP,Montu Moni Dutta,11219,54199,61.41
+ae-assam-2011,AE,Assam,2011,2011,official,101,Mariani,GEN,Jorhat,76178,INC,Rupjyoti Kurmi,35754,AITC,Alak Kumar Ghose,28696,7058,9.27
+ae-assam-2011,AE,Assam,2011,2011,official,102,Teok,GEN,Jorhat,80270,INC,Membar Gogoi,48117,AGP,Hemanta Kalita,17784,30333,37.79
+ae-assam-2011,AE,Assam,2011,2011,official,103,Amguri,GEN,Sibsagar,83191,INC,Anjan Dutta,39549,AGP,Prodip Hazarika,39263,286,0.34
+ae-assam-2011,AE,Assam,2011,2011,official,104,Nazira,GEN,Sibsagar,82827,INC,Debabrata Saikia,52510,CPI,Drupad Borgohain,18700,33810,40.82
+ae-assam-2011,AE,Assam,2011,2011,official,105,Mahmara,GEN,Sibsagar,85109,INC,Sarat Saikia,40607,AGP,Hiranya Konwar,24873,15734,18.49
+ae-assam-2011,AE,Assam,2011,2011,official,106,Sonari,GEN,Sibsagar,106128,INC,Sarat Borkotoky,56655,BJP,Anup Singh Rajpuruhit,27751,28904,27.24
+ae-assam-2011,AE,Assam,2011,2011,official,107,Thowra,GEN,Sibsagar,71442,INC,Sushanta Borgohain,28560,IND,Kushal Dowari,24274,4286,6.0
+ae-assam-2011,AE,Assam,2011,2011,official,108,Sibsagar,GEN,Sibsagar,95204,INC,Pranab Gogoi,48941,AGP,Pranabjit Chaliha,31691,17250,18.12
+ae-assam-2011,AE,Assam,2011,2011,official,109,Bihpuria,GEN,Lakhimpur,92799,INC,Bhupen Kumar Bora,45920,AGP,Kesharam Bora,33764,12156,13.1
+ae-assam-2011,AE,Assam,2011,2011,official,110,Naoboicha,GEN,Lakhimpur,125425,INC,Sanjay Raj Subba,33946,AIUDF,Mamun Imadadul Haque,27288,6658,5.31
+ae-assam-2011,AE,Assam,2011,2011,official,111,Lakhimpur,GEN,Lakhimpur,110744,AGP,Utpal Dutta,52563,INC,Ghana Buragohain,51464,1099,0.99
+ae-assam-2011,AE,Assam,2011,2011,official,112,Dhakuakhana,GEN,Dhemaji,127145,AGP,Naba Kumar Doley,63963,INC,Bharat Chandra Narah,56456,7507,5.9
+ae-assam-2011,AE,Assam,2011,2011,official,113,Dhemaji,GEN,Dhemaji,139859,INC,Sumitra Doley Patir,59633,AGP,Paramananda Sonowal,52348,7285,5.21
+ae-assam-2011,AE,Assam,2011,2011,official,114,Jonai,GEN,Dhemaji,184028,INC,Pradan Baruah,97326,IND,Bhuban Pegu,77816,19510,10.6
+ae-assam-2011,AE,Assam,2011,2011,official,115,Moran,GEN,Dibrugarh,82459,INC,Jibontara Ghatowar,47143,AGP,Sunil Rajkonwar,17650,29493,35.77
+ae-assam-2011,AE,Assam,2011,2011,official,116,Dibrugarh,GEN,Dibrugarh,84319,BJP,Prasanta Phukan,46506,INC,Kalyan Kumar Gogoi,26897,19609,23.26
+ae-assam-2011,AE,Assam,2011,2011,official,117,Lahowal,GEN,Dibrugarh,84981,INC,Prithibi Majhi,39857,BJP,Ranjit Konwar,20137,19720,23.21
+ae-assam-2011,AE,Assam,2011,2011,official,118,Duliajan,GEN,Dibrugarh,93688,INC,Amiya Gogoi,39511,BJP,Rameswar Teli,36175,3336,3.56
+ae-assam-2011,AE,Assam,2011,2011,official,119,Tingkhong,GEN,Dibrugarh,85450,INC,Atuwa Munda,41839,AGP,Anup Phukan,26315,15524,18.17
+ae-assam-2011,AE,Assam,2011,2011,official,120,Naharkatia,GEN,Dibrugarh,85070,INC,Pranati Phukan,35373,AGP,Naren Sonowal,20976,14397,16.92
+ae-assam-2011,AE,Assam,2011,2011,official,121,Chabua,GEN,Tinsukia,96388,INC,Raju Sahu,38576,BJP,Binod Hazarika,27468,11108,11.52
+ae-assam-2011,AE,Assam,2011,2011,official,122,Tinsukia,GEN,Tinsukia,93399,INC,Rajendra Prasad Singh,41238,BJP,Sanjay Kishan,29265,11973,12.82
+ae-assam-2011,AE,Assam,2011,2011,official,123,Digboi,GEN,Tinsukia,77271,INC,Rameswar Dhanowar,38663,BJP,Suren Phukan,27905,10758,13.92
+ae-assam-2011,AE,Assam,2011,2011,official,124,Margherita,GEN,Tinsukia,110484,INC,Pradyut Bordoloi,57615,BJP,Kamakhya Tasa,41006,16609,15.03
+ae-assam-2011,AE,Assam,2011,2011,official,125,Doom Dooma,GEN,Tinsukia,85691,BJP,Dilip Moran,31709,INC,Rupesh Gowala,27053,4656,5.43
+ae-assam-2011,AE,Assam,2011,2011,official,126,Sadiya,GEN,Tinsukia,103048,INC,Bolin Chetia,46318,AGP,Jagadish Bhuyan,39451,6867,6.66

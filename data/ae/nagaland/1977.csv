@@ -1,0 +1,60 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,1,Dimapur-I,GEN,Dimapur *,6075,INC,Awar Hussain,2421,UDF,Chalie Kevichusa,1939,482,7.93
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,2,Dimapur-Ii,GEN,Dimapur *,7206,INC,I. Vikheshe,3406,UDF,Neisatuo Kiditsu,2814,592,8.22
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,3,Dimapur-Iii,GEN,Dimapur *,4390,INC,Debalal Mech,1807,IND,Satish Langtha,1358,449,10.23
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,4,Ghaspani-I,GEN,Dimapur *,7677,IND,K. Shikhu,2928,UDF,Lhouvisier,2680,248,3.23
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,5,Ghaspani-Ii,GEN,Dimapur *,7261,UDF,Rokonicha,2245,IND,Langkam,2017,228,3.14
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,6,Tenning,GEN,Kohima,6996,INC,N. C. Zeling,2224,UDF,Azu Newmai,2207,17,0.24
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,7,Peren,GEN,Kohima,7364,UDF,L. Lunalang,3524,IND,Imriet Dieing,2004,1520,20.64
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,8,Western Angami,GEN,Kohima,5134,IND,Setu,1926,UDF,Tsolie,1856,70,1.36
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,9,Kohima Town,GEN,Kohima,5966,INC,J. B. Jaskie,3262,UDF,Peiezotuo Atuo,2704,558,9.35
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,10,Northern Angami - I,GEN,Kohima,3879,UDF,Shurhozelie,2446,IND,Neituo,953,1493,38.49
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,11,Northern Angami -Ii,GEN,Kohima,6108,UDF,Chupfuo,2589,IND,P. Sopu Angami,1867,722,11.82
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,12,Tseminyu,GEN,Kohima,5382,UDF,R. S. Rengma,2888,NCN,Riga Thong,2494,394,7.32
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,13,Pughoboto,GEN,Kohima,5544,UDF,Huska,3218,IND,Atovi Sema,2326,892,16.09
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,14,Southern Angami-I,GEN,Kohima,4486,UDF,Vitsonei K. Angami,1885,IND,N. Zao Angami,1140,745,16.61
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,16,Pfutsero,GEN,Phek,4027,UDF,Lhiweshielo,1568,NCN,Vepari,841,727,18.05
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,17,Chizami,GEN,Phek,5485,UDF,Soyie,1831,IND,Yevehu Lohe,1739,92,1.68
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,18,Chazouba,GEN,Phek,6754,UDF,Vamuzo,3233,IND,Zhovepra Rosetso,1854,1379,20.42
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,19,Phek,GEN,Phek,5300,UDF,Vejoyi,2584,IND,Zalhuzu,1651,933,17.6
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,20,Meluri,GEN,Phek,5260,UDF,Chekhutso,1794,IND,P. K. T. Marhutho,1558,236,4.49
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,21,Tuli,GEN,Mokokchung,4485,UDF,T. Tali,2845,INC,I. Merachiba,1496,1349,30.08
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,22,Arkakong,GEN,Mokokchung,5060,UDF,Tsukjemwati,1806,INC,R. C. Chiten Jamir,1150,656,12.96
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,23,Impur,GEN,Mokokchung,5079,UDF,Kariba,1850,IND,T. Chuba,1741,109,2.15
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,24,Angetyongpang,GEN,Mokokchung,4800,UDF,Sentichuba,2783,IND,Limasangwa,2017,766,15.96
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,25,Monguya,GEN,Mokokchung,4169,UDF,T. Imtimeren,2275,IND,Aoshingang,1894,381,9.14
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,26,Aonglenden,GEN,Mokokchung,4274,UDF,S. C. Jamir,2688,NCN,I. Bendang,1586,1102,25.78
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,27,Mokokchung Town,GEN,Mokokchung,1172,UDF,Takuyaba,827,IND,Koramoa Jamir,345,482,41.13
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,28,Koridang,GEN,Mokokchung,4880,UDF,Dalle Namo,2102,IND,Akangtemjan,1808,294,6.02
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,29,Jangpetkong,GEN,Mokokchung,4945,UDF,Imchalemba,2044,IND,Arienba,1735,309,6.25
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,30,Alungtaki,GEN,Mokokchung,3872,UDF,Bendangtoshi,2156,INC,Tiameren,1716,440,11.36
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,31,Akuluto,GEN,Zunheboto,3992,INC,Khehoto,1774,UDF,Hotolu,1296,478,11.97
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,32,Atoizu,GEN,Zunheboto,5412,UDF,Kiyezhe L. Chishi,2993,INC,Khetoho,2419,574,10.61
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,33,Suruhuto,GEN,Zunheboto,6172,INC,Kanito,2584,UDF,Pukhahe,2126,458,7.42
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,34,Aghunato,GEN,Zunheboto,6037,UDF,Kihoto,3509,NCN,Shetovi,1752,1757,29.1
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,35,Zunheboto,GEN,Zunheboto,5327,INC,Ghutoshe,2514,NCN,Tokheho,1633,881,16.54
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,36,Satakha,GEN,Zunheboto,5635,INC,Kaito,2824,UDF,Hokheto Sema,2811,13,0.23
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,37,Tyui,GEN,Wokha,6381,INC,T. A. Ngullie,2304,UDF,Nsemo Ovung,2170,134,2.1
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,38,Wokha,GEN,Wokha,5941,IND,Rainbow Ezung,3199,UDF,Mhao Lotha,2742,457,7.69
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,39,Sanis,GEN,Wokha,6225,UDF,Mhonshan Murry,2434,IND,T. N. Ngullie,2282,152,2.44
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,40,Bhandari,GEN,Wokha,5915,NCN,Tsenlamo Kikon,2951,INC,Mhondamo Kithan,2150,801,13.54
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,41,Tizit,GEN,Mon,4504,UDF,P. K. Along,1632,INC,Mankho,1416,216,4.8
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,42,Wakching,GEN,Mon,6170,INC,Chingwang Konyak,2397,UDF,P. Enyei,2240,157,2.54
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,43,Tapi,GEN,Mon,5147,UDF,Noke,2600,INC,Hoka Konyak,1035,1565,30.41
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,44,Phomching,GEN,Mon,4735,UDF,Pohwang,2170,INC,Wanpen,1732,438,9.25
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,45,Tehok,GEN,Mon,6252,IND,Manlem,1782,UDF,Noklem,1217,565,9.04
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,46,Mon Town,GEN,Mon,5753,IND,L. Metna,2386,INC,Chaying,1245,1141,19.83
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,47,Aboi,GEN,Mon,5122,UDF,A. Longnyiem,2573,NCN,Nyeiwang,1838,735,14.35
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,48,Moka,GEN,Mon,4860,IND,Manwai Awang,2304,UDF,Pangtiang,1605,699,14.38
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,49,Tamlu,GEN,Tuensang,6679,IND,Bangjak Phom,3441,UDF,Ailong Phom,1733,1708,25.57
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,50,Longleng,GEN,Tuensang,8677,UDF,Chenlom,2213,INC,Chirgko,1947,266,3.07
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,51,Noksen,GEN,Tuensang,4136,INC,C. Chongshen,1918,IND,I. L. Chingmak,1336,582,14.07
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,52,Longkhim Chare,GEN,Tuensang,7126,IND,Horangse,2843,UDF,C. Thrinimong,2541,302,4.24
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,53,Tuensang Sadar-I,GEN,Tuensang,4449,INC,H. Sao Chang,1914,UDF,Chiten Sangtam,1549,365,8.2
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,54,Tuensang Sadar-Ii,GEN,Tuensang,4930,INC,Tochi Hanso,1773,IND,M. Yanchu-Chang,1743,30,0.61
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,55,Tobu,GEN,Tuensang,6069,UDF,Nuklo,2947,NCN,Sopen Konyak,2078,869,14.32
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,56,Noklak,GEN,Tuensang,5001,UDF,Thangpong,1652,INC,John,1273,379,7.58
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,57,Thonoknyu,GEN,Tuensang,6277,INC,Pongom,1982,IND,Pottu,1284,698,11.12
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,58,Shamtorr-Chessore,GEN,Tuensang,6623,UDF,K. Zungkum Yimchunger,2863,INC,Yamakam Kicham,2655,208,3.14
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,59,Siyuchong-Sitimi,GEN,Tuensang,6613,UDF,Yopikyu,3236,IND,Kheshito,1944,1292,19.54
+ae-nagaland-1977,AE,Nagaland,1977,1977,official,60,Pungro-Kiphire,GEN,Tuensang,5804,IND,Kichingse,1620,INC,T. Rothrong,1542,78,1.34

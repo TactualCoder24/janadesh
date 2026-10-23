@@ -1,0 +1,33 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,1,Yoksam-Tashiding,GEN,West,8235,SDF,Dawcho Lepcha,5909,INC,Aden Tshering Lepcha,1666,4243,51.52
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,2,Yangthang,GEN,West,7884,SDF,Prem Lall Subba,5770,INC,Depan Hang Limbu,1545,4225,53.59
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,3,Maneybung-Dentam,GEN,West,8685,SDF,Chandra Maya Subba,6252,INC,Laxuman Gurung,1899,4353,50.12
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,4,Gyalshing-Barnyak,GEN,West,7291,SDF,Man Bahadur Dahal,4967,INC,Youa Raj Rai,1557,3410,46.77
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,5,Rinchenpong,GEN,West,8857,SDF,Dawa Norbu Takarpa,6438,INC,Pema Kinzang Bhutia,2145,4293,48.47
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,6,Daramdin,GEN,West,9435,SDF,Tenzi Sherpa,6507,INC,Pem Nuri Sherpa,1807,4700,49.81
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,7,Soreong-Chakung,GEN,West,9770,SDF,Ran Bahadur Subba,6497,INC,Nar Bahadur Bhandari,2378,4119,42.16
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,8,Salghari-Zoom,SC,West,6812,SDF,Madan Cintury,4437,INC,Janga Bir Darnal,2139,2298,33.73
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,9,Barfung,GEN,South,8598,SDF,Sonam Gyatso Bhutia,6049,INC,Lobzang Bhutia,2197,3852,44.8
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,10,Poklok-Kamrang,GEN,South,9146,SDF,Pawan Chamling,7379,INC,Purna Kumari Rai,1423,5956,65.12
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,11,Namchi-Singhithang,GEN,South,6982,SDF,Pawan Chamling,5653,INC,Khush Bdr Rai,1009,4644,66.51
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,12,Melli,GEN,South,9347,SDF,Tulshi Devi Rai,6307,INC,Dil Kri. Chhetri,2454,3853,41.22
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,13,Namthang-Rateypani,GEN,South,9106,SDF,Tilu Gurung,5988,INC,Suk Bdr. Tamang,2777,3211,35.26
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,14,Temi-Namphing,GEN,South,8778,SDF,Bedu Singh Panth,4577,INC,Lalit Sharma,2837,1740,19.82
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,15,Rangang-Yangang,GEN,South,8145,SDF,Chandra Bdr Karki,5558,INC,Avinash Yakha,2361,3197,39.25
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,16,Tumen-Lingi,GEN,East,9084,SDF,Ugen T Gyatso Bhutia,5026,INC,Phuchung Bhutia,3702,1324,14.58
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,17,Khamdong-Singtam,GEN,East,7625,SDF,Am Prasad Sharma,4298,INC,Nar Bahadur Bhandari,3032,1266,16.6
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,18,West Pendam,SC,East,7755,SDF,Neeru Sewa,4151,INC,Jagdish Cintury,3088,1063,13.71
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,19,Rhenock,GEN,East,10445,SDF,Bhim Prasad Dhungel,5611,INC,Kedar Nath Sharma,4168,1443,13.82
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,20,Chujachen,GEN,East,10863,SDF,Puran Kr. Gurung,8077,INC,Harka Raj Gurung,2114,5963,54.89
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,21,Gnathang-Machong,GEN,East,6959,SDF,L.M. Lepcha,4077,SHRP,Chhopel Dzongpo Bhutia,1677,2400,34.49
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,22,Namcheybung,GEN,East,9274,SDF,Bek Bdr. Rai,5877,INC,Em Prasad Sharma,2954,2923,31.52
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,23,Shyari,GEN,East,7971,SDF,Karma Tempo Namgyal,5034,INC,Kunga Nima Lepcha,2753,2281,28.62
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,24,Martam-Rumtek,GEN,East,9981,SDF,Menlom Lepcha,6392,INC,Rinzing Namgyal,3027,3365,33.71
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,25,Upper Tadong,GEN,East,5621,SDF,Dil Bahadur Thapa,3148,INC,Arun Kr Basnet,2105,1043,18.56
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,26,Arithang,GEN,East,5447,SDF,Narendra Kr. Pradhan,3320,INC,Bharat Basnett,1865,1455,26.71
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,27,Gangtok,GEN,East,5731,SDF,Dorjee Namgyal Bhutia,3506,INC,Tshering Gyatso Kaleon,1928,1578,27.53
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,28,Upper Burtuk,GEN,East,7514,SDF,Prem Singh Tamang,5908,INC,Arun Kumar Rai,1345,4563,60.73
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,29,Kabi Lungchuk,GEN,North,7482,SDF,Thenlay Tshering Bhutia,4823,INC,Ugen Nedup Bhutia,2659,2164,28.92
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,30,Djongu,GEN,North,5947,SDF,Sonam Gyatso Lepcha,4756,INC,Norden Tshering Lepcha,819,3937,66.2
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,31,Lachen Mangan,GEN,North,5101,SDF,Tshering Wangdi Lepcha,2719,INC,Anil Lachenpa,1940,779,15.27
+ae-sikkim-2009,AE,Sikkim,2009,2009,official,32,Sangha,GEN,,1980,SDF,Phetook Tsh. Bhutia,980,INC,Tshering Lama,925,55,2.78

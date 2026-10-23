@@ -1,0 +1,33 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,1,Yoksam-Tashiding,GEN,West,8928,SDF,Sonam Dadul Bhutia,6101,SKM,Thutop Bhutia,2303,3798,42.54
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,2,Yangthang,GEN,West,8548,SDF,Chandra Maya Limboo (Subba),4830,SKM,Kharka Bahadur Subba,3282,1548,18.11
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,3,Maneybong-Dentam,GEN,West,9415,SDF,Narendra Kumar Subba,6820,SKM,Birbal Tamling,2220,4600,48.86
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,4,Gyalshing-Barnyak,GEN,West,7904,SDF,Sher Bahadur Subedi,4020,SKM,Lok Nath Sharma,3453,567,7.17
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,5,Rinchenpong,GEN,West,9603,SDF,Karma Sonam Lepcha,6565,SKM,Pema Kinzang Bhutia,2583,3982,41.47
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,6,Daramdin,GEN,West,10229,SDF,Danorbu Sherpa,5615,SKM,Mingma Narbu Sherpa,4173,1442,14.1
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,7,Soreng-Chakung,GEN,West,10592,SDF,Ram Bahadur Subba,5868,SKM,Bharati Sharma,4152,1716,16.2
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,8,Salghari-Zoom,SC,West,7385,SDF,Arjun Kumar Ghatani,3887,SKM,Bhanu Pratap Rasaily,3174,713,9.65
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,9,Barfung,GEN,South,9322,SDF,Dorjee Dazom Bhutia,5947,SKM,Pema Wangyal Bhutia,3099,2848,30.55
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,10,Poklok-Kamrang,GEN,South,9916,SDF,Kedar Nath Rai,6827,SKM,Bhoj Raj Rai,2839,3988,40.22
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,11,Namchi-Singhithang,GEN,South,7571,SDF,Pawan Kumar Chamling,4170,SKM,Milan Rai,3223,947,12.51
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,12,Melli,GEN,South,10134,SDF,Tulshi Devi Rai,6822,SKM,Prem Bahadur Karki,3035,3787,37.37
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,13,Namthang-Rateypani,GEN,South,9872,SDF,Tilu Gurung,5315,SKM,Prem Singh Tamang,4282,1033,10.46
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,14,Temi-Namphing,GEN,South,9517,SDF,Garjaman Gurung,5271,SKM,Lalit Sharma,3976,1295,13.61
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,15,Rangang-Yangang,GEN,South,8830,SDF,Pawan Kumar Chamling,5637,SKM,Bikash Basnet,2845,2792,31.62
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,16,Tumin-Lingee,GEN,East,9850,SDF,Ugyen Tshering Gyatso Bhutia,6132,SKM,Nidup Tshering Lepcha,3410,2722,27.63
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,17,Khamdong-Singtam,GEN,East,8267,SDF,Somnath Poudyal,4062,SKM,Dr. Mani Kumar Sharma,3828,234,2.83
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,18,West Pendam,SC,East,8408,SKM,Gopal Baraily,4410,SDF,K. K. Thatal,3657,753,8.96
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,19,Rhenock,GEN,East,11324,SKM,Hemendra Adhikari,5668,SDF,Bhim Prasad Dhungel,4824,844,7.45
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,20,Chujachen,GEN,East,11777,SDF,Bikram Pradhan,7182,SKM,Kharga Bahadur Gurung,4056,3126,26.54
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,21,Gnathang-Machong,GEN,East,7545,SDF,Dorjee Tshering Lepcha,4392,SKM,Sonam Dorjee,2715,1677,22.23
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,22,Namchaybong,GEN,East,10053,SDF,Bek Bahadur Rai,5099,SKM,Dilip Rai,4531,568,5.65
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,23,Shyari,GEN,East,8642,SKM,Kunga Nima Lepcha,4514,SDF,Karma Tempo Namgyal Gyaltsen,3890,624,7.22
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,24,Martam-Rumtek,GEN,East,10822,SKM,Mechung Bhutia,5436,SDF,Menlom Lepcha,5006,430,3.97
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,25,Upper Tadong,GEN,East,6094,SKM,Timothy William Basnett,2962,SDF,Bhasker Basnett,2854,108,1.77
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,26,Arithang,GEN,East,5904,SKM,Shyam Pradhan,3420,SDF,Udai Lama,2056,1364,23.1
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,27,Gangtok,GEN,East,6212,SKM,Pintso Chopel,3807,SDF,Hishey Lachungpa,2096,1711,27.54
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,28,Upper Burtuk,GEN,East,8145,SKM,Prem Singh Tamang,4132,SDF,D. R. Thapa,3683,449,5.51
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,29,Kabi-Lungchok,GEN,North,8112,SKM,Ugen Nedup Bhutia,3989,SDF,Thenlay Tshering Bhutia,3881,108,1.33
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,30,Djongu,GEN,North,6447,SDF,Sonam Gyatso Lepcha,4105,SKM,Dawa Tshering Lepcha,2171,1934,30.0
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,31,Lachen-Mangan,GEN,North,5530,SDF,Tshering Wangdi Lepcha,2955,SKM,Samdup Lepcha,2429,526,9.51
+ae-sikkim-2014,AE,Sikkim,2014,2014,official_winners_only,32,Sangha,GEN,,2145,SKM,Sonam Lama,1070,SDF,Palden Lachungpa,949,121,5.64

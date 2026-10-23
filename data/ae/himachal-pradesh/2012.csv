@@ -1,0 +1,69 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,1,Churah,SC,Chamba,48544,BJP,Hans Raj,24978,INC,Surinder Bhardwaj,22767,2211,4.55
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,2,Bharmour,ST,Chamba,48199,INC,Thakur Singh Bharmouri M,24751,BJP,Jia Lal,21284,3467,7.19
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,3,Chamba,GEN,Chamba,51022,BJP,B. K. Chauhan,19714,INC,Pawan Nayyar,17780,1934,3.79
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,4,Dalhousie,GEN,Chamba,46123,INC,Asha Kumari,25541,BJP,Renu,18176,7365,15.97
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,5,Bhattiyat,GEN,Chamba,47946,BJP,Bikram Singh Jaryal,18098,INC,Kuldeep Singh Pathania,17987,111,0.23
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,6,Nurpur,GEN,Kangra,57277,INC,Ajay Mahajan,26546,IND,Rakesh Pathania,23179,3367,5.88
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,7,Indora,SC,Kangra,53431,IND,Manohar Dhiman,21424,INC,Kamal Kishor,14055,7369,13.79
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,8,Fatehpur,GEN,Kangra,50898,INC,Sujan Singh Pathania,18662,BJP,Baldev Thakur,11445,7217,14.18
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,9,Jawali,GEN,Kangra,57257,INC,Neeraj Bharti,23798,BJP,Arjan Singh,19364,4434,7.74
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,10,Dehra,GEN,Kangra,47022,BJP,Ravinder Singh,24463,IND,Yog Raj,9170,15293,32.52
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,11,Jaswan-Pragpur,GEN,Kangra,46909,BJP,Bikram Singh,22000,INC,Nikhil Rajour,15907,6093,12.99
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,12,Jawalamukhi,GEN,Kangra,46830,INC,Sanjay Rattan,24929,BJP,Ramesh Chand,20904,4025,8.59
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,13,Jaisinghpur,SC,Kangra,45274,INC,Yadvinder Goma,22233,BJP,Atma Ram,12498,9735,21.5
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,14,Sullah,GEN,Kangra,62507,INC,Jagjiwan Paul,32105,BJP,Vipin Singh Parmar,27677,4428,7.08
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,15,Nagrota,GEN,Kangra,55257,INC,G.S. Bali,23626,IND,Arun Kumar,20883,2743,4.96
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,16,Kangra,GEN,Kangra,50457,IND,Pawan Kajal,14632,INC,Choudhary Surender,14069,563,1.12
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,17,Shahpur,GEN,Kangra,52617,BJP,Sarveen,25487,INC,Vijai Singh,22364,3123,5.94
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,18,Dharamshala,GEN,Kangra,47579,INC,Sudhir Sharma,21241,BJP,Kishan Kapoor,16241,5000,10.51
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,19,Palampur,GEN,Kangra,46597,INC,Brij Behari Lal Butail,23341,BJP,Parveen Kumar,14312,9029,19.38
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,20,Baijnath,SC,Kangra,47619,INC,Kishori Lal,21878,BJP,Mulkh Raj,15226,6652,13.97
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,21,Lahaul,GEN,Lahul & Spiti,16885,INC,Ravi Thakur,10187,BJP,Dr Ram Lal Markanda,6491,3696,21.89
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,22,Manali,GEN,Kullu,48985,BJP,Govind Singh Thakur,17645,INC,Bhuvneshwar Gaur,14447,3198,6.53
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,23,Kullu,GEN,Kullu,57115,HLP,Maheshwar Singh,18582,BJP,Ram Singh,15597,2985,5.23
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,24,Banjar,GEN,Kullu,51064,INC,Karan Singh,29622,BJP,Khimi Ram,20330,9292,18.2
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,25,Anni,SC,Kullu,55923,INC,Khub Ram,21664,BJP,Kishori Lal,20002,1662,2.97
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,26,Karsog,SC,Mandi,46585,INC,Mansa Ram,18978,BJP,Hira Lal,14646,4332,9.3
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,27,Sundernagar,GEN,Mandi,52523,INC,Sohan Lal,24258,IND,Roop Singh,15268,8990,17.12
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,28,Nachan,SC,Mandi,55417,BJP,Vinod Kumar,22924,INC,Tek Chand Dogra,19893,3031,5.47
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,29,Seraj,GEN,Mandi,57772,BJP,Jai Ram Thakur,30837,INC,Tara Thakur,25085,5752,9.96
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,30,Darang,GEN,Mandi,56988,INC,Kaul Singh,28325,BJP,Jawahar Lal,26093,2232,3.92
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,31,Jogindernagar,GEN,Mandi,60780,BJP,Gulab Singh Thakur,30092,INC,Thakur Surender Pal,24176,5916,9.73
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,32,Dharampur,GEN,Mandi,48397,BJP,Mahender Singh,24029,INC,Chander Shekhar,22988,1041,2.15
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,33,Mandi,GEN,Mandi,48410,INC,Anil Kumar,20866,BJP,Durga Dutt,16936,3930,8.12
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,34,Balh,SC,Mandi,50768,INC,Prakash Chaudhary,20043,BJP,Inder Singh,16927,3116,6.14
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,35,Sarkaghat,GEN,Mandi,53981,BJP,Inder Singh,26722,INC,Rangila Ram Rao,24518,2204,4.08
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,36,Bhoranj,SC,Hamirpur,45915,BJP,Ishwar Dass Dhiman,27323,INC,Ramesh Chand,16908,10415,22.68
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,37,Sujanpur,GEN,Hamirpur,44847,IND,Rajinder Singh,24674,INC,Anita Verma,10508,14166,31.59
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,38,Hamirpur,GEN,Hamirpur,44197,BJP,Prem Kumar Dhumal,25567,INC,Narinder Thakur,16265,9302,21.05
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,39,Barsar,GEN,Hamirpur,51040,INC,Inder Dutt Lakhanpal,26041,BJP,Baldev Sharma,23383,2658,5.21
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,40,Nadaun,GEN,Hamirpur,56950,BJP,Vijay Agnihotri,31305,INC,Sukhvinder Singh Sukhu M,24555,6750,11.85
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,41,Chintpurni,SC,Una,48949,INC,Kuldip Kumar,23720,BJP,Balbir Singh,23282,438,0.89
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,42,Gagret,GEN,Una,50938,INC,Rakesh Kalia,23581,BJP,Sushil Kumar Kalia,18684,4897,9.61
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,43,Haroli,GEN,Una,54730,INC,Mukesh Agnihotri,28875,BJP,Prof. Ram Kumar,23703,5172,9.45
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,44,Una,GEN,Una,54048,BJP,Sat Pal Singh Satti,26835,INC,Satpal Singh Raizada,22089,4746,8.78
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,45,Kutlehar,GEN,Una,52731,BJP,Virender Kanwar,26028,INC,Ram Dass,24336,1692,3.21
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,46,Jhanduta,SC,Bilaspur,46828,BJP,Rikhi Ram Kondal,22941,INC,Dr.Beeru Ram Kishore,21742,1199,2.56
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,47,Ghumarwin,GEN,Bilaspur,52227,INC,Rajesh Dharmani,22672,BJP,Rajinder Garg,19464,3208,6.14
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,48,Bilaspur,GEN,Bilaspur,50778,INC,Bumber Thakur,24347,BJP,Suresh Chandel,19206,5141,10.12
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,49,Sri Naina Deviji,GEN,Bilaspur,50581,BJP,Randhir Sharma,24598,INC,Ram Lal Thakur,23213,1385,2.74
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,50,Arki,GEN,Solan,57190,BJP,Govind Ram Sharma,17211,INC,Sanjay,15136,2075,3.63
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,51,Nalagarh,GEN,Solan,63498,BJP,Krishan Lal Thakur,35341,INC,Lakhvinder Singh Rana,26033,9308,14.66
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,52,Doon,GEN,Solan,47150,INC,Ram Kumar,15520,IND,Darshan Singh,11690,3830,8.12
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,53,Solan,SC,Solan,48532,INC,Dhani Ram Shandil,24250,BJP,Kumari Sheela,19778,4472,9.21
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,54,Kasauli,SC,Solan,42388,BJP,Rajiv Saizal,19960,INC,Vinod Sultanpuri,19936,24,0.06
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,55,Pachhad,SC,Sirmaur,50113,BJP,Suresh Kumar,25488,INC,Gangu Ram Musafir,22863,2625,5.24
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,56,Nahan,GEN,Sirmaur,53389,BJP,Rajeev Bindal,25459,INC,Kush Parmar,12635,12824,24.02
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,57,Sri Renukaji,SC,Sirmaur,44324,INC,Vinay Kumar,21332,BJP,Hirdaya Ram,20677,655,1.48
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,58,Paonta Sahib,GEN,Sirmaur,53844,IND,Kirnesh Jung,23713,BJP,Sukh Ram,22923,790,1.47
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,59,Shillai,GEN,Sirmaur,47544,BJP,Baldev Singh Tomar,23455,INC,Harshwardhan Chauhan M,21537,1918,4.03
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,60,Chopal,GEN,Shimla,49721,IND,Balbir Singh Verma,22056,INC,Dr Subhash Chand,21409,647,1.3
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,61,Theog,GEN,Shimla,55386,INC,Vidya,21478,BJP,Rakesh Verma,17202,4276,7.72
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,62,Kasumpti,GEN,Shimla,36165,INC,Anirudh Singh,16929,BJP,Prem Singh,7043,9886,27.34
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,63,Shimla,GEN,Shimla,32486,BJP,Suresh Bhardwaj,11563,INC,Harish,10935,628,1.93
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,64,Shimla Rural,GEN,Shimla,40423,INC,Virbhadra Singh,28892,BJP,Ishwar Rohal,8892,20000,49.48
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,65,Jubbal-Kotkhai,GEN,Shimla,50658,INC,Rohit Thakur,29219,BJP,Narinder Bragta,20124,9095,17.95
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,66,Rampur,SC,Shimla,49450,INC,Nand Lal,27925,BJP,Prem Singh Draik,18454,9471,19.15
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,67,Rohru,SC,Shimla,44737,INC,Mohan Lal Brakta,34465,BJP,Balak Ram Negi,6050,28415,63.52
+ae-himachal-pradesh-2012,AE,Himachal Pradesh,2012,2012,official,68,Kinnaur,ST,Kinnaur,38313,INC,Jagat Singh Negi,20722,BJP,Tejwant Singh Negi,14434,6288,16.41

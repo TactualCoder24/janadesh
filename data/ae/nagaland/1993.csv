@@ -1,0 +1,60 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,1,Dimapur-I,GEN,Dimapur *,17212,IND,I. Vikheshe,7573,INC,Hokishe,7436,137,0.8
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,2,Dimapur-Ii,ST,Dimapur *,28288,INC,S. Imtisunget Jamir,15385,IND,Golmei Patrick,10939,4446,15.72
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,3,Dimapur-Iii,ST,Dimapur *,11149,INC,Kihoto Hollohon,6478,IND,Rajiv,1696,4782,42.89
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,4,Ghaspani-I,ST,Dimapur *,48262,INC,Shikiho,28406,NPC,Razouvotuo,19856,8550,17.72
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,5,Ghaspani-Ii,ST,Dimapur *,19955,INC,Kakheto,10407,NPC,Rokonicha,9291,1116,5.59
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,6,Tenning,ST,Kohima,17101,INC,T. R. Zeliang,6005,IND,Lalkholen,3461,2544,14.88
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,7,Peren,ST,Kohima,13501,INC,Neiba Ndang,5686,NPC,Bangdi Lheilung,4277,1409,10.44
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,8,Western Angami,ST,Kohima,8916,NPC,Shurhiu,3215,IND,Asu Keyho,2978,237,2.66
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,9,Kohima Town,ST,Kohima,14976,INC,Obed Z,7732,IND,K. V. Keditsu,4142,3590,23.97
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,11,Northern Angami -Ii,ST,Kohima,11980,INC,Neiphiu,5411,IND,R. Sopu,4311,1100,9.18
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,12,Tseminyu,ST,Kohima,13027,INC,Nillo,8369,NPC,Khasu Kath,4658,3711,28.49
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,13,Pughoboto,ST,Kohima,9077,NPC,Huska Sumi,3395,IND,Joshua Sema,3239,156,1.72
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,14,Southern Angami-I,ST,Kohima,9035,NPC,Ruguozelhou,5448,INC,Mavil Khieya,3230,2218,24.55
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,15,Southern Angami-Ii,ST,Kohima,7486,IND,K.V. Pusa,3572,INC,Vizadel,2948,624,8.34
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,16,Pfutsero,ST,Phek,12898,INC,Kewekhape,7473,NPC,Thenucho,5425,2048,15.88
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,17,Chizami,ST,Phek,10051,INC,Zhovehu,4031,NPC,Kewezu,3771,260,2.59
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,18,Chazouba,ST,Phek,12438,NPC,Vamuzo,5506,INC,Povotso Lohe,4702,804,6.46
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,19,Phek,ST,Phek,11110,INC,Zachilhu,5836,NPC,Kuzhohusa,5274,562,5.06
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,20,Meluri,ST,Phek,10898,NPC,Zutsepa Katiary,4589,INC,Khuosatho,4227,362,3.32
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,21,Tuli,ST,Mokokchung,14231,INC,T. Tali,8042,NPC,Lakato,6189,1853,13.02
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,22,Arkakong,ST,Mokokchung,11855,INC,Soalemba,6552,IND,M. Pongener,5297,1255,10.59
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,23,Impur,ST,Mokokchung,9187,INC,T. Yupangnenba,3133,IND,Temjentemsu,3112,21,0.23
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,24,Angetyongpang,ST,Mokokchung,11580,NPC,T. Sentichuba,4433,INC,S. Limatemjen,4037,396,3.42
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,25,Monguya,ST,Mokokchung,10817,INC,N. I. Jamir,5389,IND,Temjentoshi,4863,526,4.86
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,26,Aonglenden,ST,Mokokchung,8303,INC,Nungshizenba,6157,NPC,Bendangnukshi,2146,4011,48.31
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,27,Mokokchung Town,ST,Mokokchung,4666,INC,S. C. Jamir,4580,NPC,Bendangtoshi,86,4494,96.31
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,28,Koridang,ST,Mokokchung,14076,IND,T. Nokyu Longchar,3957,INC,Alemwapang,3327,630,4.48
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,29,Jangpetkong,ST,Mokokchung,8785,INC,I. Imkong,6281,NPC,Chubatemjen,2504,3777,42.99
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,30,Alungtaki,ST,Mokokchung,9963,IND,Tongpangnungshi,4605,INC,Tiameren,2931,1674,16.8
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,31,Akuluto,ST,Zunheboto,5645,IND,Kakheto,2637,INC,Khehoto,2108,529,9.37
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,32,Atoizu,ST,Zunheboto,7076,INC,Kiyez-He L. Chishi,5453,NPC,Mihozhe,1623,3830,54.13
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,33,Suruhuto,ST,Zunheboto,9021,INC,Kiyezhe,5608,IND,Vihoshe,2661,2947,32.67
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,34,Aghunato,ST,Zunheboto,7085,INC,Tokheho Yepthomi,3885,NPC,Tohevi,3200,685,9.67
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,35,Zunheboto,ST,Zunheboto,8825,IND,Khekiho,4810,INC,Tokheho Sema,2510,2300,26.06
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,36,Satakha,ST,Zunheboto,6729,NPC,G. Kughvi,2848,IND,Asheto,2255,593,8.81
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,37,Tyui,ST,Wokha,10584,NPC,T. A. Ngullie,5409,IND,C. Yilumo Kithan,4523,886,8.37
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,38,Wokha,ST,Wokha,15254,INC,John Lotha,4386,IND,Dr. T. Myinthungro Lotha,4181,205,1.34
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,39,Sanis,ST,Wokha,10878,DLP,Y. Sulanthung H. Lotha,3245,NPC,Nkhao Jami,2938,307,2.82
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,40,Bhandari,ST,Wokha,10097,NPC,T. Kikon,3753,INC,E. T. Ezung,3521,232,2.3
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,41,Tizit,ST,Mon,13368,INC,B. Tingkap Wangnao,5308,IND,Aloh,4601,707,5.29
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,42,Wakching,ST,Mon,14282,NPC,P. Enyei,7251,INC,Chingwang Konyak,6839,412,2.88
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,43,Tapi,ST,Mon,8301,INC,Bongnao,4756,NPC,Noke,3545,1211,14.59
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,44,Phomching,ST,Mon,14212,INC,Konngam,7372,NPC,Pohwang,6840,532,3.74
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,45,Tehok,ST,Mon,12348,NPC,T. P. Manlem,9443,INC,Chennyeim,2821,6622,53.63
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,46,Mon Town,ST,Mon,12932,INC,S. Yokten,7212,NPC,John,5720,1492,11.54
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,47,Aboi,ST,Mon,7882,NPC,W. Eyong,4632,INC,Nyeiwang,3250,1382,17.53
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,48,Moka,ST,Mon,12164,INC,A. Naymnyei,6684,NPC,E. E. Pangteang,5480,1204,9.9
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,49,Tamlu,ST,Tuensang,20439,INC,B. Phongshak Phom,14000,NPC,H. Nyemli Phom,6439,7561,36.99
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,50,Longleng,ST,Tuensang,22804,NPC,M. Chemlom Phom,11840,INC,Bukehem,10964,876,3.84
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,51,Noksen,ST,Tuensang,5162,INC,H. Chuba Chang,2838,NPC,C. Chongshen Chang,2324,514,9.96
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,52,Longkhim Chare,ST,Tuensang,12096,INC,S. Kyukhangba Sangtam,7302,NPC,Thrinimongsangtam,4794,2508,20.73
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,53,Tuensang Sadar-I,ST,Tuensang,10326,INC,Changkong Chang,4918,NPC,Kechingba,3155,1763,17.07
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,54,Tuensang Sadar-Ii,ST,Tuensang,10063,NPC,K. Imlong,6411,INC,A. Lakiumong,3652,2759,27.42
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,55,Tobu,ST,Tuensang,13657,IND,Pongchallenpa,5855,NPC,S. Hongpe Konyak,3967,1888,13.82
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,56,Noklak,ST,Tuensang,8642,NPC,Sedem,3427,INC,W. Chuba Khaim,3207,220,2.55
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,57,Thonoknyu,ST,Tuensang,9792,NPC,T. Khongo,3206,IND,Khisangmong,2944,262,2.68
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,58,Shamtorr-Chessore,ST,Tuensang,11447,INC,K. Yamakam,5121,NPC,Y. Throngshi,3226,1895,16.55
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,59,Siyuchong-Sitimi,ST,Tuensang,11001,INC,S. Seuhricho,6130,NPC,C. Kipili,4871,1259,11.44
+ae-nagaland-1993,AE,Nagaland,1993,1993,official,60,Pungro-Kiphire,ST,Tuensang,16794,INC,R. L. Akamba,4891,NPC,R. Sapikiu,4686,205,1.22

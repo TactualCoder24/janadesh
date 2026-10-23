@@ -1,0 +1,61 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,1,Dimapur-I,GEN,Dimapur *,16188,NPF,Tovihoto Ayemi,6952,INC,K.L. Chishi,5114,1838,11.35
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,2,Dimapur-Ii,ST,Dimapur *,37328,INC,S.I Jamir,14151,IND,Savi Liegise,12536,1615,4.33
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,3,Dimapur-Iii,ST,Dimapur *,24067,INC,Tokheho,12809,NPF,Azheto,10778,2031,8.44
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,4,Ghaspani-I,ST,Dimapur *,51542,IND,N.Jacob Zhimomi,26287,NPF,Khekiho Zhimomi,25255,1032,2.0
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,5,Ghaspani-Ii,ST,Dimapur *,27177,NPF,Zhaleo Rio,11189,INC,Y.Hewoto Awomi,8801,2388,8.79
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,6,Tenning,ST,Kohima,26491,NPF,Namri Nchang,9151,INC,Tarie Zeliang,8003,1148,4.33
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,7,Peren,ST,Kohima,24618,NPF,T.R.Zeliang,13627,INC,Iherie Ndang,10991,2636,10.71
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,8,Western Angami,ST,Kohima,13507,NPF,Kiyanilie Peseyie,5969,INC,Asu Keyho,4969,1000,7.4
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,9,Kohima Town,ST,Kohima,24301,NPF,Dr. Neikiesalie Nicky Kire,15506,IND,Dr. Er. Vikuotuolie,8795,6711,27.62
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,10,Northern Angami-I,ST,Kohima,14304,NPF,Khriehu Liezietsu,8232,INC,Prasielie Pienyu,6072,2160,15.1
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,11,Northern Angami-Ii,ST,Kohima,17939,NPF,Neiphiu Rio,15305,INC,Kevise Sogotsu,2634,12671,70.63
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,12,Tseminyu,ST,Kohima,24490,IND,Er. Levi Rengma,9212,NPF,R. Khing,8444,768,3.14
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,13,Pughoboto,ST,Kohima,12130,NPF,Y. Vikheho Swu,7208,INC,Joshua Sumi,4922,2286,18.85
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,14,Southern Angami-I,ST,Kohima,12334,NPF,Vikho-O Yhoshu,8413,INC,Nagakul,3921,4492,36.42
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,15,Southern Angami-Ii,ST,Kohima,15801,NPF,Kropol Vitsu,10626,INC,K.V. Pusa,5175,5451,34.5
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,16,Pfutsero,ST,Phek,20589,NPF,Neiba Kronu,6636,INC,Kewekhape Therie,5949,687,3.34
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,17,Chizami,ST,Phek,16566,NPF,Deo Nukhu,5695,IND,Kevechutso,5253,442,2.67
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,18,Chazouba,ST,Phek,24379,NPF,Chotisuh Sazo,14104,INC,Vaprumu Demo,7703,6401,26.26
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,19,Phek,ST,Phek,20214,NPF,Kuzholuzo Nienu,11447,IND,Er. Vekho Swuro,7559,3888,19.23
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,20,Meluri,ST,Phek,18629,NPF,Yitachu,12030,INC,Khuosatho,6479,5551,29.8
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,21,Tuli,ST,Mokokchung,16328,IND,Amenba Yaden,7408,NPF,L.Temjen Jamir,4659,2749,16.84
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,22,Arkakong,ST,Mokokchung,15638,NPF,Nuklutoshi,8544,INC,Takatiba Masa Ao,7094,1450,9.27
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,23,Impur,ST,Mokokchung,9719,INC,Dr. Imtiwapang Aier,6122,NPF,T.N.Manen,3597,2525,25.98
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,24,Angetyongpang,ST,Mokokchung,13633,IND,S.Chuba Longkumer,5480,NPF,Sashimar,5068,412,3.02
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,25,Mongoya,ST,Mokokchung,12933,NPF,Merentoshi R.Jamir,8808,INC,Dr. Ngangshi K.Ao,4125,4683,36.21
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,26,Aonglenden,ST,Mokokchung,10237,INC,Imtikumzuk,5604,NPF,Toshipokba,4633,971,9.49
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,27,Mokokchung Town,ST,Mokokchung,4990,INC,C.Apok Jamir,2229,NPF,Rosemtong,2182,47,0.94
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,28,Koridang,ST,Mokokchung,18101,NPF,Imkong L.Imchen,11869,IND,T. Chalukumba Ao,6134,5735,31.68
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,29,Jangpetkong,ST,Mokokchung,9546,NPF,Longrineken,3117,IND,E.T. Sunup,2961,156,1.63
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,30,Alongtaki,ST,Mokokchung,12855,NPF,Dr. Benjongliba,7087,IND,Moatoshi Longkumer,5596,1491,11.6
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,31,Akuluto,ST,Zunheboto,10157,INC,Khekaho,6070,NPF,Kakheto,4087,1983,19.52
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,32,Atoizu,ST,Zunheboto,15420,IND,Picto,8965,NPF,Doshehe Y. Sema,5681,3284,21.3
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,33,Suruhoto,ST,Zunheboto,13499,NPF,Shetoyi,6952,INC,Kiyezhe Aye,6547,405,3.0
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,34,Aghunato,ST,Zunheboto,13043,NPF,Pukhayi,6902,INC,Hukiye,6141,761,5.83
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,35,Zunheboto,ST,Zunheboto,18825,INC,S. Hukavi Zhimomi,6827,NPF,Dr. K.C. Nihoshe,6550,277,1.47
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,36,Satakha,ST,Zunheboto,14578,NPF,G. Kaito,10873,INC,Vitoho Zhimomi,3705,7168,49.17
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,37,Tyui,ST,Wokha,20182,NPF,Y.Patton,11525,INC,Yankithung Yanthan,5985,5540,27.45
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,38,Wokha,ST,Wokha,32122,NCP,Dr. T.M. Lotha,16401,NPF,Dr. Chumben Murry,14919,1482,4.61
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,39,Sanis,ST,Wokha,21694,IND,N.Thomas Lotha,6983,RJD,Nkhao Lotha,5413,1570,7.24
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,40,Bhandari,ST,Wokha,24501,NCP,Mmhonlumo,8183,IND,Achumbemo Kikon,7929,254,1.04
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,41,Tizit,ST,Mon,16975,BJP,P. Paiwang Konyak,7967,NPF,Aloh,4991,2976,17.53
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,42,Wakching,ST,Mon,18311,IND,Y.M. Yolow,10063,NPF,M.C. Konyak,8248,1815,9.91
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,43,Tapi,ST,Mon,13017,NPF,Noke,6998,INC,Lanpha,4319,2679,20.58
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,44,Phomching,ST,Mon,18793,NPF,Pohwang,10499,INC,K. Konngam Konyak,8062,2437,12.97
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,45,Tehok,ST,Mon,14124,NPF,C.L. John,10917,INC,W. Wangyuh,3026,7891,55.87
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,46,Mon Town,ST,Mon,18416,NPF,N. Thongwang,6870,INC,Y. Mankhao,6596,274,1.49
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,47,Aboi,ST,Mon,10612,INC,Eshak Konyak,4599,NPF,Nyeiwang,3906,693,6.53
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,48,Moka,ST,Mon,16473,NPF,E.E. Pangteang,10649,INC,Longang,5824,4825,29.29
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,49,Tamlu,ST,Tuensang,13774,JDU,B.S Nganlang,7276,NPF,Nyemli,5398,1878,13.63
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,50,Longleng,ST,Tuensang,22195,NPF,S. Pangnyu,13171,NCP,T.L. Semdok,8936,4235,19.08
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,51,Noksen,ST,Tuensang,11371,NPF,C.M. Chang,5602,NCP,Lima Onen Chang,4510,1092,9.6
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,52,Longkhim Chare,ST,Tuensang,19978,NCP,A.Imtilemba Sangtam,7273,INC,Thrinimong,5814,1459,7.3
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,53,Tuensang Sadar-I,ST,Tuensang,16796,IND,Toyang Changkong,9534,NPF,L.Elam Chang,7262,2272,13.53
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,54,Tuensang Sadar-Ii,ST,Tuensang,17849,NPF,Kejong Chang,5268,INC,I.N.Mongba,4699,569,3.19
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,55,Tobu,ST,Tuensang,17999,NPF,Naiba,10118,INC,Bongkhao,7881,2237,12.43
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,56,Noklak,ST,Tuensang,15031,NPF,P.Longon,9168,INC,H.Haiying,5863,3305,21.99
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,57,Thonoknyu,ST,Tuensang,17834,NCP,L.Khumo Khiamniungan,7963,NPF,S.Heno,6656,1307,7.33
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,58,Shamator Chessore,ST,Tuensang,15274,NPF,R. Tohanba,6602,JDU,K.Yimso Yimchunger,3688,2914,19.08
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,59,Seyochung Sitimi,ST,Tuensang,21696,NPF,Shri. C. Kipili Sangtam,12507,INC,Shri. Tsasepi Sangtam,9108,3399,15.67
+ae-nagaland-2013,AE,Nagaland,2013,2013,official,60,Pungro Kiphire,ST,Tuensang,27739,NPF,Torechu,15894,INC,R. Tsapikiu Sangtam,11349,4545,16.38

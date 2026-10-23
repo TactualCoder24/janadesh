@@ -1,0 +1,33 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,1,Yoksam-Tashiding,GEN,West,10601,SKM,Tshering Thendup Bhutia,6445,SDF,Meewang Gyatso Bhutia,2696,3749,35.36
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,2,Yangthang,GEN,West,10148,SKM,Bhim Hang Limboo,5542,SDF,Kesham Limboo,3403,2139,21.08
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,3,Maneybong-Dentam,GEN,West,11179,SKM,Sudesh Kumar Subba,6837,SDF,Tika Ram Chettri,1976,4861,43.48
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,4,Gyalshing-Barnyak,GEN,West,9384,SKM,Lok Nath Sharma,4514,IND,Khusandra Prasad Sharma,3740,774,8.25
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,5,Rinchenpong,GEN,West,11399,SKM,Erung Tenzing Lepcha,7856,SDF,Norden Bhutia,2631,5225,45.84
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,6,Daramdin,GEN,West,12144,SKM,Mingma Narbu Sherpa,8228,SDF,Pem Norbu Sherpa,3000,5228,43.05
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,7,Soreng-Chakung,GEN,West,12575,SKM,Prem Singh Tamang,8951,SDF,Akar Dhoj Limbu,2671,6280,49.94
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,8,Salghari-Zoom,SC,West,8768,SKM,Madan Cintury,5146,SDF,Janga Bir Darnal,2688,2458,28.03
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,9,Barfung,GEN,South,11067,SKM,Rikshal Dorjee Bhutia,6846,SDF,Bhaichung Bhutia,2622,4224,38.17
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,10,Poklok-Kamrang,GEN,South,11772,SKM,Bhoj Raj Rai,6473,SDF,Pawan Kumar Chamling,4006,2467,20.96
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,11,Namchi-Singhithang,GEN,South,8988,SKM,Krishna Kumari Rai,6435,SDF,Bimal Rai,2120,4315,48.01
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,12,Melli,GEN,South,12031,SKM,Nar Bahadur Pradhan,6973,CAPS,Ganesh Kumar Rai,3194,3779,31.41
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,13,Namthang-Rateypani,GEN,South,11721,SKM,Sanjeet Kharel,7438,SDF,Suman Pradhan,2779,4659,39.75
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,14,Temi-Namphing,GEN,South,11298,SKM,Bedu Singh Panth,5857,SDF,Suman Kumar Tewari,2774,3083,27.29
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,15,Rangang-Yangang,GEN,South,10485,SKM,Raj Kumari Thapa,5320,SDF,Mani Kumar Subba,4338,982,9.37
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,16,Tumin-Lingee,GEN,East,11693,SKM,Samdup Tshering Bhutia,6790,SDF,Norzong Lepcha,3432,3358,28.72
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,17,Khamdong-Singtam,GEN,East,9814,SKM,Nar Bahadur Dahal,5189,SDF,Mani Kumar Sharma,3655,1534,15.63
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,18,West Pendam,SC,East,9981,SKM,Lall Bahadur Das,4819,SDF,Anup Thatal,3311,1508,15.11
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,19,Rhenock,GEN,East,13445,SKM,Prem Singh Tamang,8677,SDF,Somnath Poudyal,2622,6055,45.04
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,20,Chujachen,GEN,East,13982,SKM,Puran Kumar Gurung,7782,SDF,Mani Kumar Gurung,4618,3164,22.63
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,21,Gnathang-Machong,GEN,East,8958,SKM,Pamin Lepcha,5516,SDF,Tshering Wangdi Lepcha,2370,3146,35.12
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,22,Namchaybong,GEN,East,11936,SKM,Raju Basnet,6377,SDF,Pawan Kumar Chamling,4377,2000,16.76
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,23,Shyari,GEN,East,10260,SDF,Tenzing Norbu Lamtha,5319,SKM,Kunga Nima Lepcha,4265,1054,10.27
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,24,Martam-Rumtek,GEN,East,12848,SKM,Sonam Venchungpa,6939,SDF,Mechung Bhutia,4565,2374,18.48
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,25,Upper Tadong,GEN,East,7235,SKM,Gay Tshering Dhungel,4953,SDF,Chandra Bahadur Chettri,1692,3261,45.07
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,26,Arithang,GEN,East,7010,SKM,Arun Kumar Upreti,4310,SDF,Ashis Rai,2114,2196,31.33
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,27,Gangtok,GEN,East,7376,SKM,Delay Namgyal Barfungpa,4237,SDF,Pintso Chopel Lepcha,1668,2569,34.83
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,28,Upper Burtuk,GEN,East,9671,SKM,Kala Rai,4888,BJP,Dilli Ram Thapa,2902,1986,20.54
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,29,Kabi-Lungchok,GEN,North,9630,SKM,Thenlay Tshering Bhutia,5218,SDF,Gnawo Chopel Lepcha,3716,1502,15.6
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,30,Djongu,GEN,North,7655,SKM,Pintso Namgyal Lepcha,5325,SDF,Sonam Gyatso Lepcha,1160,4165,54.41
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,31,Lachen-Mangan,GEN,North,6566,SKM,Samdup Lepcha,3636,SDF,Hishey Lachungpa,2848,788,12.0
+ae-sikkim-2024,AE,Sikkim,2024,2024,official_winners_only,32,Sangha,GEN,,2549,SKM,Sonam Lama,1530,BJP,Tseten Tashi Bhutia,840,690,27.07

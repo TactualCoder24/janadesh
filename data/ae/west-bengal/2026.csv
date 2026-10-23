@@ -1,0 +1,295 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,1,Mekliganj,GEN,Koch Bihar,214241,BJP,Dadhiram Ray,116590,AITC,Paresh Adhikary,87646,28944,13.51
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,2,Mathabhanga,GEN,Koch Bihar,232210,BJP,Nisith Pramanik,137631,AITC,Sablu Barman,82806,54825,23.61
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,3,Cooch Behar Uttar,GEN,Koch Bihar,264500,BJP,Sukumar Ray,161637,AITC,Partha Pratim Roy,88396,73241,27.69
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,4,Cooch Behar Dakshin,GEN,Koch Bihar,211779,BJP,Rathindra Bose,111714,AITC,Avijit De Bhowmik,87952,23762,11.22
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,5,Sitalkuchi,GEN,Koch Bihar,265458,BJP,Sabitri Barman,136950,AITC,Harihar Das,112979,23971,9.03
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,6,Sitai,GEN,Koch Bihar,258668,AITC,Sangita Roy,124963,BJP,Ashutosh Barma,122324,2639,1.02
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,7,Dinhata,GEN,Koch Bihar,264357,BJP,Ajay Ray,136408,AITC,Udayan Guha,119199,17209,6.51
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,8,Natabari,GEN,Koch Bihar,235776,BJP,Girija Shankar Ray,128569,AITC,Sailendra Nath Barma,93509,35060,14.87
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,9,Tufanganj,GEN,Koch Bihar,226261,BJP,Malati Rava Roy,120099,AITC,Shibshankar Paul,94170,25929,11.46
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,10,Kumargram,GEN,Jalpaiguri,250778,BJP,Manoj Kumar Oraon,145325,AITC,Rajeev Tirkey,91609,53716,21.42
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,11,Kalchini,GEN,Jalpaiguri,211123,BJP,Bishal Lama,119580,AITC,Birendra Bara,80142,39438,18.68
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,12,Alipurduars,GEN,Jalpaiguri,240932,BJP,Paritosh Das,148462,AITC,Suman Kanjilal,75484,72978,30.29
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,13,Falakata,GEN,Jalpaiguri,238508,BJP,Dipak Barman,135830,AITC,Subhash Chandra Roy,89321,46509,19.5
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,14,Madarihat,GEN,Jalpaiguri,179317,BJP,Laxuman Limbu,103969,AITC,Jay Prakash Toppo,62474,41495,23.14
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,15,Dhupguri,GEN,Jalpaiguri,248122,BJP,Naresh Roy,134606,AITC,Nirmal Chandra Roy,96098,38508,15.52
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,16,Maynaguri,GEN,Jalpaiguri,254298,BJP,Dalim Chandra Roy,149070,AITC,Rammohan Ray,91929,57141,22.47
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,17,Jalpaiguri,GEN,Jalpaiguri,242899,BJP,Ananta Deb Adhikary,146006,AITC,Krishna Das,75760,70246,28.92
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,18,Rajganj,GEN,Jalpaiguri,232012,BJP,Dinesh Sarkar,118559,AITC,Swapna Barman,96355,22204,9.57
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,19,Dabgram-Phulbari,GEN,Jalpaiguri,278956,BJP,Sikha Chatterjee,184167,AITC,Ranjan Shil Sharma,75960,108207,38.79
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,20,Mal,GEN,Jalpaiguri,227623,BJP,Sukra Munda,113674,AITC,Bulu Chik Baraik,97969,15705,6.9
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,21,Nagrakata,GEN,Jalpaiguri,202693,BJP,Puna Bhengra,102826,AITC,Sanjay Kujur,77145,25681,12.67
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,22,Kalimpong,GEN,Darjiling,166662,BJP,Bharat Kumar Chetri,82898,BGPM,Ruden Sada Lepcha,61782,21116,12.67
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,23,Darjeeling,GEN,Darjiling,181214,BJP,Noman Rai,64730,BGPM,Bijoy Kumar Rai,58405,6325,3.49
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,24,Kurseong,GEN,Darjiling,188956,BJP,Sonam Lama,77812,BGPM,Amar Lama,60144,17668,9.35
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,25,Matigara-Naxalbari,GEN,Darjiling,258317,BJP,Anandamoy Barman,171780,AITC,Sankar Malakar,64476,107304,41.54
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,26,Siliguri,GEN,Darjiling,192719,BJP,Shankar Ghosh,126771,AITC,Goutam Deb,49933,76838,39.87
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,27,Phansidewa,GEN,Darjiling,223757,BJP,Durga Murmu,127362,AITC,Reena Toppo Ekka,78606,48756,21.79
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,28,Chopra,GEN,Uttar Dinajpur,221100,AITC,Hamidul Rahaman,126690,BJP,Shankar Adhikari,54302,72388,32.74
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,29,Islampur,GEN,Uttar Dinajpur,183354,AITC,Kanaia Lal Agarwal,106603,BJP,Chitrajit Roy,67108,39495,21.54
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,30,Goalpokhar,GEN,Uttar Dinajpur,174101,AITC,Md. Ghulam Rabbani,116056,BJP,Sarajit Biswas,36422,79634,45.74
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,31,Chakulia,GEN,Uttar Dinajpur,187958,AITC,Minhajul Arfin Azad,85220,BJP,Manoj Kumar Jain,58774,26446,14.07
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,32,Karandighi,GEN,Uttar Dinajpur,229948,BJP,Biraj Biswas,100625,AITC,Goutam Paul,79861,20764,9.03
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,33,Hemtabad,GEN,Uttar Dinajpur,241357,BJP,Haripada Barman,116479,AITC,Satyajit Barman,104025,12454,5.16
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,34,Kaliaganj,GEN,Uttar Dinajpur,258361,BJP,Utpal Brahmacharo,158426,AITC,Nitai Baishya,81978,76448,29.59
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,35,Raiganj,GEN,Uttar Dinajpur,173404,BJP,Koushik Chowdhury,110441,AITC,Krishna Kalyani,49490,60951,35.15
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,36,Itahar,GEN,Uttar Dinajpur,210365,AITC,Mosaraf Hussen,101165,BJP,Sabita Barman,72429,28736,13.66
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,37,Kushmandi,GEN,Dakshin Dinajpur *,199159,BJP,Tapas Chandra Roy,97249,AITC,Rekha Roy,88208,9041,4.54
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,38,Kumarganj,GEN,Dakshin Dinajpur *,185326,AITC,Toraf Hossain Mandal,88252,BJP,Subhendu Sarkar,81117,7135,3.85
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,39,Balurghat,GEN,Dakshin Dinajpur *,163999,BJP,Bidyut Kumar Roy,99137,AITC,Arpita Ghosh,49856,49281,30.05
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,40,Tapan,GEN,Dakshin Dinajpur *,201483,BJP,Budhrai Tudu,114160,AITC,Chintamoni Biha,74246,39914,19.81
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,41,Gangarampur,GEN,Dakshin Dinajpur *,205552,BJP,Satyendra Nath Roy,112025,AITC,Goutam Das,81809,30216,14.7
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,42,Harirampur,GEN,Dakshin Dinajpur *,202807,AITC,Biplab Mitra,92521,BJP,Debabrata Majumder,90553,1968,0.97
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,43,Habibpur,GEN,Maldah,213732,BJP,Joyel Murmu,133389,AITC,Amal Kisku,59973,73416,34.35
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,44,Gazole,GEN,Maldah,239543,BJP,Chinmoy Deb Barman,129209,AITC,Prasenjit Das,91697,37512,15.66
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,45,Chanchal,GEN,Maldah,216817,AITC,Prasun Banerjee,118404,BJP,Ratan Das,59321,59083,27.25
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,46,Harishchandrapur,GEN,Maldah,220620,AITC,Md. Matibur Rahaman,109869,BJP,Ratan Das,62987,46882,21.25
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,47,Malatipur,GEN,Maldah,200222,AITC,Abdur Rahim Boxi,103194,INC,Mausam Noor,43969,59225,29.58
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,48,Ratua,GEN,Maldah,236945,AITC,Samar Mukherjee,108568,BJP,Abhishek Singhania,75490,33078,13.96
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,49,Manikchak,GEN,Maldah,224422,BJP,Gour Chandra Mandal,109653,AITC,Kabita Mandal,95783,13870,6.18
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,50,Maldaha,GEN,Maldah,222291,BJP,Gopal Chandra Saha,124483,AITC,Lipika Barman Ghosh,74023,50460,22.7
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,51,English Bazar,GEN,Maldah,231905,BJP,Amlan Bhaduri,152361,AITC,Asis Kundu,59623,92738,39.99
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,52,Mothabari,GEN,Maldah,175723,AITC,Md. Najrul Islam,71185,BJP,Nibaran Ghosh,59816,11369,6.47
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,53,Sujapur,GEN,Maldah,224901,AITC,Sabina Yeasmin,111686,INC,Md. Abdul Hannan,51997,59689,26.54
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,54,Baisnabnagar,GEN,Maldah,225866,BJP,Raju Karmakar,109184,AITC,Chandana Sarkar,62091,47093,20.85
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,55,Farakka,GEN,Murshidabad,201678,INC,Motab Shaikh,72725,BJP,Sunil Chowdhuri,63287,9438,4.68
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,56,Samserganj,GEN,Murshidabad,202477,AITC,Mohammad Noor Alam,80667,INC,Nazme Alam,70786,9881,4.88
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,57,Suti,GEN,Murshidabad,233131,AITC,Emani Biswas,85863,BJP,Mahabir Ghosh,72807,13056,5.6
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,58,Jangipur,GEN,Murshidabad,211415,BJP,Chitta Mukherjee,90697,AITC,Jakir Hossain,80211,10486,4.96
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,59,Raghunathganj,GEN,Murshidabad,204685,AITC,Akhruzzaman,93439,INC,Nasir Saikh,50823,42616,20.82
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,60,Sagardighi,GEN,Murshidabad,202034,AITC,Bayron Biswas,88329,BJP,Tapas Kumar Chakraborty,54994,33335,16.5
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,61,Lalgola,GEN,Murshidabad,206325,AITC,Abdul Aziz Doctor,77826,INC,Md. Touhidur Rahaman,56100,21726,10.53
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,62,Bhagabangola,GEN,Murshidabad,242943,AITC,Reyat Hossain Sarkar,117998,CPI(M),Mahmudal Hassan,55221,62777,25.84
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,63,Raninagar,GEN,Murshidabad,239285,INC,Julfikar Ali,80113,AITC,Abdul Soumik Hossain,77385,2728,1.14
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,64,Murshidabad,GEN,Murshidabad,247018,BJP,Gouri Shankar Ghosh,119013,AITC,Shaoni Singha Roy,86234,32779,13.27
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,65,Nabagram,GEN,Murshidabad,224708,BJP,Dilip Saha,79862,AITC,Pronab Chandra Das,73839,6023,2.68
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,66,Khargram,GEN,Murshidabad,201094,BJP,Mitali Mal,76456,AITC,Ashis Marjit,67286,9170,4.56
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,67,Burwan,GEN,Murshidabad,190775,BJP,Sukhen Kumar Bagdi,92564,AITC,Protima Rajak,70053,22511,11.8
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,68,Kandi,GEN,Murshidabad,200111,BJP,Gargi Das Ghosh,73601,AITC,Apurba Sarkar,63235,10366,5.18
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,69,Bharatpur,GEN,Murshidabad,203661,AITC,Mustafizur Rahaman,86312,BJP,Anamika Ghosh,57107,29205,14.34
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,70,Rejinagar,GEN,Murshidabad,227981,AJUP,Humayun Kabir,117684,BJP,Bapan Ghosh,61600,56084,24.6
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,71,Beldanga,GEN,Murshidabad,221713,BJP,Bharat Kumar Jhawar,70682,AITC,Rabiul Alam Chowdhury,57867,12815,5.78
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,72,Baharampur,GEN,Murshidabad,212915,BJP,Subrata Maitra,86486,INC,Adhir Ranjan Chowdhury,69815,16671,7.83
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,73,Hariharpara,GEN,Murshidabad,234610,AITC,Niamot Sheikh,80096,AJUP,Bijoy Sekh,67474,12622,5.38
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,74,Naoda,GEN,Murshidabad,219419,AJUP,Humayun Kabir,85618,BJP,Rana Mondal,57949,27669,12.61
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,75,Domkal,GEN,Murshidabad,244220,CPI(M),Md. Mostafijur Rahaman,102206,AITC,Humayun Kabir,86772,15434,6.32
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,76,Jalangi,GEN,Murshidabad,239695,AITC,Babar Ali,83917,CPI(M),Ianus Ali Sarkar,63567,20350,8.49
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,77,Karimpur,GEN,Nadia,240307,BJP,Samarendranath Ghosh,104966,AITC,Soham Chakraborty,94801,10165,4.23
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,78,Tehatta,GEN,Nadia,236154,BJP,Subrata Kabiraj,113378,AITC,Dilip Kumar Poddar,84803,28575,12.1
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,79,Palashipara,GEN,Nadia,220172,AITC,Rukbanur Rahman,91548,BJP,Anima Dutta,79791,11757,5.34
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,80,Kaliganj,GEN,Nadia,226282,AITC,Alifa Ahmed,92255,BJP,Bapan Ghosh,81733,10522,4.65
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,81,Nakashipara,GEN,Nadia,227478,BJP,Santanu Dey,111123,AITC,Kallol Khan,91992,19131,8.41
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,82,Chapra,GEN,Nadia,230455,AITC,Jeber Sekh,106148,BJP,Saikat Sarkar,72501,33647,14.6
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,83,Krishnanagar Uttar,GEN,Nadia,218235,BJP,Tarak Nath Chatterjee,143882,AITC,Somnath Dutta,59251,84631,38.78
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,84,Nabadwip,GEN,Nadia,227283,BJP,Srutisekhar Goswami,113164,AITC,Pundarikakshya Saha,90822,22342,9.83
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,85,Krishnanagar Dakshin,GEN,Nadia,211213,BJP,Sadhan Ghosh,110232,AITC,Ujjal Biswas,80451,29781,14.1
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,86,Santipur,GEN,Nadia,237172,BJP,Swapan Kumar Das,130113,AITC,Braja Kishore Goswami,80070,50043,21.1
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,87,Ranaghat Uttar Paschim,GEN,Nadia,241132,BJP,Parthasarathi Chatterjee,143305,AITC,Tapas Kumar Ghosh,79405,63900,26.5
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,88,Krishnaganj,GEN,Nadia,250851,BJP,Sukanta Biswas,150887,AITC,Samir Kumar Poddar,85189,65698,26.19
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,89,Ranaghat Uttar Purba,GEN,Nadia,231793,BJP,Ashim Biswas,138404,AITC,Barnali Dey Roy,81684,56720,24.47
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,90,Ranaghat Dakshin,GEN,Nadia,262061,BJP,Ashim Kumar Biswas,157682,AITC,Sougata Kumar Burman,85091,72591,27.7
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,91,Chakdaha,GEN,Nadia,229829,BJP,Bankim Chandra Ghosh,125900,AITC,Subhankar Singha,85611,40289,17.53
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,92,Kalyani,GEN,Nadia,237669,BJP,Anupam Biswas,126250,AITC,Atindra Nath Mondal,87866,38384,16.15
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,93,Haringhata,GEN,Nadia,228595,BJP,Asim Kumar Sarkar,115943,AITC,Rajib Biswas,92238,23705,10.37
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,94,Bagdah,GEN,North 24 Parganas,237681,BJP,Soma Thakur,132721,AITC,Madhuparna Thakur,94858,37863,15.93
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,95,Bangaon Uttar,GEN,North 24 Parganas,221932,BJP,Ashok Kirtania,125303,AITC,Biswajit Das,82581,42722,19.25
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,96,Bangaon Dakshin,GEN,North 24 Parganas,225150,BJP,Swapan Majumder,126692,AITC,Rituparna Addhya,86571,40121,17.82
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,97,Gaighata,GEN,North 24 Parganas,231199,BJP,Subrata Thakur,134073,AITC,Narottam Biswas,81382,52691,22.79
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,98,Swarupnagar,GEN,North 24 Parganas,229795,AITC,Bina Mondal,99892,BJP,Tarak Saha,83025,16867,7.34
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,99,Baduria,GEN,North 24 Parganas,230212,AITC,Burhanul Mokaddin,104632,BJP,Sukriti Kumar Sarkar,64068,40564,17.62
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,100,Habra,GEN,North 24 Parganas,221429,BJP,Debdas Mondal,116604,AITC,Jyotipriya Mallick,81530,35074,15.84
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,101,Ashoknagar,GEN,North 24 Parganas,234778,BJP,Dr. Sumay Hira,103420,AITC,Narayan Goswami,93372,10048,4.28
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,102,Amdanga,GEN,North 24 Parganas,228563,AITC,Mohammad Kasem Siddique,87425,BJP,Arindam Dey,84225,3200,1.4
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,103,Bijpur,GEN,North 24 Parganas,150473,BJP,Sudipta Das,74574,AITC,Subodh Adhikary,60716,13858,9.21
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,104,Naihati,GEN,North 24 Parganas,168916,BJP,Sumitro Chatterjee,83022,AITC,Sanat Dey,71840,11182,6.62
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,105,Bhatpara,GEN,North 24 Parganas,115732,BJP,Pawan Kumar Singh,67147,AITC,Amit Gupta,42323,24824,21.45
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,106,Jagatdal,GEN,North 24 Parganas,195056,BJP,Rajesh Kumar,100454,AITC,Somenath Shyam Ichini,78198,22256,11.41
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,107,Noapara,GEN,North 24 Parganas,207094,BJP,Arjun Singh,100172,AITC,Trinankur Bhattacharjee,81450,18722,9.04
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,108,Barrackpur,GEN,North 24 Parganas,159696,BJP,Kaustuv Bagchi,80886,AITC,Raj Chakraborty,64581,16305,10.21
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,109,Khardaha,GEN,North 24 Parganas,197256,BJP,Kalyan Chakraborti,98134,AITC,Devadeep Purohit,73537,24597,12.47
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,110,Dum Dum Uttar,GEN,North 24 Parganas,230330,BJP,Sourav Sikdar,106505,AITC,Chandrima Bhattacharya,79280,27225,11.82
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,111,Panihati,GEN,North 24 Parganas,187748,BJP,Ratna Debnath,94400,AITC,Tirthankar Ghosh,63459,30941,16.48
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,112,Kamarhati,GEN,North 24 Parganas,155809,AITC,Madan Mitra,68104,BJP,Arup Choudhury,62183,5921,3.8
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,113,Baranagar,GEN,North 24 Parganas,172315,BJP,Sajal Ghosh,83159,AITC,Sayantika Banerjee,65910,17249,10.01
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,114,Dum Dum,GEN,North 24 Parganas,200051,BJP,Arijit Bakshi,100166,AITC,Bratya Basu,74639,25527,12.76
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,115,Rajarhat New Town,GEN,North 24 Parganas,254163,BJP,Piyush Kanodia,107231,AITC,Tapash Chatterjee,106926,305,0.12
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,116,Bidhannagar,GEN,North 24 Parganas,174433,BJP,Sharadwat Mukherjee,96287,AITC,Sujit Bose,59604,36683,21.03
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,117,Rajarhat Gopalpur,GEN,North 24 Parganas,192597,BJP,Tarunjyoti Tewari,99650,AITC,Aditi Munshi,72339,27311,14.18
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,118,Madhyamgram,GEN,North 24 Parganas,248055,AITC,Rathin Ghosh,102224,BJP,Anindya Banerjee,99669,2555,1.03
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,119,Barasat,GEN,North 24 Parganas,243407,BJP,Sankar Chatterjee,125695,AITC,Sabyasachi Dutta,90134,35561,14.61
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,120,Deganga,GEN,North 24 Parganas,231688,AITC,Anisur Rahaman Bidesh,100344,AISF,Md Mofidul Hoque Sahaji,82666,17678,7.63
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,121,Haroa,GEN,North 24 Parganas,244986,AITC,Abdul Matin Muhammad,121317,AISF,Piyarul Islam,70409,50908,20.78
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,122,Minakhan,GEN,North 24 Parganas,227466,AITC,Usha Rani Mondal,97037,BJP,Rudrendra Patra,63008,34029,14.96
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,123,Sandeshkhali,GEN,North 24 Parganas,221919,BJP,Sanat Sardar,110028,AITC,Jharna Sardar,92052,17976,8.1
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,124,Basirhat Dakshin,GEN,North 24 Parganas,255445,AITC,Surajit Mitra,115180,BJP,Sourya Banerjee,105448,9732,3.81
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,125,Basirhat Uttar,GEN,North 24 Parganas,258091,AITC,Md. Tauseef Rahman,124968,AISF,Md. Musa Karemulla,63000,61968,24.01
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,126,Hingalganj,GEN,North 24 Parganas,210584,BJP,Rekha Patra,101902,AITC,Ananda Sarkar,96384,5518,2.62
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,127,Gosaba,GEN,South 24 Parganas,212598,BJP,Bikarna Naskar,109148,AITC,Subrata Mondal,92948,16200,7.62
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,128,Basanti,GEN,South 24 Parganas,231385,AITC,Nilima Mistry,127238,BJP,Bikash Sardar,71174,56064,24.23
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,129,Kultali,GEN,South 24 Parganas,246993,AITC,Ganesh Chandra Mondal,142638,BJP,Madhabi Mahalder,84916,57722,23.37
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,130,Patharpratima,GEN,South 24 Parganas,251652,AITC,Samir Kumar Jana,119836,BJP,Asit Kumar Haldar,114854,4982,1.98
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,131,Kakdwip,GEN,South 24 Parganas,238556,BJP,Dipankar Jana,112813,AITC,Manturam Pakhira,107899,4914,2.06
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,132,Sagar,GEN,South 24 Parganas,259804,BJP,Sumanta Mandal,128655,AITC,Bankim Chandra Hazra,120705,7950,3.06
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,133,Kulpi,GEN,South 24 Parganas,208947,AITC,Barnali Dhara,91811,BJP,Abani Naskar,81364,10447,5.0
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,134,Raidighi,GEN,South 24 Parganas,258949,AITC,Tapas Mondal,119530,BJP,Palash Rana,113549,5981,2.31
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,135,Mandirbazar,GEN,South 24 Parganas,215739,AITC,Joydeb Halder,94796,BJP,Mallika Paik,92768,2028,0.94
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,136,Jaynagar,GEN,South 24 Parganas,219667,AITC,Biswanath Das,108472,BJP,Aloke Halder,82046,26426,12.03
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,137,Baruipur Purba,GEN,South 24 Parganas,243668,AITC,Bivas Sardar,124222,BJP,Tumpa Sardar,91546,32676,13.41
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,138,Canning Paschim,GEN,South 24 Parganas,235007,AITC,Paresh Ram Das,122815,BJP,Prasanta Bayen,81383,41432,17.63
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,139,Canning Purba,GEN,South 24 Parganas,251571,AITC,Md. Baharul Islam,154792,AISF,Arabul Islam,59069,95723,38.05
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,140,Baruipur Paschim,GEN,South 24 Parganas,228932,AITC,Biman Banerjee,108537,BJP,Biswajit Paul,90016,18521,8.09
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,141,Magrahat Purba,GEN,South 24 Parganas,223383,AITC,Sarmistha Purkait,109011,BJP,Uttam Kumar Banik,77224,31787,14.23
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,142,Magrahat Paschim,GEN,South 24 Parganas,209547,AITC,Md. Samim Ahamed Molla,116152,BJP,Gour Sundar Ghosh,56452,59700,28.49
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,143,Diamond Harbour,GEN,South 24 Parganas,244422,AITC,Pannalal Halder,125584,BJP,Dipak Kumar Halder,92684,32900,13.46
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,144,Falta,GEN,South 24 Parganas,225648,BJP,Debangshu Panda,160661,CPI(M),Sambhu Nath Kurmi,43640,117021,51.86
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,145,Satgachhia,GEN,South 24 Parganas,255578,BJP,Agniswar Naskar,118537,AITC,Somashree Betal,118102,435,0.17
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,146,Bishnupur,GEN,South 24 Parganas,257254,AITC,Dilip Mondal,136165,BJP,Abhijit Sardar,98271,37894,14.73
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,147,Sonarpur Dakshin,GEN,South 24 Parganas,251306,BJP,Roopa Ganguly,131534,AITC,Arundhuti Maitra,95044,36490,14.52
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,148,Bhangar,GEN,South 24 Parganas,260787,AISF,Naushad Siddiqui,123430,AITC,Saokat Molla,92136,31294,12.0
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,149,Kasba,GEN,South 24 Parganas,240850,AITC,Javed Ahmed Khan,117728,BJP,Sandeep Banerjee,96774,20954,8.7
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,150,Jadavpur,GEN,South 24 Parganas,232132,BJP,Sarbori Mukherjee,106688,AITC,Debabrata Majumdar,78832,27856,12.0
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,151,Sonarpur Uttar,GEN,South 24 Parganas,260175,BJP,Debasish Dhar,121579,AITC,Firdousi Begum,111615,9964,3.83
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,152,Tollygunge,GEN,South 24 Parganas,212888,BJP,Papiya Adhikari,91520,AITC,Aroop Biswas,85283,6237,2.93
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,153,Behala Purba,GEN,South 24 Parganas,239060,BJP,Sankar Sikder,117666,AITC,Subhasish Chakraborty,92038,25628,10.72
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,154,Behala Paschim,GEN,South 24 Parganas,250353,BJP,Indranil Khan,118642,AITC,Ratna Chatterjee,92756,25886,10.34
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,155,Maheshtala,GEN,South 24 Parganas,237842,AITC,Subhasis Das,120895,BJP,Tamanath Bhowmick,86836,34059,14.32
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,156,Budge Budge,GEN,South 24 Parganas,233735,AITC,Ashok Kumar Deb,136197,BJP,Tarun Kumar Adak,85991,50206,21.48
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,157,Metiaburuz,GEN,South 24 Parganas,211272,AITC,Abdul Khaleque Molla,145756,BJP,Veer Bahadur Singh,42656,103100,48.8
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,158,Kolkata Port,GEN,Kolkata,164895,AITC,Firhad Hakim,107891,BJP,Rakesh Singh,48116,59775,36.25
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,159,Bhabanipur,GEN,Kolkata,137307,BJP,Suvendu Adhikari,72800,AITC,Mamata Banerjee,57930,14870,10.83
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,160,Rashbehari,GEN,Kolkata,134020,BJP,Swapan Dasgupta,71553,AITC,Debasish Kumar,51410,20143,15.03
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,161,Ballygunge,GEN,Kolkata,163327,AITC,Sovandeb Chattopadhyay,105852,BJP,Shatarupa,45862,59990,36.73
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,162,Chowrangee,GEN,Kolkata,120363,AITC,Nayna Bandyopadhyay,68787,BJP,Santosh Pathak,44739,24048,19.98
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,163,Entally,GEN,Kolkata,170135,AITC,Sandipan Saha,97249,BJP,Priyanka Tibrewal,62218,35031,20.59
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,164,Beleghata,GEN,Kolkata,171290,AITC,Kunal Ghosh,92240,BJP,Partha Chaudhury,64131,28109,16.41
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,165,Jorasanko,GEN,Kolkata,106880,BJP,Vijay Ojha,52884,AITC,Vijay Upadhyay,47080,5804,5.43
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,166,Shyampukur,GEN,Kolkata,111222,BJP,Purnima Chakraborty,57391,AITC,Shashi Panja,43444,13947,12.54
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,167,Maniktala,GEN,Kolkata,143573,BJP,Tapas Roy,72748,AITC,Shreya Pandey,57846,14902,10.38
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,168,Kashipur-Belgachhia,GEN,Kolkata,145481,BJP,Ritesh Tiwari,66063,AITC,Atin Ghosh,64477,1586,1.09
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,169,Bally,GEN,Haora,136066,BJP,Sanjay Kumar Singh,66549,AITC,Kailash Kumar Mishra,52698,13851,10.18
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,170,Howrah Uttar,GEN,Haora,161586,BJP,Umesh Rai,82021,AITC,Gautam Chowdhuri,68350,13671,8.46
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,171,Howrah Madhya,GEN,Haora,210000,AITC,Arup Roy,104160,BJP,Biplab Kumar Mondal,86688,17472,8.32
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,172,Shibpur,GEN,Haora,196791,BJP,Rudranil Ghosh,97254,AITC,Rana Chatterjee,79838,17416,8.85
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,173,Howrah Dakshin,GEN,Haora,233556,AITC,Nandita Chowdhury,105754,BJP,Shyamal Kumar Hati,97509,8245,3.53
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,174,Sankrail,GEN,Haora,240416,AITC,Priya Paul,110567,BJP,Barnali Dhali Naskar,93017,17550,7.3
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,175,Panchla,GEN,Haora,234216,AITC,Gulsan Mullick,123479,BJP,Ranjan Paul,85302,38177,16.3
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,176,Uluberia Purba,GEN,Haora,208362,AITC,Ritabrata Banerjee,95784,BJP,Rudra Prasad Banerjee,83929,11855,5.69
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,177,Uluberia Uttar,GEN,Haora,201401,BJP,Chiran Bera,92383,AITC,Bimal Kumar Das,88234,4149,2.06
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,178,Uluberia Dakshin,GEN,Haora,219148,AITC,Pulak Roy,106199,BJP,Swami Mangalanand Puri,89544,16655,7.6
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,179,Shyampur,GEN,Haora,240929,BJP,Hiran Chatterjee,123741,AITC,Nadebasi Jana,101816,21925,9.1
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,180,Bagnan,GEN,Haora,216524,AITC,Arunava Sen,104148,BJP,Pramanshu Rana,92932,11216,5.18
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,181,Amta,GEN,Haora,226479,BJP,Amit Samanta,100013,AITC,Sukanta Kumar Paul,95755,4258,1.88
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,182,Udaynarayanpur,GEN,Haora,215002,AITC,Samir Kumar Panja,106490,BJP,Probhakar Pandit,94192,12298,5.72
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,183,Jagatballavpur,GEN,Haora,254248,BJP,Anupam Ghosh,116395,AITC,Subir Chatterjee,109683,6712,2.64
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,184,Domjur,GEN,Haora,271650,AITC,Tapas Maity,143241,BJP,Gobinda Hazra,98174,45067,16.59
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,185,Uttarpara,GEN,Hugli,214509,BJP,Dipanjan Chakraborty,84173,AITC,Sirsanya Bandhopadhyay,73298,10875,5.07
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,186,Sreerampur,GEN,Hugli,202656,BJP,Bhaskar Bhattacharya,93161,AITC,Tanmoy Ghosh,83717,9444,4.66
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,187,Champdani,GEN,Hugli,215865,BJP,Dilip Singh,98953,AITC,Arindam Guin,95758,3195,1.48
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,188,Singur,GEN,Hugli,226571,BJP,Arup Kumar Das,115030,AITC,Becharam Manna,93211,21819,9.63
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,189,Chandannagar,GEN,Hugli,195533,BJP,Deepanjan Kumar Guha,90258,AITC,Indranil Sen,76199,14059,7.19
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,190,Chunchura,GEN,Hugli,273290,BJP,Subir Nag,147467,AITC,Debangshu Bhattacharya,100953,46514,17.02
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,191,Balagarh,GEN,Hugli,236676,BJP,Sumana Sarkar,131545,AITC,Ranjan Dhara,87641,43904,18.55
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,192,Pandua,GEN,Hugli,241750,BJP,Tusar Kumar Majumdar,104823,AITC,Samir Chakraborty,99432,5391,2.23
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,193,Saptagram,GEN,Hugli,206446,BJP,Swaraj Ghosh,107558,AITC,Bidesh Ranjan Bose,83094,24464,11.85
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,194,Chanditala,GEN,Hugli,223689,AITC,Swati Khandoker,105357,BJP,Debashish Mukherjee,86030,19327,8.64
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,195,Jangipara,GEN,Hugli,226328,BJP,Prosenjit Bag,99788,AITC,Snehasis Chakraborty,98951,837,0.37
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,196,Haripal,GEN,Hugli,237282,BJP,Madhumita Ghosh,109316,AITC,Karabi Manna,105946,3370,1.42
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,197,Dhanekhali,GEN,Hugli,252834,AITC,Asima Patra,126038,BJP,Barnali Das,112688,13350,5.28
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,198,Tarakeswar,GEN,Hugli,221739,BJP,Santu Pan,116989,AITC,Ramendu Sinharay,85968,31021,13.99
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,199,Pursurah,GEN,Hugli,240426,BJP,Biman Ghosh,138533,AITC,Partha Hazari,85183,53350,22.19
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,200,Arambagh,GEN,Hugli,236609,BJP,Hemanta Bag,123391,AITC,Mita Bag,94336,29055,12.28
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,201,Goghat,GEN,Hugli,236908,BJP,Prasanta Digar,135961,AITC,Nirmal Maji,85974,49987,21.1
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,202,Khanakul,GEN,Hugli,234341,BJP,Susanta Ghosh,125232,AITC,Palash Kumar Roy,91159,34073,14.54
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,203,Tamluk,GEN,Purba Medinapur,256368,BJP,Hare Krishna Bera,136260,AITC,Dipendra Narayan Roy,101625,34635,13.51
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,204,Panskura Purba,GEN,Purba Medinapur,215247,BJP,Subrata Maity,106547,AITC,Ashim Kumar Maji,89091,17456,8.11
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,205,Panskura Paschim,GEN,Purba Medinapur,254086,BJP,Sintu Senapati,135606,AITC,Siraj Khan,103591,32015,12.6
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,206,Moyna,GEN,Purba Medinapur,243497,BJP,Ashok Dinda,125692,AITC,Chandan Mondal,109646,16046,6.59
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,207,Nandakumar,GEN,Purba Medinapur,246444,BJP,Nirmal Khanra,129950,AITC,Sukumar De,99712,30238,12.27
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,208,Mahisadal,GEN,Purba Medinapur,237483,BJP,Subhas Chandra Panja,121235,AITC,Tilak Kumar Chakraborty,95064,26171,11.02
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,209,Haldia,GEN,Purba Medinapur,239468,BJP,Pradip Kumar Bijali,132186,AITC,Tapasi Mondal,83119,49067,20.49
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,210,Nandigram,GEN,Purba Medinapur,248095,BJP,Suvendu Adhikari,124966,AITC,Pabitra Kar,115489,9477,3.82
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,211,Chandipur,GEN,Purba Medinapur,239665,BJP,Pijush Kanti Das,124842,AITC,Uttam Barik,104782,20060,8.37
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,212,Patashpur,GEN,Purba Medinapur,226980,BJP,Tapan Maity,114034,AITC,Pijush Kanti Panda,105182,8852,3.9
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,213,Kanthi Uttar,GEN,Purba Medinapur,247669,BJP,Sumita Sinha,129184,AITC,Debabsis Bhunya,109272,19912,8.04
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,214,Bhagabanpur,GEN,Purba Medinapur,241893,BJP,Santanu Pramanik,127550,AITC,Manab Kumar Parua,107159,20391,8.43
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,215,Khejuri,GEN,Purba Medinapur,230820,BJP,Subrata Paik,126858,AITC,Rabin Chandra Mondal,94913,31945,13.84
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,216,Kanthi Dakshin,GEN,Purba Medinapur,211528,BJP,Arup Kumar Das,117483,AITC,Tarun Kumar Jana,86219,31264,14.78
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,217,Ramnagar,GEN,Purba Medinapur,241015,BJP,Chandra Sekhar Mondal,129738,AITC,Akhil Giri,103227,26511,11.0
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,218,Egra,GEN,Purba Medinapur,261312,BJP,Dibyendu Adhikari,138391,AITC,Tarun Kumar Maity,113488,24903,9.53
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,219,Dantan,GEN,Paschim Medinapur,214517,BJP,Ajit Kumar Jana,108309,AITC,Manik Maiti,98120,10189,4.75
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,220,Nayagram,GEN,Paschim Medinapur,206571,BJP,Amiya Kisku,100311,AITC,Dulal Murmu,93907,6404,3.1
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,221,Gopiballavpur,GEN,Paschim Medinapur,214222,BJP,Rajesh Mahata,115145,AITC,Ajit Mahata,88346,26799,12.51
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,222,Jhargram,GEN,Paschim Medinapur,216276,BJP,Lakshmi Kanta Sau,118325,AITC,Mongal Saren,80974,37351,17.27
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,223,Keshiary,GEN,Paschim Medinapur,229319,BJP,Bhadra Hemram,116494,AITC,Ramjiban Mandi,100212,16282,7.1
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,224,Kharagpur Sadar,GEN,Paschim Medinapur,184168,BJP,Dilip Ghosh,102397,AITC,Pradip Sarkar,67645,34752,18.87
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,225,Narayangarh,GEN,Paschim Medinapur,235741,BJP,Rama Prasad Giri,120817,AITC,Pratibha Maiti,100001,20816,8.83
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,226,Sabang,GEN,Paschim Medinapur,256120,BJP,Amal Kumar Panda,127189,AITC,Manas Bhunia,116099,11090,4.33
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,227,Pingla,GEN,Paschim Medinapur,247312,BJP,Swagata Manna,126524,AITC,Ajit Maity,107704,18820,7.61
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,228,Kharagpur,GEN,Paschim Medinapur,215807,AITC,Dinen Roy,101731,BJP,Tapan Bhuya,98774,2957,1.37
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,229,Debra,GEN,Paschim Medinapur,222118,BJP,Subhashis Om,116990,AITC,Rajib Banerjee,87559,29431,13.25
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,230,Daspur,GEN,Paschim Medinapur,241308,BJP,Tapan Kumar Dutta,127411,AITC,Ashis Hudait,96644,30767,12.75
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,231,Ghatal,GEN,Paschim Medinapur,244552,BJP,Shital Kapat,132915,AITC,Shyamali Sardar,94862,38053,15.56
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,232,Chandrakona,GEN,Paschim Medinapur,268936,BJP,Sukanta Dolui,142778,AITC,Surjya Kanta Doloi,108758,34020,12.65
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,233,Garbeta,GEN,Paschim Medinapur,223702,BJP,Pradip Lodha,114602,AITC,Uttara Singha,88183,26419,11.81
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,234,Salboni,GEN,Paschim Medinapur,269832,BJP,Biman Mahata,134538,AITC,Srikanta Mahata,119104,15434,5.72
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,235,Keshpur,GEN,Paschim Medinapur,247679,AITC,Seuli Saha,139592,BJP,Suvendu Samanta,90725,48867,19.73
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,236,Medinipur,GEN,Paschim Medinapur,256451,BJP,Sankar Kumar Guchhait,139791,AITC,Sujoy Hazra,99067,40724,15.88
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,237,Binpur,GEN,Paschim Medinapur,202451,BJP,Pranat Tudu,104343,AITC,Birbaha Hansda,81972,22371,11.05
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,238,Bandwan,GEN,Puruliya,259869,BJP,Labsen Baskey,130896,AITC,Rajib Lochan Saren,102024,28872,11.11
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,239,Balarampur,GEN,Puruliya,213399,BJP,Jaladhar Mahato,114894,AITC,Shantiram Mahato,80878,34016,15.94
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,240,Baghmundi,GEN,Puruliya,222560,BJP,Rahidas Mahato,108943,AITC,Sushanta Mahato,69483,39460,17.73
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,241,Joypur,GEN,Puruliya,218078,BJP,Biswajit Mahato,97873,AITC,Arjun Mahato,77112,20761,9.52
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,242,Purulia,GEN,Puruliya,222955,BJP,Sudip Kumar Mukherjee,124164,AITC,Sujoy Banerjee,76563,47601,21.35
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,243,Manbazar,GEN,Puruliya,230767,BJP,Mayna Murmu,117576,AITC,Sandhya Rani Tudu,90969,26607,11.53
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,244,Kashipur,GEN,Puruliya,210090,BJP,Kamalakanta Hansda,105633,AITC,Soumen Beltharia,84540,21093,10.04
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,245,Para,GEN,Puruliya,207768,BJP,Nadiar Chand Bouri,109182,AITC,Manik Chandra Bauri,76749,32433,15.61
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,246,Raghunathpur,GEN,Puruliya,230435,BJP,Mamoni Bauri,125449,AITC,Hazari Bauri,82150,43299,18.79
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,247,Saltora,GEN,Bankura,217249,BJP,Chandana Bauri,114533,AITC,Uttam Bauri,82576,31957,14.71
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,248,Chhatna,GEN,Bankura,210995,BJP,Satyanarayan Mukhopadhyay,119761,AITC,Swapan Kumar Mandal,74903,44858,21.26
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,249,Ranibandh,GEN,Bankura,225864,BJP,Kshudiram Tudu,125083,AITC,Tanushree Hansda,75235,49848,22.07
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,250,Raipur,GEN,Bankura,208996,BJP,Kshetra Mohan Hansda,110789,AITC,Thakur Moni Soren,82219,28570,13.67
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,251,Taldangra,GEN,Bankura,217921,BJP,Souvik Patra,123387,AITC,Falguni Singhababu,73788,49599,22.76
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,252,Bankura,GEN,Bankura,232994,BJP,Niladri Sekhar Dana,133366,AITC,Anup Mondal,80616,52750,22.64
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,253,Barjora,GEN,Bankura,234163,BJP,Billeswar Sinha,124785,AITC,Gautam Mishra,83690,41095,17.55
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,254,Onda,GEN,Bankura,241073,BJP,Amarnath Shakha,125575,AITC,Subrata Dutta,94525,31050,12.88
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,255,Bishnupur,GEN,Bankura,205243,BJP,Shukla Chatterjee,109887,AITC,Tanmay Ghosh,79613,30274,14.75
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,256,Katulpur,GEN,Bankura,242586,BJP,Lakshmi Kanta Majumdar,127479,AITC,Harakali Protiher,92765,34714,14.31
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,257,Indas,GEN,Bankura,234951,BJP,Nirmal Kumar Dhara,109934,AITC,Shyamali Roy Bagdi,109017,917,0.39
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,258,Sonamukhi,GEN,Bankura,224465,BJP,Dibakar Gharami,116901,AITC,Kallol Saha,87160,29741,13.25
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,259,Khandaghosh,GEN,Barddhaman,235695,AITC,Nabin Chandra Bag,109999,BJP,Goutam Dhara,101255,8744,3.71
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,260,Bardhaman Dakshin,GEN,Barddhaman,220072,BJP,Moumita Biswas Misra,115780,AITC,Khokan Das,83033,32747,14.88
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,261,Raina,GEN,Barddhaman,248411,BJP,Subhash Patra,110220,AITC,Mandira Dalui,109325,895,0.36
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,262,Jamalpur,GEN,Barddhaman,222458,BJP,Arun Halder,103510,AITC,Bhootnath Mallick,91942,11568,5.2
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,263,Monteswar,GEN,Barddhaman,226388,BJP,Saikat Panja,107059,AITC,Siddiqullah Chowdhury,90668,16391,7.24
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,264,Kalna,GEN,Barddhaman,225317,BJP,Siddhartha Majumdar,117075,AITC,Deboprasad Bag,86815,30260,13.43
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,265,Memari,GEN,Barddhaman,236980,BJP,Manab Guha,110859,AITC,Rasbihari Halder,103465,7394,3.12
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,266,Bardhaman Uttar,GEN,Barddhaman,261427,AITC,Nisith Kumar Malik,118819,BJP,Sanjay Das,112021,6798,2.6
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,267,Bhatar,GEN,Barddhaman,229003,BJP,Soumen Karfa,105411,AITC,Shantanu Koner,98449,6962,3.04
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,268,Purbasthali Dakshin,GEN,Barddhaman,233337,BJP,Prankrishna Tapadar,117695,AITC,Swapan Debnath,100031,17664,7.57
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,269,Purbasthali Uttar,GEN,Barddhaman,230283,BJP,Gopal Chattopadhyay,114059,AITC,Vasundhara Goswami,83109,30950,13.44
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,270,Katwa,GEN,Barddhaman,243036,BJP,Krishna Ghosh,123803,AITC,Rabindranath Chatterjee,88222,35581,14.64
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,271,Ketugram,GEN,Barddhaman,231051,BJP,Anadi Ghosh,117119,AITC,Sekh Sahonawez,88007,29112,12.6
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,272,Mangalkot,GEN,Barddhaman,233021,BJP,Shishir Ghosh,110545,AITC,Apurba Chowdhury,97030,13515,5.8
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,273,Ausgram,GEN,Barddhaman,232516,BJP,Kalita Maji,110864,AITC,Shyama Prasanna Lohar,97959,12905,5.55
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,274,Galsi,GEN,Barddhaman,240421,BJP,Raju Patra,114489,AITC,Alok Kumar Majhi,103622,10867,4.52
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,275,Pandabeswar,GEN,Barddhaman,176325,BJP,Jitendra Tiwari,81251,AITC,Narendranath Chakraborty,79840,1411,0.8
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,276,Durgapur Purba,GEN,Barddhaman,207420,BJP,Chandra Sekhar Banerjee,105141,AITC,Pradip Mazumdar,75273,29868,14.4
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,277,Durgapur Paschim,GEN,Barddhaman,212038,BJP,Lakshman Chandra Ghorui,112232,AITC,Kabi Dutta,75443,36789,17.35
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,278,Raniganj,GEN,Barddhaman,196679,BJP,Partha Ghosh,97513,AITC,Kalobaran Mondal,79714,17799,9.05
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,279,Jamuria,GEN,Barddhaman,179375,BJP,Bijan Mukherjee,89042,AITC,Hareram Singh,66817,22225,12.39
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,280,Asansol Dakshin,GEN,Barddhaman,208755,BJP,Agnimitra Paul,115693,AITC,Tapas Banerjee,76175,39518,18.93
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,281,Asansol Uttar,GEN,Barddhaman,206888,BJP,Krishnendu Mukherjee,102679,AITC,Moloy Ghatak,91258,11421,5.52
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,282,Kulti,GEN,Barddhaman,186866,BJP,Ajay Kumar Poddar,101730,AITC,Abhijit Ghatak,75699,26031,13.93
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,283,Barabani,GEN,Barddhaman,181358,BJP,Arijit Roy,89845,AITC,Bidhan Upadhyay,78365,11480,6.33
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,284,Dubrajpur,GEN,Birbhum,219857,BJP,Anup Kumar Saha,117250,AITC,Chandra Naresh Bauri,89658,27592,12.55
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,285,Suri,GEN,Birbhum,236572,BJP,Jagannath Chattopadhyay,123230,AITC,Ujjal Chatterjee,94794,28436,12.02
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,286,Bolpur,GEN,Birbhum,247668,AITC,Chandranath Sinha,115537,BJP,Dilip Ghosh,102287,13250,5.35
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,287,Nanoor,GEN,Birbhum,254496,AITC,Bidhan Chandra Majhi,120555,BJP,Khokan Das,112385,8170,3.21
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,288,Labpur,GEN,Birbhum,228074,BJP,Debasis Ojha,108814,AITC,Abhijit Sinha,105188,3626,1.59
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,289,Sainthia,GEN,Birbhum,240248,BJP,Krishna Kanta Saha,114622,AITC,Nilabati Saha,104340,10282,4.28
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,290,Mayureswar,GEN,Birbhum,214597,BJP,Dudh Kumar Mondal,107620,AITC,Abhijit Roy,86504,21116,9.84
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,291,Rampurhat,GEN,Birbhum,233503,BJP,Dhruba Saha,111824,AITC,Asish Banerjee,87610,24214,10.37
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,292,Hansan,GEN,Birbhum,227219,AITC,Fayezul Haque,103521,BJP,Nikhil Banerjee,75141,28380,12.49
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,293,Nalhati,GEN,Birbhum,224610,AITC,Rajendra Prasad Singh,88564,BJP,Anil Kumar Singh,74997,13567,6.04
+ae-west-bengal-2026,AE,West Bengal,2026,2026,official_winners_only,294,Murarai,GEN,Birbhum,236191,AITC,Mosarraf Hossain,94217,INC,Sanjibur Rahaman,57560,36657,15.52

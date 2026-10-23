@@ -1,0 +1,244 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,1,Valmiki Nagar,GEN,Pashchim Champaran,154117,IND,Dhirendra Pratap Singh,87538,INC,Irshad Hussain,43461,44077,28.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,2,Ramnagar,SC,Pashchim Champaran,134337,BJP,Bhagirathi Devi,64079,INC,Purnmasi Ram,50108,13971,10.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,3,Narkatiaganj,GEN,Pashchim Champaran,126856,INC,Vinay Verma,62667,BJP,Renu Devi,45161,17506,13.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,4,Bagaha,GEN,Pashchim Champaran,143653,BJP,Raghaw Sharan Pandey,64644,JDU,Bhishm Sahani,57461,7183,5.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,5,Lauriya,GEN,Pashchim Champaran,123097,BJP,Vinay Bihari,61795,RJD,Ran Kaushal Pratap Singh,42838,18957,15.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,6,Nautan,GEN,Pashchim Champaran,120236,BJP,Narayan Prasad,57232,JDU,Baidyanath Prasad Mahto,44968,12264,10.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,7,Chanpatia,GEN,Pashchim Champaran,118997,BJP,Prakash Rai,50812,JDU,N. N. Sahi,50336,476,0.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,8,Bettiah,GEN,Pashchim Champaran,113860,INC,Madan Mohan Tiwari,49301,BJP,Renu Devi,47480,1821,1.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,9,Sikta,GEN,Pashchim Champaran,134007,JDU,Khurshid (Feroz Ahmad),58159,BJP,Dilip Varma,55747,2412,1.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,10,Raxaul,GEN,Purba Champaran,121680,BJP,Ajay Kumar Singh,53052,RJD,Suresh Kumar,50376,2676,2.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,11,Sugauli,GEN,Purba Champaran,121586,BJP,Ramchandra Sahani,55078,RJD,Om Prakash Choudhary,48270,6808,5.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,12,Narkatiya,GEN,Purba Champaran,127699,RJD,Shamim Ahmad,62573,RLM,Sant Singh Kushwaha,45972,16601,13.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,13,Harsidhi,SC,Purba Champaran,110136,RJD,Rajendra Kumar,50222,BJP,Krishnanandan Paswan,43394,6828,6.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,14,Govindganj,GEN,Purba Champaran,104462,LJP,Raju Tiwari,54634,INC,Brajesh Kumar,34159,20475,19.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,15,Kesaria,GEN,Purba Champaran,101331,RJD,Rajesh Kumar,49348,BJP,Rajendra Prasad Gupta,36783,12565,12.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,16,Kalyanpur,GEN,Purba Champaran,103894,BJP,Sachindra Prasad Singh,49869,JDU,Razia Khatoon,38441,11428,11.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,17,Pipra,GEN,Purba Champaran,131229,BJP,Shyambabu Prasad Yadav,57478,JDU,Krishan Chandra,54066,3412,2.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,18,Madhuban,GEN,Purba Champaran,110114,BJP,Rana Randhir Singh,53956,JDU,Shivajee Rai,39641,14315,13.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,19,Motihari,GEN,Purba Champaran,130951,BJP,Pramod Kumar,62987,RJD,Binod Kumar Shrivastava,48321,14666,11.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,20,Chiraia,GEN,Purba Champaran,120048,BJP,Lal Babu Prasad Gupta,52821,RJD,Laxmi Narayan Prasad Yadav,49220,3601,3.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,21,Dhaka,GEN,Purba Champaran,135816,RJD,Faisal Rahman,64784,BJP,Pawan Kumar Jaiswal,50659,14125,10.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,22,Sheohar,GEN,Sheohar *,128634,JDU,Sharfuddin,54927,HAMS,Lovely Anand,54412,515,0.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,23,Riga,GEN,Sitamarhi,130870,INC,Amit Kumar Tuna,65042,BJP,Moti Lal Prasad,46197,18845,14.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,24,Bathnaha,SC,Sitamarhi,119823,BJP,Dinkar Ram,58833,INC,Surendra Ram,43016,15817,13.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,25,Parihar,GEN,Sitamarhi,123847,BJP,Gayatri Devi,54245,RJD,Ram Chandra Purve,51025,3220,2.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,26,Sursand,GEN,Sitamarhi,124919,RJD,Syed Abu Dojana,68081,IND,Amit Kumar,38100,29981,24.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,27,Bajpatti,GEN,Sitamarhi,124537,JDU,Ranju Geeta,60525,RLM,Rekha Kumari,45331,15194,12.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,28,Sitamarhi,GEN,Sitamarhi,127120,RJD,Sunil Kumar,59365,BJP,Sunil Kumar Pintu,48687,10678,8.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,29,Runnisaidpur,GEN,Sitamarhi,116875,RJD,Mangita Devi,56918,RLM,Pankaj Kumar Mishra,42425,14493,12.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,30,Belsand,GEN,Sitamarhi,105411,JDU,Sunita Singh Chauhan,48805,LJP,Md. Nasir Ahamad,40794,8011,7.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,31,Harlakhi,GEN,Madhubani,120425,RLM,Basant Kumar,53710,INC,Mohammad Shabbir,48652,5058,4.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,32,Benipatti,GEN,Madhubani,104749,INC,Bhawana Jha,46509,BJP,Vinod Narayan Jha,42528,3981,3.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,33,Khajauli,GEN,Madhubani,133146,RJD,Sitaram Yadav,61114,BJP,Arun Shankar Prasad,52060,9054,6.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,34,Babubarhi,GEN,Madhubani,137016,JDU,Kapil Deo Kamat,69740,LJP,Binod Kumar Singh,46722,23018,16.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,35,Bisfi,GEN,Madhubani,123450,RJD,Faiyaz Ahmad,69873,RLM,Manoj Kumar Yadav,35060,34813,28.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,36,Madhubani,GEN,Madhubani,129857,RJD,Samir Kumar Mahaseth,57916,BJP,Ramdeo Mahto,52462,5454,4.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,37,Rajnagar,SC,Madhubani,114496,BJP,Ram Prit Paswan,50836,RJD,Ramawatar Paswan,46485,4351,3.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,38,Jhanjharpur,GEN,Madhubani,125807,RJD,Gulab Yadav,53845,BJP,Nitish Mishra,53090,755,0.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,39,Phulparas,GEN,Madhubani,135965,JDU,Guljar Devi Yadav,64447,BJP,Ram Sundar Yadav,51123,13324,9.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,40,Laukaha,GEN,Madhubani,147349,JDU,Lakshmeshwar Roy,73528,BJP,Pramod Kumar Priyedarshi,51720,21808,14.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,41,Nirmali,GEN,Supaul *,139914,JDU,Aniruddha Prasad Yadav,69958,BJP,Ram Kumar Roy,48970,20988,15.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,42,Pipra,GEN,Supaul *,134311,RJD,Yaduvansh Kumar Yadav,72394,BJP,Vishwa Mohan Kumar,41771,30623,22.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,43,Supaul,GEN,Supaul *,130140,JDU,Bijendra Prasad Yadav,71577,BJP,Kishor Kumar,39042,32535,25.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,44,Triveniganj,SC,Supaul *,139608,JDU,Veena Bharti,83764,LJP,Anant Kumar Bharti,34902,48862,35.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,45,Chhatapur,GEN,Supaul *,146632,BJP,Neeraj Kumar Singh,66424,RJD,Jahur Alam,58213,8211,5.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,46,Narpatganj,GEN,Araria,159902,RJD,Anil Kumar Yadav,79311,BJP,Janardan Yadav,56605,22706,14.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,47,Raniganj,SC,Araria,140702,JDU,Achmit Rishidev,66130,BJP,Ramjidas Rishidev,53467,12663,9.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,48,Forbesganj,GEN,Araria,154402,BJP,Vidya Sagar Keshri,76892,RJD,Krityanand Biswas,54350,22542,14.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,49,Araria,GEN,Araria,137874,INC,Avidur Rahman,74728,LJP,Ajay Kumar Jha,42465,32263,23.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,50,Jokihat,GEN,Araria,133646,JDU,Sarfaraz Alam,80054,IND,Ranjeet Yadav,33545,46509,34.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,51,Sikti,GEN,Araria,144741,BJP,Vijay Kumar Mandal,64989,JDU,Shatrughan Prasad Suman,58041,6948,4.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,52,Bahadurganj,GEN,Kishanganj,120599,INC,Md. Tauseef Alam,58972,BJP,Awadh Bihari Singh,43536,15436,12.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,53,Thakurganj,GEN,Kishanganj,137845,JDU,Naushad Alam,61892,LJP,Gopal Kumar Agrawal,55276,6616,4.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,54,Kishanganj,GEN,Kishanganj,132856,INC,Mohammad Jawed,60317,BJP,Sweety Singh,52611,7706,5.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,55,Kochadhaman,GEN,Kishanganj,110506,JDU,Mujahid Alam,56469,AIMIM,Akhtarul Iman,37462,19007,17.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,56,Amour,GEN,Purnia,133739,INC,Abdul Zalil Mastan,76766,BJP,Saba Zafar,36912,39854,29.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,57,Baisi,GEN,Purnia,131493,RJD,Abdus Subhan,78633,IND,Vinod Kumar,33136,45497,34.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,58,Kasba,GEN,Purnia,143607,INC,Md Afaque Alam,61751,BJP,Pradip Kumar Das,60315,1436,1.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,59,Banmankhi,SC,Purnia,135693,BJP,Krishna Kumar Rishi,58077,RJD,Sanjiv Kumar Paswan,57262,815,0.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,60,Rupauli,GEN,Purnia,149245,JDU,Bima Bharti,70145,BJP,Prem Prakash Mandal,56713,13432,9.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,61,Dhamdaha,GEN,Purnia,156708,JDU,Leshi Singh,83055,RLM,Shiv Shankar Thakur,50147,32908,21.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,62,Purnia,GEN,Purnia,141405,BJP,Vijay Kumar Khemka,73107,INC,Indu Sinha,47088,26019,18.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,63,Katihar,GEN,Katihar,134366,BJP,Tarkishore Prasad,64362,JDU,Bijay Singh,49850,14512,10.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,64,Kadwa,GEN,Katihar,128658,INC,Shakeel Ahmad Khan,57639,BJP,Chander Bhushan Thakur,51721,5918,4.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,65,Balrampur,GEN,Katihar,157922,CPIML,Mahbub Alam,80224,BJP,Barun Kumar Jha,54009,26215,16.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,66,Pranpur,GEN,Katihar,148246,BJP,Binod Kumar Singh,68787,NCP,Israt Parween,57223,11564,7.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,67,Manihari,ST,Katihar,135285,INC,Manohar Prasad Singh,64666,LJP,Anil Kumar Oraon,50326,14340,10.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,68,Barari,GEN,Katihar,146713,RJD,Neeraj Kumar,69395,BJP,Bibhash Chandra Choudhary,55310,14085,9.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,69,Korha,SC,Katihar,137753,INC,Punam Paswan,60612,BJP,Mahesh Paswan,56479,4133,3.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,70,Alamnagar,GEN,Madhepura,165283,JDU,Narendra Narayan Yadav,93550,LJP,Chandan Singh,46940,46610,28.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,71,Bihariganj,GEN,Madhepura,163685,JDU,Niranjan Kumar Mehta,85607,BJP,Ravindra Charan Yadav,53525,32082,19.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,72,Singheshwar,SC,Madhepura,155830,JDU,Ramesh Rishidev,94900,HAMS,Manju Devi,37555,57345,36.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,73,Madhepura,GEN,Madhepura,164379,RJD,Chandra Shekhar,88107,BJP,Vijay Kumar Bimal,51615,36492,22.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,74,Sonbarsha,SC,Saharsa,128215,JDU,Ratnesh Sada,78211,LJP,Sarita Devi,30772,47439,37.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,75,Saharsa,GEN,Saharsa,162778,RJD,Arun Kumar,85458,BJP,Alok Ranjan Jha,52903,32555,20.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,76,Simri Bakhtiarpur,GEN,Saharsa,141103,JDU,Dinesh Chandra Yadav,79018,LJP,Yusuf Salahuddin,40920,38098,27.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,77,Mahishi,GEN,Saharsa,125795,RJD,Abdul Ghafoor,69564,RLM,Chandan Kumar Sah,37361,32203,25.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,78,Kusheshwar Asthan,SC,Darbhanga,97035,JDU,Shashi Bhushan Hazari,51428,LJP,Dhananjay Kumar Paswan,31051,20377,21.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,79,Gaura Bauram,GEN,Darbhanga,97040,JDU,Madan Sahni,47744,LJP,Vinod Sahni,34740,13004,13.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,80,Benipur,GEN,Darbhanga,114944,JDU,Sunil Choudhary,60346,BJP,Gopal Jee Thakur,37357,22989,20.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,81,Alinagar,GEN,Darbhanga,109274,RJD,Abdul Bari Siddiqui,51578,BJP,Mishri Lal Yadav,41306,10272,9.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,82,Darbhanga Rural,GEN,Darbhanga,109122,RJD,Lalit Kumar Yadav,61327,HAMS,Naushad Ahmad,31427,29900,27.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,83,Darbhanga,GEN,Darbhanga,127193,BJP,Sanjay Saraogi,56729,RJD,Om Prakash Kheria,51386,5343,4.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,84,Hayaghat,GEN,Darbhanga,97522,JDU,Amarnath Gami,55490,LJP,Ramesh Choudhary,27404,28086,28.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,85,Bahadurpur,GEN,Darbhanga,123890,RJD,Bhola Yadav,59715,BJP,Hari Sahni,45592,14123,11.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,86,Keoti,GEN,Darbhanga,116629,RJD,Faraz Fatmi,52600,BJP,Ashok Kumar Yadav,46535,6065,5.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,87,Jale,GEN,Darbhanga,115821,BJP,Jibesh Kumar,51078,JDU,Rishi Mishra,47371,3707,3.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,88,Gaighat,GEN,Muzaffarpur,139163,RJD,Maheshwar Prasad Yadav,60675,BJP,Veena Devi,57613,3062,2.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,89,Aurai,GEN,Muzaffarpur,125124,RJD,Surendra Kumar,57807,BJP,Ram Surat Kumar,48548,9259,7.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,90,Minapur,GEN,Muzaffarpur,133133,RJD,Munna Yadav,66434,BJP,Ajay Kumar,46730,19704,14.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,91,Bochahan,SC,Muzaffarpur,131211,IND,Baby Kumari,67836,JDU,Ramai Ram,43693,24143,18.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,92,Sakra,SC,Muzaffarpur,123964,RJD,Lal Babu Ram,57643,BJP,Arjun Ram,47726,9917,8.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,93,Kurhani,GEN,Muzaffarpur,139388,BJP,Kedar Prasad Gupta,64257,JDU,Manoj Kumar Singh,54222,10035,7.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,94,Muzaffarpur,GEN,Muzaffarpur,130627,BJP,Suresh Kumar Sharma,65705,JDU,Bijendra Chaudhary,45328,20377,15.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,95,Kanti,GEN,Muzaffarpur,133752,IND,Ashok Kumar Choudhary,61794,HAMS,Ajit Kumar,51896,9898,7.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,96,Baruraj,GEN,Muzaffarpur,120805,RJD,Nand Kumar Rai,53275,BJP,Arun Kumar Singh,49409,3866,3.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,97,Paroo,GEN,Muzaffarpur,133151,BJP,Ashok Kumar Singh,61782,RJD,Shankar Prasad,51396,10386,7.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,98,Sahebganj,GEN,Muzaffarpur,129781,RJD,Ram Vichar Ray,59700,BJP,Raju Kumar Singh,50615,9085,7.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,99,Baikunthpur,GEN,Gopalganj,134421,BJP,Mithlesh Tiwari,65329,JDU,Manjeet Kumar Singh,48929,16400,12.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,100,Barauli,GEN,Gopalganj,123191,RJD,Md. Nematullah,52603,BJP,Rampravesh Rai,52110,493,0.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,101,Gopalganj,GEN,Gopalganj,136576,BJP,Subhash Singh,59957,RJD,Reyazul Haque Raju,56133,3824,2.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,102,Kuchaikote,GEN,Gopalganj,135821,JDU,Amrendra Kumar Pandey,59218,LJP,Kali Prasad Pandey,56229,2989,2.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,103,Bhore,SC,Gopalganj,128476,INC,Anil Kumar,60640,BJP,Indradev Manjhi,48564,12076,9.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,104,Hathua,GEN,Gopalganj,128274,JDU,Ramsewak Singh,67986,HAMS,Mahachandra Prasad Singh,41048,26938,21.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,105,Siwan,GEN,Siwan,125291,BJP,Vyas Deo Prasad,55003,JDU,Bablu Prasad,51495,3508,2.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,106,Ziradei,GEN,Siwan,115876,JDU,Ramesh Singh Kushwaha,53187,BJP,Asha Devi,45308,7879,6.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,107,Darauli,SC,Siwan,125510,CPIML,Satyadeo Ram,58990,BJP,Ramayan Manjhi,47694,11296,9.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,108,Raghunathpur,GEN,Siwan,110995,RJD,Hari Shankar Yadav,51724,BJP,Manoj Kumar Singh,42622,9102,8.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,109,Daraunda,GEN,Siwan,118907,JDU,Kavita Singh,56124,BJP,Jitendra Swami,44947,11177,9.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,110,Barharia,GEN,Siwan,123467,JDU,Shyam Bahadur Singh,59141,LJP,Bachha Panday,45806,13335,10.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,111,Goriakothi,GEN,Siwan,133925,RJD,Satyadeo Prasad Singh,60132,BJP,Devesh Kant Singh,53704,6428,4.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,112,Maharajganj,GEN,Siwan,119129,JDU,Hem Narayan Sah,59445,BJP,Kumar Deo Ranjan Singh,41814,17631,14.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,113,Ekma,GEN,Saran,110439,JDU,Manoranjan Singh,51133,BJP,Kameshwar Kumar Singh,42740,8393,7.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,114,Manjhi,GEN,Saran,114457,INC,Vijay Shanker Dubey,57229,LJP,Keshav Singh,40060,17169,15.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,115,Baniapur,GEN,Saran,120322,RJD,Kedar Nath Singh,57754,BJP,Tarkeshwar Singh,44519,13235,11.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,116,Taraiya,GEN,Saran,107361,RJD,Mudrika Prasad Rai,53574,BJP,Janak Singh,37684,15890,14.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,117,Marhaura,GEN,Saran,106570,RJD,Jitendra Kumar Ray,51793,BJP,Lal Babu Rai,38791,13002,12.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,118,Chapra,GEN,Saran,122700,BJP,C. N. Gupta,56687,RJD,Randhir Kumar Singh,47608,9079,7.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,119,Garkha,SC,Saran,111142,RJD,Muneshwar Chaudhary,60795,BJP,Gyanchand Manjhi,33676,27119,24.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,120,Amnour,GEN,Saran,103630,BJP,Shatrudhan Tiwari,47255,JDU,Krishna Kumar Mantoo,40830,6425,6.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,121,Parsa,GEN,Saran,108481,RJD,Chandrika Rai,63570,LJP,Chhotelal Rai,28639,34931,32.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,122,Sonpur,GEN,Vaishali,129040,RJD,Ramanuj Prasad Yadav,69552,BJP,Vinay Kumar Singh,40131,29421,22.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,123,Hajipur,GEN,Vaishali,143106,BJP,Awadhesh Singh,65399,INC,Jagannath Prasad Rai,56241,9158,6.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,124,Lalganj,GEN,Vaishali,153019,LJP,Raj Kumar Sah,74367,JDU,Vijay Kumar Shukla,55699,18668,12.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,125,Vaishali,GEN,Vaishali,144770,JDU,Raj Kishore Singh,76584,HAMS,Brishin Patel,46471,30113,20.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,126,Mahua,GEN,Vaishali,124061,RJD,Tej Pratap Yadav,66745,HAMS,Ravindra Ray,38707,28038,22.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,127,Raja Pakar,SC,Vaishali,110423,RJD,Shivchandra Ram,53556,LJP,Ram Nath Raman,40305,13251,12.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,128,Raghopur,GEN,Vaishali,143331,RJD,Tejashwi Yadav,69515,BJP,Satish Kumar,52315,17200,12.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,129,Mahnar,GEN,Vaishali,127598,JDU,Umesh Singh Kushwaha,66861,BJP,Achuta Nand,41597,25264,19.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,130,Patepur,SC,Vaishali,123241,RJD,Prema Chaudhary,57677,BJP,Mahendra Baitha,47078,10599,8.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,131,Kalyanpur,SC,Samastipur,138311,JDU,Maheshwar Hazari,75518,LJP,Prince Raj,42047,33471,24.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,132,Warisnagar,GEN,Samastipur,146049,JDU,Ashok Kumar,90697,LJP,Chandrashekhar Rai,33445,57252,39.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,133,Samastipur,GEN,Samastipur,125279,RJD,Akhtarul Islam Sahin,65646,BJP,Renu Kushawaha,40841,24805,19.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,134,Ujiarpur,GEN,Samastipur,140282,RJD,Alok Kumar Mehta,82486,RLM,Kumar Anant,36754,45732,32.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,135,Morwa,GEN,Samastipur,112581,JDU,Vidya Sagar Singh Nishad,56853,BJP,Suresh Ray,38840,18013,16.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,136,Sarairanjan,GEN,Samastipur,127314,JDU,Vijay Kumar Chaudhary,68495,BJP,Ranjeet Nirguni,39722,28773,22.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,137,Mohiuddinnagar,GEN,Samastipur,112722,RJD,Ejya Yadav,63801,IND,Rajesh Kumar Singh,32013,31788,28.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,138,Bibhutipur,GEN,Samastipur,130127,JDU,Ram Balak Singh,64933,CPI(M),Ramdeo Verma,45675,19258,14.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,139,Rosera,SC,Samastipur,137181,INC,Ashok Kumar,72980,BJP,Manju Hazari,43624,29356,21.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,140,Hasanpur,GEN,Samastipur,125152,JDU,Raj Kumar Ray,69460,RLM,Vinod Choudhary,36920,32540,26.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,141,Cheria-Bariarpur,GEN,Begusarai,122481,JDU,Manju Verma,66140,LJP,Anil Kumar Chaudhary,37969,28171,23.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,142,Bachhwara,GEN,Begusarai,139360,INC,Ramdeo Rai,78877,LJP,Arvind Kumar Singh,39578,39299,28.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,143,Teghra,GEN,Begusarai,132280,RJD,Birendra Kumar,63362,BJP,Ram Lakhan Singh,49076,14286,10.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,144,Matihani,GEN,Begusarai,160200,JDU,Narendra Kumar Singh,78018,BJP,Sarvesh Kumar,58153,19865,12.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,145,Sahebpur Kamal,GEN,Begusarai,115825,RJD,Shreenarayan Yadav,69379,LJP,M.d. Aslam,29072,40307,34.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,146,Begusarai,GEN,Begusarai,138428,INC,Amita Bhushan,65338,BJP,Surendra Mehata,52326,13012,9.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,147,Bakhri,SC,Begusarai,127230,RJD,Upendra Paswan,74811,BJP,Ramanand Ram,33334,41477,32.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,148,Alauli,SC,Khagaria,116210,RJD,Chandan Kumar,59732,LJP,Pashupati Kumar Paras,39047,20685,17.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,149,Khagaria,GEN,Khagaria,122080,JDU,Poonam Devi Yadav,64703,HAMS,Rajesh Kumar,39066,25637,21.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,150,Beldaur,GEN,Khagaria,142584,JDU,Panna Lal Singh Patel,67870,LJP,Mithilesh Kumar Nishad,53326,14544,10.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,151,Parbatta,GEN,Khagaria,151397,JDU,Ramanand Prasad Singh,79332,BJP,Ramanuj Choudhary,49355,29977,19.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,152,Bihpur,GEN,Bhagalpur,125465,RJD,Varsha Rani,58718,BJP,Kumar Shailendra,47928,10790,8.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,153,Gopalpur,GEN,Bhagalpur,122925,JDU,Narendra Kumar Niraj,54702,BJP,Anil Kumar Yadav,49785,4917,4.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,154,Pirpainti,SC,Bhagalpur,138447,RJD,Ram Vilash Paswan,60778,BJP,Lalan Kumar,56902,3876,2.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,155,Kahalgaon,GEN,Bhagalpur,141875,INC,Sadanand Singh,72072,LJP,Niraj Kumar Mandal,48521,23551,16.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,156,Bhagalpur,GEN,Bhagalpur,125469,INC,Ajeet Sharma,57716,BJP,Arjit Shashwat Choubey,48933,8783,7.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,157,Sultanganj,GEN,Bhagalpur,132510,JDU,Subodh Roy,63340,RLM,Himanshu Prasad,49294,14046,10.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,158,Nathnagar,GEN,Bhagalpur,131115,JDU,Ajay Kumar Mandal,59264,LJP,Amar Nath Prasad,52183,7081,5.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,159,Amarpur,GEN,Banka *,124401,JDU,Janardan Manjhi,57473,BJP,Mrinal Shekhar,48268,9205,7.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,160,Dhoraiya,SC,Banka *,120933,JDU,Manish Kumar,62280,RLM,Bhudeo Choudhary,40513,21767,18.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,161,Banka,GEN,Banka *,114425,BJP,Ramnarayan Mandal,50462,RJD,Zafrul Hoda,46800,3662,3.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,162,Katoria,ST,Banka *,91362,RJD,Sweety Sima Hembram,42849,BJP,Nikki Hembram,34809,8040,8.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,163,Belhar,GEN,Banka *,129070,JDU,Giridhari Yadav,61954,BJP,Manoj Yadav,47756,14198,11.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,164,Tarapur,GEN,Munger,127771,JDU,Mewalal Chaudhary,59669,HAMS,Shakuni Choudhury,48936,10733,8.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,165,Munger,GEN,Munger,139046,RJD,Vijay Kumar 'Vijay',60764,BJP,Pranav Kumar,57427,3337,2.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,166,Jamalpur,GEN,Munger,123065,JDU,Shailesh Kumar,59072,LJP,Himanshu Kunvar,45534,13538,11.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,167,Suryagarha,GEN,Lakhisarai *,137799,RJD,Prahlad Yadav,71655,BJP,Prem Ranjan Patel,45474,26181,19.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,168,Lakhisarai,GEN,Lakhisarai *,155842,BJP,Vijay Kumar Sinha,69194,JDU,Ramanand Mandal,63272,5922,3.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,169,Sheikhpura,GEN,Sheikhpura *,110667,JDU,Randhir Kumar Soni,55776,HAMS,Naresh Saw,38291,17485,15.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,170,Barbigha,GEN,Sheikhpura *,99113,INC,Sudarshan Kumar,50746,RLM,Sheo Kumar,33501,17245,17.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,171,Asthawan,GEN,Nalanda,114735,JDU,Jitendra Kumar,53467,LJP,Chhote Lal Yadav,44058,9409,8.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,172,Biharsharif,GEN,Nalanda,161078,BJP,Sunil Kumar,69586,JDU,Mohammad Asghar Shamim,67331,2255,1.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,173,Rajgir,SC,Nalanda,109186,JDU,Ravi Jyoti Kumar,48478,BJP,Satyadev Narayan Arya,44329,4149,3.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,174,Islampur,GEN,Nalanda,122702,JDU,Chandrasen Prasad,52271,BJP,Birendra Gope,52026,245,0.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,175,Hilsa,GEN,Nalanda,135181,RJD,Shakti Singh Yadav,70024,LJP,Deepika Kumari,44880,25144,18.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,176,Nalanda,GEN,Nalanda,129671,JDU,Shrawan Kumar,56277,BJP,Kaushlendra Kumar,53943,2334,1.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,177,Harnaut,GEN,Nalanda,128809,JDU,Hari Narayan Singh,60798,LJP,Arun Kumar,48690,12108,9.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,178,Mokama,GEN,Patna,125455,IND,Anant Kumar Singh,64233,JDU,Neeraj Kumar,42404,21829,17.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,179,Barh,GEN,Patna,121205,BJP,Gyanendra Kumar Singh,55148,JDU,Manoj Kumar,47876,7272,6.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,180,Bakhtiarpur,GEN,Patna,121486,BJP,Ranvijay Singh Yadav,55155,RJD,Aniruddh Kumar Yadav,48108,7047,5.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,181,Digha,GEN,Patna,140469,BJP,Sanjeev Chaurasiya,68971,JDU,Rajeev Ranjan Prasad,50429,18542,13.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,182,Bankipur,GEN,Patna,117233,BJP,Nitin Nabin,64596,INC,Kumar Ashish,35053,29543,25.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,183,Kumhrar,GEN,Patna,124201,BJP,Arun Kumar Sinha,67068,INC,Aquil Haider,38502,28566,23.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,184,Patna Sahib,GEN,Patna,144037,BJP,Nand Kishore Yadav,62224,RJD,Santosh Mehta,60208,2016,1.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,185,Fatuha,GEN,Patna,119878,RJD,Rama Nand Yadav,63415,LJP,Satyendra Kumar Singh,38481,24934,20.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,186,Danapur,GEN,Patna,134116,BJP,Asha Devi,59145,RJD,Raj Kishor Yadav,54853,4292,3.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,187,Maner,GEN,Patna,141937,RJD,Bhai Virendra,69123,BJP,Srikant Nirala,51523,17600,12.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,188,Phulwari,SC,Patna,145276,JDU,Shyam Rajak,81500,HAMS,Rajeshwar Manjhi,41985,39515,27.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,189,Masaurhi,SC,Patna,152992,RJD,Rekha Devi,83228,HAMS,Nutan Paswan,46816,36412,23.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,190,Paliganj,GEN,Patna,124302,RJD,Jai Vardhan Yadav,64886,BJP,Ram Janm Sharma,40771,24115,19.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,191,Bikram,GEN,Patna,141325,INC,Siddharth,78577,BJP,Anil Kumar,41550,37027,26.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,192,Sandesh,GEN,Bhojpur,121049,RJD,Arun Yadav,62098,BJP,Sanjay Singh Tiger,40794,21304,17.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,193,Barhara,GEN,Bhojpur,119100,RJD,Saroj Yadav,56334,BJP,Asha Devi,44901,11433,9.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,194,Arrah,GEN,Bhojpur,121675,RJD,Mohammad Nawaz Alam,51955,BJP,Amrendra Pratap Singh,51469,486,0.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,195,Agiaon,SC,Bhojpur,99061,JDU,Prabhunath Prasad,49035,BJP,Shivesh Kumar,35167,13868,14.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,196,Tarari,GEN,Bhojpur,137049,CPIML,Sudama Prasad,58383,LJP,Gita Pandey,58109,274,0.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,197,Jagdishpur,GEN,Bhojpur,139706,RJD,Ram Vishun Singh,66220,RLM,Rakesh Raushan,52529,13691,9.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,198,Shahpur,GEN,Bhojpur,119257,RJD,Rahul Tiwari,56647,BJP,Visheshwar Ojha,44721,11926,10.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,199,Brahampur,GEN,Buxar *,135116,RJD,Shambhu Nath Yadav,68639,BJP,Vivek Thakur,46210,22429,16.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,200,Buxar,GEN,Buxar *,137388,INC,Sanjay Kumar Tiwari,63199,BJP,Pradeep Dubey,53582,9617,7.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,201,Dumraon,GEN,Buxar *,133651,JDU,Dadan Yadav,69899,RLM,Ram Bihari Singh,43704,26195,19.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,202,Rajpur,SC,Buxar *,147838,JDU,Santosh Kumar Nirala,78059,BJP,Bishawnath Ram,47604,30455,20.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,203,Ramgarh,GEN,Kaimur (Bhabua) *,132149,BJP,Ashok Kumar Singh,60393,RJD,Ambika Singh Yadav,51935,8458,6.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,204,Mohania,SC,Kaimur (Bhabua) *,119913,BJP,Niranjan Ram,54321,INC,Sanjay Kumar,47606,6715,5.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,205,Bhabua,GEN,Kaimur (Bhabua) *,127731,BJP,Anand Bhushan Pandey,58757,JDU,Pramod Kumar Singh,49815,8942,7.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,206,Chainpur,GEN,Rohtas,152329,BJP,Brij Kishor Bind,65044,BSP,Mohammad Zama Khan,64435,609,0.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,207,Chenari,SC,Rohtas,135990,RLM,Lalan Paswan,62283,INC,Mangal Ram,53308,8975,6.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,208,Sasaram,GEN,Rohtas,154989,RJD,Ashok Kumar,74705,BJP,Jawahar Prasad,57036,17669,11.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,209,Kargahar,GEN,Rohtas,160596,JDU,Bashisht Singh,76925,RLM,Birendra Kumar Singh,59581,17344,10.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,210,Dinara,GEN,Rohtas,128993,JDU,Jai Kumar Singh,55983,BJP,Rajendra Prasad Singh,53661,2322,1.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,211,Nokha,GEN,Rohtas,125165,RJD,Anita Devi,63208,BJP,Rameshwar Chaurasiya,43182,20026,16.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,212,Dehri,GEN,Rohtas,132611,RJD,Mohammad Iliyas Hussain,58614,RLM,Jitendra Kumar,54105,4509,3.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,213,Karakat,GEN,Rohtas,137048,RJD,Sanjay Kumar Singh,64824,BJP,Rajeshwar Raj,51667,13157,9.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,214,Arwal,GEN,Jehanabad,101628,RJD,Ravindra Singh,51526,BJP,Chitranjan Kumar,34859,16667,16.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,215,Kurtha,GEN,Jehanabad,98540,JDU,Satyadeo Singh,49959,RLM,Ashok Kumar Verma,33799,16160,16.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,216,Jehanabad,GEN,Jehanabad,118632,RJD,Mudrika Singh Yadav,62874,RLM,Praveen Kumar,37962,24912,21.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,217,Ghosi,GEN,Jehanabad,111672,JDU,Krishna Nandan Prasad Verma,56506,HAMS,Rahul Kumar,38415,18091,16.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,218,Makhdumpur,SC,Jehanabad,96723,RJD,Subedar Das,51457,HAMS,Jitan Ram Manjhi,30758,20699,21.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,219,Goh,GEN,Aurangabad,128770,BJP,Manoj Kumar,58977,JDU,Ranvijay Kumar,50478,8499,6.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,220,Obra,GEN,Aurangabad,139694,RJD,Birendra Kumar Sinha,66075,RLM,Chandra Bhushan Verma,52664,13411,9.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,221,Nabinagar,GEN,Aurangabad,109197,JDU,Virendra Kumar Singh,49466,BJP,Gopal Narayan Singh,43351,6115,5.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,222,Kutumba,SC,Aurangabad,100234,INC,Rajesh Kumar,47211,HAMS,Santosh Suman Manjhi,37989,9222,9.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,223,Aurangabad,GEN,Aurangabad,119396,INC,Anand Shankar Singh,59340,BJP,Ramadhar Singh,42147,17193,14.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,224,Rafiganj,GEN,Aurangabad,126538,JDU,Ashok Kumar Singh,58208,LJP,Pramod Kumar Singh,49351,8857,7.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,225,Gurua,GEN,Gaya,129421,BJP,Rajiv Nandan,58369,JDU,Ramchandra Prasad Singh,51639,6730,5.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,226,Sherghati,GEN,Gaya,115504,JDU,Vinod Prasad Yadav,51861,HAMS,Mukesh Kumar Yadav,46317,5544,4.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,227,Imamganj,SC,Gaya,116996,HAMS,Jitan Ram Manjhi,61072,JDU,Uday Narayan Choudhary,38375,22697,19.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,228,Barachatti,SC,Gaya,123013,RJD,Samta Devi,60399,LJP,Sudha Devi,44162,16237,13.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,229,Bodh Gaya,SC,Gaya,130861,RJD,Kumar Sarvjeet,68178,BJP,Shyamdeo Paswan,43053,25125,19.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,230,Gaya Town,GEN,Gaya,110632,BJP,Prem Kumar,56644,INC,Priya Ranjan,37394,19250,17.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,231,Tikari,GEN,Gaya,141473,JDU,Abhay Kumar Sinha,73566,HAMS,Anil Kumar,46686,26880,19.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,232,Belaganj,GEN,Gaya,130635,RJD,Surendra Prasad Yadav,70542,HAMS,Sharim Ali,40497,30045,23.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,233,Atri,GEN,Gaya,125507,RJD,Kunti Devi,60243,LJP,Arvind Kumar Singh,46438,13805,11.0
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,234,Wazirganj,GEN,Gaya,130922,INC,Awadhesh Kumar Singh,60486,BJP,Birendra Singh,50798,9688,7.4
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,235,Rajauli,SC,Nawada,115965,RJD,Prakash Veer,50909,BJP,Arjun Ram,47662,3247,2.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,236,Hisua,GEN,Nawada,133449,BJP,Anil Singh,61254,JDU,Kaushal Yadav,52179,9075,6.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,237,Nawada,GEN,Nawada,127648,RJD,Rajballabh Prasad,59867,RLM,Indradeo Prasad,48634,11233,8.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,238,Gobindpur,GEN,Nawada,107335,INC,Purnima Yadav,48086,BJP,Fula Devi,43148,4938,4.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,239,Warisaliganj,GEN,Jamui *,129622,BJP,Aruna Devi,62089,JDU,Pradip Kumar,48090,13999,10.8
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,240,Sikandra,SC,Jamui *,111351,INC,Sudhir Kumar,50776,LJP,Subhash Chandra Bosh,43872,6904,6.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,241,Jamui,GEN,Jamui *,130611,RJD,Vijay Prakash Yadav,59167,BJP,Ajoy Pratap,51853,7314,5.6
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,242,Jhajha,GEN,Jamui *,133109,BJP,Rabindra Yadav,68018,JDU,Damodar Rawat,45124,22894,17.2
+ae-bihar-2015,AE,Bihar,2015,2015,official_winners_only,243,Chakai,GEN,Jamui *,116108,RJD,Savitri Devi,56661,IND,Sumit Kumar Singh,42031,14630,12.6

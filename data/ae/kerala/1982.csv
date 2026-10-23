@@ -1,0 +1,141 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-kerala-1982,AE,Kerala,1982,1982,official,1,Manjeshwar,GEN,,53551,CPI,A . Subba Rao,19554,INC,N. Ramakrishnan,19391,163,0.3
+ae-kerala-1982,AE,Kerala,1982,1982,official,2,Kasaragod,GEN,,59692,IUML,C. T. Ahammad Ali,25676,BJP,M. Narayana Bhat,17657,8019,13.43
+ae-kerala-1982,AE,Kerala,1982,1982,official,3,Udma,GEN,,68871,IND,M. Kunhiraman Nambiar,32946,IUML,P. Muhammed Kunhi Master,26327,6619,9.61
+ae-kerala-1982,AE,Kerala,1982,1982,official,4,Hosdrug,SC,,73872,CPI,K . T. Kumaran,41728,INC,T. Kumaran Master,32144,9584,12.97
+ae-kerala-1982,AE,Kerala,1982,1982,official,5,Trikaripur,GEN,,84192,CPI(M),O . Bharathan,48197,KCJ,K . T. Mathai,35995,12202,14.49
+ae-kerala-1982,AE,Kerala,1982,1982,official,6,Irikkur,GEN,,70624,IND,K .C. Joseph,39261,JNP,S. K. Madhavan,30037,9224,13.06
+ae-kerala-1982,AE,Kerala,1982,1982,official,7,Payyannur,GEN,,76706,CPI(M),M. V. Raghavan,44271,INC,T.V. Bharathan,28311,15960,20.81
+ae-kerala-1982,AE,Kerala,1982,1982,official,8,Taliparamba,GEN,,84450,CPI(M),C. P. Moossankutty,46313,KEC,P.T. Jose,35774,10539,12.48
+ae-kerala-1982,AE,Kerala,1982,1982,official,9,Azhikode,GEN,,63667,CPI(M),P. Devootty,36845,IND,P. Narayanan,26389,10456,16.42
+ae-kerala-1982,AE,Kerala,1982,1982,official,10,Kannur,GEN,,69635,IND,P. Bhaskaran,34871,JNP,M. Pavithran,32130,2741,3.94
+ae-kerala-1982,AE,Kerala,1982,1982,official,11,Edakkad,GEN,,72751,ICS,A . K . Sasheendran,38837,IND,K. Suddhakaran,31294,7543,10.37
+ae-kerala-1982,AE,Kerala,1982,1982,official,12,Thalassery,GEN,,64432,CPI(M),Kodiyeri Balakrishnan,40766,IND,K . C. Nandanan,23666,17100,26.54
+ae-kerala-1982,AE,Kerala,1982,1982,official,13,Peringalam,GEN,,67821,AIML,N. A . Mammoo Haji,38825,INC,M . Janardhanan,19973,18852,27.8
+ae-kerala-1982,AE,Kerala,1982,1982,official,14,Kuthuparamba,GEN,,69210,CPI(M),P . V. Kunhikannan,42111,KEC,C . M. Mani,26648,15463,22.34
+ae-kerala-1982,AE,Kerala,1982,1982,official,15,Peravoor,GEN,,77036,IND,K. P. Noorudin,36903,ICS,P . Ramakrishnan,36777,126,0.16
+ae-kerala-1982,AE,Kerala,1982,1982,official,16,North Wynad,ST,,62218,INC,K . Raghavan Master,32225,CPI,K . K . Annan,25306,6919,11.12
+ae-kerala-1982,AE,Kerala,1982,1982,official,17,Badagara,GEN,,77279,JNP,K . Chandrasekharan,42475,IND,M . K . Prabhakaran,30298,12177,15.76
+ae-kerala-1982,AE,Kerala,1982,1982,official,18,Nadapuram,GEN,,78628,CPI,K . T. Kanaran,39927,INC,M. T. Padma,37660,2267,2.88
+ae-kerala-1982,AE,Kerala,1982,1982,official,19,Meppayur,GEN,,79856,AIML,A . V. Abdurahiman,42022,IUML,A. C. Abdulla,34835,7187,9.0
+ae-kerala-1982,AE,Kerala,1982,1982,official,20,Quilandy,GEN,,78426,INC,Manimangalath Kutaly,35293,ICS,C. H. Haridas,33673,1620,2.07
+ae-kerala-1982,AE,Kerala,1982,1982,official,21,Perambra,GEN,,79361,CPI(M),A . K . Padmanabhan Master,41308,KCJ,K . A. . Devassia,34585,6723,8.47
+ae-kerala-1982,AE,Kerala,1982,1982,official,22,Balusseri,GEN,,69823,ICS,A . C . Shanmukhadas,34055,IND,P. K. Gopalan,27370,6685,9.57
+ae-kerala-1982,AE,Kerala,1982,1982,official,23,Koduvally,GEN,,72932,IUML,P. V. Muhammad,35238,JNP,P. Raghavan Nair,31498,3740,5.13
+ae-kerala-1982,AE,Kerala,1982,1982,official,24,Calicut I,GEN,,73225,CPI(M),N. Chandrasekhara Kurup,34830,IND,K. Gopalan,32757,2073,2.83
+ae-kerala-1982,AE,Kerala,1982,1982,official,25,Calicut Ii,GEN,,70577,AIML,P. M. Abubacker,35109,IND,N. P. Moideen,29155,5954,8.44
+ae-kerala-1982,AE,Kerala,1982,1982,official,26,Beypore,GEN,,75898,CPI(M),K. Moosakutty,37592,INC,P. Sureswaran Master,29015,8577,11.3
+ae-kerala-1982,AE,Kerala,1982,1982,official,27,Kunnamangalam,SC,,63079,AIML,K. P. Raman,28901,IND,A. Balaraman,27266,1635,2.59
+ae-kerala-1982,AE,Kerala,1982,1982,official,28,Thiruvambady,GEN,,59848,IND,Cyriac John,30950,,Baby Mathew,,30950,51.71
+ae-kerala-1982,AE,Kerala,1982,1982,official,29,Kalpetta,GEN,,59341,IND,M. Kamalam,32794,JNP,P. A. Harriz,21919,10875,18.33
+ae-kerala-1982,AE,Kerala,1982,1982,official,30,Sulthanbathery,GEN,,65613,INC,K. K. Ramchandran,31858,CPI(M),P. V. Varghese Vydiar,28623,3235,4.93
+ae-kerala-1982,AE,Kerala,1982,1982,official,31,Wandoor,SC,,55103,INC,Pandalam Sudhakaram,28637,ICS,N. Anandan Master,22780,5857,10.63
+ae-kerala-1982,AE,Kerala,1982,1982,official,32,Nilambur,GEN,,71729,IND,T. K. Hamza,35539,BJP,Aryadan Muhammed,1442,34097,47.54
+ae-kerala-1982,AE,Kerala,1982,1982,official,33,Manjeri,GEN,,61218,IUML,C. M. Mohammed Koya,38681,AIML,K. K. Mohammed,19031,19650,32.1
+ae-kerala-1982,AE,Kerala,1982,1982,official,34,Malappuram,GEN,,52532,IUML,P. K. Kunnalikutty,35464,AIML,M. Mohamed Shaffi,13500,21964,41.81
+ae-kerala-1982,AE,Kerala,1982,1982,official,35,Kondotty,GEN,,65623,IUML,P. Seethi Haji,37671,AIML,T. K. S. Muthu Koya Thangal,20885,16786,25.58
+ae-kerala-1982,AE,Kerala,1982,1982,official,36,Tirurangadi,GEN,,61193,IUML,K. Avukader Kutty Naha,34586,CPI,K. N. Abdulkader,20527,14059,22.97
+ae-kerala-1982,AE,Kerala,1982,1982,official,37,Tanur,GEN,,50589,IUML,E. Ahammed,34632,IND,Chittambalam Muideen Kutty,11168,23464,46.38
+ae-kerala-1982,AE,Kerala,1982,1982,official,38,Tirur,GEN,,72735,IUML,U. A. Beeran,36315,AIML,K. Aboobacker,30571,5744,7.9
+ae-kerala-1982,AE,Kerala,1982,1982,official,39,Ponnani,GEN,,71765,INC,M. P. Gangadharan,33187,CPI(M),K. Sreedaran,33094,93,0.13
+ae-kerala-1982,AE,Kerala,1982,1982,official,40,Kuttippuram,GEN,,47443,IUML,Korambayil Ahamed Haji,31521,AIML,T. K. Ahamed,13263,18258,38.48
+ae-kerala-1982,AE,Kerala,1982,1982,official,41,Mankada,GEN,,65282,IUML,K. P. A. Majeed,33208,AIML,K. Abu Haji,28845,4363,6.68
+ae-kerala-1982,AE,Kerala,1982,1982,official,42,Perinthalmanna,GEN,,67543,IUML,Nalakath Sooppy,34873,IND,Parokkottil Unni,31959,2914,4.31
+ae-kerala-1982,AE,Kerala,1982,1982,official,43,Thrithala,SC,,66020,INC,K. K. Balakrishnan,31806,CPI(M),T. P. Kunhunny,31399,407,0.62
+ae-kerala-1982,AE,Kerala,1982,1982,official,44,Pattambi,GEN,,62512,CPI,K. E. Ismayil,32013,INC,P. K. Gopalakrishnan,29870,2143,3.43
+ae-kerala-1982,AE,Kerala,1982,1982,official,45,Ottapalam,GEN,,58967,IND,V. C. Kabeer,27689,BJP,P. Balan,2064,25625,43.46
+ae-kerala-1982,AE,Kerala,1982,1982,official,46,Sreekrishnapuram,GEN,,72307,CPI(M),E. Padmanabhan,39727,INC,K. Sankaranarayanan,29150,10577,14.63
+ae-kerala-1982,AE,Kerala,1982,1982,official,47,Mannarkad,GEN,,68775,CPI,P. Kumaran,38151,IUML,A. P. Hamza,27665,10486,15.25
+ae-kerala-1982,AE,Kerala,1982,1982,official,48,Malampuzha,GEN,,59973,CPI(M),E. K. Nayanar,37366,KEC,P. Vijayaraghavan,20770,16596,27.67
+ae-kerala-1982,AE,Kerala,1982,1982,official,49,Palakkad,GEN,,65246,IND,C. M. Sundaram,29011,BJP,N. A. Kareem,9554,19457,29.82
+ae-kerala-1982,AE,Kerala,1982,1982,official,50,Chittur,GEN,,71398,JNP,K. Krishnankutty,37527,INC,Mullappally Ramachandran,31884,5643,7.9
+ae-kerala-1982,AE,Kerala,1982,1982,official,51,Kollengode,GEN,,74518,CPI(M),C. Vasudeva Menon,39245,IND,K. A. Chandran,34360,4885,6.56
+ae-kerala-1982,AE,Kerala,1982,1982,official,52,Coyalmannam,SC,,71130,CPI(M),T. K. Arumughan,41312,INC,M. P. Thami,27818,13494,18.97
+ae-kerala-1982,AE,Kerala,1982,1982,official,53,Alathur,GEN,,70192,CPI(M),C. T. Krishnan,39982,IND,C. K. Balakrishnan,28668,11314,16.12
+ae-kerala-1982,AE,Kerala,1982,1982,official,54,Chelakkara,SC,,64685,CPI(M),C. K. Chakrapani,33030,INC,T. K. C. Vaduthala,30907,2123,3.28
+ae-kerala-1982,AE,Kerala,1982,1982,official,55,Wadakkanchery,GEN,,69407,INC,K. S. Narayanan Namboodiri,33645,JNP,Puzhankara Balanarayanan,32007,1638,2.36
+ae-kerala-1982,AE,Kerala,1982,1982,official,56,Kunnamkulam,GEN,,67803,CPI(M),K. P. Aravindakshan,33882,IND,K. P. Viswanathan*,32642,1240,1.83
+ae-kerala-1982,AE,Kerala,1982,1982,official,57,Cherpu,GEN,,64131,CPI,R. P. Prabhakaran,33561,INC,P. P. George,29891,3670,5.72
+ae-kerala-1982,AE,Kerala,1982,1982,official,58,Thrissur,GEN,,64714,NDP,Therambil Ramakrishnan,32410,CPI(M),M. K. Kannan,30569,1841,2.84
+ae-kerala-1982,AE,Kerala,1982,1982,official,59,Ollur,GEN,,64123,INC,Raghavan Pozhakadavil,31691,ICS,K. V. K. Panicker,28172,3519,5.49
+ae-kerala-1982,AE,Kerala,1982,1982,official,60,Kodakara,GEN,,69750,ICS,C. G. Janardhanan,35041,KEC,P. M. Mathew,32291,2750,3.94
+ae-kerala-1982,AE,Kerala,1982,1982,official,61,Chalakkudy,GEN,,64563,JNP,K. J. George,33492,KEC,P. K. Ittoop,28789,4703,7.28
+ae-kerala-1982,AE,Kerala,1982,1982,official,62,Mala,GEN,,68785,INC,K. Karunakaran,35138,CPI,E. Gopalakrishna Menon,31728,3410,4.96
+ae-kerala-1982,AE,Kerala,1982,1982,official,63,Irinjalakkuda,GEN,,68395,IND,Lonappan Nambadan,36164,,Jose Thanickal,,36164,52.88
+ae-kerala-1982,AE,Kerala,1982,1982,official,64,Manalur,GEN,,63154,IND,V. M. Sudheeran,31889,CPI(M),A. S. N. Nambisan,29351,2538,4.02
+ae-kerala-1982,AE,Kerala,1982,1982,official,65,Guruvayoor,GEN,,60573,IUML,P. K. K. Bava,31106,IND,V. K. Gopinathan,20743,10363,17.11
+ae-kerala-1982,AE,Kerala,1982,1982,official,66,Nattika,GEN,,60906,IND,Sidharthan Kattungal,28704,CPI,P. K. Gopalakrishnan,28223,481,0.79
+ae-kerala-1982,AE,Kerala,1982,1982,official,67,Kodungallur,GEN,,69991,CPI,V. K. Raja,36404,IND,Kollikkathara Ravi,32970,3434,4.91
+ae-kerala-1982,AE,Kerala,1982,1982,official,68,Angamaly,GEN,,82093,KEC,M. V. Mani,40056,CPI(M),A. P. Kurian,37679,2377,2.9
+ae-kerala-1982,AE,Kerala,1982,1982,official,69,Vadakara,GEN,,68189,CPI(M),T. K. Abdu,33108,IND,P. A. Aboobacker,31024,2084,3.06
+ae-kerala-1982,AE,Kerala,1982,1982,official,70,Parur,GEN,,63303,CPI,Sivan Pillai,30450,IND,A. C. Jose,30327,123,0.19
+ae-kerala-1982,AE,Kerala,1982,1982,official,71,Narakal,SC,,70365,IND,P. K. Velayudhan,36604,CPI(M),M. K. Krishnan,32621,3983,5.66
+ae-kerala-1982,AE,Kerala,1982,1982,official,72,Eranakulam,GEN,,71948,INC,A. L. Jacob,38051,ICS,P. C. Chacko,30869,7182,9.98
+ae-kerala-1982,AE,Kerala,1982,1982,official,73,Mattancherry,GEN,,54422,IUML,K. M. Hamsa,25589,AIML,M. J. Zakaria,24031,1558,2.86
+ae-kerala-1982,AE,Kerala,1982,1982,official,74,Palluruthy,GEN,,77128,IC(S),T. P. Peethambaran Master,37369,KCJ,Eapen Varghese,37353,16,0.02
+ae-kerala-1982,AE,Kerala,1982,1982,official,75,Thripunithura,GEN,,78455,IND,K. G. R. Kartha,39151,CPI(M),T. K. Ramakrishnan,38390,761,0.97
+ae-kerala-1982,AE,Kerala,1982,1982,official,76,Aluva,GEN,,82947,IND,K. Mohammedali,40336,CPI(M),K. N. Raveendranath,36969,3367,4.06
+ae-kerala-1982,AE,Kerala,1982,1982,official,77,Perumbavoor,GEN,,77929,INC,P. P. Thankachan,40131,CPI(M),P. R. Sivan,33879,6252,8.02
+ae-kerala-1982,AE,Kerala,1982,1982,official,78,Kunnathunad,GEN,,76225,INC,T. H. Mustaffa,39155,CPI(M),P. P. Esthose,33700,5455,7.16
+ae-kerala-1982,AE,Kerala,1982,1982,official,79,Piravom,GEN,,70092,IND,Benny Behanan,35451,JNP,Raman Kartha,33655,1796,2.56
+ae-kerala-1982,AE,Kerala,1982,1982,official,80,Muvattupuzha,GEN,,71419,KCJ,Joseph Varkey,36389,IND,Issac Varkey,33332,3057,4.28
+ae-kerala-1982,AE,Kerala,1982,1982,official,81,Kothamangalam,GEN,,76757,KCJ,T. M. Jacob,39529,CPI(M),T. M. Meethaian,35467,4062,5.29
+ae-kerala-1982,AE,Kerala,1982,1982,official,82,Thodupuzha,GEN,,70872,KCJ,P. J. Joseph,41020,RSP,N. A. Prabha,25282,15738,22.21
+ae-kerala-1982,AE,Kerala,1982,1982,official,83,Devikulam,SC,,64021,CPI(M),G. Varadan,31365,KEC,Kumar Ganapathy,31219,146,0.23
+ae-kerala-1982,AE,Kerala,1982,1982,official,84,Idukki,GEN,,60476,INC,Jose Kuttiyani,31472,ICS,P. P. Sulaiman Rawther,27104,4368,7.22
+ae-kerala-1982,AE,Kerala,1982,1982,official,85,Udumbanchola,GEN,,69345,CPI(M),M. Jinadevan,34964,KEC,V. T. Sebastian,33771,1193,1.72
+ae-kerala-1982,AE,Kerala,1982,1982,official,86,Peerumade,GEN,,61785,IND,K.K. Thomas,35065,CPI,C. A. Kurian,26036,9029,14.61
+ae-kerala-1982,AE,Kerala,1982,1982,official,87,Kanjirappally,GEN,,68297,KEC,Thomas Killampally,35840,CPI(M),Mustafa Kamal,27403,8437,12.35
+ae-kerala-1982,AE,Kerala,1982,1982,official,88,Vazhoor,GEN,,59789,CPI,Kanam Rajendran,28890,KEC,M.K. Joseph,26647,2243,3.75
+ae-kerala-1982,AE,Kerala,1982,1982,official,89,Changanassery,GEN,,68049,KEC,C. F. Thomas,37589,IND,K. J. Chacko Joseph,27527,10062,14.79
+ae-kerala-1982,AE,Kerala,1982,1982,official,90,Kottayam,GEN,,73244,IND,N. Srinivasan,38886,CPI(M),K. M. Abraham,33548,5338,7.29
+ae-kerala-1982,AE,Kerala,1982,1982,official,91,Ettumanoor,GEN,,70757,KCJ,E. J. Lukose,37444,CPI(M),Vaikom Viswan,31201,6243,8.82
+ae-kerala-1982,AE,Kerala,1982,1982,official,92,Puthuppally,GEN,,72674,IND,Oommen Chandy,42066,ICS,Thomas Rajan,26083,15983,21.99
+ae-kerala-1982,AE,Kerala,1982,1982,official,93,Poonjar,GEN,,57977,KCJ,P. C. George,33844,JNP,N. M. Joseph,23814,10030,17.3
+ae-kerala-1982,AE,Kerala,1982,1982,official,94,Pala,GEN,,67216,KEC,K. M. Mani,39323,IND,J. A. Chacko,26713,12610,18.76
+ae-kerala-1982,AE,Kerala,1982,1982,official,95,Kaduthuruthy,GEN,,67576,IND,P. C. Thomas,35711,KEC,O. Lukose,29761,5950,8.8
+ae-kerala-1982,AE,Kerala,1982,1982,official,96,Vaikom,SC,,73861,CPI,M. K. Kesavan,36582,KEC,M. Murali,35951,631,0.85
+ae-kerala-1982,AE,Kerala,1982,1982,official,97,Aroor,GEN,,79296,CPI(M),K. R. Gouri,41694,KCJ,T. T. Mathew,35753,5941,7.49
+ae-kerala-1982,AE,Kerala,1982,1982,official,98,Sherthalai,GEN,,72478,IND,Vayalar Ravi,36940,CPI,P. S. Sreenivasan,35067,1873,2.58
+ae-kerala-1982,AE,Kerala,1982,1982,official,99,Mararikulam,GEN,,87223,RSP,A. V. Thamarakshan,44567,IND,Pachady Sreedharan,41168,3399,3.9
+ae-kerala-1982,AE,Kerala,1982,1982,official,100,Alappuzha,GEN,,69071,NDP,K. P. Ramachandran Naird,35014,CPI,P. K. Vasudevan Nair,33424,1590,2.3
+ae-kerala-1982,AE,Kerala,1982,1982,official,101,Ambalapuzha,GEN,,70340,IND,V. Dinakaran,35821,CPI(M),P. K. Chandranandan,33937,1884,2.68
+ae-kerala-1982,AE,Kerala,1982,1982,official,102,Kuttanad,GEN,,71356,KCJ,K. C. Joseph,37172,CPI(M),G. Suchakaran Nair,34184,2988,4.19
+ae-kerala-1982,AE,Kerala,1982,1982,official,103,Haripad,GEN,,80725,INC,Ramesh Chennithala,42651,CPI(M),P. G. Thampi,38074,4577,5.67
+ae-kerala-1982,AE,Kerala,1982,1982,official,104,Kayamkulam,GEN,,70329,IND,Thachady Prabhakaran,33996,ICS,M. K. Raghavan,33830,166,0.24
+ae-kerala-1982,AE,Kerala,1982,1982,official,105,Thiruvalla,GEN,,56786,IND,P. C. Thomas,29565,JNP,Oommen Thalavadi,24197,5368,9.45
+ae-kerala-1982,AE,Kerala,1982,1982,official,106,Kallooppara,GEN,,55178,KCJ,T. S. John,30025,IND,C. A. Mathew,24123,5902,10.7
+ae-kerala-1982,AE,Kerala,1982,1982,official,107,Aranmula,GEN,,57900,INC,K. K. Sreenivasan,27864,ICS,D. Sugathan,22573,5291,9.14
+ae-kerala-1982,AE,Kerala,1982,1982,official,108,Chengannur,GEN,,64882,IND,S. Ramachandran Pillai,31156,CPI(M),P. K. Nambiar,27865,3291,5.07
+ae-kerala-1982,AE,Kerala,1982,1982,official,109,Mavelikara,GEN,,69643,CPI(M),S. Govinda Kurup,34743,NDP,N. Bhaskuran Nair,33576,1167,1.68
+ae-kerala-1982,AE,Kerala,1982,1982,official,110,Pandalam,SC,,76812,CPI(M),V. Kesavan,38465,IND,Thanneermukkam Padmanabhan,36501,1964,2.56
+ae-kerala-1982,AE,Kerala,1982,1982,official,111,Ranni,GEN,,63445,ICS,Sunny Panavelil,34490,IND,M. C. Cherian,25245,9245,14.57
+ae-kerala-1982,AE,Kerala,1982,1982,official,112,Pathanamthitta,GEN,,66892,IND,K. K. Nair,36676,BJP,K. V. Joseph,2777,33899,50.68
+ae-kerala-1982,AE,Kerala,1982,1982,official,113,Konni,GEN,,67383,CPI(M),V. S Chandrasekharan Pillai,32744,INC,P. J. Thomas,31430,1314,1.95
+ae-kerala-1982,AE,Kerala,1982,1982,official,114,Pathanapuram,GEN,,70571,KEC,A. George,37088,CPI,K. Krishna Pillai,33160,3928,5.57
+ae-kerala-1982,AE,Kerala,1982,1982,official,115,Punaloor,GEN,,71941,KCJ,Sam Oommen,36091,CPI,P. K. Sreenivasan,34684,1407,1.96
+ae-kerala-1982,AE,Kerala,1982,1982,official,116,Chadayamangalam,GEN,,58289,CPI,K. R. Chandramohan,33060,IND,G. Chandrasekharan Unnithan,25229,7831,13.43
+ae-kerala-1982,AE,Kerala,1982,1982,official,117,Kottarakkara,GEN,,67615,KEC,R. Balakrishna Pillai,37515,CPI,E. Chandrasekharan Nair,29371,8144,12.04
+ae-kerala-1982,AE,Kerala,1982,1982,official,118,Neduvathur,SC,,66635,CPI(M),C. K. Thankappan,34973,KEC,T. Krishnan,30898,4075,6.12
+ae-kerala-1982,AE,Kerala,1982,1982,official,119,Adoor,GEN,,61476,INC,Thennala Balakrishna Pillai,30911,CPI(M),C. P. Karunakaran Pillai,29173,1738,2.83
+ae-kerala-1982,AE,Kerala,1982,1982,official,120,Kunnathur,SC,,77569,IND,Kottakuzhi Sukumaran,39992,RSP,Kallada Narayanan,36602,3390,4.37
+ae-kerala-1982,AE,Kerala,1982,1982,official,121,Karunagappally,GEN,,72704,IND,T. V. Vijayarajan,38047,CPI,B. M Sheriff,34406,3641,5.01
+ae-kerala-1982,AE,Kerala,1982,1982,official,122,Chavara,GEN,,72197,RSP,Baby John,35907,INC,K. Suresh Babu,35286,621,0.86
+ae-kerala-1982,AE,Kerala,1982,1982,official,123,Kundara,GEN,,66608,IND,Thoppil Ravi,35130,CPI(M),V. V. Joseph,30931,4199,6.3
+ae-kerala-1982,AE,Kerala,1982,1982,official,124,Quilon,GEN,,67085,IND,Kadavoor Sivadasan,35387,RSP,S. Thyagarajan,28310,7077,10.55
+ae-kerala-1982,AE,Kerala,1982,1982,official,125,Eravipuram,GEN,,77833,RSP,R. S. Unni,37862,IUML,A. Yunus Kunju,37073,789,1.01
+ae-kerala-1982,AE,Kerala,1982,1982,official,126,Chathannur,GEN,,70666,INC,C. V. Padmarajan,37811,CPI,J. Chitharanjan,32009,5802,8.21
+ae-kerala-1982,AE,Kerala,1982,1982,official,127,Varkala,GEN,,54529,CPI(M),Varkala Radhakrishnan,27315,IND,M. K. Sreedharan,25511,1804,3.31
+ae-kerala-1982,AE,Kerala,1982,1982,official,128,Attingal,GEN,,59527,IND,Vakkom B. Purushothaman,31791,ICS,P. Vijayadas,24432,7359,12.36
+ae-kerala-1982,AE,Kerala,1982,1982,official,129,Kilimanoor,SC,,62447,CPI,Bhargavi Thankappan,33258,IND,K. Chandrasekara Sastri,27113,6145,9.84
+ae-kerala-1982,AE,Kerala,1982,1982,official,130,Vamanapuram,GEN,,70652,CPI(M),Koliyakodu N. Krishnan Nair,36303,IND,R. M. Parameswaran,34349,1954,2.77
+ae-kerala-1982,AE,Kerala,1982,1982,official,131,Eranad,GEN,,60283,RSP,K. Pankajakshan,30966,IND,K. C. Vamadevan,28555,2411,4.0
+ae-kerala-1982,AE,Kerala,1982,1982,official,132,Nedumangad,GEN,,72197,CPI,K. V. Surendranath,37350,IND,S. Varadarajan Nair,34009,3341,4.63
+ae-kerala-1982,AE,Kerala,1982,1982,official,133,Kazhakkoottam,GEN,,70289,IND,M. N. Hassan,35028,CPI(M),Thoppil Dharmarajan,33835,1193,1.7
+ae-kerala-1982,AE,Kerala,1982,1982,official,134,Trivandrum North,GEN,,70352,INC,G. Karthikeyan,38260,CPI(M),K. Anirudhan,29414,8846,12.57
+ae-kerala-1982,AE,Kerala,1982,1982,official,135,Trivandrum West,GEN,,60775,IUML,P. A. Mohammed Kannu,29795,RSP,T. J. Chandrachoodan,24373,5422,8.92
+ae-kerala-1982,AE,Kerala,1982,1982,official,136,Trivandrum East,GEN,,64186,ICS,K. Sankaranarayana Pillai,31517,NDP,C.S. Neelakantan Nair,30865,652,1.02
+ae-kerala-1982,AE,Kerala,1982,1982,official,137,Nemom,GEN,,71185,INC,K. Karunakaran,36007,CPI(M),P. Fakir Khan,32659,3348,4.7
+ae-kerala-1982,AE,Kerala,1982,1982,official,138,Kovalam,GEN,,72897,IND,N. Sakthan Nadar,37705,INC,M. R. Raghuchandbal,34348,3357,4.61
+ae-kerala-1982,AE,Kerala,1982,1982,official,139,Neyyattinkara,GEN,,71456,JNP,S. R. Thankaraj,43159,NDP,R. Sundaresan Nair,28179,14980,20.96
+ae-kerala-1982,AE,Kerala,1982,1982,official,140,Parassala,GEN,,66285,INC,N. Sundaran Nadar,34503,CPI(M),V. J. Thankappan,31782,2721,4.11

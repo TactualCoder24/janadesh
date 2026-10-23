@@ -1,0 +1,41 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-goa-2012,AE,Goa,2012,2012,official,1,Mandrem,GEN,North Goa,25928,BJP,Laxmikant Parsekar,11955,INC,Dayanand Raghunath,8520,3435,13.25
+ae-goa-2012,AE,Goa,2012,2012,official,2,Pernem,GEN,North Goa,25890,BJP,Rajendra Arlekar,16406,INC,Manohar Trimbak,8053,8353,32.26
+ae-goa-2012,AE,Goa,2012,2012,official,3,Bicholim,GEN,North Goa,20994,IND,Naresh Rajaram Sawal,8331,INC,Rajesh T. Patnekar,6532,1799,8.57
+ae-goa-2012,AE,Goa,2012,2012,official,4,Tivim,GEN,North Goa,20314,BJP,Kiran Mohan Kandolkar,10473,NCP,Nilkanth Ramnath,9361,1112,5.47
+ae-goa-2012,AE,Goa,2012,2012,official,5,Mapusa,GEN,North Goa,20209,BJP,Francis D'Souza,14955,NCP,Ashish Tulshidas,4786,10169,50.32
+ae-goa-2012,AE,Goa,2012,2012,official,6,Siolim,GEN,North Goa,21635,BJP,Dayanand Mandrekar,11430,INC,Uday Dattaram Paliemkar,9259,2171,10.03
+ae-goa-2012,AE,Goa,2012,2012,official,7,Saligao,GEN,North Goa,19409,BJP,Dilip Parulekar,10084,IND,D'Souza Tulio,4276,5808,29.92
+ae-goa-2012,AE,Goa,2012,2012,official,8,Calangute,GEN,North Goa,18348,BJP,Michael Vincent Lobo,9891,INC,Agnelo Nicholas,8022,1869,10.19
+ae-goa-2012,AE,Goa,2012,2012,official,9,Porvorim,GEN,North Goa,16631,IND,Rohan Khaunte,7972,BJP,Govind Parvatkar,7071,901,5.42
+ae-goa-2012,AE,Goa,2012,2012,official,10,Aldona,GEN,North Goa,20289,BJP,Ticlo Glenn J V A E Souza,11315,INC,Dayanand G. Narvekar,7839,3476,17.13
+ae-goa-2012,AE,Goa,2012,2012,official,11,Panaji,GEN,North Goa,16763,BJP,Manohar Parrikar,11086,INC,Yatin Parekh,5018,6068,36.2
+ae-goa-2012,AE,Goa,2012,2012,official,12,Taleigao,GEN,North Goa,20996,INC,Jennifer A. Monserrate,10682,BJP,Dattaprasad Madhukar,9531,1151,5.48
+ae-goa-2012,AE,Goa,2012,2012,official,13,Santa Cruz,GEN,North Goa,21381,INC,Atanasio J. Monserrate,8644,IND,Rodolfo Louis,6308,2336,10.93
+ae-goa-2012,AE,Goa,2012,2012,official,14,Santo Andre,GEN,North Goa,17209,BJP,Vishnu Surya Naik Wagh,8818,INC,Francisco Silveira,7599,1219,7.08
+ae-goa-2012,AE,Goa,2012,2012,official,15,Cumbarjua,GEN,North Goa,19817,INC,Pandurang A. Madkaikar,9556,IND,Nirmala P. Sawant,7981,1575,7.95
+ae-goa-2012,AE,Goa,2012,2012,official,16,Maem,GEN,North Goa,22411,BJP,Anant Shet,12054,IND,Pravin Zantye,6335,5719,25.52
+ae-goa-2012,AE,Goa,2012,2012,official,17,Sanquelim,GEN,North Goa,21592,BJP,Pramod Sawant,14255,INC,Pratap Gauns,7337,6918,32.04
+ae-goa-2012,AE,Goa,2012,2012,official,18,Poriem,GEN,North Goa,24997,INC,Pratapsingh Raoji Rane,13772,BJP,Vishwajit Krishnarao,11225,2547,10.19
+ae-goa-2012,AE,Goa,2012,2012,official,19,Valpoi,GEN,North Goa,23129,INC,Vishwajit Pratapsingh,12412,BJP,Satyavijay Subrai Naik,9473,2939,12.71
+ae-goa-2012,AE,Goa,2012,2012,official,20,Priol,GEN,North Goa,24668,MAG,Pandurang Alias Deepak,12264,IND,Govind Gaude,10164,2100,8.51
+ae-goa-2012,AE,Goa,2012,2012,official,21,Ponda,GEN,North Goa,23230,MAG,Lavoo Mamledar,12662,INC,Ravi Naik,9472,3190,13.73
+ae-goa-2012,AE,Goa,2012,2012,official,22,Siroda,GEN,North Goa,22984,BJP,Mahadev Narayan Naik,12216,INC,Subhash Ankush,9954,2262,9.84
+ae-goa-2012,AE,Goa,2012,2012,official,23,Marcaim,GEN,North Goa,22674,MAG,Ramkrishna Alias Sudin,14952,INC,Ritesh Naik,7722,7230,31.89
+ae-goa-2012,AE,Goa,2012,2012,official,24,Mormugao,GEN,South Goa,16236,BJP,Milind Sagun Naik,7419,INC,Sankalp Padmanabh,6506,913,5.62
+ae-goa-2012,AE,Goa,2012,2012,official,25,Vasco Da Gama,GEN,South Goa,21751,BJP,Jose Luis Carlos Almeida,11468,NCP,Jose Filepe D'Souza,6978,4490,20.64
+ae-goa-2012,AE,Goa,2012,2012,official,26,Dabolim,GEN,South Goa,15274,INC,Mauvin Heliodoro,7468,MAG,Premanand Nanoskar,6524,944,6.18
+ae-goa-2012,AE,Goa,2012,2012,official,27,Cortalim,GEN,South Goa,20422,BJP,Matanhy Saldanha,7427,GVP,Nelly Rodrigues,5158,2269,11.11
+ae-goa-2012,AE,Goa,2012,2012,official,28,Nuvem,GEN,South Goa,21597,GVP,Francisco Xavier,12288,INC,Aleixo Sequeira,8092,4196,19.43
+ae-goa-2012,AE,Goa,2012,2012,official,29,Curtorim,GEN,South Goa,19647,INC,Aleixo Reginaldo,11221,IND,Domnic Gaonkar,7152,4069,20.71
+ae-goa-2012,AE,Goa,2012,2012,official,30,Fatorda,GEN,South Goa,21441,IND,Vijai Sardesai,10375,BJP,Damodar (Damu) G. Naik,8436,1939,9.04
+ae-goa-2012,AE,Goa,2012,2012,official,31,Margao,GEN,South Goa,22149,INC,Digambar Kamat,12041,BJP,Mahatme Rupesh,7589,4452,20.1
+ae-goa-2012,AE,Goa,2012,2012,official,32,Benaulim,GEN,South Goa,21097,GVP,Caetano R. Silva,9695,INC,Valanka Alemao,7694,2001,9.48
+ae-goa-2012,AE,Goa,2012,2012,official,33,Navelim,GEN,South Goa,18780,IND,Avertano Furtado,10231,INC,Churchill Alemao,8086,2145,11.42
+ae-goa-2012,AE,Goa,2012,2012,official,34,Cuncolim,GEN,South Goa,20740,BJP,Subhash Alias Rajan,7738,INC,Alemao Joaquim,6425,1313,6.33
+ae-goa-2012,AE,Goa,2012,2012,official,35,Velim,GEN,South Goa,22128,IND,Benjamin Silva,13164,INC,Filipe Nery Rodrigues,8238,4926,22.26
+ae-goa-2012,AE,Goa,2012,2012,official,36,Quepem,GEN,South Goa,24861,INC,Chandrakant Kavalekar,10994,IND,Prakash Shankar Velip,4621,6373,25.63
+ae-goa-2012,AE,Goa,2012,2012,official,37,Curchorem,GEN,South Goa,19806,BJP,Nilesh Cabral,14299,INC,Shyam Gopinath,5507,8792,44.39
+ae-goa-2012,AE,Goa,2012,2012,official,38,Sanvordem,GEN,South Goa,23344,BJP,Ganesh Chandru,10585,IND,Arjun Anil Salgaocar,8294,2291,9.81
+ae-goa-2012,AE,Goa,2012,2012,official,39,Sanguem,GEN,South Goa,21501,BJP,Subhash U. Phal Dessai,7454,NCP,Alemao Yuri,6971,483,2.25
+ae-goa-2012,AE,Goa,2012,2012,official,40,Canacona,GEN,South Goa,26589,BJP,Ramesh Bombo Tawadkar,14328,INC,Isidore Aleixinho,11624,2704,10.17

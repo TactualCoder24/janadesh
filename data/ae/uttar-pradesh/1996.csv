@@ -1,0 +1,425 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,1,Uttar Kashi,SC,,94249,BJP,Gyan Chand,48862,IND,Barfiya Lal Juwantha,16707,32155,34.12
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,2,Tehri,GEN,,92619,BJP,Lakhi Ram Joshi,37717,AIIC(T),Balbir Singh Negi,20445,17272,18.65
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,3,Devprayag,GEN,,83345,BJP,Matbar Singh Kandari,38093,UKKD,Mantri Prasad Naithani,24576,13517,16.22
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,4,Lansdowne,GEN,,101339,BJP,Bharat Singh Rawat,56576,IND,Surendra Singh Negi,23366,33210,32.77
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,5,Pauri,GEN,,83097,BJP,Mohan Singh Zzgaonwasizz,46232,JD,Harak Singh Rawat,18816,27416,32.99
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,6,Karanprayag,GEN,,86167,BJP,Ramesh Pokhariyal Zznishankzz,37941,INC,Shiva Nand Nautiyal,26939,11002,12.77
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,7,Badrikedar,GEN,,100627,BJP,Kedar Singh Phonia,48138,AIIC(T),Satyendra Singh Bartwal,24614,23524,23.38
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,8,Didihat,GEN,,77996,BJP,Vishan Singh,29729,UKKD,Kashi Singh Airi,23658,6071,7.78
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,9,Pithoragarh,GEN,,90100,BJP,Krishna Chandra Punetha,37221,INC,Mahendra Singh Mahara (Mahu),26276,10945,12.15
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,10,Almora,GEN,,83289,BJP,Raghunath Singh Chauhan,41739,INC,Govind Singh Kunjwal,25010,16729,20.09
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,11,Bageshwar,SC,,69020,BJP,Narayan Ram Das,41718,INC,Ram Prashad Tamta,21770,19948,28.9
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,12,Ranikhet,GEN,,72556,BJP,Ajay Bhatt,30241,INC,Ranjeet Singh,24916,5325,7.34
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,13,Naini Tal,GEN,,126304,BJP,Bansi Dhar Bhagat,53064,BSP,Bhupal Singh Bhakuni,28412,24652,19.52
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,14,Khatima,GEN,,160585,BJP,Suresh Chandra Arya,56449,AIIC(T),Yashpal Aarya,35120,21329,13.28
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,15,Haldwani,GEN,,194404,BJP,Tilok Raj Behar,87886,BSP,Sunil Kumar,50759,37127,19.1
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,16,Kashipur,GEN,,168810,AIIC(T),"K.C. Singh ""Baba""",56998,BJP,Rajeev Kumar,54340,2658,1.57
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,17,Seohara,GEN,,182037,BJP,Ved Prakash Singh,76153,JD,Anwar,62649,13504,7.42
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,18,Dhampur,GEN,,169986,SP,Mool Chand,61218,BJP,Ajay Bala,56948,4270,2.51
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,19,Afzalgarh,GEN,,189822,BJP,Indra Dev,64974,BSP,Hussain A,60139,4835,2.55
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,20,Nagina,SC,,151541,SP,Omwati Devi,54553,BJP,Om Prakash,46120,8433,5.56
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,21,Nazibabad,SC,,150848,CPI(M),Ramswaroop Singh,58370,BJP,Raja Ram,46961,11409,7.56
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,22,Bijnor,GEN,,166611,BSP,Raja Gazaffar,74680,BJP,Tejpal Singh,48673,26007,15.61
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,23,Chandpur,GEN,,175177,IND,Swami Omvesh,54124,BSP,Surekha,40191,13933,7.95
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,24,Kanth,GEN,,150526,BJP,Rajesh Kumar Urf Chunnu,63233,BSP,Rizwan Ahmad Khan,51562,11671,7.75
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,25,Amroha,GEN,,169879,BJP,Mangal Singh,67526,SP,Mehboob Ali,66618,908,0.53
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,26,Hasanpur,GEN,,175891,SP,Ch. Rifaqat Husain,65782,BJP,Tularam Saini,65219,563,0.32
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,27,Gangeshwari,SC,,138802,BJP,Tota Ram,41775,KVP,Jagram Singh,39305,2470,1.78
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,28,Sambhal,GEN,,155662,SP,Iqbal Mehmood,57979,BJP,Satya Prakash,40470,17509,11.25
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,29,Bahjoi,GEN,,136183,SP,Brijendra Pal Singh,54253,BSP,Aqeelur Rehman Khan,41374,12879,9.46
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,30,Chandausi,SC,,116488,BJP,Gulab Devi,61382,BSP,Karan Singh,28123,33259,28.55
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,31,Kundarki,GEN,,156573,BSP,Akbar Husain,51888,SP,Mohd. Rizwan,51688,200,0.13
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,32,Moradabad West,GEN,,157909,BJP,Jagat Pal Singh,57279,BKKGP,Narendra Pal Singh,40081,17198,10.89
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,33,Moradabad,GEN,,141591,BJP,Sandeep Agarwal,78893,SP,Musarrat Husain,52978,25915,18.3
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,34,Moradabad Rural,GEN,,170642,SP,Saulat Ali,49327,IND,Mohd. Rizwanul Haq,47349,1978,1.16
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,35,Thakurdwara,GEN,,174238,BJP,Sarvesh Kumar Urf Rakesh,74888,JP,Mohmmad Ullah Khan,46398,28490,16.35
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,36,Suar Tanda,GEN,,188718,BJP,Shiv Bahadur Saxena,59477,SP,A. Gafoor,51984,7493,3.97
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,37,Rampur,GEN,,160608,INC,Afroz Ali Khan,69184,SP,Mohammad Azam Khan,55278,13906,8.66
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,38,Bilaspur,GEN,,194854,INC,Kazim Ali Khan Alias Naved Mian,82211,BJP,Jwala Prasad,64623,17588,9.03
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,39,Shahabad,SC,,164952,SP,Swami Parmanand Dandi,64900,BJP,Veena Jatav,49598,15302,9.28
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,40,Bisauli,GEN,,138683,SP,Yogendra Kumar,60846,BSP,Gendan Lal,37071,23775,17.14
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,41,Gunnour,GEN,,122548,JD,Ram Khiladi,60511,BSP,Ajit Kumar,40264,20247,16.52
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,42,Sahaswan,GEN,,131403,SP,Mulayam Singh Yadav,81370,BJP,Mahesh Chand,27211,54159,41.22
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,43,Bilsi,SC,,129432,BSP,Mayawati,47473,BJP,Yogendra Kumar Sagar,44958,2515,1.94
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,44,Budaun,GEN,,141816,BJP,Prem Swaroop Pathak,61726,SP,Jogendra Singh,46255,15471,10.91
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,45,Usehat,GEN,,138779,BSP,Bhagwan Singh,70010,SP,Banwari Singh,63054,6956,5.01
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,46,Binawar,GEN,,139606,BJP,Ram Sevak Singh,50690,SP,Suresh Pal Singh Chauhan,39290,11400,8.17
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,47,Dataganj,GEN,,121437,SP,Prem Pal Singh Yadav,41117,BJP,Avneesh Kumar Singh,40878,239,0.2
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,48,Aonla,GEN,,124841,BJP,Dharampal Singh,51985,SP,Mahipal Singh,30723,21262,17.03
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,49,Sunha,GEN,,108158,BJP,Suman Lata Singh,43183,SP,Shyam Bihari Singh,35967,7216,6.67
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,50,Faridpur,SC,,111365,SP,Nand Ram,53680,BJP,Siaram Sagar,29144,24536,22.03
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,51,Bareilly Cantt,GEN,,119261,SP,Ashfaq Ahmad,47756,INC,Radhey Shyam,35151,12605,10.57
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,52,Bareilly City,GEN,,87894,BJP,Rajesh Agarwal,55406,AIIC(T),Anil Kumar,13104,42302,48.13
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,53,Nawabganj,GEN,,137862,SP,Chhotey Lal Gangwar,48875,BJP,Bhagwat Saran Gangwar,42199,6676,4.84
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,54,Bhojipura,GEN,,131440,BJP,Wahoran Lal Maurya,45156,INC,Bhanu Pratap Singh,34757,10399,7.91
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,55,Kawar,GEN,,139878,BJP,Surendra Pratap Singh,52017,SP,Sultan Beg,40532,11485,8.21
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,56,Baheri,GEN,,171361,BJP,Harish Chandra Gangwar,62856,SP,Manzoor Ahmed,43335,19521,11.39
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,57,Pilibhit,GEN,,124775,BJP,Raj Rai Singh,37875,SJP(R),Haroon Ahmad,27269,10606,8.5
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,58,Barkhera,SC,,113878,SJP(R),Peetam Ram,48292,BJP,Kishan Lal,32840,15452,13.57
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,59,Bisalpur,GEN,,139980,BSP,Anis Khan,47516,BJP,Ram Saran Verma,38997,8519,6.09
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,60,Puranpur,GEN,,167338,SP,Gopal Krishna,65330,BJP,Vinod Kumar,60878,4452,2.66
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,61,Powayan,SC,,145381,INC,Chet Ram,51632,BJP,Chokhe Lal,47100,4532,3.12
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,62,Nigohi,GEN,,138941,BJP,Kovid Kumar,41711,IND,Chandra Sen,36575,5136,3.7
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,63,Tilhar,GEN,,117034,INC,"Virendra Pratap Singh Alias ""Munna""",49397,SP,Ravindra Singh,46289,3108,2.66
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,64,Jalalabad,GEN,,140744,SP,Sharad Veer Singh,65076,INC,Puttu Singh,43378,21698,15.42
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,65,Dadraul,GEN,,122151,INC,Ram Autar Misra,47251,BJP,Devendra Pal Singh,35422,11829,9.68
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,66,Shahjahanpur,GEN,,132947,BJP,Suresh Kumar Khanna,60058,INC,Sikandar Ali Khan,37793,22265,16.75
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,67,Mohammadi,SC,,150211,BJP,Krishna Raj,59594,BSP,Jagdish Raj,49600,9994,6.65
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,68,Haiderabad,SC,,158464,SP,Arvind Giri,51200,BJP,Vinod Kumar,44039,7161,4.52
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,69,Paila,GEN,,132739,SP,Moti Lal,36081,BJP,Shashi Bala Bharti,35929,152,0.11
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,70,Lakhimpur,GEN,,147697,SP,Kaushal Kishor,73271,BJP,Ram Gopal,41066,32205,21.8
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,71,Sri Nagar,GEN,,140596,BSP,Mayavati,45921,SP,Dhirendra Bahadur Singh,39714,6207,4.41
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,72,Nighasan,GEN,,166023,BJP,Ram Kumar Verma,82312,INC,Satish Ajmani,66224,16088,9.69
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,73,Dhaurehara,GEN,,157799,INC,Saraswati Pratap Singh,56098,SP,Yashpal Singh,55976,122,0.08
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,74,Behta,GEN,,151823,SP,Mahendra Kumar,57853,BSP,Rajesh Kumar Singh,44559,13294,8.76
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,75,Biswan,GEN,,141097,BJP,Ajit Kumar Mehrotra,53527,SP,Ram Pal Yadav,40194,13333,9.45
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,76,Mahmoodabad,GEN,,176392,INC,Ammar Rizvi,98358,BJP,Narendra Singh,69069,29289,16.6
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,77,Sidhauli,SC,,141416,SP,Shyam Lal Rawat,55890,BSP,Shanti Devi,48040,7850,5.55
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,78,Laharpur,GEN,,145319,BSP,Buniyad Husain Ansari,59171,BJP,Ram Bax Verma,41829,17342,11.93
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,79,Sitapur,GEN,,137769,SP,Radhey Shyam Jaiswal,57320,BJP,Rajendra Kumar Gupta,50606,6714,4.87
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,80,Hargaon,SC,,130546,SP,Ramesh Rahi,43948,BJP,Daulat Ram,43696,252,0.19
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,81,Misrikh,GEN,,149205,SP,Om Prakash Gupta,55285,BSP,Virendra Kumar Mishra,44827,10458,7.01
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,82,Machhretha,SC,,125351,JD,Rampal Rajvanshi,48280,BJP,Usha Devi,32542,15738,12.56
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,83,Beniganj,SC,,120981,SP,Ram Pal Verma,51835,BJP,Sushila Saroj,37713,14122,11.67
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,84,Sandila,GEN,,138504,BSP,Abdul Mannan,52221,BJP,Kunwar Mahaveer Singh,44093,8128,5.87
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,85,Ahirori,SC,,111944,BSP,Shyam Prakash,52253,BJP,Mitan Prasad,28622,23631,21.11
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,86,Hardoi,GEN,,126321,INC,Naresh Chandra Agarwal,56744,BJP,Surendra Kumar Dubey,34734,22010,17.42
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,87,Bawan,SC,,111900,BJP,Chhote Lal,45998,BSP,Ram Swarup Pippal,38110,7888,7.05
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,88,Pihani,GEN,,127095,SP,Ashok Bajpai,39947,BSP,Khalid Gauri,38183,1764,1.39
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,89,Shahabad,GEN,,137424,SP,Baboo Khan,45706,BJP,Ganga Bhakt Singh,45487,219,0.16
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,90,Bilgram,GEN,,144764,BJP,Ganga Singh Chauhan,48232,INC,Om Narain - Allias Nanhey,44573,3659,2.53
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,91,Mallawan,GEN,,142230,SP,Dharmagya Misra,41036,BSP,Ram Kumar Verma,38820,2216,1.56
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,92,Bangarmau,GEN,,135162,BSP,Ram Shankar Pal,45263,BJP,Ramesh Kumar Singh,44233,1030,0.76
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,93,Safipur,SC,,112881,BJP,Babu Lal,34091,BSP,Ram Baran,33951,140,0.12
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,94,Unnao,GEN,,128146,SP,Deepak Kumar,50326,BJP,Chandra Kishore,40354,9972,7.78
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,95,Hadha,GEN,,118308,INC,Ganga Bux Singh,59672,BJP,Sundar Lal Lodhi,40694,18978,16.04
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,96,Bhagwant Nagar,GEN,,124427,BJP,Kripa Shankar Singh,45765,BSP,Nathoo Singh,42239,3526,2.83
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,97,Purwa,GEN,,134071,SP,Udai Raj,40573,BJP,Hridai Narain,38763,1810,1.35
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,98,Hasanganj,SC,,120695,BJP,Mast Ram,47333,BSP,Pradeep Kumar,40806,6527,5.41
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,99,Malihabad,SC,,130925,SP,Gauri Shankar,42455,CPI,Kaushal Kishor,36264,6191,4.73
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,100,Mohana,GEN,,190327,BJP,Gomti Yadav,76097,SP,Rajendra Prasad Yadav,60432,15665,8.23
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,101,Lucknow East,GEN,,74403,BJP,Vidya Sagar Gupta,49653,AIIC(T),Azad Sarwan Kumar Agrawal,13033,36620,49.22
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,102,Lucknow West,GEN,,144629,BJP,Lal Ji Tandon,79851,SP,Kailash Shankar Shukla,50115,29736,20.56
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,103,Lucknow Central,GEN,,122179,BJP,Suresh Kumar Srivastava,72338,SP,Waliullah Javed,36171,36167,29.6
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,104,Lucknow Cantt,GEN,,96888,BJP,Suresh Chandra Tiwari,61836,SP,Raj Kishore Mishra,18050,43786,45.19
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,105,Sarojini Nagar,GEN,,143328,SP,Shyam Kishore Yadav,48852,INC,Raja Vijay Kumar Tripathi,44136,4716,3.29
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,106,Mohanlalganj,SC,,128578,BSP,R.K.Chaudhary,51544,SP,Ashok Kumar,39796,11748,9.14
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,107,Bachhrawan,SC,,117990,BSP,Shyam Sunder,46850,BJP,Raja Ram,37786,9064,7.68
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,108,Tiloi,GEN,,129593,SP,Muslim,56896,BJP,Mayankeshwar Sharan Singh,42308,14588,11.26
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,109,Rae Bareli,GEN,,138853,INC,Akhilesh Kumar Singh,86358,BJP,Santosh Kumar Misra,25105,61253,44.11
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,110,Sataon,GEN,,132765,BSP,Shiv Ganesh Lodhi,52835,SP,Ram Naresh Yadav S/O Chandra Pal Yadav,36860,15975,12.03
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,111,Sareni,GEN,,130355,SP,Ashok Kumar Singh,47863,BJP,Girish Narain Pandey,41996,5867,4.5
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,112,Dalmau,GEN,,149833,BSP,Swami Prasad Maurya,52477,SP,Gajadhar Singh,48480,3997,2.67
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,113,Salon,SC,,104509,BJP,Dal Bahadur Kori,39423,INC,Shiv Balak Pasi,34713,4710,4.51
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,114,Kunda,GEN,,123437,IND,Kunwar Raghuraj Pratap Singh Raja Bhaiya,98700,BJP,Shiv Narain Mishra,17959,80741,65.41
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,115,Bihar,SC,,115208,IND,Ramnath,57527,INC,Suresh,20975,36552,31.73
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,116,Rampurkhas,GEN,,147143,INC,Promod Kumar,128635,BJP,Krishan Kumar Singh S/O Rambahadur Singh,12463,116172,78.95
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,117,Garwara,GEN,,108647,JD,Rajaram,34738,BJP,Ramesh Bahadur Singh S/O Baghvat Singh,31647,3091,2.84
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,118,Pratapgarh,GEN,,124015,SP,Chandra Nath Singh,53706,BJP,Brijesh Kumar,44630,9076,7.32
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,119,Birapur,GEN,,134143,BJP,Shivakant,46946,JD,Zahirul Hasan,38701,8245,6.15
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,120,Patti,GEN,,152666,BJP,Rajendra Pratap Singh Alias Moti Singh,73928,BSP,Ajit Pratap Singh Alias Madan Singh,37036,36892,24.17
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,121,Amethi,GEN,,106057,INC,Ram Harsh Singh,36069,BJP,Jamuna Prasad Mishra,31870,4199,3.96
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,122,Gauriganj,GEN,,110253,BJP,Tej Bhan Singh,35706,INC,Noor Mohammad,35104,602,0.55
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,123,Jagdishpur,SC,,91854,BJP,Ram Lakhan,33757,SP,Nandlal,32141,1616,1.76
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,124,Isauli,GEN,,109018,BSP,Jai Narain Tiwari,31884,BJP,Om Prakash Pande,27475,4409,4.04
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,125,Sultanpur,GEN,,120044,BJP,Surya Bhan,49439,SP,Safdar Raza,40421,9018,7.51
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,126,Jaisinghpur,GEN,,126562,BSP,Ram Ratan Yadav,38687,BJP,Dukh Haran Verma,36235,2452,1.94
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,127,Chanda,GEN,,122151,BJP,Arun Pratap Singh,45421,BSP,Ram Raj Chaurasiya,36452,8969,7.34
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,128,Kadipur,SC,,137450,BJP,Kashi Nath,50389,BSP,Bhagelu Ram,46615,3774,2.75
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,129,Katehari,GEN,,150199,BSP,Dharmraj Nishad,53212,BJP,Anil Kumar Tewari,47448,5764,3.84
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,130,Akbarpur,GEN,,157875,BSP,Ram Achal Rajbhar,55310,SP,Ram Lakhan Verma,47964,7346,4.65
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,131,Jalalpur,GEN,,152186,BJP,Sher Bahadur,61735,BSP,Sayeed Khan,42728,19007,12.49
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,132,Jahangirganj,SC,,141092,SP,Bheem Prasad,48222,BJP,Triveni Ram,45789,2433,1.72
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,133,Tanda,GEN,,160244,BSP,Lalji Verma,55960,SP,Jamirul Hasan Ansari,54302,1658,1.03
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,134,Ayodhya,GEN,,130791,BJP,Lalloo Singh,59658,SP,Jai Shankar Pandey,38463,21195,16.21
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,135,Bikapur,GEN,,134771,SP,Sita Ram Nishad,52850,BJP,Sant Shri Ram Dwivedi,38958,13892,10.31
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,136,Milkipur,GEN,,137912,SP,Mitra Sen Yadav,56054,BJP,Brij Bhusan Mani Tripathi,49892,6162,4.47
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,137,Sohawal,SC,,126240,SP,Avdhesh Prasad,44399,BJP,Ramu Priyadarshi,40992,3407,2.7
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,138,Rudauli,GEN,,123204,BJP,Ramdev Acharya,44249,SP,Ishtiyaq Ahamad,42335,1914,1.55
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,139,Dariyabad,SC,,134046,BJP,Rajiv Kumar Singh,58998,SP,Radhey Shyam,45244,13754,10.26
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,140,Siddhaur,GEN,,112286,SP,Kamla Prasad Rawat,40876,BJP,Baijnath Rawat,39913,963,0.86
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,141,Haidergarh,GEN,,129618,INC,Surendra Nath,46998,SP,Pradip Kumar Yadav,42824,4174,3.22
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,142,Masauli,GEN,,128204,BSP,Farid Mahfooz Kidwai,50217,SP,Rakesh Kumar Verma,42623,7594,5.92
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,143,Nawabganj,GEN,,132311,INC,Sangram Singh,64928,SP,Chhote Lal Yadav,48640,16288,12.31
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,144,Fatehpur,SC,,132015,SP,Hardeo Singh,44454,BJP,Raj Rani Rawat,43527,927,0.7
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,145,Ramnagar,GEN,,126114,SP,Sarvar Ali Khan,41807,BJP,Raj Laxmai Varma,37546,4261,3.38
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,146,Kaiserganj,GEN,,116434,SP,Ram Tej Yadav,37189,BJP,Mukut Bihari,36955,234,0.2
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,147,Fakharpur,GEN,,144957,SP,Arun Veer Singh,65827,BJP,Mayanker Singh,55358,10469,7.22
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,148,Mahsi,GEN,,138827,SP,Dilip Kumar,53963,BJP,Neelam Singh,44326,9637,6.94
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,149,Nanpara,GEN,,141246,BJP,Jata Shankar,51490,BSP,Rameshwar Pawan,33488,18002,12.75
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,150,Charda,SC,,113961,SP,Shabbeer Ahmad,55012,BJP,Malti Davi,30627,24385,21.4
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,151,Bhinga,GEN,,104130,BJP,Chandra Mani Kant Singh,34686,SP,Mangleshwar Prasad,31373,3313,3.18
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,152,Bahraich,GEN,,143140,SP,Waqar Ahmad Shah,54742,BJP,Brij Raj Tripathi,46029,8713,6.09
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,153,Ikauna,SC,,114848,BJP,Akshaybar Lal,55428,BSP,Nand Kumar,46300,9128,7.95
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,154,Gainsari,GEN,,133316,BJP,Bindu Lal,44034,BSP,Fida Mohammad,43269,765,0.57
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,155,Tulsipur,GEN,,136420,BSP,Rizwan Jahir Urf Rijju Bhaiya,63047,BJP,Kamlesh Singh,51981,11066,8.11
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,156,Balrampur,GEN,,120604,INC,"Vinai Kumar Pandey ""Binnu""",52448,BJP,Hanumant Singh,47023,5425,4.5
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,157,Utraula,GEN,,135607,SP,Ubaidur Rahman,62909,BJP,Shyam Lal,44788,18121,13.36
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,158,Sadulla Nagar,GEN,,130353,BJP,Ram Pratap Singh,45613,SP,Arif Anwar Hashami,42554,3059,2.35
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,159,Mankapur,SC,,123305,SP,Ram Vishun Azad,63439,BJP,Jagdishwar Prasad,29991,33448,27.13
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,160,Mujehna,GEN,,125109,SP,Ram Pal Singh,57110,BJP,Ghanshyam Shukla,49076,8034,6.42
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,161,Gonda,GEN,,110329,SP,Vinod Kumar Singh Urf Pandit Singh,47409,BJP,Tulsidas Rai Chandani,37957,9452,8.57
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,162,Katra Bazar,GEN,,115297,BJP,Bawan Singh,49143,IND,Pandit Deep Narain Pandey,36795,12348,10.71
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,163,Colonelganj,GEN,,114215,BJP,Ajai Pratap Singh Urf Lalla Bhaiya,43590,IND,"Yogesh Pratap Singh ""Yogesh Bhaiya""",28914,14676,12.85
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,164,Dixir,SC,,100510,BJP,Ramapati Shashtri,43715,INC,Babu Lal S/O Budha Ram,31607,12108,12.05
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,165,Harraiya,GEN,,124016,BSP,Sukhpal Pandey,47984,BJP,Jagdamba Singh,39359,8625,6.95
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,166,Captainganj,GEN,,141365,BSP,Ram Prasad Chaudhary,55186,SP,Mahesh Singh,46424,8762,6.2
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,167,Nagar East,SC,,119234,BSP,Ved Prakash,46250,SP,Ram Karan Arya,37861,8389,7.04
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,168,Basti,GEN,,139362,AIIC(T),Jagdambika Pal,51862,BSP,Dayaram Chaudhary,48697,3165,2.27
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,169,Ramnagar,GEN,,120658,BSP,Ram Lalit Chaudhary,46299,SP,Babu Ram Verma,28784,17515,14.52
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,170,Domariaganj,GEN,,133510,SP,Taufiq Ahmad,52804,BJP,Prem Prakash Urf Zippi Tewari,45787,7017,5.26
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,171,Itwa,GEN,,128692,IND,Mohd. Mukeem,43106,BJP,Brahm Prakash Chaudhary,27919,15187,11.8
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,172,Shohratgarh,GEN,,121959,BJP,Ravindra Pratap Urf Pappu Chaudhary,46346,INC,Dinesh Singh,33486,12860,10.54
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,173,Naugarh,GEN,,126136,BJP,Dhanraj Yadao,43254,JD,Ali Ahmad,26526,16728,13.26
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,174,Bansi,GEN,,122300,BJP,Jai Pratap Singh,52049,SP,Lalji,40617,11432,9.35
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,175,Khesraha,GEN,,127824,INC,Diwakar Vikram Singh,46334,SP,Amar Singh,37881,8453,6.61
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,176,Mendhwal,GEN,,125244,SP,Abdul Kalam,44590,BJP,Chandra Shekhar Singh,32064,12526,10.0
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,177,Khalilabad,GEN,,117823,JD,Ram Asrey Paswan,38046,BJP,Ram Prakash,35435,2611,2.22
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,178,Hainsarbazar,SC,,122457,BSP,Lal Mani Prasad,33873,SP,Dashrath Prasad,31966,1907,1.56
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,179,Bansgaon,SC,,120249,BJP,Sant,46310,JD,Sadal,35276,11034,9.18
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,180,Dhuriapur,SC,,124387,BSP,Markandey Chand,44724,BJP,Brijesh Pratap Chand,40805,3919,3.15
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,181,Chillupar,GEN,,125805,AIIC(T),Hari Shankar Tiwari,47878,BSP,Shyam Lal Yadav,32880,14998,11.92
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,182,Kauri Ram,GEN,,133983,SP,Gauri Devi,38647,BJP,Upendra Datt Shukla,29079,9568,7.14
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,183,Mundera Bazar,SC,,117168,BJP,Bechan Ram,36933,BSP,Madho Prasad,32044,4889,4.17
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,184,Pipraich,GEN,,135255,IND,Jitendra Kumar Jaiswal Urf Pappu Bhaiya,52439,BJP,Jamuna Prasad Nishad,42729,9710,7.18
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,185,Gorakhpur,GEN,,102919,BJP,Shiva Pratap Shukla,48352,JD,Manju Zaki,16787,31565,30.67
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,186,Maniram,GEN,,137046,SP,Subhawati Devi,70969,BJP,Chowdhary Shambhu Saran Singh,41989,28980,21.15
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,187,Sahjanwa,GEN,,122973,BJP,Tarkeshwar Prasad Shukla,35909,BSP,Deo Narain Urf G.M. Singh,34691,1218,0.99
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,188,Paniara,GEN,,129467,INC,Fateh Bahadur,36098,BJP,Annapurna,33189,2909,2.25
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,189,Pharenda,GEN,,122030,CPI(M),Vinod Mani,52674,BJP,Shivendra,30998,21676,17.76
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,190,Luxmipur,GEN,,136843,INC,Amar Mani,49059,SP,Kailash Kishor Urf Munna Singh,40200,8859,6.47
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,191,Siswa,GEN,,141553,BSP,Shivendra Singh Urf Shiv Babu,50041,BJP,Kedar Prasad,30746,19295,13.63
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,192,Maharajganj,SC,,128533,BJP,Chandra Kishor,52059,BSP,Ram Niwas,44883,7176,5.58
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,193,Shyam Deurwa,GEN,,135508,BJP,Gyanendra Singh,51941,BSP,Javed Ali,37021,14920,11.01
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,194,Naurangia,SC,,134014,BJP,Deep Lal Bharti,52286,SP,Purnmasi Dehati,37403,14883,11.11
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,195,Ramkola,GEN,,140552,IND,Radhey Shyam,67668,BJP,Ambika Singh,38109,29559,21.03
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,196,Hata,SC,,140375,JD,Ram Nakshatra,70891,BJP,Ramapati Urf Ramakant,46782,24109,17.17
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,197,Padrauna,GEN,,150280,INC,Ratan Jeet Pratap Narain Singh,69647,BJP,Surendra Kumar Shukla,51624,18023,11.99
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,198,Seorahi,GEN,,134740,IND,Anand Prakash,42034,BSP,Kasim Ali,32724,9310,6.91
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,199,Fazilnagar,GEN,,139370,SP,Vishwanath,56061,BJP,Jagdish Misra Urf Balti Baba,50454,5607,4.02
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,200,Kasia,GEN,,145944,BJP,Surya Pratap Shahi,63371,SP,Brahma Shankar Tripathi,55434,7937,5.44
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,201,Gauri Bazar,GEN,,140588,BJP,Sri Niwas Mani,46202,SP,Shakir Ali,42306,3896,2.77
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,202,Rudrapur,GEN,,126555,BJP,Jai Prakash Nishad,43232,BSP,Ram Shankar Vidyarthi,34071,9161,7.24
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,203,Deoria,GEN,,142630,JD,Subash Chandra Srivastav,62006,BJP,Ravindra Pratap Mall,44365,17641,12.37
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,204,Bhatpar Rani,GEN,,144114,SP,Yogendra Singh,66561,INC,Kameshwar Upadhyay,43350,23211,16.11
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,205,Salempur,GEN,,128530,BSP,Morad Lari,37117,JD,Swami Nath Yadav,31040,6077,4.73
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,206,Barhaj,GEN,,126053,BSP,Prem Prakash,42555,BJP,Durga Prasad Misra,42108,447,0.35
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,207,Natthupur,GEN,,128114,SP,Sudhakar,42591,BSP,Rajendra Kumar,31665,10926,8.53
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,208,Ghosi,GEN,,124701,BJP,Fagoo,41027,BSP,Bechan,37416,3611,2.9
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,209,Sagri,GEN,,132188,SP,Ram Pyare,48529,BSP,Barkhu Ram Verma Urf B.R. Verma,35510,13019,9.85
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,210,Gopalpur,GEN,,122163,SP,Wasim Ahmad,42189,BSP,Naseem Ahmad Azmi,37715,4474,3.66
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,211,Azamgarh,GEN,,122025,SP,Durga Prasad,65277,BSP,Om Prakash,37493,27784,22.77
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,212,Nizamabad,GEN,,130825,SP,Alam Badi,50147,BSP,Fazrul Wari,45260,4887,3.74
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,213,Atraulia,GEN,,131719,BSP,Vibhuti Prasad Nishad,59388,SP,Balram Yadav,49714,9674,7.34
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,214,Phulpur,GEN,,123477,INC,Ram Naresh Yadav,64091,SP,Ranjna Yadav,29174,34917,28.28
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,215,Saraimir,SC,,122228,BSP,Heera Lal,49217,SP,Hemraj Urf Hemraj,40042,9175,7.51
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,216,Mehnagar,SC,,139026,CPI(M),Ram Jug,49082,BSP,Vidya Chaudhary,44973,4109,2.96
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,217,Lalganj,GEN,,145459,BJP,Narendra,55311,BSP,Sukhdeo Rajbhar,49240,6071,4.17
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,218,Mubarakpur,GEN,,148468,BSP,Yashwant,61955,SP,Ram Darshan Yadav,55333,6622,4.46
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,219,Muhammadabad Gohna,SC,,141744,BJP,Sri Ram,46938,BSP,Banwari,44093,2845,2.01
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,220,Mau,GEN,,144561,BSP,Mukhtar Ansari,67731,BJP,Vijay Pratap Singh,41758,25973,17.97
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,221,Rasra,SC,,126218,BJP,Anil Kumar,49766,BSP,Ghura Ram,38865,10901,8.64
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,222,Siar,GEN,,136107,BJP,Harinarain,53042,SP,Sharda Nand Anchal,39372,13670,10.04
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,223,Chilkahar,GEN,,128671,BSP,Chhote Lal,39649,BJP,Ram Iqbal,37130,2519,1.96
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,224,Sikanderpur,GEN,,133037,SAP,Rajdhari,44784,SP,Jiyauddin Urf Mohd. Rizvi,31681,13103,9.85
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,225,Bansdih,GEN,,116863,INC,Bachcha Pathak,42242,BJP,Parmatma Nand Tiwari,41449,793,0.68
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,226,Doaba,GEN,,107313,BJP,Bharat Singh,46184,INC,Vikrama Singh,29984,16200,15.1
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,227,Balia,GEN,,133943,IND,Manju,46937,SP,Vikrmaditya Pandey,39837,7100,5.3
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,228,Kopachit,GEN,,134108,SP,Ambika Chaudhary,42449,BJP,Sudhir,37790,4659,3.47
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,229,Zahoorabad,GEN,,150049,BJP,Ganesh,51895,SP,Shiv Pujan,49539,2356,1.57
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,230,Mohammadabad,GEN,,151258,SP,Afjal Ansari,63468,BSP,Virendra,43866,19602,12.96
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,231,Dildarnagar,GEN,,143876,SP,Om Prakash,62794,BSP,Shyam Narain,39023,23771,16.52
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,232,Zamania,GEN,,140590,SP,Kailash,53504,BJP,Sharda Chauhan,46517,6987,4.97
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,233,Ghazipur,GEN,,146424,CPI,Rajendra,52891,BJP,Om Kala,47724,5167,3.53
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,234,Jakhania,SC,,133979,BSP,Vijay Kumar,47771,BJP,Ramhit,37592,10179,7.6
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,235,Sadat,SC,,145064,SP,Bhonu,54259,BSP,Ram Bachan,45121,9138,6.3
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,236,Saidpur,GEN,,156609,BJP,Mahendra Nath,52859,SP,Deena Nath,51549,1310,0.84
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,237,Dhanapur,GEN,,127396,SP,Prabhu Narayan,48735,BSP,Gyanendra Kumar,34907,13828,10.85
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,238,Chandauli,SC,,139872,BJP,Shiv Poojan Ram,54981,BSP,Sharada Prashad,48479,6502,4.65
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,239,Chakiya,SC,,141735,SP,Satya Prakash Sonkar,60084,BSP,Nand Lal,41848,18236,12.87
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,240,Mughalsarai,GEN,,141114,BJP,Chhabbu Patel,50318,SP,Ram Kishun,43552,6766,4.79
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,241,Varanasi Cantonment,GEN,,128366,BJP,Harish Chandra (Harish Ji),55240,SP,Sunil Kumar Rai,26752,28488,22.19
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,242,Varanasi South,GEN,,95933,BJP,Shyam Dev Rai Chawdhri (Dada),65288,INC,Devbrat Majumdar,28006,37282,38.86
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,243,Varanasi North,GEN,,129247,SP,Abdul Kalam,67349,BJP,Amar Nath Yadav,55539,11810,9.14
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,244,Chiraigaon,GEN,,155058,INC,Virendra Singh,46121,BJP,Maya Shankar Pathak,45721,400,0.26
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,245,Kolasla,GEN,,143793,BJP,Ajai Rai,38352,CPI,Udal,37864,488,0.34
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,246,Gangapur,GEN,,150624,BJP,Bachnu Ram Patel,44133,BSP,Kamla Rajbhar,40149,3984,2.64
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,247,Aurai,GEN,,156067,BJP,Rangnath,63414,SP,Jaheed,51190,12224,7.83
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,248,Gyanpur,GEN,,152803,BJP,Gorakhnath,50127,SP,Ram Rati Bind,48258,1869,1.22
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,249,Bhadohi,SC,,136916,BJP,Purnmasi Pankaj,49890,SP,Dinanath Bhaskar,49099,791,0.58
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,250,Barsathi,GEN,,126693,BSP,Vanshnarain,40425,SP,Devendra Bahadur Singh,27423,13002,10.26
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,251,Mariahu,GEN,,127481,SP,Paras Nath Yadav,49280,BJP,Jagannath Rao,37762,11518,9.04
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,252,Kerakat,SC,,115150,BJP,Ashok Kumar,43714,BSP,Jagarnath Chaudhary,34654,9060,7.87
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,253,Bayalsi,GEN,,119494,BSP,Jagdish Narain (Munna),45072,SP,Babu Ram Nishad,35665,9407,7.87
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,254,Jaunpur,GEN,,128465,SP,Afjal Ahmad,46024,BJP,Surendra Pratap Singh,44045,1979,1.54
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,255,Rari,GEN,,126593,SP,Shriram Yadava,48118,BSP,Teh Bahadur Singh,40876,7242,5.72
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,256,Shahganj,SC,,127203,BJP,Bankey Lal Sonkar,45606,BSP,Ram Dawar,37988,7618,5.99
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,257,Khutahan,GEN,,140203,SP,Umakant Yadav,60076,BJP,Kunwar Jai Singh,40349,19727,14.07
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,258,Garwara,GEN,,113568,BJP,Seema Dwivedi,39881,SP,Harish Chandra Singh Patel,34175,5706,5.02
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,259,Machhilishahr,GEN,,130862,SP,Jwala Prasad Yadav,43218,BJP,Raj Narain Bind,41515,1703,1.3
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,260,Dudhi,SC,,137355,SP,Vijay Singh,54199,BJP,Naresh,47608,6591,4.8
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,261,Robertsganj,SC,,156240,IND,Hari Prasad Urf Ghamadi,76364,BJP,Teerath Raj,40646,35718,22.86
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,262,Rajgarh,GEN,,167043,INC,Lok Pati Tripathi,70574,BJP,Gulab Singh,41136,29438,17.62
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,263,Chunar,GEN,,153630,BJP,Om Prakash Singh,56191,BSP,Bhola Nath Bachchan,47567,8624,5.61
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,264,Majhwa,GEN,,145439,BJP,Ram Chandra,54472,BSP,Bhagwat Pal,39413,15059,10.35
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,265,Mirzapur,GEN,,117743,BJP,Sarjeet Singh,47058,SP,Kailash,35470,11588,9.84
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,266,Chhanbey,SC,,136396,BJP,Bhai Lal,45366,SP,Bhagwati Prasad,44368,998,0.73
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,267,Meja,SC,,137970,CPI(M),Ram Kripal,71414,BJP,Ram Dev,43068,28346,20.55
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,268,Karchana,GEN,,142011,SP,Revti Raman Singh Urf Mani,69272,BSP,Parshuram Nishad,35030,34242,24.11
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,269,Bara,GEN,,141741,BSP,Ram Sewak Singh,41237,SP,Raja Mahendra Pratap Singh,33787,7450,5.26
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,270,Jhusi,GEN,,137795,SP,Vijma Yadav,53467,BSP,Dashrath Lal Pal,40740,12727,9.24
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,271,Handia,GEN,,161790,BJP,Rakesh Dhar Tripathi,64102,SP,Beni Madhav Bind,55407,8695,5.37
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,272,Pratappur,GEN,,132600,SP,Jokhu Lal,48157,BJP,Devraj Singh,33334,14823,11.18
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,273,Soraon,GEN,,126632,BJP,Rang Bahadur Patel,43812,BSP,Hiramani Patel,38562,5250,4.15
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,274,Nawabganj,GEN,,124549,INC,Vikramajeet Maurya,46261,SP,Mukeemuddin,36799,9462,7.6
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,275,Allahabad North,GEN,,118817,BJP,Narendra Kumar Singh Gaur,47466,JD,Anugrah Narayan Singh,35761,11705,9.85
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,276,Allahabad South,GEN,,95225,BJP,Keshri Nath Tripathi,45472,SP,Hari Om Sahoo,21918,23554,24.74
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,277,Allahabad West,GEN,,135519,SP,Atik Ahmed,73152,BJP,Teerath Ram Kohli,38053,35099,25.9
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,278,Chail,SC,,108062,INC,Vijai Prakash,39763,SP,Dinesh Chandra Sonker,34455,5308,4.91
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,279,Manjhanpur,SC,,106331,BSP,Indrajeet Saroj,42279,BJP,Vachaspati,31327,10952,10.3
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,280,Sirathu,SC,,92778,BSP,Matesh Chandra Sonker,33295,SP,Radhey Shyam Bhartiya,25063,8232,8.87
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,281,Khaga,GEN,,136060,BSP,Munna Lal Maurya,46293,BJP,Bhoop Narayan Singh Lodhi,40870,5423,3.99
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,282,Kishanpur,SC,,106647,BSP,Murli Dhar,40176,BJP,Chandra Bhan Ram Paswan,38825,1351,1.27
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,283,Haswa,GEN,,118621,BSP,Ayodhya Prasad Pal,44859,BJP,Surendra Singh Gautam,37931,6928,5.84
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,284,Fatehpur,GEN,,137173,BJP,Radhey Shyam Gupta,48657,BSP,Om Prakash Verma Lodhi,44023,4634,3.38
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,285,Jahanabad,GEN,,122947,BSP,Qasim Hasan,47941,SP,Naresh Chandra Uttam,33360,14581,11.86
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,286,Bindki,GEN,,119909,BSP,Rajendra Singh Patel,50471,BJP,Amarjeet Singh Jansevak,48529,1942,1.62
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,287,Arya Nagar,GEN,,96801,SP,Mushtaq Solanki,39531,BJP,Satya Deo Pachauri,36969,2562,2.65
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,288,Sisamau,SC,,91270,BJP,Rakesh Sonkar,43201,CPI(M),Daulat Ram,26101,17100,18.74
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,289,Generalganj,GEN,,94349,BJP,Neeraj Chaturvedi,37411,SP,Surendra Mohan Agrawal,34664,2747,2.91
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,290,Kanpur Cantonment,GEN,,108525,BJP,Satish Mahana,64578,BSP,Ashok Kumar Kalia,23087,41491,38.23
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,291,Govind Nagar,GEN,,197635,BJP,Bal Chandra Misra,103667,BSP,Ganga Singh,51041,52626,26.63
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,292,Kalyanpur,GEN,,144787,BJP,Prem Lata Katiyar,73861,INC,Ram Ji Tripathi,43245,30616,21.15
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,293,Sarsaul,GEN,,144434,BSP,Ram Asrey Singh,52776,SP,Jagram Singh,35225,17551,12.15
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,294,Ghatampur,GEN,,132679,BSP,Raja Ram Pal,48226,SP,Rakesh Sachan,34865,13361,10.07
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,295,Bhognipur,SC,,124447,BSP,Radheyshyam,44640,BJP,Satya Prakash Sankhwar,38625,6015,4.83
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,296,Rajpur,GEN,,122551,BSP,Chaudhari Narendra Singh,41198,BJP,Bans Lal Katiyar,39085,2113,1.72
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,297,Sarvankhera,GEN,,130306,BJP,Mathura Prasad,54087,BSP,Vishambhar Singh,38454,15633,12.0
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,298,Chaubepur,GEN,,120113,BSP,Harikishan,49733,BJP,Santosh Shukla,43418,6315,5.26
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,299,Bilhaur,SC,,116718,BSP,Bhagwati Prasad,41898,SP,Shiv Kumar Beriya,40660,1238,1.06
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,300,Derapur,GEN,,139916,BJP,Devendra Singh Alias Bhole Singh,61786,SP,R.D.Pal,37984,23802,17.01
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,301,Auraiya,GEN,,124356,BJP,Lal Singh Verma,42259,BSP,Chandra Bhan Singh Kachhi,40740,1519,1.22
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,302,Ajitmal,SC,,100755,BSP,Mohar Singh Ambadi,37067,BJP,Chhakki Lal,33829,3238,3.21
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,303,Lakhna,SC,,112790,SP,Sukh Devi Verma,40492,BJP,K.K.Raj,36232,4260,3.78
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,304,Etawah,GEN,,118708,BJP,Jayvir Singh Bhadoria,52595,SP,Satya Narayan Dubey,34984,17611,14.84
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,305,Jaswant Nagar,GEN,,130391,SP,Shivpal Singh Yadav,68377,INC,Darshan Singh,57438,10939,8.39
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,306,Bharthana,GEN,,125512,SP,Maharaj Singh Yadav,52450,INC,"Ajay Kumar Yadav ""Guddu""",49884,2566,2.04
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,307,Bidhuna,GEN,,123288,SP,Dhani Ram Verma,50355,BSP,Ram Autar Singh,36774,13581,11.02
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,308,Kannauj,SC,,122580,BJP,Banwari Lal Dohrey,42788,SP,Kalyan Singh Dohrey,41910,878,0.72
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,309,Umarda,GEN,,124435,BJP,Kailash Singh Rajput,43052,SP,Vijay Bahadur Pal,41293,1759,1.41
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,310,Chhibramau,GEN,,139480,SP,Chhote Singh Yadav,51204,BJP,Ram Prakash Tripathi,48880,2324,1.67
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,311,Kamalganj,GEN,,143033,SP,Jamalluddin Siddiqui,58514,BJP,Urmila Rajput,44208,14306,10.0
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,312,Farrukhabad,GEN,,119949,BJP,Brahma Dutt Dwivedi,50810,SP,Lal Bahadur Singh Shakya,36265,14545,12.13
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,313,Kaimganj,GEN,,141328,BJP,Sushil Shakya,43929,BSP,Izhar Alam Khan,41395,2534,1.79
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,314,Mohammadi,GEN,,134101,SP,Narendra Singh Yadav,53546,BJP,Raj Kumar Singh Bhadauriya,38407,15139,11.29
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,315,Manikpur,SC,,87793,BSP,Daddoo Prasad,40182,BJP,Mannoolal Kureel,31581,8601,9.8
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,316,Karwi,GEN,,107679,BSP,Ramkripal Singh,50355,BJP,Ram Prakash,26015,24340,22.6
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,317,Baberu,GEN,,118072,BJP,Shiv Shankar,37406,BSP,Gaya Chran Dinkar,36229,1177,1.0
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,318,Tindwari,GEN,,104307,BSP,Mahendra Pal Nishad,39001,BJP,Ram Hit,31152,7849,7.52
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,319,Banda,GEN,,111808,INC,Vivek Kumar Singh,36976,BJP,Santosh Kumar Gupta,34884,2092,1.87
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,320,Naraini,GEN,,133191,BSP,Babu Lal Kushvaha,45173,SP,Surendra Pal Verma,34817,10356,7.78
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,321,Hamirpur,GEN,,116631,BSP,Shivcharan Prajapati,41905,BJP,Bansidhar Sainger,31166,10739,9.21
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,322,Maudaha,GEN,,109700,BJP,Badshah Singh,52786,SP,Yuvraj Singh,27961,24825,22.63
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,323,Rath,GEN,,108027,SP,Ramadhar Singh,40728,BSP,Dhu Ram,38478,2250,2.08
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,324,Charkhari,SC,,84167,BJP,Chhote Lal,36245,BSP,Udai Prakash,25866,10379,12.33
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,325,Mahoba,GEN,,105849,SP,Arimardan Singh,27382,INC,Babu Lal,25090,2292,2.17
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,326,Mehroni,GEN,,152343,INC,Pooran Singh Bundela,79789,BJP,Devendra Kumar Singh,59284,20505,13.46
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,327,Lalitpur,GEN,,128122,BJP,Arvind Kumar Jain,45141,SP,Tilak Yadav,33251,11890,9.28
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,328,Jhansi,GEN,,131199,BJP,Ravindra Shukla,53686,BSP,Jai Prakash Sahu,42071,11615,8.85
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,329,Babina,SC,,140445,BSP,Shatish Jatariya,58397,BJP,Ratan Lal Ahirwar,46331,12066,8.59
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,330,Mauranipur,GEN,,124607,INC,Bihari Lal Arya,46963,BJP,Pragi Lal,46082,881,0.71
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,331,Garautha,GEN,,147536,SP,Chandra Pal Singh Yadav,58756,INC,Ranjeet Singh Judeo,57478,1278,0.87
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,332,Konch,SC,,99632,IND,Daya Shankar,38008,BSP,Chain Sukh Bharti,34669,3339,3.35
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,333,Orai,GEN,,148288,BJP,Babu Ram,46624,BSP,Akbar Ali,45555,1069,0.72
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,334,Kalpi,GEN,,124611,BSP,Shreeram,47255,BJP,Ravi Kant,40685,6570,5.27
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,335,Madhogarh,GEN,,118635,BJP,Sant Ram Singh,45501,INC,Suresh Dutt,43763,1738,1.46
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,336,Bhongra,GEN,,142402,SP,Ram Autar Shakya,51026,BSP,Shiv Raj Singh,48520,2506,1.76
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,337,Kishni,SC,,113133,SP,Rameshwar Dayal Balmiki,59772,BSP,Shyama Sharan,39575,20197,17.85
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,338,Karhal,GEN,,115117,SP,Baboo Ram Yadav,51253,BJP,Subhash Chandra,38109,13144,11.42
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,339,Shikohabad,GEN,,134520,BJP,Ashok Yadav,58656,SP,Lakhan Singh,56760,1896,1.41
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,340,Jasrana,GEN,,112274,SP,Ramveer Singh,42121,BJP,Anita Devi,30534,11587,10.32
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,341,Ghiror,GEN,,101886,SP,Urmila Devi,41965,INC,Kishan Chandra Yadav,33137,8828,8.66
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,342,Mainpuri,GEN,,138394,SP,Manik Chand Yadav,64973,BJP,Narendra Singh,40631,24342,17.59
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,343,Aliganj,GEN,,141572,SP,Rameshwar Singh Yadav,50308,BSP,Satya Pal Singh,43718,6590,4.65
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,344,Patiali,GEN,,138281,SP,Kunwar Davendra Singh Yadav,63932,BJP,Rajendra Singh,39529,24403,17.65
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,345,Sakeet,GEN,,111015,SP,Virendra Singh,49587,BJP,Suraj Singh Shakya,36815,12772,11.5
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,346,Soron,GEN,,104613,BJP,Omkar,42143,BSP,Suraj Pal Shakya,33147,8996,8.6
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,347,Kasganj,GEN,,119337,BJP,Netram Singh,41531,SP,Goverdhan Singh,38457,3074,2.58
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,348,Etah,GEN,,126917,SP,Shishu Pal Singh Yadav,54860,BJP,Peetam Singh,47670,7190,5.67
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,349,Nidhauli Kalan,GEN,,104421,BJP,Om Prakash,34597,INC,Anil Kumar Singh Yadav,33214,1383,1.32
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,350,Jalesar,SC,,105323,BJP,Mithlesh Kumari,43101,SP,Raghuvir Singh,30359,12742,12.1
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,351,Firozabad,GEN,,156077,SAP,Raghubar Dayal Verma,61714,SP,Ajimujjma Khan (Ajim Bhai),58995,2719,1.74
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,352,Bah,GEN,,112525,BJP,Raja Mahendra Aridaman Singh,49817,INC,Amar Chand,44809,5008,4.45
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,353,Fatehabad,GEN,,111091,JD,Vijay Pal Singh,36518,BJP,Chhotelal Verma,36163,355,0.32
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,354,Tundla,SC,,136053,BJP,Shiv Singh,46541,BSP,Navnesh Varun,43852,2689,1.98
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,355,Etmadpur,SC,,116282,BSP,Ganga Prasad Pushkar,49188,BJP,Kishori Lal,42463,6725,5.78
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,356,Dayal Bagh,GEN,,136506,BSP,Seth Kishan Lal Baghel,50077,BJP,Udai Bhan Singh,45557,4520,3.31
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,357,Agra Cantonment,GEN,,97715,BJP,Kesho Mehra,44556,BSP,Hazi Islam Kureshi,38933,5623,5.75
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,358,Agra East,GEN,,81706,BJP,Satya Prakash Vikal,42533,INC,Banke Bihari Agerwal,23279,19254,23.56
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,359,Agra West,SC,,94090,BJP,Ram Babu Harit,46658,BSP,Harikrishn Pipple,41735,4923,5.23
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,360,Kheragarh,GEN,,86794,INC,Mandleshwar Singh,30473,BJP,Jagdish Chand Dixit,29280,1193,1.37
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,361,Fatehpur Sikri,GEN,,110069,IND,Babulal,56612,INC,Bachhu Singh,26924,29688,26.97
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,362,Goverdhan,SC,,95020,BJP,Ajay Kumar Poeia,42284,BSP,Pratap Singh,33545,8739,9.2
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,363,Mathura,GEN,,103150,BJP,Ram Swaroop Sharma,39605,INC,Vijay Kumar,34365,5240,5.08
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,364,Chhata,GEN,,119765,INC,Laxminarayan,48426,BJP,Chandan Singh S/O Jaggu Singh,34585,13841,11.56
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,365,Mat,GEN,,117772,AIIC(T),Shyam Sundar Sharma,39779,BSP,Harsh Kumar Baghel,28644,11135,9.45
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,366,Gokul,GEN,,99872,BSP,Sardar Singh,35739,BJP,Ch.Pranat Pal Singh,35183,556,0.56
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,367,Sadabad,GEN,,108181,BJP,Vishambhar Singh,29588,BSP,Arvind Kumar,24993,4595,4.25
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,368,Hathras,GEN,,125022,BSP,Ram Vir Upadhyay,67337,BJP,Pahalwan Rajveer Singh,38482,28855,23.08
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,369,Sasni,SC,,104430,BJP,Hari Shankar Mahore,41388,BSP,Panjabi Lal,36235,5153,4.93
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,370,Sikandara Rao,GEN,,126535,BJP,Yashpal Singh Chauhan,42476,BSP,Suresh Pratap Gandhi,38091,4385,3.47
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,371,Gangiri,GEN,,131565,BJP,Ram Singh,45141,SP,Veereshwar Urf Veeresh Yadav,44470,671,0.51
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,372,Atraulia,GEN,,126053,BJP,Kalyan Singh,73329,INC,Anwar Khan,42634,30695,24.35
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,373,Aligarh,GEN,,163047,SP,Abdual Khaliq,86570,BJP,Krishna Kumar Nauman,51427,35143,21.55
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,374,Koil,SC,,115314,BJP,Ram Sakhi,60296,BSP,Ganga Prashad,36698,23598,20.46
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,375,Iglas,GEN,,118952,BJP,Malkhan Singh,54287,INC,Vijendra Singh,42435,11852,9.96
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,376,Barauli,GEN,,108587,INC,Dal Vir Singh,44549,BJP,Munish Gaur,42920,1629,1.5
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,377,Khair,GEN,,109746,BJP,Gyan Wati,51135,INC,Jagvir Singh,30820,20315,18.51
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,378,Jewar,SC,,105371,BJP,Horam Singh,48871,BSP,Dharamveer Singh Ashok,34292,14579,13.84
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,379,Khurja,GEN,,105009,BJP,Har Pal Singh,50333,BSP,Ravindra Urf Pappan Raghav,29485,20848,19.85
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,380,Debai,GEN,,117748,BJP,Kalyan Singh,79997,BSP,Anil Kumar,20593,59404,50.45
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,381,Anupshahr,GEN,,127674,INC,Satish Sharma,60745,BJP,Nawal Kishore,47917,12828,10.05
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,382,Siana,GEN,,121006,INC,Rakesh Tyagi,58368,BJP,Vasudev Singh,51196,7172,5.93
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,383,Agota,GEN,,118487,BJP,Virendra Singh Sirohi,48988,BKKGP,Kiran Pal Singh,42258,6730,5.68
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,384,Bulandshahr,GEN,,140228,BJP,Mahendra Singh Yadav,59647,SP,Insad,51124,8523,6.08
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,386,Sikandrabad,GEN,,126167,SP,Narendra Singh Bhati,45414,BJP,Virendra Pal Singh,44640,774,0.61
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,387,Dadri,GEN,,163501,BJP,Nawab Singh Nagar,70503,INC,Lakhi Ram,48703,21800,13.33
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,388,Ghaziabad,GEN,,191749,BJP,Baleshwar Tyagi,110990,SP,Jitendra,42975,68015,35.47
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,389,Muradnagar,GEN,,123736,SP,Raj Pal Tyagi,45023,BJP,Vivek Tyagi,41702,3321,2.68
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,390,Modi Nagar,GEN,,144078,BJP,Narendra Singh Sisodiya,51823,SP,Ram Asare,35992,15831,10.99
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,391,Hapur,SC,,107346,BJP,Jay Prakash,47384,INC,Gaj Raj Singh,41507,5877,5.47
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,392,Garh Mukteshwar,GEN,,130130,BJP,Ram Naresh,58423,INC,Akhtar,43608,14815,11.38
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,393,Kithore,GEN,,124395,BKKGP,Parvez Haleem Khan,45380,BJP,Ram Krishna Verma,38936,6444,5.18
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,394,Hastinapur,SC,,121955,IND,Atul Kumar,49042,JD,Leelapat,37843,11199,9.18
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,395,Sardhana,GEN,,144042,BJP,Ravindra Pundir,37552,BSP,Harpal Saini,36531,1021,0.71
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,396,Meerut Cantonment,GEN,,131859,BJP,Amit Agarwal,73726,BSP,Ramesh Dhingra,32680,41046,31.13
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,397,Meerut,GEN,,172311,BJP,Laxmikant Vajpayee,84775,SP,Haji Akhlak,72266,12509,7.26
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,398,Kharkhauda,GEN,,126541,BJP,Jaipal Singh,34356,INC,Dhoom Singh,28828,5528,4.37
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,399,Siwal Khas,SC,,126122,BKKGP,Vanarsi Das Chandna,43430,BSP,Murari Lal Ken,41277,2153,1.71
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,400,Khekra,GEN,,165905,BJP,Roop Chaudhri,72106,SP,Madan Bhaiya,47146,24960,15.04
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,401,Baghpat,GEN,,135282,BKKGP,Kawkab Hameed,65962,BJP,Ved Prakash,53059,12903,9.54
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,402,Barnawa,GEN,,131095,BKKGP,Samar Pal Singh,47233,BJP,Tripal Singh Dhama,34723,12510,9.54
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,403,Chaprauli,GEN,,124476,BKKGP,Gajendra Kumar Munna,80787,BJP,Atma Ram,25930,54857,44.07
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,404,Kandhla,GEN,,146995,BKKGP,Virendra Singh,53497,BJP,Ram Kumar,41612,11885,8.09
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,405,Khatauli,GEN,,148588,BKKGP,Raj Pal Singh,81334,BJP,Sudhir Kumar Baliyan,43544,37790,25.43
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,406,Jansath,SC,,130884,BKKGP,Bijendra Arya,50165,BJP,Suresh Chand Titauria,41530,8635,6.6
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,407,Morna,GEN,,146624,SP,Sanjay Singh,57005,BSP,Nafees,47796,9209,6.28
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,408,Muzaffar Nagar,GEN,,156441,BJP,Susheela Devi,60696,JD,Somansh Prakash,53144,7552,4.83
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,409,Charthawal,SC,,143414,BJP,Randhir Singh,52499,SP,Deepak Kumar,52255,244,0.17
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,410,Baghra,GEN,,129426,BJP,Pradeep Kumar,51168,BKKGP,Harendra Singh,44573,6595,5.1
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,411,Kairana,GEN,,157009,BJP,Hukum Singh,81658,SP,Babu Singh,68215,13443,8.56
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,412,Thana Bhawan,GEN,,156473,SP,Amir Alam Khan,60930,BJP,Dharam Pal Singh,57767,3163,2.02
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,413,Nakur,GEN,,162720,IND,Kunwar Pal Singh,54241,AIIC(T),Sushil Choudhry,41862,12379,7.61
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,414,Sarsawa,GEN,,161428,BJP,Nirbhaya Pal Sharma,47578,INC,Saheb Singh,47274,304,0.19
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,415,Nagal,SC,,141800,BSP,Ilam Singh,55114,BJP,Mam Chand,50516,4598,3.24
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,416,Deoband,GEN,,154257,BJP,Sukhbeer Singh Pundir,61807,BSP,Rajendra Singh Rana,45691,16116,10.45
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,417,Harora,SC,,170748,BSP,Maya Wati,84647,SP,Vimla Rakesh,57229,27418,16.06
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,418,Saharanpur,GEN,,162943,SP,Sanjay Garg,77690,BJP,Laj Krishan,69281,8409,5.16
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,419,Muzaffarabad,GEN,,158782,SP,Jagdish Singh Rana,69141,BSP,Iqbal,46454,22687,14.29
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,420,Roorkee,GEN,,162003,SP,Ram Singh Saini,58901,BJP,Prithvi Singh Viksit,55004,3897,2.41
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,421,Laksar,GEN,,155601,BSP,Mohd. Mohiduddin,63325,SP,Ch. Kulveer Singh,57140,6185,3.97
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,422,Hardwar,GEN,,157747,SP,Ambrish Kumar,64016,BJP,Muni Jagdish,51446,12570,7.97
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,423,Mussoorie,GEN,,152386,BJP,Rajendra Singh,75253,AIIC(T),Nav Prabhat,36263,38990,25.59
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,424,Dehradun,GEN,,106103,BJP,Harbans Kapoor,59807,INC,Dinesh Agarwal,19074,40733,38.39
+ae-uttar-pradesh-1996,AE,Uttar Pradesh,1996,1996,official,425,Chakrata,ST,,124771,SP,Munna Chauhan,51014,INC,Pritam Singh,35073,15941,12.78

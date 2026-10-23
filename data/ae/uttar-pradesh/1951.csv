@@ -1,0 +1,348 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,1,Chakrata Cum Western Doon (North),GEN,,39512,INC,Shanti Prapan Sharma,17274,IND,Gulab Singh,13886,3388,8.57
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,2,Western Doon South Cum Eastern Doon,GEN,,31795,INC,Nar Dev Shastri,19031,BJS,Jagmohan Swarup,4745,14286,44.93
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,3,Rawain Cum Tehri North,GEN,,26418,IND,Jayandra Singh Bist,16753,INC,Ram Chandra Uniyal,9665,7088,26.83
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,4,Devprayag,GEN,,21237,IND,Satya Singh,12137,INC,Prem Lal,5583,6554,30.86
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,5,Tehri (South) Cum Pratap Nagar,GEN,,32906,IND,Maharaj Kumar Balendu Shah,21744,INC,Trepan Singh,11162,10582,32.16
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,6,Chamol West Cum Pauri North,SC,,18522,SOC,Gangadhar Maithani,7470,INC,K.N. Gairola,6795,675,3.64
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,7,Pauri South Cum Chamoli (East),GEN,,45288,INC,Chandra Singh Rawat,14196,IND,Ghaneshyam Dimri,10839,3357,7.41
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,8,Lansdowne (East),GEN,,23867,INC,Ram Prasad,13269,IND,Padma Datt,7622,5647,23.66
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,9,Lansdowne (West),GEN,,13961,INC,Jagmohan Singh,10097,SOC,Rup Chand,3864,6233,44.65
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,10,Pithoragarh Cum Champawat,GEN,,42092,INC,Narendra Singh,17809,IND,Khushi Ram,8998,8811,20.93
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,11,Ranikhet North,GEN,,19920,SOC,Madan Mohan,7785,INC,Hari Datt,7710,75,0.38
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,12,Ranikhet South,GEN,,19881,INC,Har Govind,10095,SOC,Govind Singh,9786,309,1.55
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,13,Almora (North),GEN,,20094,INC,Bhupal Singh,7537,IND,Jagan Nath,5610,1927,9.59
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,14,Almora (South),GEN,,27456,INC,Govardhan,13925,IND,Sohan Singh,11589,2336,8.51
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,15,Naini Tal (North),GEN,,30052,SOC,Narayan Datt,11097,INC,Shyam Lal,9627,1470,4.89
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,16,Naini Tal (South),GEN,,27571,INC,Lakshman Datt,18115,SOC,Ram Datt,4707,13408,48.63
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,17,Baheri (North East),GEN,,28238,INC,Ram Murti,13613,SOC,Bhairon Prasad,8200,5413,19.17
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,18,Baheri (South West) Cum Bareilly (West),GEN,,35936,INC,Dharam Dutt,19183,SOC,Kunwar Bhagwan Sahai,12762,6421,17.87
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,19,Bareilly Municipality,GEN,,52175,INC,Pant Pandit Govind Ballabh,21828,BJS,Mathur Manmohan Lal,13122,8706,16.69
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,20,Bareilly (Eest),GEN,,25104,INC,Safia Abdul Wajjid,9215,BJS,Brij Mohan Lal,7033,2182,8.69
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,21,Bareilly West,GEN,,23832,INC,Ram Charan Lal,12699,KMPP,Mehal Lal,7795,4904,20.58
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,22,Aonla (West),GEN,,27825,INC,Nawal Kishore,14888,BJS,Hakim Singh,7608,7280,26.16
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,23,Aonia (East) Cum Faridpur,GEN,,46264,INC,Nathoo Singh,16702,IND,Sunder Lal,7646,9056,19.57
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,24,Nawabganj,GEN,,26227,INC,Nawrang Lal,14463,SOC,Chet Ram,5922,8541,32.57
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,25,Pilibhit (West),GEN,,28856,INC,Maqsood Alam Khan,12496,KMPP,Mohammad Ewaz,5300,7196,24.94
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,26,Pilibhit (East) Cum Bisalpur (West),GEN,,22042,INC,Niranjan Singh,8048,KMPP,N. N. Mittra,3880,4168,18.91
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,27,Puranpur Cum Bisalpur (East),GEN,,24487,SOC,Munindra Pal Singh,10007,INC,Ram Murti Lal,8578,1429,5.84
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,28,Bisalpur (Central),GEN,,28452,SOC,Hari Prasad,9455,INC,Bhagwan Singh,8731,724,2.54
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,29,Thakurdwara,GEN,,28457,INC,Shiv Sarup Singh,16780,SOC,Hari Shanker,7046,9734,34.21
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,30,Amroha (East),GEN,,34315,INC,Khiali Ram,20027,IND,Gajendra Singh,7089,12938,37.7
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,31,Amroha (West),GEN,,39725,INC,Mohd. Taqi Hadi,18348,SOC,Sri Ram,8494,9854,24.81
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,32,Hasanpur North,GEN,,38061,INC,Latafat Husain,14542,IND,Samarpal Singh,8797,5745,15.09
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,33,Hasanpur South Cum Sambhal West,GEN,,26258,INC,Jagdish Parshad,10368,SOC,Munshi,4874,5494,20.92
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,34,Sambhal East,GEN,,59069,INC,Jagdish Saran Rastogi,21275,KMPP,Lekhraj Singh,12935,8340,14.12
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,35,Moradabad South,GEN,,40962,INC,Kedar Nath,22997,IND,Abdul Qadir,6197,16800,41.01
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,36,Moradabad North,GEN,,29262,INC,Dau Dayal Khanna,17291,IND,Khamani Singh,5046,12245,41.85
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,37,Bilari,GEN,,71643,INC,Mehi Lal,32741,IND,Har Sahai,13306,19435,27.13
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,38,Rampur City,GEN,,27813,INC,Fazal- Ul- Haq,18570,HMS,Bhukan Saran,4574,13996,50.32
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,39,Huzur Cum Milak North,GEN,,39652,INC,Kalyan Rai,18953,BJS,Prem Kishore,12557,6396,16.13
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,40,Milak South Cum Shahbad,GEN,,39513,INC,Kishan Saran Arya,17956,BJS,Narayan Das,11597,6359,16.09
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,41,Suar Cum Tanda Cum Blaspur,GEN,,38588,INC,Mahmood Ali Khan,21195,HMS,Ram Niwas,10639,10556,27.36
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,42,Najibabad North Cum Nagina North,GEN,,34895,INC,Ratan Lal,20638,SOC,Chandan Singh,7320,13318,38.17
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,43,Bijnor North Cum Najibabad West,GEN,,38131,INC,Abdul Lateef,19551,SOC,Chetram Singh,5618,13933,36.54
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,44,Bijnor Central,GEN,,35463,INC,Chandrawati,15426,KMPP,Satya Vir,6555,8871,25.01
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,45,Bijnor South Cum Dhampur South West,GEN,,28003,INC,S.K. Sharma,7896,IND,Sadruddin,5375,2521,9.0
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,46,Dhampur North East Cum Nagina East,GEN,,104383,INC,Girdhari Lal,44527,IND,Khub Singh,25165,19362,18.55
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,47,Nagina South West Cum Dhampur North,GEN,,44058,INC,H. M. Ibrahim,20527,BJS,Bhu Deo Singh,9054,11473,26.04
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,48,Roorkee East,GEN,,41234,INC,Din Dayal,24117,BJS,Panna Lal,6455,17662,42.83
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,49,Roorkee South,GEN,,39374,INC,Khwaja Athar Hassan,25163,BJS,Nand Ram,5887,19276,48.96
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,50,Roorkee West Cum Saharanpur North,GEN,,86474,INC,Jai Pal,49224,SOC,Shugan Chand,7455,41769,48.3
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,51,Saharanpur City,GEN,,33535,INC,Maulvi Manzoorul Nabi,18799,IND,Bhram Datt,8688,10111,30.15
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,52,Deoband,GEN,,89024,INC,Thakur Phool Singh,46068,IND,Hardeva,15332,30736,34.53
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,53,Saharanpur North West Cum Nakur North,SC,,48102,INC,Mahmood Ali Khan,34272,IND,Niranjan Singh,3296,30976,64.4
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,54,Nakur South,GEN,,39345,INC,Dsata Ram,27441,KMPP,Rajaram,5575,21866,55.58
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,55,Muzaffarnagar East Cum Jansath North,GEN,,33952,INC,Balwant Singh,15872,IND,Syed Murtaza,7236,8636,25.44
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,56,Muzaffarnagar West,GEN,,39896,INC,Rajindra Datt,24688,IND,Amir Singh,8200,16488,41.33
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,57,Kairana North,GEN,,34962,INC,Kesho Gupta,18277,IND,Inder Prakash,5699,12578,35.98
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,58,Muzaffarnagar Central,GEN,,31277,INC,Dwaraka Prasad,21940,SOC,Braham Prakash,4460,17480,55.89
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,59,Kairana South,GEN,,51856,INC,Virendra Verma,29821,IND,Sultan Singh,19696,10125,19.53
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,60,Budhana West,GEN,,43668,INC,Shri Chand,20870,IND,Bijey Pal,12208,8662,19.84
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,61,Budhana East Cum Jansath South,GEN,,95398,INC,Mohammad Nabi,39200,IND,Ram Dass,8788,30412,31.88
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,62,Baghpat West,GEN,,39988,INC,Charan Singh,18298,IND,Raghubir Singh,9878,8420,21.06
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,63,Baghpat South,GEN,,35760,INC,Raghubir Singh,21443,KMPP,Dal Chand Sharma,5834,15609,43.65
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,64,Baghpat East,GEN,,41806,INC,Harkhayal Singh,21695,IND,Munshi Ram,8811,12884,30.82
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,65,Sardhana East,GEN,,44696,INC,Bishamber Singh,25973,IND,Richpal Singh,6149,19824,44.35
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,66,Sardhana West,GEN,,44917,INC,Fateh Singh Rana,17680,KMPP,Sunder Lal,10832,6848,15.25
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,67,Ghaziabad North East,GEN,,44113,INC,Vichitra Narain,24095,IND,Bhagwan Dass,7971,16124,36.55
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,68,Ghaziabad North West,GEN,,42584,INC,Teja Singh,19558,IND,Shankar Lal,7121,12437,29.21
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,69,Ghaziabad South,GEN,,29313,INC,Balbir Singh,13602,SOC,Baljit Singh,6297,7305,24.92
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,70,Hapur South,GEN,,77822,INC,Lutf Ali Khan,45039,BJS,Vir Sen,11622,33417,42.94
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,71,Meerut Municipality,GEN,,43988,INC,Kailash Prakash,26542,IND,Ram Sarup Sharma,6943,19599,44.56
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,72,Hapur North,GEN,,100088,INC,Prakashvati Suda,53798,SOC,Hari Singh,11159,42639,42.6
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,73,Mawana,GEN,,99852,INC,Vishnu Saran Dublish,41815,SOC,Ramji Lal Sahayak,17193,24622,24.66
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,74,Sikandrabad West,GEN,,44362,INC,Ram Chandra,28165,SOC,Lekhraj Singh,9514,18651,42.04
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,75,Sikandrabad East,GEN,,43499,INC,Kewal Singh,25945,KMPP,Dal Chand,8078,17867,41.07
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,76,Khurja,GEN,,96584,INC,"Bhatnagar, Kishan Sarup",48597,SCF,Bhim Sen,21515,27082,28.04
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,77,Bulandshahr North West,GEN,,34484,INC,Irtiza Hussain,18469,SOC,Jagvir Singh,11882,6587,19.1
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,78,Bulandshahr Central,GEN,,29243,INC,Banarsi Das,18528,IND,Reoti Prasad,5420,13108,44.82
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,79,Bulandshahr North East,GEN,,32198,INC,Mohan Singh,14785,SOC,Mithan Lal,9942,4843,15.04
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,80,Anupshahr North,GEN,,28293,INC,Din Dayal,12965,SOC,Karan Lal,8114,4851,17.15
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,81,Bulandshahr South Cum Anupshahr South,GEN,,87680,INC,Dharam Singh,40710,BJS,Deo Datta,16841,23869,27.22
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,82,Hathras,GEN,,102693,INC,Nand Kumar Deo Vashist,39157,SOC,Har Dayal Singh,25685,13472,13.12
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,83,Iglas,GEN,,33742,INC,Sheodan Singh,14728,IND,Raja Bahadur Kishori Raman Singh,7764,6964,20.64
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,84,Khair Cum Koil North West,GEN,,89571,INC,Mohan Lal Gautam,45143,SCF,Ram Prasad Deshmukh,15962,29181,32.58
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,85,Koil Central,GEN,,37989,INC,Nafisul Hasan,22576,IND,Amar Singh,5594,16982,44.7
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,86,Atrauli North,GEN,,33579,INC,Shri Niwas,19151,SOC,Babu Singh,11833,7318,21.79
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,87,Atrauli South Cum Koil East,GEN,,57059,INC,Raja Ram,32659,SOC,Bhup Singh,18449,14210,24.9
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,88,Sikandra Rao North Cum Koil South East,GEN,,42471,INC,Natrapal Singh,25078,SOC,Budhpal Singh Yadava,11491,13587,31.99
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,89,Sikandra Rao South,GEN,,43810,INC,Nek Ram Sharma,23909,SOC,Banwari Lal,9285,14624,33.38
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,90,Kiraoli,GEN,,35755,INC,Ramesh Verma,12672,SOC,Chintamani,4298,8374,23.42
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,91,Kheragarh,GEN,,30750,INC,Jagan Prasad Rawat,13373,IND,Hakim Singh,8299,5074,16.5
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,92,Agra City North,GEN,,41109,INC,Baboo Lal Mital,25612,BJS,Kanhaiya Lal,9000,16612,40.41
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,93,Agra City West,GEN,,39088,INC,C.V. Mahajan,21399,IND,Gopi Chand Pipal,9339,12060,30.85
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,94,Agra,GEN,,31142,INC,Deoki Nandan,14235,IND,Tulsi Ram,2679,11556,37.11
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,95,Etmadpur Cum Agra East,GEN,,80189,INC,Ulfat Singh Chauhan,23884,SCF,Puttu Lal,9935,13949,17.4
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,96,Firozabad Cum Fatehabad,GEN,,102939,INC,Ganga Dhar,25007,IND,Israr - Ul - Haq,9731,15276,14.84
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,97,Bah,GEN,,32969,INC,Shimbhu Nath,15632,IND,Diwan Gokaran Singh,12155,3477,10.55
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,98,Mat Cum Sadabad West,GEN,,87777,INC,Laxmi Raman Acharya,24638,IND,Dal Chand,16360,8278,9.43
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,99,Chhata,GEN,,50223,INC,Ram Het,13554,IND,Karan Singh,10213,3341,6.65
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,100,Mathura South,GEN,,31563,INC,Acharya Jugal Kishore,14274,IND,Hasihar Singh,4486,9788,31.01
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,101,Mathrua North,GEN,,40071,INC,Shri Nath,22547,BJS,Jamuna Parshad,12284,10263,25.61
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,102,Sadabad East,GEN,,38913,INC,Ashraf Ali,15485,IND,Komal Parshad,8493,6992,17.97
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,103,Jalesar Cum Etah North,GEN,,90042,INC,Chironji Lal,21658,SOC,Fateh Singh,16301,5357,5.95
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,104,Etah South,GEN,,43653,INC,Hoti Lal Das,13630,BJS,Permeshwari Dayal,7876,5754,13.18
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,105,Etah East Cum Aliganj West Cum Kasganj,GEN,,25314,INC,Vidya Wati,7772,IND,Kirpal Singh,4815,2957,11.68
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,106,Kasganj West,GEN,,32864,INC,Babu Ram Gupta,15674,SCF,Lakhpat Singh,7250,8424,25.63
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,107,Kasganj North,GEN,,34648,INC,Tirmal Singh,15734,KMPP,Shital Singh,7005,8729,25.19
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,108,Kasganj East Cum Aliganj North,GEN,,32786,INC,Said Jehan Beg Mukhfi,16868,BJS,Vikrama Dittya Singh,10015,6853,20.9
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,109,Aliganj South,SC,,30957,IND,Mohan Singh,9779,INC,Mahabir Singh,9256,523,1.69
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,110,Badaun South West,GEN,,33703,INC,Tulsi Ram,17104,UPPP,Gauri Singh,7255,9849,29.22
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,111,Gunnaur North,GEN,,25684,INC,Karan Singh,13589,BJS,Bahadur Singh,6869,6720,26.16
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,112,Bisauli Cum Gunnaur East,GEN,,67651,INC,Chunni Lal,22076,BJS,Sheo Raj Singh,12411,9665,14.29
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,113,Budaun North,GEN,,24696,SOC,Nihal Uddin,8364,IND,Madho Ram Rastogi,7614,750,3.04
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,114,Datatganj South Cum Budaun South East,GEN,,24981,INC,Nirotam,9577,IND,Mubarak Ali Khan,4324,5253,21.03
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,115,Detaganj North,GEN,,37401,BJS,Omkar Singh,15877,INC,Inder Singh,8983,6894,18.43
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,116,Sahaswan West,GEN,,23747,INC,Mushtaq Ali Khan,6478,IND,Mir Khurshed Ali,5419,1059,4.46
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,117,Sahaswan East,GEN,,31383,INC,Keshon Ram,13744,IND,Shiv Raj Singh,10338,3406,10.85
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,118,Mainpuri North Cum Bhongaon North,GEN,,29268,INC,Ganesh Chandra,12083,BJS,Mahabir Singh,6079,6004,20.51
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,119,Karhal East Cum Bhongaon South,GEN,,65469,INC,Mizaji Lal,17213,SOC,Sheo Baksh Singh,12021,5192,7.93
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,120,Mainpuri South,GEN,,30154,INC,Virendra Pati,14263,IND,Hem Chandra,5141,9122,30.25
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,121,Jasrana,GEN,,42459,IND,Vishan Dayal,11668,INC,Bharat Singh,8627,3041,7.16
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,122,Shikohabad West,GEN,,35614,INC,Maharaj Singh,16806,IND,Phoolan Singh,7422,9384,26.35
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,123,Karhal West Cum Shikohabad East,GEN,,31914,KMPP,Bansi Das Dhanger,8605,IND,Jaldeo Singh,6975,1630,5.11
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,124,Kannauj North,GEN,,31929,INC,Kali Charan Tandon,15845,IND,Seth Chandra Gupta,11120,4725,14.8
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,125,Chibramau East Cum Farrukhabad East,GEN,,89126,INC,Awdesh Chandra Singh,31030,SOC,Pati Ram,14521,16509,18.52
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,126,Farrukhabad Central Cum Kaimganj East,GEN,,23698,INC,Sia Ram,11558,SOC,Yogendra Datt Shukla,3947,7611,32.12
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,127,Kaimganj West,GEN,,40690,INC,Sultan Alam Khan,19307,SOC,Rajendra Singh,9173,10134,24.91
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,128,Farrukhabad West Cum Chibramau,GEN,,41174,INC,Mathura Prasad,16761,SOC,Kotwal Singh,16364,397,0.96
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,129,Chibramau South Cum Kannauj South,GEN,,46556,INC,Chiranji Lal Paliwal,16728,SOC,Hori Lal Yadav,14020,2708,5.82
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,130,Kanpur City North,GEN,,28326,INC,Surya Prasad Awasthi,12158,SOC,Raja Ram Shastri,11104,1054,3.72
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,131,Kanpur City South,GEN,,24100,INC,Brahma Dutt Dixit,13440,BJS,Parem Kumar,3792,9648,40.03
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,132,Kanpur City East,GEN,,28398,INC,Jawahar Lal Rahtagi,19717,IND,Prem Kumar Sehgal,1957,17760,62.54
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,133,Kanpur City Central West,GEN,,28121,INC,Basu Deo Pd. Misra,11336,CPI,Sant Singh Yusuf,8169,3167,11.26
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,134,Kanpur City Central East,GEN,,26940,INC,Hamid Khan,19245,IND,Brahmanand Misra,4049,15196,56.41
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,135,Akbarpur South,GEN,,30412,INC,Ram Dularay Misra,11048,SOC,Balwan Singh,10451,597,1.96
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,136,Bilhaur Cum Akberpur,GEN,,74161,INC,Brij Rani Devi,24306,SCF,Murli Dhar,14234,10072,13.58
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,137,Ghatampur Cum Bhognipur East,GEN,,77459,INC,Dayal Das Bhagat,31458,SOC,Brij Behari Mehrorta,16443,15015,19.38
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,138,Bhognipur West Cum Derapur South,GEN,,30441,INC,Ram Swarup Gupta,15549,SOC,Ram Swarup,12393,3156,10.37
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,139,Kanpur Tehsil,GEN,,40302,INC,Beni Singh,22890,UPPP,Nain Singh,11632,11258,27.93
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,140,Derapur North,GEN,,32595,INC,Sheo Ram,16573,IND,Babu Singh,5855,10718,32.88
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,141,Auraiya Cum Eharthana South,GEN,,75329,INC,Tula Ram,32695,IND,Satya Narain,13964,18731,24.87
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,142,Biddhuna East,SC,,40366,SOC,Gajendra Singh,17446,INC,Raghu Nath Sahai Shukla,14660,2786,6.9
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,143,Bidhuna West Cum Bharthana North Cum,GEN,,76360,INC,Ghasi Ram,28585,SOC,Meher Ban Singh,20167,8418,11.02
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,144,Etawah South,GEN,,30071,INC,Dixit Gopi Nath,15718,IND,Surendra Singh,4627,11091,36.88
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,145,Garotha Cum Moth North,GEN,,33163,INC,Ram Sahai,20041,IND,Vishwanath Singh,7747,12294,37.07
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,146,Man Cum Moth South Cum Jhansi West,GEN,,62119,INC,Gajjoo,32358,UPPP,Kadam Laxman Rao,9771,22587,36.36
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,147,Jhansi East,GEN,,35899,INC,Atma Ram Govind Khar,23858,IND,Ajudhya Prasad,3561,20297,56.54
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,148,Lalitpur South,GEN,,26841,INC,Krishna Chandra Sharma,11660,UPPP,Badri Narain,4454,7206,26.85
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,149,Mahroni,GEN,,19036,INC,Ram Nath Kher,10774,UPPP,Rao Yadvendra Singh,2409,8365,43.94
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,150,Kalpi Cum Jalaun North,GEN,,95057,UPPP,Virendra Shah,27805,INC,Shiva Shankar Singh,18853,8952,9.42
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,151,Konch,GEN,,27416,INC,Chittar Singh,12493,UPPP,Vijai Singh,7112,5381,19.63
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,152,Orai Cum Jalaun South,GEN,,30551,INC,Chaturbhuj Sharma,13551,SOC,Banwari Lal,9739,3812,12.48
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,153,Mahoba Cum Kulpahar Cum Charkhari,GEN,,69661,INC,Manni Lal,26321,SOC,Madanpal Singh,16182,10139,14.55
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,154,Hamirpur Cum Maudaha North,GEN,,24158,INC,Surendra Datt,8860,SOC,Sheo Nath,4921,3939,16.31
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,155,Maudaha South,GEN,,26750,IND,Tej Pratap Singh,9017,INC,Ram Gopal Gupta,7262,1755,6.56
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,156,Rath,GEN,,34892,INC,Sripat Sahai,21666,SOC,Swami Prasad Singh,11571,10095,28.93
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,157,Mau Cam Karwi Cum Baberu East,GEN,,35887,INC,Jagpat Singh,11024,RRP,Darshan Ram,6495,4529,12.62
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,158,Baberu West,GEN,,20778,INC,Ram Sanehi Bhartiya,7995,IND,Jageshwar,7936,59,0.28
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,159,Naraini,GEN,,15563,INC,Shyama Charan,6097,SOC,Raj Kishore,4822,1275,8.19
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,160,Banda,SC,,22800,INC,Pahalwan Singh,12022,IND,Manni Prasad,2597,9425,41.34
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,161,Khajuha West,GEN,,35939,INC,Gur Prasad,12566,IND,Raja Chandra Bhan Singh,6355,6211,17.28
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,162,Khajuha East Cum Fateh Pur South West,GEN,,23252,INC,Sheo Rai Bali Singh,11174,IND,Jagannath Singh,5222,5952,25.6
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,163,Fatehpur East Cum Khanga North,GEN,,20623,INC,Khan Abdul Rauf,7155,BJS,Uma Shankar,4078,3077,14.92
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,164,Fatehpur South Cum Khaga South,GEN,,59447,INC,Anant Swarup Singh,18339,KMPP,Bhagvan Din,9608,8731,14.69
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,165,Unnao South,GEN,,29105,INC,Liladhar,18308,UPPP,Ch. Kewal Singh,4757,13551,46.56
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,166,Safipur Cum Unnao North,GEN,,64625,INC,Mohan Lal,20867,IND,Habibur Rahman,14512,6355,9.83
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,167,Purwa Central,GEN,,26636,INC,Ram Adhin,14545,UPPP,Kr. Guru Narain,8708,5837,21.91
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,168,Purwa South,GEN,,28808,INC,Deo Dutt Misra,15187,UPPP,Jagannath Bux Singh,7262,7925,27.51
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,169,Purwa North Cum Hasanganj,GEN,,66225,INC,Jata Shanker,29497,BJS,Sewa Ram,9594,19903,30.05
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,170,Daimau South West,GEN,,31164,INC,Guptar Singh,22093,BJS,Narendra Bahadur Singh,3454,18639,59.81
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,171,Dalmau East,GEN,,30343,INC,Chandrapal,18076,IND,Sant Ram,6315,11761,38.76
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,172,Rae Bareli Cum Dalmau North,GEN,,64362,INC,Ram Shanker,27116,IND,Ram Prasad,7343,19773,30.72
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,173,Maharajganj West,GEN,,65634,INC,Ram Swarup Vishard,17453,BJS,Rameshwar,7707,9746,14.85
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,174,Maharajganj East Cum Salon North,GEN,,28092,INC,Wasi Naqvi,12977,IND,Asht Bhuja Bux Singh,2911,10066,35.83
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,175,Salon South,GEN,,31558,INC,Dal Bahadur Singh,15574,SOC,Sheo Prasad Pandya,4667,10907,34.56
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,176,Shahabad West,GEN,,28528,INC,Syed Aizaz Rasool,11759,IND,Dr. Piarey Lal,7518,4241,14.87
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,177,Shahabad East Cum Hardoi North West,GEN,,68092,INC,Chheda Lal,24765,IND,Kanahiya Lal Balmiki,15984,8781,12.9
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,178,Hardoi East,GEN,,80552,INC,Chandra Has,27160,IND,Kinder Lal,9798,17362,21.55
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,179,Bilgram West,GEN,,27270,INC,Virendra Nath,9807,BJS,Raghubar Singh,6991,2816,10.33
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,180,Bilgram East,GEN,,34107,INC,Radha Kishan,12946,SOC,Jagdish Prasad,7452,5494,16.11
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,181,Sandila Cum Bilgram South East,GEN,,58060,INC,Tika Ram,29211,BJS,Laxmi Devi,10208,19003,32.73
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,182,Shahjahanpur West Cum Jalalabad,GEN,,27160,INC,Pritipal Singh,8881,IND,Thaneshwar Na,4397,4484,16.51
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,183,Jalalabad West,GEN,,27192,INC,Ram Gulam Singh,7709,IND,Ganga Singh,5626,2083,7.66
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,184,Shahjahanpur Central,GEN,,27332,INC,Habib-Ur-Rahman,13604,IND,Babu Ram Munim,4711,8893,32.54
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,185,Powayan Cum Shahjahanpur East,GEN,,77000,INC,Prem Krishan Khanna,12427,IND,Jyoti Pershad,11169,1258,1.63
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,186,Tilhar North,GEN,,21740,INC,Sheo Kumar Misra,7640,SOC,Balak Ram,4413,3227,14.84
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,187,Tilhar South,GEN,,31024,INC,Bhagwan Sahai,10891,SOC,Room Singh,9888,1003,3.23
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,188,Nighsan Cum Lakhimpur North,GEN,,56317,INC,Karn Singh,19630,IND,Jaggannath Parshad,16705,2925,5.19
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,189,Lkhimpur South,GEN,,68557,INC,Banshi Dhar Misra,21998,IND,Cheda Lal Chaudhari,13529,8469,12.35
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,190,Mohamdi West,GEN,,33701,INC,Ram Bhajan,18288,BJS,Shiam Narain,11276,7012,20.81
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,191,Mohamdi East,GEN,,30354,INC,Kamal Ahmed,13365,BJS,Ram Saroop,6790,6575,21.66
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,192,Sitapur (East),GEN,,22795,INC,Hakim Bashir Ahmad,8259,SOC,Bishun Kumar,4935,3324,14.58
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,193,Sitapur North West,GEN,,25267,INC,Harish Chandra Asthana,11440,BJS,Ram Dullarey,5040,6400,25.33
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,194,Sitapur South East,GEN,,25451,INC,Krishna Chandra Gupta,11649,BJS,Bhola Nath,6454,5195,20.41
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,195,Misrikh,GEN,,64108,INC,Dalla Ram,29764,BJS,Ganga Dhar Sharma,9141,20623,32.17
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,196,Sidhauli West,GEN,,66752,INC,Tara Chand,26275,SOC,Baiju Ram,11938,14337,21.48
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,197,Biswan Cum Sidhauli East,GEN,,86317,IND,Suresh Prakash Singh,23543,INC,Munnu Lal,22776,767,0.89
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,198,Mohanlalganj,GEN,,28369,INC,Mahabir Prasad,16266,SOC,Shri Narain Singh,4325,11941,42.09
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,199,Lucknow Central,GEN,,52803,INC,Harish Chandra Bajpai,23073,SCF,Ram Shankar Rabivasi,6642,16431,31.12
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,200,Lucknow City West,GEN,,33998,INC,Pulin Behari Bannerji,19637,BJS,Tej Narain,6469,13168,38.73
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,201,Lucknow City East,GEN,,37607,INC,Chandra Bhanu Gupta,20145,BJS,Krishna Gopal Kalantri,7168,12977,34.51
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,202,Lucknow City Central,SC,,35752,INC,Syed Ali Zaheer,19074,BJS,Raj Kumar,10930,8144,22.78
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,203,Malihabad Cum Bara Banki North West,GEN,,72849,INC,Tula Ram Rawat,27091,SOC,Shyam Manohar Misra,8750,18341,25.18
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,204,Fatehpur North,GEN,,27346,SOC,Avadh Saran Alias Lalla,12900,INC,Vishal Singh,11423,1477,5.4
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,205,Nawabganj North,GEN,,27531,INC,Jagat Narain,13405,SOC,Puttoo Lal Verma,9392,4013,14.58
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,206,Fatehpur South,SC,,21344,INC,Bahgwati Prasad Shukla,12444,SOC,Braj Bahadur,4005,8439,39.54
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,207,Nawabganj South Cum Haidergarh Cum,GEN,,60973,INC,Ghanshiam Dass,17141,UPPP,Uma Shanker Misra,8934,8207,13.46
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,208,Ram Sanehighat,GEN,,58470,INC,Mahant Jagannath Bux Dass,30229,UPPP,Baboo Lal Kushmesh,8908,21321,36.46
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,209,Pratapgarh East,SC,,27228,INC,Bhagwati Prasad Shukla,14488,IND,Trilok Nath Rai,5647,8841,32.47
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,210,Pratapgarh North West Cum Patti North,GEN,,58005,INC,Ram Adhar,27609,IND,Ram Kinker,7744,19865,34.25
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,211,Patti South,GEN,,24361,INC,Girja Raman,17900,BJS,Pashupati Pratap Singh,3351,14549,59.72
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,212,Patti East,GEN,,24883,INC,Ram Raj,17337,BJS,Hari Mangal Singh,2396,14941,60.05
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,213,Kunda South,GEN,,54971,INC,Ram Naresh Shukla,26866,SOC,Ram Sarup,10568,16298,29.65
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,214,Pratapgarh West Cum Kunda North,GEN,,20825,INC,Raja Ram,11870,SOC,Tej Bhan Singh,3511,8359,40.14
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,215,Sultanpur West,GEN,,22771,INC,Kuer Krishna,15411,KMPP,Karuna Shankar Misra,2686,12725,55.88
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,216,Sultanpur East Cum Amethi East,GEN,,22240,INC,Ram Bali,12385,UPPP,Bhagwan Bux,3038,9347,42.03
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,217,Amethi Central,GEN,,32541,IND,Kunwer Rananjai Singh,21536,INC,Baijnath Singh,7835,13701,42.1
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,218,Musafirkhana South Cum Amethi West,GEN,,30067,INC,Gur Persad Singh,14402,IND,Bijai Bahadur Singh,8777,5625,18.71
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,219,Musafrkhana Central,GEN,,28351,INC,Savitri Devi,10631,IND,Rajo Siraj,6049,4582,16.16
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,220,Kadipur,GEN,,49349,INC,Kashi Parsad,21229,SOC,Shankar,7470,13759,27.88
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,221,Musafirkhana North Cum Sultanpur North,GEN,,45746,INC,Gulzar,14590,BJS,Nazim Ali,9625,4965,10.85
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,222,Akbarpur East,GEN,,32955,SOC,Ram Narain,10634,IND,Jagdamba Prasad Singh,7678,2956,8.97
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,223,Akbarpur West,GEN,,86174,INC,Jai Ram Verma,29743,RRP,Ram Dass,13083,16660,19.33
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,224,Bikapur West,GEN,,23620,INC,Ram Harsh Yadva,12098,UPPP,Baldeo Singh,5876,6222,26.34
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,225,Bikapur East,GEN,,26249,IND,Avadhesh Pratap Singh,5970,INC,Mahadeo,5966,4,0.02
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,226,Bikapur Central,GEN,,18337,INC,Brij Basi Lal,6244,IND,Jagdambika Pratap Narain Singh,6071,173,0.94
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,227,Tanda,GEN,,85436,INC,Ram Sumer,24035,IND,Mohammad Nasir,20915,3120,3.65
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,228,Faizabad West,SC,,21318,INC,Raja Ram Misra,10226,BJS,Gurdatt Singh,5677,4549,21.34
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,229,Faizabad East,GEN,,58740,INC,Narain Dass,19839,SOC,Madan Gopal,18136,1703,2.9
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,230,Kerakat Cum Jaunpur South,GEN,,68657,INC,Parmeshari,31464,IND,Lal Bahadur,9888,21576,31.43
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,231,Jaunpur East,SC,,33762,INC,Har Govind,16951,BJS,Hira,7097,9854,29.19
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,232,Jaunpur West,GEN,,33411,INC,Deep Narain Verma,13619,IND,Ram Das,9454,4165,12.47
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,233,Machhli Shahar North,GEN,,31841,INC,Nageshwar,13228,BJS,Chandrabhal Deo Singh,7786,5442,17.09
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,234,Machhli Shahar South,GEN,,30525,INC,Mohd. Rauf Jafri,21173,IND,Kesari Prasad,4024,17149,56.18
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,235,Shahganj East,GEN,,57277,INC,Lakshmi Shankar Yadava,25389,BJS,Babu Nandan,8271,17118,29.89
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,236,Mariahu South,GEN,,34597,INC,Ramesh Chandra,17518,SOC,Shri Ram,6776,10742,31.05
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,237,Mariahu North,GEN,,31178,INC,Dwarka Parasad,15951,BJS,Shesh Narain,3491,12460,39.96
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,238,Jaunpur North Cum Shahganj West,GEN,,33602,INC,Bhagauti Din,20901,IND,Babu Ram,9540,11361,33.81
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,239,Meja Cum Karchana South,GEN,,74674,INC,Mangla Prasad,41179,KMPP,Raghunath Prasad,11292,29887,40.02
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,240,Karchana North Cum Chail South,GEN,,80685,INC,H. N. Bahguna,37399,KMPP,Jawahar Lal,9149,28250,35.01
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,241,Soraon North Cum Phulipur West,GEN,,30195,INC,Lal Bahadur Shastri,20930,KMPP,Lal Bahadur Singh,3190,17740,58.75
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,242,Soraon South,GEN,,28966,INC,Parmanand Sinha,16714,RRP,Bhagwati Prasad,4843,11871,40.98
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,243,Phulpur Central,GEN,,33450,INC,Shiva Nath Katju,17758,IND,Debi Prasad,5578,12180,36.41
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,244,Phulpur East Cum Handia North West,GEN,,33953,INC,Bhuar,16430,SOC,Govind Prasad Singh,6118,10312,30.37
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,245,Handia South,GEN,,29922,INC,Mahabir Prasad Shukla,15777,IND,Girdhar Singh Yadava,8135,7642,25.54
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,246,Sirathu Cum Manjhanpur,GEN,,65730,INC,Sheo Kumar,17758,KMPP,Salig Ram Jaiswal,17526,232,0.35
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,247,Allahabad City East,SC,,29695,INC,Ganesh Prasad Jaiswal,13732,KMPP,K. K. Bhattacharya,7586,6146,20.7
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,248,Allahabad City Central,GEN,,25891,INC,Bishambhar Nath Pande,13450,CPI,Zainul Abdin Ahmad,9105,4345,16.78
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,249,Chail North,GEN,,24432,INC,Muzaffar Husain,14434,IND,Kallan,3848,10586,43.33
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,250,Dudhi Cum Robertsganj,GEN,,70795,INC,Brij Bhushan,23481,IND,Ram Swaroop,18100,5381,7.6
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,251,Mirzapur South,GEN,,72855,INC,Ram Kishun,24276,IND,Aziz Imam,16363,7913,10.86
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,252,Mirzapur North,GEN,,38418,INC,Amresh Chandra Pandey,20996,BJS,Bhagwan Das,6606,14390,37.46
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,253,Chunar North,GEN,,26505,INC,Raj Kumar Sharma,8121,SOC,Girja Pd. Singh,4503,3618,13.65
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,254,Chunar South,GEN,,24340,INC,Raj Narain Singh,11431,RRP,Sri Sadayatan Pandey,4849,6582,27.04
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,255,Chakia Cum Chandauli South East,GEN,,85800,INC,Ram Lakhan,24480,IND,Tripathi Kamalapati,17139,7341,8.56
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,256,Chandauli North,GEN,,31108,INC,Kamta Prasad,11721,IND,Yadav Bishwanath Singh,8673,3048,9.8
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,257,Chandauli Cum Ramnager South West,GEN,,30138,INC,Tiwari Umashanker,11353,IND,Namwar,6154,5199,17.25
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,258,Banaras City North,GEN,,41310,INC,Shaikh Mohd. Abdul Samad,19684,BJS,Sahu Bishwanath Pd. Alias Jhingan Sahu,12262,7422,17.97
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,259,Banaras City South,GEN,,30849,INC,Sampurnanand Ji,12170,CPI,Satin Rustam,7847,4323,14.01
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,260,Banaras North,GEN,,20734,INC,Singh Lal Bahadur,8907,SOC,Ram Narain,8770,137,0.66
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,261,Banaras Central,GEN,,31783,INC,Baldev,11673,SOC,Bir Bahadur,5588,6085,19.15
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,262,Banaras South,GEN,,31301,SOC,Raj Narain,13164,INC,Rishi Narain,13031,133,0.42
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,263,Banaras West,GEN,,37018,INC,Sharma Deomurti,9649,UPRSP,Udal,7587,2062,5.57
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,264,Gyanpur East,GEN,,30771,INC,Gupta B. Bechan Ram,10985,IND,Adya Prasad,7347,3638,11.82
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,265,Gyanpur North West,GEN,,78657,INC,Bans Narain,20343,IND,Bechan Ram,14890,5453,6.93
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,266,Bahraich East,GEN,,57119,INC,Raj Kishore,19100,RRP,Sheo Saran Lal Srivastava,13791,5309,9.29
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,267,Bahraich West,GEN,,36544,INC,Triloki Nath Kaul,15793,RRP,Jamuna Prasad,5923,9870,27.01
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,268,Nanpara East,GEN,,18403,UPPP,Birendra Bikram Singh,5644,INC,Hamid Ullah Khan,3707,1937,10.53
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,269,Nanpara North,GEN,,23821,INC,Basant Lal Sharma,12306,KMPP,Gaya Prasad,3052,9254,38.85
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,270,Nanpara South,GEN,,33337,IND,Syed Mohammad Saadat Ali Khan,13845,INC,Jagdish Pd. Agarwal,12875,970,2.91
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,271,Kaisarganj North,GEN,,26661,INC,Bhagwan Din,11977,RRP,Ram Pal,11486,491,1.84
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,272,Kaisarganj Central,GEN,,26060,INC,Sia Ram,13714,IND,Pratap Bahadur Singh,12346,1368,5.25
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,273,Kaisarganj South,GEN,,32459,INC,Hukum Singh,14214,KMPP,Athar Mehdi,10715,3499,10.78
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,274,Utraula South West,GEN,,35056,INC,Raja Raghuvendra Pratap Singh,26048,BJS,Dashrath Ram,9008,17040,48.61
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,275,Utraula Central,GEN,,36450,INC,S. M. Shahid Faqri,17243,BJS,Suraj Lal Gupta,12364,4879,13.39
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,276,Utraula North,GEN,,69724,INC,Balbhadra Prasad,25560,BJS,Shyam Lal S/O Shukha,19629,5931,8.51
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,277,Utraula North East,GEN,,32352,BJS,Ummed Singh,13471,INC,Sailani Baldeo Pd,10813,2658,8.22
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,278,Gonda West,GEN,,26255,HMS,Jwala Prasad,8751,INC,Achaiber Dutt,8682,69,0.26
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,279,Gonda East,GEN,,31050,INC,Mahnot Sajjan Devi,11652,HMS,Ajodhya Prasad,9052,2600,8.37
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,280,Tarabganj South East Cum Gonda South,GEN,,61031,INC,Chandra Bhan Saran Singh,15357,HMS,Pandey Ram Manorath,14757,600,0.98
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,281,Tarabganj West,GEN,,25679,INC,Raghuraj Singh,9790,HMS,Madan Mohan Singh,9374,416,1.62
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,282,Utraula South,GEN,,27500,INC,Amrit Nath,13077,IND,Raghuran Tej Bahadur Singh,5632,7445,27.07
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,283,Domariaganj (North-West),GEN,,31897,INC,Ram Lakhan Misra,24067,UPPP,Tribhuwan Singh,3171,20896,65.51
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,284,Domria Ganj North East Cum Bansi West,GEN,,38848,INC,Mohd. Suleman Adhami,25584,UPPP,Kumar Sirpeti Singh,7401,18183,46.81
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,285,Bansi South,GEN,,38338,INC,Ram Kumar Shastri,21297,BJS,Madho Pd. Tripathi,10635,10662,27.81
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,286,Bansi North,GEN,,68341,INC,Puddan,44384,UPPP,Mathura Prasad,7451,36933,54.04
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,287,Basti East,SC,,29225,INC,Ansman Singh,19538,RRP,Onkar Singh,5540,13998,47.9
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,288,Basti West,GEN,,55291,INC,Parbhoo Dayal,30584,UPPP,Ram Lal,12304,18280,33.06
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,289,Domariaganj West,GEN,,26102,INC,Sardar Sheo Mangal Singh Kapoor,16324,SOC,Bhan Pratap Singh,4065,12259,46.97
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,290,Domariaganj South,GEN,,34649,INC,Qazi Mohd. Adil Abbasi,27326,UPPP,Sheo Ram Singh,3478,23848,68.83
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,291,Harraiya North West,SC,,21239,INC,Prabhakar,8339,UPPP,Surendra Pratap Narain,6138,2201,10.36
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,292,Harraiya South West,GEN,,16055,INC,Sita Ram,7832,HMS,Pt. Ram Chandra Dass,4813,3019,18.8
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,293,Harraiya East Cum Basti West,GEN,,66613,INC,Kripa Shanker,33721,HMS,Sheo Narain,12204,21517,32.3
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,294,Khalilabad South,GEN,,53177,INC,Dhanush Dhari Pandey,25701,HMS,Ram Sunder,6488,19213,36.13
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,295,Khalilabad Central,GEN,,26927,INC,Mohd. Abdul Moiz Khan,17069,IND,Mohammad Nabi,3487,13582,50.44
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,296,Khalilabad North,GEN,,29617,INC,Raja Ram Sharma,19201,IND,Chandra Bhushan Singh,4444,14757,49.83
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,297,Bansgaon South West,GEN,,39847,INC,Ganesh Prasad,13939,BJS,Jasoda Devi,6221,7718,19.37
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,298,Bansgaon South East,SC,,22647,INC,Bhrigunath,10008,SOC,Satya Deo,4405,5603,24.74
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,299,Bansgaon Central,GEN,,18671,INC,Kesh Bhan,12239,HMS,Kamla Kant,2450,9789,52.43
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,300,Bansgaon East Cum Gorakhpur South,GEN,,29782,INC,Bhagwati,19244,HMS,Kamla Singh,2616,16628,55.83
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,301,Gorakhpur Central,GEN,,38498,INC,Istafa Hussain,24585,IND,Ram Lakhan Chand,7468,17117,44.46
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,302,Gorakhpur North East,GEN,,62378,INC,Kesho,33990,BJS,Mahadeo,5607,28383,45.5
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,303,Gorakhpur South East,GEN,,29116,INC,Achaibar Singh,19432,RRP,Kapil Deo,2350,17082,58.67
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,304,Pharenda South,GEN,,23266,INC,Dwarika Pd. Pandey,15606,RRP,Shanti Swaroop Mani,1409,14197,61.02
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,305,Gorakhpur West,GEN,,20878,INC,Devendra Pratap Narain Singh,12380,BJS,Ghan Shyam Narain Dass,2757,9623,46.09
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,306,Pharenda Central,GEN,,23572,INC,Gauri Ram,13143,IND,Sita Ram,5172,7971,33.82
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,307,Pharenda North,GEN,,21894,INC,Ram Avadh Singh,13322,KMPP,Kapil Deo,2070,11252,51.39
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,308,Maharajganj North,GEN,,22457,INC,Paripurna Nand,12720,KMPP,Madan Pande,5031,7689,34.24
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,309,Maharajganj South,GEN,,61188,INC,Thakur Ram Pd. Singh,27033,KMPP,Sukhdeo,11942,15091,24.66
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,310,Deoria South,GEN,,20165,INC,Ram Nath,7000,SOC,Rameswar,6645,355,1.76
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,311,Salempur West,GEN,,23855,INC,Deo Nandan,8463,SOC,Ugra Sen,6835,1628,6.82
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,312,Salempur South,GEN,,27489,INC,Badri Narain,7588,SOC,Satya Deo,4150,3438,12.51
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,313,Salempur East,GEN,,26490,INC,Sachita Nand,10119,SOC,Bhagwat,8590,1529,5.77
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,314,Salempur North,GEN,,21308,INC,Sheo Bachan,9896,SOC,Ramayan,5728,4168,19.56
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,315,Deoria South West Cum Hata South West,GEN,,61503,INC,Ramji Sahai,23908,SOC,Sita Ram,14065,9843,16.0
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,316,Hata North,GEN,,22890,INC,Raj Deo,13155,SOC,Jagarnath Pd,5386,7769,33.94
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,317,Hata Central,GEN,,48278,INC,Surya Bali Pandey,21729,SOC,Sheo Prasad,6244,15485,32.07
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,318,Deoria North East,GEN,,23926,INC,M. Faruq Chisti,9692,SOC,Roz Mohammad,3009,6683,27.93
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,319,Padrauna South West Cum Deoria South,GEN,,22716,SOC,Raj Banshi,12345,INC,Rama Kant,6931,5414,23.83
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,320,Padrauna North,GEN,,30067,SOC,Jagarnath Mal,13458,INC,Kashi Nath Pandey,10570,2888,9.61
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,321,Padrauna East,GEN,,24025,SOC,Genda Singh,13906,INC,Singhasan Rai,5466,8440,35.13
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,322,Padrauna West,GEN,,26583,SOC,Ram Subhag,12095,INC,Mangal Upadhaya,6371,5724,21.53
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,323,Azamgarh District Ghosi East,GEN,,28099,SOC,Ram Sunder,13865,INC,Sahdeo,6351,7514,26.74
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,324,Ghosi West,GEN,,32374,UPRSP,Jharkhande Rai,15524,INC,Rameshwar Prasad Narain Singh,10211,5313,16.41
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,325,Mohammadabad North Cum Ghosi South,GEN,,73688,INC,Srinath Ram,16849,SOC,Havib -Ur - Rahman,9852,6997,9.5
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,326,Phulpur North,GEN,,25191,INC,Brij Bihari,9184,SOC,Surendra Pratap,4902,4282,17.0
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,327,Phulpur South,GEN,,53460,INC,Asha Lata Vyas,19355,SOC,Ram Bachan,10856,8499,15.9
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,328,Lalganj South,GEN,,32976,INC,Kalika Singh,9501,IND,Suraj Nath Singh,6245,3256,9.87
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,329,Lalganj North,GEN,,31777,IND,Tej Bahadur,10844,KMPP,Daljit,7533,3311,10.42
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,330,Mohammadabad Gohna South,GEN,,32934,INC,Padam Nath,16547,KMPP,Sita Ram,7860,8687,26.38
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,331,Sadar Azamgarh Tahsil,GEN,,79766,INC,Shiv Ram,22190,KMPP,Bageshwari,17836,4354,5.46
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,332,Sagri West,GEN,,26615,SOC,Uma Shankar,8128,INC,Mukti Nath,7248,880,3.31
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,333,Sagri East,GEN,,32378,INC,Baldeo Alias Satya Nand,4969,IND,Shambhu Narain,4348,621,1.92
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,334,Ballia East,GEN,,19066,INC,Radha Mohan Singh,5485,IND,Sripat,5348,137,0.72
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,335,Ballia Central,GEN,,29567,INC,Ram Anand Pandey,11614,SOC,Gauri Shankar,7437,4177,14.13
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,336,Ballia North East Cum Bansdih South,GEN,,22263,INC,Thakur Jagarnath Singh,6258,IND,Nageshwar Prasad Singh,3621,2637,11.84
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,337,Bansdih West,GEN,,28106,INC,Sheo Mangal Singh,10757,SOC,Jagnath,6653,4104,14.6
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,338,Bansdih Central,GEN,,27772,IND,Baijnath Prasad,7887,SOC,Ranjit Bahadur,7165,722,2.6
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,339,Rasra East Cum Ballia South East,GEN,,63190,INC,Mandhata,16706,SOC,Ram Rattan,9005,7701,12.19
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,340,Rasra West,GEN,,33100,INC,Ganga Prasad Singh,8745,UPRSP,Kapildeo Singh,8267,478,1.44
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,341,Ghazipur Central Cum Mohammadabad,GEN,,27112,SOC,Jamuna,12259,INC,Achhaiber Singh,9749,2510,9.26
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,342,Mohammadabad North East,GEN,,19481,SOC,Shiva Pujan Rai,7389,INC,Bhirgunath,7217,172,0.88
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,343,Mohammadabad South,GEN,,26981,INC,Bijai Shanker Prasad,11454,SOC,Sidheshwar Pd. Singh,10630,824,3.05
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,344,Ghazipur West,GEN,,36435,INC,Bishwanath Singh Gautam,8855,SOC,Dalsingar,5600,3255,8.93
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,345,Ghazipur South East,GEN,,31565,INC,Vashishtha Narain Sharma,12868,SOC,Vireshwar Nath Rai,10996,1872,5.93
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,346,Ghavipur South West,GEN,,33329,SOC,Bhola,9556,INC,Beni Madho Rai,8765,791,2.37
+ae-uttar-pradesh-1951,AE,Uttar Pradesh,1951,1951,official,347,Saidpur,GEN,,84135,INC,Dev Ram,18189,IND,Kamla Singh,17658,531,0.63

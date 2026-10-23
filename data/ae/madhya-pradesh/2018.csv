@@ -1,0 +1,231 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,1,Sheopur,GEN,Sheopur *,176430,INC,Babu Jandel,98580,BJP,Durga Lal Vijay (Vakil),56870,41710,23.64
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,2,Vijaypur,GEN,Sheopur *,171712,BJP,Seetaram,63331,INC,Ramniwas Rawat,60491,2840,1.65
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,3,Sabalagadh,GEN,Morena,152376,INC,Baijnath Kushwah,54606,BSP,Lal Singh Kewat,45869,8737,5.73
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,4,Jaura,GEN,Morena,162748,INC,Banavareelal Sharma (Japthap),56187,BSP,Maneeram Dhakad,41014,15173,9.32
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,5,Sumaoli,GEN,Morena,158281,INC,Adal Singh Kansana,65455,BJP,Ajab Singh Kushwah,52142,13313,8.41
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,6,Morena,GEN,Morena,150037,INC,Raghuraj Singh Kansana,68965,BJP,Rustam Singh,48116,20849,13.9
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,7,Dimani,GEN,Morena,140658,INC,Girraj Dandotiya,69597,BJP,Shiv Mangal Singh Tomar,51120,18477,13.14
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,8,Ambah,GEN,Morena,123344,INC,Kamlesh Jatav,37343,IND,Neha Kinnar,29796,7547,6.12
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,9,Ater,GEN,Bhind,135121,BJP,Arvind Singh Bhadoria,58928,INC,Hemant Satyadev Katare,53950,4978,3.68
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,10,Bhind,GEN,Bhind,146980,BSP,Sanjeev Singh (Sanju),69107,BJP,Chaudhary Rakesh Singh Chaturvedi,33211,35896,24.42
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,11,Lahar,GEN,Bhind,154500,INC,Dr. Govind Singh,62113,BJP,Rasal Singh,53040,9073,5.87
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,12,Mehgaon,GEN,Bhind,162127,INC,O.P.S. Bhadoria,61560,BJP,Rakesh Shukla,35746,25814,15.92
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,13,Gohad,GEN,Bhind,128674,INC,Ranvir Jatav,62981,BJP,Lalsingh Arya,38992,23989,18.64
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,14,Gwalior Rural,GEN,Gwalior,154055,BJP,Bharat Singh Kushwah,51033,BSP,Sahab Singh Gurjar,49516,1517,0.98
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,15,Gwalior,GEN,Gwalior,174272,INC,Pradhuman Singh Tomar,92055,BJP,Jai Bhan Singh Pawaiya,71011,21044,12.08
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,16,Gwalior East,GEN,Gwalior,171735,INC,Munnalal Goyal (Munna Bhaiya),90133,BJP,Satish Singh Sikarwar,72314,17819,10.38
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,17,Gwalior South,GEN,Gwalior,150880,INC,Praveen Pathak,56369,BJP,Narayan Singh Kushwah,56248,121,0.08
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,18,Bhitarwar,GEN,Gwalior,154762,INC,Lakhan Singh Yadav,66439,BJP,Anoop Mishra,54309,12130,7.84
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,19,Dabara,GEN,Gwalior,147100,INC,Imarti Devi,90598,BJP,Kaptan Singh Sehsari,33152,57446,39.05
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,20,Sewda,GEN,Datia,120945,INC,Ghanshyam Singh,64810,BJP,Radhelal Baghel,31542,33268,27.51
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,21,Bhander,GEN,Datia,116323,INC,Raksha Santram Saroniya,73569,BJP,Rajni Prajapati,33673,39896,34.3
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,22,Datia,GEN,Datia,145285,BJP,Dr.Narottam Mishra,72209,INC,Bharti Rajendra,69553,2656,1.83
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,23,Karera,GEN,Shivpuri,171602,INC,Jasmant Jatave Chitree,64201,BJP,Rajkumar Omprakash Khatik,49377,14824,8.64
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,24,Pohari,GEN,Shivpuri,163238,INC,Suresh Dhakad [Rathkheda],60654,BSP,Kailash Kushwah,52736,7918,4.85
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,25,Shivpuri,GEN,Shivpuri,162183,BJP,Yashodhara Raje Scindia,84570,INC,Siddharth Ladha,55822,28748,17.73
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,26,Pichhore,GEN,Shivpuri,191894,INC,K. P. Singh,91463,BJP,Preetam Lodhi,88788,2675,1.39
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,27,Kolaras,GEN,Shivpuri,170371,BJP,Birendra Raghuvanshi,72450,INC,Mahendra Ramsingh Yadav,71730,720,0.42
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,28,Bamori,GEN,Guna,153666,INC,Mahendra Singh Sisodiya (Sanju Bhaiya),64598,BJP,"Brijmohan Singh ""Azad""",36678,27920,18.17
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,29,Guna,GEN,Guna,145741,BJP,Gopilal Jatav,84149,INC,Chandra Prakash Ahirwar (Banti),50482,33667,23.1
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,30,Chachoda,GEN,Guna,161933,INC,Lakshman Singh,81908,BJP,Mamta Meena,72111,9797,6.05
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,31,Raghogarh,GEN,Guna,156745,INC,Jaivardhan Singh,98268,BJP,Bhupendra Singh Raghuwanshi,51571,46697,29.79
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,32,Ashok Nagar,GEN,Ashok Nagar,136176,INC,"Jajpal Singh ""Jajji""",65750,BJP,Er. Ladduram Kori,56020,9730,7.15
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,33,Chanderi,GEN,Ashok Nagar,130495,INC,Gopal Singh Chauhan (Daggi Raja),45106,BJP,Bhupendra Dwivedi,40931,4175,3.2
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,34,Mungaoli,GEN,Ashok Nagar,137666,INC,Brajendra Singh Yadav,55346,BJP,Dr.Krishna Pal Singh (Dr.K.P.),53210,2136,1.55
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,35,Bina,GEN,Sagar,124829,BJP,Mahesh Rai,57828,INC,Shashi Kathoria,57196,632,0.51
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,36,Khurai,GEN,Sagar,153354,BJP,Bhupendra Bhaiya,78156,INC,Arunodaya Choubey (Annu Bhaiya),62861,15295,9.97
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,37,Surkhi,GEN,Sagar,143909,INC,Govind Singh Rajput,80806,BJP,Sudheer Yadav,59388,21418,14.88
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,38,Deori,GEN,Sagar,145383,INC,Harsh Yadav,70099,BJP,Teji Singh Rajpoot,65795,4304,2.96
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,39,Rehli,GEN,Sagar,166057,BJP,Gopal Bhargava,93690,INC,Kamlesh Sahu,66802,26888,16.19
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,40,Naryawali,GEN,Sagar,145576,BJP,Eng. Pradeep Lariya,74360,INC,Advocate Surendra Choudhary,65460,8900,6.11
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,41,Sagar,GEN,Sagar,131024,BJP,Shailendra Jain,67227,INC,Navy Jain,49861,17366,13.25
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,42,Banda,GEN,Sagar,160305,INC,Tarbar Singh (Bantu Bhaiya),84456,BJP,Harvansh Singh Rathore (Sukku Bhaiya),60292,24164,15.07
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,43,Tikamgarh,GEN,Tikamgarh,148669,BJP,Rakesh Giri,66958,INC,"Yadvendra Singh ""Jaggu Bhaiya""",62783,4175,2.81
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,44,Jatara,GEN,Tikamgarh,136599,BJP,Khatik Harishankar,63315,MD,R.R. Bansal,26600,36715,26.88
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,45,Prithvipur,GEN,Tikamgarh,147951,INC,Brajendra Singh Rathore,52436,SP,Dr. Shishupal Yadav,44816,7620,5.15
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,46,Niwari,GEN,Tikamgarh,135018,BJP,Anil Jain,49738,SP,Meera Deepak Yadav,40901,8837,6.55
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,47,Khargapur,GEN,Tikamgarh,158609,BJP,Rahul Singh Lodhi,63066,INC,Chanda-Surendra Singh Gour,51401,11665,7.35
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,48,Maharajpur,GEN,Chhatarpur,141983,INC,Neeraj Vinod Dixit,52461,BJP,Manavendra Singh,38456,14005,9.86
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,49,Chandla,GEN,Chhatarpur,129612,BJP,Rajesh Kumar Prajapati,41227,INC,Anuragi Harprasad (Gopi Master),40050,1177,0.91
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,50,Rajnagar,GEN,Chhatarpur,141377,INC,Vikram Singh (Nati Raja),40362,BJP,Arvind Pateriya,39630,732,0.52
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,51,Chhatarpur,GEN,Chhatarpur,145924,INC,Alok Chaturvedi (Pajjan Bhaiya),65774,BJP,Archna Guddu Singh,62279,3495,2.4
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,52,Bijawar,GEN,Chhatarpur,143353,SP,Rajesh Kumar (Bablu Bhaiya),67623,BJP,Guddan Bhaiya Pushpendra Nath Pathak,30909,36714,25.61
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,53,Malhara,GEN,Chhatarpur,147819,INC,Kunwar Pradyumna Singh Lodhi (Munna Bhaiya),67184,BJP,Lalita Yadav,51405,15779,10.67
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,54,Pathariya,GEN,Damoh,163585,BSP,Rambai Govind Singh,39267,BJP,Lakhan Patel,37062,2205,1.35
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,55,Damoh,GEN,Damoh,174073,INC,Rahul Singh,78997,BJP,Jayant Malaiya,78199,798,0.46
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,56,Jabera,GEN,Damoh,166074,BJP,Dharmendra Bhav Singh Lodhi,48901,INC,Pratap Singh,45416,3485,2.1
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,57,Hatta,GEN,Damoh,154932,BJP,Purusottam/Ramkali Tantuway Hatta,76607,INC,Harishankar Choudhri,56702,19905,12.85
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,58,Pawai,GEN,Panna,196167,BJP,Prahlad Lodhi,79647,INC,Pandit Mukesh Nayak,55967,23680,12.07
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,59,Gunnour,GEN,Panna,149825,INC,Shivdayal Bagri,57658,BJP,Rajesh Kumar Verma,55674,1984,1.32
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,60,Panna,GEN,Panna,169309,BJP,Brijendra Pratap Singh,68359,INC,"Shivjeet Singh ""Bhaiya Raja""",47651,20708,12.23
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,61,Chitrakoot,GEN,Satna,141534,INC,Neelanshu Chaturvedi,58465,BJP,Surendra Singh Gaharwar,48267,10198,7.21
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,62,Raigaon,GEN,Satna,144547,BJP,Jugul Kishor Bagri,65910,INC,Kalpana Verma,48489,17421,12.05
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,63,Satna,GEN,Satna,159064,INC,Dabbu Siddharth Sukhlal Kushwaha,60105,BJP,Shankarlal Tiwari,47547,12558,7.89
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,64,Nagod,GEN,Satna,165064,BJP,Nagendra Singh,54637,INC,Yadvendra Singh,53403,1234,0.75
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,65,Maihar,GEN,Satna,179752,BJP,Narayan Tripathi,54877,INC,Shrikant Chaturvedi,51893,2984,1.66
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,66,Amarpatan,GEN,Satna,164613,BJP,Ramkhelawan Patel,59836,INC,"Dr. Rajendra Kumar Singh ""Dada Bhai""",56089,3747,2.28
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,67,Rampur Baghelan,GEN,Satna,178058,BJP,Vikram Singh(Vikki),68816,BSP,Ramlakhan Singh Patel,53129,15687,8.81
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,68,Sirmour,GEN,Rewa,124908,BJP,Divyaraj Singh,49443,INC,Dr. Aruna Vivek Tiwari,36042,13401,10.73
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,69,Semariya,GEN,Rewa,134531,BJP,K.P. Tripathi,47889,INC,Triyugi Narayan Shukla (Bhagat),40113,7776,5.78
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,70,Teonthar,GEN,Rewa,128963,BJP,Shyam Lal Dwivedi,52729,INC,Ramashankar Singh,47386,5343,4.14
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,71,Mauganj,GEN,Rewa,134184,BJP,Pradeep Patel,47753,INC,"Sukhendra Singh ""Banna""",36661,11092,8.27
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,72,Deotalab,GEN,Rewa,133931,BJP,Girish Gautam,45043,BSP,Seema Jaiveer Singh Sengar,43963,1080,0.81
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,73,Mangawan,GEN,Rewa,129566,BJP,Panchu Lal Prajapati,64488,INC,Babita Saket,45958,18530,14.3
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,74,Rewa,GEN,Rewa,134795,BJP,Rajendra Shukla,69806,INC,Abhay Mishra,51717,18089,13.42
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,75,Gurh,GEN,Rewa,146197,BJP,Nagendra Singh,42569,SP,"Kapidhwaj Singh ""Bhaiya""",34741,7828,5.35
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,76,Churhat,GEN,Sidhi,155195,BJP,Sharadendu Tiwari,71909,INC,Ajay Arjun Singh,65507,6402,4.13
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,77,Sidhi,GEN,Sidhi,149407,BJP,Kedar Nath Shukl,69297,INC,Kamleshwar Prasad Dwivedi,49311,19986,13.38
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,78,Sihawal,GEN,Sidhi,146351,INC,Kamleshwar Indrajeet Kumare,63918,BJP,Shiva Bahadur Singh Chandel,32412,31506,21.53
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,79,Chitrangi,GEN,Sidhi,147550,BJP,Amar Singh,86585,INC,Saraswati Singh,27337,59248,40.15
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,80,Singarouli,GEN,Sidhi,146791,BJP,Ramlallu Vaishya,36706,INC,Renu Shah,32980,3726,2.54
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,81,Devsar,GEN,Sidhi,157275,BJP,Subhash Ram Charitra,63295,INC,Banshmani Prasad Verma,52617,10678,6.79
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,82,Dhouhani,GEN,Sidhi,157860,BJP,Kunwar Singh Tekam,57995,INC,Kamlesh Singh,54202,3793,2.4
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,83,Beohari,GEN,Shahdol,185234,BJP,Kol Sarad Juglal,78007,GGP,Tej Pratap Singh Uikey,45557,32450,17.52
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,84,Jaisinghnagar,GEN,Shahdol,177992,BJP,Jaisingh Maravi,84669,INC,Dhayan Singh Marco,67402,17267,9.7
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,85,Jaitpur,GEN,Shahdol,177463,BJP,Manisha Singh,74279,INC,Uma Dhurwey,70063,4216,2.38
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,86,Kotama,GEN,Anuppur,109484,INC,Suneel Saraf,48249,BJP,Dilip Kumar Jaiswal,36820,11429,10.44
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,87,Anuppur,GEN,Anuppur,123025,INC,Bisahulal Singh,62770,BJP,Ramlal Rautel,51209,11561,9.4
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,88,Pusprajgarh,GEN,Anuppur,141826,INC,Phundelal Singh Marko,62352,BJP,Narendra Singh Maravi,40951,21401,15.09
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,89,Bandhavgarh,GEN,Umaria *,156333,BJP,Shivnarayan Singh (Lallu Bhaiya),59158,INC,Dhyan Singh,55255,3903,2.5
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,90,Manpur,GEN,Umaria *,169519,BJP,Meena Singh,82287,INC,Gyanvati Singh,63632,18655,11.0
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,91,Badwara,GEN,Katni *,168194,INC,Vijayraghvendra Singh (Basant Singh),84236,BJP,Moti Kashyap,62876,21360,12.7
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,92,Vijayraghavgarh,GEN,Katni *,163156,BJP,Sanjay Satyendra Pathak,79939,INC,Padma Shukla,66201,13738,8.42
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,93,Mudwara,GEN,Katni *,160013,BJP,Sandip Shree Prasad Jaiswal,79553,INC,Mithlesh Jain Advocate,63473,16080,10.05
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,94,Bahoriband,GEN,Katni *,176150,BJP,Pranay Prabhat Pandey (Guddu Bhaiya),89041,INC,Kunwar Saurabh Singh,72606,16435,9.33
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,95,Patan,GEN,Jabalpur,182979,BJP,Ajay Vishnoi,100443,INC,Neelesh Awasthi,73731,26712,14.6
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,96,Bargi,GEN,Jabalpur,169877,INC,"Sanjay Yadav ""Seoni Tola""",86901,BJP,Pratibha Singh,69338,17563,10.34
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,97,Jabalpur East,GEN,Jabalpur,154229,INC,Lakhan Ghanghoriya,90206,BJP,Anchal Sonker,55070,35136,22.78
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,98,Jabalpur North,GEN,Jabalpur,140333,INC,Vinay Saxena,50045,BJP,Sharad Jain,49467,578,0.41
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,99,Jabalpur Cantt,GEN,Jabalpur,123999,BJP,Ashok Ishwardas Rohani,71898,INC,Pt. Alok Mishra,45313,26585,21.44
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,100,Jabalpur West,GEN,Jabalpur,151941,INC,Tarun Bhanot,82359,BJP,"Harendrajeet Singh ""Babbu""",63676,18683,12.3
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,101,Panagar,GEN,Jabalpur,180921,BJP,Sushil Kumar Tiwari (Indu Bhaiya),84302,IND,Bharat Singh Yadav,42569,41733,23.07
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,102,Sihora,GEN,Jabalpur,156862,BJP,Smt. Nandni Maravi,73312,INC,Khiladi Singh Aarmo,66489,6823,4.35
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,103,Shahpura,GEN,Dindori *,188004,INC,Bhoopendra Maravi (Bablu),88687,BJP,Omprakash Dhurwey,54727,33960,18.06
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,104,Dindori,GEN,Dindori *,180726,INC,Omkar Singh Markam,85039,BJP,Jay Singh Maravi,52989,32050,17.73
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,105,Bichhiya,GEN,Mandla,181167,INC,Narayan Singh Patta,76544,BJP,"Dr. Shivraj Shah ""Shiva Bhaiya""",55156,21388,11.81
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,106,Niwas,GEN,Mandla,184512,INC,Dr Ashok Marskole,91007,BJP,Rampyare Kulaste,62692,28315,15.35
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,107,Mandla,GEN,Mandla,189549,BJP,Deosingh Saiyam,88873,INC,Prof. Sanjeev Chhotelal Uikey,76668,12205,6.44
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,108,Baihar,GEN,Balaghat,168420,INC,Sanjay Uikey,79399,BJP,Anupama Netam,62919,16480,9.79
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,109,Lanji,GEN,Balaghat,185917,INC,Hina Likhiram Kawre,90382,BJP,Ramesh Deelip Bhatere,71686,18696,10.06
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,110,Paraswada,GEN,Balaghat,166922,BJP,Ram Kishor (Nano) Kawre,57395,SP,Kankar Munjare,47787,9608,5.76
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,111,Balaghat,GEN,Balaghat,174320,BJP,Gaurishanker Chaturbhuj Bisen,73476,SP,Anubha Munjare,45822,27654,15.86
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,112,Waraseoni,GEN,Balaghat,153644,IND,Pradeep Amratlal Jaiswal (Gudda),57783,BJP,Dr Yogendra Nirmal,53921,3862,2.51
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,113,Katangi,GEN,Balaghat,152044,INC,Tamlal Raghuji Sahare,69967,BJP,K.D. Deshmukh,58217,11750,7.73
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,114,Barghat,GEN,Seoni,185681,INC,"""Arjun Singh""",90053,BJP,Naresh Warkade,82526,7527,4.05
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,115,Seoni,GEN,Seoni,199998,BJP,Dinesh Rai Munmun,99576,INC,Mohan Singh Chandel,77568,22008,11.0
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,116,Keolari,GEN,Seoni,196971,BJP,Rakesh Pal Singh,85839,INC,Rajneesh Harvansh Singh,79160,6679,3.39
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,117,Lakhanadon,GEN,Seoni,206298,INC,"Yogendra Singh ""Baba""",82951,BJP,Vijay Kumar Uikey,70675,12276,5.95
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,118,Gotegaon,GEN,Narsimhapur,156272,INC,Narmada Prasad Prajapati (N.P.),79289,BJP,Dr. Kailash Jatav,66706,12583,8.05
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,119,Narsingpur,GEN,Narsimhapur,169184,BJP,"Jalam Singh Patel ""Munna Bhaiya""",87837,INC,Lakhan Singh Patel,72934,14903,8.81
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,120,Tendukheda,GEN,Narsimhapur,139443,INC,"Sanjay Sharma ""Sanju Bhaiya""",70127,BJP,"Vishwanath Singh ""Mulam Bhaiya""",61484,8643,6.2
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,121,Gadarwara,GEN,Narsimhapur,152573,INC,Suneeta Patel,79342,BJP,Gautam Singh Patel,63979,15363,10.07
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,122,Junnardeo,GEN,Chhindwara,165688,INC,Sunil Uikey,78573,BJP,Ashish Jhanak Lal Thakur,55885,22688,13.69
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,123,Amarwara,GEN,Chhindwara,195760,INC,Kamlesh Pratap Shah,71662,GGP,Manmohan Shah Batti,61269,10393,5.31
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,124,Chourai,GEN,Chhindwara,168301,INC,Choudhary Sujeet Mer Singh,78415,BJP,Pt. Ramesh Dubey,65411,13004,7.73
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,125,Sausar,GEN,Chhindwara,168872,INC,Vijay Revnath Chore,86700,BJP,Nanabhau Mohod,66228,20472,12.12
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,126,Chhindwara,GEN,Chhindwara,203165,INC,Deepak Saxena,104034,BJP,Choudhary Chandrabhan Singh Kuber Singh,89487,14547,7.16
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,127,Parasiya,GEN,Chhindwara,160910,INC,Sohanlal Balmik,79553,BJP,Tarachand Bawaria,66819,12734,7.91
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,128,Pandhurna,GEN,Chhindwara,162115,INC,Nilesh Pusaram Uikey,80125,BJP,Tikaram Korachi,58776,21349,13.17
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,129,Multai,GEN,Betul,170002,INC,Sukhdev Panse,88219,BJP,Raja Pawar,70969,17250,10.15
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,130,Amla,GEN,Betul,155904,BJP,Dr. Yogesh Pandagre,73481,INC,Manoj Malve,54284,19197,12.31
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,131,Betul,GEN,Betul,183370,INC,Nilay Vinod Daga,96717,BJP,Hemant Vijay Khandelwal,75072,21645,11.8
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,132,Ghodadongri,GEN,Betul,190747,INC,Bramha Bhalavi,92106,BJP,Geeta Ramjilal Uikey,74179,17927,9.4
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,133,Bhainsdehi,GEN,Betul,192801,INC,Dharmu Singh Sirsam,104592,BJP,Mahendra Singh Chouhan,73712,30880,16.02
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,134,Timarni,GEN,Harda *,137732,BJP,"Sanjay Shah ""Makrai""",64033,INC,Abhijeet Shah (Makdai),61820,2213,1.61
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,135,Harda,GEN,Harda *,171672,BJP,Kamal Patel,85651,INC,Dr. Ramkishore Dogne,78984,6667,3.88
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,136,Seoni Malwa,GEN,Hoshangabad,185078,BJP,Premshanker Kunjilal Verma (Baghwada),88022,INC,Omprakash Hazarilal Raghuwanshi,76418,11604,6.27
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,137,Hoshangabad,GEN,Hoshangabad,155591,BJP,Dr.Sitasaran Sharma,82216,INC,Sartaj Singh,66999,15217,9.78
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,138,Sohagpur,GEN,Hoshangabad,179321,BJP,Vijaypal Singh,87488,INC,Satpal Paliya,76071,11417,6.37
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,139,Pipariya,GEN,Hoshangabad,165311,BJP,Thakurdas Nagwanshi,84521,INC,Harish Tularam Beman (Mehra),66391,18130,10.97
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,140,Udaipura,GEN,Raisen,173639,INC,Devendra Singh Patel,86441,BJP,Ramkishan Patel,78440,8001,4.61
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,141,Bhojpur,GEN,Raisen,173242,BJP,Surendra Patwa,92458,INC,Suresh Pachouri,62972,29486,17.02
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,142,Sanchi,SC,Raisen,174135,INC,Dr. Prabhuram Choudhary,89567,BJP,Mudit Shejwar,78754,10813,6.21
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,143,Silwani,GEN,Raisen,154393,BJP,Rampal Singh,64222,INC,Devendra Patel,57150,7072,4.58
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,144,Vidisha,GEN,Vidisha,151502,INC,Shashank Shrikrishan Bhargava,80332,BJP,Mukesh Tandon,64878,15454,10.2
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,145,Basoda,GEN,Vidisha,145011,BJP,"Leena Sanjay Jain ""Tappu""",73520,INC,Nishank Kumar Jain,63294,10226,7.05
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,146,Kurwai,SC,Vidisha,152854,BJP,Hari Singh Sapre,80264,INC,Subhash Bohat Advocate,63569,16695,10.92
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,147,Sironj,GEN,Vidisha,150603,BJP,Umakant Sharma,83617,INC,Masarrat Shahid,48883,34734,23.06
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,148,Shamshabad,GEN,Vidisha,130388,BJP,Rajshri - Rudra Pratap Singh,62607,INC,Jyotsna Yadav,55267,7340,5.63
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,149,Berasia,GEN,Bhopal,161070,BJP,Vishnu Khatri,77814,INC,Jayshree Harikaran,64035,13779,8.55
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,150,Bhopal Uttar,GEN,Bhopal,152452,INC,Arif Aqueel,90403,BJP,Fatima Rasool Siddiqui (Gudiya),55546,34857,22.86
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,151,Narela,GEN,Bhopal,202868,BJP,Vishvas Sarang,108654,INC,Dr. Mahendra Singh Chouhan,85503,23151,11.41
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,152,Bhopal Dakshina-Pashchim,GEN,Bhopal,136096,INC,P.C.Sharma,67323,BJP,Umashankar Gupta,60736,6587,4.84
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,153,Bhopal Madhya,GEN,Bhopal,142470,INC,Arif Masood,76647,BJP,Surendra Nath Singh (Mamma),61890,14757,10.36
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,154,Govindpura,GEN,Bhopal,214302,BJP,Krishna Gaur,125487,INC,Girish Sharma,79128,46359,21.63
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,155,Huzur,GEN,Bhopal,206339,BJP,Rameshwar Sharma,107288,INC,Naresh Gyanchandani,91563,15725,7.62
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,156,Budhni,GEN,Sehore,202926,BJP,Shivraj Singh Chouhan,123492,INC,Arun Subhashchandra,64493,58999,29.07
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,157,Ashta,GEN,Sehore,204178,BJP,Raghunath Singh Malviya,92292,INC,Gopal Singh Engineer,86248,6044,2.96
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,158,Ichhawar,GEN,Sehore,170838,BJP,Karan Singh Verma,86958,INC,Shailendra Patel,71089,15869,9.29
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,159,Sehore,GEN,Sehore,157047,BJP,Sudesh Rai,60117,INC,Surendra Singh Thakur,39473,20644,13.15
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,160,Narsinghgarh,GEN,Rajgarh,170316,BJP,Rajyavardhan Singh,85335,INC,Girish Bhandari,75801,9534,5.6
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,161,Biaora,GEN,Rajgarh,174833,INC,Govardhan Dangi,75569,BJP,Narayan Singh Panwar,74743,826,0.47
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,162,Rajgarh,GEN,Rajgarh,172623,INC,Bapusingh Tanwar,81921,BJP,Amar Singh Yadav,50738,31183,18.06
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,163,Khilchipur,GEN,Rajgarh,179235,INC,Priyavrat Singh,101854,BJP,Hajarilal Dangi,72098,29756,16.6
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,164,Sarangpur,GEN,Rajgarh,149658,BJP,Kunwarji Kothar,75005,INC,Kala Mahesh Malviya,70624,4381,2.93
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,165,Susner,GEN,Shajapur,177226,IND,Vikaram Singh Rana Guddu Bhai,75804,INC,Mahendra Bhairu Singh Bapu,48742,27062,15.27
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,166,Agar,GEN,Shajapur,170095,BJP,Manohar Untwal,82146,INC,Vipin Wankhede,79656,2490,1.46
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,167,Shajapur,GEN,Shajapur,182053,INC,Karada Hukumsingh,89940,BJP,Arun Bhimawad,44961,44979,24.71
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,168,Shujalpur,GEN,Shajapur,158882,BJP,Inder Singh Parmar,78952,INC,Ramveer Singh Sikarwar,73329,5623,3.54
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,169,Kalapipal,GEN,Shajapur,163722,INC,Kunal Choudhary,86249,BJP,Babulal Verma,72550,13699,8.37
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,170,Sonkatch,GEN,Dewas,174619,INC,Sajjan Singh Verma,86396,BJP,Rajendra Phulchand Verma,76578,9818,5.62
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,171,Dewas,GEN,Dewas,186003,BJP,Gayatri Raje Puar,103456,INC,Thakur Jaysingh,75469,27987,15.05
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,172,Hatpipliya,GEN,Dewas,157962,INC,Manoj Narayan Singh Choudhary,83337,BJP,Deepak Kailash Joshi,69818,13519,8.56
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,173,Khategaon,GEN,Dewas,170292,BJP,Aashish Govind Sharma,71984,INC,Om Patel,64212,7772,4.56
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,174,Bagli,GEN,Dewas,181924,BJP,Kannoje Pahadsingh,89417,INC,Kamal Waskale,77574,11843,6.51
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,175,Mandhata,GEN,East Nimar,149256,INC,Narayan Patel,71228,BJP,Ku.Narendra Singh Tomar,69992,1236,0.83
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,176,Harsud,GEN,East Nimar,150534,BJP,Kunwar Vijay Shah,80556,INC,Sukhram Salve,61607,18949,12.59
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,177,Khandwa,GEN,East Nimar,166977,BJP,Devendra Verma,77123,INC,Kundan Malviya,57986,19137,11.46
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,178,Pandhana,GEN,East Nimar,193462,BJP,Ram Dangore,91844,INC,Chhaya More,68094,23750,12.28
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,179,Nepanagar,GEN,Burhanpur,180200,INC,Sumitra Devi Kasdekar,85320,BJP,Manju Rajendra Dadu,84056,1264,0.7
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,180,Burhanpur,GEN,Burhanpur,213949,IND,"Thakur Surendra Singh Naval Singh ""Shera Bhaiya""",98561,BJP,Archana Didi,93441,5120,2.39
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,181,Bhikangaon,GEN,West Nimar,161544,INC,Jhuma Dr. Dhyansingh Solanki,91635,BJP,Dhool Singh Dawar,64378,27257,16.87
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,182,Badwaha,GEN,West Nimar,168686,INC,Sachin Birla,96230,BJP,Hitendrasingh Solanki,65722,30508,18.09
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,183,Maheshwar,GEN,West Nimar,167706,INC,Dr. Vijaylaxmi Sadho,83087,IND,Mev Rajkumar,47251,35836,21.37
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,184,Kasrawad,GEN,West Nimar,172610,INC,Sachin Subhashchandra Yadav,86070,BJP,Atmaram - Patel,80531,5539,3.21
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,185,Khargone,GEN,West Nimar,174231,INC,Ravi Rameshchandra Joshi,88208,BJP,Balkrishan Patidar,78696,9512,5.46
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,186,Bhagwanpura,GEN,West Nimar,165733,IND,Kedar Chidabhai Dawar,73758,BJP,Jamnasingh Solanki,64042,9716,5.86
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,187,Sendhwa (S.T.),GEN,Barwani *,181686,INC,Gyarsilal Rawat,94722,BJP,Antarsingh Arya,78844,15878,8.74
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,188,Rajpur (S.T.),GEN,Barwani *,174818,INC,Bala Bachchan,85513,BJP,Antersingh Devisingh Patel,84581,932,0.53
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,189,Pansemal (S.T.),GEN,Barwani *,169324,INC,Sushri Chandrabhaga Kirade,94634,BJP,Diwansingh S/O Viththal Patel,69412,25222,14.9
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,190,Barwani (S.T.),GEN,Barwani *,178493,BJP,Premsingh Patel,88151,IND,Rajan Mandloi,49364,38787,21.73
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,191,Alirajpur,GEN,Jhabua,151093,INC,Mukesh Rawat (Patel),82017,BJP,Chouhan Nagar Singh,60055,21962,14.54
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,192,Jobat,GEN,Jhabua,132234,INC,Kalawati Bhuriya,46067,BJP,Madhosingh Dawar,44011,2056,1.55
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,193,Jhabua,GEN,Jhabua,169963,BJP,Gumansingh Damor,66598,INC,Dr. Vikrant Bhuriya,56161,10437,6.14
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,194,Thandla,GEN,Jhabua,196484,INC,Bhuriya Veersingh,95720,BJP,Kalsingh Bhabar,64569,31151,15.85
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,195,Petlawad,GEN,Jhabua,194056,INC,Maida Valsingh,93425,BJP,Nirmala Dilipsingh Bhuriya,88425,5000,2.58
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,196,Sardarpur,GEN,Dhar,161203,INC,Pratap Grewal,96419,BJP,Sanjay Singh Baghel,60214,36205,22.46
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,197,Gandhwani,GEN,Dhar,163305,INC,Umang Singhar,96899,BJP,Sardarsingh Mehda,58068,38831,23.78
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,198,Kukshi,GEN,Dhar,162143,INC,Surendra Singh Honey Baghel,108391,BJP,Virendra Singh Baghel,45461,62930,38.81
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,199,Manawar,GEN,Dhar,171428,INC,Dr. Hiralal Alawa,101500,BJP,Ranjna Baghel,61999,39501,23.04
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,200,Dharampuri,GEN,Dhar,151153,INC,Panchilal Meda,78504,BJP,Gopal Kannoj,64532,13972,9.24
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,201,Dhar,GEN,Dhar,186742,BJP,Neena Vikram Verma,93180,INC,Prabha Balmukundsingh Goutam,87462,5718,3.06
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,202,Badnawar,GEN,Dhar,164989,INC,Rajvardhan Singh - Premsingh Dattigaw,84499,BJP,Bhanwarsingh Shekhawat,42993,41506,25.16
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,203,Depalpur,GEN,Indore,186262,INC,Vishal Jagdish Patel,94981,BJP,Manoj Nirbhaysingh Patel,85937,9044,4.86
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,204,Indore-1,GEN,Indore,225256,INC,Sanjay Shukla,114555,BJP,Sudarshan Gupta,106392,8163,3.62
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,205,Indore-2,GEN,,214117,BJP,Ramesh Mendola,138794,INC,Advocate Mohan Singh Sengar,67783,71011,33.16
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,206,Indore-3,GEN,,130178,BJP,Akash Kailash Vijayvargiya,67075,INC,Ashwin Joshi,61324,5751,4.42
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,207,Indore-4,GEN,,165895,BJP,Malini Lakshman Singh Gaur,102673,INC,Surjeet Singh Ujagar Singh Chadda,59583,43090,25.97
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,208,Indore-5,GEN,,241162,BJP,Mahendra Hardia,117836,INC,Satyanarayan Patel,116703,1133,0.47
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,209,Dr.Ambedkar Nagar -Mhow,GEN,Indore,192494,BJP,Usha Thakur,97009,INC,Antar Singh Darbar,89852,7157,3.72
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,210,Rau,GEN,Indore,213212,INC,Jitu Patwari,107740,BJP,Madhu Verma,102037,5703,2.67
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,211,Sanwer,GEN,Indore,196955,INC,Tulsiram Silawat,96535,BJP,Dr.Rajesh Sonkar,93590,2945,1.5
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,212,Khacharod,GEN,Ujjain,166692,INC,Dilip Gurjar,83823,BJP,Dilipsingh Shekhawat,78706,5117,3.07
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,213,Mahidpur,GEN,Ujjain,155548,BJP,Bahadursingh Chouhan,70499,IND,Dinesh Jain Boss,55279,15220,9.78
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,214,Tarana,GEN,Ujjain,138141,INC,Mahesh Parmar,67778,BJP,Anil Firojiya,65569,2209,1.6
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,215,Ghatiya,GEN,Ujjain,162040,INC,Ramlal Malviya,79639,BJP,Ajit Premchand Guddu,75011,4628,2.86
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,216,Ujjain North,GEN,Ujjain,145761,BJP,Paras Jain,77271,INC,Mhanat Rajendra Bharti,51547,25724,17.65
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,217,Ujjain South,GEN,Ujjain,165339,BJP,Dr. Mohan Yadav,78178,INC,Rajendra Vashishtha (Raju Bhaiya),59218,18960,11.47
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,218,Badnagar,GEN,Ujjain,154047,INC,Murli Morwal,76802,BJP,Sanjay Sharma,71421,5381,3.49
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,219,Ratlam Rural,GEN,Ratlam,159573,BJP,Dilip Kumar Makwana,79806,INC,Thawarlal Bhuriya,74201,5605,3.51
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,220,Ratlam City,GEN,Ratlam,142801,BJP,Chetanya Kasyap,91986,INC,Premlata Dave,48551,43435,30.42
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,221,Sailana,GEN,Ratlam,160044,INC,"Harsh Vijay Gehlot ""Guddu""",73597,BJP,Narayan Maida,45099,28498,17.81
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,222,Jaora,GEN,Ratlam,175268,BJP,"Rajendra Pandey ""Raju Bhaiya""",64503,INC,K.K. Sing Kalukheda,63992,511,0.29
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,223,Alote,GEN,Ratlam,161105,INC,Manoj Chawla,80821,BJP,Jitendra Thawarchand Gehlot,75373,5448,3.38
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,224,Mandsour,GEN,Mandsaur,193600,BJP,Yashpal Singh Sisodiya,102626,INC,Narendra Nahata,84256,18370,9.49
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,225,Malhargarh,GEN,Mandsaur,193804,BJP,Jagdish Dewda,99839,INC,Parshuram Sisodiya,87967,11872,6.13
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,226,Suwasra,GEN,Mandsaur,203919,INC,Dang Hardeepsingh,93169,BJP,Radheshyam Nanalal Patidar,92819,350,0.17
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,227,Garoth,GEN,Mandsaur,178673,BJP,Devilal Dhakad (Advocate),75946,INC,Subhash Kumar Sojatia,73838,2108,1.18
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,228,Manasa,GEN,Neemuch *,151500,BJP,Anirudha (Madhav) Maroo,87004,INC,Umrao Singh Shivlal,61050,25954,17.13
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,229,Neemuch,GEN,Neemuch *,165755,BJP,Dilip Singh Parihar,87197,INC,Satya Narayan,72340,14857,8.96
+ae-madhya-pradesh-2018,AE,Madhya Pradesh,2018,2018,official,230,Jawad,GEN,Neemuch *,137948,BJP,Om Prakash Sakhlecha,52316,INC,Rajkumar Rameshchandra Ahir,48045,4271,3.1

@@ -1,0 +1,82 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-haryana-1972,AE,Haryana,1972,1972,official,1,Kalka,GEN,,44392,INC,Kishori Lal,22173,IND,Lachman Singh,20565,1608,3.62
+ae-haryana-1972,AE,Haryana,1972,1972,official,2,Naraingarh,GEN,,42589,INC,Jagjit Singh,21818,IND,Sadh Ram,14556,7262,17.05
+ae-haryana-1972,AE,Haryana,1972,1972,official,3,Chhachhrauli,SC,,39232,INC,Parbhu Ram,19793,CPI,Des Raj,16313,3480,8.87
+ae-haryana-1972,AE,Haryana,1972,1972,official,4,Jagadhri,GEN,,40777,IND,Om Prakash,16618,INC,Sadhu Ram,12439,4179,10.25
+ae-haryana-1972,AE,Haryana,1972,1972,official,5,Yamuna Nagar,GEN,,46790,INC,Garish Chander,18565,BJS,Malik Chand Ghambir,16147,2418,5.17
+ae-haryana-1972,AE,Haryana,1972,1972,official,6,Mullana,SC,,37181,INC,Phool Chand,24140,BJS,Suraj Bhan,13041,11099,29.85
+ae-haryana-1972,AE,Haryana,1972,1972,official,7,Naggal,GEN,,38574,INC,Harmohinder Singh Chatha,23125,IND,Mohinder Singh,13015,10110,26.21
+ae-haryana-1972,AE,Haryana,1972,1972,official,8,Ambala Cantonment,GEN,,27728,INC,Hans Raj Suri,15687,BJS,Bhagwan Dass,11175,4512,16.27
+ae-haryana-1972,AE,Haryana,1972,1972,official,9,Ambala,GEN,,33418,INC,Lakhwati Jain,16932,BJS,Laxmi Narain,16170,762,2.28
+ae-haryana-1972,AE,Haryana,1972,1972,official,10,Shahabad,GEN,,38351,INC,Amir Chand,14735,CPI,Harnam Singh,14224,511,1.33
+ae-haryana-1972,AE,Haryana,1972,1972,official,11,Thanesar,GEN,,43067,INC,Om Parkash,20657,BJS,Ram Saran Das,18454,2203,5.12
+ae-haryana-1972,AE,Haryana,1972,1972,official,12,Babain,SC,,36966,IND,Chand Ram,15728,INC,Ulsi Ram,15584,144,0.39
+ae-haryana-1972,AE,Haryana,1972,1972,official,13,Nilokheri,GEN,,38488,BJS,Shib Ram,10764,INC,Chanda Singh,10428,336,0.87
+ae-haryana-1972,AE,Haryana,1972,1972,official,14,Indri,GEN,,46813,INC,Parsani Devi,22174,NCO,Des Raj,20982,1192,2.55
+ae-haryana-1972,AE,Haryana,1972,1972,official,15,Karnal,GEN,,39962,BJS,Ram Lal,17719,INC,Shanti Devi,16857,862,2.16
+ae-haryana-1972,AE,Haryana,1972,1972,official,16,Jundla,SC,,33816,INC,Ram Kishan,14665,IND,Balwari Ram,13927,738,2.18
+ae-haryana-1972,AE,Haryana,1972,1972,official,17,Gharaunda,GEN,,45424,NCO,Rulya Ram,16746,INC,Zila Singh,13537,3209,7.06
+ae-haryana-1972,AE,Haryana,1972,1972,official,18,Sambhalka,GEN,,43473,INC,Hari Singh,20346,NCO,Jai Singh,14151,6195,14.25
+ae-haryana-1972,AE,Haryana,1972,1972,official,19,Panipat,GEN,,47124,INC,Hakumat Rai,27513,BJS,Fateh Chand,17523,9990,21.2
+ae-haryana-1972,AE,Haryana,1972,1972,official,20,Naultha,GEN,,39763,INC,Mansa Ram,20760,IND,Amar Singh,17042,3718,9.35
+ae-haryana-1972,AE,Haryana,1972,1972,official,21,Rajaund,SC,,43519,NCO,Jogi Ram,23185,INC,Ran Singh,12080,11105,25.52
+ae-haryana-1972,AE,Haryana,1972,1972,official,22,Pundri,GEN,,44138,INC,Ishwar Singh,24074,NCO,Marcharan Singh,16158,7916,17.93
+ae-haryana-1972,AE,Haryana,1972,1972,official,23,Sherhada,GEN,,45805,INC,Surji Singh,18169,IND,Jagjit Singh Pohlu,16293,1876,4.1
+ae-haryana-1972,AE,Haryana,1972,1972,official,24,Kaithal,GEN,,53396,IND,Charan Dass,26095,INC,Om Parbha,22673,3422,6.41
+ae-haryana-1972,AE,Haryana,1972,1972,official,25,Pehowa,GEN,,48931,INC,Piara Singh,21224,IND,Khushvant Singh,15391,5833,11.92
+ae-haryana-1972,AE,Haryana,1972,1972,official,26,Kalayat,SC,,38513,NCO,Bhagat Ram S/O Hansa,17032,INC,Bhagat Ram S/O Jamni,15812,1220,3.17
+ae-haryana-1972,AE,Haryana,1972,1972,official,27,Narwana,GEN,,48343,NCO,Gauri Shankar,17482,BAS,Tek Chand,15733,1749,3.62
+ae-haryana-1972,AE,Haryana,1972,1972,official,28,Jind,GEN,,52096,NCO,Dal Singh,28281,INC,Daya Krishan,21999,6282,12.06
+ae-haryana-1972,AE,Haryana,1972,1972,official,29,Julana,GEN,,45821,INC,Fateh Singh,30033,NCO,Ram Singh,15788,14245,31.09
+ae-haryana-1972,AE,Haryana,1972,1972,official,30,Safidon,GEN,,42677,INC,Dhaja Ram,19570,VHP,Sat Narain,19462,108,0.25
+ae-haryana-1972,AE,Haryana,1972,1972,official,31,Meham,GEN,,43735,IND,Umed,19654,INC,Raj Singh,19042,612,1.4
+ae-haryana-1972,AE,Haryana,1972,1972,official,32,Baroda,SC,,41773,INC,Shyam Chand,24081,NCO,Ram Dhari,15123,8958,21.44
+ae-haryana-1972,AE,Haryana,1972,1972,official,33,Gohana,GEN,,44395,INC,Ram Dhari Gaur,18206,IND,Har Kishan,13505,4701,10.59
+ae-haryana-1972,AE,Haryana,1972,1972,official,34,Kailana,GEN,,44716,IND,Partap Singh,22353,INC,Rajinder Singh,21283,1070,2.39
+ae-haryana-1972,AE,Haryana,1972,1972,official,35,Sonepat,GEN,,44386,INC,Chiaranji Lal,25183,BJS,Vas Dev,17063,8120,18.29
+ae-haryana-1972,AE,Haryana,1972,1972,official,36,Rai,GEN,,41501,NCO,Rizaq Ram,19631,INC,Jaswant Singh,18702,929,2.24
+ae-haryana-1972,AE,Haryana,1972,1972,official,37,Rohat,SC,,34924,NCO,Phul Chand,12249,IND,Kanwar Singh,11726,523,1.5
+ae-haryana-1972,AE,Haryana,1972,1972,official,38,Hassangarh,GEN,,36827,INC,Maru Singh,12185,IND,Raghbir Singh,10069,2116,5.75
+ae-haryana-1972,AE,Haryana,1972,1972,official,39,Kiloi,GEN,,43178,NCO,Shreyo Nath,23474,INC,Partap Singh,19704,3770,8.73
+ae-haryana-1972,AE,Haryana,1972,1972,official,40,Rohtak,GEN,,47062,INC,Kishan Dass,24879,BJS,Mangal Sein,21057,3822,8.12
+ae-haryana-1972,AE,Haryana,1972,1972,official,41,Kalanaur,GEN,,36005,INC,Satram Dass,16546,BJS,Nasib Singh,15531,1015,2.82
+ae-haryana-1972,AE,Haryana,1972,1972,official,42,Beri,GEN,,41270,IND,Partap Singh Daulata,20782,INC,Nawa Singh,17112,3670,8.89
+ae-haryana-1972,AE,Haryana,1972,1972,official,43,Salhawas,SC,,44886,INC,Phul Singh,22455,VHP,Shakuntla Devi,16889,5566,12.4
+ae-haryana-1972,AE,Haryana,1972,1972,official,44,Jhajjar,GEN,,47855,NCO,Manphul Singh,24060,INC,Sure Der Singh,23795,265,0.55
+ae-haryana-1972,AE,Haryana,1972,1972,official,45,Bahadurgarh,GEN,,49235,NCO,Hardwari Lal,23495,INC,Mehar Singh,23100,395,0.8
+ae-haryana-1972,AE,Haryana,1972,1972,official,46,Faridabad,GEN,,57492,IND,Kanwalnain Gulati,26498,INC,Kamadev Kapil,19895,6603,11.49
+ae-haryana-1972,AE,Haryana,1972,1972,official,47,Ballabgarh,GEN,,52746,INC,Sharua Rani,25391,IND,Raji Der Singh,24208,1183,2.24
+ae-haryana-1972,AE,Haryana,1972,1972,official,48,Palwal,GEN,,48708,BAS,Sham Lal,24253,INC,Kalyan Singh,19919,4334,8.9
+ae-haryana-1972,AE,Haryana,1972,1972,official,49,Hasanpur,SC,,35899,INC,Bihari Lal,16716,BAS,Gaya Lal,14039,2677,7.46
+ae-haryana-1972,AE,Haryana,1972,1972,official,50,Ferozepur Jhirka,GEN,,40842,IND,Abul Razak,14489,INC,Din Mohhamad,10631,3858,9.45
+ae-haryana-1972,AE,Haryana,1972,1972,official,51,Nuh,GEN,,46953,IND,Rahim Khan,23536,INC,Khur Hed Ahmed,21697,1839,3.92
+ae-haryana-1972,AE,Haryana,1972,1972,official,52,Hathin,GEN,,43392,IND,Ramji Lal,17173,INC,Hem Raj,12697,4476,10.32
+ae-haryana-1972,AE,Haryana,1972,1972,official,53,Sohna,GEN,,48687,INC,Kanhaya Lal,27162,VHP,Pratap Singh Thakran,19386,7776,15.97
+ae-haryana-1972,AE,Haryana,1972,1972,official,54,Gurgaon,GEN,,44373,INC,Mahabir Singh,23507,BJS,Ram Chander Gulati,17873,5634,12.7
+ae-haryana-1972,AE,Haryana,1972,1972,official,55,Pataudi,GEN,,52362,INC,Sisram,29273,VHP,Ramjiwan Singh,20313,8960,17.11
+ae-haryana-1972,AE,Haryana,1972,1972,official,56,Rewari,GEN,,37975,INC,Abhai Singh,17389,VHP,Shoe Raj Singh,16696,693,1.82
+ae-haryana-1972,AE,Haryana,1972,1972,official,57,Bawal,SC,,38986,INC,Ram Prashan,23259,VHP,Kanhiya Lal,15727,7532,19.32
+ae-haryana-1972,AE,Haryana,1972,1972,official,58,Jatusana,GEN,,45528,INC,Maha Singh,25028,VHP,Sumitra Devi,19847,5181,11.38
+ae-haryana-1972,AE,Haryana,1972,1972,official,59,Ateli,GEN,,40372,VHP,Banshi Singh,17214,INC,Nari Der Singh,12578,4636,11.48
+ae-haryana-1972,AE,Haryana,1972,1972,official,60,Narnaul,GEN,,38581,INC,Ramsaranchand Mital,21455,VHP,Manoher Lal,17126,4329,11.22
+ae-haryana-1972,AE,Haryana,1972,1972,official,61,Mahendragarh,GEN,,42819,INC,Nehal Singh,27622,VHP,Hari Singh,14440,13182,30.79
+ae-haryana-1972,AE,Haryana,1972,1972,official,62,Kanina,GEN,,37395,VHP,Dalip Singh,20261,INC,Onkar Singh,17134,3127,8.36
+ae-haryana-1972,AE,Haryana,1972,1972,official,63,Badhra,GEN,,45470,INC,Lajja Rani,21591,NCO,Attar Singh,15313,6278,13.81
+ae-haryana-1972,AE,Haryana,1972,1972,official,64,Dadri,SC,,37262,NCO,Ganpat Rai,17922,INC,Harnam Singh,15303,2619,7.03
+ae-haryana-1972,AE,Haryana,1972,1972,official,65,Loharu,GEN,,41020,INC,Chandra Wati,20565,IND,Hiranand,13213,7352,17.92
+ae-haryana-1972,AE,Haryana,1972,1972,official,66,Tosham,GEN,,43462,INC,Bansi Lal,30934,IND,Devi Lal,10440,20494,47.15
+ae-haryana-1972,AE,Haryana,1972,1972,official,67,Bhiwani,GEN,,43718,INC,Banarsi Dass,16144,IND,Sagar Ram,13650,2494,5.7
+ae-haryana-1972,AE,Haryana,1972,1972,official,68,Mundhal Khurd,GEN,,41577,INC,Swaroop Singh,14610,VHP,Jaswant Singh,12172,2438,5.86
+ae-haryana-1972,AE,Haryana,1972,1972,official,69,Narnaund,GEN,,42775,INC,Joginder Singh,20484,BAS,Verendar Singh,17543,2941,6.88
+ae-haryana-1972,AE,Haryana,1972,1972,official,70,Hansi,GEN,,40364,IND,Ishar Singh,14896,INC,Hari Singh,11143,3753,9.3
+ae-haryana-1972,AE,Haryana,1972,1972,official,71,Bawanikhera,SC,,38494,VHP,Amar Singh,23180,INC,Parbhu Singh,15314,7866,20.43
+ae-haryana-1972,AE,Haryana,1972,1972,official,72,Adampur,GEN,,47787,INC,Bhajan Lal,28928,IND,Devi Lal,17967,10961,22.94
+ae-haryana-1972,AE,Haryana,1972,1972,official,73,Hissar,GEN,,46551,INC,Gulab Singh,22533,NCO,Balwant Rai,20869,1664,3.57
+ae-haryana-1972,AE,Haryana,1972,1972,official,74,Barwala,SC,,44216,NCO,Pir Chand,20659,INC,Neki Ram,19219,1440,3.26
+ae-haryana-1972,AE,Haryana,1972,1972,official,75,Tohana,GEN,,43967,INC,Harpal Singh,27907,CPI,Sampuran Singh,9756,18151,41.28
+ae-haryana-1972,AE,Haryana,1972,1972,official,76,Fatehabad,GEN,,55340,INC,Pokhar Ram,30925,IND,Gobind Rai,23366,7559,13.66
+ae-haryana-1972,AE,Haryana,1972,1972,official,77,Badopal,GEN,,42279,INC,Mehar Chand,23490,IND,Pirthi,12245,11245,26.6
+ae-haryana-1972,AE,Haryana,1972,1972,official,78,Sirsa,GEN,,44264,INC,Premsukh Dass,22205,IND,Lachman Dass,19889,2316,5.23
+ae-haryana-1972,AE,Haryana,1972,1972,official,79,Rori,GEN,,50811,INC,Harkishan Lal,26581,IND,Sahib Singh,11774,14807,29.14
+ae-haryana-1972,AE,Haryana,1972,1972,official,80,Dabwali,SC,,34035,INC,Gordhan Dass,27086,IND,Gurdial Singh,3209,23877,70.15
+ae-haryana-1972,AE,Haryana,1972,1972,official,81,Ellenabad,GEN,,48895,INC,Brij Lal,27266,IND,Birbal,15160,12106,24.76

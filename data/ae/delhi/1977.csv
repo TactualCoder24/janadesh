@@ -1,0 +1,57 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-delhi-1977,AE,Delhi,1977,1977,official,1,Sarojini Nagar,GEN,,13452,JNP,P.N. Singh,8719,INC,B.K. Arora,3247,5472,40.68
+ae-delhi-1977,AE,Delhi,1977,1977,official,2,Lakshmi Bai Nagar,GEN,,14946,JNP,Kidar Nath Sachdeva,9865,INC,Pittambar Dutt Barthwal,4907,4958,33.17
+ae-delhi-1977,AE,Delhi,1977,1977,official,3,Gole Market,SC,,11451,JNP,Swarup Chand 'Rajan',6594,INC,Ram Nath Chandeliva,4028,2566,22.41
+ae-delhi-1977,AE,Delhi,1977,1977,official,4,Bara Khamba,GEN,,13546,JNP,Shiv Charan Gupta,7299,INC,O.P. Sharma,6017,1282,9.46
+ae-delhi-1977,AE,Delhi,1977,1977,official,5,Delhi Cantonment,GEN,,14013,INC,Vimal Nagi,6012,JNP,Inder Sen,5571,441,3.15
+ae-delhi-1977,AE,Delhi,1977,1977,official,6,Minto Road,GEN,,13665,JNP,Viresh Pratap Choudhary,6291,INC,Subhash Chopra,5557,734,5.37
+ae-delhi-1977,AE,Delhi,1977,1977,official,7,Jangpura,GEN,,22191,JNP,Inder Mohan Sehgal,11827,INC,Jag Pravesh Chandra,9451,2376,10.71
+ae-delhi-1977,AE,Delhi,1977,1977,official,8,Kasturba Nagar,GEN,,19873,JNP,Jaswant Singh Phull,10802,INC,C.B. Gupta,6713,4089,20.58
+ae-delhi-1977,AE,Delhi,1977,1977,official,9,Lajpat Nagar,GEN,,25508,JNP,Ram Lal Verma,17292,INC,Raghu Nath Kapur,8216,9076,35.58
+ae-delhi-1977,AE,Delhi,1977,1977,official,10,Okhla,GEN,,21282,JNP,Lalit Mohan Gautam,11997,INC,Dewan Dwarka Khosla,6899,5098,23.95
+ae-delhi-1977,AE,Delhi,1977,1977,official,11,Malviya Nagar,GEN,,30982,JNP,Hans Raj Sethi,20037,INC,Prem Singh Chauhan,10945,9092,29.35
+ae-delhi-1977,AE,Delhi,1977,1977,official,12,R .K. Puram,GEN,,14093,JNP,Ram Bhaj,10116,INC,Jagdish Chander,3450,6666,47.3
+ae-delhi-1977,AE,Delhi,1977,1977,official,13,Hauz Khas,GEN,,18893,JNP,K.K. Gupta,12387,INC,Jugal Kishore,5906,6481,34.3
+ae-delhi-1977,AE,Delhi,1977,1977,official,14,Rajinder Nagar,GEN,,29429,JNP,Ram Nath Vij,18123,INC,Raj Kumari Salwan,11306,6817,23.16
+ae-delhi-1977,AE,Delhi,1977,1977,official,15,Ashok Nagar,GEN,,41581,JNP,Vishnu Dutt,27174,INC,Rajinder Kumar Tanwar,12796,14378,34.58
+ae-delhi-1977,AE,Delhi,1977,1977,official,16,Tilak Nagar,GEN,,31476,JNP,O.P. Babbar,18889,INC,K.C. Malik,12002,6887,21.88
+ae-delhi-1977,AE,Delhi,1977,1977,official,17,Rajouri Garden,GEN,,29131,JNP,Harbhagwan Arora,17746,INC,Hari Singh,10875,6871,23.59
+ae-delhi-1977,AE,Delhi,1977,1977,official,18,Moti Nagar,GEN,,23355,JNP,Madan Lal Khurana,16962,INC,Yogender Singh,6149,10813,46.3
+ae-delhi-1977,AE,Delhi,1977,1977,official,19,Shakur Basti,GEN,,35123,JNP,Ram Gopal Sisodia,18445,INC,Satish Kumar,13381,5064,14.42
+ae-delhi-1977,AE,Delhi,1977,1977,official,20,Rampura,GEN,,27475,JNP,Janardan Gupta,15020,CPI,Sri Chand,11608,3412,12.42
+ae-delhi-1977,AE,Delhi,1977,1977,official,21,Wazirabad,SC,,47968,INC,Mool Chand,23408,JNP,Prabhu Dayal,22380,1028,2.14
+ae-delhi-1977,AE,Delhi,1977,1977,official,22,Narela,GEN,,24865,JNP,Shanti Swaroop Tyagi,8240,INC,Hira Singh,5676,2564,10.31
+ae-delhi-1977,AE,Delhi,1977,1977,official,23,Bawana,GEN,,24847,JNP,Rohtas,11669,IND,Kartar Singh,5126,6543,26.33
+ae-delhi-1977,AE,Delhi,1977,1977,official,24,Najaf Garh,GEN,,61725,INC,Bharat Singh,37076,JNP,Mahinder Singh,21068,16008,25.93
+ae-delhi-1977,AE,Delhi,1977,1977,official,25,Madipur,SC,,31158,INC,Bhore Lal,15795,JNP,Chandra Singh,13480,2315,7.43
+ae-delhi-1977,AE,Delhi,1977,1977,official,26,Palam,GEN,,28458,JNP,L. Singh,10468,INC,Phool Singh,8827,1641,5.77
+ae-delhi-1977,AE,Delhi,1977,1977,official,27,Mehrauli,SC,,22745,JNP,Kalka Dass,16457,INC,Puran Chand,6288,10169,44.71
+ae-delhi-1977,AE,Delhi,1977,1977,official,28,Tughlakabad,SC,,36233,INC,Prem Singh,17059,JNP,Mitter Sain,12627,4432,12.23
+ae-delhi-1977,AE,Delhi,1977,1977,official,29,Geeta Colony,GEN,,37735,JNP,Ishwar Dass Mahajan,23858,INC,Brij Lal,12511,11347,30.07
+ae-delhi-1977,AE,Delhi,1977,1977,official,30,Gandhi Nagar,GEN,,25542,JNP,Som Nath,13152,INC,Kartar Singh Sokhi,8849,4303,16.85
+ae-delhi-1977,AE,Delhi,1977,1977,official,31,Krishna Nagar,GEN,,53898,JNP,Yog Dhayan Ahuja,25840,INC,Jagdish Chander Mongia,22862,2978,5.53
+ae-delhi-1977,AE,Delhi,1977,1977,official,32,Shahdara,GEN,,28832,JNP,Devendra Kumar Jain,15402,INC,Ram Narain,12369,3033,10.52
+ae-delhi-1977,AE,Delhi,1977,1977,official,33,Rohtas Nagar,GEN,,48916,INC,Ved Prakash,23963,JNP,Bharat Narain,22975,988,2.02
+ae-delhi-1977,AE,Delhi,1977,1977,official,34,Ghonda,GEN,,34315,JNP,Fateh Singh,17646,INC,Wazir Khan,14198,3448,10.05
+ae-delhi-1977,AE,Delhi,1977,1977,official,35,Civil Lines,GEN,,23697,JNP,Kanwar Lal Sharma,12027,INC,Bhiku Ram,11043,984,4.15
+ae-delhi-1977,AE,Delhi,1977,1977,official,36,Kamla Nagar,GEN,,21080,JNP,Charti Lal Goel,12939,INC,Parshotam Lal Goel,7842,5097,24.18
+ae-delhi-1977,AE,Delhi,1977,1977,official,37,Vijay Nagar,GEN,,21042,JNP,Prashant Kumar,12044,INC,Chander Amrit,8748,3296,15.66
+ae-delhi-1977,AE,Delhi,1977,1977,official,38,Model Town,GEN,,23093,JNP,Mahavir Vaid,14387,INC,Chaman Lal Sharma,8340,6047,26.19
+ae-delhi-1977,AE,Delhi,1977,1977,official,39,Chandni Chowk,GEN,,25444,JNP,Raj Kumar Jain,16073,INC,Rama Shanker,9221,6852,26.93
+ae-delhi-1977,AE,Delhi,1977,1977,official,40,Balli Maran,GEN,,26183,JNP,Vishwambhar Datt Sharma,14933,INC,Mehtab Chand Jain,8886,6047,23.1
+ae-delhi-1977,AE,Delhi,1977,1977,official,41,Ajmeri Gate,GEN,,22695,JNP,Sanwal Dass Gupta,10372,INC,Mirza Siddiq Ali,8316,2056,9.06
+ae-delhi-1977,AE,Delhi,1977,1977,official,42,Kucha Pati Ram,GEN,,25948,JNP,Rajesh Sharma Alias Vasudev,14945,INC,Bhim Sen,9004,5941,22.9
+ae-delhi-1977,AE,Delhi,1977,1977,official,43,Matia Mahal,GEN,,26035,JNP,Begum Khurshid,15216,INC,Habiba Kidwai,6053,9163,35.19
+ae-delhi-1977,AE,Delhi,1977,1977,official,44,Pahar Ganj,GEN,,28249,JNP,Amar Nath Kumar,15414,INC,Amar Nath,12400,3014,10.67
+ae-delhi-1977,AE,Delhi,1977,1977,official,45,Ramnagar,SC,,24910,INC,Babu Ram Solanki,12694,IND,Mohan Lal Indoria,9569,3125,12.55
+ae-delhi-1977,AE,Delhi,1977,1977,official,46,Qasab Pura,GEN,,23376,JNP,Mohd. Ismail,13274,INC,Roshan Lal,9682,3592,15.37
+ae-delhi-1977,AE,Delhi,1977,1977,official,47,Deputy Ganj,GEN,,24195,JNP,Shyam Chanran Gupta,14165,INC,Har Sarup,9792,4373,18.07
+ae-delhi-1977,AE,Delhi,1977,1977,official,48,Sohan Ganj,GEN,,24464,JNP,Inder Mohan Bhardwaj,12985,CPI,Ram Chandra Sharma,11479,1506,6.16
+ae-delhi-1977,AE,Delhi,1977,1977,official,49,Shakti Nagar,GEN,,22575,JNP,Satya Pal Chugh,12527,INC,Kula Nand Bhartiya,9818,2709,12.0
+ae-delhi-1977,AE,Delhi,1977,1977,official,50,Karampura,GEN,,31288,JNP,Brij Mohan Toofan,15160,CPI,Prem Sagar Gupta,12621,2539,8.11
+ae-delhi-1977,AE,Delhi,1977,1977,official,51,Sarai Rohilla,GEN,,27383,JNP,D.D. Vasisht,12725,CPI,B.D. Joshi,11632,1093,3.99
+ae-delhi-1977,AE,Delhi,1977,1977,official,52,Motia Khan,GEN,,25155,JNP,Pushpa Kale,15003,INC,P.R. Mittal,10152,4851,19.28
+ae-delhi-1977,AE,Delhi,1977,1977,official,53,Dev Nagar,SC,,21532,INC,Moti Lal Bakolia,8767,JNP,Travati Jatav,8530,237,1.1
+ae-delhi-1977,AE,Delhi,1977,1977,official,54,Patel Nagar,GEN,,23448,JNP,Kedar Nath Sahni,15237,INC,Bhagwan Dass Verma,8066,7171,30.58
+ae-delhi-1977,AE,Delhi,1977,1977,official,55,Anand Parbat,SC,,24954,INC,Dharam Dass Shastri,11902,JNP,Harish Chandra Choudhry,10880,1022,4.1
+ae-delhi-1977,AE,Delhi,1977,1977,official,56,Shadipur,SC,,15511,INC,Sundervati Naval Prabhakar,7379,JNP,Om Parkash,6702,677,4.36

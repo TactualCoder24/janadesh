@@ -167,7 +167,7 @@ COLORS = {
     'VBA': '#4361EE', 'KCM': '#E07A5F', 'RSP': '#BC4749', 'AIFB': '#9D0208', 'PMK': '#E9C46A',
     'DMDK': '#A68A64', 'MDMK': '#C1666B', 'VCK': '#4A4E69', 'NTK': '#9B2226', 'TVK': '#E4002B',
     'AINRC': '#D4A017', 'JSP': '#D00000', 'JSURAJ': '#F6AE2D', 'IPFT': '#2F4858', 'TIPRA': '#E85D04',
-    'UDP': '#3A86FF', 'VPP': '#7209B7', 'IND': '#8A8F98', 'OTH': '#B9BDC4', 'NOTA': '#5f6368',
+    'UDP': '#3A86FF', 'VPP': '#7209B7', 'IND': '#8D6E63', 'OTH': '#B9BDC4', 'NOTA': '#5f6368',
     'BJS': '#E68A00', 'JNP': '#2B9348', 'JD': '#3D9970', 'SWA': '#5E548E', 'PSP': '#9E2A2B',
     'SSP': '#B5179E', 'KMPP': '#6D597A', 'SOC': '#A23E48', 'BLD': '#55A630', 'NCO': '#4895EF',
     'JNPS': '#80B918', 'ICS': '#72A1E5', 'INCU': '#5390D9', 'BAP': '#F15BB5', 'RLTP': '#00BBF9',

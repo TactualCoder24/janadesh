@@ -1,0 +1,141 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-odisha-1961,AE,Odisha,1961,1961,official,1,Omerkote,GEN,,13883,INC,Tripathy Sadasiva,7007,GP,Abdul Rahiman Khan,6876,131,0.94
+ae-odisha-1961,AE,Odisha,1961,1961,official,2,Dabugam,GEN,,13796,INC,Tripathy Jagannath,7850,GP,Sahu Kasiviswanath,5946,1904,13.8
+ae-odisha-1961,AE,Odisha,1961,1961,official,3,Nowrangpur,SC,,11783,INC,Harijan Miru,6034,GP,Naik Chondrosekhar Denai,5749,285,2.42
+ae-odisha-1961,AE,Odisha,1961,1961,official,4,Jeypore,GEN,,12006,INC,Patnaik Raghunath,6530,CPI,Baxipatra Harishchandra,2635,3895,32.44
+ae-odisha-1961,AE,Odisha,1961,1961,official,5,Kotpad,SC,,13240,INC,Bakria Mahadebo,8160,GP,Nayak Laichan,3147,5013,37.86
+ae-odisha-1961,AE,Odisha,1961,1961,official,6,Malkangiri,ST,,10536,GP,Nayak Guru,6230,INC,Buruda Jagonath,4306,1924,18.26
+ae-odisha-1961,AE,Odisha,1961,1961,official,7,Padwa,GEN,,7925,INC,Mahapatra Ganeswar,3434,GP,Goudo Laxman,2819,615,7.76
+ae-odisha-1961,AE,Odisha,1961,1961,official,8,Koraput,ST,,9298,INC,Toyaka Sanganna,5011,GP,Pujari Lachman,4287,724,7.79
+ae-odisha-1961,AE,Odisha,1961,1961,official,9,Pottangi,ST,,8331,INC,Pangi Musuri Santa,4204,GP,"Boina, Allaya",4127,77,0.92
+ae-odisha-1961,AE,Odisha,1961,1961,official,10,Rayagada,ST,,9426,INC,Mandangi Kamayya,5592,GP,Ullaka Syamoghono,3834,1758,18.65
+ae-odisha-1961,AE,Odisha,1961,1961,official,11,Gunupur,GEN,,17658,INC,Patro Narasingo,9323,GP,Sohu Nabinchandro,3338,5985,33.89
+ae-odisha-1961,AE,Odisha,1961,1961,official,12,Bissamcuttack,ST,,10996,GP,Chowdhary Biswanath,6643,INC,Pidikaka Sanyasicharnan,4353,2290,20.83
+ae-odisha-1961,AE,Odisha,1961,1961,official,13,Parlakimedi,GEN,,25910,INC,Nalla Kurmanaikulu,12780,CPI,Misra Jagannath,10463,2317,8.94
+ae-odisha-1961,AE,Odisha,1961,1961,official,14,R. Udaigiri,ST,,6241,INC,Bhoya Ramo,3235,IND,Naik Gopinath,2522,713,11.42
+ae-odisha-1961,AE,Odisha,1961,1961,official,15,Digapahandi,GEN,,26091,INC,Mahapatra Raghunath,15237,CPI,Prodhan Govind,8749,6488,24.87
+ae-odisha-1961,AE,Odisha,1961,1961,official,16,Mohana,SC,,10748,INC,Naik Biswnath,6001,IND,Naik Mohantro,4747,1254,11.67
+ae-odisha-1961,AE,Odisha,1961,1961,official,17,Berhampur,GEN,,31953,IND,Narendra Deo Sisirkumar,19810,INC,Pratty Suryanarayana Murty,4334,15476,48.43
+ae-odisha-1961,AE,Odisha,1961,1961,official,18,Patrapur,SC,,9827,INC,Jani Trilochana,7428,GP,Padhana Budaia,1359,6069,61.76
+ae-odisha-1961,AE,Odisha,1961,1961,official,19,Dura,GEN,,23675,INC,P. Venkata Jaganatha Rao,11853,IND,Sahu Narasimha,10336,1517,6.41
+ae-odisha-1961,AE,Odisha,1961,1961,official,20,Chatrapur,GEN,,19110,CPI,Mahapatra Lakshman,8289,INC,V. Sitaramayya,6494,1795,9.39
+ae-odisha-1961,AE,Odisha,1961,1961,official,21,Khallikote,GEN,,24481,INC,Mardaraj Deo Ramchandra,14658,IND,Sahu Narayan,6355,8303,33.92
+ae-odisha-1961,AE,Odisha,1961,1961,official,22,Hinjili,GEN,,21233,INC,Nayak Brundaban,18256,IND,Padhi Sashibhusan,1996,16260,76.58
+ae-odisha-1961,AE,Odisha,1961,1961,official,23,Kodala West,GEN,,30695,INC,Das Biswanath,15409,PSP,Maharana Banamali,11688,3721,12.12
+ae-odisha-1961,AE,Odisha,1961,1961,official,24,Kodala East,GEN,,20576,INC,Panigarhi Lingaraj,9247,PSP,Patnaik Dibakar,6955,2292,11.14
+ae-odisha-1961,AE,Odisha,1961,1961,official,25,Bhanjanagar,GEN,,26117,INC,Pradhan Magunicharan,17910,CPI,Mahanty Sadananda,5204,12706,48.65
+ae-odisha-1961,AE,Odisha,1961,1961,official,26,Jagannath Prasad,SC,,19351,INC,Naik Udia,13800,CPI,Naik Suma,4042,9758,50.43
+ae-odisha-1961,AE,Odisha,1961,1961,official,27,Aska,GEN,,37924,INC,Mishra Lokanath,20968,CPI,Das Harihar,15792,5176,13.65
+ae-odisha-1961,AE,Odisha,1961,1961,official,28,Suruda,GEN,,21744,INC,Naik Arjuna,7424,IND,Swain Gantayat,5967,1457,6.7
+ae-odisha-1961,AE,Odisha,1961,1961,official,29,Balliguda,ST,,7349,GP,Podra Dubara,3557,INC,Podra Jadabo,2999,558,7.59
+ae-odisha-1961,AE,Odisha,1961,1961,official,30,G Udayagiri,ST,,9280,INC,Padhi Sarangadhar,4470,GP,Podhan Saul,4224,246,2.65
+ae-odisha-1961,AE,Odisha,1961,1961,official,31,Phulbari,GEN,,9846,INC,Padhi Himanusekhara,3959,GP,Ratha Nandakishor,3708,251,2.55
+ae-odisha-1961,AE,Odisha,1961,1961,official,32,Boudh,SC,,12725,GP,Dipa Anirudha,7869,INC,Behara Basanta,4856,3013,23.68
+ae-odisha-1961,AE,Odisha,1961,1961,official,33,Madanpur Rampur,GEN,,17941,GP,Deo Birakeshari,11085,INC,Singh Deo Jogeshachandra,5273,5812,32.4
+ae-odisha-1961,AE,Odisha,1961,1961,official,34,Bhawanipatna,ST,,15472,GP,Majhi Anchal,12391,INC,Majhi Danardan,3081,9310,60.17
+ae-odisha-1961,AE,Odisha,1961,1961,official,35,Kashipur,GEN,,10460,GP,Debi Nabakumari,6309,INC,Debi Binapani,4151,2158,20.63
+ae-odisha-1961,AE,Odisha,1961,1961,official,36,Koksara,SC,,21226,GP,Naik Dayanidhi,16913,INC,Mahananda Sadashiba,3342,13571,63.94
+ae-odisha-1961,AE,Odisha,1961,1961,official,37,Junagarh,GEN,,14976,GP,Naik Maheswar,10559,INC,Bahera Prasanna Kumar,3140,7419,49.54
+ae-odisha-1961,AE,Odisha,1961,1961,official,38,Dharamgarh,ST,,15756,GP,Naik Mukund,12900,INC,Majhi Jugeswar,2856,10044,63.75
+ae-odisha-1961,AE,Odisha,1961,1961,official,39,Khariar,GEN,,16367,INC,Deo Anupsingh,11595,GP,Tewari Kapilanarayana,4182,7413,45.29
+ae-odisha-1961,AE,Odisha,1961,1961,official,40,Nawapara,ST,,10617,IND,Majhi Gahshiram,5798,INC,Gond Omkarsingh,4819,979,9.22
+ae-odisha-1961,AE,Odisha,1961,1961,official,41,Kantabanji,GEN,,14123,GP,Deo Maharaja Shri Rajendra Narayan Singh,10266,INC,Debi Chandra Kumari,2911,7355,52.08
+ae-odisha-1961,AE,Odisha,1961,1961,official,42,Titilagarh,SC,,14769,GP,Mahananda Achyutanand,11399,INC,Mahananda Jayaram,2705,8694,58.87
+ae-odisha-1961,AE,Odisha,1961,1961,official,43,Saintala,GEN,,16384,GP,Sahoo Ainthu,11247,INC,Bohidar Dibakar,5137,6110,37.29
+ae-odisha-1961,AE,Odisha,1961,1961,official,44,Patnagarh,ST,,18071,GP,Bhoi Ramesh Chandra,13414,INC,Godavia Jagannath,3216,10198,56.43
+ae-odisha-1961,AE,Odisha,1961,1961,official,45,Loisingha,GEN,,21745,GP,Misra Ram Prasad,14121,INC,Sai Lokeswar,4419,9702,44.62
+ae-odisha-1961,AE,Odisha,1961,1961,official,46,Bolangir,ST,,21168,GP,Singh Chandra Sekhar,16361,INC,Kuanar Goutam,4807,11554,54.58
+ae-odisha-1961,AE,Odisha,1961,1961,official,47,Tusra,GEN,,18587,GP,Misra Nanda Kishore,11813,INC,Misra Nityananda,6217,5596,30.11
+ae-odisha-1961,AE,Odisha,1961,1961,official,48,Binka,GEN,,13362,GP,Nanda Antarama,6219,INC,Subudhi Somanath,5659,560,4.19
+ae-odisha-1961,AE,Odisha,1961,1961,official,49,Sonepur,SC,,10162,GP,Ganda Daulata,5968,INC,Naik Krupasindhu,3396,2572,25.31
+ae-odisha-1961,AE,Odisha,1961,1961,official,50,Melchhamunda,GEN,,15329,INC,Padhee Sachidanand,5797,GP,Bahidar Prafullakumar,3990,1807,11.79
+ae-odisha-1961,AE,Odisha,1961,1961,official,51,Padampur,ST,,14030,INC,Singh Bariha Bir Bikramaditya,7707,GP,Singh Lal Mitroday,6323,1384,9.86
+ae-odisha-1961,AE,Odisha,1961,1961,official,52,Bargarh,GEN,,17784,IND,Padhan Gananath,6106,INC,Hota Bharatchandra,5134,972,5.47
+ae-odisha-1961,AE,Odisha,1961,1961,official,53,Bijepur,SC,,18234,INC,Nag Mohan,7965,GP,Mahanand Bahadur,5284,2681,14.7
+ae-odisha-1961,AE,Odisha,1961,1961,official,54,Bhatli,GEN,,21279,INC,Padhan Saraswati,10900,CPI,Banchhor Natabar,6441,4459,20.95
+ae-odisha-1961,AE,Odisha,1961,1961,official,55,Sambalpur,GEN,,23627,INC,Babu Banamali,11868,GP,Supakar Sraddhakar,9902,1966,8.32
+ae-odisha-1961,AE,Odisha,1961,1961,official,56,Attabira,SC,,12234,INC,Chhuria Dalganjan,5508,GP,Ghasi Bhikhari,5250,258,2.11
+ae-odisha-1961,AE,Odisha,1961,1961,official,57,Katarbaga,GEN,,16155,GP,Misra Bishnu Prasad,6386,INC,Panda Purushotam,5875,511,3.16
+ae-odisha-1961,AE,Odisha,1961,1961,official,58,Deogarh,ST,,19695,GP,Thakur Jayadeb,10653,INC,Majhi Baneshwar,9042,1611,8.18
+ae-odisha-1961,AE,Odisha,1961,1961,official,59,Rairakhol,GEN,,20882,GP,Deb Bhanugang Tribhuban Raja,12270,INC,Deb Hari Prasad,8612,3658,17.52
+ae-odisha-1961,AE,Odisha,1961,1961,official,60,Brajrajnagar,GEN,,20176,CPI,Panda Prasanna Kumar,10103,INC,Pani Bijoy Kumar,6387,3716,18.42
+ae-odisha-1961,AE,Odisha,1961,1961,official,61,Jharsuguda,ST,,18136,INC,Bariha Binod Bihari,8611,GP,Naik Monohar,6621,1990,10.97
+ae-odisha-1961,AE,Odisha,1961,1961,official,62,Sundergarh,GEN,,25034,GP,Patel Harihar,14204,INC,Naik Krupanidhi,7709,6495,25.94
+ae-odisha-1961,AE,Odisha,1961,1961,official,63,Talsara,ST,,24183,GP,Pradhan Gangadhar,10990,IND,Kujur Moris,6294,4696,19.42
+ae-odisha-1961,AE,Odisha,1961,1961,official,64,Rajgangpur,ST,,20262,INC,Amat Rangabalabh,6645,GP,Amat Debanand,6284,361,1.78
+ae-odisha-1961,AE,Odisha,1961,1961,official,65,Bisra,ST,,25154,GP,Bhagat Premchand,6783,INC,Kharia Junas,6199,584,2.32
+ae-odisha-1961,AE,Odisha,1961,1961,official,66,Bonai,ST,,17838,GP,Mohapatra Hemendra Prasad,12816,INC,Dandpat Hamanda Kumar Singh,2780,10036,56.26
+ae-odisha-1961,AE,Odisha,1961,1961,official,67,Champua,ST,,10140,GP,Naik Guru Charan,5088,INC,Naik Bairiganjan,3100,1988,19.61
+ae-odisha-1961,AE,Odisha,1961,1961,official,68,Patan,GEN,,15254,GP,Mishra Rajbalabh,8441,INC,Prusty Anirudha,5373,3068,20.11
+ae-odisha-1961,AE,Odisha,1961,1961,official,69,Keonjhar,GEN,,10532,GP,Bhani Deo Janardan,4657,INC,Misra Bimbadhar,3078,1579,14.99
+ae-odisha-1961,AE,Odisha,1961,1961,official,70,Telkoi,ST,,7332,GP,Munda Govinda,3704,INC,Giri Brhmananda,2524,1180,16.09
+ae-odisha-1961,AE,Odisha,1961,1961,official,71,Ramachandrapur,GEN,,15246,INC,Kuanr Muralidhar,9200,GP,Jena Upendranath,4848,4352,28.55
+ae-odisha-1961,AE,Odisha,1961,1961,official,72,Anandpur,SC,,12265,INC,Sethi Makar,6820,GP,Jena Dirakisor,3971,2849,23.23
+ae-odisha-1961,AE,Odisha,1961,1961,official,73,Pal Lahora,GEN,,20127,INC,Pradhan Pabitra Mohan,9570,GP,Singh Deo Mahindra Bahadur Raja Sanker Pratap,8278,1292,6.42
+ae-odisha-1961,AE,Odisha,1961,1961,official,74,Talcher,GEN,,29229,INC,Pradhan Pabitra Mohan,17745,GP,Deb Routray Alhad Chandra,8360,9385,32.11
+ae-odisha-1961,AE,Odisha,1961,1961,official,75,K. Nagar,GEN,,22561,GP,Tripathy Brundaban,11395,INC,Nayak Dukhabandhu,11166,229,1.02
+ae-odisha-1961,AE,Odisha,1961,1961,official,76,Dhenkanal,GEN,,27784,GP,Devi Ratnaprova,16583,INC,Pattanayak Bijoyananda,11201,5382,19.37
+ae-odisha-1961,AE,Odisha,1961,1961,official,77,Gondia,ST,,19520,GP,Dehuri Kalia,10785,INC,Pradan Binoda,7129,3656,18.73
+ae-odisha-1961,AE,Odisha,1961,1961,official,78,Chendipada,SC,,17900,INC,Nayak Pada,7806,CPI,Sethi Nimei,6572,1234,6.89
+ae-odisha-1961,AE,Odisha,1961,1961,official,79,Angul,GEN,,19272,INC,Singh Kumuda Chandra,8752,CPI,Pradhan Hrushikesh,4941,3811,19.77
+ae-odisha-1961,AE,Odisha,1961,1961,official,80,Athmallik,GEN,,14669,GP,Panigrahy Khetramohan,4951,INC,Padhan Haribandhu,4065,886,6.04
+ae-odisha-1961,AE,Odisha,1961,1961,official,81,Banpur,GEN,,22172,GP,Mishra Raghunath,10266,INC,Rautara Satchidananda,4862,5404,24.37
+ae-odisha-1961,AE,Odisha,1961,1961,official,82,Daspalla,SC,,14390,INC,Nayak Saheb,10278,GP,Naik Sridhar,1747,8531,59.28
+ae-odisha-1961,AE,Odisha,1961,1961,official,83,Khandpara,GEN,,19599,INC,Singh Mardaraj Bharamarbar Ray Harihar,12891,IND,Moharana Narasingh,3002,9889,50.46
+ae-odisha-1961,AE,Odisha,1961,1961,official,84,Nayagarh,GEN,,21846,INC,Singh Brundaban Chandra,6022,CPI,Dora Basudev,5307,715,3.27
+ae-odisha-1961,AE,Odisha,1961,1961,official,85,Ranpur,GEN,,28818,CPI,Ram Ramachandra,14053,INC,Ray Raghunath,14048,5,0.02
+ae-odisha-1961,AE,Odisha,1961,1961,official,86,Begunia,GEN,,31733,CPI,Paikray Gongadhar,16117,INC,Champatiray Satyananda,15616,501,1.58
+ae-odisha-1961,AE,Odisha,1961,1961,official,87,Khurda,GEN,,29835,INC,Patnaik Banamali,17136,CPI,Patnaik Prananath,8652,8484,28.44
+ae-odisha-1961,AE,Odisha,1961,1961,official,88,Bhubaneswar,GEN,,26790,INC,Mahanty Satyapriya,16547,CPI,Das Mohan,5548,10999,41.06
+ae-odisha-1961,AE,Odisha,1961,1961,official,89,Balipatna,SC,,8848,INC,Bhoi Gopinath,5712,GP,Bhoi Satyabadi,3136,2576,29.11
+ae-odisha-1961,AE,Odisha,1961,1961,official,90,Brahmagiri,GEN,,28862,IND,Patra Gopabadhu,14252,INC,Samantasinghar Padamacharan,6014,8238,28.54
+ae-odisha-1961,AE,Odisha,1961,1961,official,91,Puri,GEN,,24635,INC,Prathihari Bhagwan,10940,PSP,Bahinipati Harihar,9386,1554,6.31
+ae-odisha-1961,AE,Odisha,1961,1961,official,92,Satyabadi,GEN,,27903,GP,Deb Raj Raj,10145,INC,Mahapatra Gangadhar,9979,166,0.59
+ae-odisha-1961,AE,Odisha,1961,1961,official,93,Pipili,GEN,,18661,INC,Patnaik Ramachandra,7416,IND,Jena Gopalbandhu,5851,1565,8.39
+ae-odisha-1961,AE,Odisha,1961,1961,official,94,Kakatpur,GEN,,35601,INC,Mohanty Upendra,17539,CPI,Swain Gatikrushna,12486,5053,14.19
+ae-odisha-1961,AE,Odisha,1961,1961,official,95,Nimapara,SC,,32981,INC,Sethi Gobinda,17783,CPI,Das Bharat,13045,4738,14.37
+ae-odisha-1961,AE,Odisha,1961,1961,official,96,Banki,GEN,,32873,PSP,Praharaj Gokulananda,13428,INC,Rout Jogesh Chandra,12977,451,1.37
+ae-odisha-1961,AE,Odisha,1961,1961,official,97,Baramba,GEN,,40676,INC,Nayak Bidyadhar,18660,IND,Pattnaik Pratapchandra,16375,2285,5.62
+ae-odisha-1961,AE,Odisha,1961,1961,official,98,Athgarh,GEN,,23886,IND,Dash Achutananda,9371,INC,Jena Duriyodhan,7120,2251,9.42
+ae-odisha-1961,AE,Odisha,1961,1961,official,99,Cuttack City,GEN,,25759,INC,Mitra Biren,15442,IND,Saha Surajmal,9746,5696,22.11
+ae-odisha-1961,AE,Odisha,1961,1961,official,100,Choudwar,GEN,,37421,INC,Pattanik Bijoyananda,24523,IND,Sahu Satrughna,9342,15181,40.57
+ae-odisha-1961,AE,Odisha,1961,1961,official,101,Cuttack Sadar,SC,,22600,INC,Mallick Laxman,14355,CPI,Sethi Prahlad,4811,9544,42.23
+ae-odisha-1961,AE,Odisha,1961,1961,official,102,Jagatsinghpur,GEN,,32502,INC,Dey Priyanath,9439,PSP,Rath Durga Charan,8850,589,1.81
+ae-odisha-1961,AE,Odisha,1961,1961,official,103,Govindpur,SC,,23622,PSP,Mallik Kanduri Charan,12840,INC,Mallick Nath Charan,9481,3359,14.22
+ae-odisha-1961,AE,Odisha,1961,1961,official,104,Mahanga,GEN,,30075,INC,Patnaik Surendranath,13506,PSP,Dasa Pradipta Kishore,9941,3565,11.85
+ae-odisha-1961,AE,Odisha,1961,1961,official,105,Salepur,SC,,23088,PSP,Behera Baidhar,10484,INC,Mallik Harekrushna,9415,1069,4.63
+ae-odisha-1961,AE,Odisha,1961,1961,official,106,Balikuda,GEN,,28037,INC,Das Bipin Bihari,11841,PSP,Mohanty Baikunthanath,9497,2344,8.36
+ae-odisha-1961,AE,Odisha,1961,1961,official,107,Ersama,GEN,,38839,INC,Ratnamali Jema,20665,CPI,Choudhury Loknath,16957,3708,9.55
+ae-odisha-1961,AE,Odisha,1961,1961,official,108,Tirtol,GEN,,30276,INC,Mohanty Pratap Chandr,13766,PSP,Khuntia Nisamani,10971,2795,9.23
+ae-odisha-1961,AE,Odisha,1961,1961,official,109,Patkura,GEN,,24356,INC,Mishra Lokanath,14418,PSP,Satpathy Chakradhar,8177,6241,25.62
+ae-odisha-1961,AE,Odisha,1961,1961,official,110,Rajnagar,GEN,,32958,IND,Nayak Padma Charan,14223,INC,Mangaraj Jadumoni,5879,8344,25.32
+ae-odisha-1961,AE,Odisha,1961,1961,official,111,Aul,GEN,,34104,INC,Bhanja Deo Raja Sailendra Narayan,18856,IND,Das Prafulla Chandra,9549,9307,27.29
+ae-odisha-1961,AE,Odisha,1961,1961,official,112,Kendrapara,GEN,,38671,PSP,Sahu Dhruba Charan,20156,INC,Nayak Purusottam,15940,4216,10.9
+ae-odisha-1961,AE,Odisha,1961,1961,official,113,Pattamundei,SC,,29679,INC,Malik Prahallad,15044,PSP,Malik Tribrikram,14635,409,1.38
+ae-odisha-1961,AE,Odisha,1961,1961,official,114,Binjharpur,GEN,,36404,INC,Nayak Chittaranjan,18540,PSP,Das Bankabehari,17405,1135,3.12
+ae-odisha-1961,AE,Odisha,1961,1961,official,115,Berchana,GEN,,33703,INC,Lenka Dhananjaya,14111,PSP,Das Jagannath,11154,2957,8.77
+ae-odisha-1961,AE,Odisha,1961,1961,official,116,Dharmasala,GEN,,25779,INC,Dutta Gadadhep,12989,PSP,Mohanty Parmaanda,7575,5414,21.0
+ae-odisha-1961,AE,Odisha,1961,1961,official,117,Sukinda,SC,,14756,INC,Singh Baidhar,7617,GP,Jena Muniswar,3657,3960,26.84
+ae-odisha-1961,AE,Odisha,1961,1961,official,118,Jajpur West,GEN,,27484,INC,Pattanayak Madan Mohan,15036,GP,Panda Banamali,7210,7826,28.47
+ae-odisha-1961,AE,Odisha,1961,1961,official,119,Jajpur East,SC,,19463,INC,Das Santanu Kumar,9956,GP,Behera Nityananda,5379,4577,23.52
+ae-odisha-1961,AE,Odisha,1961,1961,official,120,Dhamnagar,GEN,,40014,INC,Jena Muralidhar,19852,PSP,Nayak Baishnab,19106,746,1.86
+ae-odisha-1961,AE,Odisha,1961,1961,official,121,Basudebpur,GEN,,36209,INC,Routroy Nilamani,14095,IND,Behera Chandradhar,11870,2225,6.14
+ae-odisha-1961,AE,Odisha,1961,1961,official,122,Chandbali,SC,,29333,INC,Jena Bairagi,14461,IND,Das Brundaban,6079,8382,28.58
+ae-odisha-1961,AE,Odisha,1961,1961,official,123,Bhadrak,GEN,,24868,IND,Mohapatra Nityananda,14091,INC,Mahammed Haneef,9908,4183,16.82
+ae-odisha-1961,AE,Odisha,1961,1961,official,124,Soro,GEN,,27702,INC,Panigrahi Karunakar,7709,CPI,Das Gajendra Prasad,6488,1221,4.41
+ae-odisha-1961,AE,Odisha,1961,1961,official,125,Simulia,SC,,22415,INC,Das Bhagiratha,9228,PSP,Jena Utsab,8475,753,3.36
+ae-odisha-1961,AE,Odisha,1961,1961,official,126,Nilgiri,GEN,,33073,GP,Mardaraj Harichandan Raja Rajendrachandra,13049,INC,Raja Balaram,10454,2595,7.85
+ae-odisha-1961,AE,Odisha,1961,1961,official,127,Balasore,GEN,,23395,INC,De Bijoy Krishna,11511,PSP,Das Rabindra Mohan,9501,2010,8.59
+ae-odisha-1961,AE,Odisha,1961,1961,official,128,Basta,GEN,,24171,PSP,Baug Maheswar,11750,INC,Praharaj Akshoy Narayan,10409,1341,5.55
+ae-odisha-1961,AE,Odisha,1961,1961,official,129,Bhograi,GEN,,28230,PSP,Das Pyari Mohan,16863,INC,Das Durga Sankar,10855,6008,21.28
+ae-odisha-1961,AE,Odisha,1961,1961,official,130,Jaleswar,GEN,,26514,PSP,Paul Prasanna Kumar,14054,INC,Jena Joges Chandra,11077,2977,11.23
+ae-odisha-1961,AE,Odisha,1961,1961,official,131,Kumta,GEN,,17885,PSP,Dash Prasanna Kumar,7298,INC,Kamila Jagannath,5716,1582,8.85
+ae-odisha-1961,AE,Odisha,1961,1961,official,132,Baisinga,SC,,19664,PSP,Patra Arjun,8405,INC,Patra Durlav,5837,2568,13.06
+ae-odisha-1961,AE,Odisha,1961,1961,official,133,Udala,ST,,13164,INC,Tudu Man Mohan,6173,PSP,Majhi Debi,3501,2672,20.3
+ae-odisha-1961,AE,Odisha,1961,1961,official,134,Karanjia,GEN,,15098,INC,Behera Pravakar,4599,GP,Shah Deo Lall Lokenath,3064,1535,10.17
+ae-odisha-1961,AE,Odisha,1961,1961,official,135,Jashipur,ST,,9985,INC,Triya Mochiram,3183,GP,Nayak Durgacharan,2612,571,5.72
+ae-odisha-1961,AE,Odisha,1961,1961,official,136,Rairangpur,ST,,17928,INC,Singh Chandra Mohan,6894,JP,Soren Lalmohan,6171,723,4.03
+ae-odisha-1961,AE,Odisha,1961,1961,official,137,Bahalda,ST,,19988,INC,Soren Sunaram,10602,GP,Majhee Mahindra,4759,5843,29.23
+ae-odisha-1961,AE,Odisha,1961,1961,official,138,Bangiriposi,ST,,13936,INC,Nayak Iswar Chandra,5226,GP,Nayak Radhamohan,4673,553,3.97
+ae-odisha-1961,AE,Odisha,1961,1961,official,139,Baripada,GEN,,14982,INC,Sahu Santosh Kumar,4397,PSP,Mahanta Purna Chandra,3869,528,3.52
+ae-odisha-1961,AE,Odisha,1961,1961,official,140,Muruda,ST,,17237,PSP,Soren Sakila,7609,INC,Majhi Niranjan,5420,2189,12.7

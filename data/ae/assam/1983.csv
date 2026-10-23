@@ -1,0 +1,106 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-assam-1983,AE,Assam,1983,1983,official,1,Ratabari,SC,Karimganj,43838,INC,Subal Chandra Das,16654,CPI(M),Kamdeb Das,13731,2923,6.67
+ae-assam-1983,AE,Assam,1983,1983,official,2,Patharkandi,GEN,Karimganj,55174,IND,Mian Udddin,13174,CPI,Mrinal Kanti Dasgupta,11642,1532,2.78
+ae-assam-1983,AE,Assam,1983,1983,official,3,Karimganj North,GEN,Karimganj,51536,INC,Ketaki Prasad Dutta,25795,CPI(M),Nishith Ranjan Das,15701,10094,19.59
+ae-assam-1983,AE,Assam,1983,1983,official,4,Karimganj South,GEN,Karimganj,48939,INC,Abdul Muqtadir Choudhury,24328,IND,Abdul Khalique Talukdar,19922,4406,9.0
+ae-assam-1983,AE,Assam,1983,1983,official,5,Badarpur,GEN,Karimganj,45582,INC,Gulam Subhany Choudhury,21236,CPI(M),Ramendra De,13876,7360,16.15
+ae-assam-1983,AE,Assam,1983,1983,official,6,Hailakandi,GEN,Hailakandi,46607,INC,Abdul Muhib Mazumdar,21666,IND,Gautam Roy,17390,4276,9.17
+ae-assam-1983,AE,Assam,1983,1983,official,7,Katlicherra,GEN,Hailakandi,51564,IND,Tajamul Ali Laskar,27762,INC,Joynath Roy,23062,4700,9.11
+ae-assam-1983,AE,Assam,1983,1983,official,8,Algapur,GEN,Hailakandi,37841,INC,Maulana Abdul Jalil Choudhury,22681,ICS,Nazrul Hussain Mazumdar,5264,17417,46.03
+ae-assam-1983,AE,Assam,1983,1983,official,9,Silchar,GEN,Cachar,55584,INC,Jagadish Chandra Choudhury,28073,IND,A. K. Nurul Haque,12917,15156,27.27
+ae-assam-1983,AE,Assam,1983,1983,official,10,Sonai,GEN,Cachar,62432,INC,Nurul Haque Choudhury,28945,ICS,Subhankar Singha,11650,17295,27.7
+ae-assam-1983,AE,Assam,1983,1983,official,11,Dholai,SC,Cachar,37986,INC,Sisir Ranjan Das,19571,IND,Mani Charan Panika,8484,11087,29.19
+ae-assam-1983,AE,Assam,1983,1983,official,12,Udharband,GEN,Cachar,43090,INC,Jagannath Singh,22098,IND,Abid Raja Majumdar,10576,11522,26.74
+ae-assam-1983,AE,Assam,1983,1983,official,13,Lakhipur,GEN,Cachar,52198,IND,Dinesh Prasad Goala,10564,INC,Rakesh Chandra Paul,8418,2146,4.11
+ae-assam-1983,AE,Assam,1983,1983,official,14,Barkhola,GEN,Cachar,50742,INC,Altaf Hossain Mazumdar,28489,ICS,Prabhas Sen Majumdar,13398,15091,29.74
+ae-assam-1983,AE,Assam,1983,1983,official,15,Katigora,GEN,Cachar,54465,INC,Nepal Chandra Das,26814,IND,Abdul Hamid Majumdar,23095,3719,6.83
+ae-assam-1983,AE,Assam,1983,1983,official,16,Haflong,ST,North Cachar Hills,28113,IND,G. C. Langthase,16313,INC,Sonaram Thaosen,11800,4513,16.05
+ae-assam-1983,AE,Assam,1983,1983,official,17,Bokajan,ST,Karbi Anglong,16647,INC,Rajen Timung,9708,IND,Rohini Kumar Dey,2175,7533,45.25
+ae-assam-1983,AE,Assam,1983,1983,official,18,Howraghat,ST,Karbi Anglong,21195,INC,Dorsingh Terang,10226,IND,Resulo Hemre Rengma,6825,3401,16.05
+ae-assam-1983,AE,Assam,1983,1983,official,19,Diphu,ST,Karbi Anglong,23126,IND,Kaizasong,7149,INC,Sertha Singh Terang,6923,226,0.98
+ae-assam-1983,AE,Assam,1983,1983,official,20,Baithalangso,ST,Karbi Anglong,21098,INC,Dhani Ram Rongpi,16523,IND,Rong Bong Kro,4575,11948,56.63
+ae-assam-1983,AE,Assam,1983,1983,official,21,Mankachar,GEN,Dhubri,48837,INC,Zahirul Islam,23066,IND,Aminul Islam,14845,8221,16.83
+ae-assam-1983,AE,Assam,1983,1983,official,22,Salmara South,GEN,Dhubri,48086,INC,Md. Bazlul Basit,29763,IND,Dewan Joynal Abedin,16561,13202,27.45
+ae-assam-1983,AE,Assam,1983,1983,official,23,Dhubri,GEN,Dhubri,43598,INC,Mohammad Umaruddin,27478,IND,Upendra Bhattacharya,10892,16586,38.04
+ae-assam-1983,AE,Assam,1983,1983,official,24,Gauripur,GEN,Dhubri,39028,INC,Joynal Abedin,28152,IND,Ramesh Chandra Roy,4259,23893,61.22
+ae-assam-1983,AE,Assam,1983,1983,official,25,Golakganj,GEN,Dhubri,39186,INC,Kabir Chandra Roypradhani,23885,CPI,Alauddin Sarkar,15301,8584,21.91
+ae-assam-1983,AE,Assam,1983,1983,official,26,Bilasipara West,GEN,Dhubri,38738,INC,Siraj Uddin,29991,CPI,Giasuddin Ahmed,8747,21244,54.84
+ae-assam-1983,AE,Assam,1983,1983,official,27,Bilasipara East,GEN,Dhubri,31707,INC,Rookmini Kanta Roye,16500,IND,Jura Ali Ahmed,8189,8311,26.21
+ae-assam-1983,AE,Assam,1983,1983,official,28,Gossaigaon,GEN,Kokrajhar,38693,INC,Mithias Tudu,16141,ICS,Samsul Haque,8570,7571,19.57
+ae-assam-1983,AE,Assam,1983,1983,official,29,Kokrajhar West,ST,Kokrajhar,45136,INC,Ranendra Narayan Basumatary,23621,PTC,Thaneswar Narzary,8399,15222,33.72
+ae-assam-1983,AE,Assam,1983,1983,official,30,Kokrajhar East,ST,Kokrajhar,40080,INC,Dambarudhar Brahma,15290,PTC,Samar Brahma Choudhury,14363,927,2.31
+ae-assam-1983,AE,Assam,1983,1983,official,31,Sidli,ST,Kokrajhar,44869,INC,Luis Islari,18516,IND,Subhas Basumatary,12448,6068,13.52
+ae-assam-1983,AE,Assam,1983,1983,official,36,Dudhnai,ST,Goalpara,8694,INC,Jagat Patgiri,6983,CPI,Sarat Rabha,1433,5550,63.84
+ae-assam-1983,AE,Assam,1983,1983,official,37,Goalpara East,GEN,Goalpara,18927,IND,Mohammad Ali,10150,INC,Ratneswar Das,7714,2436,12.87
+ae-assam-1983,AE,Assam,1983,1983,official,38,Goalpara West,GEN,Goalpara,30000,INC,Hassanuddin Ahmed,24780,IND,Ahmed Ali Sonar,4653,20127,67.09
+ae-assam-1983,AE,Assam,1983,1983,official,39,Jaleswar,GEN,Goalpara,37916,ICS,Afzalur Rahman,17962,INC,Samsul Haque,17370,592,1.56
+ae-assam-1983,AE,Assam,1983,1983,official,40,Sorbhog,GEN,Barpeta,35777,CPI(M),Hemen Das,13143,IND,Samsul Haque,11536,1607,4.49
+ae-assam-1983,AE,Assam,1983,1983,official,41,Bhabanipur,GEN,Barpeta,16563,INC,Mir Abdul Halim,7409,PTC,Garga Narayan Narzary,4392,3017,18.22
+ae-assam-1983,AE,Assam,1983,1983,official,43,Barpeta,GEN,Barpeta,27428,IND,Ismail Hussain,20796,INC,Abdul Latif,6140,14656,53.43
+ae-assam-1983,AE,Assam,1983,1983,official,44,Jania,GEN,Barpeta,37502,IND,Abdus Sobhan,12689,INC,Faizulla,6632,6057,16.15
+ae-assam-1983,AE,Assam,1983,1983,official,45,Baghbar,GEN,Barpeta,37020,INC,Ibrahimali,22123,IND,Jalal Uddin,13479,8644,23.35
+ae-assam-1983,AE,Assam,1983,1983,official,46,Sarukhetri,GEN,Barpeta,24679,INC,Amir Hamcha Talukdar,12076,IND,Sirajul Haque,9202,2874,11.65
+ae-assam-1983,AE,Assam,1983,1983,official,47,Chenga,GEN,Barpeta,27988,INC,Danes Ali,15365,IND,Liakat Khan,7806,7559,27.01
+ae-assam-1983,AE,Assam,1983,1983,official,49,Chaygaon,GEN,Kamrup,16446,INC,Harendra Nath Talukdar,9122,IND,Motlib Ali,7234,1888,11.48
+ae-assam-1983,AE,Assam,1983,1983,official,51,Jalukbari,GEN,Kamrup,5633,INC,Shah Jalal Ali,3824,CPI(M),Kamal Das,1809,2015,35.77
+ae-assam-1983,AE,Assam,1983,1983,official,52,Dispur,GEN,Kamrup,5453,INC,Tarini Mohan Barua,3564,CPI,Umesh Bhattacharyya,1291,2273,41.68
+ae-assam-1983,AE,Assam,1983,1983,official,53,Gauhati East,GEN,Kamrup,1159,INC,Munin Sarmah,687,ICS,Dhruba Narayan Barua,363,324,27.96
+ae-assam-1983,AE,Assam,1983,1983,official,54,Gauhati West,GEN,Kamrup,5528,INC,Tareni,2934,CPI(M),Praneswar Kalita,2507,427,7.72
+ae-assam-1983,AE,Assam,1983,1983,official,55,Hajo,GEN,Kamrup,6986,INC,Barkat Ullah,6634,CPI,Makibar Rahman,307,6327,90.57
+ae-assam-1983,AE,Assam,1983,1983,official,56,Kamalpur,GEN,Kamrup,1301,CPI,Mathura Deka,692,INC,Benudhar Kalita,426,266,20.45
+ae-assam-1983,AE,Assam,1983,1983,official,57,Rangiya,GEN,Kamrup,8508,CPI(M),Purna Boro,4993,PTC,Golap Chandra Basumatari,2319,2674,31.43
+ae-assam-1983,AE,Assam,1983,1983,official,58,Tamulpur,GEN,Nalbari,28155,INC,Padam Bahadur Chouhan,12566,PTC,Abiram Boro,7293,5273,18.73
+ae-assam-1983,AE,Assam,1983,1983,official,59,Nalbari,GEN,Nalbari,2240,IND,Chandradhar Kalita,574,PTC,Balen Boro,558,16,0.71
+ae-assam-1983,AE,Assam,1983,1983,official,60,Barkhetry,GEN,Nalbari,11200,INC,Seikh Chand Mahammad,7631,ICS,Md Sonabar Ali,2977,4654,41.55
+ae-assam-1983,AE,Assam,1983,1983,official,61,Dharmapur,GEN,Nalbari,266,INC,Bhumidhar Barman,266,IND,Md. Ashan Ali,0,266,100.0
+ae-assam-1983,AE,Assam,1983,1983,official,62,Barama,ST,Nalbari,9929,PTC,Alit Chandra Boro,8565,INC,Baikuntha Nath Das,1364,7201,72.52
+ae-assam-1983,AE,Assam,1983,1983,official,63,Chapaguri,ST,Barpeta,6191,PTC,Bimal Gayari,4680,INC,Ramdas Boro,1127,3553,57.39
+ae-assam-1983,AE,Assam,1983,1983,official,64,Panery,GEN,Darrang,13026,INC,Mridula Saharia,7463,PTC,Ranjit Kumar Boro,5563,1900,14.59
+ae-assam-1983,AE,Assam,1983,1983,official,68,Dalgaon,GEN,Darrang,33099,INC,Syeda Anwara Taimur,15605,ICS,Abdul Jabbar,14051,1554,4.7
+ae-assam-1983,AE,Assam,1983,1983,official,69,Udalaguri,ST,Darrang,33573,PTC,Binoy Kumar Basumtary,19741,INC,Rameswar,12728,7013,20.89
+ae-assam-1983,AE,Assam,1983,1983,official,70,Majbat,GEN,Darrang,20371,INC,Silvius Condpan,10639,PTC,Sailen Brahma,8394,2245,11.02
+ae-assam-1983,AE,Assam,1983,1983,official,73,Tezpur,GEN,Sonitpur,5822,INC,Nabin Chandra Kath Hazarika,5453,IND,Mahammad Ali,369,5084,87.32
+ae-assam-1983,AE,Assam,1983,1983,official,74,Rangapara,GEN,Sonitpur,20265,INC,Golok Rajbanshi,10920,CPI(M),Dhaniram Khosla,4553,6367,31.42
+ae-assam-1983,AE,Assam,1983,1983,official,79,Jagiroad,SC,Marigaon,2683,INC,Prasad Chandra Dalai,1804,ICS,Mohan Bangshi Sarkar,812,992,36.97
+ae-assam-1983,AE,Assam,1983,1983,official,80,Marigaon,GEN,Marigaon,1291,IND,Md. Hussain,714,INC,Kaliram Dekaraja,466,248,19.21
+ae-assam-1983,AE,Assam,1983,1983,official,82,Raha,SC,Nagaon,9981,INC,Lakhi Prasad Hazarika,9555,ICS,Jagadish Das,426,9129,91.46
+ae-assam-1983,AE,Assam,1983,1983,official,83,Dhing,GEN,Nagaon,42345,INC,Abu Nasar Ohid,36781,IND,M. Shamsul Huda,3832,32949,77.81
+ae-assam-1983,AE,Assam,1983,1983,official,84,Batadroba,GEN,Nagaon,17607,INC,Kiran Borah,12612,IND,Abdul Hussain Mir,2704,9908,56.27
+ae-assam-1983,AE,Assam,1983,1983,official,85,Rupohihat,GEN,Nagaon,37529,INC,Mohammad Idris,30259,IND,A. Jalil,6669,23590,62.86
+ae-assam-1983,AE,Assam,1983,1983,official,86,Nowgong,GEN,Nagaon,8622,INC,Mukut Sharma,8153,CPI(M),Bhupen Barbara,469,7684,89.12
+ae-assam-1983,AE,Assam,1983,1983,official,87,Barhampur,GEN,Nagaon,3748,INC,Ramesh Phukan,3370,CPI,Kehoram Hazarika,378,2992,79.83
+ae-assam-1983,AE,Assam,1983,1983,official,88,Samaguri,GEN,Nagaon,26198,ICS,Nurul Hussain,15374,INC,Deben Bora,10824,4550,17.37
+ae-assam-1983,AE,Assam,1983,1983,official,89,Kaliabor,GEN,Nagaon,9231,INC,Baloram Nag,7558,IND,Prafulla Chandra Barman,766,6792,73.58
+ae-assam-1983,AE,Assam,1983,1983,official,90,Jamunamukh,GEN,Nagaon,36863,INC,Md. Farman Ali,25135,ICS,Abdur Rahman,5410,19725,53.51
+ae-assam-1983,AE,Assam,1983,1983,official,91,Hojai,GEN,Nagaon,43357,INC,Sadhan Ranjan Sarkar,34674,CPI,Md. Aftaruddin Ahmad,6690,27984,64.54
+ae-assam-1983,AE,Assam,1983,1983,official,92,Lumding,GEN,Nagaon,29963,INC,Debesh Chakraborty,14514,CPI(M),Biresh Misra,8934,5580,18.62
+ae-assam-1983,AE,Assam,1983,1983,official,93,Bokakhat,GEN,Golaghat,1517,INC,Dharmeshwar Hazarika,1418,ICS,Tulsi Das,37,1381,91.03
+ae-assam-1983,AE,Assam,1983,1983,official,94,Sarupathar,GEN,Golaghat,2449,INC,Abdul Matlib,1993,ICS,Emile Mallar,428,1565,63.9
+ae-assam-1983,AE,Assam,1983,1983,official,95,Golaghat,GEN,Golaghat,2487,INC,Nagen Neog,2222,CPI,Lalit Hazarika,159,2063,82.95
+ae-assam-1983,AE,Assam,1983,1983,official,96,Khumtai,GEN,Golaghat,987,INC,Jiba Kanta Gogoi,934,CPI,Lakheswar Borah,53,881,89.26
+ae-assam-1983,AE,Assam,1983,1983,official,97,Dergaon,SC,Jorhat,1718,INC,Hem Prakash Narayan,1271,ICS,Sonadhar Das,411,860,50.06
+ae-assam-1983,AE,Assam,1983,1983,official,98,Jorhat,GEN,Jorhat,1227,INC,Dinanath Rajkhowa,968,CPI(M),Surendranath Hazarika,158,810,66.01
+ae-assam-1983,AE,Assam,1983,1983,official,100,Titabar,GEN,Jorhat,1691,INC,Joy Chandra Bora,1540,CPI,Giridhar Thengal,151,1389,82.14
+ae-assam-1983,AE,Assam,1983,1983,official,101,Mariani,GEN,Jorhat,7456,INC,Siba Bura Gohain,4953,ICS,Gajen Tanti,2503,2450,32.86
+ae-assam-1983,AE,Assam,1983,1983,official,102,Teok,GEN,Jorhat,1341,INC,Tilok Gogoi,1253,IND,Umesh Sarma,88,1165,86.88
+ae-assam-1983,AE,Assam,1983,1983,official,103,Amguri,GEN,Sibsagar,2016,INC,Kirti Dutta,1841,IND,Tanuram Saikia,76,1765,87.55
+ae-assam-1983,AE,Assam,1983,1983,official,104,Nazira,GEN,Sibsagar,13065,INC,Hiteswar Saikia,9005,CPI,Drupad Borgobain,2460,6545,50.1
+ae-assam-1983,AE,Assam,1983,1983,official,105,Mahmara,GEN,Sibsagar,5757,INC,Narad Kamar,4539,IND,Sonaram Kurmi,551,3988,69.27
+ae-assam-1983,AE,Assam,1983,1983,official,106,Sonari,GEN,Sibsagar,7605,INC,Satya Tati,4949,IND,Gopal Chandra Bagh,1255,3694,48.57
+ae-assam-1983,AE,Assam,1983,1983,official,107,Thowra,GEN,Sibsagar,3031,INC,Tankeswar Dehingia,2044,CPI,Jogen Gogoi,735,1309,43.19
+ae-assam-1983,AE,Assam,1983,1983,official,108,Sibsagar,GEN,Sibsagar,1034,INC,Devananda Konwer,700,CPI,Promod Gogoi,210,490,47.39
+ae-assam-1983,AE,Assam,1983,1983,official,109,Bihpuria,GEN,Lakhimpur,437,INC,Borgoram Deori,425,CPI,Subheswar Phuken,11,414,94.74
+ae-assam-1983,AE,Assam,1983,1983,official,110,Naoboicha,GEN,Lakhimpur,4115,INC,Afazuddin Ahmed,3532,IND,Opal Hazarika,247,3285,79.83
+ae-assam-1983,AE,Assam,1983,1983,official,111,Lakhimpur,GEN,Lakhimpur,3003,INC,Lekhan Lahan,2561,CPI,Sula Bora,177,2384,79.39
+ae-assam-1983,AE,Assam,1983,1983,official,112,Dhakuakhana,ST,Dhemaji,640,INC,Ragunath Pamegam,587,CPI,Lalit Pegu,35,552,86.25
+ae-assam-1983,AE,Assam,1983,1983,official,113,Dhemaji,ST,Dhemaji,358,INC,Durgeswar Patir,237,PTC,Basanta Doley,70,167,46.65
+ae-assam-1983,AE,Assam,1983,1983,official,114,Jonai,ST,Dhemaji,6748,INC,Puspadhar Pegu,3659,PTC,Umakanta Morang,2154,1505,22.3
+ae-assam-1983,AE,Assam,1983,1983,official,115,Moran,GEN,Dibrugarh,7092,INC,Joy Chandra Nagbonshi,5973,IND,Banshi Barhai,638,5335,75.23
+ae-assam-1983,AE,Assam,1983,1983,official,116,Dibrugarh,GEN,Dibrugarh,5334,INC,Keshab Chandra Gogoi,4905,ICS,Ramesh Chandra Barooah,254,4651,87.2
+ae-assam-1983,AE,Assam,1983,1983,official,117,Lahowal,GEN,Dibrugarh,10642,INC,Dipok Moormoo,8397,CPI,Sitaram Rajput,1265,7132,67.02
+ae-assam-1983,AE,Assam,1983,1983,official,121,Chabua,GEN,Tinsukia,11325,INC,Upen Sanaton,9430,IND,Ram Das,1000,8430,74.44
+ae-assam-1983,AE,Assam,1983,1983,official,122,Tinsukia,GEN,Tinsukia,16108,INC,Rajendra Nath Phukan,10175,CPI(M),Lallan Kr. Singh,4917,5258,32.64
+ae-assam-1983,AE,Assam,1983,1983,official,123,Digboi,GEN,Tinsukia,9040,INC,Rameswar Dhanowar,6530,CPI(M),Tupidhar Gogoi,1887,4643,51.36
+ae-assam-1983,AE,Assam,1983,1983,official,124,Margherita,GEN,Tinsukia,17397,INC,Kul Bahadur Chetri,11596,IND,Bholanath Sur,2534,9062,52.09
+ae-assam-1983,AE,Assam,1983,1983,official,125,Doom Dooma,GEN,Tinsukia,11818,INC,Dileswar Tanti,8531,CPI(M),Bipin Ch. Hazarika,1778,6753,57.14
+ae-assam-1983,AE,Assam,1983,1983,official,126,Sadiya,GEN,Tinsukia,3874,INC,Lambheswar Sonowal,2384,CPI(M),Gonesh Boruah,713,1671,43.13

@@ -1,0 +1,117 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-punjab-2017,AE,Punjab,2017,2017,official,1,Sujanpur,GEN,Gurdaspur,124361,BJP,Dinesh Singh,48910,INC,Amit Singh,30209,18701,15.04
+ae-punjab-2017,AE,Punjab,2017,2017,official,2,Bhoa,GEN,Gurdaspur,130637,INC,Joginder Pal,67865,BJP,Seema Kumari,40369,27496,21.05
+ae-punjab-2017,AE,Punjab,2017,2017,official,3,Pathankot,GEN,Gurdaspur,109946,INC,Amit,56383,BJP,Ashwani Kumar,45213,11170,10.16
+ae-punjab-2017,AE,Punjab,2017,2017,official,4,Gurdaspur,GEN,Gurdaspur,116797,INC,Barindermeet Singh Pahra,67709,SAD,Gurbachan Singh Babehali,38753,28956,24.79
+ae-punjab-2017,AE,Punjab,2017,2017,official,5,Dina Nagar,GEN,Gurdaspur,129294,INC,Aruna Chaudhary,72176,BJP,Bishan Dass,40259,31917,24.69
+ae-punjab-2017,AE,Punjab,2017,2017,official,6,Qadian,GEN,Gurdaspur,130876,INC,Fatehjang Singh Bajwa,62596,SAD,Sewa Singh,50859,11737,8.97
+ae-punjab-2017,AE,Punjab,2017,2017,official,7,Batala,GEN,Gurdaspur,122701,SAD,Lakhbir Singh Lodhinangal,42517,INC,Ashwani Sekhri,42032,485,0.4
+ae-punjab-2017,AE,Punjab,2017,2017,official,8,Sri Hargobindpur,GEN,Gurdaspur,123697,INC,Balwinder Singh,57489,SAD,Manjit Singh,39424,18065,14.6
+ae-punjab-2017,AE,Punjab,2017,2017,official,9,Fatehgarh Churian,GEN,Gurdaspur,123556,INC,Tript Rajinder Singh Bajwa,54348,SAD,Nirmal Singh Kahlon,52349,1999,1.62
+ae-punjab-2017,AE,Punjab,2017,2017,official,10,Dera Baba  Nanak,GEN,Gurdaspur,140035,INC,Sukhjinder Singh Randhawa,60385,SAD,Sucha Singh Langah,59191,1194,0.85
+ae-punjab-2017,AE,Punjab,2017,2017,official,11,Ajnala,GEN,Amritsar,120846,INC,Harpartap Singh,61378,SAD,Amarpal Singh Bony Ajnala,42665,18713,15.48
+ae-punjab-2017,AE,Punjab,2017,2017,official,12,Raja Sansi,GEN,Amritsar,131091,INC,Sukhbinder Singh Sarkaria,59628,SAD,Vir Singh Lopoke,53901,5727,4.37
+ae-punjab-2017,AE,Punjab,2017,2017,official,13,Majitha,GEN,Amritsar,121684,SAD,Bikram Singh Majithia,65803,INC,Sukhjinder Raj Singh (Lalli),42919,22884,18.81
+ae-punjab-2017,AE,Punjab,2017,2017,official,14,Jandiala,GEN,Amritsar,124139,INC,Sukhwinder Singh Danny Bandala,53042,SAD,Dalbir Singh,34620,18422,14.84
+ae-punjab-2017,AE,Punjab,2017,2017,official,15,Amritsar North,GEN,Amritsar,117112,INC,Sunil Dutti,59212,BJP,Anil Joshi,44976,14236,12.16
+ae-punjab-2017,AE,Punjab,2017,2017,official,16,Amritsar West,GEN,Amritsar,106563,INC,Raj Kumar Verka,52271,BJP,Rakesh Gill,25424,26847,25.19
+ae-punjab-2017,AE,Punjab,2017,2017,official,17,Amritsar Central,GEN,Amritsar,89789,INC,Om Parkash Soni,51242,BJP,Tarun Chugh,30126,21116,23.52
+ae-punjab-2017,AE,Punjab,2017,2017,official,18,Amritsar East,GEN,Amritsar,98977,INC,Navjot Singh Sidhu,60477,BJP,Rajesh Kumar Honey,17668,42809,43.25
+ae-punjab-2017,AE,Punjab,2017,2017,official,19,Amritsar South,GEN,Amritsar,92638,INC,Inderbir Singh Bolaria,47581,AAP,Inderbir Singh Nijjar,24923,22658,24.46
+ae-punjab-2017,AE,Punjab,2017,2017,official,20,Attari,GEN,Amritsar,128384,INC,Tarsem Singh D.C,55335,SAD,Gulzar Singh Ranike,45133,10202,7.95
+ae-punjab-2017,AE,Punjab,2017,2017,official,21,Tarn Taran,GEN,Amritsar,131735,INC,Dr. Dharambir Agnihotri,59794,SAD,Harmeet Singh Sandhu,45165,14629,11.1
+ae-punjab-2017,AE,Punjab,2017,2017,official,22,Khem Karan,GEN,Amritsar,153020,INC,Sukhpal Singh Bhullar,81897,SAD,Virsa Singh,62295,19602,12.81
+ae-punjab-2017,AE,Punjab,2017,2017,official,23,Patti,GEN,Amritsar,142655,INC,Harminder Singh Gill,64617,SAD,Adesh Partap Singh Kairon,56254,8363,5.86
+ae-punjab-2017,AE,Punjab,2017,2017,official,24,Khadoor Sahib,GEN,Amritsar,145542,INC,Ramanjeet Singh Sahota Sikki,64666,SAD,Ravinder Singh Brahampura,47611,17055,11.72
+ae-punjab-2017,AE,Punjab,2017,2017,official,25,Baba Bakala,GEN,Amritsar,129752,INC,Santokh Singh,45965,AAP,Dalbir Singh Tong,39378,6587,5.08
+ae-punjab-2017,AE,Punjab,2017,2017,official,26,Bholath,GEN,Kapurthala,97391,AAP,Sukhpal Singh Khaira,48873,SAD,Yuvraj Bhupinder Singh,40671,8202,8.42
+ae-punjab-2017,AE,Punjab,2017,2017,official,27,Kapurthala,GEN,Kapurthala,104886,INC,Rana Gurjit Singh,56378,SAD,Advocate Paramjit Singh,27561,28817,27.47
+ae-punjab-2017,AE,Punjab,2017,2017,official,28,Sultanpur Lodhi,GEN,Kapurthala,107866,INC,Navtej Singh Cheema,41843,SAD,Upinderjit Kaur,33681,8162,7.57
+ae-punjab-2017,AE,Punjab,2017,2017,official,29,Phagwara,GEN,Kapurthala,128755,BJP,Som Parkash,45479,INC,Joginder Singh Mann,43470,2009,1.56
+ae-punjab-2017,AE,Punjab,2017,2017,official,30,Phillaur,GEN,Jalandhar,146031,SAD,Baldev Singh Khaira,41336,INC,Vikramjit Singh Chaudhary,37859,3477,2.38
+ae-punjab-2017,AE,Punjab,2017,2017,official,31,Nakodar,GEN,Jalandhar,142283,SAD,Gurpratap Singh Wadala,56241,AAP,Sarwan Singh Hayer,37834,18407,12.94
+ae-punjab-2017,AE,Punjab,2017,2017,official,32,Shahkot,GEN,Jalandhar,134208,SAD,Ajit Singh Kohar,46913,INC,Hardev Singh Ladi,42008,4905,3.65
+ae-punjab-2017,AE,Punjab,2017,2017,official,33,Kartarpur,GEN,Jalandhar,125097,INC,Chaudhary Surinder Singh,46729,SAD,Seth Sat Paul,40709,6020,4.81
+ae-punjab-2017,AE,Punjab,2017,2017,official,34,Jalandhar West,GEN,Jalandhar,109439,INC,Sushil Kumar Rinku,53983,BJP,Mahinder Pal Bhagat,36649,17334,15.84
+ae-punjab-2017,AE,Punjab,2017,2017,official,35,Jalandhar Central,GEN,Jalandhar,105303,INC,Rajinder Beri,55518,BJP,Manoranjan Kalia,31440,24078,22.87
+ae-punjab-2017,AE,Punjab,2017,2017,official,36,Jalandhar North,GEN,Jalandhar,123309,INC,Avtar Singh Junior,69715,BJP,K D Bhandari,37424,32291,26.19
+ae-punjab-2017,AE,Punjab,2017,2017,official,37,Jalandhar Cantt.,GEN,Jalandhar,124601,INC,Pargat Singh Powar,59349,SAD,Sarabjit Singh Makkar,30225,29124,23.37
+ae-punjab-2017,AE,Punjab,2017,2017,official,38,Adampur,GEN,Jalandhar,115363,SAD,Pawan Kumar Tinu,45229,INC,Mohinder Singh Kaypee,37530,7699,6.67
+ae-punjab-2017,AE,Punjab,2017,2017,official,39,Mukerian,GEN,Hoshiarpur,134883,INC,Rajnish Kumar Babbi,56787,BJP,Arunesh Kumar,33661,23126,17.15
+ae-punjab-2017,AE,Punjab,2017,2017,official,40,Dasuya,GEN,Hoshiarpur,129626,INC,Arun Dogra,56527,BJP,Sukhjit Kaur,38889,17638,13.61
+ae-punjab-2017,AE,Punjab,2017,2017,official,41,Urmar,GEN,Hoshiarpur,124895,INC,Sangat Singh Gilzian,51477,SAD,Arbinder Singh Rasulpur,36523,14954,11.97
+ae-punjab-2017,AE,Punjab,2017,2017,official,42,Sham Chaurasi,GEN,Hoshiarpur,122991,INC,Pawan Kumar Adia,46612,AAP,Dr. Ravjot Singh,42797,3815,3.1
+ae-punjab-2017,AE,Punjab,2017,2017,official,43,Hoshiarpur,GEN,Hoshiarpur,122049,INC,Sunder Sham Arora,49951,BJP,Tikshan Sud,38718,11233,9.2
+ae-punjab-2017,AE,Punjab,2017,2017,official,44,Chabbewal,GEN,Hoshiarpur,114434,INC,Dr. Raj Kumar,57857,SAD,Sohan Singh Thandal,28596,29261,25.57
+ae-punjab-2017,AE,Punjab,2017,2017,official,45,Garhshankar,GEN,Hoshiarpur,124537,AAP,Jai Krishan,41720,SAD,Surinder Singh Heer,40070,1650,1.32
+ae-punjab-2017,AE,Punjab,2017,2017,official,46,Banga,GEN,Nawanshahr *,121775,SAD,Sukhwinder Kumar,45256,AAP,Harjot,43363,1893,1.55
+ae-punjab-2017,AE,Punjab,2017,2017,official,47,Nawanshahr,GEN,Nawanshahr *,127775,INC,Angad Singh,38197,SAD,Jarnail Singh Wahid,34874,3323,2.6
+ae-punjab-2017,AE,Punjab,2017,2017,official,48,Balachaur,GEN,Nawanshahr *,116545,INC,Darshan Lal,49558,SAD,Nand Lal,29918,19640,16.85
+ae-punjab-2017,AE,Punjab,2017,2017,official,49,Anandpur Sahib,GEN,Rupnagar,134220,INC,Kanwar Pal Singh,60800,BJP,Dr. Parminder Sharma,36919,23881,17.79
+ae-punjab-2017,AE,Punjab,2017,2017,official,50,Rupnagar,GEN,Rupnagar,129167,AAP,Amarjit Singh Sandoa,58994,INC,Brinder Singh Dhillon,35287,23707,18.35
+ae-punjab-2017,AE,Punjab,2017,2017,official,51,Chamkaur Sahib,GEN,Rupnagar,144481,INC,Charanjit Singh Channi,61060,AAP,Charanjit Singh,48752,12308,8.52
+ae-punjab-2017,AE,Punjab,2017,2017,official,52,Kharar,GEN,Rupnagar,158419,AAP,Kanwar Sandhu,54171,INC,Jagmohan Singh Kang,52159,2012,1.27
+ae-punjab-2017,AE,Punjab,2017,2017,official,53,S.A.S.Nagar,GEN,Rupnagar,139664,INC,Balbir Singh Sidhu,66844,AAP,Narinder Singh,38971,27873,19.96
+ae-punjab-2017,AE,Punjab,2017,2017,official,54,Bassi Pathana,GEN,Fatehgarh Sahib *,113153,INC,Gurpreet Singh,47319,AAP,Santokh Singh,37273,10046,8.88
+ae-punjab-2017,AE,Punjab,2017,2017,official,56,Amloh,GEN,Fatehgarh Sahib *,112613,INC,Randeep Singh,39669,SAD,Gurpreet Singh Raju Khanna,35723,3946,3.5
+ae-punjab-2017,AE,Punjab,2017,2017,official,57,Khanna,GEN,Ludhiana,125732,INC,Gurkirat Singh Kotli,55690,AAP,Anil Dutt Phally,35099,20591,16.38
+ae-punjab-2017,AE,Punjab,2017,2017,official,58,Samrala,GEN,Ludhiana,133565,INC,Amrik Singh Dhillon,51930,AAP,Sarbans Singh Manki,40925,11005,8.24
+ae-punjab-2017,AE,Punjab,2017,2017,official,59,Sahnewal,GEN,Ludhiana,165972,SAD,Sharanjit Singh Dhillon,63184,INC,Satwinder Kaur Bitti,58633,4551,2.74
+ae-punjab-2017,AE,Punjab,2017,2017,official,60,Ludhiana East,GEN,Ludhiana,129146,INC,Sanjeev Talwar,43010,AAP,Daljit Singh Grewal (Bhola),41429,1581,1.22
+ae-punjab-2017,AE,Punjab,2017,2017,official,61,Ludhiana South,GEN,Ludhiana,100769,LIP,Balvinder Singh Bains,53955,INC,Bhupinder Singh Sidhu,23038,30917,30.68
+ae-punjab-2017,AE,Punjab,2017,2017,official,62,Atam Nagar,GEN,Ludhiana,105636,LIP,Simarjeet Singh Bains,53421,INC,Kamal Jit Singh Karwal,36508,16913,16.01
+ae-punjab-2017,AE,Punjab,2017,2017,official,63,Ludhiana Central,GEN,Ludhiana,101948,INC,Surinder Kumar Dawar,47871,BJP,Gurdev Sharma Debi,27391,20480,20.09
+ae-punjab-2017,AE,Punjab,2017,2017,official,64,Ludhiana West,GEN,Ludhiana,121282,INC,Bharat Bhushan (Ashu),66627,AAP,Ahbaab Singh Grewal,30106,36521,30.11
+ae-punjab-2017,AE,Punjab,2017,2017,official,65,Ludhiana North,GEN,Ludhiana,123250,INC,Rakesh Pandey,44864,BJP,Parveen Bansal,39732,5132,4.16
+ae-punjab-2017,AE,Punjab,2017,2017,official,66,Gill,GEN,Ludhiana,179577,INC,Kuldeep Singh Vaid(Bulara),67927,AAP,Jiwan Singh Sangowal,59286,8641,4.81
+ae-punjab-2017,AE,Punjab,2017,2017,official,67,Payal,GEN,Ludhiana,130744,INC,Lakhvir Singh Lakha,57776,AAP,Gurpreet Singh Lapran,36280,21496,16.44
+ae-punjab-2017,AE,Punjab,2017,2017,official,68,Dakha,GEN,Ludhiana,145306,AAP,Harvinder Singh Phoolka,58923,SAD,Manpreet Singh Ayali,54754,4169,2.87
+ae-punjab-2017,AE,Punjab,2017,2017,official,69,Raikot,GEN,Ludhiana,117046,AAP,Jagtar Singh Jagga Hissowal,48245,INC,Amar Singh,37631,10614,9.07
+ae-punjab-2017,AE,Punjab,2017,2017,official,70,Jagraon,GEN,Ludhiana,134662,AAP,Saravjit Kaur Manuke,61521,INC,Malkit Singh Dakha,35945,25576,18.99
+ae-punjab-2017,AE,Punjab,2017,2017,official,71,Nihal Singhwala,GEN,Moga *,150363,AAP,Manjit Singh,67313,INC,Rajwinder Kaur,39739,27574,18.34
+ae-punjab-2017,AE,Punjab,2017,2017,official,72,Bhagha Purana,GEN,Moga *,137153,INC,Darshan Singh Brar,48668,AAP,Gurbinder Singh Kang,41418,7250,5.29
+ae-punjab-2017,AE,Punjab,2017,2017,official,73,Moga,GEN,Moga *,144678,INC,Harjot Kamal Singh,52357,AAP,Ramesh Grover,50593,1764,1.22
+ae-punjab-2017,AE,Punjab,2017,2017,official,74,Dharamkot,GEN,Moga *,142987,INC,Sukhjit Singh,63238,SAD,Tota Singh,41020,22218,15.54
+ae-punjab-2017,AE,Punjab,2017,2017,official,75,Zira,GEN,Firozpur,150751,INC,Kulbir Singh,69899,SAD,Hari Singh Zira,46828,23071,15.3
+ae-punjab-2017,AE,Punjab,2017,2017,official,76,Firozpur City,GEN,Firozpur,124516,INC,Parminder Singh Pinki,67559,BJP,Sukhpal Singh,37972,29587,23.76
+ae-punjab-2017,AE,Punjab,2017,2017,official,77,Firozpur Rural,GEN,Firozpur,155792,INC,Satkar Kaur,71037,SAD,Joginder Singh Jindu,49657,21380,13.72
+ae-punjab-2017,AE,Punjab,2017,2017,official,78,Guru Har Sahai,GEN,Firozpur,136574,INC,Gurmeet Singh Sodhi,62787,SAD,Vardev Singh,56991,5796,4.24
+ae-punjab-2017,AE,Punjab,2017,2017,official,79,Jalalabad,GEN,Firozpur,167937,SAD,Sukhbir Singh Badal,75271,AAP,Bhagwant Mann,56771,18500,11.02
+ae-punjab-2017,AE,Punjab,2017,2017,official,80,Fazilka,GEN,Firozpur,142404,INC,Davinder Singh Ghubaya,39276,BJP,Surjit Kumar Jyani,39011,265,0.19
+ae-punjab-2017,AE,Punjab,2017,2017,official,81,Abohar,GEN,Firozpur,123917,BJP,Arun Narang,55091,INC,Sunil Jakhar,51812,3279,2.65
+ae-punjab-2017,AE,Punjab,2017,2017,official,82,Balluana,GEN,Firozpur,141561,INC,Nathu Ram,65607,SAD,Parkash Singh Bhatti,50158,15449,10.91
+ae-punjab-2017,AE,Punjab,2017,2017,official,83,Lambi,GEN,Muktsar *,132886,SAD,Parkash Singh,66375,INC,Amarinder Singh,43605,22770,17.13
+ae-punjab-2017,AE,Punjab,2017,2017,official,84,Gidderbaha,GEN,Muktsar *,138342,INC,Amrinder Singh @ Raja Warring,63500,SAD,Hardeep Singh @ Dimpy Dhillon,47288,16212,11.72
+ae-punjab-2017,AE,Punjab,2017,2017,official,85,Malout,GEN,Muktsar *,135295,INC,Ajaib Singh Bhatti,49098,SAD,Darshan Singh,44109,4989,3.69
+ae-punjab-2017,AE,Punjab,2017,2017,official,86,Muktsar,GEN,Muktsar *,146226,SAD,Kanwarjit Singh,44894,INC,Karan Kaur,36914,7980,5.46
+ae-punjab-2017,AE,Punjab,2017,2017,official,87,Faridkot,GEN,Faridkot,125661,INC,Kusaldeep Singh Kiki Dhillon,51026,AAP,Gurdit Singh Sekhon,39367,11659,9.28
+ae-punjab-2017,AE,Punjab,2017,2017,official,88,Kotkapura,GEN,Faridkot,121629,AAP,Kultar Singh Sandhwan,47401,INC,Bhai Harnirpal Singh Kukku,37326,10075,8.28
+ae-punjab-2017,AE,Punjab,2017,2017,official,89,Jaitu,GEN,Faridkot,119167,AAP,Baldev Singh,45344,INC,Mohammad Sadique,35351,9993,8.39
+ae-punjab-2017,AE,Punjab,2017,2017,official,90,Rampura Phul,GEN,Bathinda,136162,INC,Gurpreet Singh Kangar,55269,SAD,Sikander Singh Maluka,44884,10385,7.63
+ae-punjab-2017,AE,Punjab,2017,2017,official,91,Bhucho Mandi,GEN,Bathinda,150897,INC,Pritam Singh Kotbhai,51605,AAP,Jagsir Singh,50960,645,0.43
+ae-punjab-2017,AE,Punjab,2017,2017,official,92,Bathinda Urban,GEN,Bathinda,150184,INC,Manpreet Singh Badal,63942,AAP,Deepak Bansal,45462,18480,12.3
+ae-punjab-2017,AE,Punjab,2017,2017,official,93,Bathinda Rural,GEN,Bathinda,125861,AAP,Rupinder Kaur Ruby,51572,SAD,Er. Amit Rattan Kotfatta,40794,10778,8.56
+ae-punjab-2017,AE,Punjab,2017,2017,official,94,Talwandi Sabo,GEN,Bathinda,127848,AAP,Prof. Baljinder Kaur,54553,INC,Khushbaz Singh Jatana,35260,19293,15.09
+ae-punjab-2017,AE,Punjab,2017,2017,official,95,Maur,GEN,Bathinda,136740,AAP,Jagdev Singh,62282,SAD,Janmeja Singh Sekhon,47605,14677,10.73
+ae-punjab-2017,AE,Punjab,2017,2017,official,96,Mansa,GEN,Mansa *,173073,AAP,Nazar Singh Manshahia,70586,INC,Manoj Bala,50117,20469,11.83
+ae-punjab-2017,AE,Punjab,2017,2017,official,97,Sardulgarh,GEN,Mansa *,152600,SAD,Dilraj Singh,59420,INC,Ajit Inder Singh,50563,8857,5.8
+ae-punjab-2017,AE,Punjab,2017,2017,official,98,Budhlada,GEN,Mansa *,161466,AAP,Budh Ram,52265,INC,Ranjit Kaur Bhatti,50989,1276,0.79
+ae-punjab-2017,AE,Punjab,2017,2017,official,99,Lehra,GEN,Sangrur,137242,SAD,Parminder Singh Dhindsa,65550,INC,Rajinder Kaur Bhattal,38735,26815,19.54
+ae-punjab-2017,AE,Punjab,2017,2017,official,100,Dirba,GEN,Sangrur,144523,AAP,Harpal Singh Cheema,46434,INC,Ajaib Singh Ratolan,44789,1645,1.14
+ae-punjab-2017,AE,Punjab,2017,2017,official,101,Sunam,GEN,Sangrur,153688,AAP,Aman Arora,72815,SAD,Gobind Singh Longowal,42508,30307,19.72
+ae-punjab-2017,AE,Punjab,2017,2017,official,102,Bhadaur,GEN,Sangrur,126462,AAP,Pirmal Singh Dhaula,57095,SAD,Sant Balvir Singh Ghunas,36311,20784,16.43
+ae-punjab-2017,AE,Punjab,2017,2017,official,103,Barnala,GEN,Sangrur,133263,AAP,Gurmeet Singh Meet Haher,47606,INC,Kewal Singh Dhillon,45174,2432,1.82
+ae-punjab-2017,AE,Punjab,2017,2017,official,104,Mehal Kalan,GEN,Sangrur,124783,AAP,Kulwant Singh Pandori,57551,SAD,Ajit Singh Shant,30487,27064,21.69
+ae-punjab-2017,AE,Punjab,2017,2017,official,105,Malerkotla,GEN,Sangrur,125652,INC,Razia Sultana,58982,SAD,Mohammad Owais,46280,12702,10.11
+ae-punjab-2017,AE,Punjab,2017,2017,official,106,Amargarh,GEN,Sangrur,130703,INC,Surjit Singh Dhiman,50994,SAD,Iqbal Singh Jhundan,39115,11879,9.09
+ae-punjab-2017,AE,Punjab,2017,2017,official,107,Dhuri,GEN,Sangrur,127763,INC,Dalvir Singh Goldy,49347,AAP,Jasvir Singh Jassi Sekhon,46536,2811,2.2
+ae-punjab-2017,AE,Punjab,2017,2017,official,108,Sangrur,GEN,Sangrur,142013,INC,Vijay Inder Singla,67310,AAP,Dinesh Bansal,36498,30812,21.7
+ae-punjab-2017,AE,Punjab,2017,2017,official,109,Nabha,GEN,Patiala,141152,INC,Sadhu Singh,60861,AAP,Gurdev Singh Dev Mann,41866,18995,13.46
+ae-punjab-2017,AE,Punjab,2017,2017,official,110,Patiala Rural,GEN,Patiala,145504,INC,Brahm Mohindra,68891,AAP,Karanvir Singh Tiwana,41662,27229,18.71
+ae-punjab-2017,AE,Punjab,2017,2017,official,111,Rajpura,GEN,Patiala,127047,INC,Hardial Singh Kamboj,59107,AAP,Ashutosh Joshi,26542,32565,25.63
+ae-punjab-2017,AE,Punjab,2017,2017,official,112,Dera Bassi,GEN,Patiala,176795,SAD,Narinder Kumar Sharma,70792,INC,Deepinder Singh,68871,1921,1.09
+ae-punjab-2017,AE,Punjab,2017,2017,official,113,Ghanaur,GEN,Patiala,124650,INC,Thekedar Madan Lal Jalalpur,65965,SAD,Harpreet Kaur Mukhmailpur,29408,36557,29.33
+ae-punjab-2017,AE,Punjab,2017,2017,official,114,Sanour,GEN,Patiala,164022,SAD,Harinder Pal Singh Chandumajra,58867,INC,Harinder Pal Singh Mann,53997,4870,2.97
+ae-punjab-2017,AE,Punjab,2017,2017,official,115,Patiala,GEN,Patiala,105208,INC,Amarinder Singh,72586,AAP,Dr.Balbir Singh,20179,52407,49.81
+ae-punjab-2017,AE,Punjab,2017,2017,official,116,Samana,GEN,Patiala,148174,INC,Rajinder Singh,62551,SAD,Surjit Singh Rakhra,52702,9849,6.65
+ae-punjab-2017,AE,Punjab,2017,2017,official,117,Shutrana,GEN,Patiala,137762,INC,Nirmal Singh,58008,SAD,Vaninder Kaur Loomba,39488,18520,13.44

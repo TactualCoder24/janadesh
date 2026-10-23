@@ -1,0 +1,88 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,1,Karnah,GEN,,23788,JKPDP,Raja Manzoor Ahmad,11359,JKNC,Kifil Ur Rehman Khan,6056,5303,22.29
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,2,Kupwara,GEN,,61554,JKPC,Bashir Ahmad Dar,21218,JKPDP,Mir Mohd Fayaz,21088,130,0.21
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,3,Lolab,GEN,,63612,JKPDP,Abdul Haq Khan,26119,JKNC,Qaysar Jamshaid Lone,23575,2544,4.0
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,4,Handwara,GEN,,63940,JKPC,Sajjad Gani Lone,27616,JKNC,Ch. Mohd. Ramzan,22513,5103,7.98
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,5,Langate,GEN,,40384,IND,Sheikh Abdul Rashid,14332,JKPDP,Ghulam Nabi Ganai,12358,1974,4.89
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,6,Uri,GEN,,59824,JKNC,Md. Shafi,23481,JKPDP,Aijaz Ali Khan,17899,5582,9.33
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,7,Rafiabad,GEN,,40764,JKPDP,Yawar Ahmad Mir,13171,INC,Abdul Gani Vakil,11455,1716,4.21
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,8,Sopore,GEN,,19973,INC,Abdul Rashid Dar,5269,JKPDP,Nazir Ahmad Naikoo,3547,1722,8.62
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,9,Gurez,GEN,,12628,JKNC,Nazir Ahmad Khan,6099,INC,Faqir Mohmad Khan,5968,131,1.04
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,10,Bandipora,GEN,,55425,INC,Usman Abdul Majid,20890,JKPDP,Nizamuddin Bhat,17769,3121,5.63
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,11,Sonawari,GEN,,56086,JKNC,Md. Akbar Lone,22732,JKPDP,Yasir Reshi,22446,286,0.51
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,12,Sangrama,GEN,,30828,JKPDP,Basharat Ah. Bukhari,9671,INC,Shuib Nabi Lone,8274,1397,4.53
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,13,Baramulla,GEN,,26999,JKPDP,Javid Hassan Baig,11812,JKNC,Gh. Hassan Rahi,6064,5748,21.29
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,14,Gulmarg,GEN,,54978,JKPDP,Mohd. Abass Wani,18588,OTH,Ghulam Hassan Mir,16312,2276,4.14
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,15,Pattan,GEN,,44878,JKPDP,Imran Reza Ansari,18135,JKNC,Aga Syed Al Mosavi,10156,7979,17.78
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,16,Kangan,GEN,,38733,JKNC,Altaf Ahmad,18251,JKPDP,Bashir Ahmad Mir,17236,1015,2.62
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,17,Ganderbal,GEN,,44141,JKNC,Ishfaq Ahmad Sk.,16058,JKPDP,Qazi Md. Afzal,15569,489,1.11
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,18,Hazratbal,GEN,,27406,JKPDP,Asiya Naqash,12297,JKNC,Mohd. Syed Akhoon,9137,3160,11.53
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,19,Zadibal,GEN,,13775,JKPDP,Abid Hussain Ansari,5876,JKNC,Peer Afaq Ahmad,3630,2246,16.3
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,20,Eidgah,GEN,,13736,JKNC,Mubarak Gul,5684,JKPDP,Ali Mohammad Wani,5173,511,3.72
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,21,Khanyar,GEN,,9439,JKNC,Ali Md. Sagar,4602,JKPDP,Md. Khurshid Alam,3776,826,8.75
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,22,Habba Kadal,GEN,,6397,JKNC,Shamim Firdous,2712,BJP,Moti Koul,1421,1291,20.18
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,23,Amira Kadal,GEN,,12479,JKPDP,Altaf Bukhari,6810,JKNC,Nasir Aslam Wani,3708,3102,24.86
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,24,Sonawar,GEN,,27555,JKPDP,Md. Ashraf Mir,11540,JKNC,Omar Abdullah,7674,3866,14.03
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,25,Batmaloo,GEN,,23361,JKPDP,Noor Mohd Sheikh,9942,JKNC,Mohd Irfan Shah,6513,3429,14.68
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,26,Chadoora,GEN,,43627,JKPDP,Javaid Mustafa Mir,21054,JKNC,Ali Md. Dar,19671,1383,3.17
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,27,Budgam,GEN,,54255,JKNC,Aga Syed Ruhullah,23742,JKPDP,Gh. Moinuddin Bhat,21545,2197,4.05
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,28,Beerwah,GEN,,53206,JKNC,Omar Abdullah,18186,INC,Nazir Ahmad Khan,17483,703,1.32
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,29,Khan Sahib,GEN,,59786,OTH,Hakeem Yasin,22814,JKPDP,Saif Ud Din Bhat,21870,944,1.58
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,30,Chrar-I-Sharief,GEN,,56408,JKPDP,Ghulam Nabi Lone,28683,JKNC,Ab. Rahim Rather,24171,4512,8.0
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,31,Tral,GEN,,40474,JKPDP,Mushtaq Ahmad Shah,15607,JKNC,Mohd. Ashraf Bhat,10442,5165,12.76
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,32,Pampore,GEN,,33454,JKPDP,Zahoor Ahmad Mir,14847,JKNC,Yawar Ali Abass Masoodi,11649,3198,9.56
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,33,Pulwama,GEN,,32359,JKPDP,Mohd. Khalil Band,12474,JKNC,Ghulam Nabi Ratanpuri,11367,1107,3.42
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,34,Rajpora,GEN,,44906,JKPDP,Haseeb Drabu,16593,JKNC,Ghulam Mohiuddin Mir,12677,3916,8.72
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,35,Wachi,GEN,,37412,JKPDP,Aijaz Ahmad Mir,15889,JKNC,Showkat Hussain Ganie,14052,1837,4.91
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,36,Shopian,GEN,,41798,JKPDP,Md. Yousuf Bhat,14295,IND,Shabir Ahmad Kullay,11921,2374,5.68
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,37,Noorabad,GEN,,51097,JKPDP,Ab. Majid Padder,24710,JKNC,Sakina Itoo,21517,3193,6.25
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,38,Kulgam,GEN,,55608,CPI(M),Md. Yousuf Tarigami,21515,JKPDP,Nazir Ahmad Laway,21165,350,0.63
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,39,Hom Shali Bugh,GEN,,40251,JKNC,Ab. Majeed,16100,JKPDP,Abdul Gaffar Sofi,14309,1791,4.45
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,40,Anantnag,GEN,,34920,JKPDP,Mufti Md. Sayeed,17879,INC,Hilal Ahmad Shah,11534,6345,18.17
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,41,Devsar,GEN,,58659,INC,Md. Amin Bhat,20578,JKPDP,Md. Sartaj Madni,19035,1543,2.63
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,42,Dooru,GEN,,48618,JKPDP,Farooq Ahmad Andrabi,18270,INC,Ghulam Ahmad Mir,18105,165,0.34
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,43,Kokernag,GEN,,55462,JKPDP,Ab. Rahim Rather,23460,INC,Peerzada Md. Syed,19040,4420,7.97
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,44,Shangus,GEN,,54869,INC,Gulzar Ahmad Wani,20345,JKPDP,Peerzada M. Hussain,18233,2112,3.85
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,45,Bijbehara,GEN,,51828,JKPDP,Abdul Rehman Veeri,25287,JKNC,Bashir Ahmad Shah,22208,3079,5.94
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,46,Pahalgam,GEN,,54692,JKNC,Altaf Ahmad Wani,24430,JKPDP,Rafi Ahmad Mir,23555,875,1.6
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,47,Nubra,GEN,,9554,INC,Deldan Namgail,3630,JKNC,Tsetan Namgyal,2138,1492,15.62
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,48,Leh,GEN,,41726,INC,Nawang Rigzin Jora,23901,BJP,Chering Dorjay,17250,6651,15.94
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,49,Kargil,GEN,,47400,INC,Asgar Ali Karbalai,23941,JKPDP,Anayat Ali,12964,10977,23.16
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,50,Zanskar,GEN,,16242,IND,Syed Md. Baqir Rizvi,7015,INC,Ghulam Raza,6429,586,3.61
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,51,Kishtwar,GEN,,56931,BJP,Sunil Kumar Sharma,25830,JKNC,Sajjad Ahmad Kichloo,23205,2625,4.61
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,52,Inderwal,GEN,,58928,INC,Ghulam Md. Saroori,27655,BJP,Tariq Hussain Keen,16158,11497,19.51
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,53,Doda,GEN,,57864,BJP,Shakti Raj Parihar,21195,INC,Abdul Majid Wani,17712,3483,6.02
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,54,Bhaderwah,GEN,,67440,BJP,Daleep Singh Parihar,23827,INC,Mohd Sharief Niaz,22451,1376,2.04
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,55,Ramban,SC,,55536,BJP,Neelam Kumar Langeh,23492,JKNC,Dr. Chaman Lal,18521,4971,8.95
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,56,Banihal,GEN,,52860,INC,Vikar Rasool Wani,16202,JKPDP,Bashir Ahmed Runyal,12211,3991,7.55
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,57,Gulab Garh,GEN,,50560,INC,Mumtaz Ahmed,16180,JKNC,Ab. Ghani Malik,14546,1634,3.23
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,58,Reasi,GEN,,77973,BJP,Ajay Nanda,19696,IND,Saraf Singh,18004,1692,2.17
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,59,Gool Arnas,GEN,,46656,INC,Ajaz Ahmad Khan,21107,BJP,Kuldeep Raj Dubey,14785,6322,13.55
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,60,Udhampur,GEN,,78891,IND,Pawan Kumar Gupta,33584,JKNPP,Balwant Singh Mankotia,20007,13577,17.21
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,61,Chenani,SC,,50863,BJP,Dina Nath Bhagat,25518,INC,Krishan Chander,9817,15701,30.87
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,62,Ram Nagar,GEN,,71912,BJP,Ranbir Singh Pathania,40063,JKNPP,Harsh Dev Singh,24853,15210,21.15
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,63,Bani,GEN,,30933,BJP,Jewan Lal,12107,JKNC,Ghulam Hyder Malik,7947,4160,13.45
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,64,Basohli,GEN,,52364,BJP,Lal Singh,27790,JKNC,Davinder Singh,11195,16595,31.69
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,65,Kathua,GEN,,82111,BJP,Rajiv Jasrotia,32114,BSP,Som Raj Majotra,25988,6126,7.46
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,66,Billawar,GEN,,68970,BJP,Nirmal Kumar Singh,40210,INC,Manohar Lal Sharma,23574,16636,24.12
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,67,Hira Nagar,SC,,71704,BJP,Kuldeep Raj,49583,INC,Girdhari Lal Chalotra,14419,35164,49.04
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,68,Samba,SC,,59752,BJP,Devinder Kumar Manyal,31716,JKNPP,Yash Paul Kundal,11132,20584,34.45
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,69,Vijay Pur,GEN,,85930,BJP,Chander Prakash,37337,JKNC,Surjeet Slathia,25564,11773,13.7
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,70,Nagrota,GEN,,54273,JKNC,Devender Singh Rana,21183,BJP,Nand Kishore,17558,3625,6.68
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,71,Gandhi Nagar,GEN,,102142,BJP,Kavinder Gupta,52266,INC,Raman Bhalla,36792,15474,15.15
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,72,Jammu East,GEN,,34769,BJP,Rajesh Gupta,21449,INC,Vikram Malhotra,8946,12503,35.96
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,73,Jammu West,GEN,,94422,BJP,Sat Paul Sharma,66690,INC,Surinder Singh Shingari,18195,48495,51.36
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,74,Bishnah,GEN,,69478,JKNC,Kamal Verma,28917,BJP,Ashwani Sharma,25978,2939,4.23
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,75,Ranbir Singh Pura,SC,,60897,BJP,Gagan Bhagat,25363,JKPDP,Bushan Lal,11930,13433,22.06
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,76,Suchet Garh,GEN,,50643,BJP,Sham Lal Choudhary,19659,JKNC,Taranjit Singh Toni,10387,9272,18.31
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,77,Marh,GEN,,58108,BJP,Sukh Nandan Kumar,24609,JKNC,Ajay Sadhotra,13359,11250,19.36
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,78,Raipur Domana,SC,,66553,BJP,Bali Bhagat,44585,INC,Mula Ram,15421,29164,43.82
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,79,Akhnoor,GEN,,73024,BJP,Rajeev Sharma,38841,INC,Sham Lal Sharma,30152,8689,11.9
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,80,Chhamb,SC,,57801,BJP,Kirshan Lal,34987,INC,Tara Chand,20629,14358,24.84
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,81,Nowshera,GEN,,69135,BJP,Ravinder Raina,34229,JKPDP,Surinder Choudhary,25525,8704,12.59
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,82,Darhal,GEN,,75329,JKPDP,Ch. Zulfkar Ali,23789,JKNC,Ch. Liaqat Ali,18840,4949,6.57
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,83,Rajouri,GEN,,81446,JKPDP,Qamar Hussain,24947,BJP,Ch. Talib Hussain,22642,2305,2.83
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,84,Kala Kote,GEN,,61519,BJP,Abdul Ghani Kohli,23457,JKNC,Rachhpal Singh,17711,5746,9.34
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,85,Surankote,GEN,,70452,INC,Ch. Mohd Akram,32725,JKNC,Mushtaq Ahmad Shah,24095,8630,12.25
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,86,Mendhar,GEN,,67577,JKNC,Javed Ahmed Rana,32268,JKPDP,Mohd Mahroof Khan,22929,9339,13.82
+ae-jammu-kashmir-2014,AE,Jammu & Kashmir,2014,2014,official_winners_only,87,Poonch Haveli,GEN,,79170,JKPDP,Shah Mohd. Tantray,20244,JKNC,Ajaz Ahmed Jan,16594,3650,4.61

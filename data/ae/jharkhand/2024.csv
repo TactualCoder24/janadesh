@@ -1,0 +1,82 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,1,Rajmahal,GEN,Sahibganj,174707,JMM,Md. Tajuddin,93765,BJP,Anant Kumar Ojha,64711,29054,16.63
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,2,Borio,ST,Sahibganj,146282,JMM,Dhananjay Soren,74297,BJP,Lobin Hembrom,59581,14716,10.06
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,3,Barhait,ST,Sahibganj,130207,JMM,Hemant Soren,76757,BJP,Gamliyel Hembrom,44817,31940,24.53
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,4,Litipara,ST,Pakaur,121920,JMM,Hemlal Murmu,65800,BJP,Babudhan Murmu,45903,19897,16.32
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,5,Pakur,GEN,Sahibganj,217100,INC,Nisat Alam,113478,AJSU,Azhar Islam,50823,62655,28.86
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,6,Maheshpur,ST,Pakaur,145714,JMM,Stephen Marandi,86889,BJP,Navneet Anthony Hembrom,40639,46250,31.74
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,7,Sikaripara,ST,Dumka,138191,JMM,Alok Kumar Soren,81021,BJP,Paritosh Soren,48381,32640,23.62
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,8,Nala,GEN,Jamtara,155917,JMM,Rabindra Nath Mahato,73421,BJP,Madhav Chandra Mahato,65111,8310,5.33
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,9,Jamtara,GEN,Jamtara,172939,INC,Irfan Ansari,94459,BJP,Sita Soren,63503,30956,17.9
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,10,Dumka,ST,Dumka,145517,JMM,Basant Soren,74694,BJP,Sunil Soren,63300,11394,7.83
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,11,Jama,ST,Dumka,125797,JMM,Lois Marandi,58986,BJP,Suresh Murmu,54558,4428,3.52
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,12,Jarmundi,GEN,Dumka,148984,BJP,Devendra Kunwar,72600,INC,Badal Patralekh,59177,13423,9.01
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,13,Madhupur,GEN,Deoghar,189397,JMM,Hafizul Hasan,96536,BJP,Ganga Narayan Singh,83107,13429,7.09
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,14,Sarath,GEN,Deoghar,174063,JMM,Uday Shankar Singh,94551,BJP,Randhir Kumar Singh,68372,26179,15.04
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,15,Deoghar,SC,Deoghar,174896,RJD,Suresh Paswan,93622,BJP,Narayan Das,69801,23821,13.62
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,16,Poreyahat,GEN,Godda,178581,INC,Pradeep Yadav,94469,BJP,Devendranath Singh,67111,27358,15.32
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,17,Godda,GEN,Godda,179604,RJD,Sanjay Prasad Yadav,89012,BJP,Amit Kumar Mandal,71554,17458,9.72
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,18,Mahagama,GEN,Godda,180557,INC,Dipika Pandey Singh,92139,BJP,Ashok Kumar,77080,15059,8.34
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,19,Kodarma,GEN,Kodarma,189108,BJP,Neera Yadav,63710,RJD,Subhash Yadav,59437,4273,2.26
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,20,Barkatha,GEN,Kodarma,182335,BJP,Amit Kumar Yadav,59751,JMM,Janki Prasad Yadav,57089,2662,1.46
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,21,Barhi,GEN,Hazaribag,165614,BJP,Manoj Yadav,84612,INC,Arun Sahu,47796,36816,22.23
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,22,Barkagaon,GEN,Hazaribag,191556,BJP,Roshan Lal Choudhary,89744,INC,Amba Prasad Sahu,67102,22642,11.82
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,23,Ramgarh,GEN,Hazaribag,200573,INC,Mamta Devi,69218,AJSU,Sunita Choudhary,63983,5235,2.61
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,24,Mandu,GEN,Hazaribag,216684,AJSU,Nirmal Mahto,69014,INC,Jai Prakash Bhai Patel,68841,173,0.08
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,25,Hazaribagh,GEN,Hazaribag,188973,BJP,Pradip Prasad,98096,INC,Munna Singh,67520,30576,16.18
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,26,Simaria,SC,Chatra,169015,BJP,Kumar Ujjwal,75161,JMM,Manoj Kumar Chandra,72474,2687,1.59
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,27,Chatra,SC,Chatra,169760,LJPRV,Janardan Paswan,68889,RJD,Rashmi Prakash,57260,11629,6.85
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,28,Dhanwar,GEN,Giridih,187008,BJP,Babulal Marandi,84808,JMM,Nizam Uddin Ansari,56533,28275,15.12
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,29,Bagodar,GEN,Giridih,191141,BJP,Nagendra Mahto,95991,CPIML,Vinod Kumar Singh,71429,24562,12.85
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,30,Jamua,SC,Giridih,162164,BJP,Manju Kumari,86596,JMM,Kedar Hazra,62563,24033,14.82
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,31,Gandey,GEN,Giridih,168223,JMM,Kalpana Soren,84969,BJP,Muniya Devi,72773,12196,7.25
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,32,Giridih,GEN,Giridih,140700,JMM,Sudivya Kumar Sonu,63709,BJP,Nirbhay Shahbadi,61106,2603,1.85
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,33,Dumri,GEN,Giridih,127204,JLKM,Jairam Kumar Mahato,53171,JMM,Baby Devi,47015,6156,4.84
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,34,Gomia,GEN,Bokaro,173065,JMM,Yogendra Prasad,73016,JLKM,Puja Kumari,45326,27690,16.0
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,35,Bermo,GEN,Bokaro,180079,INC,Kumar Jaimangal Singh,72644,JLKM,Jairam Kumar Mahato,48999,23645,13.13
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,36,Bokaro,GEN,Bokaro,255995,INC,Shwettaa Singh,108388,BJP,Biranchi Narayan,102526,5862,2.29
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,37,Chandankiyari,SC,Bokaro,154233,JMM,Umakant Rajak,65642,JLKM,Arjun Rajwar,41041,24601,15.95
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,38,Sindri,GEN,Dhanbad,180083,CPIML,Chandradeo Mahato,71385,BJP,Tara Devi,69044,2341,1.3
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,39,Nirsa,GEN,Dhanbad,202111,CPIML,Arup Chatterjee,88403,BJP,Aparna Sengupta,86867,1536,0.76
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,40,Dhanbad,GEN,Dhanbad,203883,BJP,Raj Sinha,109893,INC,Ajay Dubey,70605,39288,19.27
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,41,Jharia,GEN,Dhanbad,155632,BJP,Ragini Singh,80104,INC,Purnima Niraj Singh,66875,13229,8.5
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,42,Tundi,GEN,Dhanbad,173819,JMM,Mathura Prasad Mahato,71770,BJP,Vikash Mahato,52528,19242,11.07
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,43,Baghmara,GEN,Dhanbad,177822,BJP,Shatrughan Mahto,77975,INC,Jaleshwar Mahato,61331,16644,9.36
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,44,Baharagora,GEN,Purbi Singhbhum,176431,JMM,Samir Mohanty,89362,BJP,Dineshananda Goswami,72637,16725,9.48
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,45,Ghatsila,ST,Purbi Singhbhum,162752,JMM,Ramdas Soren,83817,BJP,Babulal Soren,64694,19123,11.75
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,46,Potka,ST,Purbi Singhbhum,169652,JMM,Sanjib Sardar,88169,BJP,Meera Munda,67725,20444,12.05
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,47,Jugsalai,SC,Purbi Singhbhum,191945,JMM,Mangal Kalindi,92633,AJSU,Ram Chandra Sahis,59445,33188,17.29
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,48,Jamshedpur East,GEN,Purbi Singhbhum,143339,BJP,Purnima Sahu,77962,INC,Ajoy Kumar,46772,31190,21.76
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,49,Jamshedpur West,GEN,Purbi Singhbhum,157659,JDU,Saryu Roy,73690,INC,Banna Gupta,68093,5597,3.55
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,50,Ichagarh,GEN,Saraikela,181822,JMM,Sabita Mahato,61638,AJSU,Hare Lal Mahato,40564,21074,11.59
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,51,Seraikella,ST,Saraikela,191343,BJP,Champai Soren,84708,JMM,Ganesh Mahali,70204,14504,7.58
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,52,Chaibasa,ST,Pachim Singhbhum,132177,JMM,Deepak Birua,85770,BJP,Geeta Balmuchu,33970,51800,39.19
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,53,Majhgaon,ST,Pachim Singhbhum,124199,JMM,Niral Purty,75712,BJP,Barkuwar Gagrai,27783,47929,38.59
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,54,Jaganathpur,ST,Pachim Singhbhum,105410,INC,Sona Ram Sinku,43102,BJP,Geeta Koda,37526,5576,5.29
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,55,Manoharpur,ST,Pachim Singhbhum,124687,JMM,Jagat Majhi,64251,AJSU,Dinesh Chandra Boipai,36134,28117,22.55
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,56,Chakradharpur,ST,Pachim Singhbhum,123083,JMM,Sukhram Oraon,50021,BJP,Shashibhushan Samad,42082,7939,6.45
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,57,Kharsawan,ST,Saraikela,143760,JMM,Dashrath Gagrai,67912,BJP,Sonaram Bodra,42093,25819,17.96
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,58,Tamar,ST,Ranchi,114539,JMM,Vikash Kumar Munda,46136,JDU,Gopal Krishna Patar,29093,17043,14.88
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,59,Torpa,ST,Ranchi,108739,JMM,Sudeep Gudhiya,64982,BJP,Koche Munda,32328,32654,30.03
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,60,Khunti,ST,Ranchi,121983,JMM,Ram Surya Munda,69994,BJP,Nilkanth Singh Munda,37900,32094,26.31
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,61,Silli,GEN,Ranchi,150357,JMM,Amit Mahto,63015,AJSU,Sudesh Mahto,42461,20554,13.67
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,62,Khijri,ST,Ranchi,184080,INC,Rajesh Kachhap,86720,BJP,Ram Kumar Pahan,66397,20323,11.04
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,63,Ranchi,GEN,Ranchi,149306,BJP,Chandreshwar Prasad Singh,80491,JMM,Mahua Maji,64022,16469,11.03
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,64,Hatia,GEN,Ranchi,192734,BJP,Navin Jaiswal,94748,INC,Ajay Nath Shahdeo,85690,9058,4.7
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,65,Kanke,SC,Ranchi,185539,INC,Suresh Kumar Baitha,80654,BJP,Dr. Jitu Charan Ram,80079,575,0.31
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,66,Mandar,ST,Ranchi,198691,INC,Shilpi Neha Tirkey,97378,BJP,Sunny Toppo,81046,16332,8.22
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,67,Sisai,ST,Gumla,146616,JMM,Jiga Susaran Horo,80771,BJP,Arun Kumar Oraon,51081,29690,20.25
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,68,Gumla,ST,Gumla,132618,JMM,Bhushan Tirkey,68352,BJP,Sudarshan Bhagat,47199,21153,15.95
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,69,Bishunpur,ST,Gumla,154293,JMM,Chamra Linda,76591,BJP,Samir Oraon,51580,25011,16.21
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,70,Simdega,ST,Gumla,148853,INC,Bhushan Bara,65689,BJP,Shradhanand Besra,57651,8038,5.4
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,71,Kolebira,ST,Simdega,128173,INC,Naman Bixal Kongari,66471,BJP,Sujan JoJo,33812,32659,25.48
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,72,Lohardaga,ST,Lohardaga,149598,INC,Rameshwar Oraon,79377,BJP,Neru Shanti Bhagat,55127,24250,16.21
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,73,Manika,ST,Latehar,108872,INC,Ramchandra Singh,46271,BJP,Harikrishna Singh,35862,10409,9.56
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,74,Latehar,SC,Latehar,134837,BJP,Prakash Ram,60326,JMM,Baidyanath Ram,60056,270,0.2
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,75,Panki,GEN,Palamu,142645,BJP,Kushwaha Shashi Bhushan Mehta,50197,IND,Devendra Kumar Singh,43735,6462,4.53
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,76,Daltonganj,GEN,Palamu,188570,BJP,Alok Kumar Chaurasiya,72467,INC,Krishna Nand Tripathi,71845,622,0.33
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,77,Bishrampur,GEN,Garhwa,158265,RJD,Naresh Prasad Singh,51183,BJP,Ramchandra Chandravanshi,41133,10050,6.35
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,78,Chhatarpur,SC,Palamu,117550,INC,Radha Krishna Kishore,42929,BJP,Pushpa Devi,42494,435,0.37
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,79,Hussainabad,GEN,Palamu,145780,RJD,Sanjay Kumar Singh Yadav,61198,BJP,Kamlesh Kumar Singh,35381,25817,17.71
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,80,Garhwa,GEN,Garhwa,192552,BJP,Satyendra Nath Tiwari,87419,JMM,Mithilesh Kumar Thakur,76405,11014,5.72
+ae-jharkhand-2024,AE,Jharkhand,2024,2024,official_winners_only,81,Bhawanathpur,GEN,Garhwa,202402,JMM,Anant Pratap Deo,98145,BJP,Bhanu Pratap Sahi,83734,14411,7.12

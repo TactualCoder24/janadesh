@@ -1,0 +1,235 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,1,Royapuram,GEN,Chennai,72194,DMK,P. Ponnurangam,24217,AIADMK,M. Raji,22626,1591,2.2
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,2,Harbour,GEN,Chennai,64959,DMK,A. Selvarajan,23845,IND,M.M. Peer Mohammed,17862,5983,9.21
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,3,Dr. Radhakrishnan Nagar,GEN,Chennai,79881,AIADMK,Isari Velan,28416,DMK,R.D. Seethapathy,26928,1488,1.86
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,4,Park Town,GEN,,68426,DMK,T.S. Nallathambi,22433,JNP,N.G. Bhuvaneshwari,19207,3226,4.71
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,5,Perambur,SC,Chennai,79860,DMK,S. Balan,34134,AIADMK,T. Raja,20666,13468,16.86
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,6,Purasawalkam,GEN,,91085,DMK,K. Anbazhagan,41073,JNP,T. S. Govindaswamy,22004,19069,20.94
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,7,Egmore,SC,Chennai,69294,DMK,S.Manimudi,26746,AIADMK,K. Deivasigamani,19414,7332,10.58
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,8,Anna Nagar,GEN,Chennai,85974,DMK,M. Karunanidhi,43076,AIADMK,G. Krishnamurthy,26638,16438,19.12
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,9,T-Nagar,GEN,Chennai,75522,DMK,R.E. Chandran Jayapal,23346,AIADMK,K. Krishnamoorthy,22316,1030,1.36
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,10,Thousand Lights,GEN,Chennai,71635,DMK,S.J. Sadiq Pasha,26599,IND,Syed Khaleefa Thullah,21741,4858,6.78
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,11,Chepauk,GEN,Chennai,63602,DMK,A. Rahaman Khan,24425,AIADMK,V. Rajkumar,17796,6629,10.42
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,12,Triplicane,GEN,,65856,DMK,M. Aranganathan,23154,AIADMK,Noorjahan Razack,21027,2127,3.23
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,13,Mylapore,GEN,Chennai,77167,DMK,T.K. Kapali,26044,JNP,Lakshmi Krishnamurthi,21138,4906,6.36
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,14,Saidapet,GEN,Chennai,74014,DMK,D. Purushothaman,27160,AIADMK,N. Kannan,21882,5278,7.13
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,15,Gummidipoondi,GEN,Thiruvallur,76456,AIADMK,S. Munirathinam,32309,JNP,G. Kamalambujammal,21042,11267,14.74
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,16,Ponneri,SC,Thiruvallur,74561,AIADMK,S.M. Dorairaj,31796,DMK,G. Vetriveeran,20524,11272,15.12
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,17,Thiruvottiyur,GEN,Thiruvallur,84567,AIADMK,P. Sigamony,26458,DMK,M.V. Narayanaswamy,23995,2463,2.91
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,18,Villivakkam,GEN,Chennai,90891,DMK,K. Suppu,37327,AIADMK,R. Sarweshwar Rao,29429,7898,8.69
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,19,Alandur,GEN,Kancheepuram,82665,AIADMK,Abdul Razack,30961,DMK,Abiraham M,27112,3849,4.66
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,20,Tambaram,GEN,Kancheepuram,91986,AIADMK,Munu Adhi,32394,DMK,Pammal Nallathambi,31968,426,0.46
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,21,Tirupporur,SC,,55682,DMK,G. Chokkalingam,24932,AIADMK,T. Radha,22831,2101,3.77
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,22,Chengalpattu,GEN,Kancheepuram,67377,AIADMK,Jagadeesan Anoor,29306,DMK,V. Rudrakotti,25436,3870,5.74
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,23,Maduranthakam,GEN,Kancheepuram,74779,DMK,C. Arumugam,26977,INC,S.D. Ugam Chand,19645,7332,9.8
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,24,Acharapakkam,SC,,61952,AIADMK,Ethraj,26756,DMK,N. Muthuvel,23959,2797,4.51
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,25,Uthiramerur,GEN,Kancheepuram,77457,AIADMK,S. Pakkur Subramanyan,34877,DMK,K.M. Erajagopal,22294,12583,16.25
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,26,Kancheepuram,GEN,Kancheepuram,88312,AIADMK,K. Balaji,31327,DMK,V. Sambandan,29380,1947,2.2
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,27,Sriperumbudur,SC,Kancheepuram,67538,AIADMK,N. Krishnan,29038,DMK,T.S. Lakshmanan,20901,8137,12.05
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,28,Poonamallee,GEN,Thiruvallur,72774,DMK,D. Irajarathanam,26552,AIADMK,Era Kulasekaran,21659,4893,6.72
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,29,Thiruvallur,GEN,Thiruvallur,67589,AIADMK,S. Pattabiraman,30670,JNP,Munirathinam Naidu,22368,8302,12.28
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,30,Tiruttani,GEN,Thiruvallur,66547,AIADMK,R. Shanmugham,29070,DMK,A.B. Ramachandran,18754,10316,15.5
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,31,Pallipet,GEN,,69830,INC,Enkambara Reddy,23480,AIADMK,K.M. Balaraman,19194,4286,6.14
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,32,Arakkonam,SC,Vellore,73525,AIADMK,V.K. Raju,24630,DMK,A. Kannayiram,17041,7589,10.32
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,33,Sholingur,GEN,Vellore,67995,AIADMK,S.J. Ramaswamy,25997,DMK,K. Murthi,20348,5649,8.31
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,34,Ranipet,GEN,Vellore,73377,DMK,Duraimurugan,31940,IND,Wahab K.A,16643,15297,20.85
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,35,Arcot,GEN,Vellore,69203,AIADMK,K.J. Uyyakondan,27193,JNP,N.R. Ethirajulu,16614,10579,15.29
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,36,Katpadi,GEN,Vellore,70389,AIADMK,M.A. Jayavelu,26873,DMK,Sambasivam,22183,4690,6.66
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,37,Gudiyattam,GEN,Vellore,69692,CPI(M),V.K. Kothandaraman,20590,JNP,Soundararajulu Naidu,18046,2544,3.65
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,38,Pernambattu,SC,,65939,AIADMK,I. Tamilarsan,24536,JNP,P. Rajagopal,20873,3663,5.56
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,39,Vaniyambadi,GEN,Vellore,62108,IND,M. Abdul Latheef,26620,DMK,R.Sampanghi,17886,8734,14.06
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,40,Natrampalli,GEN,,69800,AIADMK,T. Ambazhagan,31015,DMK,M. Marappan,14960,16055,23.0
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,41,Tiruppattur,GEN,Vellore,72761,DMK,B.Sundaram,19855,AIADMK,K. Jayaraman,18857,998,1.37
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,42,Chengam,SC,Tiruvannamalai,49158,AIADMK,T. Swamikannu,22789,DMK,N. Poosanar,11877,10912,22.2
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,43,Thandarambattu,GEN,,75263,DMK,D. Venugopal,28605,AIADMK,A. Ramalingam,21661,6944,9.23
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,44,Tiruvannamalai,GEN,Tiruvannamalai,84248,DMK,P.U. Shanmugam,27148,INC,D. Pattuswamy,25786,1362,1.62
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,45,Kalasapakkam,GEN,Tiruvannamalai,75851,DMK,P.S. Thiruvengadam,26841,AIADMK,S. Sundaresa Udayar,25298,1543,2.03
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,46,Polur,GEN,Tiruvannamalai,65135,AIADMK,K.J. Subramanian,24631,DMK,S. Murugaiyan,21902,2729,4.19
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,47,Anaicut,GEN,Vellore,67104,AIADMK,R. Margabandhu,32731,JNP,P.M. Vasudeva Reddiar,14146,18585,27.7
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,48,Vellore,GEN,Vellore,87258,AIADMK,A.K. Ranganathan,26590,JNP,A.K. Lalalajpathy,25758,832,0.95
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,49,Arani,GEN,Tiruvannamalai,81799,AIADMK,V. Arjunan,33925,DMK,E. Selyarasu,24703,9222,11.27
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,50,Cheyyar,GEN,Tiruvannamalai,76930,DMK,Pulavar Govindan,33338,AIADMK,K. Shanmughasundaram,21419,11919,15.49
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,51,Vandavasi,SC,Tiruvannamalai,68862,AIADMK,P. Munuswamy,28306,DMK,C. Kanniappan,26476,1830,2.66
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,52,Peranamallur,GEN,,68840,AIADMK,P. Chandran,27860,DMK,P. Ettappan,19822,8038,11.68
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,53,Melmalayanur,GEN,,71092,AIADMK,P. Thangavelu Gounder,27673,DMK,S. Vijayaraghavan,14110,13563,19.08
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,54,Gingee,GEN,Villupuram,74644,DMK,N. Ramachandran,26971,AIADMK,G. Krishnaswamy,23381,3590,4.81
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,55,Tindivanam,GEN,Villupuram,64261,INC,T.R. Erajaram Reddy,18990,JNP,R. Radhakrishnan,17150,1840,2.86
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,56,Vanur,SC,Villupuram,62817,DMK,M. Paramasivam,21557,AIADMK,A. Boopalan,19584,1973,3.14
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,57,Kandamangalam,SC,,65619,AIADMK,M. Kannan,25403,DMK,S. Alagavelu,23349,2054,3.13
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,58,Villupuram,GEN,Villupuram,73980,AIADMK,P.Krishnan,27882,DMK,K.P. Palaniappan,25183,2699,3.65
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,59,Mugaiyur,GEN,,68933,AIADMK,G. Rangothaman,31531,DMK,M. Shanmugam,18248,13283,19.27
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,60,Thirunavalur,GEN,,68897,AIADMK,L. Arumugam,24087,DMK,V. Subramanian,19132,4955,7.19
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,61,Ulundurpet,SC,Villupuram,71058,DMK,V. Thulukkanam,26788,AIADMK,Sathiawani Muthu,19211,7577,10.66
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,62,Nellikuppam,GEN,,70464,CPI(M),C. Govindarajan,23077,DMK,V. Krishnamoorthy,18260,4817,6.84
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,63,Cuddalore,GEN,Cuddalore,76269,AIADMK,K. Abdul Latheef,24107,DMK,R. Govindarajan,22280,1827,2.4
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,64,Panruti,GEN,Cuddalore,73142,AIADMK,S. Ramachandran,43330,JNP,K. Nandagopalakrishnan,27673,15657,21.41
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,65,Kurinjipadi,GEN,Cuddalore,67898,DMK,M. Selvaraj,19523,CPI(M),S. Natarrajan,16997,2526,3.72
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,66,Bhuvanagiri,GEN,Cuddalore,76369,DMK,V. Raghuraman,21638,JNP,T.M.D. Mahalingam,17350,4288,5.61
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,67,Kattumannarkoil,SC,Cuddalore,69362,DMK,E. Ramalingam,26038,AIADMK,R. Rajan,19991,6047,8.72
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,68,Chidambaram,GEN,Cuddalore,73226,DMK,Kaliyamoorthy Durai,22917,AIADMK,Muthugovindarajan,19586,3331,4.55
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,69,Vridhachalam,GEN,Cuddalore,76225,AIADMK,C. Ramanathan,30178,DMK,K. Ramalingam,18071,12107,15.88
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,70,Mangalur,SC,,75941,AIADMK,M. Periyasamy,30616,DMK,V. Ponnuswamy,17361,13255,17.45
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,71,Rishivandiyam,GEN,Villupuram,66448,INC,M. Sundaram,25530,AIADMK,M. Deivigam,21478,4052,6.1
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,72,Kallakurichi,GEN,Villupuram,68321,AIADMK,M. Subramanian,24304,DMK,S.P. Pachayappan,21081,3223,4.72
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,73,Sankarapuram,GEN,Villupuram,68664,INC,Durai Muthusamy,21593,AIADMK,M. Mohammed Haneef,18885,2708,3.94
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,74,Hosur,GEN,Krishnagiri,53025,INC,N. Ramchandra Reddy,30818,JNP,K.S. Kothandaramiah,13653,17165,32.37
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,75,Thalli,GEN,Krishnagiri,60789,INC,D.R. Rajaram Naidu,18559,JNP,B. Venkataswamy,13388,5171,8.51
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,76,Kaveripattinam,GEN,,64481,AIADMK,K. Samarasam,25770,JNP,E. Pattabi Naidu,19312,6458,10.02
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,77,Krishnagiri,GEN,Krishnagiri,52600,AIADMK,K.R. Chinarassu,17178,JNP,T. M. Thiruppathy,12466,4712,8.96
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,78,Bargur,GEN,Krishnagiri,58867,AIADMK,H.G. Arumugam,28812,DMK,V.C. Thimmarayan,15420,13392,22.75
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,79,Harur,SC,Dharmapuri,57770,CPI(M),M. Annamalai,20042,JNP,K. Surattaiyan,12470,7572,13.11
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,80,Morappur,GEN,,66499,AIADMK,N. Kuppusamy,22886,DMK,R.P. Murugan,21270,1616,2.43
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,81,Palacodu,GEN,Dharmapuri,66797,AIADMK,B.M. Krishnan,21959,JNP,K.T. Govindan,17701,4258,6.37
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,82,Dharmapuri,GEN,Dharmapuri,63216,JNP,P.K.C. Muthuswamy,26742,AIADMK,D.S. Shanmugam,21556,5186,8.2
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,83,Pennagaram,GEN,Dharmapuri,54756,JNP,K. Appunu Gounder,17591,AIADMK,Krishnan,16932,659,1.2
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,84,Mettur,GEN,Salem,70436,AIADMK,K.P. Nachimuthu Gounder,30762,INC,P. Natesan,13976,16786,23.83
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,85,Taramangalam,GEN,,69041,INC,R. Narayanan,23882,AIADMK,S. Semmalai,23863,19,0.03
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,86,Omalur,GEN,Salem,61699,AIADMK,M. Sivaperumal,26342,JNP,M. Govindan,13824,12518,20.29
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,87,Yercaud,ST,Salem,47810,AIADMK,R. Kaliappan,20219,DMK,V. Chinnaswamy,13444,6775,14.17
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,88,Salem-I,GEN,,90844,AIADMK,S.V. Varadarajan,34708,JNP,S.S. Mahadeva Mudaliar,26046,8662,9.54
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,89,Salem-Ii,GEN,,72063,JNP,M. Arumugam,22636,DMK,K.A. Thangavelu,20523,2113,2.93
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,90,Veerapandi,GEN,Salem,71140,AIADMK,P. Venga Gounder,31920,DMK,M. Muthuswamy,18144,13776,19.36
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,91,Panamarathupatti,GEN,,61444,AIADMK,N. Subbbarayan,27676,DMK,S.C. Kanjamalai,14478,13198,21.48
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,92,Attur,GEN,Salem,63899,INC,C. Palanimuthu,19040,AIADMK,P. Kandasamy,18693,347,0.54
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,93,Talavasal,SC,,67933,AIADMK,S.M. Raju,24681,INC,K. Kaliyaperumal,19004,5677,8.36
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,94,Rasipuram,GEN,Namakkal,77425,AIADMK,P. Duraisamy,33762,DMK,K.C. Periasamy,19374,14388,18.58
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,95,Senthamangalam,ST,Namakkal,63712,AIADMK,V. Chinnasamy,28731,INC,Vadama Gounder,13881,14850,23.31
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,96,Namakkal,SC,Namakkal,78720,AIADMK,R. Arunachalam,31952,DMK,K. Veluchamy,17215,14737,18.72
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,97,Kapilamalai,GEN,,82622,AIADMK,K.Sengodan,30194,JNP,S. Paramasivam,18798,11396,13.79
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,98,Tiruchengodu,GEN,Namakkal,96513,AIADMK,C. Ponnaiyan,44501,JNP,V. Kumaraswamy,17764,26737,27.7
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,99,Sankari,SC,Salem,61530,AIADMK,P. Dhanapal,32780,DMK,M. Paramanandam,11751,21029,34.18
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,100,Edappadi,GEN,Salem,80558,AIADMK,I. Ganesan,31063,INC,T. Natarajan,24256,6807,8.45
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,101,Mettuppalayam,GEN,Coimbatore,80410,AIADMK,S. Palanisamy,26029,JNP,T.T.S. Thippaiah,20717,5312,6.61
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,102,Avanashi,SC,Tiruppur,69907,INC,S.N. Palaniswamy,22550,AIADMK,R. Annanambi,20803,1747,2.5
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,103,Thondamuthur,GEN,Coimbatore,95207,AIADMK,K. Maruthachalam,31690,DMK,R. Manickavachagam,24195,7495,7.87
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,104,Singanallur,GEN,Coimbatore,92337,CPI(M),R. Venkedusamy Alias Venkedu,25820,JNP,R. Sengaliappan,24024,1796,1.95
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,105,Coimbatore North,GEN,Coimbatore,75389,AIADMK,C. Aranganaragam,27742,DMK,B.S. Mohamed Ali,20393,7349,9.75
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,106,Coimbatore South,GEN,Coimbatore,68114,CPI(M),K. Ramani,20803,DMK,K. Aranganathan,18784,2019,2.96
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,107,Perur,GEN,,86429,DMK,A. Natarajan,29158,CPI(M),M. Nanjappan,26328,2830,3.27
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,108,Kinathukkadavu,GEN,Coimbatore,71344,AIADMK,K.V. Kandasamy,25909,DMK,M. Kannappan,20589,5320,7.46
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,109,Pollachi,GEN,Coimbatore,77364,AIADMK,O.P. Somasundaram,34896,DMK,S. Raju,17952,16944,21.9
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,110,Valparai,SC,Coimbatore,61215,AIADMK,R.S. Thangavelu,20926,CPI,A.T. Karuppiah,16241,4685,7.65
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,111,Udumalpet,GEN,Tiruppur,83774,AIADMK,P. Kolandaivelu,28737,JNP,U.K.P. Natarajan,24619,4118,4.92
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,112,Dharapuram,SC,Tiruppur,59627,AIADMK,R. Ayyachamy,18884,INC,A.K. Shivalingam,16202,2682,4.5
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,113,Vellakoil,GEN,,82248,INC,D. Ramaswamy,30996,DMK,M. Palanisamy,20676,10320,12.55
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,114,Pongalur,GEN,,62416,AIADMK,K. Nachimuthu,20324,INC,S.R. Balasubramaniam,18769,1555,2.49
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,115,Palladam,GEN,Tiruppur,82068,AIADMK,P.G. Kittu,27172,INC,K.N. Kumarasamy,20175,6997,8.53
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,116,Tiruppur,GEN,,94781,AIADMK,R. Manimaran,38984,CPI,A. Ganapathy,24569,14415,15.21
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,117,Kangayam,GEN,Tiruppur,75223,AIADMK,R.K.S. Dhandapani,31665,DMK,M. Sivasabapathy,18498,13167,17.5
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,118,Modakkurichi,GEN,Erode,85083,AIADMK,Subbalakshmi,38072,DMK,A. Ganeshamurthy,15200,22872,26.88
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,119,Perundurai,GEN,Erode,76607,AIADMK,A. Ponnusamy,30574,CPI,N.K. Palanisamy,24532,6042,7.89
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,120,Erode,GEN,,88118,AIADMK,S. Muthusamy,37968,DMK,M. Subramanian,20389,17579,19.95
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,121,Bhavani,GEN,Erode,73191,AIADMK,M.R. Soundarrajan,22989,JNP,G. Gurumoorthy,19013,3976,5.43
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,122,Andhiyur,SC,Tiruppur,56406,AIADMK,F. Guruswamy,23950,JNP,A. Palani,11423,12527,22.21
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,123,Gobichettipalayam,GEN,Tiruppur,73329,AIADMK,N.K.K. Ramasamy,25660,INC,N.R. Thiruvankadam,19248,6412,8.74
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,124,Bhavanisagar,GEN,Erode,71052,AIADMK,V.K. Chinnasawamy,23078,DMK,Sampoornam Swaminothan,21631,1447,2.04
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,125,Sathyamangalam,GEN,,59040,AIADMK,K.A. Sengottaian,21145,INC,C.R. Rajappa,19639,1506,2.55
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,126,Coonoor,SC,Nilgiris,53505,DMK,K. Rangasamy,22649,AIADMK,C. Periasamy,13150,9499,17.75
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,127,Udhagamandalam,GEN,Nilgiris,62652,AIADMK,B. Gopalan,18134,DMK,K. Karuppasamy,18005,129,0.21
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,128,Gudalur,GEN,Nilgiris,58276,DMK,K. Hutchi,15323,IND,C.I. Allapitchai,14963,360,0.62
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,129,Palani,SC,Dindigul,68954,CPI(M),N. Palanivel,23810,INC,S.R.P. Mani,19966,3844,5.57
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,130,Oddamchatram,GEN,Dindigul,72804,INC,A.P. Palaniappan,27000,AIADMK,K. Kuppuswamy,22419,4581,6.29
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,131,Periyakulam,GEN,Theni,68720,AIADMK,K. Pannai Sethuram,31271,INC,R. Ramaiah,16948,14323,20.84
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,132,Theni,GEN,,76906,AIADMK,V.R. Jayaraman,35152,DMK,S. Veluchamy,18579,16573,21.55
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,133,Bodinayakkanur,GEN,Theni,70584,AIADMK,P. Ramadass,29022,INC,K.S.M. Ramachandran,20030,8992,12.74
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,134,Cumbum,GEN,Theni,84109,AIADMK,R. Chandrasekharan,34902,DMK,N. Natarajan,34080,822,0.98
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,135,Andipatti,GEN,Theni,70649,AIADMK,K. Kandasamy,24311,JNP,N.V. Gurusamy,16269,8042,11.38
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,136,Sedapatti,GEN,,64429,AIADMK,R. Muthiah,28040,INC,A.R.P. Alagarsamy,17018,11022,17.11
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,137,Thirumangalam,GEN,Madurai,66582,AIADMK,P.T. Saraswathy,29493,INC,N.S.V. Chithan,27720,1773,2.66
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,138,Usilampatti,GEN,Madurai,57084,AIFB,P.K. Mookaih Thaver,35361,INC,N.S. Ponniah,11422,23939,41.94
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,139,Nilakkottai,SC,Dindigul,55275,AIADMK,A. Baluchamy,28296,INC,M. Muthuperiasamy,9799,18497,33.46
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,140,Sholavandan,GEN,Madurai,74879,AIADMK,V. Balaguruva Reddiar,29968,INC,A. Chandrasekaran,23455,6513,8.7
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,141,Thirupparankundram,GEN,Madurai,81778,AIADMK,K. Kalimuthu,33850,INC,V. Palani Andi Ambalam,15760,18090,22.12
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,142,Madurai West,GEN,Madurai,75103,AIADMK,T.P.M. Periyaswamy,32342,DMK,Pon. Muthuramalingam,16211,16131,21.48
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,143,Madurai Central,GEN,Madurai,73687,AIADMK,N. Lokshminarayanan,29399,INC,A. Rathinam,16420,12979,17.61
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,144,Madurai East,GEN,Madurai,72539,CPI(M),N. Sankariah,24263,INC,A.G. Subbraman,22278,1985,2.74
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,145,Samayanallur,SC,,76448,AIADMK,S. Selvaraj,34019,INC,C. Karuthanan,19658,14361,18.79
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,146,Melur,GEN,Madurai,91799,AIADMK,A.M. Paramasivan,33111,INC,K.V. Veernanamablam,32955,156,0.17
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,147,Natham,GEN,Dindigul,64610,INC,M. Andi Ambalam,29055,AIADMK,R. Murugan,21093,7962,12.32
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,148,Dindigul,GEN,Dindigul,74387,CPI(M),N. Varadharajan,33614,DMK,V.S. Lakshmanan,13732,19882,26.73
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,149,Athoor,GEN,Dindigul,69586,AIADMK,A. Vellaisamy,31590,DMK,A.M.T. Nachiappan,13938,17652,25.37
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,150,Vedasandur,GEN,Dindigul,72546,AIADMK,S.M. Vasan,26995,INC,S. Nanjunda Row,25141,1854,2.56
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,151,Aravakurichi,GEN,Karur,82467,INC,S. Sadasivam,32581,DMK,P. Ramasamy,21547,11034,13.38
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,152,Karur,GEN,Karur,96428,AIADMK,K. Vadivel,33856,DMK,S. Nallasamy,22264,11592,12.02
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,153,Krishnarajapuram,SC,Karur,69235,AIADMK,P. Soundarapandian,22561,INC,P.M. Tnangavelraj,21967,594,0.86
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,154,Marungapuri,GEN,,70220,INC,K. Karunaigiri Muthiah,27093,DMK,A.P. Raju,16894,10199,14.52
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,155,Kulithalai,GEN,Karur,80505,INC,P.E. Srinivasa Reddiar,27043,AIADMK,S. Rasu,19396,7647,9.5
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,156,Thottiyam,GEN,,80508,AIADMK,K.P. Kathamuthu,25638,INC,K.M. Shanmugasundaram,24648,990,1.23
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,157,Uppiliapuram,ST,,85324,INC,R. Periasamy,31642,AIADMK,M. Atchayagopal,25936,5706,6.69
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,158,Musiri,GEN,Tiruchirappalli,88026,AIADMK,P. Kothandarama Alias Musiri Putthan,34569,DMK,V.S. Periasamy,20567,14002,15.91
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,159,Lalgudi,GEN,Tiruchirappalli,92415,AIADMK,K.N. Shanmugam,33322,DMK,R. Gangadhran,31789,1533,1.66
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,160,Perambalur,SC,Perambalur,66165,AIADMK,S.V. Ramasamy,37400,DMK,K.S. Velusamy,16459,20941,31.65
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,161,Varahur,SC,,68757,AIADMK,N. Perumal,36023,DMK,K. Kanagasabai,23919,12104,17.6
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,162,Ariyalur,GEN,Ariyalur,78989,DMK,T. Arumugam,31380,AIADMK,Karuppiah Alias Asokan,30125,1255,1.59
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,163,Andimadam,GEN,,65337,AIADMK,T. Subramanian,36885,DMK,S. Sivasubramaniam,22056,14829,22.7
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,164,Jayankondam,GEN,Ariyalur,79412,AIADMK,V. Karunamurthy,35540,DMK,K.C. Ganesan,23828,11712,14.75
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,165,Srirangam,GEN,Tiruchirappalli,83675,AIADMK,R. Soundararajan,26200,DMK,M. Dharamalingam,21135,5065,6.05
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,166,Tiruchirapalli-I,GEN,,65805,AIADMK,C. Manickam,21908,DMK,A.V. Krishnamurthy,19597,2311,3.51
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,167,Tiruchirapalli-Ii,GEN,,69850,AIADMK,K. Soundararajan,25405,DMK,M.S. Venkatachalam,17523,7882,11.28
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,168,Thiruverumbur,GEN,Tiruchirappalli,76713,DMK,K.S. Murugesan,24594,INC,V. Swaminathan,23742,852,1.11
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,169,Sirkazhi,SC,Nagapattinam,79034,DMK,K. Subravelu,34281,AIADMK,K. Balasubramaniam,29405,4876,6.17
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,170,Poompuhar,GEN,Nagapattinam,75880,DMK,S. Ganesan,34105,CPI(M),G. Bharathi Mohan,24508,9597,12.65
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,171,Mayuram,GEN,Nagapattinam,75824,DMK,N. Kittappa,29829,INC,M.M.S. Abdul Hassan,21237,8592,11.33
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,172,Kuttalam,GEN,,77206,DMK,R. Rajamaniam,30819,CPI(M),G. Veeraiyan,22556,8263,10.7
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,173,Nannilam,SC,Thiruvarur,80566,DMK,M. Manimaran,33636,INC,P. Jayaraj,24527,9109,11.31
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,174,Thiruvarur,SC,Thiruvarur,87031,DMK,M. Karunanithi Thazhai,38528,CPI(M),P.S. Dhanushokody,24274,14254,16.38
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,175,Nagapattinam,GEN,Nagapattinam,79488,CPI(M),R. Umanath,31519,DMK,A. Ambalavanan,30809,710,0.89
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,176,Vedaranyam,GEN,Nagapattinam,83613,DMK,M. Meenashisundaram,29601,INC,S. Devarajan,28009,1592,1.9
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,177,Thiruthuraipoondi,SC,Thiruvarur,94079,CPI,P. Uthirapathy,43208,DMK,N. Kuppusamy,24934,18274,19.42
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,178,Mannargudi,GEN,Thiruvarur,90515,CPI,M. Ambigapathy,34298,DMK,K. Balakrishnan,26881,7417,8.19
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,179,Pattukkottai,GEN,Thanjavur,86263,INC,A.R. Marimuthu,25993,AIADMK,V.R.K. Palaniapan,25082,911,1.06
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,180,Peravurani,GEN,Thanjavur,84095,AIADMK,M.R. Govindan,32625,CPI,M. Masilamani,24675,7950,9.45
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,181,Orathanadu,GEN,Thanjavur,89768,DMK,T.M. Thailappan,31866,INC,N. Sivagananam,26156,5710,6.36
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,182,Thiruvonam,GEN,,81826,AIADMK,Durai Govindarajan,23779,DMK,Pulavar T. Tholappan,21566,2213,2.7
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,183,Thanjavur,GEN,Thanjavur,80092,DMK,S. Natarajan,33418,AIADMK,R. Saminathan,23662,9756,12.18
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,184,Thiruvaiyaru,GEN,Thanjavur,77107,DMK,G. Elangovan,28500,AIADMK,P.C. Palaniyandi,23197,5303,6.88
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,185,Papanasam,GEN,Thanjavur,74553,INC,R.V. Soundararajan,24904,DMK,S. Sachidhanandam,23268,1636,2.19
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,186,Valangiman,SC,,67404,DMK,A. Chellappa,24270,AIADMK,P. Srinivasan,20897,3373,5.0
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,187,Kumbakonam,GEN,Thanjavur,81272,AIADMK,S.R. Eradha,26432,INC,O. Vadivelu Mazhavarayar,23450,2982,3.67
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,188,Thiruvidaimarudur,GEN,Thanjavur,80712,DMK,S. Ramalingam,26304,INC,K. Govindarajulu,24489,1815,2.25
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,189,Thirumaiyam,GEN,Pudukkottai,79825,INC,N. Sundararaj,20694,AIADMK,P. Ponnambalam,20637,57,0.07
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,190,Kolathur,SC,Chennai,74062,INC,V. Chinnaiah,27071,AIADMK,T. Marimuthu,22853,4218,5.7
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,191,Pudukkottai,GEN,Pudukkottai,85190,INC,R. Rajkumar Vijaya Raghunatha Tondaman,36406,AIADMK,C. Anbarasan,19352,17054,20.02
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,192,Alangudi,GEN,Pudukkottai,96652,INC,T. Pushparaju,37634,AIADMK,P. Thirumaran,27059,10575,10.94
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,193,Aranthangi,GEN,Pudukkottai,94706,AIADMK,S. Thirunavukkarasu,35468,CPI,P. Appukutty,24528,10940,11.55
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,194,Tirupathur,GEN,Sivaganga,78598,CPI,S. Shanmugam Koothagudi,21579,AIADMK,C.T. Rajachidambaram,21238,341,0.43
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,195,Karaikudi,GEN,Sivaganga,85557,AIADMK,P. Kaliyappan,27403,INC,P. Chidambaram,27163,240,0.28
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,196,Tiruvadanai,GEN,Ramanathapuram,88126,INC,Kr. Rm. Kariya Manickam Ambalam,32386,AIADMK,S. Anguchamy,28650,3736,4.24
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,197,Ilayangudi,GEN,,72983,CPI,R. Sivasamy,17677,DMK,V. Malaikkannan,16887,790,1.08
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,198,Sivaganga,GEN,Sivaganga,76805,INC,O. Subramanian,23495,AIADMK,K.R. Muruganandam,21066,2429,3.16
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,199,Manamadurai,SC,Sivaganga,71719,AIADMK,V.M. Subramanian,28849,INC,K. Paramalai,26794,2055,2.87
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,200,Paramakudi,SC,Ramanathapuram,75194,AIADMK,K. Ugrapandian,27303,INC,K. Krishnan,23357,3946,5.25
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,201,Ramanathapuram,GEN,Ramanathapuram,70524,AIADMK,T. Ramaswamy,33048,JNP,S.K. Ganesan,15520,17528,24.85
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,202,Kadaladi,GEN,,70264,AIADMK,R.C. Subramanian,25690,DMK,A. Piranavanathan,12299,13391,19.06
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,203,Mudhukulathur,GEN,Ramanathapuram,73392,INC,S. Balakrishnan,17709,IND,V. Munisamy,14844,2865,3.9
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,204,Aruppukkottai,GEN,Virudhunagar,76582,AIADMK,M.G. Ramachandran,43065,JNP,M. Muthuvel Servai,13687,29378,38.36
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,205,Sattur,GEN,Virudhunagar,89659,AIADMK,K.K.S.S.R. Ramachandran,38772,INC,M. Veerasamy,21830,16942,18.9
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,206,Virudhunagar,GEN,Virudhunagar,74298,AIADMK,M. Sundararajan,33077,JNP,A.S.A. Arumugam,22820,10257,13.81
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,207,Sivakasi,GEN,Virudhunagar,78800,JNP,K. Ramasamy,24518,INC,Dharwar,22746,1772,2.25
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,208,Srivilliputhur,GEN,Virudhunagar,81447,AIADMK,R. Thamraikani,25990,DMK,V. Vaikundam,18974,7016,8.61
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,209,Rajapalayam,SC,Virudhunagar,74649,AIADMK,K. Dhanuskodi,28028,INC,K. Pottupoattan,24181,3847,5.15
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,210,Vilathikulam,GEN,Thoothukkudi,66125,AIADMK,R.K. Perumal,25384,INC,K. Subba Reddiar,22001,3383,5.12
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,211,Ottapidaram,SC,Thoothukkudi,54517,INC,O.S. Veluchami,22629,AIADMK,O. Thangaraj,16801,5828,10.69
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,212,Kovilpatti,GEN,Thoothukkudi,67140,CPI,S. Alagarsamy,21985,AIADMK,P. Seeniraj,21588,397,0.59
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,213,Sankarankovil,SC,Tirunelveli,62965,DMK,S. Subbiah,21569,AIADMK,C. Ayyadorai,21232,337,0.54
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,214,Vasudevanallur,SC,Tirunelveli,60418,CPI(M),R. Krishnan,20092,CPI,I. Muthuraj,16048,4044,6.69
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,215,Kadayanallur,GEN,Tirunelveli,75675,AIADMK,M.M.A. Razak,29347,INC,S.K.T. Ramachandran,23686,5661,7.48
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,216,Tenkasi,GEN,Tirunelveli,73194,INC,S. Muthusamy Karayalar,30273,IND,J. Abdul Jabbar,18489,11784,16.1
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,217,Alangulam,GEN,Tirunelveli,70987,AIADMK,V. Karuppasamypandian,20183,JNP,R. Navaneethakrishnapandian,18342,1841,2.59
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,218,Tirunelveli,GEN,Tirunelveli,68622,AIADMK,G.R. Edmund,26419,INC,Krishnan Alias Nellai Kannan,19125,7294,10.63
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,219,Palayamkottai,GEN,Tirunelveli,66087,AIADMK,K. Manoharan,29146,IND,N. Shanmugan,15192,13954,21.11
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,220,Cheranmahadevi,GEN,,68635,AIADMK,Pandian,24256,INC,V. Ratnasabapathi,21964,2292,3.34
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,221,Ambasamudram,GEN,Tirunelveli,66110,CPI(M),Eswaramoorthy Alias Soranam,23356,CPI,R. Nallakannu,21569,1787,2.7
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,222,Nanguneri,GEN,Tirunelveli,67359,JNP,M. John Vincent,18668,AIADMK,D. Veliah,18464,204,0.3
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,223,Radhapuram,GEN,Tirunelveli,68265,AIADMK,Y.S.M. Yusuf,26404,JNP,P. Paul Pandian,22810,3594,5.26
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,224,Sattangulam,GEN,,67101,JNP,R. Jebamani,18362,IND,Si.Pa. Adittanar,17507,855,1.27
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,225,Tiruchendur,GEN,Thoothukkudi,71642,AIADMK,R. Amirtharaj,20871,JNP,Subramaniya Adityan,19736,1135,1.58
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,226,Srivaikuntam,GEN,Thoothukkudi,65390,AIADMK,K. Sathu Solvaraj,20459,DMK,S. Muthu,16919,3540,5.41
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,227,Thoothukkudi,GEN,Thoothukkudi,80565,AIADMK,N. Dhanasekaran,23598,INC,R. Naoroji,22379,1219,1.51
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,228,Kanniyakumari,GEN,Kanniyakumari,69703,AIADMK,C. Krishnan,23222,JNP,T.C. Subramania Pillay,16010,7212,10.35
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,229,Nagercoil,GEN,Kanniyakumari,73994,AIADMK,M. Vincent,26973,JNP,P. Muhammed Ismail,26780,193,0.26
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,230,Kollachal,GEN,Kanniyakumari,69509,JNP,R. Athiswami,21131,DMK,S. Retna Raj,19949,1182,1.7
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,231,Padmanabhapuram,GEN,Kanniyakumari,47914,JNP,A. Swamidhas,22910,AIADMK,N.V. Kanniyapan,14757,8153,17.02
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,232,Thiruvattar,GEN,,56964,JNP,J. James,27812,CPI(M),J. Hemachandran,26192,1620,2.84
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,233,Vilavancode,GEN,Kanniyakumari,66787,CPI(M),D. Gnanasigamony,32628,JNP,S. Sathiadas,30695,1933,2.89
+ae-tamil-nadu-1977,AE,Tamil Nadu,1977,1977,official,234,Killiyoor,GEN,Kanniyakumari,43229,JNP,P. Vijayaraghavan,34237,INC,K. Thankaraj,8309,25928,59.98

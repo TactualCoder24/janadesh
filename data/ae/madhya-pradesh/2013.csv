@@ -1,0 +1,231 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,1,Sheopur,GEN,Sheopur *,156475,BJP,Durgalal Vijay,65211,BSP,Babu Jandail,48784,16427,10.5
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,2,Vijaypur,GEN,Sheopur *,150634,INC,Ramniwas Rawat,67358,BJP,Sitaram Adiwashi,65209,2149,1.43
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,3,Sabalagadh,GEN,Morena,134396,BJP,Meharban Singh Rawat,55950,INC,Suresh Chaudhary,33446,22504,16.74
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,4,Jaura,GEN,Morena,145457,BJP,Subedar Singh,42421,INC,Banwari Lal,39923,2498,1.72
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,5,Sumaoli,GEN,Morena,153654,BJP,Satyapal Singh,61557,BSP,Ajab Singh Kushwaha,47481,14076,9.16
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,6,Morena,GEN,Morena,140027,BJP,Rustam Singh,56744,BSP,Ramprakash,55040,1704,1.22
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,7,Dimani,GEN,Morena,124021,BSP,Balveer Singh Dandotiya,44718,INC,Ravindra Singh Tomar Bhidausa,42612,2106,1.7
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,8,Ambah,GEN,Morena,110064,BSP,Satyaprakash,49574,BJP,Banshi Lal Jatav,38286,11288,10.26
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,9,Ater,GEN,Bhind,112663,INC,Satyadev Katare,45592,BJP,Arvind Singh Bhadoriya,34166,11426,10.14
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,10,Bhind,GEN,Bhind,124442,BJP,Narendra Singh Kushwah,51170,BSP,Sanjeev Singh (Sanju),45177,5993,4.82
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,11,Lahar,GEN,Bhind,144255,INC,Dr. Govind Singh,53012,BJP,Rasal Singh,46739,6273,4.35
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,12,Mehgaon,GEN,Bhind,140481,BJP,Choudhary Mukesh Singh Chaturvedi,29733,INC,O.P.S. Bhadouriya,28460,1273,0.91
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,13,Gohad,GEN,Bhind,112618,BJP,Lal Singh Arya,51711,INC,Mevaram Jatav,31897,19814,17.59
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,14,Gwalior Rural,GEN,Gwalior,123663,BJP,Bharat Singh Kushwah,47944,INC,Ram Sevak Singh (Babuji),36006,11938,9.65
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,15,Gwalior,GEN,Gwalior,154326,BJP,Jai Bhan Singh Pawaiya,74769,INC,Pradhuman Singh Tomar,59208,15561,10.08
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,16,Gwalior East,GEN,Gwalior,140975,BJP,Maya Singh (Mami),59824,INC,Munnalal Goyal (Munna Bhaiya),58677,1147,0.81
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,17,Gwalior South,GEN,Gwalior,130544,BJP,Narayan Singh Kushwah,68627,INC,Ramesh Agrawal,52360,16267,12.46
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,18,Bhitrwar,GEN,Gwalior,139487,INC,Lakhan Singh Yadav,40578,BJP,Anoop Mishra,34030,6548,4.69
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,19,Dabara,GEN,Gwalior,126034,INC,Imarti Devi,67764,BJP,Suresh Rajey,34486,33278,26.4
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,20,Sewda,GEN,Datia,116631,BJP,Pradeep Agarwal,32423,INC,Ghanshyam Singh,23614,8809,7.55
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,21,Bhander,GEN,Datia,97054,BJP,Ghanshyam Pironiya,36878,INC,Arun Kumar (Annu Bharti),29227,7651,7.88
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,22,Datia,GEN,Datia,125352,BJP,Dr. Narottam Mishra,55997,INC,Rajendra Bharti,44300,11697,9.33
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,23,Karera,GEN,Shivpuri,161534,INC,Smt Shakuntla Khatik,59371,BJP,Omprakash Khatik,49051,10320,6.39
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,24,Pohari,GEN,Shivpuri,151707,BJP,Prahlad Bharti,53068,INC,Harivallabh Shukla,49443,3625,2.39
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,25,Shivpuri,GEN,Shivpuri,149500,BJP,Yashodhara Raje Scindhiya,76330,INC,Birendra Raghuwanshi,65185,11145,7.45
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,26,Pichhore,GEN,Shivpuri,173038,INC,K.P.Singh Kakkaju,78995,BJP,Bhaiya Pritam Lodhi,71882,7113,4.11
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,27,Kolaras,GEN,Shivpuri,159179,INC,Ram Singh Yadav,73942,BJP,Devendra Kumar Jain Patte Wale,48989,24953,15.68
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,28,Bamori,GEN,Guna,138777,INC,Mahendra Singh Sisodia (Sanju Bhaiya),71804,BJP,Kanhaiya Lal Rameswar Agrawal,53243,18561,13.37
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,29,Guna,GEN,Guna,129281,BJP,Pannalal Shakya,81444,INC,Neeraj Nigam,36333,45111,34.89
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,30,Chachoda,GEN,Guna,142213,BJP,Mamta Meena,82779,INC,Shivnarayan Meena,47878,34901,24.54
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,31,Raghogarh,GEN,Guna,145916,INC,Jaivardhan Singh,98041,BJP,Radhe Shyam Dhakad Son Of Amarlal Dhakad,39837,58204,39.89
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,32,Ashok Nagar,GEN,Ashok Nagar,125939,BJP,Gopilal Jatav,55976,INC,Jajpalsingh Jajji,52628,3348,2.66
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,33,Chanderi,GEN,Ashok Nagar,124121,INC,Gopal Singh Chauhan Daggi Raja,73484,BJP,Rao Rajkumar Singh Yadav,43166,30318,24.43
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,34,Mungaoli,GEN,Ashok Nagar,137932,INC,Mahendra Singh Kalukheda,70675,BJP,Rao Deshraj Singh,49910,20765,15.05
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,35,Bina,GEN,Sagar,117932,BJP,Mahesh Rai,61356,INC,Nirmala Sapre,42587,18769,15.92
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,36,Khurai,GEN,Sagar,136254,BJP,Bhoopendra Bhaiya,62127,INC,Arunoday Choubey Annu Bhaiya,56043,6084,4.47
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,37,Surkhi,GEN,Sagar,134867,BJP,Parul Sahu Kesari,59513,INC,Govind Singh Rajpoot,59372,141,0.1
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,38,Deori,GEN,Sagar,134608,INC,Harsh Yadav,71185,BJP,Ratansingh Silarpur,49105,22080,16.4
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,39,Rehli,GEN,Sagar,159678,BJP,Gopal Bhargava,101899,INC,Brijbihari Pateriya (Gudda Bhaiya),50134,51765,32.42
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,40,Naryawali,GEN,Sagar,130969,BJP,Engg Pradeep Lariya,69195,INC,Advocate Surendra Choudhary,53149,16046,12.25
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,41,Sagar,GEN,Sagar,124395,BJP,Shailendra Jain,64351,INC,Sushil Tiwari,56128,8223,6.61
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,42,Banda,GEN,Sagar,144869,BJP,Harvansh (Sukku Bhaiya),66203,INC,Narayan Prajapati,48323,17880,12.34
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,43,Tikamgarh,GEN,Tikamgarh,134661,BJP,K K Shrivastava,57968,INC,Yadvendra Singh,41079,16889,12.54
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,44,Jatara,GEN,Tikamgarh,126447,INC,Ahirwar Dinesh Kumar,51149,BJP,Harishankar Khatik,50916,233,0.18
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,45,Prithvipur,GEN,Tikamgarh,132332,BJP,Anita-Sunil Nayak,51147,INC,Brajendra Singh Rathore,42520,8627,6.52
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,46,Niwari,GEN,Tikamgarh,123298,BJP,Anil Jain,60395,SWP,Meera Deepak Yadav,33186,27209,22.07
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,47,Khargapur,GEN,Tikamgarh,138698,INC,Chanda - Surendra Singh Gaur,59771,BJP,Rahul Singh Lodhi,54094,5677,4.09
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,48,Maharajpur,GEN,Chhatarpur,125582,BJP,Manvendra Singh,45816,BSP,Aapke Rakesh Pathak,30095,15721,12.52
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,49,Chandla,GEN,Chhatarpur,116898,BJP,R D Prajapati,65959,INC,Harprasad,28562,37397,31.99
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,50,Rajnagar,GEN,Chhatarpur,125971,INC,Kun. Vikram Singh Urf. Nati Raja,54643,BJP,"Dr. Ramkrishn Kusmariya ""Baba Ji""",46036,8607,6.83
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,51,Chhatarpur,GEN,Chhatarpur,124329,BJP,Lalita Yadav,44623,INC,Alok Chaturvedi (Pajjan Bhaiya),42406,2217,1.78
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,52,Bijawar,GEN,Chhatarpur,125047,BJP,Guddan Pathak (Pushpendra Nath),50576,INC,Bablu Rajesh Shukla,40197,10379,8.3
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,53,Malhara,GEN,Chhatarpur,129411,BJP,Ahir Rekha Yadav,41779,INC,Tilak Singh Lodhi,40265,1514,1.17
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,54,Pathariya,GEN,Damoh,140673,BJP,Lakhan Patel,60083,INC,Kunvar Pushpendra Singh Hazari,52768,7315,5.2
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,55,Damoh,GEN,Damoh,151546,BJP,Jayant Malaiya,72534,INC,Chandra Bhan Bhaiya,67581,4953,3.27
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,56,Jabera,GEN,Damoh,146866,INC,Pratap Singh,68511,BJP,Dashrath Singh Lodhi Dassu Bhaiya,56615,11896,8.1
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,57,Hatta,GEN,Damoh,127443,BJP,Umadevi-Lalchand Khatik,59231,INC,Hari Shankar Chodhri,56379,2852,2.24
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,58,Pawai,GEN,Panna,171738,INC,Pandit Mukesh Nayak,78949,BJP,Brijendra Pratap Singh,67254,11695,6.81
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,59,Gunnour,GEN,Panna,121739,BJP,Mahendra Singh,41980,INC,Shiv Dayal,40643,1337,1.1
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,60,Panna,GEN,Panna,145542,BJP,Kusum Singh Mahdele,54778,BSP,Lodhi Mahendra Pal Varma,25742,29036,19.95
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,61,Chitrakoot,GEN,Satna,123529,INC,Prem Singh,45913,BJP,Surendra Singh Gaharwar,34943,10970,8.88
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,62,Raigaon,GEN,Satna,119859,BSP,Usha Choudhary,42610,BJP,Pushpraj Bagri,38501,4109,3.43
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,63,Satna,GEN,Satna,133586,BJP,Shankarlal Tiwari,56160,INC,Rajaram Tripathi,40828,15332,11.48
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,64,Nagod,GEN,Satna,147475,INC,Yadavendra Singh,55879,BJP,Gaganendra Pratap Singh,45815,10064,6.82
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,65,Maihar,GEN,Satna,153113,INC,Narayan Prasad,48306,BJP,Ramesh Prasad,41331,6975,4.56
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,66,Amarpatan,GEN,Satna,145621,INC,Rajendra Kumar Singh Dadabhai,48341,BJP,Ramkhelawan Patel,36602,11739,8.06
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,67,Rampur Baghelan,GEN,Satna,150997,BJP,Harsh Singh,71818,BSP,Ram Lakhan Singh,47563,24255,16.06
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,68,Sirmour,GEN,Rewa,116570,BJP,Divyaraj Singh,40018,INC,Dr. Vivek Tiwari (Babla),34730,5288,4.54
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,69,Semariya,GEN,Rewa,120005,BJP,Neelam Abhey Mishra,36173,BSP,Pankaj Singh,30196,5977,4.98
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,70,Teonthar,GEN,Rewa,120396,BJP,Pd. Ramakant Tiwari,44347,INC,Ramashankar Singh,34590,9757,8.1
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,71,Mauganj,GEN,Rewa,117044,INC,Sukhendra Singh (Banna),38898,BJP,Laxman Tiwari,28132,10766,9.2
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,72,Deotalab,GEN,Rewa,121441,BJP,Girish Gautam,36495,BSP,Ad. Vidhya Wati Patel,32610,3885,3.2
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,73,Mangawan,GEN,Rewa,119776,BSP,Sheela Tyagi,40349,BJP,Pannabai Prajapati,40074,275,0.23
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,74,Rewa,GEN,Rewa,119466,BJP,Rajendra Shukla,61502,BSP,Krishna Kumar Gupta (K.K),23956,37546,31.43
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,75,Gurh,GEN,Rewa,132307,INC,Sundar Lal Tiwari,33741,BJP,Nagendra Singh,32359,1382,1.04
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,76,Churhat,GEN,Sidhi,143600,INC,Ajay Arjun Singh,71796,BJP,Sharadendu Tiwari,52440,19356,13.48
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,77,Sidhi,GEN,Sidhi,131791,BJP,Kedar Nath Shukla,53115,INC,Kamaleshwar Prasad Dwivedi,50755,2360,1.79
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,78,Sihawal,GEN,Sidhi,135552,INC,Kamleshwar Indrajeetkumar,72928,BJP,Vishwamitra Pathak,40372,32556,24.02
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,79,Chitrangi,GEN,Sidhi,135805,INC,Saraswati Singh,57466,BJP,Jagannath Singh,47621,9845,7.25
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,80,Singarouli,GEN,Sidhi,132558,BJP,Ram Lallu Vaishya,48293,INC,Bhuvneshwar Prasad Singh Raja Baba,37733,10560,7.97
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,81,Devsar,GEN,Sidhi,137515,BJP,Rajendra Meshram,64217,IND,Banshmani Prasad Verma,31003,33214,24.15
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,82,Dhouhani,GEN,Sidhi,137722,BJP,Kunwar Singh Tekam,60130,INC,Tilakraj Singh Uike,41129,19001,13.8
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,83,Beohari,GEN,Shahdol,171891,INC,Ram Pal Singh,74710,BJP,Ram Prasad Singh,57368,17342,10.09
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,84,Jaisinghnagar,GEN,Shahdol,160341,BJP,Pramila Singh,74156,INC,Dhyan Singh,60193,13963,8.71
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,85,Jaitpur,GEN,Shahdol,162229,BJP,Jai Singh Maravi,65856,INC,Lalan Singh,54650,11206,6.91
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,86,Kotama,GEN,Anuppur,102224,INC,Manoj Kumar Agrawal,38319,BJP,Rajesh Soni,36773,1546,1.51
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,87,Anuppur,GEN,Anuppur,114295,BJP,Ramlal Rautel,57438,INC,Bisahulal Singh,45693,11745,10.28
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,88,Pusprajgarh,GEN,Anuppur,132875,INC,Phundelal Singh Marko,69192,BJP,Sudama Singh Singram,33545,35647,26.83
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,89,Bandhavgarh,GEN,Umaria *,138627,BJP,Gyan Singh,66881,INC,Pyrelal Baiga,48236,18645,13.45
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,90,Manapur,GEN,Umaria *,153939,BJP,Meena Singh,70024,IND,Gyanwati Singh,26396,43628,28.34
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,91,Badwara,GEN,Katni *,144283,BJP,Moti Kashyap,62292,INC,Vijay Raghvendra Singh (Basant Singh),59005,3287,2.28
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,92,Vijayraghavgarh,GEN,Katni *,146414,INC,Sanjay Pathak,60719,BJP,Padma Shukla,59790,929,0.63
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,93,Mudwara,GEN,Katni *,138565,BJP,Sandip Shriprasad Jaiswal,87396,INC,Feroz Ahmad,40258,47138,34.02
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,94,Bahoriband,GEN,Katni *,155115,BJP,Prabhat Pandey (Bade Babbu),54504,INC,Ku Dr. Nishith Patel,33586,20918,13.49
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,95,Patan,GEN,Jabalpur,166642,INC,Neelesh Awasthi,85538,BJP,Ajay Vishnoi,72802,12736,7.64
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,96,Bargi,GEN,Jabalpur,144767,BJP,Pratibha Singh,69076,INC,Thakur Sobran Singh (Babuji),61677,7399,5.11
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,97,Jabalpur East,GEN,Jabalpur,139285,BJP,Anchal Sonkar,67167,INC,Advocate Lakhan Ghanghoria,66012,1155,0.83
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,98,Jabalpur North,GEN,Jabalpur,126431,BJP,Sharad Jain Advocate,74656,INC,Naresh Saraf,41093,33563,26.55
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,99,Jabalpur Cantt,GEN,Jabalpur,118938,BJP,Ashok Ishwardas Rohani,83676,INC,Sarveshwar 'Chaman' Shrivastava,29935,53741,45.18
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,100,Jabalpur West,GEN,Jabalpur,134665,INC,Tarun Bhanot,62668,BJP,"Harenderjeet Singh ""Babbu""",61745,923,0.69
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,101,Panagar,GEN,Jabalpur,148746,BJP,Susheel Kumar Tiwari (Indu Bhaiya),82358,INC,Rupendra Patel,54404,27954,18.79
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,102,Sihora,GEN,Jabalpur,131819,BJP,Nandhani Maravi,63931,INC,Jamuna Maravi,48927,15004,11.38
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,103,Shahpura,GEN,Dindori *,172163,BJP,Omprakash Dhurwey,76796,INC,Ganga Bai,44115,32681,18.98
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,104,Dindori,GEN,Dindori *,170382,INC,Omkar Singh Markam,76866,BJP,Jay Singh Maravi,70478,6388,3.75
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,105,Bichhiya,GEN,Mandla,162529,BJP,Pandit Singh Dhurwey,65836,INC,Narayan Singh Patta,47520,18316,11.27
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,106,Niwas,GEN,Mandla,166182,BJP,Rampyare Kulaste,65916,INC,Patiram Pandro,55006,10910,6.57
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,107,Mandla,GEN,Mandla,169518,INC,Sanjeev Chhote Lal Uikey,80066,BJP,Sampatiya Uikey,76239,3827,2.26
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,108,Baihar,GEN,Balaghat,151250,INC,Sanjay Uieke,82419,BJP,Bhagat Singh Netam,50067,32352,21.39
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,109,Lanji,GEN,Balaghat,164077,INC,Hina Likhiram Kaware,79068,BJP,Ramesh Dileep Bhatere,47318,31750,19.35
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,110,Paraswada,GEN,Balaghat,150654,INC,Madhu Bhagat,49216,BJP,Ram Kishor (Nano) Kaware,46367,2849,1.89
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,111,Balaghat,GEN,Balaghat,157932,BJP,Gourishankar Chaturbhuj Bisen,71993,SWP,Anubha Munjare,69493,2500,1.58
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,112,Waraseoni,GEN,Balaghat,140390,BJP,Dr. Yogendra Nirmal,66806,INC,Pradeep Amritlal Jaiswal (Gudda),48868,17938,12.78
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,113,Katangi,GEN,Balaghat,138427,BJP,K. D. Deshmukh,57230,BSP,Udaysingh Pancheshwar Guruji,37280,19950,14.41
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,114,Barghat,GEN,Seoni,163571,BJP,Kamal Marskole,77122,INC,Arjun Singh (Arjun Bhaiyya),76853,269,0.16
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,115,Seoni,GEN,Seoni,176362,IND,Dinesh Rai ( Munmun),65402,BJP,Naresh Diwakar (D.N.),44486,20916,11.86
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,116,Keolari,GEN,Seoni,177961,INC,Rajneesh Harbansh Singh,72669,BJP,Dr. Dhal Singh Bisen,67866,4803,2.7
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,117,Lakhanadon,GEN,Seoni,182796,INC,Yogendra Singh (Baba),77928,BJP,Smt. Shashi Thakur (Maravi),65147,12781,6.99
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,118,Gotegaon,GEN,Narsimhapur,139984,BJP,Dr. Kailash Jatav,74759,INC,Narmada Prasad Prajapati (N.P.),54588,20171,14.41
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,119,Narsingpur,GEN,Narsimhapur,153386,BJP,Jalam Singh Patel (Munna Bhaiya),89921,INC,Sunil Jaisawal,41440,48481,31.61
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,120,Tendukheda,GEN,Narsimhapur,125576,BJP,Sanjay Sharma,81938,INC,Surendra Dhimole,37336,44602,35.52
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,121,Gadarwara,GEN,Narsimhapur,134019,BJP,Govind Singh Patel,61202,IND,Suneeta Patel,35889,25313,18.89
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,122,Junnardeo,GEN,Chhindwara,146156,BJP,Nathan Shah Kevreti,74319,INC,Sunil Uikey,54198,20121,13.77
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,123,Amarwara,GEN,Chhindwara,171501,INC,Kamlesh Shah,55684,BJP,Uttam Premnarayan Thakur,51621,4063,2.37
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,124,Churai,GEN,Chhindwara,147632,BJP,Pt. Ramesh Dudey,70810,INC,Choudhary Gambheer Singh,57179,13631,9.23
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,125,Sausar,GEN,Chhindwara,144743,BJP,Nanabhau Mohod,69257,INC,Bhagvat Mahajan,60841,8416,5.81
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,126,Chhindwara,GEN,Chhindwara,178020,BJP,Choudhary Chandrabhansingh Kubersingh,97769,INC,Deepak Saxena,72991,24778,13.92
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,127,Parasiya,GEN,Chhindwara,148586,INC,Sohanlal Valmik,72235,BJP,Tarachand Bavariya,65373,6862,4.62
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,128,Pandhurna,GEN,Chhindwara,141169,INC,Jatan Uiky,61741,BJP,Tikaram Korachi,60263,1478,1.05
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,129,Multai,GEN,Betul,147706,BJP,Chandrashekhar Desmukh,84354,INC,Sukhdev Panse,52485,31869,21.58
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,130,Amla,GEN,Betul,135259,BJP,Chaitram Manekar,77939,INC,Bele Sunita,38337,39602,29.28
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,131,Betul,GEN,Betul,153218,BJP,Hemant Vijay Khandelwal,82949,INC,Hemant Wagadre,58602,24347,15.89
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,132,Ghodadongri,GEN,Betul,155353,BJP,Sajjan Singh Ueikey,77793,INC,Bramha,69709,8084,5.2
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,133,Bhainsdehi,GEN,Betul,153465,BJP,Mahendra Kesharsingh Chouhan,77918,INC,Dharmusingh Sirsam,64642,13276,8.65
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,134,Timarni,GEN,Harda *,116764,BJP,Sanjay Shah Makdai,62502,INC,Ramesh Radhelal Ivne,45995,16507,14.14
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,135,Harda,GEN,Harda *,151497,INC,R K Dogne,74607,BJP,Kamal Patel,69956,4651,3.07
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,136,Seoni Malwa,GEN,Hoshangabad,161137,BJP,Sartaj Singh,78374,INC,Dada Hajari Lal Raghuwanshi,65827,12547,7.79
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,137,Hoshangabad,GEN,Hoshangabad,139630,BJP,Dr Sita Sharan Sharma,91760,INC,Ravi Kishor Jaiswal,42464,49296,35.3
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,138,Sohagpur,GEN,Hoshangabad,167652,BJP,Vijaypal Singh,92859,INC,Ranveer Singh Galcha,63968,28891,17.23
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,139,Pipariya,GEN,Hoshangabad,147251,BJP,Thakur Das Nagwanshi,91206,INC,Smt Mamta Manoj Nagotra,40049,51157,34.74
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,140,Udaipura,GEN,Raisen,148116,BJP,Ramkishan Patel,90950,INC,Bhagwan Singh Rajput,46897,44053,29.74
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,141,Bhojpur,GEN,Raisen,156498,BJP,Surendra Patwa,80491,INC,Suresh Pachouri,60342,20149,12.87
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,142,Sanchi,SC,Raisen,155496,BJP,Dr. Gourishankar Shejwar,85599,INC,Dr. Prabhuram Choudhary,64663,20936,13.46
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,143,Silwani,GEN,Raisen,138958,BJP,Rampal Singh,68926,INC,Devendra Patel,51848,17078,12.29
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,144,Vidisha,GEN,Vidisha,133983,BJP,Shivraj Singh Chauhan,73783,INC,Shashank Bhargava,56817,16966,12.66
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,145,Basoda,GEN,Vidisha,129731,INC,Nishank,68002,BJP,Harisingh Raghuwanshi,51843,16159,12.46
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,146,Kurwai,SC,Vidisha,138502,BJP,Veersingh Panwar,65003,INC,Pan Bai Panthi,60922,4081,2.95
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,147,Sironj,GEN,Vidisha,139914,INC,Govardhan Lal,65297,BJP,Laxmikant,63713,1584,1.13
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,148,Shamshabad,GEN,Vidisha,120030,BJP,Surya Prakash Meena,54233,INC,Jyotsna Yadav,51075,3158,2.63
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,149,Berasia,GEN,Bhopal,136190,BJP,Vishnu Khatri,76657,INC,Mahesh Ratnakar,47353,29304,21.52
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,150,Bhopal Uttar,GEN,Bhopal,141786,INC,Arif Aqueel,73070,BJP,Arif Baig,66406,6664,4.7
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,151,Narela,GEN,Bhopal,174307,BJP,Vishwas Sarang,98472,INC,Sunil Sood,71502,26970,15.47
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,152,Bhopal Dakshina-Pashchim,GEN,Bhopal,128525,BJP,Umashankar Gupta,71167,INC,Sanjeev Saxena,52969,18198,14.16
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,153,Bhopal Madhya,GEN,Bhopal,137134,BJP,Surendra Nath Singh,70696,INC,Arif Masood,63715,6981,5.09
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,154,Govindpura,GEN,Bhopal,177190,BJP,Baboolal Gour,116586,INC,Govind Goyal,45942,70644,39.87
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,155,Huzur,GEN,Bhopal,163746,BJP,Rameshwar Sharma,108994,INC,Rajendra Mandloi,49390,59604,36.4
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,156,Budhni,GEN,Sehore,181692,BJP,Shivraj Singh Chouhan,128730,INC,Dr. Mahendra Singh Chauhan,43925,84805,46.68
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,157,Ashta,GEN,Sehore,183818,BJP,Ranjeet Singh Gunwan,84252,INC,Gopal Singh Engineer,78748,5504,2.99
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,158,Ichhawar,GEN,Sehore,158213,INC,Shailendra Ramesh Chandra Patel,74704,BJP,Karan Singh Kanhaiyalal,73960,744,0.47
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,159,Sehore,GEN,Sehore,140635,IND,Sudesh Rai,63604,BJP,Usha Ramesh Saxena,61978,1626,1.16
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,160,Narsinghgarh,GEN,Rajgarh,154794,INC,Girish Bhandari,85847,BJP,Mohan Sharma-Premnarayan,62829,23018,14.87
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,161,Biaora,GEN,Rajgarh,158068,BJP,Narayan Singh Panwar,75766,INC,Ram Chandra Dangi,72678,3088,1.95
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,162,Rajgarh,GEN,Rajgarh,151967,BJP,Amarsingh Yadav,97735,INC,Shivsingh Bamlabe,46524,51211,33.7
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,163,Khilchipur,GEN,Rajgarh,160452,BJP,Kunwar Hajarilal Dangi,82712,INC,Priyavrat Singh,71233,11479,7.15
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,164,Sarangpur,GEN,Rajgarh,132900,BJP,Kunwarji Kothar,73108,INC,Krishan Mohan Malviya,54995,18113,13.63
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,165,Susner,GEN,Shajapur,153622,BJP,Murlidhar Patidar,79018,INC,Ambavtiya Vallabh Bhai,51342,27676,18.02
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,166,Agar,GEN,Shajapur,149155,BJP,Manohar Oontwal,83726,INC,Madhav Singh,54867,28859,19.35
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,167,Shajapur,GEN,Shajapur,162138,BJP,Arun Bhimawad,76911,INC,Karada Hukum Singh,74973,1938,1.2
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,168,Shujalpur,GEN,Shajapur,140321,BJP,Jaswantsingh Hada,56637,INC,Mahendra Joshi,47981,8656,6.17
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,169,Kalapipal,GEN,Shajapur,146597,BJP,Indersingh Parmar,75330,INC,Kedarsingh Mandloi,65757,9573,6.53
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,170,Sonkatch,GEN,Dewas,156914,BJP,Rajendra Phulchand Verma,72644,INC,Arjun Verma,70764,1880,1.2
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,171,Dewas,GEN,Dewas,155582,BJP,Tukojirao Puar,100660,INC,Rekha Verma,50541,50119,32.21
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,172,Hatpipliya,GEN,Dewas,137806,BJP,Deepak Kailash Joshi,68824,INC,Th.Rajendra Singh Baghel,62649,6175,4.48
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,173,Khategaon,GEN,Dewas,145626,BJP,Aashish Govind Sharma,79968,INC,Shyam Holani,58251,21717,14.91
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,174,Bagli,GEN,Dewas,154525,BJP,Champalal Devda,87580,INC,Tersingh Devda,62248,25332,16.39
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,175,Mandhata,GEN,East Nimar,131266,BJP,Lokendra Singh Tomar,65327,INC,Narayan Patel,60990,4337,3.3
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,176,Harsud,GEN,East Nimar,129453,BJP,Kuvar Vijay Shah,73880,INC,Surajbhanu Solanki,30309,43571,33.66
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,177,Khandwa,GEN,East Nimar,146855,BJP,Devendra Verma,89074,INC,Mohan Dhakase,55003,34071,23.2
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,178,Pandhana,GEN,East Nimar,166327,BJP,Yogita Navalsing Borker (Bhabhi),89732,INC,Nandu Bare,72471,17261,10.38
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,179,Nepanagar,GEN,Burhanpur,163568,BJP,Rajendra Shyamlal Dadu(Raju Bhaiyya),87224,INC,Ramkishan Patel,65046,22178,13.56
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,180,Burhanpur,GEN,Burhanpur,193633,BJP,Archna Chitnis Didi,104426,INC,Ajaysingh Raghuvanshi,81599,22827,11.79
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,181,Bhikangaon,GEN,West Nimar,148338,INC,Jhuma Solanki,72060,BJP,Nanda Brahamne,69661,2399,1.62
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,182,Badwaha,GEN,West Nimar,151384,BJP,Hitendra Sinh Dhyan Sinh Solanki,67600,IND,Sachin Birla,61970,5630,3.72
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,183,Maheshwar,GEN,West Nimar,152258,BJP,Mev Rajkumar,74320,INC,Sunil Khande,69593,4727,3.1
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,184,Kasrawad,GEN,West Nimar,155116,INC,Sachin Subhashchandra Yadav,79685,BJP,Atmaram - Patel,67880,11805,7.61
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,185,Khargone,GEN,West Nimar,151811,BJP,Balkrishan Patidar,74519,INC,Ravi Ramesh Chandra Joshi,67694,6825,4.5
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,186,Bhagwanpura,GEN,West Nimar,147280,INC,Vijay Singh,67251,BJP,Gajengra Singh,65431,1820,1.24
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,187,Sendhwa (S.T.),GEN,Barwani *,158610,BJP,Antarsingh Raoji Arya,88821,INC,Dayaram Patel,63135,25686,16.19
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,188,Rajpur (S.T.),GEN,Barwani *,163139,INC,Bala Bachchan,82167,BJP,Devisingh Patel,70971,11196,6.86
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,189,Pansemal (S.T.),GEN,Barwani *,148456,BJP,Diwansingh Vithal Patel,77919,INC,Miss Chandrabhaga Kirade,70537,7382,4.97
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,190,Barwani (S.T.),GEN,Barwani *,160981,INC,Ramesh Patel,77761,BJP,Premsingh Patel,67234,10527,6.54
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,191,Alirajpur,GEN,Jhabua,127608,BJP,Chouhan Nagarsingh,68501,INC,Sena Mahesh Patel,51132,17369,13.61
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,192,Jobat,GEN,Jhabua,113117,BJP,Madhosingh Dawar,45793,INC,Vishal Rawat,34742,11051,9.77
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,193,Jhabua,GEN,Jhabua,130281,BJP,Shantilal Bilwal,56587,INC,Jeviyar Meda,40729,15858,12.17
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,194,Thandla,GEN,Jhabua,165148,IND,Kalsingh Bhabar,63665,INC,Gendal Damor,58549,5116,3.1
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,195,Petlawad,GEN,Jhabua,155615,BJP,Nirmala Dilipsingh Bhuriya,80384,INC,Valsingh Maida,63368,17016,10.93
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,196,Sardarpur,GEN,Dhar,127379,BJP,Welsingh Bhuriya,60192,INC,Pratap Grewal,59663,529,0.42
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,197,Gandhwani,GEN,Dhar,128817,INC,Umang Singhar,66760,BJP,Sardarsingh Meda,54434,12326,9.57
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,198,Kukshi,GEN,Dhar,142051,INC,Surendrasingh Hani Baghel,89111,BJP,Kirade Mukamsingh Kishansingh,46343,42768,30.11
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,199,Manawar,GEN,Dhar,146565,BJP,Ranjana Baghel,55293,INC,Niranjan Dawar Loni,53654,1639,1.12
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,200,Dharampuri,GEN,Dhar,128019,BJP,Kalusingh Thakur,65069,INC,Pachilal Meda,57496,7573,5.92
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,201,Dhar,GEN,Dhar,171354,BJP,Neena Vikram Verma,85624,INC,Kunw. Balmukund Singh Gautam,74142,11482,6.7
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,202,Badnawar,GEN,Dhar,144700,BJP,Bhanvarsingh Shekhawat,73738,INC,Rajvardhansingh Premsingh Dattigaon,63926,9812,6.78
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,203,Depalpur,GEN,Indore,162485,BJP,Manoj Nirbhaysingh Patel,93264,INC,Satyanarayan Patel,63067,30197,18.58
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,204,Indore-1,GEN,Indore,187901,BJP,Arya Sudarshan Gupta,99558,IND,Kamlesh Khandelwal,45382,54176,28.83
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,205,Indore-2,GEN,,181771,BJP,Ramesh Mendola,133669,INC,Chhotu Shukla,42652,91017,50.07
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,206,Indore-3,GEN,,125796,BJP,Miss Usha Thakur (Didi),68334,INC,Ashwin Joshi,55016,13318,10.59
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,207,Indore-4,GEN,,152571,BJP,Malini Laxman Singh Gaur,91998,INC,Suresh Minda,58175,33823,22.17
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,208,Indore-5,GEN,,204416,BJP,Mahendra Hardia,106111,INC,Pankaj Sanghvi,91693,14418,7.05
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,209,Dr.Ambedkar Nagar -Mhow,GEN,Indore,171031,BJP,Kailash Vijayvargiya,89848,INC,Antersingh Darbar,77632,12216,7.14
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,210,Rau,GEN,Indore,167151,INC,Jitu Patwari,91885,BJP,Jeetu Jirati,73326,18559,11.1
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,211,Sanwer,GEN,Indore,162809,BJP,Rajesh Sonkar,87292,INC,Tulsiram Silawat,69709,17583,10.8
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,212,Nagada - Khacharod,GEN,Ujjain,147041,BJP,Dilip Singh Shekhawat,78036,INC,Dilip Gurjar,61921,16115,10.96
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,213,Mahidpur,GEN,Ujjain,135430,BJP,Bhadursingh Chouhan,71096,IND,Dinesh Jain Boss,50462,20634,15.24
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,214,Tarana,GEN,Ujjain,118045,BJP,Anil Firojiya,64792,INC,Rajendra Radhakishan Malviya,48657,16135,13.67
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,215,Ghatiya,GEN,Ujjain,138035,BJP,Satish Malviya,74092,INC,Ramlal Malviya,56723,17369,12.58
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,216,Ujjain North,GEN,Ujjain,123579,BJP,Paraschandra Jain,72815,INC,Vivek Jagdish Yadav,47966,24849,20.11
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,217,Ujjain South,GEN,Ujjain,139266,BJP,Dr Mohan Yadav,73108,INC,Jaysingh Darbar,63456,9652,6.93
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,218,Badnagar,GEN,Ujjain,131674,BJP,Mukesh Pandya,58679,INC,Mahesh Patel,45544,13135,9.98
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,219,Ratlam Rural,GEN,Ratlam,135343,BJP,Mathuralal,77367,INC,Smt. Laxmi Devi Kharadi,50398,26969,19.93
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,220,Ratlam City,GEN,Ratlam,130568,BJP,Chetanya Kumar Kashyap,76184,INC,Smt Adity Dawesar,35879,40305,30.87
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,221,Sailana,GEN,Ratlam,138087,BJP,Sangeeta Vijay Charel,47662,INC,Guddu Harshvijay Gehlot,45583,2079,1.51
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,222,Jaora,GEN,Ratlam,156445,BJP,Rajendra Pandey,89656,INC,Kadpa Mo.Yusuf,59805,29851,19.08
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,223,Alote,GEN,Ratlam,146138,BJP,Jitendra Thavarchand Gehlot,73449,INC,Ajit Premchand Guddu,65476,7973,5.46
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,224,Mandsour,GEN,Mandsaur,171025,BJP,Yashpal Singh Sisodiya,84975,INC,Mahendra Singh Gurjar,60680,24295,14.21
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,225,Malhargarh,GEN,Mandsaur,176097,BJP,Jagdish Dewra,86857,INC,Shyamlal Jokchand,80286,6571,3.73
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,226,Suwasra,GEN,Mandsaur,181374,INC,Hardeep Singh Dung,87517,BJP,Radheshyam Nanalal Patidar,80392,7125,3.93
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,227,Garoth,GEN,Mandsaur,159501,BJP,Rajesh Yadav Dharmveer Singh,88525,INC,Subhash Kumar Sojatia,62770,25755,16.15
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,228,Manasa,GEN,Neemuch *,133733,BJP,Kailash Chawla,55852,INC,Vijendrasingh,41824,14028,10.49
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,229,Neemuch,GEN,Neemuch *,146420,BJP,Dilip Singh Parihar,73320,INC,Nandkishor Patel,51653,21667,14.8
+ae-madhya-pradesh-2013,AE,Madhya Pradesh,2013,2013,official,230,Jawad,GEN,Neemuch *,122372,BJP,Om Prakash Sakhlecha,56154,IND,Rajkumar Rameshchand Aheer,42503,13651,11.16

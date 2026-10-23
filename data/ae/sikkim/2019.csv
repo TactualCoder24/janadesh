@@ -1,0 +1,33 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,1,Yoksam-Tashiding,GEN,West,9797,SKM,Sangay Lepcha,4754,SDF,Dichen Wangchuk Bhutia,4687,67,0.68
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,2,Yangthang,GEN,West,9379,SKM,Bhim Hang Limboo,4546,SDF,Dal Bahadur Subba,4505,41,0.44
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,3,Maneybong-Dentam,GEN,West,10331,SDF,Narendra Kumar Subba,5698,SKM,Purna Hang Subba,4496,1202,11.63
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,4,Gyalshing-Barnyak,GEN,West,8674,SKM,Lok Nath Sharma,4949,SDF,Laxuman Sharma,3418,1531,17.65
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,5,Rinchenpong,GEN,West,10538,SDF,Karma Sonam Lepcha,5505,SKM,Phurba Tshering Bhutia,4611,894,8.48
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,6,Daramdin,GEN,West,11225,SKM,Mingma Narbu Sherpa,5509,SDF,Pem Norbu Sherpa,5212,297,2.65
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,7,Soreng-Chakung,GEN,West,11624,SKM,Aditya Tamang,5821,SDF,Sancha Raj Subba,5636,185,1.59
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,8,Salghari-Zoom,SC,West,8105,SKM,Sunita Gajmer,3993,SDF,Dhan Kumari Kami,3909,84,1.04
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,9,Barfung,GEN,South,10230,SDF,Tashi Thendup Bhutia,5026,SKM,Lobzang Bhutia,4943,83,0.81
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,10,Poklok-Kamrang,GEN,South,10881,SDF,Pawan Kumar Chamling,6430,SKM,Kharga Bahadur Rai,4018,2412,22.17
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,11,Namchi-Singhithang,GEN,South,8306,SDF,Pawan Kumar Chamling,4179,SKM,Ganesh Rai,3867,312,3.76
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,12,Melli,GEN,South,11120,SDF,Farwanti Tamang,5588,SKM,Tilak Basnet,4827,761,6.84
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,13,Namthang-Rateypani,GEN,South,10831,SKM,Sanjit Kharel,5805,SDF,Birjan Tamang,4699,1106,10.21
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,14,Temi-Namphing,GEN,South,10443,SKM,Bedu Singh Panth,5399,SDF,Garjaman Gurung,4716,683,6.54
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,15,Rangang-Yangang,GEN,South,9690,SDF,Raj Kumari Thapa,5181,SKM,Raj Kumar Basnet,3895,1286,13.27
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,16,Tumin-Lingee,GEN,East,10808,SDF,Ugyen Tshering Gyatso Bhutia,5392,SKM,Samdup Tshering Bhutia,5130,262,2.42
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,17,Khamdong-Singtam,GEN,East,9071,SKM,Dr. Mani Kumar Sharma,4571,SDF,Garjaman Gurung,3824,747,8.24
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,18,West Pendam,SC,East,9227,SKM,Lall Bahadur Das,4580,SDF,Gopal Baraily,3870,710,7.69
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,19,Rhenock,GEN,East,12427,SKM,Bishnu Kumar Sharma,7013,SDF,Hemendra Adhikari,4321,2692,21.66
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,20,Chujachen,GEN,East,12923,SDF,Krishna Bahadur Rai,6606,SKM,Damber Kumar Pradhan,5401,1205,9.32
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,21,Gnathang-Machong,GEN,East,8279,SDF,Dorjee Tshering Lepcha,5213,SKM,Tshering Bhutia,2827,2386,28.82
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,22,Namchaybong,GEN,East,11033,SDF,Em Prasad Sharma,5464,SKM,Denis Rai,4600,864,7.83
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,23,Shyari,GEN,East,9482,SKM,Kunga Nima Lepcha,5150,SDF,Karma Wangdi Bhutia,4099,1051,11.08
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,24,Martam-Rumtek,GEN,East,11874,SDF,Dorjee Tshering Lepcha,5391,SKM,Sonam Venchungpa,5328,63,0.53
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,25,Upper Tadong,GEN,East,6686,SDF,Gay Tshering Dhungel,3411,SKM,Anand Lama,3042,369,5.52
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,26,Arithang,GEN,East,6481,SKM,Arun Kumar Upreti,2593,IND,Ashis Rai,2203,390,6.02
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,27,Gangtok,GEN,East,6817,SKM,Kunga Nima Lepcha,3524,SDF,Pintso Chopel,2708,816,11.97
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,28,Upper Burtuk,GEN,East,8939,SDF,Dilli Ram Thapa,4628,SKM,Nagendra Bikram Gurung,4054,574,6.42
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,29,Kabi-Lungchok,GEN,North,8902,SKM,Karma Loday Bhutia,4902,SDF,Ugen Nedup Bhutia,3667,1235,13.87
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,30,Djongu,GEN,North,7075,SDF,Pintso Namgyal Lepcha,4682,SKM,Chungkipu Lepcha,2178,2504,35.39
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,31,Lachen-Mangan,GEN,North,6069,SKM,Samdup Lepcha,3265,SDF,Tshering Wangdi Lepcha,2738,527,8.68
+ae-sikkim-2019,AE,Sikkim,2019,2019,official_winners_only,32,Sangha,GEN,,2356,SKM,Sonam Lama,1476,SDF,Tshering Lama,851,625,26.53

@@ -1,0 +1,61 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,1,Nartiang,ST,Jaintia Hills,33641,NPP,Sniawbhalang Dhar,13981,INC,Emang Laloo,12232,1749,5.2
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,2,Jowai,ST,Jaintia Hills,30422,NPP,Wailadmiki Shylla,11667,AITC,Awhai Andrew Shullai,9455,2212,7.27
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,3,Raliang,ST,Jaintia Hills,28779,NPP,Comingone Ymbon,11060,BJP,Lakhon Biam,6726,4334,15.06
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,4,Mowkaiaw,ST,Jaintia Hills,31144,UDP,Nujorki Sungoh,12296,NPP,Habahun Dkhar,8988,3308,10.62
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,5,Sutnga Saipung,ST,Jaintia Hills,37822,NPP,Santa Mary Shylla,14788,INC,Vincent Pala,13196,1592,4.21
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,6,Khliehriat,ST,Jaintia Hills,35380,UDP,Kyrmen Shylla,19441,NPP,Nehlang Lyngdoh,14806,4635,13.1
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,7,Amlarem,ST,Jaintia Hills,29704,UDP,Lahkmen Rymbui,14600,NPP,Stephanson Mukhim,14552,48,0.16
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,8,Mawhati,ST,Ri Bhoi  *,27496,INC,Charles Marngar,10278,NPP,Shemphang Lyngdoh,6217,4061,14.77
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,9,Nongpoh,ST,Ri Bhoi  *,25566,UDP,Mayralborn Syiem,11617,INC,Rona Khymdeit,6420,5197,20.33
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,10,Jirang,ST,Ri Bhoi  *,32311,NPP,Sosthenes Sohtun,11765,INC,Adrian Lambert Mylleim,10262,1503,4.65
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,11,Umsning,ST,Ri Bhoi  *,25241,INC,Celestine Lyngdoh,7398,UDP,Sunshine Makri,6527,871,3.45
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,12,Umroi,ST,Ri Bhoi  *,22053,NPP,Damanbait Lamare,10982,AITC,George B. Lyngdoh,9679,1303,5.91
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,13,Mawrengkneng,ST,East Khasi Hills,26745,VPP,Heaving Stone Kharpran,8850,UDP,Osaphi Smithson Jyrwa,7887,963,3.6
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,14,Pynthorumkhrah,GEN,East Khasi Hills,24366,BJP,Alexander Laloo Hek,8699,INC,Pynshngain Syiem,6330,2369,9.72
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,15,Mawlai,ST,East Khasi Hills,33452,VPP,Brightstarwell Marbaniang,19917,NPP,Teiborlang Pathaw,7072,12845,38.4
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,16,East Shillong,ST,East Khasi Hills,19111,NPP,Ampareen Lyngdoh,7445,INC,Manuel Badwar,5527,1918,10.04
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,17,North Shillong,ST,East Khasi Hills,21327,VPP,Adelbert Nongrum,6281,BJP,Mariahom Kharkrang,5118,1163,5.45
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,18,West Shillong,GEN,East Khasi Hills,21987,UDP,Paul Lyngdoh,9265,NPP,Mohendro Rapsang,5187,4078,18.55
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,19,South Shillong,GEN,East Khasi Hills,24857,BJP,Sanbor Shullai,16341,VPP,Danny Langstheih,2993,13348,53.7
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,20,Mylliem,ST,East Khasi Hills,25277,INC,Ronnie V. Lyngdoh,7252,VPP,Aibandaplin F. Lyngdoh,7219,33,0.13
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,21,Nongthymmai,ST,East Khasi Hills,24754,AITC,Charles Pyngrope,7372,UDP,Jemino Mawthoh,6186,1186,4.79
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,22,Nongkrem,ST,East Khasi Hills,26523,VPP,Ardent Miller Basaiawmoit,10813,UDP,Lambor Malngiang,7405,3408,12.85
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,23,Sohiong,ST,East Khasi Hills,26018,UDP,Synshar Lyngdoh Thabah,13490,NPP,Samlin Malngiang,10725,2765,10.63
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,24,Mawphlang,ST,East Khasi Hills,25438,UDP,Matthew Beyondstar Kurbah,5444,PDF,Auspicious Lyngdoh Mawphlang,5360,84,0.33
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,25,Mawsynram,ST,East Khasi Hills,27174,UDP,Ollan Singh Suin,9030,BJP,Himalaya Muktan Shangpliang,8245,785,2.89
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,26,Shella,ST,East Khasi Hills,21984,UDP,Balajied Kupar Synrem,9532,NPP,Grace Mary Kharpuri,9220,312,1.42
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,27,Pynursla,ST,East Khasi Hills,31670,NPP,Prestone Tysong,12522,INC,Nehru Suting,5105,7417,23.42
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,28,Sohra,ST,East Khasi Hills,21868,PDF,Gavin Miguel Mylliem,9252,UDP,Titosstar Well Chyne,9239,13,0.06
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,29,Mawkynrew,ST,East Khasi Hills,28453,PDF,Banteidor Lyngdoh,10027,HSPDP,Martle N. Mukhim,6507,3520,12.37
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,30,Mairang,ST,West Khasi Hills,31021,UDP,Metbah Lyngdoh,15057,INC,Batskhem Ryntathiang,14933,124,0.4
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,31,Mawthadraishan,ST,West Khasi Hills,30896,HSPDP,Shakliar Warjri,13171,UDP,Brodling Nongsiej,11385,1786,5.78
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,32,Nongstoin,ST,West Khasi Hills,28551,INC,Gabriel Wahlang,10041,NPP,Macmillan Byrsat,8140,1901,6.66
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,33,Rambrai-Jyrngam,ST,West Khasi Hills,26397,IND,Remington Gabil Momin,7022,HSPDP,K. Phlastingwell Pangiang,6934,88,0.33
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,34,Mawshynrut,ST,West Khasi Hills,27404,HSPDP,Methodius Dkhar,14387,NPP,Gigur Myrthong,10534,3853,14.06
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,35,Ranikor,ST,West Khasi Hills,26533,UDP,Pius Marwein,13463,BJP,Martin M. Danggo,8854,4609,17.37
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,36,Mawkyrwat,ST,West Khasi Hills,27449,UDP,Renikton Lyngdoh Tongkhar,8545,INC,Carnes Sohshang,7527,1018,3.71
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,37,Kharkutta,ST,East Garo Hills,31120,NPP,Rupert Momin,14636,AITC,Cherak Watre Momin,13351,1285,4.13
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,38,Mendipathar,ST,East Garo Hills,20679,NPP,Marthon J. Sangma,7767,INC,Timjim K. Momin,4593,3174,15.35
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,39,Resubelpara,ST,East Garo Hills,21134,NPP,Timothy J. Shira,8729,AITC,Rinaldo K. Sangma,5966,2763,13.07
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,40,Bajengdoba,ST,East Garo Hills,24042,NPP,Pongseng Marak,8230,INC,Brigady Napak Marak,6304,1926,8.01
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,41,Songsak,ST,East Garo Hills,23257,AITC,Mukul Sangma,10352,NPP,Nihim D. Shira,10049,303,1.3
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,42,Rongjeng,ST,East Garo Hills,24227,NPP,Jim M. Sangma,7103,IND,Walseng M. Sangma,6999,104,0.43
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,43,Williamnagar,ST,East Garo Hills,25639,NPP,Marcuise N. Marak,9461,INC,Deborah C. Marak,6148,3313,12.92
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,44,Raksamgre,ST,West Garo Hills,23181,NPP,Limison D. Sangma,10214,BJP,Benedic R. Marak,7851,2363,10.19
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,45,Tikrikilla,ST,West Garo Hills,26746,NPP,Jimmy D. Sangma,11078,AITC,Mukul Sangma,6625,4453,16.65
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,46,Phulbari,GEN,West Garo Hills,24527,NPP,Abu Taher Mondal,12420,AITC,S. G. Esmatur Mominin,9732,2688,10.96
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,47,Rajabala,GEN,West Garo Hills,28595,AITC,Mizanur Rahman Kazi,10835,NPP,Md. Abdus Saleh,10826,9,0.03
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,48,Selsella,ST,West Garo Hills,28609,NPP,Arbinstone B. Marak,14264,AITC,Agassi R. Marak,6751,7513,26.26
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,49,Dadenggre,ST,West Garo Hills,26759,AITC,Rupa M. Marak,12764,NPP,James Sangma,12748,16,0.06
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,50,North Tura,ST,West Garo Hills,24520,NPP,Thomas A. Sangma,10382,BJP,Adam Kid M. Sangma,6839,3543,14.45
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,51,South Tura,ST,West Garo Hills,23397,NPP,Conrad Sangma,12176,BJP,Bernard N. Marak,7600,4576,19.56
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,52,Rangsakona,ST,West Garo Hills,28159,NPP,Subir Marak,11745,AITC,Zenith M. Sangma,11066,679,2.41
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,53,Ampati,ST,West Garo Hills,26060,AITC,Miani D Shira,11646,NPP,Stevie M. Marak,9673,1973,7.57
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,54,Mahendraganj,ST,West Garo Hills,27484,NPP,Sanjay A. Sangma,11337,AITC,Dikkanchi D. Shira,9902,1435,5.22
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,55,Salmanpara,ST,West Garo Hills,25559,NPP,Ian Botham Sangma,10694,AITC,Winnerson D. Sangma,5761,4933,19.3
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,56,Gambegre,ST,West Garo Hills,23346,INC,Saleng A. Sangma,9238,AITC,Sadhiarani M. Sangma,6882,2356,10.09
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,57,Dalu,ST,West Garo Hills,18720,NPP,Brening A. Sangma,5766,BJP,Akki A. Sangma,5245,521,2.78
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,58,Rongara Siju,ST,South Garo Hills *,23883,NPP,Rakkam A Sangma,9388,INC,Rophul S. Marak,6745,2643,11.07
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,59,Chokpot,ST,South Garo Hills *,23288,NPP,Sengchim N. Sangma,7762,GNC,Nikman Ch. Marak,7473,289,1.24
+ae-meghalaya-2023,AE,Meghalaya,2023,2023,official_winners_only,60,Baghmara,ST,South Garo Hills *,24132,IND,Kartush R. Marak,7457,BJP,Samuel M. Sangma,5616,1841,7.63

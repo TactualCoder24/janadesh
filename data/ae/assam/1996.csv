@@ -1,0 +1,123 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-assam-1996,AE,Assam,1996,1996,official,1,Ratabari,SC,Karimganj,71755,BJP,Sambhusing Mallah,23463,CPI(M),Rathish Ranjan Choudhury,22563,900,1.25
+ae-assam-1996,AE,Assam,1996,1996,official,2,Patharkandi,GEN,Karimganj,86959,BJP,Sukhendu Shekhar Dutta,20618,INC,Moni Lal Gowala,19823,795,0.91
+ae-assam-1996,AE,Assam,1996,1996,official,3,Karimganj North,GEN,Karimganj,93021,AGP,Sirajul Haque Choudhury,36866,BJP,Mission Ranjan Das,35561,1305,1.4
+ae-assam-1996,AE,Assam,1996,1996,official,4,Karimganj South,GEN,Karimganj,90305,INC,Abdul Muqtadir Choudhury,43158,BJP,Biswarup Bhattacharjee,30008,13150,14.56
+ae-assam-1996,AE,Assam,1996,1996,official,5,Badarpur,GEN,Karimganj,73627,INC,Abu Saleh Najmuddin,30138,BJP,Dipak Deb,24891,5247,7.13
+ae-assam-1996,AE,Assam,1996,1996,official,6,Hailakandi,GEN,Hailakandi,88573,IND,Abdul Muhib Majumder,55873,BJP,Chittendra Nath Majumder,25161,30712,34.67
+ae-assam-1996,AE,Assam,1996,1996,official,7,Katlicherra,GEN,Hailakandi,90434,INC,Gautam Roy,59899,AGP,Benulal Ghose,25429,34470,38.12
+ae-assam-1996,AE,Assam,1996,1996,official,8,Algapur,GEN,Hailakandi,85197,AGP,Sahidul Alam Choudhury,47947,INC,Ashok Dutta Gupta,27738,20209,23.72
+ae-assam-1996,AE,Assam,1996,1996,official,9,Silchar,GEN,Cachar,97438,BJP,Bimalangshu Roy,42293,INC,Kamalendu Bhattacharjee,40774,1519,1.56
+ae-assam-1996,AE,Assam,1996,1996,official,10,Sonai,GEN,Cachar,81054,AGP,Anwar Hussain Laskar,42519,IND,Trailakshya Bhusan Nath,19118,23401,28.87
+ae-assam-1996,AE,Assam,1996,1996,official,11,Dholai,SC,Cachar,76159,INC,Girindra Mallik,27032,AGP,Kamakshya Prasad Mala,23947,3085,4.05
+ae-assam-1996,AE,Assam,1996,1996,official,12,Udharband,GEN,Cachar,68944,INC,Jagannath Sinha,23900,AGP,Joy Prakash Tewari,20013,3887,5.64
+ae-assam-1996,AE,Assam,1996,1996,official,13,Lakhipur,GEN,Cachar,78610,INC,Dinesh Prosad Goala,45961,BJP,Audesh Kumar Singh,22533,23428,29.8
+ae-assam-1996,AE,Assam,1996,1996,official,14,Barkhola,GEN,Cachar,69114,INC,Misbahul Islam Laskar,32934,BJP,Nripendra Kr. Deb,20552,12382,17.92
+ae-assam-1996,AE,Assam,1996,1996,official,15,Katigora,GEN,Cachar,81328,BJP,Kali Ranjan Deb,27180,INC,Anil Ch. Dey,20687,6493,7.98
+ae-assam-1996,AE,Assam,1996,1996,official,16,Haflong,ST,North Cachar Hills,64264,ASDC,Samarjit Haflongbar,35074,INC,Gobinda Ch. Langthasa,21403,13671,21.27
+ae-assam-1996,AE,Assam,1996,1996,official,17,Bokajan,ST,Karbi Anglong,59025,ASDC,Jagat Sing Engti,34201,IND,Ashwen Jishing Rengma,13623,20578,34.86
+ae-assam-1996,AE,Assam,1996,1996,official,18,Howraghat,ST,Karbi Anglong,58777,ASDC,Chandra Kanta Terang,31833,IND,Brojen Langthasa,15303,16530,28.12
+ae-assam-1996,AE,Assam,1996,1996,official,19,Diphu,ST,Karbi Anglong,74474,ASDC,Hemsing Tisso,31132,IND,Lutsat Singson,21637,9495,12.75
+ae-assam-1996,AE,Assam,1996,1996,official,20,Baithalangso,ST,Karbi Anglong,85746,ASDC,Holiram Terang,47637,INC,Khorsing Bey,34362,13275,15.48
+ae-assam-1996,AE,Assam,1996,1996,official,21,Mankachar,GEN,Dhubri,86651,AGP,Aminul Islam,42312,INC,Zahirul Islam,40248,2064,2.38
+ae-assam-1996,AE,Assam,1996,1996,official,22,Salmara South,GEN,Dhubri,72684,INC,Wazed Ali Choudhury,43355,IND,Dewan Joynal Abedin,16858,26497,36.46
+ae-assam-1996,AE,Assam,1996,1996,official,23,Dhubri,GEN,Dhubri,78726,INC,Nazibul Umar,30806,BJP,Dhruba Kumar Sen,23902,6904,8.77
+ae-assam-1996,AE,Assam,1996,1996,official,24,Gauripur,GEN,Dhubri,85520,IND,Banendra Kumar Mushahary,27480,INC,Mohibul Haque,24489,2991,3.5
+ae-assam-1996,AE,Assam,1996,1996,official,25,Golakganj,GEN,Dhubri,82390,CPI,Alauddin Sarkar,37264,BJP,Dinesh Chandra Sarkar,36748,516,0.63
+ae-assam-1996,AE,Assam,1996,1996,official,26,Bilasipara West,GEN,Dhubri,69831,AIIC(T),Ali Akbar Miah,18151,CPI,Giasuddin Ahmed,15613,2538,3.63
+ae-assam-1996,AE,Assam,1996,1996,official,27,Bilasipara East,GEN,Dhubri,89584,AGP,Prasanta Kumar Barua,37877,INC,Anwar Hussain,34068,3809,4.25
+ae-assam-1996,AE,Assam,1996,1996,official,28,Gossaigaon,GEN,Kokrajhar,71809,AGP,Rajendra Mushahary,26466,INC,Mathias Tudu,19418,7048,9.81
+ae-assam-1996,AE,Assam,1996,1996,official,29,Kokrajhar West,ST,Kokrajhar,79403,IND,Hemendra Nath Brahma,21887,INC,Jitendra Nath Roy,8923,12964,16.33
+ae-assam-1996,AE,Assam,1996,1996,official,30,Kokrajhar East,ST,Kokrajhar,83280,IND,Pramila Rani Brahma,37553,INC,Chitta Ranjan Brahma,10330,27223,32.69
+ae-assam-1996,AE,Assam,1996,1996,official,31,Sidli,ST,Kokrajhar,87011,IND,Andrias Hajoary,28365,INC,Chino Basumatary,12191,16174,18.59
+ae-assam-1996,AE,Assam,1996,1996,official,32,Bongaigaon,GEN,Bongaigaon,77483,AGP,Phani Bhusan Choudhury,39301,IND,Chimang Brahma,14543,24758,31.95
+ae-assam-1996,AE,Assam,1996,1996,official,33,Bijni,GEN,Kokrajhar,67762,IND,Mohini Basumatary,27514,AGP,Ratneswar Ray,17589,9925,14.65
+ae-assam-1996,AE,Assam,1996,1996,official,34,Abhayapuri North,GEN,Bongaigaon,71092,AGP,Bhupen Ch. Ray,34517,UMFA,Abdul Hai Nagori,32773,1744,2.45
+ae-assam-1996,AE,Assam,1996,1996,official,35,Abhayapuri South,SC,Bongaigaon,76351,AGP,Rabin Banikya,43549,INC,Chandan Kumar Sarkar,16977,26572,34.8
+ae-assam-1996,AE,Assam,1996,1996,official,36,Dudhnai,ST,Goalpara,78586,AGP,Akan Rabha,23389,INC,Anandi Bala Rabha,16962,6427,8.18
+ae-assam-1996,AE,Assam,1996,1996,official,37,Goalpara East,GEN,Goalpara,80808,AGP,Jyotish Das,21647,IND,Shadeed Mazumdar,20411,1236,1.53
+ae-assam-1996,AE,Assam,1996,1996,official,38,Goalpara West,GEN,Goalpara,69402,INC,Abu Bakkar Siddique Jotdar,19370,IND,Nazmul Hoque,13663,5707,8.22
+ae-assam-1996,AE,Assam,1996,1996,official,39,Jaleswar,GEN,Goalpara,63019,INC,Afzalur Rahman,25474,AGP,Sahabuddin,18863,6611,10.49
+ae-assam-1996,AE,Assam,1996,1996,official,40,Sorbhog,GEN,Barpeta,71745,CPI(M),Hemen Das,31332,INC,Samir Mazumdar,11799,19533,27.23
+ae-assam-1996,AE,Assam,1996,1996,official,41,Bhabanipur,GEN,Barpeta,62638,AGP,Surendra Nath Medhi,23463,IND,Mati Ram Basumatary,15440,8023,12.81
+ae-assam-1996,AE,Assam,1996,1996,official,42,Patacharkuchi,GEN,Barpeta,65136,AGP,Mohan Das,35935,INC,Pabindra Deka,6148,29787,45.73
+ae-assam-1996,AE,Assam,1996,1996,official,43,Barpeta,GEN,Barpeta,71528,AIIC(T),Ismail Hussain,23255,AGP,Kumar Deepak Das,18946,4309,6.02
+ae-assam-1996,AE,Assam,1996,1996,official,44,Jania,GEN,Barpeta,68129,UMFA,Abdur Rouf,14505,IND,A. Jalil Talukdar,13659,846,1.24
+ae-assam-1996,AE,Assam,1996,1996,official,45,Baghbar,GEN,Barpeta,51429,UMFA,Sheikh Abdul Hamid,20407,INC,Dildar Razza,13717,6690,13.01
+ae-assam-1996,AE,Assam,1996,1996,official,46,Sarukhetri,GEN,Barpeta,75067,CPI(M),Nizamuddin Khan,21375,AIIC(T),Kandarpa Kumar Das,12106,9269,12.35
+ae-assam-1996,AE,Assam,1996,1996,official,47,Chenga,GEN,Barpeta,53782,INC,Sukur Ali,17366,AGP,Abdul Kaddus,13877,3489,6.49
+ae-assam-1996,AE,Assam,1996,1996,official,48,Boko,SC,Kamrup,87050,AGP,Jyoti Prasad Das,49263,INC,Gopinath Das,34992,14271,16.39
+ae-assam-1996,AE,Assam,1996,1996,official,49,Chaygaon,GEN,Kamrup,78109,AGP,Kamala Kanta Kalita,39103,INC,Imran Shah,34997,4106,5.26
+ae-assam-1996,AE,Assam,1996,1996,official,50,Palasbari,GEN,Kamrup,73316,AGP,Jatin Mali,44643,BJP,Dinesh Choudhury,14373,30270,41.29
+ae-assam-1996,AE,Assam,1996,1996,official,51,Jalukbari,GEN,Kamrup,84490,AGP,Bhrigu Kumar Phukan,46446,INC,Himanta Biswa Sarma,29318,17128,20.27
+ae-assam-1996,AE,Assam,1996,1996,official,53,Gauhati East,GEN,Kamrup,85759,AGP,Biraj Kumar Sarma,39694,INC,Naren Sarma,23093,16601,19.36
+ae-assam-1996,AE,Assam,1996,1996,official,54,Gauhati West,GEN,Kamrup,87330,AGP,Ramendra Narayan Kalita,38786,INC,Hemanta Talukdar,25332,13454,15.41
+ae-assam-1996,AE,Assam,1996,1996,official,55,Hajo,GEN,Kamrup,73853,AGP,Nurul Hussain,45306,BJP,Nripen Ch. Das,11588,33718,45.66
+ae-assam-1996,AE,Assam,1996,1996,official,56,Kamalpur,GEN,Kamrup,78358,AGP,Maidul Islam Bora,43205,IND,Benudhar Kalita,20579,22626,28.88
+ae-assam-1996,AE,Assam,1996,1996,official,57,Rangiya,GEN,Kamrup,82035,AGP,Thaneswar Boro,43260,INC,Umesh Kalita,17494,25766,31.41
+ae-assam-1996,AE,Assam,1996,1996,official,58,Tamulpur,GEN,Nalbari,83890,IND,Derhagra Mochahari,27770,AGP,Ramesh Mazumdar,20089,7681,9.16
+ae-assam-1996,AE,Assam,1996,1996,official,59,Nalbari,GEN,Nalbari,82730,AGP,Nagen Sarma,33160,IND,Hemanta Barman,19846,13314,16.09
+ae-assam-1996,AE,Assam,1996,1996,official,60,Barkhetry,GEN,Nalbari,89569,AGP,Pulakesh Barua,46928,INC,Bhumidhar Barman,40166,6762,7.55
+ae-assam-1996,AE,Assam,1996,1996,official,61,Dharmapur,GEN,Nalbari,67838,AGP,Chandra Mohan Patowary,47894,INC,Nilamani Sen Deka,17339,30555,45.04
+ae-assam-1996,AE,Assam,1996,1996,official,62,Barama,ST,Nalbari,72705,AGP,Rekha Rani Das Boro,28656,IND,Gangadhar Ramchiary,18790,9866,13.57
+ae-assam-1996,AE,Assam,1996,1996,official,63,Chapaguri,ST,Barpeta,79495,IND,Jagmohan Basmatary,31926,AGP,Suren Swargiary,29269,2657,3.34
+ae-assam-1996,AE,Assam,1996,1996,official,64,Panery,GEN,Darrang,69076,IND,Kumud Chandra Das,29030,INC,Mridula Saharia,19640,9390,13.59
+ae-assam-1996,AE,Assam,1996,1996,official,65,Kalaigaon,GEN,Darrang,79599,AGP,Mahendra Mohan Rai Choudhury,23248,IND,Bhupen Boro,20820,2428,3.05
+ae-assam-1996,AE,Assam,1996,1996,official,66,Sipajhar,GEN,Darrang,85823,AGP,Zoii Nath Sarmah,42877,INC,Madhab Rajbangshi,37877,5000,5.83
+ae-assam-1996,AE,Assam,1996,1996,official,67,Mangaldoi,SC,Darrang,92676,AGP,Hiren Kumar Das,38971,INC,Nakul Das,31538,7433,8.02
+ae-assam-1996,AE,Assam,1996,1996,official,68,Dalgaon,GEN,Darrang,84228,AGP,Abdul Jabbar,36287,INC,Syada Anwara Taimur,24869,11418,13.56
+ae-assam-1996,AE,Assam,1996,1996,official,69,Udalaguri,ST,Darrang,70235,IND,Deva Kanta Ramchiary,36798,INC,Jaman Singh Brahma,33437,3361,4.79
+ae-assam-1996,AE,Assam,1996,1996,official,70,Majbat,GEN,Darrang,66195,INC,Silvius Condpan,24192,IND,Karendra Basumatary,23647,545,0.82
+ae-assam-1996,AE,Assam,1996,1996,official,71,Dhekiajuli,GEN,Sonitpur,69996,AGP,Joseph Toppo,32531,INC,Hiranya Bora,23608,8923,12.75
+ae-assam-1996,AE,Assam,1996,1996,official,72,Barchalla,GEN,Sonitpur,68831,AGP,Prafulla Goswami,27058,INC,Rudra Parajuli,20664,6394,9.29
+ae-assam-1996,AE,Assam,1996,1996,official,73,Tezpur,GEN,Sonitpur,68730,AGP,Brindabon Goswami,30706,INC,Bizit Saikia,28873,1833,2.67
+ae-assam-1996,AE,Assam,1996,1996,official,74,Rangapara,GEN,Sonitpur,68294,INC,Bhimananda Tanti,32555,CPI(M),Dhaniram Khosla,18450,14105,20.65
+ae-assam-1996,AE,Assam,1996,1996,official,75,Sootea,GEN,Sonitpur,77679,AGP,Padma Hazarika,31721,IND,Praneswar Basumatary,18144,13577,17.48
+ae-assam-1996,AE,Assam,1996,1996,official,76,Biswanath,GEN,Sonitpur,70819,AGP,Prabin Hazarika,30186,INC,Nurjamal Sarkar,22489,7697,10.87
+ae-assam-1996,AE,Assam,1996,1996,official,77,Behali,GEN,Sonitpur,55442,INC,Barnabash Tanti,18535,AGP,Kosheswar Borah,10479,8056,14.53
+ae-assam-1996,AE,Assam,1996,1996,official,78,Gohpur,GEN,Sonitpur,91673,AGP,Ganesh Kutum,33664,INC,Ripun Borah,31131,2533,2.76
+ae-assam-1996,AE,Assam,1996,1996,official,79,Jagiroad,SC,Marigaon,87742,AGP,Bubul Das,42272,INC,Dolly Bora,24923,17349,19.77
+ae-assam-1996,AE,Assam,1996,1996,official,80,Marigaon,GEN,Marigaon,76031,CPI,Munin Mahanta,25848,INC,Jonjonali Barua,21433,4415,5.81
+ae-assam-1996,AE,Assam,1996,1996,official,81,Laharighat,GEN,Marigaon,69481,INC,Nazrul Islam,33434,AGP,Ganesh Saikia,17170,16264,23.41
+ae-assam-1996,AE,Assam,1996,1996,official,82,Raha,SC,Nagaon,89134,AGP,Gahin Ch. Das,40254,INC,Ananda Ram Baruah,30224,10030,11.25
+ae-assam-1996,AE,Assam,1996,1996,official,83,Dhing,GEN,Nagaon,82442,INC,Mustafa Shahidul Islam,29665,AIIC(T),Idrish Ali,29188,477,0.58
+ae-assam-1996,AE,Assam,1996,1996,official,84,Batadroba,GEN,Nagaon,76681,AGP,Digen Chandra Borah,41065,INC,Bishnu Prasad,24790,16275,21.22
+ae-assam-1996,AE,Assam,1996,1996,official,85,Rupohihat,GEN,Nagaon,80822,INC,Rashidul Haque,33430,AIIC(T),Abdul Aziz,29827,3603,4.46
+ae-assam-1996,AE,Assam,1996,1996,official,86,Nowgong,GEN,Nagaon,84037,AGP,Prafulla Kumar Mahanta,53068,INC,Mukut Sarma,24259,28809,34.28
+ae-assam-1996,AE,Assam,1996,1996,official,87,Barhampur,GEN,Nagaon,77816,AGP,Prafulla Kumar Mahanta,48377,INC,Uma Phukan,22033,26344,33.85
+ae-assam-1996,AE,Assam,1996,1996,official,88,Samaguri,GEN,Nagaon,64834,AGP,Atul Kumar Sharma,20770,AIIC(T),Abedur Rahman,19532,1238,1.91
+ae-assam-1996,AE,Assam,1996,1996,official,89,Kaliabor,GEN,Nagaon,62403,AGP,Gunin Hazarika,29474,INC,Dilip Kumar Mahanta,22609,6865,11.0
+ae-assam-1996,AE,Assam,1996,1996,official,90,Jamunamukh,GEN,Nagaon,74746,AGP,Khalilur Rahman Chowdhury,28899,INC,Abdul Jalil Ragibi,19634,9265,12.4
+ae-assam-1996,AE,Assam,1996,1996,official,91,Hojai,GEN,Nagaon,92498,INC,Ardhendu Kumar Dey,37286,AGP,Kamal Dutta,32237,5049,5.46
+ae-assam-1996,AE,Assam,1996,1996,official,92,Lumding,GEN,Nagaon,78114,AGP,Hazi Abdur Rouf,38502,INC,Debesh Chandra Chakraborty,26250,12252,15.68
+ae-assam-1996,AE,Assam,1996,1996,official,93,Bokakhat,GEN,Golaghat,58572,INC,Bhupendra Nath Bhuyan,21558,AGP,Bhadreswar Tanti,20179,1379,2.35
+ae-assam-1996,AE,Assam,1996,1996,official,94,Sarupathar,GEN,Golaghat,99898,AGP,Binod Gowala,45860,INC,Aklius Tirkey,37811,8049,8.06
+ae-assam-1996,AE,Assam,1996,1996,official,95,Golaghat,GEN,Golaghat,85932,AGP,Atul Bora,41786,INC,Nogen Neog,29896,11890,13.84
+ae-assam-1996,AE,Assam,1996,1996,official,96,Khumtai,GEN,Golaghat,62751,IND,Probin Gogoi,23099,AGP,Amiya Kumar Borah,16881,6218,9.91
+ae-assam-1996,AE,Assam,1996,1996,official,98,Jorhat,GEN,Jorhat,73957,AGP,Hitendranath Goswami,36890,INC,Padmanath Sarma,22200,14690,19.86
+ae-assam-1996,AE,Assam,1996,1996,official,99,Majuli,ST,Jorhat,61911,AGP,Karuna Dutta,17934,INC,Padmeshwar Doley,12726,5208,8.41
+ae-assam-1996,AE,Assam,1996,1996,official,100,Titabar,GEN,Jorhat,62957,AGP,Hemanta Kalita,20430,CPI,Kula Das,17252,3178,5.05
+ae-assam-1996,AE,Assam,1996,1996,official,101,Mariani,GEN,Jorhat,57547,INC,Rupam Kurmi,26566,AGP,Bhaba Prasad Bora,21150,5416,9.41
+ae-assam-1996,AE,Assam,1996,1996,official,102,Teok,GEN,Jorhat,61607,AGP,Renupoma Rajkhowa,32304,INC,Membor Gogoi,26764,5540,8.99
+ae-assam-1996,AE,Assam,1996,1996,official,103,Amguri,GEN,Sibsagar,62269,AGP,Pradip Hazarika,33119,INC,Anjan Dutta,26316,6803,10.93
+ae-assam-1996,AE,Assam,1996,1996,official,105,Mahmara,GEN,Sibsagar,61612,AGP,Hiranya Kumar Konwar,24238,INC,Lakhi Prasad Borgohain,18270,5968,9.69
+ae-assam-1996,AE,Assam,1996,1996,official,106,Sonari,GEN,Sibsagar,84220,INC,Sarat Borkataky,52052,AGP,Bani Changmai,20588,31464,37.36
+ae-assam-1996,AE,Assam,1996,1996,official,107,Thowra,GEN,Sibsagar,52477,INC,Debananda Konwar,15439,IND,Rajendra Prasad Borah,11304,4135,7.88
+ae-assam-1996,AE,Assam,1996,1996,official,108,Sibsagar,GEN,Sibsagar,68151,CPI,Promode Gogoi,32633,INC,Pranab Gogoi,30055,2578,3.78
+ae-assam-1996,AE,Assam,1996,1996,official,109,Bihpuria,GEN,Lakhimpur,64924,AGP,Kesharam Bora,25913,INC,Borgaram Deori,16179,9734,14.99
+ae-assam-1996,AE,Assam,1996,1996,official,110,Naoboicha,GEN,Lakhimpur,71566,INC,Mani Kr. Subba,23800,IND,Nurul Haque Chowdhury,16649,7151,9.99
+ae-assam-1996,AE,Assam,1996,1996,official,111,Lakhimpur,GEN,Lakhimpur,72299,AGP,Utpal Dutta,32300,INC,Makhan Chetia,17284,15016,20.77
+ae-assam-1996,AE,Assam,1996,1996,official,112,Dhakuakhana,ST,Dhemaji,83912,INC,Bharat Chandra Narah,29752,AGP,Mahesh Doley,27119,2633,3.14
+ae-assam-1996,AE,Assam,1996,1996,official,113,Dhemaji,ST,Dhemaji,91559,AGP,Dilip Kumar Saikia,36315,INC,Porna Kanta Pegu,25076,11239,12.28
+ae-assam-1996,AE,Assam,1996,1996,official,114,Jonai,ST,Dhemaji,91555,AGP,Pradan Boruah,32148,IND,Ranoj Pegu,25865,6283,6.86
+ae-assam-1996,AE,Assam,1996,1996,official,115,Moran,GEN,Dibrugarh,59822,INC,Joy Chandra Nagbanshi,27181,AGP,Kiron Kumar Gogoi,26919,262,0.44
+ae-assam-1996,AE,Assam,1996,1996,official,116,Dibrugarh,GEN,Dibrugarh,55307,INC,Kalyan Kumar Gogoi,22523,AGP,Taranath Buragohain,16531,5992,10.83
+ae-assam-1996,AE,Assam,1996,1996,official,117,Lahowal,GEN,Dibrugarh,58676,INC,Prithibi Majhi,29555,AGP,Karuna Hazarika,23384,6171,10.52
+ae-assam-1996,AE,Assam,1996,1996,official,118,Duliajan,GEN,Dibrugarh,61815,INC,Amiya Gogoi,29531,CPI,Likheswar Gogoi,15874,13657,22.09
+ae-assam-1996,AE,Assam,1996,1996,official,119,Tingkhong,GEN,Dibrugarh,64451,INC,Atuwa Munda,28910,AGP,Anup Phukan,26953,1957,3.04
+ae-assam-1996,AE,Assam,1996,1996,official,120,Naharkatia,GEN,Dibrugarh,59686,INC,Pranati Phukan,26333,CPI(M),Sasha Kamal Handique,21061,5272,8.83
+ae-assam-1996,AE,Assam,1996,1996,official,121,Chabua,GEN,Tinsukia,66450,AGP,Bhaben Baruah,26200,INC,Upendra Sanatan,25318,882,1.33
+ae-assam-1996,AE,Assam,1996,1996,official,122,Tinsukia,GEN,Tinsukia,64387,INC,Sudhangshu Coomer De Sirkar,35552,AGP,Hemanta Gohain,14007,21545,33.46
+ae-assam-1996,AE,Assam,1996,1996,official,123,Digboi,GEN,Tinsukia,55230,INC,Rameswar Dhanowar,34234,CPI,Munin Borah,7265,26969,48.83
+ae-assam-1996,AE,Assam,1996,1996,official,125,Doom Dooma,GEN,Tinsukia,60305,INC,Dileswar Tanti,40505,AGP,Haradhan Kumar,10545,29960,49.68
+ae-assam-1996,AE,Assam,1996,1996,official,126,Sadiya,GEN,Tinsukia,68742,AGP,Jogdish Bhuyan,27511,INC,Rajen Barua,22609,4902,7.13

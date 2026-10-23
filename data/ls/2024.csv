@@ -1,0 +1,544 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ls-2024,LS,India,2024,2024,official,1,Andaman & Nicobar Islands,GEN,Andaman & Nicobar Islands,194688,BJP,Bishnu Pada Ray,102436,INC,Kuldeep Rai Sharma,78040,24396,12.53
+ls-2024,LS,India,2024,2024,official,2,Araku,ST,Andhra Pradesh,1097222,YSRCP,Gumma Thanuja Rani,477005,BJP,Kothapalli Geetha,426425,50580,4.61
+ls-2024,LS,India,2024,2024,official,3,Srikakulam,GEN,Andhra Pradesh,1209133,TDP,Kinjarapu Rammohan Naidu,754328,YSRCP,Tilak Perada,426427,327901,27.12
+ls-2024,LS,India,2024,2024,official,4,Vizianagaram,GEN,Andhra Pradesh,1273028,TDP,Appalanaidu Kalisetti,743113,YSRCP,Bellana Chandrasekhar,493762,249351,19.59
+ls-2024,LS,India,2024,2024,official,5,Visakhapatnam,GEN,Andhra Pradesh,1368005,TDP,Sribharat Mathukumili,907467,YSRCP,Jhansi Lakshmi. Botcha,403220,504247,36.86
+ls-2024,LS,India,2024,2024,official,6,Anakapalle,GEN,Andhra Pradesh,1294565,BJP,C.M.Ramesh,762069,YSRCP,Budi Mutyala Naidu,465539,296530,22.91
+ls-2024,LS,India,2024,2024,official,7,Kakinada,GEN,Andhra Pradesh,1290463,JP,Tangella Uday Srinivas (Tea Time Uday),729699,YSRCP,Chalamalasetty Sunil,500208,229491,17.78
+ls-2024,LS,India,2024,2024,official,8,Amalapuram,SC,Andhra Pradesh,1283529,TDP,G M Harish (Balayogi),796981,YSRCP,Rapaka Varaprasada Rao,454785,342196,26.66
+ls-2024,LS,India,2024,2024,official,9,Rajahmundry,GEN,Andhra Pradesh,1295600,BJP,Daggubati Purandheshwari,726515,YSRCP,Dr. Guduri Srinivas,487376,239139,18.46
+ls-2024,LS,India,2024,2024,official,10,Narsapuram,GEN,Andhra Pradesh,1221668,BJP,Bhupathi Raju Srinivasa Varma (B.J.P.Varma),707343,YSRCP,Umabala Guduri,430541,276802,22.66
+ls-2024,LS,India,2024,2024,official,11,Eluru,GEN,Andhra Pradesh,1355775,TDP,Putta Mahesh Kumar,746351,YSRCP,Karumuri Sunil Kumar,564494,181857,13.41
+ls-2024,LS,India,2024,2024,official,12,Machilipatnam,GEN,Andhra Pradesh,1297664,JP,Balashowry Vallabhaneni,724439,YSRCP,Simhadri Chandra Sekhar Rao,501260,223179,17.2
+ls-2024,LS,India,2024,2024,official,13,Vijayawada,GEN,Andhra Pradesh,1352735,TDP,Kesineni Sivanath (Chinni),794154,YSRCP,Kesineni Srinivas (Nani),512069,282085,20.85
+ls-2024,LS,India,2024,2024,official,14,Guntur,GEN,Andhra Pradesh,1408518,TDP,Dr. Chandra Sekhar Pemmasani,864948,YSRCP,Kilari Venkata Rosaiah,520253,344695,24.47
+ls-2024,LS,India,2024,2024,official,15,Narsaraopet,GEN,Andhra Pradesh,1486985,TDP,Lavu Srikrishna Devarayalu,807996,YSRCP,Anil Kumar Poluboina,648267,159729,10.74
+ls-2024,LS,India,2024,2024,official,16,Bapatla,SC,Andhra Pradesh,1285376,TDP,Krishna Prasad Tenneti,717493,YSRCP,Nandigam Suresh Babu,509462,208031,16.18
+ls-2024,LS,India,2024,2024,official,17,Ongole,GEN,Andhra Pradesh,1408156,TDP,Magunta Sreenivasulu Reddy,701894,YSRCP,Dr Chevireddy Bhaskar Redd,651695,50199,3.56
+ls-2024,LS,India,2024,2024,official,18,Nandyal,GEN,Andhra Pradesh,1390433,TDP,Dr. Byreddy Shabari,701131,YSRCP,Pocha Brahmananda Reddy,589156,111975,8.05
+ls-2024,LS,India,2024,2024,official,19,Kurnoolu,GEN,Andhra Pradesh,1314299,TDP,Bastipati Nagaraju Panchalingala,658914,YSRCP,B Y Ramaiah,547616,111298,8.47
+ls-2024,LS,India,2024,2024,official,20,Ananthapur,GEN,Andhra Pradesh,1426428,TDP,Ambica G Lakshminarayana Valmiki,768245,YSRCP,Malagundla Sankar Narayana,579690,188555,13.22
+ls-2024,LS,India,2024,2024,official,21,Hindupur,GEN,Andhra Pradesh,1398368,TDP,B K Parthasarathi,725534,YSRCP,J Shantha,593107,132427,9.47
+ls-2024,LS,India,2024,2024,official,22,Kadapa,GEN,Andhra Pradesh,1300930,YSRCP,Y. S. Avinash Reddy,605143,TDP,Chadipiralla Bhupesh Subbarami Reddy,542448,62695,4.82
+ls-2024,LS,India,2024,2024,official,23,Nellore,GEN,Andhra Pradesh,1356122,TDP,Prabhakar Reddy Vemireddy,766202,YSRCP,Venumbaka Vijayasai Reddy,520300,245902,18.13
+ls-2024,LS,India,2024,2024,official,24,Thirupathi,SC,Andhra Pradesh,1351065,YSRCP,Gurumoorthy Maddila,632228,BJP,Vara Prasad Rao Velagapalli,617659,14569,1.08
+ls-2024,LS,India,2024,2024,official,25,Rajampet,GEN,Andhra Pradesh,1317687,YSRCP,P V Midhun Reddy,644844,BJP,Nallari Kiran Kumar Reddy,568773,76071,5.77
+ls-2024,LS,India,2024,2024,official,26,Chittoor,SC,Andhra Pradesh,1406881,TDP,Daggumalla Prasada Rao,778071,YSRCP,Reddeppa.N,557592,220479,15.67
+ls-2024,LS,India,2024,2024,official,27,Arunachal West,GEN,Arunachal Pradesh,397508,BJP,Kiren Rijiju,205417,INC,Nabam Tuki,104679,100738,25.34
+ls-2024,LS,India,2024,2024,official,28,Arunachal East,GEN,Arunachal Pradesh,318548,BJP,Tapir Gao,145581,INC,Bosiram Siram,115160,30421,9.55
+ls-2024,LS,India,2024,2024,official,29,Kokrajhar,SC,Assam,1219652,UPPL,Joyanta Basumatary,488995,BPF,Kampa Borgoyari,437412,51583,4.23
+ls-2024,LS,India,2024,2024,official,30,Dhubri,GEN,Assam,2415182,INC,Rakibul Hussain,1471885,AUDF,Mohammed Badruddin Ajmal,459409,1012476,41.92
+ls-2024,LS,India,2024,2024,official,31,Barpeta,ST,Assam,1661901,AGP,Phani Bhusan Choudhury,860113,INC,Deep Bayan,637762,222351,13.38
+ls-2024,LS,India,2024,2024,official,32,Darrang - Udalguri,GEN,Assam,1757615,BJP,Dilip Saikia,868387,INC,Madhab Rajbangshi,539375,329012,18.72
+ls-2024,LS,India,2024,2024,official,33,Guwahati,ST,Assam,1561671,BJP,Bijuli Kalita Medhi,894887,INC,Mira Borthakur Goswami,643797,251090,16.08
+ls-2024,LS,India,2024,2024,official,34,Diphu,GEN,Assam,656935,BJP,Amarsing Tisso,334620,IND,J. I. Kathar,187017,147603,22.47
+ls-2024,LS,India,2024,2024,official,35,Karimganj,GEN,Assam,1143125,BJP,Kripanath Mallah,545093,INC,Hafiz Rashid Ahmed Choudhury,526733,18360,1.61
+ls-2024,LS,India,2024,2024,official,36,Silchar,GEN,Assam,1075133,BJP,Parimal Suklabaidya,652405,INC,Surya Kanta Sarkar,388094,264311,24.58
+ls-2024,LS,India,2024,2024,official,37,Nowgong,GEN,Assam,1531597,INC,Pradyut Bordoloi,788850,BJP,Suresh Borah,576619,212231,13.86
+ls-2024,LS,India,2024,2024,official,38,Kaziranga,GEN,Assam,1598520,BJP,Kamakhya Prasad Tasa,897043,INC,Roselina Tirkey,648096,248947,15.57
+ls-2024,LS,India,2024,2024,official,39,Sonitpur,GEN,Assam,1258695,BJP,Ranjit Dutta,775788,INC,Premlal Ganju,414380,361408,28.71
+ls-2024,LS,India,2024,2024,official,40,Lakhimpur,GEN,Assam,1194293,BJP,Pradan Baruah,663122,INC,Uday Shankar Hazarika,461865,201257,16.85
+ls-2024,LS,India,2024,2024,official,41,Dibrugarh,GEN,Assam,1246067,BJP,Sarbananda Sonowal,693762,AJP,Lurinjyoti Gogoi,414441,279321,22.42
+ls-2024,LS,India,2024,2024,official,42,Jorhat,GEN,Assam,1376605,INC,Gaurav Gogoi,751771,BJP,Topon Kumar Gogoi,607378,144393,10.49
+ls-2024,LS,India,2024,2024,official,43,Valmiki Nagar,GEN,Bihar,1071121,JDU,Sunil Kumar,523422,RJD,Deepak Yadav,424747,98675,9.21
+ls-2024,LS,India,2024,2024,official,44,Paschim Champaran,GEN,Bihar,1074968,BJP,Dr.Sanjay Jaiswal,580421,INC,Madan Mohan Tiwari,443853,136568,12.7
+ls-2024,LS,India,2024,2024,official,45,Purvi Champaran,GEN,Bihar,1038514,BJP,Radha Mohan Singh,542193,VIP,Dr Rajesh Kumar,453906,88287,8.5
+ls-2024,LS,India,2024,2024,official,46,Sheohar,GEN,Bihar,1003736,JDU,Lovely Anand,476612,RJD,Ritu Jaiswal,447469,29143,2.9
+ls-2024,LS,India,2024,2024,official,47,Sitamarhi,GEN,Bihar,1057686,JDU,Devesh Chandra Thakur,515719,RJD,Arjun Ray,464363,51356,4.86
+ls-2024,LS,India,2024,2024,official,48,Madhubani,GEN,Bihar,992035,BJP,Ashok Kumar Yadav,553428,RJD,Md Ali Ashraf Fatmi,401483,151945,15.32
+ls-2024,LS,India,2024,2024,official,49,Jhanjharpur,GEN,Bihar,1046951,JDU,Ramprit Mandal,533032,VIP,Suman Kumar Mahaseth,348863,184169,17.59
+ls-2024,LS,India,2024,2024,official,50,Supaul,GEN,Bihar,1175459,JDU,Dileshwar Kamait,595038,RJD,Chandrahas Chaupal,425235,169803,14.45
+ls-2024,LS,India,2024,2024,official,51,Araria,GEN,Bihar,1236015,BJP,Pradeep Kumar Singh,600146,RJD,Shahnawaz,580052,20094,1.63
+ls-2024,LS,India,2024,2024,official,52,Kishanganj,GEN,Bihar,1126133,INC,Mohammad Jawed,402850,JDU,Mujahid Alam,343158,59692,5.3
+ls-2024,LS,India,2024,2024,official,53,Katihar,GEN,Bihar,1130494,INC,Tariq Anwar,567092,JDU,Dulal Chandra Goswami,517229,49863,4.41
+ls-2024,LS,India,2024,2024,official,54,Purnia,GEN,Bihar,1172010,IND,Rajesh Ranjan Alias Pappu Yadav,567556,JDU,Santosh Kumar,543709,23847,2.03
+ls-2024,LS,India,2024,2024,official,55,Madhepura,GEN,Bihar,1146511,JDU,Dinesh Chandra Yadav,640649,RJD,Da Kumar Chandradeep,466115,174534,15.22
+ls-2024,LS,India,2024,2024,official,56,Darbhanga,GEN,Bihar,988389,BJP,Gopal Jee Thakur,566630,RJD,Lalit Kumar Yadav,388474,178156,18.02
+ls-2024,LS,India,2024,2024,official,57,Muzaffarpur,GEN,Bihar,1091900,BJP,Raj Bhushan Choudhary,619749,INC,Ajay Nishad,384822,234927,21.52
+ls-2024,LS,India,2024,2024,official,58,Vaishali,GEN,Bihar,1132876,LJSP,Veena Devi,567043,RJD,Vijay Kumar Shukla,477409,89634,7.91
+ls-2024,LS,India,2024,2024,official,59,Gopalganj,SC,Bihar,1007483,JDU,Dr. Alok Kumar Suman,511866,VIP,Prem Nath Chanchal Alias Chanchal Paswan,384686,127180,12.62
+ls-2024,LS,India,2024,2024,official,60,Siwan,GEN,Bihar,971054,JDU,Vijaylakshmi Devi,386508,IND,Hena Shahab,293651,92857,9.56
+ls-2024,LS,India,2024,2024,official,61,Maharajganj,GEN,Bihar,992422,BJP,Janardan Singh Sigriwal,529533,INC,Aakash Kumar Singh,426882,102651,10.34
+ls-2024,LS,India,2024,2024,official,62,Saran,GEN,Bihar,1001436,BJP,Rajiv Pratap Rudy,471752,RJD,Rohini Acharya,458091,13661,1.36
+ls-2024,LS,India,2024,2024,official,63,Hajipur,SC,Bihar,1113111,LJSP,Chirag Paswan,615718,RJD,Shiv Chandra Ram,445613,170105,15.28
+ls-2024,LS,India,2024,2024,official,64,Ujiarpur,GEN,Bihar,1015084,BJP,Nityanand Rai,515965,RJD,Alok Kumar Mehta,455863,60102,5.92
+ls-2024,LS,India,2024,2024,official,65,Samastipur,SC,Bihar,1052727,LJSP,Shambhavi,579786,INC,Sunny Hazari,392535,187251,17.79
+ls-2024,LS,India,2024,2024,official,66,Begusarai,GEN,Bihar,1262297,BJP,Giriraj Singh,649331,CPI,Abdhesh Kumar Roy,567851,81480,6.45
+ls-2024,LS,India,2024,2024,official,67,Khagaria,GEN,Bihar,996180,LJSP,Rajesh Verma,538657,CPI(M),Sanjay Kumar,377526,161131,16.17
+ls-2024,LS,India,2024,2024,official,68,Bhagalpur,GEN,Bihar,1019952,JDU,Ajay Kumar Mandal,536031,INC,Ajeet Sharma,431163,104868,10.28
+ls-2024,LS,India,2024,2024,official,69,Banka,GEN,Bihar,955040,JDU,Giridhari Yadav,506678,RJD,Jai Prakash Narayan Yadav,402834,103844,10.87
+ls-2024,LS,India,2024,2024,official,70,Munger,GEN,Bihar,1117130,JDU,Rajiv Ranjan Singh Alias Lalan Singh,550146,RJD,Kumari Anita,469276,80870,7.24
+ls-2024,LS,India,2024,2024,official,71,Nalanda,GEN,Bihar,1043276,JDU,Kaushalendra Kumar,559422,CPIML,Dr. Sandeep Saurav,390308,169114,16.21
+ls-2024,LS,India,2024,2024,official,72,Patna Sahib,GEN,Bihar,1058401,BJP,Ravi Shankar Prasad,588270,INC,Anshul Avijit,434424,153846,14.54
+ls-2024,LS,India,2024,2024,official,73,Patliputra,GEN,Bihar,1180932,RJD,Misha Bharti,613283,BJP,Ram Kripal Yadav,528109,85174,7.21
+ls-2024,LS,India,2024,2024,official,74,Arrah,GEN,Bihar,1070846,CPIML,Sudama Prasad,529382,BJP,R. K. Singh,469574,59808,5.59
+ls-2024,LS,India,2024,2024,official,75,Buxar,GEN,Bihar,1062572,RJD,Sudhakar Singh,438345,BJP,Mithilesh Tiwari,408254,30091,2.83
+ls-2024,LS,India,2024,2024,official,76,Sasaram,SC,Bihar,1067250,INC,Manoj Kumar,513004,BJP,Shivesh Kumar,493847,19157,1.79
+ls-2024,LS,India,2024,2024,official,77,Karakat,GEN,Bihar,985849,CPIML,Raja Ram Singh,380581,IND,Pawan Singh,274723,105858,10.74
+ls-2024,LS,India,2024,2024,official,78,Jahanabad,GEN,Bihar,891611,RJD,Surendra Prasad Yadav,443035,JDU,Chandeshwar Prasad,300444,142591,15.99
+ls-2024,LS,India,2024,2024,official,79,Aurangabad,GEN,Bihar,909114,RJD,Abhay Kumar Sinha,465567,BJP,Sushil Kumar Singh,386456,79111,8.7
+ls-2024,LS,India,2024,2024,official,80,Gaya,SC,Bihar,936242,HAMS,Jitan Ram Manjhi,494960,RJD,Kumar Sarvjeet,393148,101812,10.87
+ls-2024,LS,India,2024,2024,official,81,Nawada,GEN,Bihar,846799,BJP,Vivek Thakur,410608,RJD,Shrawan Kumar,342938,67670,7.99
+ls-2024,LS,India,2024,2024,official,82,Jamui,SC,Bihar,946509,LJSP,Arun Bharti,509046,RJD,Archana Kumari,396564,112482,11.88
+ls-2024,LS,India,2024,2024,official,83,Chandigarh,GEN,Chandigarh,445364,INC,Manish Tewari,216657,BJP,Sanjay Tandon,214153,2504,0.56
+ls-2024,LS,India,2024,2024,official,84,Surguja,ST,Chhattisgarh,1427148,BJP,Chintamani Maharaj,713200,INC,Shashi Singh Koram,648378,64822,4.54
+ls-2024,LS,India,2024,2024,official,85,Raigarh,ST,Chhattisgarh,1433589,BJP,Radheshyam Rathiya,808275,INC,Dr. Menka Devi Singh,567884,240391,16.77
+ls-2024,LS,India,2024,2024,official,86,Janjgir-Champa,SC,Chhattisgarh,1380201,BJP,Kamlesh Jangde,678199,INC,Dr. Shivkumar Dahariya,618199,60000,4.35
+ls-2024,LS,India,2024,2024,official,87,Korba,GEN,Chhattisgarh,1213641,INC,Jyotsna Charandas Mahant,570182,BJP,Saroj Pandey,526899,43283,3.57
+ls-2024,LS,India,2024,2024,official,88,Bilaspur,GEN,Chhattisgarh,1345090,BJP,Tokhan Sahu,724937,INC,Devendra Yadav,560379,164558,12.23
+ls-2024,LS,India,2024,2024,official,89,Rajnandgaon,GEN,Chhattisgarh,1429733,BJP,Santosh Pandey,712057,INC,Bhupesh Baghel,667646,44411,3.11
+ls-2024,LS,India,2024,2024,official,90,Durg,GEN,Chhattisgarh,1527736,BJP,Vijay Baghel,956497,INC,Rajendra Sahu,518271,438226,28.68
+ls-2024,LS,India,2024,2024,official,91,Raipur,GEN,Chhattisgarh,1567622,BJP,Brijmohan Agrawal,1050351,INC,Vikas Upadhyay,475066,575285,36.7
+ls-2024,LS,India,2024,2024,official,92,Mahasamund,GEN,Chhattisgarh,1315490,BJP,Roop Kumari Choudhary,703659,INC,Tamradhwaj Sahu,558203,145456,11.06
+ls-2024,LS,India,2024,2024,official,93,Bastar,ST,Chhattisgarh,954379,BJP,Mahesh Kashyap,458398,INC,Kawasi Lakhma,403153,55245,5.79
+ls-2024,LS,India,2024,2024,official,94,Kanker,ST,Chhattisgarh,1225219,BJP,Bhojraj Nag,597624,INC,Biresh Thakur,595740,1884,0.15
+ls-2024,LS,India,2024,2024,official,95,Daman & Diu,ST,Dadra & Nagar Haveli and Daman & Diu,91432,IND,Patel Umeshbhai Babubhai,42523,BJP,Lalubhai Babubhai Patel,36298,6225,6.81
+ls-2024,LS,India,2024,2024,official,96,Dadar & Nagar Haveli,GEN,Dadra & Nagar Haveli and Daman & Diu,200437,BJP,Delkar Kalaben Mohanbhai,121074,INC,Ajit Ramjibhai Mahala,63490,57584,28.73
+ls-2024,LS,India,2024,2024,official,97,Chandni Chowk,GEN,Delhi,952535,BJP,Praveen Khandelwal,516496,INC,Jai Prakash Agarwal,427171,89325,9.38
+ls-2024,LS,India,2024,2024,official,98,North East Delhi,GEN,Delhi,1534648,BJP,Manoj Tiwari,824451,INC,Kanhaiya Kumar,685673,138778,9.04
+ls-2024,LS,India,2024,2024,official,99,East Delhi,GEN,Delhi,1254545,BJP,Harsh Malhotra,664819,AAP,Kuldeep Kumar (Monu),571156,93663,7.47
+ls-2024,LS,India,2024,2024,official,100,New Delhi,GEN,Delhi,838089,BJP,Bansuri Swaraj,453185,AAP,Somnath Bharti,374815,78370,9.35
+ls-2024,LS,India,2024,2024,official,101,North West Delhi,SC,Delhi,1463248,BJP,Yogender Chandoliya,866483,INC,Udit Raj,575634,290849,19.88
+ls-2024,LS,India,2024,2024,official,102,West Delhi,GEN,Delhi,1505592,BJP,Kamaljeet Sehrawat,842658,AAP,Mahabal Mishra,643645,199013,13.22
+ls-2024,LS,India,2024,2024,official,103,South Delhi,GEN,Delhi,1284117,BJP,Ramvir Singh Bidhuri,692832,AAP,Sahi Ram,568499,124333,9.68
+ls-2024,LS,India,2024,2024,official,104,North Goa,GEN,Goa,448273,BJP,Shripad Yesso Naik,257326,INC,Ramakant Khalap,141311,116015,25.88
+ls-2024,LS,India,2024,2024,official,105,South Goa,GEN,Goa,445182,INC,Captain Viriato Fernandes,217836,BJP,Pallavi Shrinivas Dempo,204301,13535,3.04
+ls-2024,LS,India,2024,2024,official,106,Kachchh,SC,Gujarat,1070449,BJP,Chavda Vinod Lakhamshi,659574,INC,Nitesh Parbatbhai Lalan (Matang),390792,268782,25.11
+ls-2024,LS,India,2024,2024,official,107,Banaskantha,GEN,Gujarat,1351913,INC,Geniben Nagaji Thakor,671883,BJP,Dr. Rekhaben Hiteshbhai Chaudhari,641477,30406,2.25
+ls-2024,LS,India,2024,2024,official,108,Patan,GEN,Gujarat,1176403,BJP,Dabhi Bharatsinhji Shankarji,591947,INC,Chandanji Talaji Thakor,560071,31876,2.71
+ls-2024,LS,India,2024,2024,official,109,Mahesana,GEN,Gujarat,1062194,BJP,Haribhai Patel,686406,INC,Ramji Thakor,358360,328046,30.88
+ls-2024,LS,India,2024,2024,official,110,Sabarkantha,GEN,Gujarat,1242122,BJP,Shobhanaben Mahendrasinh Baraiya,677318,INC,Chaudhari Tushar Amarsinh,521636,155682,12.53
+ls-2024,LS,India,2024,2024,official,111,Gandhinagar,GEN,Gujarat,1297579,BJP,Amit Shah,1010972,INC,Sonal Ramanbhai Patel,266256,744716,57.39
+ls-2024,LS,India,2024,2024,official,112,Ahmedabad East,GEN,Gujarat,1111925,BJP,Hasmukhbhai Patel (H.S.Patel),770459,INC,Himmatsinh Prahladsinh Patel,308704,461755,41.53
+ls-2024,LS,India,2024,2024,official,113,Ahmedabad West,GEN,Gujarat,949029,BJP,Adv. Dineshbhai Makwana,611704,INC,Bharat Yogendra Makwana,325267,286437,30.18
+ls-2024,LS,India,2024,2024,official,114,Surendranagar,SC,Gujarat,1113810,BJP,Chandubhai Chhaganbhai Shihora,669749,INC,Rutvikbhai Lavjibhai Makwana,408132,261617,23.49
+ls-2024,LS,India,2024,2024,official,115,Rajkot,GEN,Gujarat,1257620,BJP,Parshottambhai Rupala,857984,INC,Dhanani Paresh,373724,484260,38.51
+ls-2024,LS,India,2024,2024,official,116,Porbandar,GEN,Gujarat,914342,BJP,Dr. Mansukh Mandaviya,633118,INC,Lalit Vasoya,249758,383360,41.93
+ls-2024,LS,India,2024,2024,official,117,Jamnagar,GEN,Gujarat,1038881,BJP,Poonamben Hematbhai Maadam,620049,INC,Advocate J. P. Maraviya,382041,238008,22.91
+ls-2024,LS,India,2024,2024,official,118,Junagadh,GEN,Gujarat,1053276,BJP,Chudasama Rajeshbhai Naranbhai,584049,INC,Jotva Hirabhai Arjanbhai,448555,135494,12.86
+ls-2024,LS,India,2024,2024,official,119,Amreli,GEN,Gujarat,865077,BJP,Bharatbhai Manubhai Sutariya,580872,INC,Jenny Thummar,259804,321068,37.11
+ls-2024,LS,India,2024,2024,official,120,Bhavnagar,GEN,Gujarat,1010808,BJP,Nimuben Jayantibhai Bambhaniya (Nimuben Bambhaniya),716883,AAP,Umeshbhai Naranbhai Makwana,261594,455289,45.04
+ls-2024,LS,India,2024,2024,official,121,Anand,GEN,Gujarat,1150447,BJP,Mitesh Patel (Bakabhai),612484,INC,Amit Chavda,522545,89939,7.82
+ls-2024,LS,India,2024,2024,official,122,Kheda,GEN,Gujarat,1151382,BJP,Devusinh Chauhan,744435,INC,Kalusinh Dabhi,386677,357758,31.07
+ls-2024,LS,India,2024,2024,official,123,Panchmahal,GEN,Gujarat,1108189,BJP,Rajpalsinh Mahendrasinh Jadav,794579,INC,Gulabsinh Somsinh Chauhan,285237,509342,45.96
+ls-2024,LS,India,2024,2024,official,124,Dahod,ST,Gujarat,1083356,BJP,Jaswantsinh Sumanbhai Bhabhor,688715,INC,Dr. Prabhaben Kishorsinh Taviyad,355038,333677,30.8
+ls-2024,LS,India,2024,2024,official,125,Vadodara,GEN,Gujarat,1192047,BJP,Dr. Hemang Joshi,873189,INC,Padhiyar Jashpalsinh Mahendrasinh (Bapu),291063,582126,48.83
+ls-2024,LS,India,2024,2024,official,126,Chhota Udaipur,ST,Gujarat,1229720,BJP,Jashubhai Bhilubhai Rathva,796589,INC,Sukhrambhai Hariyabhai Rathwa,397812,398777,32.43
+ls-2024,LS,India,2024,2024,official,127,Bharuch,GEN,Gujarat,1175681,BJP,Mansukhbhai Dhanjibhai Vasava,608157,AAP,Chaitarbhai Damjibhai Vasava,522461,85696,7.29
+ls-2024,LS,India,2024,2024,official,128,Bardoli,ST,Gujarat,1313791,BJP,Parbhubhai Nagarbhai Vasava,763950,INC,Chaudhary Siddharth Amarsinh,533697,230253,17.53
+ls-2024,LS,India,2024,2024,official,129,Surat,GEN,Gujarat,0,BJP,Mukeshkumar Chandrakaant Dalal,0,,,,0,
+ls-2024,LS,India,2024,2024,official,130,Navsari,GEN,Gujarat,1312693,BJP,C R Patil,1031065,INC,Naishadhbhai Bhupatbhai Desai,257514,773551,58.93
+ls-2024,LS,India,2024,2024,official,131,Valsad,ST,Gujarat,1340206,BJP,Dhaval Laxmanbhai Patel,764226,INC,Anantkumar Hasmukhbhai Patel,553522,210704,15.72
+ls-2024,LS,India,2024,2024,official,132,Ambala,SC,Haryana,1320864,INC,Varun Chaudhry,663657,BJP,Banto Kataria,614621,49036,3.71
+ls-2024,LS,India,2024,2024,official,133,Kurukshetra,GEN,Haryana,1184359,BJP,Naveen Jindal,542175,AAP,Dr Sushil Gupta,513154,29021,2.45
+ls-2024,LS,India,2024,2024,official,134,Sirsa,SC,Haryana,1324276,INC,Selja,733823,BJP,Ashok Tanwar,465326,268497,20.28
+ls-2024,LS,India,2024,2024,official,135,Hisar,GEN,Haryana,1146310,INC,Jai Parkash (J P) S/O Harikesh,570424,BJP,Ranjit Singh,507043,63381,5.53
+ls-2024,LS,India,2024,2024,official,136,Karnal,GEN,Haryana,1335991,BJP,Manohar Lal,739285,INC,Divyanshu Budhiraja,506708,232577,17.41
+ls-2024,LS,India,2024,2024,official,137,Sonipat,GEN,Haryana,1110613,INC,Satpal Brahamchari,548682,BJP,Mohan Lal Badoli,526866,21816,1.96
+ls-2024,LS,India,2024,2024,official,138,Rohtak,GEN,Haryana,1240230,INC,Deepender Singh Hooda,783578,BJP,Dr. Arvind Kumar Sharma,438280,345298,27.84
+ls-2024,LS,India,2024,2024,official,139,Bhiwani-Mahendragarh,GEN,Haryana,1170445,BJP,Dharambir Singh,588664,INC,Rao Dan Singh,547154,41510,3.55
+ls-2024,LS,India,2024,2024,official,140,Gurgaon,GEN,Haryana,1581102,BJP,Rao Inderjit Singh,808336,INC,Raj Babbar,733257,75079,4.75
+ls-2024,LS,India,2024,2024,official,141,Faridabad,GEN,Haryana,1444525,BJP,Krishan Pal,788569,INC,Mahender Pratap Singh,615655,172914,11.97
+ls-2024,LS,India,2024,2024,official,142,Kangra,GEN,Himachal Pradesh,1027962,BJP,Dr. Rajeev Bhardwaj,632793,INC,Anand Sharma,380898,251895,24.5
+ls-2024,LS,India,2024,2024,official,143,Mandi,GEN,Himachal Pradesh,1008821,BJP,Kangna Ranaut,537022,INC,Vikramaditya Singh,462267,74755,7.41
+ls-2024,LS,India,2024,2024,official,144,Hamirpur,GEN,Himachal Pradesh,1039738,BJP,Anurag Singh Thakur,607068,INC,Satpal Raizada,424711,182357,17.54
+ls-2024,LS,India,2024,2024,official,145,Shimla,SC,Himachal Pradesh,959359,BJP,Suresh Kumar Kashyap,519748,INC,Vinod Sultanpuri,428297,91451,9.53
+ls-2024,LS,India,2024,2024,official,146,Baramulla,GEN,Jammu & Kashmir,1018889,IND,Abdul Rashid Sheikh,472481,JKNC,Omar Abdullah,268339,204142,20.04
+ls-2024,LS,India,2024,2024,official,147,Srinagar,GEN,Jammu & Kashmir,644663,JKNC,Aga Syed Ruhullah Mehdi,356866,JKPDP,Waheed Ur Rehman Para,168450,188416,29.23
+ls-2024,LS,India,2024,2024,official,148,Anantnag-Rajouri,GEN,Jammu & Kashmir,971018,JKNC,Mian Altaf Ahmad,521836,JKPDP,Mehbooba Mufti,240042,281794,29.02
+ls-2024,LS,India,2024,2024,official,149,Udhampur,GEN,Jammu & Kashmir,1097497,BJP,Dr. Jitendra Singh,571076,INC,Ch Lal Singh,446703,124373,11.33
+ls-2024,LS,India,2024,2024,official,150,Jammu,GEN,Jammu & Kashmir,1287541,BJP,Jugal Kishore,687588,INC,Raman Bhalla,552090,135498,10.52
+ls-2024,LS,India,2024,2024,official,151,Rajmahal,ST,Jharkhand,1175397,JMM,Vijay Kumar Hansdak,613371,BJP,Tala Marandi,435107,178264,15.17
+ls-2024,LS,India,2024,2024,official,152,Dumka,ST,Jharkhand,1171463,JMM,Nalin Soren,547370,BJP,Sita Murmu,524843,22527,1.92
+ls-2024,LS,India,2024,2024,official,153,Godda,GEN,Jharkhand,1375138,BJP,Nishikant Dubey,693140,INC,Pradeep Yadav,591327,101813,7.4
+ls-2024,LS,India,2024,2024,official,154,Chatra,GEN,Jharkhand,1054029,BJP,Kali Charan Singh,574556,INC,Krishna Nand Tripathi,353597,220959,20.96
+ls-2024,LS,India,2024,2024,official,155,Kodarma,GEN,Jharkhand,1314774,BJP,Annpurna Devi,791657,CPIML,Vinod Kumar Singh,414643,377014,28.68
+ls-2024,LS,India,2024,2024,official,156,Giridih,GEN,Jharkhand,1239621,AP,Chandra Prakash Choudhary,451139,JMM,Mathura Prasad Mahato,370259,80880,6.52
+ls-2024,LS,India,2024,2024,official,157,Dhanbad,GEN,Jharkhand,1411821,BJP,Dulu Mahato,789172,INC,Anupama Singh,457589,331583,23.49
+ls-2024,LS,India,2024,2024,official,158,Ranchi,GEN,Jharkhand,1381416,BJP,Sanjay Seth,664732,INC,Yashaswini Sahay,544220,120512,8.72
+ls-2024,LS,India,2024,2024,official,159,Jamshedpur,GEN,Jharkhand,1255385,BJP,Bidyut Baran Mahato,726174,JMM,Samir Kumar Mohanty,466392,259782,20.69
+ls-2024,LS,India,2024,2024,official,160,Singhbhum,ST,Jharkhand,973594,JMM,Joba Majhi,520164,BJP,Geeta Kora,351762,168402,17.3
+ls-2024,LS,India,2024,2024,official,161,Khunti,ST,Jharkhand,914763,INC,Kali Charan Munda,511647,BJP,Arjun Munda,361972,149675,16.36
+ls-2024,LS,India,2024,2024,official,162,Lohardaga,ST,Jharkhand,948921,INC,Sukhdeo Bhagat,483038,BJP,Samir Oraon,343900,139138,14.66
+ls-2024,LS,India,2024,2024,official,163,Palamau,SC,Jharkhand,1332606,BJP,Vishnu Dayal Ram,770362,RJD,Mamta Bhuiyan,481555,288807,21.67
+ls-2024,LS,India,2024,2024,official,164,Hazaribagh,GEN,Jharkhand,1243940,BJP,Manish Jaiswal,654613,INC,Jai Prakash Bhai Patel,377927,276686,22.24
+ls-2024,LS,India,2024,2024,official,165,Chikkodi,GEN,Karnataka,1387559,INC,Priyanka Satish Jarkiholi,713461,BJP,Annasaheb Shankar Jolle,622627,90834,6.55
+ls-2024,LS,India,2024,2024,official,166,Belgaum,GEN,Karnataka,1376730,BJP,Jagadish Shettar,762029,INC,Mrinal R Hebbalkar,583592,178437,12.96
+ls-2024,LS,India,2024,2024,official,167,Bagalkot,GEN,Karnataka,1311679,BJP,Gaddigoudar. Parvatagouda. Chandanagouda,671039,INC,Samyukta Shivanand Patil,602640,68399,5.21
+ls-2024,LS,India,2024,2024,official,168,Bijapur,SC,Karnataka,1284563,BJP,Ramesh Jigajinagi,672781,INC,Raju Alagur,595552,77229,6.01
+ls-2024,LS,India,2024,2024,official,169,Gulbarga,SC,Karnataka,1300225,INC,Radhakrishna,652321,BJP,Dr. Umesh G Jadhav,625116,27205,2.09
+ls-2024,LS,India,2024,2024,official,170,Raichur,ST,Karnataka,1287129,INC,G. Kumar Naik,670966,BJP,Raja Amareshwara Naik,591185,79781,6.2
+ls-2024,LS,India,2024,2024,official,171,Bidar,GEN,Karnataka,1234017,INC,Sagar Eshwar Khandre,666317,BJP,Bhagwanth Khuba,537442,128875,10.44
+ls-2024,LS,India,2024,2024,official,172,Koppal,GEN,Karnataka,1322136,INC,K. Rajashekar Basavaraj Hitnal,663511,BJP,Dr . Basavaraj. K. Sharanappa,617154,46357,3.51
+ls-2024,LS,India,2024,2024,official,173,Bellary,ST,Karnataka,1379759,INC,E. Tukaram,730845,BJP,B. Sreeramulu,631853,98992,7.17
+ls-2024,LS,India,2024,2024,official,174,Haveri,GEN,Karnataka,1381995,BJP,Basavaraj Bommai,705538,INC,Anandswamy Gaddadevarmath,662025,43513,3.15
+ls-2024,LS,India,2024,2024,official,175,Dharwad,GEN,Karnataka,1356546,BJP,Pralhad Joshi,716231,INC,Vinod Asooti,618907,97324,7.17
+ls-2024,LS,India,2024,2024,official,176,Uttara Kannada,GEN,Karnataka,1251322,BJP,Vishweshwar Hegde Kageri,782495,INC,Dr. Anjali Nimbalkar,445067,337428,26.97
+ls-2024,LS,India,2024,2024,official,177,Davanagere,GEN,Karnataka,1313398,INC,Dr. Prabha Mallikarjun,633059,BJP,Gayithri Siddeshwara,606965,26094,1.99
+ls-2024,LS,India,2024,2024,official,178,Shimoga,GEN,Karnataka,1371871,BJP,B.Y.Raghavendra,778721,INC,Geetha Shivarajkumar,535006,243715,17.77
+ls-2024,LS,India,2024,2024,official,179,Udupi Chikmagalur,GEN,Karnataka,1215285,BJP,Kota Srinivas Poojary,732234,INC,K. Jayaprakash Hegde,473059,259175,21.33
+ls-2024,LS,India,2024,2024,official,180,Hassan,GEN,Karnataka,1336366,INC,Shreyas. M. Patel,672988,JDS,Prajwal Revanna,630339,42649,3.19
+ls-2024,LS,India,2024,2024,official,181,Dakshina Kannada,GEN,Karnataka,1390447,BJP,Captain Brijesh Chowta,764132,INC,Padmaraj.R.Poojary,614924,149208,10.73
+ls-2024,LS,India,2024,2024,official,182,Chitradurga,SC,Karnataka,1359775,BJP,Govind Makthappa Karjol,684890,INC,B.N.Chandrappa,636769,48121,3.54
+ls-2024,LS,India,2024,2024,official,183,Tumkur,GEN,Karnataka,1296075,BJP,V. Somanna,720946,INC,S.P. Muddahanumegowda,545352,175594,13.55
+ls-2024,LS,India,2024,2024,official,184,Mandya,GEN,Karnataka,1449408,JDS,H.D. Kumaraswamy,851881,INC,Venkataramane Gowda (Star Chandru),567261,284620,19.64
+ls-2024,LS,India,2024,2024,official,185,Mysore,GEN,Karnataka,1474011,BJP,Yaduveer Krishnadatta Chamaraja Wadiyar,795503,INC,M. Lakshmana,656241,139262,9.45
+ls-2024,LS,India,2024,2024,official,186,Chamarajanagar,SC,Karnataka,1358013,INC,Sunil Bose,751671,BJP,Balaraj.S,562965,188706,13.9
+ls-2024,LS,India,2024,2024,official,187,Bangalore Rural,GEN,Karnataka,1903736,BJP,Dr. C N Manjunath,1079002,INC,D K Suresh,809355,269647,14.16
+ls-2024,LS,India,2024,2024,official,188,Bangalore North,GEN,Karnataka,1732402,BJP,Shobha Karandlaje,986049,INC,Professor M.V Rajeev Gowda,726573,259476,14.98
+ls-2024,LS,India,2024,2024,official,189,Bangalore Central,GEN,Karnataka,1300187,BJP,P C Mohan,658915,INC,Mansoor Ali Khan,626208,32707,2.52
+ls-2024,LS,India,2024,2024,official,190,Bangalore South,GEN,Karnataka,1237145,BJP,Tejasvi Surya,750830,INC,Sowmya Reddy,473747,277083,22.4
+ls-2024,LS,India,2024,2024,official,191,Chikkballapur,GEN,Karnataka,1519720,BJP,Dr.K.Sudhakar,822619,INC,M.S. Raksha Ramaiah,659159,163460,10.76
+ls-2024,LS,India,2024,2024,official,192,Kolar,SC,Karnataka,1344445,JDS,M. Mallesh Babu,691481,INC,K V Gowtham,620093,71388,5.31
+ls-2024,LS,India,2024,2024,official,193,Kasaragod,GEN,Kerala,1105434,INC,Rajmohan Unnithan,490659,CPI(M),M.V Balakrishnan Master,390010,100649,9.1
+ls-2024,LS,India,2024,2024,official,194,Kannur,GEN,Kerala,1052333,INC,K. Sudhakaran,518524,CPI(M),M.V. Jayarajan,409542,108982,10.36
+ls-2024,LS,India,2024,2024,official,195,Vadakara,GEN,Kerala,1120038,INC,Shafi Parambil,557528,CPI(M),K K Shailaja Teacher,443022,114506,10.22
+ls-2024,LS,India,2024,2024,official,196,Wayanad,GEN,Kerala,1077654,INC,Rahul Gandhi,647445,CPI,Annie Raja,283023,364422,33.82
+ls-2024,LS,India,2024,2024,official,197,Kozhikode,GEN,Kerala,1082429,INC,M. K. Raghavan,520421,CPI(M),Elamaram Kareem,374245,146176,13.5
+ls-2024,LS,India,2024,2024,official,198,Malappuram,GEN,Kerala,1077107,IUML,E.T. Mohammed Basheer,644006,CPI(M),V. Vaseef,343888,300118,27.86
+ls-2024,LS,India,2024,2024,official,199,Ponnani,GEN,Kerala,1019735,IUML,Dr. M.P Abdussamad Samadani,562516,CPI(M),K.S Hamza,326756,235760,23.12
+ls-2024,LS,India,2024,2024,official,200,Palakkad,GEN,Kerala,1027043,INC,V K Sreekandan,421169,CPI(M),A Vijayaraghavan,345886,75283,7.33
+ls-2024,LS,India,2024,2024,official,201,Alathur,SC,Kerala,980235,CPI(M),K.Radhakrishnan,403447,INC,Ramya Haridas,383336,20111,2.05
+ls-2024,LS,India,2024,2024,official,202,Thrissur,GEN,Kerala,1084804,BJP,Suresh Gopi,412338,CPI,Adv V S Sunilkumar,337652,74686,6.88
+ls-2024,LS,India,2024,2024,official,203,Chalakudy,GEN,Kerala,943224,INC,Benny Behanan,394171,CPI(M),Prof C Raveendranath,330417,63754,6.76
+ls-2024,LS,India,2024,2024,official,204,Ernakulam,GEN,Kerala,902325,INC,Hibi Eden,482317,CPI(M),K. J. Shine Teacher,231932,250385,27.75
+ls-2024,LS,India,2024,2024,official,205,Idukki,GEN,Kerala,831138,INC,Adv. Dean Kuriakose,432372,CPI(M),Adv. Joice George,298645,133727,16.09
+ls-2024,LS,India,2024,2024,official,206,Kottayam,GEN,Kerala,824290,KC,Adv K Francis George,364631,KCM,Thomas Chazhikadan,277365,87266,10.59
+ls-2024,LS,India,2024,2024,official,207,Alappuzha,GEN,Kerala,1050663,INC,K. C Venugopal,404560,CPI(M),A. M Ariff,341047,63513,6.05
+ls-2024,LS,India,2024,2024,official,208,Mavelikkara,SC,Kerala,885088,INC,Kodikunnil Suresh,369516,CPI,Adv Arun Kumar C A,358648,10868,1.23
+ls-2024,LS,India,2024,2024,official,209,Pathanamthitta,GEN,Kerala,909215,INC,Anto Antony,367623,CPI(M),Dr.T.M.Thomas Issac,301504,66119,7.27
+ls-2024,LS,India,2024,2024,official,210,Kollam,GEN,Kerala,907202,RSP,N K Premachandran,443628,CPI(M),M Mukesh,293326,150302,16.57
+ls-2024,LS,India,2024,2024,official,211,Attingal,GEN,Kerala,975550,INC,Adv Adoor Prakash,328051,CPI(M),V Joy,327367,684,0.07
+ls-2024,LS,India,2024,2024,official,212,Thiruvananthapuram,GEN,Kerala,956230,INC,Shashi Tharoor,358155,BJP,Rajeev Chandrasekhar,342078,16077,1.68
+ls-2024,LS,India,2024,2024,official,213,Ladakh,GEN,Ladakh,134612,IND,Mohmad Haneefa,65259,INC,Tsering Namgyal,37397,27862,20.7
+ls-2024,LS,India,2024,2024,official,214,Lakshadweep,ST,Lakshadweep,49067,INC,Muhammed Hamdullah Sayeed,25726,NCPSP,Mohammed Faizal Pp,23079,2647,5.39
+ls-2024,LS,India,2024,2024,official,215,Morena,GEN,Madhya Pradesh,1182417,BJP,Shivmangal Singh Tomar,515477,INC,Neetu Satyapal Singh Sikarwar,462947,52530,4.44
+ls-2024,LS,India,2024,2024,official,216,Bhind,SC,Madhya Pradesh,1042473,BJP,Sandhya Ray,537065,INC,Phool Singh Baraiya,472225,64840,6.22
+ls-2024,LS,India,2024,2024,official,217,Gwalior,GEN,Madhya Pradesh,1337086,BJP,Bharat Singh Kushwah,671535,INC,Praveen Pathak,601325,70210,5.25
+ls-2024,LS,India,2024,2024,official,218,Guna,GEN,Madhya Pradesh,1363694,BJP,Jyotiraditya M. Scindia,923302,INC,Yadvendra Rao Deshraj Singh,382373,540929,39.67
+ls-2024,LS,India,2024,2024,official,219,Sagar,GEN,Madhya Pradesh,1137636,BJP,Dr. Lata Wankhede,787979,INC,Chandra Bhusan Singh Bundela 'Guddu Raja',316757,471222,41.42
+ls-2024,LS,India,2024,2024,official,220,Tikamgarh,SC,Madhya Pradesh,1085559,BJP,Dr. Virendra Kumar,715050,INC,Khuman Urf Pankaj Ahirwar,311738,403312,37.15
+ls-2024,LS,India,2024,2024,official,221,Damoh,GEN,Madhya Pradesh,1081111,BJP,Rahul Singh Lodhi,709768,INC,Tarbar Singh Lodhi (Bantu Bhaiya),303342,406426,37.59
+ls-2024,LS,India,2024,2024,official,222,Khajuraho,GEN,Madhya Pradesh,1101661,BJP,Vishnu Datt Sharma (V.D.Sharma),772774,BSP,Kamlesh Kumar,231545,541229,49.13
+ls-2024,LS,India,2024,2024,official,223,Satna,GEN,Madhya Pradesh,1048062,BJP,Ganesh Singh,459728,INC,Dabbu Siddharth Sukhlal Kushwaha,374779,84949,8.11
+ls-2024,LS,India,2024,2024,official,224,Rewa,GEN,Madhya Pradesh,903718,BJP,Janardan Mishra,477459,INC,Neelam Abhay Mishra,284085,193374,21.4
+ls-2024,LS,India,2024,2024,official,225,Sidhi,GEN,Madhya Pradesh,1134117,BJP,Dr. Rajesh Mishra,583559,INC,Kamleshwar Indrajit Kumar,377143,206416,18.2
+ls-2024,LS,India,2024,2024,official,226,Shahdol,ST,Madhya Pradesh,1124486,BJP,Smt. Himadri Singh,711143,INC,Phunde Lal Singh Marko,313803,397340,35.34
+ls-2024,LS,India,2024,2024,official,227,Jabalpur,GEN,Madhya Pradesh,1149789,BJP,Ashish Dubey,790133,INC,Dinesh Yadav,303459,486674,42.33
+ls-2024,LS,India,2024,2024,official,228,Mandla,ST,Madhya Pradesh,1514201,BJP,Faggan Singh Kulaste,751375,INC,Omkar Singh Markam,647529,103846,6.86
+ls-2024,LS,India,2024,2024,official,229,Balaghat,GEN,Madhya Pradesh,1362370,BJP,Bharti Pardhi,712660,INC,Samrat Ashok Singh Saraswar,538148,174512,12.81
+ls-2024,LS,India,2024,2024,official,230,Chhindwara,GEN,Madhya Pradesh,1290249,BJP,Bunty Vivek Sahu,644738,INC,Nakul Kamalnath,531120,113618,8.81
+ls-2024,LS,India,2024,2024,official,231,Hoshangabad,GEN,Madhya Pradesh,1233094,BJP,Darshan Singh Choudhary,812147,INC,Sanjay Sharma Sanju Bhaiya,380451,431696,35.01
+ls-2024,LS,India,2024,2024,official,232,Vidisha,GEN,Madhya Pradesh,1439619,BJP,Shivraj Singh Chouhan,1116460,INC,Pratapbhanu Sharma,295052,821408,57.06
+ls-2024,LS,India,2024,2024,official,233,Bhopal,GEN,Madhya Pradesh,1486945,BJP,Alok Sharma,981109,INC,Advocate Arun Shrivastava,479610,501499,33.73
+ls-2024,LS,India,2024,2024,official,234,Rajgarh,GEN,Madhya Pradesh,1411629,BJP,Rodmal Nagar,758743,INC,Digvijaya Singh,612654,146089,10.35
+ls-2024,LS,India,2024,2024,official,235,Dewas,SC,Madhya Pradesh,1457467,BJP,Mahendra Singh Solanky,928941,INC,Rajendra Radhakishan Malviya,503716,425225,29.18
+ls-2024,LS,India,2024,2024,official,236,Ujjain,SC,Madhya Pradesh,1319248,BJP,Anil Firojiya,836104,INC,Mahesh Parmar,460244,375860,28.49
+ls-2024,LS,India,2024,2024,official,237,Mandsour,GEN,Madhya Pradesh,1421830,BJP,Sudheer Gupta,945761,INC,Dilip Singh Gurjar,445106,500655,35.21
+ls-2024,LS,India,2024,2024,official,238,Ratlam,ST,Madhya Pradesh,1493182,BJP,Anita Nagarsingh Chouhan,795863,INC,Kantilal Bhuria,588631,207232,13.88
+ls-2024,LS,India,2024,2024,official,239,Dhar,ST,Madhya Pradesh,1409393,BJP,Savitri Thakur,794449,INC,Radheshyam Muvel,575784,218665,15.51
+ls-2024,LS,India,2024,2024,official,240,Indore,GEN,Madhya Pradesh,1339618,BJP,Shankar Lalwani,1226751,BSP,Sanjay S/O Lakshman Solanki,51659,1175092,87.72
+ls-2024,LS,India,2024,2024,official,241,Khargone,ST,Madhya Pradesh,1540521,BJP,Gajendra Singh Patel,819863,INC,Porlal Batha Kharte,684845,135018,8.76
+ls-2024,LS,India,2024,2024,official,242,Khandwa,GEN,Madhya Pradesh,1491922,BJP,Gyaneshwar Patil,862679,INC,Narendra Patel,592708,269971,18.1
+ls-2024,LS,India,2024,2024,official,243,Betul,ST,Madhya Pradesh,1375698,BJP,Durgadas (D. D.) Uikey,848236,INC,Ramu Tekam,468475,379761,27.6
+ls-2024,LS,India,2024,2024,official,244,Nandurbar,ST,Maharashtra,1379546,INC,Adv Gowaal Kagada Padavi,745998,BJP,Dr Heena Vijaykumar Gavit,586878,159120,11.53
+ls-2024,LS,India,2024,2024,official,245,Dhule,GEN,Maharashtra,1212870,INC,Bachhav Shobha Dinesh,583866,BJP,Bhamre Subhash Ramrao,580035,3831,0.32
+ls-2024,LS,India,2024,2024,official,246,Jalgaon,GEN,Maharashtra,1155634,BJP,Smita Uday Wagh,674428,SSUBT,Karan Balasaheb Patil - Pawar,422834,251594,21.77
+ls-2024,LS,India,2024,2024,official,247,Raver,GEN,Maharashtra,1165284,BJP,Khadse Raksha Nikhil,630879,NCPSP,Shriram Dayaram Patil,358696,272183,23.36
+ls-2024,LS,India,2024,2024,official,248,Buldhana,GEN,Maharashtra,1086647,SHS_SHINDE,Jadhav Prataprao Ganpatrao,349867,SSUBT,Narendra Dagdu Khedekar,320388,29479,2.71
+ls-2024,LS,India,2024,2024,official,249,Akola,GEN,Maharashtra,1163914,BJP,Anup Sanjay Dhotre,457030,INC,Abhay Kashinath Patil,416404,40626,3.49
+ls-2024,LS,India,2024,2024,official,250,Amravati,SC,Maharashtra,1148214,INC,Balwant Baswant Wankhade,526271,BJP,Navneet Ravi Rana,506540,19731,1.72
+ls-2024,LS,India,2024,2024,official,251,Wardha,GEN,Maharashtra,1083367,NCPSP,Amar Sharadrao Kale,533106,BJP,Ramdas Chandrabhan Tadas,451458,81648,7.54
+ls-2024,LS,India,2024,2024,official,252,Ramtek,SC,Maharashtra,1228369,INC,Shyamkumar (Babalu) Daulat Barve,613025,SHS_SHINDE,Raju Deonath Parve,536257,76768,6.25
+ls-2024,LS,India,2024,2024,official,253,Nagpur,GEN,Maharashtra,1200551,BJP,Nitin Jairam Gadkari,655027,INC,Vikas Thakre,517424,137603,11.46
+ls-2024,LS,India,2024,2024,official,254,Bhandara - Gondiya,GEN,Maharashtra,1221147,INC,Dr. Prashant Yadaorao Padole,587413,BJP,Sunil Baburao Mendhe,550033,37380,3.06
+ls-2024,LS,India,2024,2024,official,255,Gadchiroli-Chimur,ST,Maharashtra,1145054,INC,Dr. Kirsan Namdeo,617792,BJP,Ashok Mahadeorao Nete,476096,141696,12.37
+ls-2024,LS,India,2024,2024,official,256,Chandrapur,GEN,Maharashtra,1221909,INC,Dhanorkar Pratibha Suresh Alias Balubhau,718410,BJP,Mungantiwar Sudhir Sacchidanand,458004,260406,21.31
+ls-2024,LS,India,2024,2024,official,257,Yavatmal-Washim,GEN,Maharashtra,1205232,SSUBT,Sanjay Uttamrao Deshmukh,594807,SHS_SHINDE,Rajshritai Hemant Patil (Mahalle),500334,94473,7.84
+ls-2024,LS,India,2024,2024,official,258,Hingoli,GEN,Maharashtra,1135009,SSUBT,Aashtikar Patil Nagesh Bapurao,492535,SHS_SHINDE,Baburao Kadam Kohalikar,383933,108602,9.57
+ls-2024,LS,India,2024,2024,official,259,Nanded,GEN,Maharashtra,1119383,INC,Chavan Vasantrao Balwantrao,528894,BJP,Chikhalikar Prataprao Govindrao,469452,59442,5.31
+ls-2024,LS,India,2024,2024,official,260,Parbhani,GEN,Maharashtra,1298606,SSUBT,Jadhav Sanjay ( Bandu ) Haribhau,601343,RSPK,Jankar Mahadev Jagannath,467282,134061,10.32
+ls-2024,LS,India,2024,2024,official,261,Jalna,GEN,Maharashtra,1348472,INC,Kalyan Vaijinathrao Kale,607897,BJP,Danve Raosaheb Dadarao,497939,109958,8.15
+ls-2024,LS,India,2024,2024,official,262,Aurangabad,GEN,Maharashtra,1279778,SHS_SHINDE,Bhumare Sandipanrao Asaram,476130,AIMEIM,Imtiaz Jaleel Syed,341480,134650,10.52
+ls-2024,LS,India,2024,2024,official,263,Dindori,ST,Maharashtra,1222045,NCPSP,Bhaskar Murlidhar Bhagare,577339,BJP,Dr. Bharati Pravin Pawar,464140,113199,9.26
+ls-2024,LS,India,2024,2024,official,264,Nashik,GEN,Maharashtra,1210264,SSUBT,Rajabhau (Parag) Prakash Waje,616729,SHS_SHINDE,Godse Hemant Tukaram,454728,162001,13.39
+ls-2024,LS,India,2024,2024,official,265,Palghar,ST,Maharashtra,1352689,BJP,Dr. Hemant Vishnu Savara,601244,SSUBT,Bharti Bharat Kamdi,417938,183306,13.55
+ls-2024,LS,India,2024,2024,official,266,Bhiwandi,GEN,Maharashtra,1236280,NCPSP,Balya Mama - Suresh Gopinath Mhatre,499464,BJP,Kapil Moreshwar Patil,433343,66121,5.35
+ls-2024,LS,India,2024,2024,official,267,Kalyan,GEN,Maharashtra,1022244,SHS_SHINDE,Dr. Shrikant Eknath Shinde,589636,SSUBT,Vaishali Darekar - Rane,380492,209144,20.46
+ls-2024,LS,India,2024,2024,official,268,Thane,GEN,Maharashtra,1281583,SHS_SHINDE,Naresh Ganpat Mhaske,734231,SSUBT,Rajan Baburao Vichare,517220,217011,16.93
+ls-2024,LS,India,2024,2024,official,269,Mumbai North,GEN,Maharashtra,1019418,BJP,Piyush Goyal,680146,INC,Bhushan Patil,322538,357608,35.08
+ls-2024,LS,India,2024,2024,official,270,Mumbai North West,GEN,Maharashtra,934347,SHS_SHINDE,Ravindra Dattaram Waikar,452644,SSUBT,Amol Gajanan Kirtikar,452596,48,0.01
+ls-2024,LS,India,2024,2024,official,271,Mumbai North East,GEN,Maharashtra,909789,SSUBT,Sanjay Dina Patil,450937,BJP,Mihir Chandrakant Kotecha,421076,29861,3.28
+ls-2024,LS,India,2024,2024,official,272,Mumbai North Central,GEN,Maharashtra,897771,INC,Gaikwad Varsha Eknath,445545,BJP,Adv Ujwal Nikam,429031,16514,1.84
+ls-2024,LS,India,2024,2024,official,273,Mumbai South Central,GEN,Maharashtra,775590,SSUBT,Anil Yeshwant Desai,395138,SHS_SHINDE,Rahul Ramesh Shewale,341754,53384,6.88
+ls-2024,LS,India,2024,2024,official,274,Mumbai South,GEN,Maharashtra,758348,SSUBT,Arvind Ganpat Sawant,395655,SHS_SHINDE,Yamini Yashwant Jadhav,342982,52673,6.95
+ls-2024,LS,India,2024,2024,official,275,Raigad,GEN,Maharashtra,986002,NCP,Tatkare Sunil Dattatrey,508352,SSUBT,Anant Geete,425568,82784,8.4
+ls-2024,LS,India,2024,2024,official,276,Maval,GEN,Maharashtra,1390222,SHS_SHINDE,Shrirang Appa Chandu Barne,692832,SSUBT,Sanjog Bhiku Waghere Patil,596217,96615,6.95
+ls-2024,LS,India,2024,2024,official,277,Pune,GEN,Maharashtra,1094716,BJP,Murlidhar Mohol,584728,INC,Dhangekar Ravindra Hemraj,461690,123038,11.24
+ls-2024,LS,India,2024,2024,official,278,Baramati,GEN,Maharashtra,1393092,NCPSP,Supriya Sule,732312,NCP,Sunetra Ajitdada Pawar,573979,158333,11.37
+ls-2024,LS,India,2024,2024,official,279,Shirur,GEN,Maharashtra,1357989,NCPSP,Dr. Amol Ramsing Kolhe,698692,NCP,Adhalrao Shivaji Dattatrey,557741,140951,10.38
+ls-2024,LS,India,2024,2024,official,280,Ahmednagar,GEN,Maharashtra,1309418,NCPSP,Nilesh Dnyandev Lanke,624797,BJP,Dr. Sujay Radhakrishna Vikhepatil,595868,28929,2.21
+ls-2024,LS,India,2024,2024,official,281,Shirdi,SC,Maharashtra,1049447,SSUBT,Bhausaheb Rajaram Wakchaure,476900,SHS_SHINDE,Lokhande Sadashiv Kisan,426371,50529,4.81
+ls-2024,LS,India,2024,2024,official,282,Beed,GEN,Maharashtra,1514936,NCPSP,Bajrang Manohar Sonwane,683950,BJP,Pankaja Gopinathrao Munde,677397,6553,0.43
+ls-2024,LS,India,2024,2024,official,283,Osmanabad,GEN,Maharashtra,1266257,SSUBT,Omprakash Bhupalsinh Alias Pavan Rajenimbalkar,748752,NCP,Archana Ranajagjitsinh Patil,418906,329846,26.05
+ls-2024,LS,India,2024,2024,official,284,Latur,SC,Maharashtra,1223872,INC,Dr. Kalge Shivaji Bandappa,609021,BJP,Sudhakar Tukaram Shrangare,547140,61881,5.06
+ls-2024,LS,India,2024,2024,official,285,Solapur,SC,Maharashtra,1199956,INC,Praniti Sushilkumar Shinde,620225,BJP,Ram Vitthal Satpute,546028,74197,6.18
+ls-2024,LS,India,2024,2024,official,286,Madha,GEN,Maharashtra,1263121,NCPSP,Mohite-Patil Dhairyasheel Rajsinh,622213,BJP,Ranjeetsingh Hindurao Naik Nimbalkar,501376,120837,9.57
+ls-2024,LS,India,2024,2024,official,287,Sangli,GEN,Maharashtra,1150259,IND,Vishal (Dada) Prakashbapu Patil,571666,BJP,Sanjay (Kaka) Patil,471613,100053,8.7
+ls-2024,LS,India,2024,2024,official,288,Satara,GEN,Maharashtra,1191181,BJP,Shrimant Chh Udayanraje Pratapsinhamaharaj Bhonsle,571134,NCPSP,Shashikant Jayvantrao Shinde,538363,32771,2.75
+ls-2024,LS,India,2024,2024,official,289,Ratnagiri - Sindhudurg,GEN,Maharashtra,900148,BJP,Narayan Tatu Rane,448514,SSUBT,Vinayak Bhaurao Raut,400656,47858,5.32
+ls-2024,LS,India,2024,2024,official,290,Kolhapur,GEN,Maharashtra,1383743,INC,Chhatrapati Shahu Shahaji,754522,SHS_SHINDE,Sanjay Sadashivrao Mandlik,599558,154964,11.2
+ls-2024,LS,India,2024,2024,official,291,Hatkanangale,GEN,Maharashtra,1279897,SHS_SHINDE,Dhairyasheel Sambhajirao Mane,520190,SSUBT,Satyajeet Babasaheb Patil (Aaba) Sarudkar,506764,13426,1.05
+ls-2024,LS,India,2024,2024,official,292,Inner Manipur,ST,Manipur,793100,INC,Angomcha Bimol Akoijam,374017,BJP,Thounaojam Basanta Kumar Singh,264216,109801,13.84
+ls-2024,LS,India,2024,2024,official,293,Outer Manipur,GEN,Manipur,789510,INC,Alfred Kanngam S Arthur,384954,NPF,Kachui Timothy Zimik,299536,85418,10.82
+ls-2024,LS,India,2024,2024,official,294,Shillong,ST,Meghalaya,1026903,VOPP,Dr. Ricky Andrew J. Syngkon,571078,INC,Vincent H. Pala,199168,371910,36.22
+ls-2024,LS,India,2024,2024,official,295,Tura,ST,Meghalaya,668216,INC,Saleng A Sangma,383919,NPP,Agatha K Sangma,228678,155241,23.23
+ls-2024,LS,India,2024,2024,official,296,Mizoram,ST,Mizoram,489443,ZPM,Richard Vanlalhmangaiha,208552,MNF,K Vanlalvena,140264,68288,13.95
+ls-2024,LS,India,2024,2024,official,297,Nagaland,GEN,Nagaland,759150,INC,S Supongmeren Jamir,401951,NDPP,Dr Chumben Murry,350967,50984,6.72
+ls-2024,LS,India,2024,2024,official,298,Bargarh,GEN,Odisha,1297323,BJP,Pradeep Purohit,716359,BJD,Parinita Mishra,464692,251667,19.4
+ls-2024,LS,India,2024,2024,official,299,Sundargarh,ST,Odisha,1130962,BJP,Jual Oram,494282,BJD,Dilip Kumar Tirkey,355474,138808,12.27
+ls-2024,LS,India,2024,2024,official,300,Sambalpur,GEN,Odisha,1177686,BJP,Dharmendra Pradhan,592162,BJD,Pranab Prakash Das,472326,119836,10.18
+ls-2024,LS,India,2024,2024,official,301,Keonjhar,ST,Odisha,1231852,BJP,Ananta Nayak,573923,BJD,Dhanurjaya Sidu,476881,97042,7.88
+ls-2024,LS,India,2024,2024,official,302,Mayurbhanj,ST,Odisha,1150887,BJP,Naba Charan Majhi,585971,BJD,Sudam Marndi,366637,219334,19.06
+ls-2024,LS,India,2024,2024,official,303,Balasore,GEN,Odisha,1230833,BJP,Pratap Chandra Sarangi,563865,BJD,Lekhasri Samantsinghar,416709,147156,11.96
+ls-2024,LS,India,2024,2024,official,304,Bhadrak,SC,Odisha,1291899,BJP,Avimanyu Sethi,573319,BJD,Manjulata Mandal,481775,91544,7.09
+ls-2024,LS,India,2024,2024,official,305,Jajpur,SC,Odisha,1150508,BJP,Rabindra Narayan Behera,534239,BJD,Sarmistha Sethi,532652,1587,0.14
+ls-2024,LS,India,2024,2024,official,306,Dhenkanal,GEN,Odisha,1177896,BJP,Rudra Narayan Pany,598721,BJD,Abinash Samal,522154,76567,6.5
+ls-2024,LS,India,2024,2024,official,307,Bolangir,GEN,Odisha,1375545,BJP,Sangeeta Kumari Singh Deo,617744,BJD,Surendra Singh Bhoi,485080,132664,9.64
+ls-2024,LS,India,2024,2024,official,308,Kalahandi,GEN,Odisha,1314529,BJP,Malvika Devi,544303,BJD,Lambodar Nial,410490,133813,10.18
+ls-2024,LS,India,2024,2024,official,309,Nabarangpur,ST,Odisha,1199207,BJP,Balabhadra Majhi,481396,BJD,Pradeep Kumar Majhi,393860,87536,7.3
+ls-2024,LS,India,2024,2024,official,310,Kandhamal,GEN,Odisha,973453,BJP,Sukanta Kumar Panigrahi,416415,BJD,Achyutananda Samanta,395044,21371,2.2
+ls-2024,LS,India,2024,2024,official,311,Cuttack,GEN,Odisha,1111385,BJP,Bhartruhari Mahtab,531601,BJD,Santrupt Misra,474524,57077,5.14
+ls-2024,LS,India,2024,2024,official,312,Kendrapara,GEN,Odisha,1270381,BJP,Baijayant Panda,615705,BJD,Anshuman Mohanty,549169,66536,5.24
+ls-2024,LS,India,2024,2024,official,313,Jagatsinghpur,SC,Odisha,1279798,BJP,Bibhu Prasad Tarai,589093,BJD,Dr. Rajashree Mallick,548397,40696,3.18
+ls-2024,LS,India,2024,2024,official,314,Puri,GEN,Odisha,1189328,BJP,Sambit Patra,629330,BJD,Arup Mohan Patnaik,524621,104709,8.8
+ls-2024,LS,India,2024,2024,official,315,Bhubaneswar,GEN,Odisha,1068352,BJP,Aparajita Sarangi,512519,BJD,Manmath Kumar Routray,477367,35152,3.29
+ls-2024,LS,India,2024,2024,official,316,Aska,GEN,Odisha,995973,BJP,Anita Subhadarshini,494226,BJD,Ranjita Sahu,394252,99974,10.04
+ls-2024,LS,India,2024,2024,official,317,Berhampur,GEN,Odisha,1024638,BJP,Dr. Pradeep Kumar Panigrahy,513102,BJD,Bhrugu Baxipatra,347626,165476,16.15
+ls-2024,LS,India,2024,2024,official,318,Koraput,ST,Odisha,1106296,INC,Saptagiri Sankar Ulaka,471393,BJD,Kausalya Hikaka,323649,147744,13.35
+ls-2024,LS,India,2024,2024,official,319,Puducherry,GEN,Puducherry,798177,INC,Ve Vaithilingam,426005,BJP,A Namassivayam,289489,136516,17.1
+ls-2024,LS,India,2024,2024,official,320,Gurdaspur,GEN,Punjab,1071467,INC,Sukhjinder Singh Randhawa,364043,BJP,Dinesh Singh Babbu,281182,82861,7.73
+ls-2024,LS,India,2024,2024,official,321,Amritsar,GEN,Punjab,899149,INC,Gurjeet Singh Aujla,255181,AAP,Kuldeep Singh Dhaliwal,214880,40301,4.48
+ls-2024,LS,India,2024,2024,official,322,Khadoor Sahib,GEN,Punjab,1041515,IND,Amritpal Singh,404430,INC,Kulbir Singh Zira,207310,197120,18.93
+ls-2024,LS,India,2024,2024,official,323,Jalandhar,SC,Punjab,980402,INC,Charanjit Singh Channi,390053,BJP,Sushil Kumar Rinku,214060,175993,17.95
+ls-2024,LS,India,2024,2024,official,324,Hoshiarpur,SC,Punjab,937486,AAP,Dr. Raj Kumar Chabbewal,303859,INC,Yamini Gomar,259748,44111,4.71
+ls-2024,LS,India,2024,2024,official,325,Anandpur Sahib,GEN,Punjab,1060974,AAP,Malvinder Singh Kang,313217,INC,Vijay Inder Singla,302371,10846,1.02
+ls-2024,LS,India,2024,2024,official,326,Ludhiana,GEN,Punjab,1045466,INC,Amrinder Singh Raja Warring,322224,BJP,Ravneet Singh Bittu,301282,20942,2.0
+ls-2024,LS,India,2024,2024,official,327,Fatehgarh Sahib,SC,Punjab,965068,INC,Amar Singh,332591,AAP,Gurpreet Singh Gp,298389,34202,3.54
+ls-2024,LS,India,2024,2024,official,328,Faridkot,SC,Punjab,1002109,IND,Sarabjeet Singh Khalsa,298062,AAP,Karamjit Singh Anmol,228009,70053,6.99
+ls-2024,LS,India,2024,2024,official,329,Firozpur,GEN,Punjab,1114543,INC,Sher Singh Ghubaya,266626,AAP,Jagdeep Singh Kaka Brar,263384,3242,0.29
+ls-2024,LS,India,2024,2024,official,330,Bathinda,GEN,Punjab,1144636,SAD,Harsimrat Kaur Badal,376558,AAP,Gurmeet Singh Khudian,326902,49656,4.34
+ls-2024,LS,India,2024,2024,official,331,Sangrur,GEN,Punjab,998420,AAP,Gurmeet Singh Meet Hayer,364085,INC,Sukhpal Singh Khaira,191525,172560,17.28
+ls-2024,LS,India,2024,2024,official,332,Patiala,GEN,Punjab,1140095,INC,Dr. Dharamvira Gandhi,305616,AAP,Dr Balbir Singh,290785,14831,1.3
+ls-2024,LS,India,2024,2024,official,333,Ganganagar,SC,Rajasthan,1395855,INC,Kuldeep Indora,726492,BJP,Priyanka Balan Meghwal,638339,88153,6.32
+ls-2024,LS,India,2024,2024,official,334,Bikaner,SC,Rajasthan,1105724,BJP,Arjun Ram Meghwal,566737,INC,Govindram Meghwal,511026,55711,5.04
+ls-2024,LS,India,2024,2024,official,335,Churu,GEN,Rajasthan,1416121,INC,Rahul Kaswan,728211,BJP,Devendra Jhajharia,655474,72737,5.14
+ls-2024,LS,India,2024,2024,official,336,Jhunjhunu,GEN,Rajasthan,1110205,INC,Brijendra Singh Ola,553168,BJP,Shubhkaran Choudhary,534933,18235,1.64
+ls-2024,LS,India,2024,2024,official,337,Sikar,GEN,Rajasthan,1280533,CPI(M),Amraram,659300,BJP,Sumedhanand Saraswati,586404,72896,5.69
+ls-2024,LS,India,2024,2024,official,338,Jaipur Rural,GEN,Rajasthan,1251814,BJP,Rao Rajendra Singh,617877,INC,Anil Chopra,616262,1615,0.13
+ls-2024,LS,India,2024,2024,official,339,Jaipur,GEN,Rajasthan,1451238,BJP,Manju Sharma,886850,INC,Pratap Singh Khachariyawas,555083,331767,22.86
+ls-2024,LS,India,2024,2024,official,340,Alwar,GEN,Rajasthan,1246737,BJP,Bhupender Yadav,631992,INC,Lalit Yadav,583710,48282,3.87
+ls-2024,LS,India,2024,2024,official,341,Bharatpur,SC,Rajasthan,1127557,INC,Sanjna Jatav,579890,BJP,Ramswaroop Koli,527907,51983,4.61
+ls-2024,LS,India,2024,2024,official,342,Karauli-Dholpur,SC,Rajasthan,980662,INC,Bhajan Lal Jatav,530011,BJP,Indu Devi,431066,98945,10.09
+ls-2024,LS,India,2024,2024,official,343,Dausa,ST,Rajasthan,1066888,INC,Murari Lal Meena,646266,BJP,Kanhaiya Lal Meena,408926,237340,22.25
+ls-2024,LS,India,2024,2024,official,344,Tonk-Sawai Madhopur,GEN,Rajasthan,1216114,INC,Harish Chandra Meena,623763,BJP,Sukhbir Singh Jaunapuria,558814,64949,5.34
+ls-2024,LS,India,2024,2024,official,345,Ajmer,GEN,Rajasthan,1187762,BJP,Bhagirath Choudhary,747462,INC,Ramchandra Choudhary,417471,329991,27.78
+ls-2024,LS,India,2024,2024,official,346,Nagaur,GEN,Rajasthan,1226820,RLP,Hanuman Beniwal,596955,BJP,Jyoti Mirdha,554730,42225,3.44
+ls-2024,LS,India,2024,2024,official,347,Pali,GEN,Rajasthan,1339989,BJP,P. P. Chaudhary,757389,INC,Sangeeta Beniwal,512038,245351,18.31
+ls-2024,LS,India,2024,2024,official,348,Jodhpur,GEN,Rajasthan,1371056,BJP,Gajendra Singh Shekhawat,730056,INC,Karan Singh Uchiyarda,614379,115677,8.44
+ls-2024,LS,India,2024,2024,official,349,Barmer,GEN,Rajasthan,1670148,INC,Ummeda Ram Beniwal,704676,IND,Ravindra Singh Bhati,586500,118176,7.08
+ls-2024,LS,India,2024,2024,official,350,Jalore,GEN,Rajasthan,1431170,BJP,Lumbaram,796783,INC,Vaibhav Gehlot,595240,201543,14.08
+ls-2024,LS,India,2024,2024,official,351,Udaipur,ST,Rajasthan,1475428,BJP,Manna Lal Rawat,738286,INC,Tarachand Meena,476678,261608,17.73
+ls-2024,LS,India,2024,2024,official,352,Banswara,ST,Rajasthan,1615882,BADP,Raj Kumar Roat,820831,BJP,Mahendrajeetsingh Malviya,573777,247054,15.29
+ls-2024,LS,India,2024,2024,official,353,Chittorgarh,GEN,Rajasthan,1486363,BJP,Chandra Prakash Joshi,888202,INC,Anjana Udailal,498325,389877,26.23
+ls-2024,LS,India,2024,2024,official,354,Rajsamand,GEN,Rajasthan,1199575,BJP,Mahima Kumari Mewar,781203,INC,Dr. Damodar Gurjar,388980,392223,32.7
+ls-2024,LS,India,2024,2024,official,355,Bhilwara,GEN,Rajasthan,1288055,BJP,Damodar Agarwal,807640,INC,C P Joshi,453034,354606,27.53
+ls-2024,LS,India,2024,2024,official,356,Kota,GEN,Rajasthan,1487827,BJP,Om Birla,750496,INC,Prahlad Gunjal,708522,41974,2.82
+ls-2024,LS,India,2024,2024,official,357,Jhalawar-Baran,GEN,Rajasthan,1405304,BJP,Dushyant Singh,865376,INC,Urmila Jain,494387,370989,26.4
+ls-2024,LS,India,2024,2024,official,358,Sikkim,GEN,Sikkim,382366,SKM,Indra Hang Subba,164396,CAPS,Bharat Basnett,83566,80830,21.14
+ls-2024,LS,India,2024,2024,official,359,Tiruvallur,SC,Tamil Nadu,1393973,INC,Sasikanth Senthil,796956,BJP,Balaganapathy V. Pon,224801,572155,41.04
+ls-2024,LS,India,2024,2024,official,360,Chennai North,GEN,Tamil Nadu,888456,DMK,Dr.Kalanidhi Veeraswamy,497333,AIADMK,R. Manohar,158111,339222,38.18
+ls-2024,LS,India,2024,2024,official,361,Chennai South,GEN,Tamil Nadu,1078728,DMK,T.Sumathy (Alias) Thamizhachi Thangapandian,516628,BJP,Dr.Tamilisai Soundararajan,290683,225945,20.95
+ls-2024,LS,India,2024,2024,official,362,Chennai Central,GEN,Tamil Nadu,716749,DMK,Dayanidhi Maran,413848,BJP,Vinoj,169159,244689,34.14
+ls-2024,LS,India,2024,2024,official,363,Sriperumbudur,GEN,Tamil Nadu,1406200,DMK,T R Baalu,758611,AIADMK,G Premkumar,271582,487029,34.63
+ls-2024,LS,India,2024,2024,official,364,Kancheepuram,SC,Tamil Nadu,1242613,DMK,Selvam. G,586044,AIADMK,Rajasekar. E,364571,221473,17.82
+ls-2024,LS,India,2024,2024,official,365,Arakkonam,GEN,Tamil Nadu,1147807,DMK,S Jagathratchakan,563216,AIADMK,L Vijayan,256657,306559,26.71
+ls-2024,LS,India,2024,2024,official,366,Vellore,GEN,Tamil Nadu,1119075,DMK,Dm Kathir Anand,568692,BJP,Ac Shanmugam,352990,215702,19.28
+ls-2024,LS,India,2024,2024,official,367,Krishnagiri,GEN,Tamil Nadu,1147368,INC,Gopinath K,492883,AIADMK,Jayaprakash V,300397,192486,16.78
+ls-2024,LS,India,2024,2024,official,368,Dharmapuri,GEN,Tamil Nadu,1235610,DMK,Mani. A,432667,PMK,Sowmiya Anbumani,411367,21300,1.72
+ls-2024,LS,India,2024,2024,official,369,Tiruvannamalai,GEN,Tamil Nadu,1130241,DMK,Annadurai C.N,547379,AIADMK,Kaliyaperumal M,313448,233931,20.7
+ls-2024,LS,India,2024,2024,official,370,Arani,GEN,Tamil Nadu,1128140,DMK,Tharaniventhan M S,500099,AIADMK,Gajendran G.V,291333,208766,18.51
+ls-2024,LS,India,2024,2024,official,371,Viluppuram,SC,Tamil Nadu,1143701,VCK,Ravikumar. D,477033,AIADMK,Bhagyaraj. J,406330,70703,6.18
+ls-2024,LS,India,2024,2024,official,372,Kallakurichi,GEN,Tamil Nadu,1239797,DMK,Malaiyarasan D,561589,AIADMK,Kumaraguru R,507805,53784,4.34
+ls-2024,LS,India,2024,2024,official,373,Salem,GEN,Tamil Nadu,1287694,DMK,Selvaganapathi T M,566085,AIADMK,Vignesh P,495728,70357,5.46
+ls-2024,LS,India,2024,2024,official,374,Namakkal,GEN,Tamil Nadu,1127126,DMK,Matheswaran V S,462036,AIADMK,Tamilmani S,432924,29112,2.58
+ls-2024,LS,India,2024,2024,official,375,Erode,GEN,Tamil Nadu,1075990,DMK,K E Prakash,562339,AIADMK,Ashok Kumar,325773,236566,21.99
+ls-2024,LS,India,2024,2024,official,376,Tiruppur,GEN,Tamil Nadu,1124812,CPI,Subbarayan K,472739,AIADMK,Arunachalam P,346811,125928,11.2
+ls-2024,LS,India,2024,2024,official,377,Nilgiris,SC,Tamil Nadu,1003530,DMK,Raja A,473212,BJP,Dr Murugan L,232627,240585,23.97
+ls-2024,LS,India,2024,2024,official,378,Coimbatore,GEN,Tamil Nadu,1359205,DMK,Ganapathy Rajkumar P,568200,BJP,Annamalai K,450132,118068,8.69
+ls-2024,LS,India,2024,2024,official,379,Pollachi,GEN,Tamil Nadu,1111542,DMK,Eswarasamy K,533377,AIADMK,Karthikeyan A,281335,252042,22.67
+ls-2024,LS,India,2024,2024,official,380,Dindigul,GEN,Tamil Nadu,1125067,CPI(M),Sachithanantham R,670149,AIADMK,Mohamed Mubarak M A,226328,443821,39.45
+ls-2024,LS,India,2024,2024,official,381,Karur,GEN,Tamil Nadu,1122625,INC,Jothimani. S,534906,AIADMK,Thangavel. L,368090,166816,14.86
+ls-2024,LS,India,2024,2024,official,382,Tiruchirappalli,GEN,Tamil Nadu,1038564,MDMK,Durai Vaiko,542213,AIADMK,Karuppaiah. P,229119,313094,30.15
+ls-2024,LS,India,2024,2024,official,383,Perambalur,GEN,Tamil Nadu,1118904,DMK,Arun Nehru,603209,AIADMK,Chandramohan N D,214102,389107,34.78
+ls-2024,LS,India,2024,2024,official,384,Cuddalore,GEN,Tamil Nadu,1019533,INC,M.K. Vishnuprasad,455053,DMDK,P. Sivakozhundu,269157,185896,18.23
+ls-2024,LS,India,2024,2024,official,385,Chidambaram,SC,Tamil Nadu,1158310,VCK,Thirumaavalavan Thol,505084,AIADMK,Chandrahasan M,401530,103554,8.94
+ls-2024,LS,India,2024,2024,official,386,Mayiladuthurai,GEN,Tamil Nadu,1077492,INC,Sudha R,518459,AIADMK,Babu P,247276,271183,25.17
+ls-2024,LS,India,2024,2024,official,387,Nagapattinam,SC,Tamil Nadu,964093,CPI,Selvaraj V,465044,AIADMK,Dr Sursith Sankar G,256087,208957,21.67
+ls-2024,LS,India,2024,2024,official,388,Thanjavur,GEN,Tamil Nadu,1015873,DMK,Murasoli S,502245,DMDK,Sivanesan P,182662,319583,31.46
+ls-2024,LS,India,2024,2024,official,389,Sivaganga,GEN,Tamil Nadu,1045230,INC,Karti P Chidambaram,427677,AIADMK,Xavierdass A,222013,205664,19.68
+ls-2024,LS,India,2024,2024,official,390,Madurai,GEN,Tamil Nadu,965875,CPI(M),Venkatesan S,430323,BJP,Raama Sreenivasan,220914,209409,21.68
+ls-2024,LS,India,2024,2024,official,391,Theni,GEN,Tamil Nadu,1128789,DMK,Thanga Tamilselvan,571493,AMMK,Ttv Dhinakaran,292668,278825,24.7
+ls-2024,LS,India,2024,2024,official,392,Virudhunagar,GEN,Tamil Nadu,1046312,INC,Manickam Tagore B,385256,DMDK,Vijayaprabhakaran V,380877,4379,0.42
+ls-2024,LS,India,2024,2024,official,393,Ramanathapuram,GEN,Tamil Nadu,1098140,IUML,Navaskani K,509664,IND,Panneerselvam O S/O Ottakarathevar,342882,166782,15.19
+ls-2024,LS,India,2024,2024,official,394,Thoothukkudi,GEN,Tamil Nadu,965420,DMK,Kanimozhi Karunanidhi,540729,AIADMK,Sivasamy Velumani R,147991,392738,40.68
+ls-2024,LS,India,2024,2024,official,395,Tenkasi,SC,Tamil Nadu,1017823,DMK,Dr. Rani Sri Kumar,425679,AIADMK,Dr K Krishnasamy,229480,196199,19.28
+ls-2024,LS,India,2024,2024,official,396,Tirunelveli,GEN,Tamil Nadu,1054383,INC,Robert Bruce C,502296,BJP,Nainar Nagenthran,336676,165620,15.71
+ls-2024,LS,India,2024,2024,official,397,Kanniyakumari,GEN,Tamil Nadu,1023834,INC,Vijayakumar (Alias) Vijay Vasanth,546248,BJP,Radhakrishnan P,366341,179907,17.57
+ls-2024,LS,India,2024,2024,official,398,Adilabad,ST,Telangana,1210201,BJP,Godam Nagesh,568168,INC,Athram Suguna,477516,90652,7.49
+ls-2024,LS,India,2024,2024,official,399,Peddapalle,SC,Telangana,1064974,INC,Vamsi Krishna Gaddam,475587,BJP,Srinivas Gomase,344223,131364,12.33
+ls-2024,LS,India,2024,2024,official,400,Karimnagar,GEN,Telangana,1293679,BJP,Bandi Sanjay Kumar,585116,INC,Velchala Rajender Rao,359907,225209,17.41
+ls-2024,LS,India,2024,2024,official,401,Nizamabad,GEN,Telangana,1216896,BJP,Arvind Dharmapuri,592318,INC,Jeevanreddy Thatiparthi,483077,109241,8.98
+ls-2024,LS,India,2024,2024,official,402,Zahirabad,GEN,Telangana,1225049,INC,Suresh Kumar Shetkar,528418,BJP,B. B. Patil,482230,46188,3.77
+ls-2024,LS,India,2024,2024,official,403,Medak,GEN,Telangana,1361779,BJP,Madhavaneni Raghunandan Rao,471217,INC,Neelam Madhu,432078,39139,2.87
+ls-2024,LS,India,2024,2024,official,404,Malkajgiri,GEN,Telangana,1916336,BJP,Eatala Rajender,991042,INC,Patnam Suneetha Mahender Reddy,599567,391475,20.43
+ls-2024,LS,India,2024,2024,official,405,Secunderabad,GEN,Telangana,1037997,BJP,G. Kishan Reddy,473012,INC,Danam Nagender,423068,49944,4.81
+ls-2024,LS,India,2024,2024,official,406,Hyderabad,GEN,Telangana,1072457,AIMEIM,Asaduddin Owaisi,661981,BJP,Madhavi Latha Kompella,323894,338087,31.52
+ls-2024,LS,India,2024,2024,official,407,Chevella,GEN,Telangana,1650628,BJP,Konda Vishweshwar Reddy,809882,INC,Dr Gaddam Ranjith Reddy,636985,172897,10.47
+ls-2024,LS,India,2024,2024,official,408,Mahbubnagar,GEN,Telangana,1216102,BJP,Aruna. D. K,510747,INC,Challa Vamshi Chand Reddy,506247,4500,0.37
+ls-2024,LS,India,2024,2024,official,409,Nagarkurnool,SC,Telangana,1207928,INC,Dr.Mallu Ravi,465072,BJP,Bharath Prasad Pothuganti,370658,94414,7.82
+ls-2024,LS,India,2024,2024,official,410,Nalgonda,GEN,Telangana,1283230,INC,Kunduru Raghuveer,784337,BJP,Saidi Reddy Shanampudi,224432,559905,43.63
+ls-2024,LS,India,2024,2024,official,411,Bhongir,GEN,Telangana,1359364,INC,Chamala Kiran Kumar Reddy,629143,BJP,Dr. Boora Narsaiah Goud,406973,222170,16.34
+ls-2024,LS,India,2024,2024,official,412,Warangal,SC,Telangana,1241183,INC,Kadiyam Kavya,581294,BJP,Aroori Ramesh,360955,220339,17.75
+ls-2024,LS,India,2024,2024,official,413,Mahabubabad,ST,Telangana,1093839,INC,Balram Naik Porika,612774,BRS,Kavitha Maloth,263609,349165,31.92
+ls-2024,LS,India,2024,2024,official,414,Khammam,GEN,Telangana,1240721,INC,Ramasahayam Raghuram Reddy,766929,BRS,Nama Nageswara Rao,299082,467847,37.71
+ls-2024,LS,India,2024,2024,official,415,Tripura West,ST,Tripura,1195197,BJP,Biplab Kumar Deb,881341,INC,Asish Kumar Saha,269763,611578,51.17
+ls-2024,LS,India,2024,2024,official,416,Tripura East,GEN,Tripura,1116042,BJP,Kriti Devi Debbarman,777447,CPI(M),Rajendra Reang,290628,486819,43.62
+ls-2024,LS,India,2024,2024,official,417,Saharanpur,GEN,Uttar Pradesh,1224889,INC,Imran Masood,547967,BJP,Raghav Lakhanpal,483425,64542,5.27
+ls-2024,LS,India,2024,2024,official,418,Kairana,GEN,Uttar Pradesh,1073463,SP,Iqra Choudhary,528013,BJP,Pradeep Kumar,458897,69116,6.44
+ls-2024,LS,India,2024,2024,official,419,Muzaffarnagar,GEN,Uttar Pradesh,1072471,SP,Harendra Singh Malik,470721,BJP,Sanjeev Kumar Balyan,446049,24672,2.3
+ls-2024,LS,India,2024,2024,official,420,Bijnor,GEN,Uttar Pradesh,1013165,RLD,Chandan Chauhan,404493,SP,Deepak,366985,37508,3.7
+ls-2024,LS,India,2024,2024,official,421,Nagina,SC,Uttar Pradesh,995996,ASP(KR),Chandrashekhar,512552,BJP,Om Kumar,361079,151473,15.21
+ls-2024,LS,India,2024,2024,official,422,Moradabad,GEN,Uttar Pradesh,1273861,SP,Ruchi Vira,637363,BJP,Kunwar Sarvesh Kumar,531601,105762,8.3
+ls-2024,LS,India,2024,2024,official,423,Rampur,GEN,Uttar Pradesh,962426,SP,Mohibbullah,481503,BJP,Ghanshyam Singh Lodhi,394069,87434,9.08
+ls-2024,LS,India,2024,2024,official,424,Sambhal,GEN,Uttar Pradesh,1184865,SP,Zia Ur Rehman,571161,BJP,Parmeshwar Lal Saini,449667,121494,10.25
+ls-2024,LS,India,2024,2024,official,425,Amroha,GEN,Uttar Pradesh,1104790,BJP,Kanwar Singh Tanwar,476506,INC,Kunwar Danish Ali,447836,28670,2.6
+ls-2024,LS,India,2024,2024,official,426,Meerut,GEN,Uttar Pradesh,1172004,BJP,Arun Govil,546469,SP,Sunita Verma,535884,10585,0.9
+ls-2024,LS,India,2024,2024,official,427,Baghpat,GEN,Uttar Pradesh,916264,RLD,Dr. Rajkumar Sangwan,488967,SP,Amarpal,329508,159459,17.4
+ls-2024,LS,India,2024,2024,official,428,Ghaziabad,GEN,Uttar Pradesh,1458797,BJP,Atul Garg,854170,INC,Dolly Sharma,517205,336965,23.1
+ls-2024,LS,India,2024,2024,official,429,Gautam Buddha Nagar,GEN,Uttar Pradesh,1419208,BJP,Dr. Mahesh Sharma,857829,SP,Dr. Mahendra Singh Nagar,298357,559472,39.42
+ls-2024,LS,India,2024,2024,official,430,Bulandshahr,SC,Uttar Pradesh,1047474,BJP,Dr. Bhola Singh,597310,INC,Shivram,322176,275134,26.27
+ls-2024,LS,India,2024,2024,official,431,Aligarh,GEN,Uttar Pradesh,1125024,BJP,Satish Kumar Gautam,501834,SP,Bijendra Singh,486187,15647,1.39
+ls-2024,LS,India,2024,2024,official,432,Hathras,SC,Uttar Pradesh,1074814,BJP,Anoop Pradhan Balmiki,554746,SP,Jasveer Valmiki,307428,247318,23.01
+ls-2024,LS,India,2024,2024,official,433,Mathura,GEN,Uttar Pradesh,951654,BJP,Hemamalini Dharmendra Deol,510064,INC,Mukesh Dhangar,216657,293407,30.83
+ls-2024,LS,India,2024,2024,official,434,Agra,SC,Uttar Pradesh,1112205,BJP,Prof S P Singh Baghel,599397,SP,Suresh Chand Kardam,328103,271294,24.39
+ls-2024,LS,India,2024,2024,official,435,Fatehpur Sikri,GEN,Uttar Pradesh,1022327,BJP,Rajkumar Chahar,445657,INC,Ramnath Singh Sikarwar,402252,43405,4.25
+ls-2024,LS,India,2024,2024,official,436,Firozabad,GEN,Uttar Pradesh,1096209,SP,Akshaya Yadav,543037,BJP,Vishwadeep Singh,453725,89312,8.15
+ls-2024,LS,India,2024,2024,official,437,Mainpuri,GEN,Uttar Pradesh,1047376,SP,Dimple Yadav,598526,BJP,Jayveer Singh,376887,221639,21.16
+ls-2024,LS,India,2024,2024,official,438,Etah,GEN,Uttar Pradesh,1003486,SP,Devesh Shakya,475808,BJP,Rajveer Singh (Raju Bhaiya),447756,28052,2.8
+ls-2024,LS,India,2024,2024,official,439,Badaun,GEN,Uttar Pradesh,1081052,SP,Aditya Yadav,501855,BJP,Durvijay Singh Shakya,466864,34991,3.24
+ls-2024,LS,India,2024,2024,official,440,Aonla,GEN,Uttar Pradesh,1071857,SP,Neeraj Maurya,492515,BJP,Dharmendra Kashyap,476546,15969,1.49
+ls-2024,LS,India,2024,2024,official,441,Bareilly,GEN,Uttar Pradesh,1108831,BJP,Chhatra Pal Singh Gangwar,567127,SP,Praveen Singh Aron,532323,34804,3.14
+ls-2024,LS,India,2024,2024,official,442,Pilibhit,GEN,Uttar Pradesh,1152575,BJP,Jitin Prasada,607158,SP,Bhagwat Saran Gangwar,442223,164935,14.31
+ls-2024,LS,India,2024,2024,official,443,Shahjahanpur,SC,Uttar Pradesh,1236649,BJP,Arun Kumar Sagar,592718,SP,Jyotsna Gond,537339,55379,4.48
+ls-2024,LS,India,2024,2024,official,444,Kheri,GEN,Uttar Pradesh,1199050,SP,Utkarsh Verma 'Madhur',557365,BJP,Ajay Kumar,523036,34329,2.86
+ls-2024,LS,India,2024,2024,official,445,Dhaurahra,GEN,Uttar Pradesh,1095225,SP,Anand Bhadauriya,443743,BJP,Rekha Verma,439294,4449,0.41
+ls-2024,LS,India,2024,2024,official,446,Sitapur,GEN,Uttar Pradesh,1090513,INC,Rakesh Rathor,531138,BJP,Rajesh Verma,441497,89641,8.22
+ls-2024,LS,India,2024,2024,official,447,Hardoi,SC,Uttar Pradesh,1084273,BJP,Jai Prakash,486798,SP,Usha Verma,458942,27856,2.57
+ls-2024,LS,India,2024,2024,official,448,Misrikh,SC,Uttar Pradesh,1040692,BJP,Ashok Kumar Rawat,475016,SP,Sangita Rajvanshi,441610,33406,3.21
+ls-2024,LS,India,2024,2024,official,449,Unnao,GEN,Uttar Pradesh,1290155,BJP,Swami Sachchidanand Hari Sakshi,616133,SP,Annu Tandon,580315,35818,2.78
+ls-2024,LS,India,2024,2024,official,450,Mohanlalganj,SC,Uttar Pradesh,1365854,SP,R.K. Chaudhary,667869,BJP,Kaushal Kishore,597577,70292,5.15
+ls-2024,LS,India,2024,2024,official,451,Lucknow,GEN,Uttar Pradesh,1126113,BJP,Raj Nath Singh,612709,SP,Ravidas Mehrotra,477550,135159,12.0
+ls-2024,LS,India,2024,2024,official,452,Rae Bareli,GEN,Uttar Pradesh,1020969,INC,Rahul Gandhi,687649,BJP,Dinesh Pratap Singh,297619,390030,38.2
+ls-2024,LS,India,2024,2024,official,453,Amethi,GEN,Uttar Pradesh,965087,INC,Kishori Lal,539228,BJP,Smriti Irani,372032,167196,17.32
+ls-2024,LS,India,2024,2024,official,454,Sultanpur,GEN,Uttar Pradesh,1019104,SP,Rambhual Nishad,444330,BJP,Maneka Sanjay Gandhi,401156,43174,4.24
+ls-2024,LS,India,2024,2024,official,455,Pratapgarh,GEN,Uttar Pradesh,918502,SP,Shiv Pal Singh Patel (Dr. S P Singh),441932,BJP,Sangam Lal Gupta,375726,66206,7.21
+ls-2024,LS,India,2024,2024,official,456,Farrukhabad,GEN,Uttar Pradesh,1024465,BJP,Mukesh Rajput,487963,SP,Dr. Naval Kishor Shakya,485285,2678,0.26
+ls-2024,LS,India,2024,2024,official,457,Etawah,SC,Uttar Pradesh,1025944,SP,Jitendra Kumar Dohare,490747,BJP,Dr Ram Shankar Katheria,432328,58419,5.69
+ls-2024,LS,India,2024,2024,official,458,Kannauj,GEN,Uttar Pradesh,1210565,SP,Akhilesh Yadav,642292,BJP,Subrat Pathak,471370,170922,14.12
+ls-2024,LS,India,2024,2024,official,459,Kanpur,GEN,Uttar Pradesh,882929,BJP,Ramesh Awasthi,443055,INC,Alok Misra,422087,20968,2.37
+ls-2024,LS,India,2024,2024,official,460,Akbarpur,GEN,Uttar Pradesh,1073999,BJP,Devendra Singh Alias Bhole Singh,517423,SP,Rajaram Pal,473078,44345,4.13
+ls-2024,LS,India,2024,2024,official,461,Jalaun,SC,Uttar Pradesh,1117795,SP,Narayan Das Ahirwar,530180,BJP,Bhanu Pratap Singh Verma,476282,53898,4.82
+ls-2024,LS,India,2024,2024,official,462,Jhansi,GEN,Uttar Pradesh,1363827,BJP,Anurag Sharma,690316,INC,Pradeep Jain Aditya,587702,102614,7.52
+ls-2024,LS,India,2024,2024,official,463,Hamirpur,GEN,Uttar Pradesh,1091544,SP,Ajendra Singh Lodhi,490683,BJP,Kunwar Pushpendra Singh Chandel,488054,2629,0.24
+ls-2024,LS,India,2024,2024,official,464,Banda,GEN,Uttar Pradesh,1010247,SP,Krishna Devi Shivshanker Patel,406567,BJP,R. K. Singh Patel,335357,71210,7.05
+ls-2024,LS,India,2024,2024,official,465,Fatehpur,GEN,Uttar Pradesh,1082085,SP,Naresh Chandra Uttam Patel,500328,BJP,Niranjan Jyoti,467129,33199,3.07
+ls-2024,LS,India,2024,2024,official,466,Kaushambi,SC,Uttar Pradesh,992399,SP,Pushpendra Saroj,509787,BJP,Vinod Kumar Sonkar,405843,103944,10.47
+ls-2024,LS,India,2024,2024,official,467,Phulpur,GEN,Uttar Pradesh,993771,BJP,Praveen Patel,452600,SP,Amar Nath Singh Maurya,448268,4332,0.44
+ls-2024,LS,India,2024,2024,official,468,Allahabad,GEN,Uttar Pradesh,927177,INC,Ujjwal Raman Singh,462145,BJP,Neeraj Tripathi,403350,58795,6.34
+ls-2024,LS,India,2024,2024,official,469,Barabanki,SC,Uttar Pradesh,1277576,INC,Tanuj Punia,719927,BJP,Rajrani Rawat,504223,215704,16.88
+ls-2024,LS,India,2024,2024,official,470,Faizabad,GEN,Uttar Pradesh,1128096,SP,Awadhesh Prasad,554289,BJP,Lallu Singh,499722,54567,4.84
+ls-2024,LS,India,2024,2024,official,471,Ambedkar Nagar,GEN,Uttar Pradesh,1160361,SP,Lalji Verma,544959,BJP,Ritesh Pandey,407712,137247,11.83
+ls-2024,LS,India,2024,2024,official,472,Baharaich,SC,Uttar Pradesh,1040320,BJP,Anand Kumar,518802,SP,Ramesh Chandra,454575,64227,6.17
+ls-2024,LS,India,2024,2024,official,473,Kaiserganj,GEN,Uttar Pradesh,1047212,BJP,Karan Bhushan Singh,571263,SP,Bhagat Ram,422420,148843,14.21
+ls-2024,LS,India,2024,2024,official,474,Shrawasti,GEN,Uttar Pradesh,1028902,SP,Ram Shiromani Verma,511055,BJP,Saket Misra,434382,76673,7.45
+ls-2024,LS,India,2024,2024,official,475,Gonda,GEN,Uttar Pradesh,942346,BJP,Kirtivardhan Singh,474258,SP,Shreya Verma,428034,46224,4.91
+ls-2024,LS,India,2024,2024,official,476,Domariyaganj,GEN,Uttar Pradesh,1009518,BJP,Jagdambika Pal,463303,SP,Bhishma Shankar Alias Kushal Tiwari,420575,42728,4.23
+ls-2024,LS,India,2024,2024,official,477,Basti,GEN,Uttar Pradesh,1069134,SP,Ram Prasad Chaudhary,527005,BJP,Harish Chandra Alias Harish Dwivedi,426011,100994,9.45
+ls-2024,LS,India,2024,2024,official,478,Sant Kabir Nagar,GEN,Uttar Pradesh,1074433,SP,Laxmikant Pappu Nishad,498695,BJP,Pravin Kumar Nishad,406525,92170,8.58
+ls-2024,LS,India,2024,2024,official,479,Maharajganj,GEN,Uttar Pradesh,1198288,BJP,Pankaj Chaudhary,591310,INC,Virendra Chaudhary,555859,35451,2.96
+ls-2024,LS,India,2024,2024,official,480,Gorakhpur,GEN,Uttar Pradesh,1138549,BJP,Ravindra Shukla Alias Ravi Kishan,585834,SP,Kajal Nishad,482308,103526,9.09
+ls-2024,LS,India,2024,2024,official,481,Kushi Nagar,GEN,Uttar Pradesh,1060737,BJP,Vijay Kumar Dubay,516345,SP,Ajay Pratap Singh Urf Pintu Saithwar,434555,81790,7.71
+ls-2024,LS,India,2024,2024,official,482,Deoria,GEN,Uttar Pradesh,1029914,BJP,Shashank Mani,504541,INC,Akhilesh Pratap Singh,469699,34842,3.38
+ls-2024,LS,India,2024,2024,official,483,Bansgaon,SC,Uttar Pradesh,935742,BJP,Kamlesh Paswan,428693,INC,Sadal Prasad,425543,3150,0.34
+ls-2024,LS,India,2024,2024,official,484,Lalganj,SC,Uttar Pradesh,996344,SP,Daroga Prasad Saroj,439959,BJP,Neelam Sonker,324936,115023,11.54
+ls-2024,LS,India,2024,2024,official,485,Azamgarh,GEN,Uttar Pradesh,1043890,SP,Dharmendra Yadav,508239,BJP,Dinesh Lal Yadav,347204,161035,15.43
+ls-2024,LS,India,2024,2024,official,486,Ghosi,GEN,Uttar Pradesh,1125998,SP,Rajeev Rai,503131,SBSP,Dr. Arvind Rajbhar,340188,162943,14.47
+ls-2024,LS,India,2024,2024,official,487,Salempur,GEN,Uttar Pradesh,904136,SP,Ramashankar Rajbhar,405472,BJP,Ravindar Kushawaha,401899,3573,0.4
+ls-2024,LS,India,2024,2024,official,488,Ballia,GEN,Uttar Pradesh,999135,SP,Sanatan Pandey,467068,BJP,Neeraj Shekhar,423684,43384,4.34
+ls-2024,LS,India,2024,2024,official,489,Jaunpur,GEN,Uttar Pradesh,1087658,SP,Babu Singh Kushwaha,509130,BJP,Kripashankar Singh,409795,99335,9.13
+ls-2024,LS,India,2024,2024,official,490,Machhlishahr,SC,Uttar Pradesh,1041546,SP,Priya Saroj,451292,BJP,Bholanath (B.P. Saroj),415442,35850,3.44
+ls-2024,LS,India,2024,2024,official,491,Ghazipur,GEN,Uttar Pradesh,1135924,SP,Afzal Ansari,539912,BJP,Pars Nath Rai,415051,124861,10.99
+ls-2024,LS,India,2024,2024,official,492,Chandauli,GEN,Uttar Pradesh,1094291,SP,Birendra Singh,474476,BJP,Dr. Mahendra Nath Pandey,452911,21565,1.97
+ls-2024,LS,India,2024,2024,official,493,Varanasi,GEN,Uttar Pradesh,1118031,BJP,Narendra Modi,612970,INC,Ajay Rai,460457,152513,13.64
+ls-2024,LS,India,2024,2024,official,494,Bhadohi,GEN,Uttar Pradesh,1062961,BJP,Dr. Vinod Kumar Bind,459982,AITC,Laliteshpati Tripathi,415910,44072,4.15
+ls-2024,LS,India,2024,2024,official,495,Mirzapur,GEN,Uttar Pradesh,1081766,ADS,Anupriya Patel,471631,SP,Ramesh Chand Bind,433821,37810,3.5
+ls-2024,LS,India,2024,2024,official,496,Robertsganj,SC,Uttar Pradesh,972586,SP,Chhotelal,465848,ADS,Rinki Singh,336614,129234,13.29
+ls-2024,LS,India,2024,2024,official,497,Tehri Garhwal,GEN,Uttarakhand,848651,BJP,Mala Rajya Lakshmi Shah,462603,INC,Jot Singh Gunsola,190110,272493,32.11
+ls-2024,LS,India,2024,2024,official,498,Garhwal,GEN,Uttarakhand,720332,BJP,Anil Baluni,432159,INC,Ganesh Godiyal,268656,163503,22.7
+ls-2024,LS,India,2024,2024,official,499,Almora,SC,Uttarakhand,644797,BJP,Ajay Tamta,429167,INC,Pradeep Tamta,195070,234097,36.31
+ls-2024,LS,India,2024,2024,official,500,Nainital-Udhamsingh Nagar,GEN,Uttarakhand,1246766,BJP,Ajay Bhatt,772671,INC,Prakash Joshi,438123,334548,26.83
+ls-2024,LS,India,2024,2024,official,501,Haridwar,GEN,Uttarakhand,1290371,BJP,Trivendra Singh Rawat,653808,INC,Virendra Rawat,489752,164056,12.71
+ls-2024,LS,India,2024,2024,official,502,Cooch Behar,SC,West Bengal,1607485,AITC,Jagadish Chandra Barma Basunia,788375,BJP,Nisith Pramanik,749125,39250,2.44
+ls-2024,LS,India,2024,2024,official,503,Alipurduars,ST,West Bengal,1393726,BJP,Manoj Tigga,695314,AITC,Prakash Chik Baraik,619867,75447,5.41
+ls-2024,LS,India,2024,2024,official,504,Jalpaiguri,SC,West Bengal,1557402,BJP,Dr. Jayanta Kumar Roy,766568,AITC,Nirmal Chandra Roy,679875,86693,5.57
+ls-2024,LS,India,2024,2024,official,505,Darjeeling,GEN,West Bengal,1301698,BJP,Raju Bista,679331,AITC,Gopal Lama,500806,178525,13.71
+ls-2024,LS,India,2024,2024,official,506,Raiganj,GEN,West Bengal,1361785,BJP,Kartick Chandra Paul,560897,AITC,Kalyani Krishna,492700,68197,5.01
+ls-2024,LS,India,2024,2024,official,507,Balurghat,GEN,West Bengal,1224734,BJP,Sukanta Majumdar,574996,AITC,Biplab Mitra,564610,10386,0.85
+ls-2024,LS,India,2024,2024,official,508,Maldaha Uttar,GEN,West Bengal,1403430,BJP,Khagen Murmu,527023,AITC,Prasun Banerjee,449315,77708,5.54
+ls-2024,LS,India,2024,2024,official,509,Maldaha Dakshin,GEN,West Bengal,1354789,INC,Isha Khan Choudhury,572395,BJP,Sreerupa Mitra Chaudhury (Nirbhaya Didi),444027,128368,9.48
+ls-2024,LS,India,2024,2024,official,510,Jangipur,GEN,West Bengal,1345747,AITC,Khalilur Rahaman,544427,INC,Murtoja Hossain Bokul,427790,116637,8.67
+ls-2024,LS,India,2024,2024,official,511,Baharampur,GEN,West Bengal,1374501,AITC,Pathan Yusuf,524516,INC,Adhir Ranjan Chowdhury,439494,85022,6.19
+ls-2024,LS,India,2024,2024,official,512,Murshidabad,GEN,West Bengal,1507092,AITC,Abu Taher Khan,682442,CPI(M),Md Salim,518227,164215,10.9
+ls-2024,LS,India,2024,2024,official,513,Krishnanagar,GEN,West Bengal,1414603,AITC,Mahua Moitra,628789,BJP,Amrita Roy,572084,56705,4.01
+ls-2024,LS,India,2024,2024,official,514,Ranaghat,SC,West Bengal,1530739,BJP,Jagannath Sarkar,782396,AITC,Mukut Mani Adhikari,595497,186899,12.21
+ls-2024,LS,India,2024,2024,official,515,Bangaon,GEN,West Bengal,1484275,BJP,Shantanu Thakur,719505,AITC,Biswajit Das S/O Late Bijay Krishna Das,645812,73693,4.96
+ls-2024,LS,India,2024,2024,official,516,Barrackpur,SC,West Bengal,1108524,AITC,Partha Bhowmick,520231,BJP,Arjun Singh,455793,64438,5.81
+ls-2024,LS,India,2024,2024,official,517,Dum Dum,GEN,West Bengal,1245512,AITC,Sougata Ray,528579,BJP,Silbhadra Datta,457919,70660,5.67
+ls-2024,LS,India,2024,2024,official,518,Barasat,GEN,West Bengal,1510528,AITC,Kakoli Ghosh Dastidar,692010,BJP,Swapan Majumder,577821,114189,7.56
+ls-2024,LS,India,2024,2024,official,519,Basirhat,GEN,West Bengal,1436627,AITC,Sk Nurul Islam,803762,BJP,Rekha Patra,470215,333547,23.22
+ls-2024,LS,India,2024,2024,official,520,Joynagar,SC,West Bengal,1469074,AITC,Pratima Mondal,894312,BJP,Ashok Kandary,424093,470219,32.01
+ls-2024,LS,India,2024,2024,official,521,Mathurapur,SC,West Bengal,1424364,AITC,Bapi Haldar,755731,BJP,Ashok Purkait,554674,201057,14.12
+ls-2024,LS,India,2024,2024,official,522,Diamond Harbour,GEN,West Bengal,1497900,AITC,Abhishek Banerjee,1048230,BJP,Abhijit Das (Bobby),337300,710930,47.46
+ls-2024,LS,India,2024,2024,official,523,Jadavpur,GEN,West Bengal,1474359,AITC,Sayani Ghosh,717899,BJP,Dr. Anirban Ganguly,459698,258201,17.51
+ls-2024,LS,India,2024,2024,official,524,Kolkata Dakshin,GEN,West Bengal,1233332,AITC,Mala Roy,615274,BJP,Debasree Chaudhuri,428043,187231,15.18
+ls-2024,LS,India,2024,2024,official,525,Kolkata Uttar,GEN,West Bengal,947617,AITC,Bandyopadhyay Sudip,454696,BJP,Tapas Roy,362136,92560,9.77
+ls-2024,LS,India,2024,2024,official,526,Howrah,GEN,West Bengal,1258375,AITC,Prasun Banerjee,626493,BJP,Dr Rathin Chakravarty,457051,169442,13.47
+ls-2024,LS,India,2024,2024,official,527,Uluberia,GEN,West Bengal,1372453,AITC,Sajda Ahmed,724622,BJP,Arunuday Paulchowdhury,505949,218673,15.93
+ls-2024,LS,India,2024,2024,official,528,Srerampur,GEN,West Bengal,1434563,AITC,Kalyan Banerjee,673970,BJP,Kabir Shankar Bose,499140,174830,12.19
+ls-2024,LS,India,2024,2024,official,529,Hooghly,GEN,West Bengal,1501939,AITC,Rachna Banerjee,702744,BJP,Locket Chatterjee,625891,76853,5.12
+ls-2024,LS,India,2024,2024,official,530,Arambagh,SC,West Bengal,1541048,AITC,Bag Mitali,712587,BJP,Arup Kanti Digar,706188,6399,0.42
+ls-2024,LS,India,2024,2024,official,531,Tamluk,GEN,West Bengal,1556715,BJP,Abhijit Gangopadhyay,765584,AITC,Debangshu Bhattacharya,687851,77733,4.99
+ls-2024,LS,India,2024,2024,official,532,Kanthi,GEN,West Bengal,1522863,BJP,Adhikari Soumendu,763195,AITC,Uttam Barik Son Of Late Birendra Barik,715431,47764,3.14
+ls-2024,LS,India,2024,2024,official,533,Ghatal,GEN,West Bengal,1587590,AITC,Adhikari Deepak (Dev),837990,BJP,Dr. Hiranmoy Chattopadhyaya,655122,182868,11.52
+ls-2024,LS,India,2024,2024,official,534,Jhargram,ST,West Bengal,1445172,AITC,Kalipada Saren (Kherwal),743478,BJP,Dr. Pranat Tudu,569430,174048,12.04
+ls-2024,LS,India,2024,2024,official,535,Medinipur,GEN,West Bengal,1469139,AITC,June Maliah,702192,BJP,Agnimitra Paul,675001,27191,1.85
+ls-2024,LS,India,2024,2024,official,536,Purulia,GEN,West Bengal,1416089,BJP,Jyotirmay Singh Mahato,578489,AITC,Shantiram Mahato,561410,17079,1.21
+ls-2024,LS,India,2024,2024,official,537,Bankura,GEN,West Bengal,1408823,AITC,Arup Chakraborty,641813,BJP,Dr. Subhas Sarkar,609035,32778,2.33
+ls-2024,LS,India,2024,2024,official,538,Bishnupur,SC,West Bengal,1494740,BJP,Khan Saumitra,680130,AITC,Sujata Mondal,674563,5567,0.37
+ls-2024,LS,India,2024,2024,official,539,Bardhaman Purba,SC,West Bengal,1484613,AITC,Dr. Sharmila Sarkar,720302,BJP,Asim Kumar Sarkar,559730,160572,10.82
+ls-2024,LS,India,2024,2024,official,540,Bardhaman - Durgapur,GEN,West Bengal,1477760,AITC,Azad Kirti Jha,720667,BJP,Dilip Ghosh,582686,137981,9.34
+ls-2024,LS,India,2024,2024,official,541,Asansol,GEN,West Bengal,1286030,AITC,Shatrughan Prasad Sinha,605645,BJP,Surendrajeet Singh Ahluwalia,546081,59564,4.63
+ls-2024,LS,India,2024,2024,official,542,Bolpur,SC,West Bengal,1501056,AITC,Asit Kumar Mal,855633,BJP,Piya Saha,528380,327253,21.8
+ls-2024,LS,India,2024,2024,official,543,Birbhum,GEN,West Bengal,1507483,AITC,Satabdi Roy,717961,BJP,Debtanu Bhattacharya,520311,197650,13.11

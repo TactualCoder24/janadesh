@@ -1,0 +1,295 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,1,Ichchapuram,GEN,,56612,JNP,Bendalam Venkatesam Sarma,34251,INC,Kalla Balarama Swamy,19805,14446,25.52
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,2,Sompeta,GEN,,70502,JNP,Gouthu Latchanna,42251,INC,Tulasidas Majji,28251,14000,19.86
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,3,Tekkali,GEN,,58708,JNP,Bammaidi Narayanaswami,36206,INC,Satharu Lakanadham Naidu,22502,13704,23.34
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,4,Harishchandra Puram,GEN,,50451,INC,Appalanarasimha Bugata Kennapalli,26381,JNP,Krishna Murti- Kinjarapu,24070,2311,4.58
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,5,Narasannapeta,GEN,,51714,INC,Dola Seetaramulu,28123,JNP,Simma Jagannadham,22397,5726,11.07
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,6,Pathapatnam,GEN,,61614,IND,Kalamata Mohanarao,19935,JNP,Lukulapu Lakshmanadas,19111,824,1.34
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,7,Kothuru,ST,,47041,JNP,Viswasarai Narasimharao,25317,INC,Nimmaka Gopala Rao,21724,3593,7.64
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,8,Naguru,ST,,41341,JNP,Satrucharala Vijaya Rama Raju,19781,INC,Chandra Chudanami Dev Vyricherla,18248,1533,3.71
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,9,Parvathipuram,GEN,,51966,JNP,Parasuramnaidu Chikati,32494,INC,Krishnamurthy Naidu Vasireddi,17671,14823,28.52
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,10,Salur,ST,,53603,CPI,S. R. T. P. S. Veerapa Raju,29126,JNP,Lakshmi Narasimha Sahyasi Raju,24477,4649,8.67
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,11,Bobbili,GEN,,62335,JNP,Kolli Venkata Kurmi Naidu,29184,IND,Reddy Satya Rao,15707,13477,21.62
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,12,Therlam,GEN,,55759,INC,Vasireddi Varada Ramarao,29024,JNP,Tentu Lakshunnaidu,26735,2289,4.11
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,13,Vunukuru,GEN,,58822,JNP,Babu Parankusam Mudili,26617,INC,Palavalasa Rimkinamma,20030,6587,11.2
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,14,Palakonda,SC,,43280,JNP,Kambala Rajaratnam,24145,INC,Daramana Adinarayana,12387,11758,27.17
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,15,Amadalavalasa,GEN,,44474,INC,Srinamamurthy Pydi,21750,JNP,Venkatappalanaidu Peerukatla,17559,4191,9.42
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,16,Srikakulam,GEN,,56192,JNP,Challa Lakshminarayana,23643,INC,Raghavadas Tripurna,16556,7087,12.61
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,17,Etcherla,SC,,45327,JNP,Kothapalli Narasayya,25272,INC,Boddepalli Narasimhulu,15481,9791,21.6
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,18,Cheepurupalli,GEN,,59927,INC,Chigilipalli Syamalarao,27943,IND,Akkalanaidu Tankala,17034,10909,18.2
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,19,Gajapathinagaram,GEN,,69296,JNP,Vangapandu Narayanappala Naidu,27091,IND,Venkata Gangaraju Narkedamilli,23945,3146,4.54
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,20,Vizianagaram,GEN,,55136,JNP,Shree Ashok Gajapathi Raju Poosapati,39914,INC,Appanadora Appasani,13829,26085,47.31
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,21,Sathivada,GEN,,62405,INC,Sambiasivaraju Penumatcha,35935,JNP,Baireddy Suryanarayana,13853,22082,35.38
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,22,Bhogapuram,GEN,,49991,INC,Appadudora Kommuru,30716,JNP,Pativada Narayanaswamynaidu,19275,11441,22.89
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,23,Bhimli,GEN,,52500,INC,Datla Jagannadha Raju,34758,JNP,Devi Kumara Soma Sundra Suryanarayana Raju,8385,26373,50.23
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,24,Visakhapatnam I,GEN,,47759,INC,Sunkari Alwar Das,23811,JNP,Sylada Pudithalli Naidu,21389,2422,5.07
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,25,Visakhapatnam Ii,GEN,,67966,JNP,N. S. N. Reddy,34070,INC,Ch. Sesibhusana Rao,22503,11567,17.02
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,26,Pendurthi,GEN,,69714,INC,Gudivada Appanna,28895,CPI(M),Gangadhara Reddi Sabbella,18848,10047,14.41
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,27,Uttarapalli,GEN,,46856,INC,Vijaya Raghava Satyanarayana Padmanabha Raju,23657,JNP,Boddu Suryanarayana Murty,18105,5552,11.85
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,28,Srungavarapukota,ST,,52535,INC,Sanyasidora Duru,21927,IND,Balaraju Pujari,16564,5363,10.21
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,29,Paderu,ST,,24965,JNP,Giddi Appalanaidu,12653,INC,Thamarba Chittinaidu,10146,2507,10.04
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,30,Madugula,GEN,,56904,IND,Kuracha Ramunaidu,19147,INC,Gummala Adinarayana,18710,437,0.77
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,31,Chodavaram,GEN,,80456,JNP,Seetharama Sastri Emani,40690,INC,Palayalli Vechalapu,28624,12066,15.0
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,32,Anakapalle,GEN,,68032,CPI,Koduganti Govindrao,28382,JNP,P. V. Chalapitarao,19945,8437,12.4
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,33,Paravada,GEN,,49504,INC,Bhattam Sri Rama Murty,31498,JNP,Payila Appalanaidu,18006,13492,27.25
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,34,Yellamanchili,GEN,,68983,INC,Veesamu Sanyasinayudu,37969,JNP,Nagireddi Satyanarayana,29302,8667,12.56
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,35,Payakaraopet,SC,,36248,INC,Maruthi Adeyya,29490,JNP,Gara China Nookaraju,5543,23947,66.06
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,36,Narsipatnam,GEN,,71858,INC,Gopatrudu Bolem,40209,JNP,Suryanarayanaraju Sri Raja Sagi,31649,8560,11.91
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,37,Chintapalli,ST,,31234,INC,Kondalarao Depuru,18363,JNP,Kannalu Lokula,11006,7357,23.55
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,38,Yellavaram,ST,,34132,INC,Gorrela Prakasa Rao,23345,JNP,Ratnabai Tadapatla,9151,14194,41.59
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,39,Burugupudi,GEN,,68483,INC,Padma Raju Varrey,25124,JNP,Sambasiva Rao Pendurti,22217,2907,4.24
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,40,Rajahmundry,GEN,,74760,INC,Tadavarthi Satyavathi,35079,CPI,Chitturi Prabhakara Chowdary,19647,15432,20.64
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,41,Kadiam,GEN,,64930,JNP,Ammiraju Patamsetti,30887,INC,P. S. Rao,30300,587,0.9
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,42,Jaggampeta,GEN,,71249,INC,Pantham Padamanabham,40566,JNP,Vaddi Mutyalarao,30683,9883,13.87
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,43,Peddapuram,GEN,,69175,INC,Vundavalli Narayanamurthy,43595,JNP,Yeleti Dhanayya,23375,20220,29.23
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,44,Prathipadu,GEN,,78048,JNP,Mudragada Padmanabham,32614,INC,Appalaraju Varupula,22352,10262,13.15
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,45,Tuni,GEN,,49477,INC,Vijayalakshmidevi Meerrja Nallaparaju,37219,JNP,Kongara Venkata Satya Prasad,12258,24961,50.45
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,46,Pithapuram,GEN,,62167,INC,Koppana Venkata Chandra Mohanarao,28585,JNP,Peketi Thammiraju,23685,4900,7.88
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,47,Sampara,GEN,,66467,INC,Venkatramana Matta,36120,JNP,Madadha John Apparao,20233,15887,23.9
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,48,Kakinada,GEN,,72649,INC,Malladi Swamy,37258,JNP,Katha Janardhana Rao,25502,11756,16.18
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,49,Tallarevu,GEN,,62560,JNP,Suryanarayana Biruda,33021,INC,Sathiraju Sadanala,24415,8606,13.76
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,50,Anaparthi,GEN,,62008,JNP,Padala Ammi Reddy,37261,INC,Undavilli Satyanarayana Murty,22982,14279,23.03
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,51,Ramachandrapuram,GEN,,58959,IND,Apparao Pilli,19306,JNP,Mudragada Venkastaswamy Naidu,19045,261,0.44
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,52,Alamuru,GEN,,86071,INC,S. Venkata Reddy,42372,JNP,S. B. P. B. K. Satyanarayana Rao,35835,6537,7.59
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,53,Mummidivaram,SC,,65153,INC,Moka Sri Vishnu Prasada Rao,37919,JNP,Appalaswamy Bojja,24691,13228,20.3
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,54,Allavaram,SC,,51969,INC,Venkatapathi Devarapalli,29811,RPK,B. V. Ramanayya,21242,8569,16.49
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,55,Amalapuram,GEN,,49794,JNP,Venkata Sri Rama Rao Palacholla,25900,INC,Nageswara Rao Dommety,23492,2408,4.84
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,56,Kothapeta,GEN,,61032,JNP,Manthena Venkata Surya Subharaju,31679,INC,Chirla Soma Sumdara Reddy,28110,3569,5.85
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,57,Nagaram,SC,,58550,INC,Ganapathi Rao Neethipudi,35891,JNP,S. Pemulu,21387,14504,24.77
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,58,Razole,GEN,,55827,INC,Rudraraju Ramalingaraju,37992,JNP,Sayyaparaju Seetharamaraju Alias Gandhiraju,17135,20857,37.36
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,59,Narasapuram,GEN,,62332,INC,Sheshavataram Parakala,36767,JNP,Polisetti Vasudeva Rao,24933,11834,18.99
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,60,Palakol,GEN,,50068,INC,Vardhineedi Satyanarayana,32762,CPI(M),Chodisetti Suryarao,16639,16123,32.2
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,61,Achanta,SC,,61126,INC,Kota Dhana Raju,39504,CPI(M),Didupatti Sundrara Raju,21622,17882,29.25
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,62,Bhimavaram,GEN,,70056,INC,Kalidindi Vijayayanarasimha Raju,41295,JNP,Mentay Padamanabham,26065,15230,21.74
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,63,Undi,GEN,,57420,INC,Gottumukkala Rama Chandraraju,35560,JNP,Yerra Narayana Swamy (Benergi),20883,14677,25.56
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,64,Penukonda,GEN,,71475,INC,Jakkamsetti Venkateswararao,33971,CPI,Vanka Satyanarayana,26549,7422,10.38
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,65,Tanuku,GEN,,56794,INC,Kantioydu Appa Rao,35393,JNP,Gannamani Satyanarayana Murty,20250,15143,26.66
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,66,Attili,GEN,,55578,INC,Indukuri Ramakrishanam Raju,32541,JNP,Vegesba Kanka Durgavenkata Satyanarayana Raju M,23037,9504,17.1
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,67,Tadepalligudem,GEN,,51120,INC,Chintalapati Seeta Rama Chandra Vara Prasada,39128,JNP,Eli Anjaneyulu,11353,27775,54.33
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,68,Unguturu,GEN,,72459,INC,Kadiyala Satyanarayana,41547,JNP,Maganti Bhupati Rao,25175,16372,22.59
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,69,Denduluru,GEN,,67638,INC,Neelam Charles,36865,JNP,Garapati Krishnamurthy,28965,7900,11.68
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,70,Eluru,GEN,,76882,INC,Surya Prakasa Rao Nalabati,34825,JNP,Amanaganti Sreeramulu,24113,10712,13.93
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,71,Gopalapuram,SC,,60750,INC,Desari Sarojini Devi,39225,JNP,Sati Venkatrao,17746,21479,35.36
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,72,Kovur,GEN,,74235,INC,Munshi Abdul Aziz,37046,JNP,Alluri Sarvarayudu Choudary,35428,1618,2.18
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,73,Polavaram,ST,,50065,INC,Nagabhushanam Rasaputra,35514,JNP,Modiyam Lakshmana Rao,11115,24399,48.73
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,74,Chintalapudi,GEN,,61050,INC,Gadde Venkateswara Rao,31746,JNP,Mandalapu Satyanarayana,26490,5256,8.61
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,75,Jaggayyapet,GEN,,54928,INC,Ramarao Bodduluru,30209,JNP,Komaragiri Krishna Mohan Rao,22498,7711,14.04
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,76,Nandigama,GEN,,56264,JNP,Mukkapati Venkateswara Rao,31771,INC,Gude Madhusudhana Rao,24493,7278,12.94
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,77,Vijayawada West,GEN,,82960,INC,Pothina Chinna,33587,JNP,Mohammed Imthizuddin,29198,4389,5.29
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,78,Vijayawada East,GEN,,58028,INC,Nadendla Bhaskar Rao,30039,JNP,Bayana Appa Rao,26925,3114,5.37
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,79,Kankipadu,GEN,,69181,INC,Koneru Ranga Rao,38815,JNP,Tummala Chowdary,29061,9754,14.1
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,80,Mylavaram,GEN,,53125,INC,Chanamolu Venkata Rao,28838,JNP,Anandabai T.E.S,23518,5320,10.01
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,81,Tiruvuru,SC,,57675,INC,Vakkalagadda Adamu,30057,JNP,Kota Punnaiah,24773,5284,9.16
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,82,Nuzvid,GEN,,62993,INC,Paladag Venkata Rao,40524,JNP,Kolli Varaprasada Rao,21336,19188,30.46
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,83,Gannavaram,GEN,,54456,CPI(M),Puchalapalli Sindarayya,35984,INC,Lanka Venkateswara Rao (Chinni),18472,17512,32.16
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,84,Vuyyur,GEN,,70125,JNP,Vadde Sohanadreeswara Rao,38598,INC,Kakani Ramamohana Rao,31527,7071,10.08
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,85,Gudivada,GEN,,71133,INC,Katari Satyanarayanarao,38060,CPI(M),Puttagunta Venkata Subbarao,32236,5824,8.19
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,86,Mudinepalli,GEN,,64052,INC,Pinnamaneni Koteswara Rao,37609,JNP,Kaza Ramanatham,25777,11832,18.47
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,87,Kaikalur,GEN,,69208,IND,Kanumuru Bapiraju,24669,INC,Sudabathula Nageswara Rao,24623,46,0.07
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,88,Malleshwaram,GEN,,64717,JNP,Buragadda Niranjana Rao,27912,INC,Yella Balaramamurthy,24690,3222,4.98
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,89,Machilipatnam,GEN,,61430,JNP,Vaddi Ranga Rao,30400,INC,Chillamkurti Veeraswamy Alias Ambulu,28498,1902,3.1
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,90,Nidumolu,SC,,60548,CPI(M),Guturu Bapanayya,39806,INC,Kalapala Nancharayya,19970,19836,32.76
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,91,Avanigadda,GEN,,62204,INC,Mandali Venkata Krishna Rao,30396,JNP,Saikam Arjuna Rao,29909,487,0.78
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,92,Kuchinapudi,GEN,,57190,JNP,Evuru Subba Rao,30791,INC,Mandali Subrahmanyam,25523,5268,9.21
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,93,Repalle,GEN,,51730,CPI(M),Koratala Satyanarayana,26319,INC,Yadam Channaiah,22846,3473,6.71
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,94,Vemuru,GEN,,69873,INC,Yadalapati Venkatrao,34624,JNP,Veeraiah Kodali,34118,506,0.72
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,95,Duggirala,GEN,,64280,INC,G.Vedantha Rao,31843,CPI(M),Gudibandi Nagi Reddy,30773,1070,1.66
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,96,Tenali,GEN,,77113,JNP,Indira Doddapaneni,39368,INC,Venkatravu Nannapaneni,37358,2010,2.61
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,97,Ponnur,GEN,,65350,INC,Nageswara Rao Gogineni,30066,JNP,Talasila Venkataramalah,22614,7452,11.4
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,98,Bapatla,GEN,,80475,INC,Kona Prabhakara Rao,40332,JNP,Muppalaneni Seshagiri Rao,40143,189,0.23
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,99,Prathipadu,GEN,,58810,INC,Lakshinarayana Reddy Karumuru,27961,JNP,Sadasivarao K,26703,1258,2.14
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,100,Guntur I,GEN,,76772,INC,Eswara Rao Lingamsetty,40901,JNP,Abdulla Khan Mohammad,25341,15560,20.27
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,101,Guntur Ii,GEN,,54423,INC,Gada Veeranjaneya Sarma,26472,JNP,Nissankararao Venkatarathnam,19607,6865,12.61
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,102,Mangalagiri,GEN,,69807,JNP,G.V.Pathaiah,27032,INC,Thulabandula Nageswara Rao,22999,4033,5.78
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,103,Tadikonda,SC,,65189,INC,Amrutha Rao T,34042,JNP,Jonnakuti Kirihsna Rao,27565,6477,9.94
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,104,Sattenapalli,GEN,,75587,INC,Ravela Venkatrao,37740,CPI(M),Puthumbaka Venkatapathi,28371,9369,12.39
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,105,Pedakurapadu,GEN,,88701,JNP,Ganapa Ramaswamy Reddy,45052,INC,Syed Mahaboob,41757,3295,3.71
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,106,Gurzala,GEN,,81807,INC,Gadipudi Mallikarjunarao,44652,CPI,Nagireddi Mandapati,21404,23248,28.42
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,107,Macherla,GEN,,50583,INC,Challa Narapa Reddy,27350,JNP,Karpurapur Kotaiah,21598,5752,11.37
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,108,Vinukonda,GEN,,67414,IND,Avudari Venkateswarlu,21781,INC,Gangineni Venkateswara Rao,18063,3718,5.52
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,109,Narasaraopet,GEN,,69093,INC,Kasu Venkata Krishna Reddi,27387,JNP,Kothuri Venkateswarlu,20482,6905,9.99
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,110,Chilakaluripet,GEN,,68860,INC,Sambaiah Somepalli,42392,JNP,Bhimireddy Subba Reddy,24929,17463,25.36
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,111,Chirala,GEN,,78053,INC,Mutte Vinkateswarlu,36114,JNP,Sajja Chandramouli,34257,1857,2.38
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,112,Parchur,GEN,,74052,INC,Maddukuri Narayana Rao,38024,JNP,Gade Venkatareddy,33087,4937,6.67
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,113,Martur,GEN,,67868,JNP,Jagarlamudi Chandramouli,39067,INC,Kandlmalla Butehaiah,27963,11104,16.36
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,114,Addanki,GEN,,67474,INC,Karanam Balaramakrishna Murthy,36312,JNP,Chenchugarataiaha Bachina,31162,5150,7.63
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,115,Ongole,GEN,,60068,INC,Srungarapu Jeevaratnam Naidu,32574,JNP,Venkateswara Reddy Balineni,27494,5080,8.46
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,116,Santhanuthalapadu,SC,,62145,INC,Yellaiah Vema,34270,CPI(M),Chenchaiah Tavanam,20228,14042,22.6
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,117,Kandukur,GEN,,69887,INC,Devi Kondaiah Chudary,35361,JNP,Audinarayana Reddy Manugunta,23056,12305,17.61
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,118,Kanigiri,GEN,,71445,INC,Ramasubba Reeddy Butalapalli,36693,JNP,Parna Venkaiah Naidu,34752,1941,2.72
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,119,Kondapi,GEN,,73828,INC,Gundapaneni Pattabhi Ramaswamy,37785,JNP,Chaganti Rosaiah Naidu,19494,18291,24.78
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,120,Cumbum,GEN,,61056,INC,Kandula Obula Reddy,33191,JNP,Mahammad Shafief Shaik,26712,6479,10.61
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,121,Darsi,GEN,,50512,INC,Gnana Prakasam Berre,24225,JNP,Muvvala Srihari Rao,22767,1458,2.89
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,122,Markapur,GEN,,72793,CPI,Poola Subbaiah,28030,JNP,Venna Venkata Narayanareddy,27947,83,0.11
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,123,Giddalur,GEN,,51238,JNP,Ranga Reddi Pidpthala,30705,INC,Mudiam Peera Reddy,20533,10172,19.85
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,124,Udayagiri,GEN,,61938,JNP,Muppavarapu Venkaiah Naidu,33268,INC,Janakiram Madala,23608,9660,15.6
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,125,Kavali,GEN,,71680,INC,Kaliki Yanadi Reddy,44456,JNP,Gottapati Kondapanaidu,23419,21037,29.35
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,126,Allur,GEN,,57051,INC,Giddaluru Sundara Ramaiah,34859,JNP,Rabala Dasaradharama Reddy,20893,13966,24.48
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,127,Kovur,GEN,,75350,INC,Pellakuru Ramacandra Reddy,43213,CPI(M),Jakka Venka Reddy,23953,19260,25.56
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,128,Atmakur,GEN,,68852,INC,Bommireddy Sudararami Reddy,36045,JNP,China Kondaiah Ganga,32807,3238,4.7
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,129,Rapur,GEN,,65026,INC,Navvula Venkataratnam Naidu,46901,JNP,Dega Narasimha Reddy,18125,28776,44.25
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,130,Nellore,GEN,,70726,INC,Koonam Venkata Subba Reddy,50202,JNP,Anam Venkata Reddy,18934,31268,44.21
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,131,Sarvepalli,GEN,,65740,INC,Chitturu Venkata Sesha Reddy,43851,JNP,Anam Baktavatsala Reddy,21889,21962,33.41
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,132,Gudur,SC,,72823,INC,Patra Prakasa Rao,41563,IND,Meriga Ramakrishnaiah,15851,25712,35.31
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,133,Sulurpet,SC,,54562,INC,Pitla Venkatasubbaiah,37054,JNP,Doddi Veeraswamy,15640,21414,39.25
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,134,Venkatagiri,GEN,,55543,INC,Nallapareddi Sreenivasulu Reddy,26696,JNP,Padileti Venkataswamy Reddy,26284,412,0.74
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,135,Srikalahasti,GEN,,65789,INC,Vunnam Subramanyam Naidu,30204,JNP,Tatiparthi Chenchu Reddy,24292,5912,8.99
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,136,Satyavedu,SC,,59091,INC,C.Doss,32755,JNP,Yidaguri Gangadharam,20328,12427,21.03
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,137,Nagari,GEN,,73326,INC,Chenga Reddy Reddivari,33448,JNP,Ramachandra Reddy Chilakam,25995,7453,10.16
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,138,Puttur,GEN,,58130,JNP,K.B. Siddaiah,28766,INC,P.Narayana Reddy,19543,9223,15.87
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,139,Vepanjeri,SC,,60575,JNP,Bangala Arumugam,33960,INC,K.Munaiah,23034,10926,18.04
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,140,Chittoor,GEN,,62589,JNP,N.P.Venkateswara Choudary,29941,INC,C.V.L. Narayana,21139,8802,14.06
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,141,Palmaner,SC,,54982,INC,A.Ratnam,28363,JNP,Anjaneyulu,23287,5076,9.23
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,142,Kuppam,GEN,,55053,INC,B.R.Doraswamy Naidu,24664,JNP,D.Venkatachalam,14222,10442,18.97
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,143,Punganur,GEN,,57437,INC,K.V.Pathi,34908,JNP,B.A.R. Abjul Rahim Saheb,21533,13375,23.29
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,144,Madanapalle,GEN,,54621,INC,Gangarapu Venkata Narayana Reddy,34224,JNP,Sunku Balaram,18375,15849,29.02
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,145,Thamballapalle,GEN,,53958,INC,A.Mohan Reddy,27284,JNP,Kadapa Sudhakar Reddy,25236,2048,3.8
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,146,Vayalpad,GEN,,72380,INC,Amarnatha Reddy Nallari,40460,JNP,Surendra Reddy Chanala,30416,10044,13.88
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,147,Pileru,GEN,,75570,INC,Mogal Sufulla Baig,36476,JNP,P.Ramachandra Reddy,22203,14273,18.89
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,148,Chandragiri,GEN,,72856,INC,Chandrababu Naidu Nara,35092,JNP,Kongara Pattabhi Rama Chowdary,32598,2494,3.42
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,149,Tirupati,GEN,,58333,INC,Agarala Easwara Reddi,23635,IND,Pandraveti Gurava Reddi. S,21708,1927,3.3
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,150,Kodur,SC,,52775,JNP,Nidiganti Venkatasubbaiah,19079,IND,Yerrathota Venkatasubbaiah,17391,1688,3.2
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,151,Rajampet,GEN,,72019,INC,Konduru Prabhavathamma,36854,IND,Bandaru Ratna Subbapathi,27032,9822,13.64
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,152,Rayachoti,GEN,,76361,JNP,Sugavasi Palakondrayudu,39523,INC,Habeebulla Mahal,36838,2685,3.52
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,153,Lakkireddipalli,GEN,,68084,INC,Gadikota Rama Subba Reddy,40238,JNP,Rajagopal Reddy,27441,12797,18.8
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,154,Kadapa,GEN,,62284,INC,Gajjala Ranga Reddy,30784,JNP,R.Rajagopala Reddy,30062,722,1.16
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,155,Badvel,GEN,,78901,JNP,Vaddamani Sivaramekrishan Rao,44542,INC,Bijivemula Veerareddy,34359,10183,12.91
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,156,Mydukur,GEN,,62926,IND,D.L.Ravindrareddy,22181,JNP,Chinna Nagireddy Sattipalle,21846,335,0.53
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,157,Proddatur,GEN,,75169,INC,Chandra Obulreddy Rami Reddy,34160,JNP,Gouru Pulla Reddy,23450,10710,14.25
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,158,Jammalamadugu,GEN,,78646,JNP,Chavva Morammagari Ramanatha Reddy,50760,INC,Siva Reddy Ponnapureddi,27886,22874,29.08
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,159,Kamalapuram,GEN,,73266,IND,Perla Siva Reddy,25821,JNP,Vutukuru Rami Reddy,24101,1720,2.35
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,160,Pulivendula,GEN,,75888,INC,Y.S. Rajasekhar Reddy,47874,JNP,D.Narayana Reddy,27378,20496,27.01
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,161,Kadiri,GEN,,70496,INC,Nizam Vali,40984,JNP,Dorigallu Raja Reddy,25176,15808,22.42
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,162,Nallamada,GEN,,62279,INC,Asigam Veerappa,31349,JNP,K.Rmachandra Reddy,29513,1836,2.95
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,163,Gorantla,GEN,,68161,INC,P.Bayapa Reddy,27039,IND,Narayana Reddy,24142,2897,4.25
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,164,Hindupur,GEN,,62822,INC,K.Thippeswamy,42091,JNP,K.Nagabhushana Reddy,20731,21360,34.0
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,165,Madakasira,GEN,,66885,INC,Y.Thimma Reddy,39168,JNP,N.Srirama Reddy,27717,11451,17.12
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,166,Penukonda,GEN,,62550,INC,Somandepalli Narayana Reddy,30415,JNP,Gangula Narayana Reddy,29775,640,1.02
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,167,Kalyandurg,SC,,44606,JNP,Hindi Narasappa,23364,INC,S.Viswandam,19937,3427,7.68
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,168,Rayadurg,GEN,,59453,INC,K.B.Chennamllappa,31591,JNP,Uddihal Motappa,26363,5228,8.79
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,169,Uravakonda,GEN,,49016,INC,R.Vemanna,34344,JNP,P.Venkata Narayana,6953,27391,55.88
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,170,Gooty,GEN,,55171,INC,K.Venkataramaiah,24185,JNP,Jaffar Sab,18944,5241,9.5
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,171,Singanamala,SC,,38577,JNP,B. Rukmani Devi,20385,INC,Katappagari Ananda Rao,16758,3627,9.4
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,172,Anantapur,GEN,,53073,INC,B.T.L.N. Chowary,28204,JNP,Meda Subbaiah,24869,3335,6.28
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,173,Dharmavaram,GEN,,64334,INC,Ananathareddy Gonuguntla,38297,JNP,Chinna Chigullarevu Lakshminarayana Reddy,25120,13177,20.48
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,174,Tadpatri,GEN,,54378,INC,Diddekunta Venkata Reddy,28793,JNP,Munchala Kesava Reddy,23280,5513,10.14
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,175,Allur,SC,,33606,INC,Eranna,23044,JNP,H. Eranna,9646,13398,39.87
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,176,Adoni,GEN,,52688,INC,H. Satyanarayana,25872,JNP,H. Sitarama Reddy,13110,12762,24.22
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,177,Yemmiganur,GEN,,46345,INC,Hanumantha Reddy,30491,IND,Ramchandra Reddy,8535,21956,47.38
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,178,Kodumur,SC,,36945,INC,D. Muniswamy,27790,IND,M. Sikamani,4454,23336,63.16
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,179,Kurnool,GEN,,58606,INC,Md. Ibrahim Khan,34446,JNP,B. Shamshir Khan,20781,13665,23.32
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,180,Pathikonda,GEN,,59865,INC,K.V. Narasappa,28179,IND,P. Ramakrishna Reddy,18045,10134,16.93
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,181,Dhone,GEN,,47758,INC,Krishna Moorthy K. E,41054,JNP,Mekala Seshanna,6704,34350,71.93
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,182,Koilkuntla,GEN,,68948,JNP,K. Anki Reddy,38871,INC,Bathula Venkata Nagi Reddy,26203,12668,18.37
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,183,Allagadda,GEN,,81057,IND,Gangula Thimma Reddy,43126,INC,Somula Venkata Subba Reddy,35721,7405,9.14
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,184,Panyam,GEN,,63660,JNP,Erasu Ayyapu Reddy,35588,INC,Balarami Reddi Munagala,26838,8750,13.74
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,185,Nandikotkur,GEN,,76243,INC,Byreddy Seshasayana Reddy,42035,IND,Madduru Subba Reddy,31263,10772,14.13
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,186,Nandyal,GEN,,75206,JNP,Bojja Ventatareddy,37470,INC,Nabi Saheb S.B,35777,1693,2.25
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,187,Atmakur,GEN,,64050,INC,A.Vengal Reddy,42271,JNP,T.Rangasai,19709,22562,35.23
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,188,Achampet,SC,,50742,INC,R.M.Manohar,30026,JNP,Puttapaga Radhakrishna,20716,9310,18.35
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,189,Nagarkurnool,GEN,,46559,INC,Srinivasa Rao,18632,JNP,Goud V.N,16507,2125,4.56
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,190,Kalwakurthy,GEN,,59708,JNP,S.Jaipal Reddy,36544,INC,Kamala Kantha Rao Kayithi,23164,13380,22.41
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,191,Shadnagar,SC,,53277,INC,Kistaiah Bheeshva,30669,JNP,Bangaru Laxman,20926,9743,18.29
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,192,Jadcherla,GEN,,49372,INC,N.Narasappa,32707,JNP,Raghunandan Reddy,14967,17740,35.93
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,193,Mahbubnagar,GEN,,41794,INC,M.Ram Reddy,23861,JNP,K.K.Reddy,12349,11512,27.54
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,194,Wanaparthy,GEN,,55799,INC,Jaya Ramula,30354,JNP,Balakishtaiah,25445,4909,8.8
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,195,Kollapur,GEN,,57987,INC,Kotha Venkateshwar Rao,36325,JNP,Kondagari Ranga Dasu,21662,14663,25.29
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,196,Alampur,GEN,,63492,JNP,Ram Bhupal Reddy,23998,IND,T.Rajani Babu,23873,125,0.2
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,197,Gadwal,GEN,,53660,JNP,D.K.Sqatya Reddy,35374,INC,Paga Pullu Reddy,16980,18394,34.28
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,198,Amarchinta,GEN,,67520,INC,Veera Reddy,34737,JNP,Som Bhopal,29419,5318,7.88
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,199,Makthal,GEN,,54098,INC,Narsimlu,29627,JNP,Narsi Reddy C,24471,5156,9.53
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,200,Kodangal,GEN,,44305,IND,Gurunath Reddy,22936,INC,Chinna Veeranna (Puli),19213,3723,8.4
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,201,Tandur,GEN,,62840,INC,M. Manik Rao,40817,JNP,Sirigiripet Reddy,22023,18794,29.91
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,202,Vicarabad,SC,,54971,INC,V. B. Thirmalayya,31253,JNP,Devadasu,19151,12102,22.02
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,203,Pargi,GEN,,44161,INC,Ahmed Shareef,32488,JNP,K. Ram Reddy,11673,20815,47.13
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,204,Chevella,GEN,,50122,JNP,Chirag Pratap Lingam,26071,INC,T. R. Anandam,20752,5319,10.61
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,205,Ibrahimpatnam,SC,,54271,INC,Sumitra Devi,37400,JNP,K. R. Krishna Swami,13899,23501,43.3
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,206,Musheerabad,GEN,,53971,JNP,Narsimha Reddy,25238,INC,T. Anjiah,23071,2167,4.02
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,207,Himayatnagar,GEN,,47705,JNP,Lakshmi Kantama,23566,INC,Kodati Raj Mallu,19841,3725,7.81
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,208,Sanathnagar,GEN,,50286,INC,Ramdass S,23155,CPI(M),Bhaskara Rao N. V,21393,1762,3.5
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,209,Secunderabad,GEN,,44950,JNP,L. Narayana,21946,INC,T. D. Gowri Shanker,13794,8152,18.14
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,210,Khairatabad,GEN,,50494,INC,Janardhan Reddy,24462,JNP,Narender Ale,23808,654,1.3
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,211,Secunderabad Cantonment,SC,,36839,JNP,B. Machinder Rao,15946,INC,Muthu Swamy,15580,366,0.99
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,212,Malakpet,GEN,,57024,JNP,Kandala Prabhakar Reddy,25400,INC,B. Sarojini Pulla Reddy,24279,1121,1.97
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,213,Asafnagar,GEN,,49631,INC,B. Krishna,18784,JNP,Syed Vicaruddin,16057,2727,5.49
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,214,Maharajganj,GEN,,46750,INC,Shiv Pershad,22801,JNP,Badri Vishal Pitti,22535,266,0.57
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,215,Karwan,GEN,,42405,INC,Shiv Lal,17242,IND,Gulam Ghouse Khan,12677,4565,10.77
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,216,Yakutpura,GEN,,46350,IND,Baqerr Agha,24094,JNP,Syed Hasan,12400,11694,25.23
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,217,Chandrayangutta,GEN,,44099,IND,Mohd. Amanullah Khan,16890,INC,M. Baliah,15557,1333,3.02
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,218,Charminar,GEN,,53191,IND,Sultan Salahuddin Owaisi,30328,JNP,Ahmed Hussain,10546,19782,37.19
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,219,Medchal,GEN,,69533,INC,M. Channa Reddy,42680,JNP,T. Mohan Reddy,19502,23178,33.33
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,220,Siddipet,GEN,,54317,INC,Ananthula Madan Mohan,32729,IND,Tadsina Mahendar Reddy,9615,23114,42.55
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,221,Dommat,GEN,,44436,INC,Aireni Lingaiah,24260,JNP,C. Rama Rao,20176,4084,9.19
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,222,Gajwel,SC,,59458,INC,Gajwel Saidiah,33550,JNP,Allam Sailu,24819,8731,14.68
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,223,Narsapur,GEN,,68546,CPI,Chilumula Vithal Reddy,33975,INC,Chowti Jagannath Rao,31755,2220,3.24
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,224,Sangareddy,GEN,,80551,IND,Narsimha Reddy,35730,JNP,P. Ramachandra Reddy,17520,18210,22.61
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,225,Zahirabad,GEN,,67272,INC,M. Baga Reddy,38291,JNP,P. Narsimha Reddy,28981,9310,13.84
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,226,Narayankhed,GEN,,44101,INC,Shivarao Settkar,34992,JNP,Venkat Reddy,6672,28320,64.22
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,227,Medak,GEN,,48330,INC,Seri Lakshma Reddy,34464,JNP,Karnam Ramchandra Rao,7882,26582,55.0
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,228,Ramayampet,GEN,,65140,INC,Rajaiahgari Muthyam Reddy,48093,JNP,Kondal Reddy M,15665,32428,49.78
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,229,Andole,SC,,37224,INC,Rajanarsimha,23403,JNP,A. Sadanand,13821,9582,25.74
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,230,Balkonda,GEN,,61110,INC,Gaddam Rajaram,40977,JNP,Gaddam Madhusudan Reddy,20133,20844,34.11
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,231,Armur,GEN,,63319,INC,Santosh Reddy,44628,JNP,Govind Reddy K. R,12771,31857,50.31
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,232,Kamareddy,GEN,,51484,INC,B. Balaiah,27542,IND,Aedla Raja Reddy,21866,5676,11.02
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,233,Yellareddy,GEN,,66099,INC,Tadur Bala Gond,43615,JNP,Vittalreddygari Venkat Rama Reddy,18305,25310,38.29
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,234,Jukkal,SC,,38457,INC,Gangaram,23052,RPK,J. Eshwari Bai,15405,7647,19.88
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,235,Banswada,GEN,,62154,INC,M. Sreenivasa Rao,31178,IND,Narayan Rao Jadav,11940,19238,30.95
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,236,Bodhan,GEN,,52252,INC,Gulam Samdhani,34526,JNP,M. Narayan Reddy,10714,23812,45.57
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,237,Nizamabad,GEN,,58019,INC,A. Kishan Das,33375,JNP,Ganga Reddy,19342,14033,24.19
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,238,Dichpalli,GEN,,51723,INC,Anthareddy Balreddy,39087,JNP,D. R. Bhoom Rao,6448,32639,63.1
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,239,Mudhole,GEN,,60952,INC,Gaddanna,33490,JNP,Bhim Rao Kaddam,9473,24017,39.4
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,240,Nirmal,GEN,,40843,INC,P. Ganga Reddy,24021,JNP,P. Narsa Reddy,15012,9009,22.06
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,241,Boath,ST,,42498,INC,T. Amar Singh,22333,JNP,Ganesh Jadhav,7071,15262,35.91
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,242,Adilabad,GEN,,60249,IND,Chilkuri Ramachandra Reddy,28905,INC,Chilkuri Vaman Reddy,20313,8592,14.26
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,243,Khanapur,ST,,32023,INC,Ambajee,16182,JNP,S. A. Devshah,10272,5910,18.46
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,244,Asifabad,SC,,43523,INC,Dasari Narsaiah,15812,CPI,Gunda Malleshu,11963,3849,8.84
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,245,Luxettipet,GEN,,43460,JNP,Chunchu Lakshmaiah,22716,INC,Kande Venkata Ramanaiah,20744,1972,4.54
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,246,Sirpur,GEN,,43834,INC,K. V. Keshavulu,21210,JNP,C. Madahva Reddy,14424,6786,15.48
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,247,Chinnur,SC,,39936,INC,C. Narayana,25476,JNP,Votarikari Prabahkar,11878,13598,34.05
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,248,Manthani,GEN,,41882,INC,C. Narayana Reddy,20482,IND,Voora Srinivasa Rao,7571,12911,30.83
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,249,Peddapalle,GEN,,60154,INC,G. Raji Reddy,31946,IND,Kishan Reddy Bayyapo,13507,18439,30.65
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,250,Mydaram,SC,,43917,INC,G. Eshwar,28754,JNP,Pandugu Venkat Swamy,7571,21183,48.23
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,251,Huzurabad,GEN,,59485,INC,Duggirala Venkat Rao,35561,JNP,Algrieddy Kasi Viswanath Reddy,21822,13739,23.1
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,252,Kamalapur,GEN,,56346,JNP,Janardhan Reddy P,26269,INC,Madadi Ramchandra Reddy,23128,3141,5.57
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,253,Indurthi,GEN,,68253,CPI,Deshini Chinna Mallaiah,21735,INC,Rooparaju Laxmi Kanth Rao,20021,1714,2.51
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,254,Karimnagar,GEN,,68820,INC,Kondaiah Nalumachu,36734,JNP,Chokka Rao Juvvadi,14750,21984,31.94
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,255,Choppadandi,GEN,,44215,INC,Nayalao Konda Sripathi Rao,26311,JNP,Krishna Reddy Muduganti,10511,15800,35.73
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,256,Jagtial,GEN,,47552,INC,Surender Rao Deevakonda,32848,JNP,Joginipalli Damodhar Rao,14704,18144,38.16
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,257,Buggaram,GEN,,49136,INC,Amballa Rajaram,35992,JNP,Velichala Jagapathi Rao,11186,24806,50.48
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,258,Metpalli,GEN,,52207,INC,V. Venkateshwar Rao,37352,JNP,Chennamaneni Rajeshwar Rao,7334,30018,57.5
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,259,Sircilla,GEN,,70976,CPI,Chennamneni Rajeshwar Rao,28685,INC,Nagula Mallaiah,18807,9878,13.92
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,260,Narella,SC,,43697,INC,Pati Rajam,37626,JNP,Gotte Bhoopathy,4067,33559,76.8
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,261,Cheriyal,GEN,,58836,INC,G. Siddaiah,18547,IND,Nimma Raja Reddy,11491,7056,11.99
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,262,Jangaon,GEN,,51145,INC,Kodur Vardha Reddy,26272,CPI(M),Asireddi Narasimha Reddy,23901,2371,4.64
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,263,Chennur,GEN,,53043,INC,Neramugomula Yethiraja Rao,28658,JNP,Nayani Chittaranjan Reddy,23816,4842,9.13
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,264,Dornakal,GEN,,45132,INC,Surendra Reddy Ramasahayam*,30294,JNP,Yerramreddy Narsimha Reddy,13162,17132,37.96
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,265,Mahabubabad,GEN,,46398,INC,Jannareddi Janardhan Reddy,24036,JNP,Badhavat Babu,19851,4185,9.02
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,266,Narsampet,GEN,,62175,CPI(M),Omkar Maddikayala,35931,INC,Ghanta Pratap Reddy,14418,21513,34.6
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,267,Wardhannapet,GEN,,47736,JNP,Jagannadham Macherla,24113,INC,Purushotham Rao Takkallapally,20118,3995,8.37
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,268,Ghanpur (Station),SC,,63658,INC,Goka Ramaswamy,32855,JNP,Lingiah Katam,18486,14369,22.57
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,269,Warangal,GEN,,54754,INC,Arelli Buchaiah,27244,JNP,Bhoopathi Krishna Murthy,13978,13266,24.23
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,270,Hanamkonda,GEN,,65786,INC,T. Hayagriva Chary,32806,JNP,P. Uma Reddy,19786,13020,19.79
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,271,Shyampet,GEN,,55728,JNP,Janga Reddi Chandupatla,26457,INC,Dharma Reddy Pingili,25875,582,1.04
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,272,Parkal,SC,,48297,INC,Bochu Sammaiah,25656,JNP,Marepalli Eliah,16869,8787,18.19
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,273,Mulug,ST,,53938,INC,P. Jagan Naik,21449,JNP,Charpa Bhoja Rao,19980,1469,2.72
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,274,Bhadrachalam,ST,,39666,CPI(M),Yerraiah Reddy Murla,21006,INC,Pusam Tirupathaiah,18660,2346,5.91
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,275,Burgampahad,ST,,36621,INC,Punem Ramachandraiah,21287,JNP,Payam Mangaiah,15334,5953,16.26
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,276,Kothagudem,GEN,,55759,JNP,Kasaiah Chekuri,32409,INC,Vanama Venkateshwara Rao,21761,10648,19.1
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,277,Sathupalli,GEN,,64804,INC,Jalagam Vengala Rao,42102,JNP,Kaloji Narayana Rao,19483,22619,34.9
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,278,Madhira,GEN,,56876,INC,Bandaru Prasada Rao,31115,JNP,Narasimha Rao Maddineni,24863,6252,10.99
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,279,Palair,SC,,56890,INC,Hassainu Potta Pinjara,30107,JNP,Kota Guru Murthy,24355,5752,10.11
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,280,Khammam,GEN,,74920,INC,Kesara Anantha Reddy,32335,CPI(M),Chirravoori Laxmi Narsaiah,21918,10417,13.9
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,281,Sujathanagar,GEN,,63944,INC,Buggarapu Sitaramaiah,27725,CPI,Puvvada Nageswara Rao,21791,5934,9.28
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,282,Yellanda,ST,,46422,IND,Yerraiah Chapala,14897,CPI(M),Kangala Buchaiah,14559,338,0.73
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,283,Tungaturthi,GEN,,66220,CPI(M),Swarayam Mallu,25580,IND,Shyamunder Reddy Jannareddy,19933,5647,8.53
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,284,Suryapet,SC,,62506,INC,Annumulapuri Paradamulu,33095,JNP,Marapangu Mysiah,21693,11402,18.24
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,285,Kodad,GEN,,61246,JNP,Akkiraju Vasudeva Rao,31785,INC,Lakshmana Raju Kunchapu,28090,3695,6.03
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,286,Miryalguda,GEN,,81113,CPI(M),Aribandi Laxminarayana,32381,INC,Tedla Langaiah S/O Mattaiah,30416,1965,2.42
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,287,Chalakurthi,GEN,,65645,INC,Ramulu Nimmala,32820,JNP,Jana Reddy Kunduru,18644,14176,21.59
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,288,Nakrekal,GEN,,67939,CPI(M),Narra Ragava Reddy,25687,INC,Narasaiah Masaram,19238,6449,9.49
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,289,Nalgonda,GEN,,58038,INC,Gutha Mohan Reddy,27904,JNP,Srinivas Rao Chakilam,23731,4173,7.19
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,290,Ramannapet,GEN,,74529,INC,Papaiah Komu,29242,CPI,Gurram Yadagiri Reddy,24175,5067,6.8
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,291,Alair,SC,,57120,INC,Salluri Pochaiah,36989,JNP,Patti Venkatramulu,17852,19137,33.5
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,292,Bhongir,GEN,,66583,INC,Kommidi Narsimna Reddy,46257,JNP,Konda Lakshman Bapuji,18835,27422,41.18
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,293,Munugode,GEN,,53496,INC,Goverdhan Reddy Palvai,31635,JNP,Kancharla Ramkrishna Reddy,18004,13631,25.48
+ae-andhra-pradesh-1978,AE,Andhra Pradesh,1978,1978,official,294,Devarakonda,ST,,62576,INC,D.Ravindra Naik,35340,CPI,Kethavath Hariya,19666,15674,25.05

@@ -1,0 +1,82 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,1,Rajmahal,GEN,Sahibganj,136118,BJP,Arun Mandal,51277,JMM,Md. Tajuddin,40874,10403,7.64
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,2,Borio,ST,Sahibganj,113973,JMM,Lobin Hembram,37586,BJP,Tala Marandi,28546,9040,7.93
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,3,Barhait,ST,Sahibganj,101448,JMM,Hemlal Murmu,40621,IND,Vijay Hansdak,20303,20318,20.03
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,4,Litipara,ST,Pakaur,94990,JMM,Simon Marandi,29875,INC,Anil Murmu,24478,5397,5.68
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,5,Pakhur,GEN,Sahibganj,169148,JMM,Aquil Akhtar,62246,INC,Alamgir Alam,56570,5676,3.36
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,6,Maheshpur,ST,Pakaur,113529,JVM,Mistri Soren,50746,BJP,Devidhan Tudu,28772,21974,19.36
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,7,Shikaripara,ST,Dumka,107668,JMM,Nalin Soren,30474,JVM,Paritosh Soren,29471,1003,0.93
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,8,Nala,GEN,Jamtara,121478,BJP,Satyanand Jha,38119,JMM,Rabindra Nath Mahato,34171,3948,3.25
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,9,Jamtara,GEN,Jamtara,134741,JMM,Bishnu Prasad Bhaiya,62795,INC,Furkan Ansari,49952,12843,9.53
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,10,Dumka,ST,Dumka,113376,JMM,Hemant Soren,35129,BJP,Lois Marandi,32460,2669,2.35
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,11,Jama,ST,Dumka,98012,JMM,Sita Soren,38550,BJP,Manoj Kumar Singh,25844,12706,12.96
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,12,Jarmundi,GEN,Dumka,116078,IND,Harinarayan Ray,33512,JMM,Devendra Kunwar,23025,10487,9.03
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,13,Madhupur,GEN,Deoghar,147564,JMM,Hussain Ansari,47880,JVM,Shiv Dutt Sharma,27412,20468,13.87
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,14,Sarath,GEN,Deoghar,135617,JMM,Sasank Shekhar Bhokta,40282,INC,Uday Shankar Singh,30862,9420,6.95
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,15,Deoghar,SC,Deoghar,136267,RJD,Suresh Paswan,49602,JVM,Baldeo Das,31862,17740,13.02
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,16,Poraiyahat,GEN,Godda,139137,JVM,Pradip Yadav,67105,JMM,Suraj Mandal,30401,36704,26.38
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,17,Godda,GEN,Godda,139934,RJD,Sanjay Prasad Yadav,43502,BJP,Raghu Nandan Mandal,34747,8755,6.26
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,18,Mahagama,GEN,Godda,140677,INC,Rajesh Ranjan,43834,BJP,Ashok Kumar,35648,8186,5.82
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,19,Kodarma,GEN,Kodarma,147339,RJD,Annapurna Devi,46922,JVM,Ramesh Singh,29639,17283,11.73
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,20,Barkatha,GEN,Kodarma,142062,BJP,Amit Kumar Yadav,39485,JVM,Janki Pr Yadav,30117,9368,6.59
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,21,Barhi,GEN,Hazaribag,129034,BJP,Umashankar Akela,60044,INC,Manoj Yadav,51959,8085,6.27
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,22,Barkagaon,GEN,Hazaribag,149246,INC,Yogendra Saw,38683,BJP,Loknath Mahto,37319,1364,0.91
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,23,Ramgarh,GEN,Hazaribag,156272,AJSUP,Chandra Prakash,61947,INC,Shahzada Anwar,36472,25475,16.3
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,24,Mandhu,GEN,Hazaribag,168825,JMM,Teklal Mahto,37198,INC,Kumar Mahesh Singh,29220,7978,4.73
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,25,Hazaribagh,GEN,Hazaribag,147234,INC,Saurabh Narain Singh,66514,BJP,Deo Dayal,57227,9287,6.31
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,26,Simaria,SC,Chatra,131684,JVM,Jai Prakash Singh Bhogta,34007,JMM,Ganesh Ganjhu,25982,8025,6.09
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,27,Chatra,SC,Chatra,132264,RJD,Janardan Paswan,67441,BJP,Subedar Paswan,28886,38555,29.15
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,28,Dhanwar,GEN,Giridih,145703,JVM,Nizamuddin Ansari,50392,CPIML,Raj Kumar Yadav,45419,4973,3.41
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,29,Bagodar,GEN,Giridih,148923,CPIML,Vinod Kumar Singh,54436,JVM,Nagendra Mahto,47718,6718,4.51
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,30,Jamua,SC,Giridih,126346,JVM,Chandrika Mahtha,42824,CPIML,Satya Narayan Das,24297,18527,14.66
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,31,Gandey,GEN,Giridih,131067,INC,Sarfraz Ahmad,39625,JMM,Salkhan Soren,31170,8455,6.45
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,32,Giridih,GEN,Giridih,109623,JVM,Nirbhay Kumar Shahabadi,28771,IND,Munna Lal,21669,7102,6.48
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,33,Dumri,GEN,Giridih,99108,JMM,Jagarnath Mahto,33960,JDU,Damodar Prasad Mahto,20292,13668,13.79
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,34,Gomiya,GEN,Bokaro,134839,INC,Madhav Lal Singh,31540,AJSUP,Yogendra Prasad,23237,8303,6.16
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,35,Bermo,GEN,Bokaro,140304,INC,Rajendra Prasad Singh,47744,BJP,Yogeshwar Mahto,41133,6611,4.71
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,36,Bokaro,GEN,Bokaro,199452,JVM,Samresh Singh,53757,INC,Md. Izrail Ansari,37452,16305,8.17
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,37,Chandankyari,SC,Bokaro,120167,AJSUP,Umakant Rajak,36620,JVM,Amar Kumar Bauri,33103,3517,2.93
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,38,Sindri,GEN,Dhanbad,140307,JVM,Phul Chand Mandal,40048,MCO,Anand Mahato,36288,3760,2.68
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,39,Nirsa,GEN,Dhanbad,157469,MCO,Arup Chatterjee,68965,BJP,Ashok Kumar Mandal,33388,35577,22.59
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,40,Dhanbad,GEN,Dhanbad,158851,INC,Manan Mallick,55641,BJP,Raj Kumar Sinha,54751,890,0.56
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,41,Jharia,GEN,Dhanbad,121257,BJP,Kunti Devi,49131,INC,Suresh Singh,46115,3016,2.49
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,42,Tundi,GEN,Dhanbad,135427,JMM,Mathura Prasad Mahato,40787,JVM,Saba Ahmad,39869,918,0.68
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,43,Baghmara,GEN,Dhanbad,138546,JVM,Dulu Mahato,56026,JDU,Jaleshwar Mahato,36066,19960,14.41
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,44,Baharagora,GEN,Purbi Singhbhum,137462,JMM,Bidyut Baran Mahato,59228,BJP,Dinesh Kumar Sarangi,42074,17154,12.48
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,45,Ghatsila,ST,Purbi Singhbhum,126804,JMM,Ramdas Soren,38283,INC,Pradeep Kumar Balmuchu,37091,1192,0.94
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,46,Potka,ST,Purbi Singhbhum,132181,BJP,Menaka Sardar,44095,INC,Subodh Singh Sardar,28385,15710,11.89
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,47,Jugashlai,SC,Purbi Singhbhum,149549,AJSUP,Ram Chandra Sahis,42810,BJP,Rakhi Roy,39328,3482,2.33
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,48,Jamshedpur East,GEN,Purbi Singhbhum,111679,BJP,Raghubar Das,56165,JVM,Abhay Singh,33202,22963,20.56
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,49,Jamshedpur West,GEN,Purbi Singhbhum,122837,INC,Banna Gupta,55638,BJP,Saryu Roy,52341,3297,2.68
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,50,Ichagarh,GEN,Saraikela,141662,JVM,Arvind Kumar Singh,45465,AJSUP,Bishwa Ranjan Mahato,27829,17636,12.45
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,51,Seraikella,ST,Saraikela,149082,JMM,Champai Soren,57156,BJP,Laxhman Tudu,53910,3246,2.18
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,52,Chaibasa,ST,Pachim Singhbhum,102983,JMM,Deepak Birua,30274,INC,Bagun Sumbrui,22726,7548,7.33
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,53,Majhganon,ST,Pachim Singhbhum,96767,BJP,Barkuwar Gagrai,34534,JMM,Niral Purty,24644,9890,10.22
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,54,Jaganathpur,ST,Pachim Singhbhum,82127,JBSP,Geeta Kora,37145,BJP,Sonaram Birua,11405,25740,31.34
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,55,Manoharpur,ST,Pachim Singhbhum,97147,BJP,Guru Charan Nayak,27360,JMM,Navami Oraon,21090,6270,6.45
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,56,Chakradharpur,ST,Pachim Singhbhum,95896,BJP,Laxman Giluwa,26984,JMM,Sukhram Oraon,26694,290,0.3
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,57,Kharasawan,ST,Saraikela,112007,BJP,Mangal Singh Soy,52661,INC,Basko Besra,25442,27219,24.3
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,58,Tamar,ST,Ranchi,89240,JDU,Gopal Krishna Patar,30678,AJSUP,Vikas Kumar Munda,29207,1471,1.65
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,59,Tokpa,ST,Ranchi,84721,JMM,Paulus Surin,34551,BJP,Koche Munda,18752,15799,18.65
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,60,Khunti,ST,Ranchi,95040,BJP,Nilkanth Singh Munda,32067,JMM,Masi Charan Munda,31631,436,0.46
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,61,Silli,GEN,Ranchi,117147,AJSUP,Sudesh Kumar Mahto,45673,JVM,Amit Kumar,37966,7707,6.58
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,62,Khijri,ST,Ranchi,143421,INC,Sawna Lakra,41172,BJP,Ram Kumar Pahan,38394,2778,1.94
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,63,Ranchi,GEN,Ranchi,116328,BJP,Chandreshwar Prasad,66161,INC,Pradeep Tulsyan,39050,27111,23.31
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,64,Hatia,GEN,Ranchi,150164,INC,Gopal S.N.Shahdeo,39921,BJP,Ram Ji Lal Sharda,39896,25,0.02
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,65,Kanke,SC,Ranchi,144559,BJP,Ramchandra Baitha,45245,INC,Suresh Baitha,40674,4571,3.16
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,66,Mandar,ST,Ranchi,154805,JHJAM,Bandhu Tirkey,58924,INC,Deo Kumar Dhan,28953,29971,19.36
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,67,Sisai,ST,Gumla,114232,INC,Geeta Shree Oraon,39260,BJP,Samir Oraon,24319,14941,13.08
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,68,Gumla,ST,Gumla,103327,BJP,Kamlesh Oraon,39555,JMM,Bhushan Tirkey,27468,12087,11.7
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,69,Bishunpur,ST,Gumla,120214,RAKAP,Chamra Linda,44461,INC,Shiv Kumar Bhagat,27751,16710,13.9
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,70,Simdega,ST,Gumla,115975,BJP,Vimla Pradhan,38476,INC,Neil Tirkey,37363,1113,0.96
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,71,Kolebira,ST,Simdega,99863,JKP,Anosh Ekka,28834,BJP,Mahendra Bhagat,21332,7502,7.51
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,72,Lohardaga,ST,Lohardaga,116556,AJSUP,Kamal Kishor Bhagat,35816,INC,Sukhdeo Bhagat,35210,606,0.52
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,73,Manika,ST,Latehar,84825,BJP,Harikrishna Singh,18645,INC,Rameshwar Oraon,16876,1769,2.09
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,74,Latehar,SC,Latehar,105054,BJP,Baidyanath Ram,34522,RJD,Prakash Ram,34084,438,0.42
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,75,Panki,GEN,Palamu,111139,IND,Bidesh Singh,38458,JDU,Madhu Singh,18240,20218,18.19
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,76,Daltonganj,GEN,Palamu,146920,INC,Krishna Nand Tripathi,43571,BJP,Dileep Singh Namdhari,39338,4233,2.88
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,77,Bishrampur,GEN,Garhwa,123308,INC,Chandrashekhar Dubey,25609,RJD,Ramchandra,17257,8352,6.77
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,78,Chattarpur,SC,Palamu,91585,JDU,Sudha Choudhary,25854,JMM,Manoj Kumar,16108,9746,10.64
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,79,Hussainabad,GEN,Palamu,113580,RJD,Sanjay Kumar Singh,26735,BSP,Kushwaha Shiv Pujan,23172,3563,3.14
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,80,Garhwa,GEN,Garhwa,150022,JVM,Satyendra Nath Tiwari,50474,RJD,Girinath Singh,40412,10062,6.71
+ae-jharkhand-2009,AE,Jharkhand,2009,2009,official,81,Bhawanathpur,GEN,Garhwa,157697,INC,Anant Pratap Deo,54690,NSAM,Bhanu Pratap Shahi,32522,22168,14.06

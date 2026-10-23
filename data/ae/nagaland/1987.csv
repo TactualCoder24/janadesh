@@ -1,0 +1,61 @@
+election_id,kind,state,year,label,status,seat_no,seat_name,category,region,total_votes,winner_party,winner_name,winner_votes,runner_up_party,runner_up_name,runner_up_votes,margin,margin_pct
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,1,Dimapur-I,GEN,Dimapur *,19462,INC,Hokishe,10790,IND,Crellan Pesyie,5525,5265,27.05
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,2,Dimapur-Ii,ST,Dimapur *,21000,IND,Imti Sungat Jamir,8763,INC,I. Vikheshe,8280,483,2.3
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,3,Dimapur-Iii,ST,Dimapur *,8685,IND,Vehepu Yepthomi,4200,NND,Prodep Singyong,2825,1375,15.83
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,4,Ghaspani-I,ST,Dimapur *,18629,INC,Shikiho Sema,10551,NPP,Khekiho,6795,3756,20.16
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,5,Ghaspani-Ii,ST,Dimapur *,13266,NND,Rokonicha,3483,IND,Hekiye L,3400,83,0.63
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,6,Tenning,ST,Kohima,8343,INC,Henlum L. Singson,2235,NND,T. R. Zeliang,2182,53,0.64
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,7,Peren,ST,Kohima,9254,NND,Bangdi Eheilung,2548,INC,N. C. Zeliang,1863,685,7.4
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,8,Western Angami,ST,Kohima,6452,NND,Shurhiu,2811,INC,Vibikho,2125,686,10.63
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,9,Kohima Town,ST,Kohima,9090,INC,J. B. Jasokie,4880,NND,Khrieketoulie,4210,670,7.37
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,10,Northern Angami - I,ST,Kohima,5586,NND,Shurhozelie,2027,NPP,Neikhotso Linyu,2024,3,0.05
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,11,Northern Angami -Ii,ST,Kohima,8792,IND,K. V. Keditsu,2012,NND,Neiphiu Rio,1848,164,1.87
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,12,Tseminyu,ST,Kohima,7671,INC,Nillo,3019,NND,R. S. Rengma,2441,578,7.53
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,13,Pughoboto,ST,Kohima,5808,INC,Joshua Achumi,2502,NPP,Huska Sumi,2339,163,2.81
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,14,Southern Angami-I,ST,Kohima,5760,IND,Diethoo,2123,INC,Puse Zhotso,1221,902,15.66
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,15,Southern Angami-Ii,ST,Kohima,5309,INC,Vizaden,2080,NND,Vizol,1985,95,1.79
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,16,Pfutsero,ST,Phek,6834,NND,Jhenucho,3543,INC,Lhiweshelo,3291,252,3.69
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,17,Chizami,ST,Phek,7413,INC,Zhovehu Lohe,2872,NND,Kewezu G. Kenye,2554,318,4.29
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,18,Chazouba,ST,Phek,9220,NND,Vamuzo,5250,INC,Nuzota Swuro,3970,1280,13.88
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,19,Phek,ST,Phek,7374,NND,Vejoi,3653,INC,Zachilhu,3473,180,2.44
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,20,Meluri,ST,Phek,7321,NND,Chiekhutso,2673,IND,Asang,2156,517,7.06
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,21,Tuli,ST,Mokokchung,9438,NND,T. Tali,5906,INC,Tsuknungpenzu,3532,2374,25.15
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,22,Arkakong,ST,Mokokchung,8591,INC,Jongpongchiten,3747,NPP,Marchiba,2494,1253,14.59
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,23,Impur,ST,Mokokchung,9393,IND,T. Chuba,4246,INC,S. Lima Aier,3567,679,7.23
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,24,Angetyongpang,ST,Mokokchung,7672,NPP,Akumbenba,2227,INC,S. Lima,2068,159,2.07
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,25,Monguya,ST,Mokokchung,7161,INC,N. I. Jamir,4220,IND,J. Maputemjen,1274,2946,41.14
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,26,Aonglenden,ST,Mokokchung,6131,INC,Nungshizenba,3686,NND,M. Bendangnukshi,2421,1265,20.63
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,27,Mokokchung Town,ST,Mokokchung,2302,INC,Imtimeren,861,IND,Imkongmar,784,77,3.34
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,28,Koridang,ST,Mokokchung,9288,INC,Nokzenketba,3045,IND,Bendangtoshi,2426,619,6.66
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,29,Jangpetkong,ST,Mokokchung,5889,INC,Chubatemjen A,2516,IND,Kiremwati,1765,751,12.75
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,30,Alungtaki,ST,Mokokchung,5978,INC,Tiameren Imchen,2082,IND,Aomeri,1772,310,5.19
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,31,Akuluto,ST,Zunheboto,4022,INC,I. Khehoto,1644,NND,I. Vitokhe,1455,189,4.7
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,32,Atoizu,ST,Zunheboto,5967,INC,K. L. Chishi,2847,IND,N. Yeshito Chishi,2721,126,2.11
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,33,Suruhuto,ST,Zunheboto,6173,INC,Kiyezhe Sema,2677,NND,Khukivi,2671,6,0.1
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,34,Aghunato,ST,Zunheboto,5375,INC,K. Kihoto Hollohon,1872,NND,Nihokhe,1697,175,3.26
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,35,Zunheboto,ST,Zunheboto,6539,INC,Ghutoshe,2432,NND,Tokheho,1632,800,12.23
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,36,Satakha,ST,Zunheboto,5959,INC,Hokheto,2902,NND,Kughavi,2871,31,0.52
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,37,Tyui,ST,Wokha,8535,NND,N. L. Odyuo,4254,INC,T. A. Ngullie,3632,622,7.29
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,38,Wokha,ST,Wokha,9812,IND,John Lotha,3689,NND,T. Myingthungo Lotha,3349,340,3.47
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,39,Sanis,ST,Wokha,6783,INC,T. N. Ngullie,2715,NND,Nkhoa,2558,157,2.31
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,40,Bhandari,ST,Wokha,8836,NND,T. Kikon,3698,INC,E. T. Ezung,3606,92,1.04
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,41,Tizit,ST,Mon,9503,INC,N. Yeangphong Konyak,5161,NND,B. Tingkap Wangnao,3374,1787,18.8
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,42,Wakching,ST,Mon,9158,INC,Chingwang,5151,NND,P. Enyei,4007,1144,12.49
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,43,Tapi,ST,Mon,7233,NND,Noke,3125,INC,M. L. Tongwang,2196,929,12.84
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,44,Phomching,ST,Mon,7565,INC,P. Pohwang,4226,NND,Konngam,3339,887,11.73
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,45,Tehok,ST,Mon,8094,NND,T. P. Manlem,3382,INC,C. Nocklem K,3242,140,1.73
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,46,Mon Town,ST,Mon,10469,INC,S.Yokten,6492,NND,Tingnei K,3187,3305,31.57
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,47,Aboi,ST,Mon,6640,INC,W. Eyung,2868,IND,Khumpei,1555,1313,19.77
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,48,Moka,ST,Mon,8274,INC,A. Nyamnyei,3017,IND,K. Kiko Konyak,2838,179,2.16
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,49,Tamlu,ST,Tuensang,6660,INC,Bangjakphom,3434,NND,H. N. Yemliphom,3183,251,3.77
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,50,Longleng,ST,Tuensang,9008,INC,Chenlomphom,2736,IND,Heongphom,2248,488,5.42
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,51,Noksen,ST,Tuensang,4238,INC,C. Chongshen,2144,IND,H. Chuba Chang,1313,831,19.61
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,52,Longkhim Chare,ST,Tuensang,8181,IND,Thrinimong,2468,INC,S. K. Sangtam,2121,347,4.24
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,53,Tuensang Sadar-I,ST,Tuensang,7095,INC,Changkong,3489,IND,S. Khoney Chang,1742,1747,24.62
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,54,Tuensang Sadar-Ii,ST,Tuensang,6086,INC,Lakiumong,2659,IND,M. B. Vimkong,1754,905,14.87
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,55,Tobu,ST,Tuensang,10042,NND,A. Sopen,3991,INC,Shiakpong,3647,344,3.43
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,56,Noklak,ST,Tuensang,6244,NND,Sedem Khaming,1997,IND,Tochi Hanso,1843,154,2.47
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,57,Thonoknyu,ST,Tuensang,6546,NND,P. Pongom,1793,INC,Heno,1540,253,3.86
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,58,Shamtorr-Chessore,ST,Tuensang,6927,NND,K. Zungkum,2189,INC,Yamukum,1905,284,4.1
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,59,Siyuchong-Sitimi,ST,Tuensang,6729,NND,Yopikyu,3695,INC,Sethricho,2817,878,13.05
+ae-nagaland-1987,AE,Nagaland,1987,1987,official,60,Pungro-Kiphire,ST,Tuensang,9116,INC,T. Rothrong,4732,NND,T. Torechu,4384,348,3.82
