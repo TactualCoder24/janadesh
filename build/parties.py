@@ -200,6 +200,9 @@ for k, v in MANUAL_NAMES.items():
 load_ls_names()
 for k, v in MANUAL_NAMES.items():
     NAME2CODE[_simp(k)] = v
+# 'Others' is a bucket of small parties, not CPI(M) (a stray CSV row used to map it there)
+for k in ('others', 'oth'):
+    NAME2CODE[k] = 'OTH'
 
 
 def acronym(name):
