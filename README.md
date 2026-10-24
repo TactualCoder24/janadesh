@@ -9,7 +9,7 @@ A seat simulator for India's Lok Sabha (1951 to 2024, plus a 2029 projection mod
 ## Features
 
 - Simulate any future election (up to four cycles ahead) for the Lok Sabha or any state, with a "continue the trend" option
-- Home page with a live 2024 Lok Sabha chamber, ready-made scenarios and one-tap state picker
+- Home page with the Lok Sabha as it stands (members per bloc, from Wikipedia), an election calendar, ready-made scenarios and one-tap state picker
 - Easy mode: one swing slider between any two sides, plus presets (wave, neck and neck, anti-incumbency, smaller parties rise, repeat last swing)
 - Full English and Hindi interface, including state and major party names
 - Lok Sabha 1951–2024 and 30+ state assemblies, with a "simulate next" option for each
@@ -26,6 +26,7 @@ A seat simulator for India's Lok Sabha (1951 to 2024, plus a 2029 projection mod
 - What-if lab: a new party, a party split, turnout shifts and a sitting-member penalty; voting systems compared, One Nation One Election, a delimitation scenario, the Rajya Sabha and the presidential electoral college
 - Smarter model: a Core + swing method with a wave setting, a wave tracker for every past election, a momentum baseline (weighted last four elections), realistic mode, and signals from assembly results, by-elections and city corporations
 - Analysis tools: flip targets, closest contests, records, head-to-head, incumbency patterns, representation, chief ministers, by-elections since 2014 (by Lok Sabha term), city bodies, party family tree, alliance timeline and a history page for every seat
+- Election calendar, a prediction challenge with shareable cards, live counting (type in the count, or replay a past one), Guess the election, a polity quiz and a scenario gallery. All in the browser, with no server
 
 ## Deploy on GitHub Pages
 

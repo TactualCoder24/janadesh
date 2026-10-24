@@ -33,7 +33,7 @@ def syntax_check():
         print('JAVASCRIPT SYNTAX ERROR in the built page:' + chr(10) + r.stderr); sys.exit(1)
     print('syntax check ok')
 syntax_check()
-for extra in ['fix_independents.py', 'derive_home.py', 'make_search.py', 'derive_stats.py', 'make_opendata.py']:
+for extra in ['fix_independents.py', 'fix_ls_categories.py', 'derive_home.py', 'make_search.py', 'derive_stats.py', 'make_opendata.py']:
     if os.path.exists(os.path.join(HERE, extra)): run(extra)
 
 if '--single' in sys.argv:

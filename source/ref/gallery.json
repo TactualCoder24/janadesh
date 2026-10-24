@@ -1,0 +1,96 @@
+{
+ "v": 1,
+ "note": "Featured scenarios. To add one, append an item with the code part of a share link (the text after #s=). The head lists the seats of the starting election and of the scenario.",
+ "items": [
+  {
+   "id": "ls-india-6",
+   "en": [
+    "Lok Sabha 2029: INDIA gains 6 points from NDA",
+    "Six points of vote share go from the NDA to the INDIA bloc in every seat, a little more than the swing on the home page."
+   ],
+   "hi": [
+    "लोकसभा 2029: इंडिया गठबंधन को एनडीए से 6 अंक",
+    "हर सीट पर 6 अंक वोट हिस्सा एनडीए से इंडिया गठबंधन की ओर जाता है, होम पेज वाले स्विंग से थोड़ा ज़्यादा।"
+   ],
+   "by": "Janadesh",
+   "color": "#1f77b4",
+   "head": "INDIA 243 → 381, NDA 286 → 144, Independents 6 → 5",
+   "code": "NZBdT4MwGIX_y7nSpJLysYm9QzERCYwMYqJ3VTpH0hUCnS5Z9t9928W7c_o-5_3oGT8QIYMaegjo5S7iUQIGo04Wws5HxSD3SvaeOoy9IkxqPUjzpYg7KLsfXXSax4l8B3FGJuo8g4jTYMXIFHVekE3SIIwZ3tvtUwMRBdTvsfWK3zMQRCOCNT2-epWklC2yvCq9c_S2heDBigp1V3pJwTbLnYweHF49F5V3Ebm2uSm3t86GlH7bNI3TnMCPxlOc1tl0L26FNL4w2FmaZadmGsg5w2441dIOo5H6_yuW38F8uxMlnXw9k-HT6-uVDJNdINbUTUsqmKPWTroUlMHlDw"
+  },
+  {
+   "id": "ls-nda-6",
+   "en": [
+    "Lok Sabha 2029: NDA gains 6 points from INDIA",
+    "Six points of vote share go from the INDIA bloc to the NDA in every seat, a little more than the swing on the home page."
+   ],
+   "hi": [
+    "लोकसभा 2029: एनडीए को इंडिया गठबंधन से 6 अंक",
+    "हर सीट पर 6 अंक वोट हिस्सा इंडिया गठबंधन से एनडीए की ओर जाता है, होम पेज वाले स्विंग से थोड़ा ज़्यादा।"
+   ],
+   "by": "Janadesh",
+   "color": "#F28C28",
+   "head": "NDA 286 → 400, INDIA 243 → 129, Independents 6 → 5",
+   "code": "NZBfa4MwFMW_y3naIJOorWvz5uZgTrSiMtjespmuQhpF061Q-t13E-jbOTe_c__kgl-IkEENPQT08hDxaAUGo84Wws4nxSAPSvaeOo69IkxqPUjzrYg7KnsYXXSax4l8B3FBKqoshVjzYM3I5FWWk42TIIwZPtrmuYaIAur31HrFHxkIohFBQsU3r1YbyuZpVhbeObppIagnPVRd4SUF2zRzMto6vHzJS-8icm19VzT3zoaUft_VtdOcwM_aU5zW2XWvboVNfGWwszTLXs00kHOG_XCupB1GI_XtK5a_wfy4EyWdfLuM4cs7dzTDZBeIhLppSWVz0tpJl4IyuP4D"
+  },
+  {
+   "id": "up-sp-3",
+   "en": [
+    "Uttar Pradesh 2027: SP gains 3 points from BJP",
+    "What a 3-point move from the BJP to the Samajwadi Party does to the 403 seats, starting from the 2022 result."
+   ],
+   "hi": [
+    "उत्तर प्रदेश 2027: सपा को भाजपा से 3 अंक",
+    "2022 के नतीजे से शुरू करके, भाजपा से सपा की ओर 3 अंक के बदलाव का 403 सीटों पर असर।"
+   ],
+   "by": "Janadesh",
+   "color": "#D7263D",
+   "head": "Samajwadi Party 111 → 192, Bharatiya Janata Party 255 → 174, Rashtriya Lok Dal 8 → 11",
+   "code": "NY9BboMwEEXv8tfGIiZQ4h0plUKU0KrkAq5wChIxyJg2VZS7dyZVd29Gb77-3PAFvRKwfQsNY6MlBOOjyZvWzl2kYqUg4Ow1QAe_WAHTWdM-bi5ja-loMj78kHSxoRs5ZfLjRPMJ-obt_g06yWWaCzSMqVSEW-aVkpsngfdDCa1kTljVz4xJKlCUDRkyS-juz5YJGXXV7AryY7lR7D8wo8SiOr4ceVhvBPblgVFRydfTjiOz9V0geOPms_UUFscC5_5am9CPzgz_z83fvfvk3ob-4O4CH0QNwxRm6k8xg6GdW4aBkXVYh_sv"
+  },
+  {
+   "id": "punjab-inc-3",
+   "en": [
+    "Punjab 2027: Congress gains 3 points from AAP",
+    "What a 3-point move from the Aam Aadmi Party to the Congress does to the 117 seats, starting from the 2022 result."
+   ],
+   "hi": [
+    "पंजाब 2027: कांग्रेस को आप से 3 अंक",
+    "2022 के नतीजे से शुरू करके, आप से कांग्रेस की ओर 3 अंक के बदलाव का 117 सीटों पर असर।"
+   ],
+   "by": "Janadesh",
+   "color": "#19A7CE",
+   "head": "Aam Aadmi Party 92 → 82, Indian National Congress 18 → 29, Shiromani Akali Dal 3 → 2",
+   "code": "Nc9BTsMwEAXQu_wVSFMrdUmaehfKAhAqkdILTBWXBqWO5ThQVPXujIPYfY-eR3-u-IJZEmzXwoDtwk_ukw8LnWkNgrOXCBPDZAl8stzO-Dy0VrTnEH8EnW08Dem7D4OX9x7miqqqYVYbtRL_stvC6EItHwhN9SQ7SpVrwuOrmEIV-Ty-q-5FqTz5ZNSmFNLUKa7LP9IIyVRBqN-2dYq58Pf988zXN0IM7MajDTLIMsKxu-w4doPj_v-M8btzH6khS-PUknCQlDoSfByltezpWYZu6vsUk4d1uP0C"
+  },
+  {
+   "id": "gujarat-inc-4",
+   "en": [
+    "Gujarat 2027: Congress gains 4 points from BJP",
+    "What a 4-point move from the BJP to the Congress does to the 182 seats, starting from the 2022 result."
+   ],
+   "hi": [
+    "गुजरात 2027: कांग्रेस को भाजपा से 4 अंक",
+    "2022 के नतीजे से शुरू करके, भाजपा से कांग्रेस की ओर 4 अंक के बदलाव का 182 सीटों पर असर।"
+   ],
+   "by": "Janadesh",
+   "color": "#2EAD4B",
+   "head": "Bharatiya Janata Party 156 → 133, Indian National Congress 17 → 39, Aam Aadmi Party 5 → 6",
+   "code": "NY5BbsJADEXv8tdmlGSCCrOj7QJY0ErNBYxiYKowiSaTlgrl7vUgsbOfnv3_HT9wJUF8CweWxXn65shpURVVBUKQW4JLcRICX4Tbh33tW1F94Jj-VLpKuvT5foj9oHsDd8fr_hOufjHrmrA7vMHZirDZKCxrsyozfFdolpbwpbQwdk34aLYqGGtnQoocxpNEBUVBOPnbgZPvA3fPRuOvD-ccxhqeAwlHnXIcYUijFtA_HSsMU9flMfuQgPkf"
+  },
+  {
+   "id": "karnataka-bjp-3",
+   "en": [
+    "Karnataka 2028: BJP gains 3 points from Congress",
+    "What a 3-point move from the Congress to the BJP does to the 224 seats, starting from the 2023 result."
+   ],
+   "hi": [
+    "कर्नाटक 2028: भाजपा को कांग्रेस से 3 अंक",
+    "2023 के नतीजे से शुरू करके, कांग्रेस से भाजपा की ओर 3 अंक के बदलाव का 224 सीटों पर असर।"
+   ],
+   "by": "Janadesh",
+   "color": "#F28C28",
+   "head": "Bharatiya Janata Party 66 → 101, Indian National Congress 135 → 94, Janata Dal (Secular) 19 → 24",
+   "code": "NY7BbsIwEET_Zc6LZWxSFd9oORSQKCr8wFZZSkRwIse0VIh_7zpSb-PVm_G74xthSpCmRgDL5MwpcuYzT5x1HoQot4yQ01UIfBKuR_7S1aKFnlP-Vegi-dSVhT51vb4PCHestq8IM2umz4SX9Q7Bz42rCOvlXje88XNSZql3U-nk5mOnjDVPnrBYjLHS5n4zxlJ8P7whOOPcg5ATx-EoSZesJRyb25Zz00Vu_2WHnyZ-FQ9Wr-JC-NRUTAh9HvRf3WlZj_HatiUWHhLx-AM"
+  }
+ ]
+}

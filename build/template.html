@@ -98,6 +98,45 @@ select,.inp{background:var(--panel);border:1px solid var(--line);border-radius:8
 .scn{border:1px solid var(--evm-edge);border-radius:4px;padding:14px;background:var(--panel);text-align:left;cursor:pointer;font-size:15.5px;font-weight:500;line-height:1.35;display:flex;gap:10px;align-items:flex-start}
 .scn:hover{border-color:var(--violet)}
 .scn i{width:10px;align-self:stretch;border-radius:5px;flex:none}
+.calgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:12px;margin-top:10px}
+.calc{display:flex;gap:10px;border:1px solid var(--evm-edge);border-radius:4px;padding:12px;background:var(--panel);min-width:0}
+.calc > i{width:8px;border-radius:4px;flex:none}
+.calc .calt{font-family:var(--display);font-size:17px}
+.calc .calst{margin:2px 0 4px}
+.calc.open{border-color:var(--good)}
+.calc.sched{border-color:var(--violet)}
+.calhero{display:flex;flex-wrap:wrap;gap:12px 24px;align-items:center;justify-content:space-between;border-top:3px solid var(--ink);padding:14px 0;margin-top:6px}
+.calhero h3{font-size:24px;margin:2px 0}
+.calbig{font-family:var(--display);font-size:34px;font-weight:800;margin:0;color:var(--violet)}
+.prhow{margin:0 0 8px;padding-left:20px;color:var(--muted)}
+.predbox{margin-top:14px}
+.predhemi{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px;margin:6px 0}
+.predstat{display:flex;flex-wrap:wrap;gap:8px 28px;margin:6px 0 4px}
+.predstat div{display:flex;flex-direction:column}
+.predstat b{font-family:var(--display);font-size:26px;font-weight:800;line-height:1.1}
+.predstat span{font-size:13px;color:var(--muted)}
+.chip{display:inline-flex;align-items:center;gap:4px;border:1px solid var(--line);border-radius:14px;padding:2px 10px;font-size:13px;margin:2px 2px 2px 0}
+.lvstep{display:inline-flex;align-items:center;gap:4px}
+.lvstep input{width:70px;text-align:right}
+.lvreplay{display:inline-flex;align-items:center;gap:8px;flex-wrap:wrap}
+.gmbar{display:flex;justify-content:space-between;color:var(--muted);font-size:14px;margin-bottom:4px}
+.gmprogress{height:6px;background:var(--sunk);border-radius:3px;overflow:hidden;margin:0 0 14px}
+.gmprogress i{display:block;height:100%;background:var(--violet)}
+.gmq{font-size:22px;margin:6px 0 12px}
+.gmvis{margin-bottom:6px}
+.gmopts{display:grid;gap:8px}
+.gmopt{display:flex;gap:12px;align-items:center;text-align:left;border:1px solid var(--evm-edge);background:var(--panel);border-radius:6px;padding:10px 12px;font-size:16px;cursor:pointer;color:var(--ink)}
+.gmopt:hover:not(:disabled){border-color:var(--violet)}
+.gmopt:disabled{cursor:default}
+.gmk{width:26px;height:26px;border-radius:13px;background:var(--sunk);display:inline-flex;align-items:center;justify-content:center;font-weight:700;font-size:13px;flex:none}
+.gmopt.right{border-color:var(--good);background:#E8F4EC}
+.gmopt.wrong{border-color:var(--bad);background:#FBECEA}
+.gmfb{margin:12px 0 8px}
+.gmfb.ok b{color:var(--good)}
+.gmfb.no b{color:var(--bad)}
+.gmfinal{font-family:var(--display);font-size:34px;font-weight:800;margin:8px 0}
+.gslegend{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:14px}
+.gstar{min-width:32px}
 .stgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:8px;margin-top:12px}
 .stbtn{border:1px solid var(--evm-edge);border-radius:4px;padding:10px 12px;background:var(--panel);text-align:left;cursor:pointer;display:flex;flex-direction:column;gap:2px}
 .stbtn:hover{border-color:var(--violet)}
@@ -403,7 +442,7 @@ pre.code{background:var(--sunk);border-radius:8px;padding:10px 12px;overflow:aut
         <p class="small" data-i18n="futHint"></p>
       </div>
     </div>
-    <div class="live"><p data-i18n="homeLive"></p><div id="liveHemi"><span class="loading"><i></i></span></div><div class="livelegend" id="liveLegend"></div></div>
+    <div class="live"><p data-i18n="homeLive"></p><div id="liveHemi"><span class="loading"><i></i></span></div><div class="livelegend" id="liveLegend"></div><p class="small" id="liveNote" style="margin:6px 0 0"></p></div>
   </section>
   <section class="sec">
     <h3 data-i18n="howTitle"></h3>
@@ -422,6 +461,12 @@ pre.code{background:var(--sunk);border-radius:8px;padding:10px 12px;overflow:aut
       <button class="scn" data-scn="4"><i style="background:#2EAD4B"></i><span data-i18n="scn4"></span></button>
     </div>
   </section>
+  <section class="sec" id="calSec">
+    <h3 data-i18n="calTitle"></h3>
+    <p class="lede" data-i18n="calLede"></p>
+    <div class="scns" id="calGrid"></div>
+    <p class="small"><a href="#/calendar" style="color:var(--violet);font-weight:500" data-i18n="calAll"></a></p>
+  </section>
   <section class="sec" id="whatifSec">
     <h3 data-i18n="wiTitle"></h3>
     <p class="lede" data-i18n="wiLede"></p>
@@ -431,6 +476,11 @@ pre.code{background:var(--sunk);border-radius:8px;padding:10px 12px;overflow:aut
     <h3 data-i18n="pollTitle"></h3>
     <p class="lede" data-i18n="pollLede"></p>
     <div class="scns" id="pollGrid"></div>
+  </section>
+  <section class="sec" id="playSec">
+    <h3 data-i18n="plTitle"></h3>
+    <p class="lede" data-i18n="plLede"></p>
+    <div class="scns" id="plGrid"></div>
   </section>
   <section class="sec">
     <h3 data-i18n="pickState"></h3>
@@ -512,7 +562,7 @@ pre.code{background:var(--sunk);border-radius:8px;padding:10px 12px;overflow:aut
   </main>
 </div>
 </div>
-<nav class="footlinks" id="footlinks" aria-label="More"><a href="#/how" data-i18n="footHow"></a><a href="#/glossary" data-i18n="footGlossary"></a><a href="#/rajyasabha" data-i18n="footRS"></a><a href="#/delimitation" data-i18n="footDelim"></a><a href="#/onoe" data-i18n="footOnoe"></a><a href="#/boundaries" data-i18n="footBounds"></a><a href="#/tree" data-i18n="footTree"></a><a href="#/data" data-i18n="footData"></a><a href="#/changelog" data-i18n="footChangelog"></a></nav>
+<nav class="footlinks" id="footlinks" aria-label="More"><a href="#/how" data-i18n="footHow"></a><a href="#/calendar" data-i18n="footCal"></a><a href="#/predict" data-i18n="footPred"></a><a href="#/live" data-i18n="footLive"></a><a href="#/quiz" data-i18n="footQuiz"></a><a href="#/guess" data-i18n="footGuess"></a><a href="#/gallery" data-i18n="footGallery"></a><a href="#/glossary" data-i18n="footGlossary"></a><a href="#/rajyasabha" data-i18n="footRS"></a><a href="#/delimitation" data-i18n="footDelim"></a><a href="#/onoe" data-i18n="footOnoe"></a><a href="#/boundaries" data-i18n="footBounds"></a><a href="#/tree" data-i18n="footTree"></a><a href="#/data" data-i18n="footData"></a><a href="#/changelog" data-i18n="footChangelog"></a></nav>
 <footer class="footer" data-i18n="footer"></footer>
 </div>
 <div class="tip" id="tip"></div>
@@ -1219,16 +1269,20 @@ async function runScenario(n){
     const a = U.findIndex(g=>g.key==='AITC'); if(a>=0){ S.swing = {a:'AITC', b:'BJP', pts:0}; preset('waveA', a, U.findIndex(g=>g.key==='BJP'), a); } }
 }
 async function renderHome(){
-  // live chamber: 2024 Lok Sabha by alliance
-  let c;
-  if(INDEX.home) c = new Map(INDEX.home.groups);
+  // live chamber: the House as it stands now (ref/ls-now.json, from Wikipedia), or the 2024 result when that file is missing
+  let c, now = null; try{ now = await getJSON('ref/ls-now.json'); }catch(e){}
+  if(now) c = new Map(now.groups);
+  else if(INDEX.home) c = new Map(INDEX.home.groups);
   else { const e = (await bundle('ls')).find(x=>x.id==='ls-2024'); c = new Map();
     e.seats.forEach(s => { if(!s[4].length) return; const p = e.parties[s[4][0]], k = e.alliances[p] || p; c.set(k, (c.get(k)||0)+1); }); }
   const groups = [...c.entries()].sort((a,b)=>b[1]-a[1]).map(([k,n]) => ({k, n, c: k==='NDA' ? pColor('BJP') : k==='INDIA' ? pColor('INC') : pColor(k)}));
-  const main = groups.filter(g=>g.n>=5), oth = groups.filter(g=>g.n<5).reduce((a,g)=>a+g.n,0);
-  const shown = main.concat(oth ? [{k:'OTH', n:oth, c:'#B9BDC4'}] : []);
+  let shown;
+  if(now){ const col = {OTH:'#B9BDC4', VAC:'#E6E8EA'}; shown = now.groups.filter(g => g[1] > 0).map(([k, n]) => ({k, n, c: col[k] || (k==='NDA' ? pColor('BJP') : k==='INDIA' ? pColor('INC') : pColor(k))})); }
+  else { const main = groups.filter(g=>g.n>=5), oth = groups.filter(g=>g.n<5).reduce((a,g)=>a+g.n,0); shown = main.concat(oth ? [{k:'OTH', n:oth, c:'#B9BDC4'}] : []); }
   drawHemicycle($('#liveHemi'), shown, 543, 272, shown[0].n, t('needed',{n:272}));
-  $('#liveLegend').innerHTML = shown.map(g=>`<span><i class="sw" style="background:${g.c}"></i>${esc(g.k==='OTH'?t('others'):(HI_ALLY[g.k]&&LANG==='hi'?HI_ALLY[g.k]:(g.k.length<8&&g.k!=='IND'?g.k:pName(g.k))))} <b class="num">${g.n}</b></span>`).join('');
+  const liveName = k => k==='OTH' ? t(now ? 'homeUnaligned' : 'others') : k==='VAC' ? t('homeVacant') : (HI_ALLY[k]&&LANG==='hi' ? HI_ALLY[k] : (k.length<8&&k!=='IND' ? k : pName(k)));
+  $('#liveLegend').innerHTML = shown.map(g=>`<span><i class="sw" style="background:${g.c}"></i>${esc(liveName(g.k))} <b class="num">${g.n}</b></span>`).join('');
+  $('#liveNote').textContent = now ? t('homeLiveNote', {d: new Date(now.asof + 'T00:00:00').toLocaleDateString(LANG==='hi'?'hi-IN':'en-IN', {day:'numeric', month:'long', year:'numeric'})}) : '';
   // future builder
   const fw = $('#futWhere'), prevW = fw.value || 'LS';
   const lat = new Map(); INDEX.elections.forEach(x => { const key = x.kind==='LS' ? 'LS' : x.state; const l = lat.get(key); if(!l || x.year > l.year) lat.set(key, x); });
@@ -1243,7 +1297,7 @@ async function renderHome(){
   $('#stgrid').innerHTML = [...latest.values()].sort((a,b)=>stName(a.state).localeCompare(stName(b.state), LANG==='hi'?'hi':'en')).map(x => {
     const tot = x.top.reduce((a,b)=>a+b[1],0) || 1;
     return `<button class="stbtn" data-st="${esc(x.state)}" data-id="${x.id}"><b>${esc(stName(x.state))}</b><span>${esc(t('lastElection',{y:x.label, n:x.seats}))}</span><span class="bar">${x.top.map(([p,n])=>`<i style="width:${100*n/x.seats}%;background:${pColor(p)}"></i>`).join('')}</span></button>`; }).join('');
-  renderPollHome(); renderWhatIfHome();
+  renderPollHome(); renderWhatIfHome(); renderCalendarHome(); renderPlayHome();
   $('#stgrid').querySelectorAll('.stbtn').forEach(b => b.onclick = () => { S.tab = 'easy'; S.mode = 'party'; openSim('AE', b.dataset.st, 'next:'+b.dataset.id, true); });
 }
 function applyLang(){

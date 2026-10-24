@@ -1,0 +1,308 @@
+{
+ "v": 1,
+ "asof": "2026-10-12",
+ "source": "Wikipedia, Lok Sabha: Membership by party",
+ "alliances": {
+  "NDA": 319,
+  "INDIA": 184,
+  "Unaligned": 38
+ },
+ "groups": [
+  [
+   "NDA",
+   319
+  ],
+  [
+   "INDIA",
+   181
+  ],
+  [
+   "IND",
+   4
+  ],
+  [
+   "OTH",
+   37
+  ],
+  [
+   "VAC",
+   2
+  ]
+ ],
+ "vacant": {
+  "n": 2,
+  "seats": "Basirhat Shillong"
+ },
+ "parties": [
+  {
+   "alliance": "NDA",
+   "party": "BJP",
+   "n": 241,
+   "leader": "Narendra Modi ( Leader of the House )"
+  },
+  {
+   "alliance": "NDA",
+   "party": "NCPI",
+   "n": 20,
+   "leader": "Sudip Bandyopadhyay"
+  },
+  {
+   "alliance": "NDA",
+   "party": "TDP",
+   "n": 16,
+   "leader": "Lavu Sri Krishna Devarayalu"
+  },
+  {
+   "alliance": "NDA",
+   "party": "SHS",
+   "n": 13,
+   "leader": "Shrikant Shinde"
+  },
+  {
+   "alliance": "NDA",
+   "party": "JD(U)",
+   "n": 12,
+   "leader": "Dileshwar Kamait"
+  },
+  {
+   "alliance": "NDA",
+   "party": "LJP(RV)",
+   "n": 5,
+   "leader": "Chirag Paswan"
+  },
+  {
+   "alliance": "NDA",
+   "party": "JD(S)",
+   "n": 2,
+   "leader": "M. Mallesh Babu"
+  },
+  {
+   "alliance": "NDA",
+   "party": "JSP",
+   "n": 2,
+   "leader": "Vallabhaneni Balashowry"
+  },
+  {
+   "alliance": "NDA",
+   "party": "RLD",
+   "n": 2,
+   "leader": "Rajkumar Sangwan"
+  },
+  {
+   "alliance": "NDA",
+   "party": "AD(S)",
+   "n": 1,
+   "leader": "Anupriya Patel"
+  },
+  {
+   "alliance": "NDA",
+   "party": "AGP",
+   "n": 1,
+   "leader": "Phani Bhusan Choudhury"
+  },
+  {
+   "alliance": "NDA",
+   "party": "AJSU",
+   "n": 1,
+   "leader": "Chandra Prakash Choudhary"
+  },
+  {
+   "alliance": "NDA",
+   "party": "HAM(S)",
+   "n": 1,
+   "leader": "Jitan Ram Manjhi"
+  },
+  {
+   "alliance": "NDA",
+   "party": "NCP",
+   "n": 1,
+   "leader": "Sunil Tatkare"
+  },
+  {
+   "alliance": "NDA",
+   "party": "SKM",
+   "n": 1,
+   "leader": "Indra Hang Subba"
+  },
+  {
+   "alliance": "INDIA",
+   "party": "INC",
+   "n": 98,
+   "leader": "Rahul Gandhi ( Leader of the Opposition )"
+  },
+  {
+   "alliance": "INDIA",
+   "party": "SP",
+   "n": 37,
+   "leader": "Akhilesh Yadav"
+  },
+  {
+   "alliance": "INDIA",
+   "party": "MAITC",
+   "n": 8,
+   "leader": "Abhishek Banerjee"
+  },
+  {
+   "alliance": "INDIA",
+   "party": "NCP-SP",
+   "n": 8,
+   "leader": "Supriya Sule"
+  },
+  {
+   "alliance": "INDIA",
+   "party": "CPI(M)",
+   "n": 4,
+   "leader": "K. Radhakrishnan"
+  },
+  {
+   "alliance": "INDIA",
+   "party": "RJD",
+   "n": 4,
+   "leader": "Abhay Kumar Sinha"
+  },
+  {
+   "alliance": "INDIA",
+   "party": "IUML",
+   "n": 3,
+   "leader": "E. T. Mohammed Basheer"
+  },
+  {
+   "alliance": "INDIA",
+   "party": "SS(UBT)",
+   "n": 3,
+   "leader": "Arvind Sawant"
+  },
+  {
+   "alliance": "INDIA",
+   "party": "JMM",
+   "n": 3,
+   "leader": "Joba Majhi"
+  },
+  {
+   "alliance": "INDIA",
+   "party": "CPI",
+   "n": 2,
+   "leader": "K. Subbarayan"
+  },
+  {
+   "alliance": "INDIA",
+   "party": "CPI(ML)L",
+   "n": 2,
+   "leader": "Raja Ram Singh"
+  },
+  {
+   "alliance": "INDIA",
+   "party": "JKNC",
+   "n": 2,
+   "leader": "Mian Altaf Ahmed"
+  },
+  {
+   "alliance": "INDIA",
+   "party": "VCK",
+   "n": 2,
+   "leader": "Thol. Thirumavalavan"
+  },
+  {
+   "alliance": "INDIA",
+   "party": "BAP",
+   "n": 1,
+   "leader": "Rajkumar Roat"
+  },
+  {
+   "alliance": "INDIA",
+   "party": "KEC",
+   "n": 1,
+   "leader": "Francis George"
+  },
+  {
+   "alliance": "INDIA",
+   "party": "MDMK",
+   "n": 1,
+   "leader": "Durai Vaiko"
+  },
+  {
+   "alliance": "INDIA",
+   "party": "RLP",
+   "n": 1,
+   "leader": "Hanuman Beniwal"
+  },
+  {
+   "alliance": "INDIA",
+   "party": "RSP",
+   "n": 1,
+   "leader": "N. K. Premachandran"
+  },
+  {
+   "alliance": "INDIA",
+   "party": "IND",
+   "n": 3,
+   "leader": ""
+  },
+  {
+   "alliance": "Unaligned",
+   "party": "DMK",
+   "n": 22,
+   "leader": "T. R. Baalu"
+  },
+  {
+   "alliance": "Unaligned",
+   "party": "YSRCP",
+   "n": 4,
+   "leader": "P. V. Midhun Reddy"
+  },
+  {
+   "alliance": "Unaligned",
+   "party": "AAP",
+   "n": 3,
+   "leader": "Gurmeet Singh Meet Hayer"
+  },
+  {
+   "alliance": "Unaligned",
+   "party": "AD (WPD)",
+   "n": 2,
+   "leader": "Sarabjeet Singh Khalsa"
+  },
+  {
+   "alliance": "Unaligned",
+   "party": "AIMIM",
+   "n": 1,
+   "leader": "Asaduddin Owaisi"
+  },
+  {
+   "alliance": "Unaligned",
+   "party": "ASP(KR)",
+   "n": 1,
+   "leader": "Chandrashekhar Azad"
+  },
+  {
+   "alliance": "Unaligned",
+   "party": "JKAIP",
+   "n": 1,
+   "leader": "Sheikh Abdul Rashid"
+  },
+  {
+   "alliance": "Unaligned",
+   "party": "SAD",
+   "n": 1,
+   "leader": "Harsimrat Kaur Badal"
+  },
+  {
+   "alliance": "Unaligned",
+   "party": "UPPL",
+   "n": 1,
+   "leader": "Joyanta Basumatary"
+  },
+  {
+   "alliance": "Unaligned",
+   "party": "ZPM",
+   "n": 1,
+   "leader": "Richard Vanlalhmangaiha"
+  },
+  {
+   "alliance": "Unaligned",
+   "party": "IND",
+   "n": 1,
+   "leader": "Umeshbhai Patel"
+  }
+ ]
+}

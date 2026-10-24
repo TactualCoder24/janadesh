@@ -98,6 +98,45 @@ select,.inp{background:var(--panel);border:1px solid var(--line);border-radius:8
 .scn{border:1px solid var(--evm-edge);border-radius:4px;padding:14px;background:var(--panel);text-align:left;cursor:pointer;font-size:15.5px;font-weight:500;line-height:1.35;display:flex;gap:10px;align-items:flex-start}
 .scn:hover{border-color:var(--violet)}
 .scn i{width:10px;align-self:stretch;border-radius:5px;flex:none}
+.calgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:12px;margin-top:10px}
+.calc{display:flex;gap:10px;border:1px solid var(--evm-edge);border-radius:4px;padding:12px;background:var(--panel);min-width:0}
+.calc > i{width:8px;border-radius:4px;flex:none}
+.calc .calt{font-family:var(--display);font-size:17px}
+.calc .calst{margin:2px 0 4px}
+.calc.open{border-color:var(--good)}
+.calc.sched{border-color:var(--violet)}
+.calhero{display:flex;flex-wrap:wrap;gap:12px 24px;align-items:center;justify-content:space-between;border-top:3px solid var(--ink);padding:14px 0;margin-top:6px}
+.calhero h3{font-size:24px;margin:2px 0}
+.calbig{font-family:var(--display);font-size:34px;font-weight:800;margin:0;color:var(--violet)}
+.prhow{margin:0 0 8px;padding-left:20px;color:var(--muted)}
+.predbox{margin-top:14px}
+.predhemi{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px;margin:6px 0}
+.predstat{display:flex;flex-wrap:wrap;gap:8px 28px;margin:6px 0 4px}
+.predstat div{display:flex;flex-direction:column}
+.predstat b{font-family:var(--display);font-size:26px;font-weight:800;line-height:1.1}
+.predstat span{font-size:13px;color:var(--muted)}
+.chip{display:inline-flex;align-items:center;gap:4px;border:1px solid var(--line);border-radius:14px;padding:2px 10px;font-size:13px;margin:2px 2px 2px 0}
+.lvstep{display:inline-flex;align-items:center;gap:4px}
+.lvstep input{width:70px;text-align:right}
+.lvreplay{display:inline-flex;align-items:center;gap:8px;flex-wrap:wrap}
+.gmbar{display:flex;justify-content:space-between;color:var(--muted);font-size:14px;margin-bottom:4px}
+.gmprogress{height:6px;background:var(--sunk);border-radius:3px;overflow:hidden;margin:0 0 14px}
+.gmprogress i{display:block;height:100%;background:var(--violet)}
+.gmq{font-size:22px;margin:6px 0 12px}
+.gmvis{margin-bottom:6px}
+.gmopts{display:grid;gap:8px}
+.gmopt{display:flex;gap:12px;align-items:center;text-align:left;border:1px solid var(--evm-edge);background:var(--panel);border-radius:6px;padding:10px 12px;font-size:16px;cursor:pointer;color:var(--ink)}
+.gmopt:hover:not(:disabled){border-color:var(--violet)}
+.gmopt:disabled{cursor:default}
+.gmk{width:26px;height:26px;border-radius:13px;background:var(--sunk);display:inline-flex;align-items:center;justify-content:center;font-weight:700;font-size:13px;flex:none}
+.gmopt.right{border-color:var(--good);background:#E8F4EC}
+.gmopt.wrong{border-color:var(--bad);background:#FBECEA}
+.gmfb{margin:12px 0 8px}
+.gmfb.ok b{color:var(--good)}
+.gmfb.no b{color:var(--bad)}
+.gmfinal{font-family:var(--display);font-size:34px;font-weight:800;margin:8px 0}
+.gslegend{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:14px}
+.gstar{min-width:32px}
 .stgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:8px;margin-top:12px}
 .stbtn{border:1px solid var(--evm-edge);border-radius:4px;padding:10px 12px;background:var(--panel);text-align:left;cursor:pointer;display:flex;flex-direction:column;gap:2px}
 .stbtn:hover{border-color:var(--violet)}
@@ -403,7 +442,7 @@ pre.code{background:var(--sunk);border-radius:8px;padding:10px 12px;overflow:aut
         <p class="small" data-i18n="futHint"></p>
       </div>
     </div>
-    <div class="live"><p data-i18n="homeLive"></p><div id="liveHemi"><span class="loading"><i></i></span></div><div class="livelegend" id="liveLegend"></div></div>
+    <div class="live"><p data-i18n="homeLive"></p><div id="liveHemi"><span class="loading"><i></i></span></div><div class="livelegend" id="liveLegend"></div><p class="small" id="liveNote" style="margin:6px 0 0"></p></div>
   </section>
   <section class="sec">
     <h3 data-i18n="howTitle"></h3>
@@ -422,6 +461,12 @@ pre.code{background:var(--sunk);border-radius:8px;padding:10px 12px;overflow:aut
       <button class="scn" data-scn="4"><i style="background:#2EAD4B"></i><span data-i18n="scn4"></span></button>
     </div>
   </section>
+  <section class="sec" id="calSec">
+    <h3 data-i18n="calTitle"></h3>
+    <p class="lede" data-i18n="calLede"></p>
+    <div class="scns" id="calGrid"></div>
+    <p class="small"><a href="#/calendar" style="color:var(--violet);font-weight:500" data-i18n="calAll"></a></p>
+  </section>
   <section class="sec" id="whatifSec">
     <h3 data-i18n="wiTitle"></h3>
     <p class="lede" data-i18n="wiLede"></p>
@@ -431,6 +476,11 @@ pre.code{background:var(--sunk);border-radius:8px;padding:10px 12px;overflow:aut
     <h3 data-i18n="pollTitle"></h3>
     <p class="lede" data-i18n="pollLede"></p>
     <div class="scns" id="pollGrid"></div>
+  </section>
+  <section class="sec" id="playSec">
+    <h3 data-i18n="plTitle"></h3>
+    <p class="lede" data-i18n="plLede"></p>
+    <div class="scns" id="plGrid"></div>
   </section>
   <section class="sec">
     <h3 data-i18n="pickState"></h3>
@@ -512,7 +562,7 @@ pre.code{background:var(--sunk);border-radius:8px;padding:10px 12px;overflow:aut
   </main>
 </div>
 </div>
-<nav class="footlinks" id="footlinks" aria-label="More"><a href="#/how" data-i18n="footHow"></a><a href="#/glossary" data-i18n="footGlossary"></a><a href="#/rajyasabha" data-i18n="footRS"></a><a href="#/delimitation" data-i18n="footDelim"></a><a href="#/onoe" data-i18n="footOnoe"></a><a href="#/boundaries" data-i18n="footBounds"></a><a href="#/tree" data-i18n="footTree"></a><a href="#/data" data-i18n="footData"></a><a href="#/changelog" data-i18n="footChangelog"></a></nav>
+<nav class="footlinks" id="footlinks" aria-label="More"><a href="#/how" data-i18n="footHow"></a><a href="#/calendar" data-i18n="footCal"></a><a href="#/predict" data-i18n="footPred"></a><a href="#/live" data-i18n="footLive"></a><a href="#/quiz" data-i18n="footQuiz"></a><a href="#/guess" data-i18n="footGuess"></a><a href="#/gallery" data-i18n="footGallery"></a><a href="#/glossary" data-i18n="footGlossary"></a><a href="#/rajyasabha" data-i18n="footRS"></a><a href="#/delimitation" data-i18n="footDelim"></a><a href="#/onoe" data-i18n="footOnoe"></a><a href="#/boundaries" data-i18n="footBounds"></a><a href="#/tree" data-i18n="footTree"></a><a href="#/data" data-i18n="footData"></a><a href="#/changelog" data-i18n="footChangelog"></a></nav>
 <footer class="footer" data-i18n="footer"></footer>
 </div>
 <div class="tip" id="tip"></div>
@@ -557,7 +607,7 @@ en: {
   heroSub: 'Pick any Lok Sabha or Vidhan Sabha election since 1951, shift the vote, and see which seats change hands.',
   startLS: 'Simulate Lok Sabha 2029', startLSsub: 'Starts from the 2024 result: 543 seats, 272 for a majority.',
   openSim: 'Open the simulator',
-  homeLive: 'Lok Sabha 2024 as it stands',
+  homeLive: 'The Lok Sabha as it stands',
   pickState: 'Pick a state', pickStateSub: 'Each opens the next election, starting from the latest result.',
   lastElection: 'Last election {y}, {n} seats',
   howTitle: 'How it works',
@@ -666,7 +716,7 @@ hi: {
   heroSub: '1951 से अब तक का कोई भी लोकसभा या विधानसभा चुनाव चुनें, वोट बदलें और देखें कौन-सी सीटें किसके हाथ जाती हैं।',
   startLS: 'लोकसभा 2029 का सिम्युलेशन करें', startLSsub: '2024 के नतीजे से शुरुआत: 543 सीटें, बहुमत के लिए 272।',
   openSim: 'सिम्युलेटर खोलें',
-  homeLive: 'लोकसभा 2024 की मौजूदा स्थिति',
+  homeLive: 'लोकसभा की मौजूदा स्थिति',
   pickState: 'राज्य चुनें', pickStateSub: 'हर राज्य अगला चुनाव खोलता है, जो पिछले नतीजे से शुरू होता है।',
   lastElection: 'पिछला चुनाव {y}, {n} सीटें',
   howTitle: 'यह कैसे काम करता है',
@@ -1763,16 +1813,20 @@ async function runScenario(n){
     const a = U.findIndex(g=>g.key==='AITC'); if(a>=0){ S.swing = {a:'AITC', b:'BJP', pts:0}; preset('waveA', a, U.findIndex(g=>g.key==='BJP'), a); } }
 }
 async function renderHome(){
-  // live chamber: 2024 Lok Sabha by alliance
-  let c;
-  if(INDEX.home) c = new Map(INDEX.home.groups);
+  // live chamber: the House as it stands now (ref/ls-now.json, from Wikipedia), or the 2024 result when that file is missing
+  let c, now = null; try{ now = await getJSON('ref/ls-now.json'); }catch(e){}
+  if(now) c = new Map(now.groups);
+  else if(INDEX.home) c = new Map(INDEX.home.groups);
   else { const e = (await bundle('ls')).find(x=>x.id==='ls-2024'); c = new Map();
     e.seats.forEach(s => { if(!s[4].length) return; const p = e.parties[s[4][0]], k = e.alliances[p] || p; c.set(k, (c.get(k)||0)+1); }); }
   const groups = [...c.entries()].sort((a,b)=>b[1]-a[1]).map(([k,n]) => ({k, n, c: k==='NDA' ? pColor('BJP') : k==='INDIA' ? pColor('INC') : pColor(k)}));
-  const main = groups.filter(g=>g.n>=5), oth = groups.filter(g=>g.n<5).reduce((a,g)=>a+g.n,0);
-  const shown = main.concat(oth ? [{k:'OTH', n:oth, c:'#B9BDC4'}] : []);
+  let shown;
+  if(now){ const col = {OTH:'#B9BDC4', VAC:'#E6E8EA'}; shown = now.groups.filter(g => g[1] > 0).map(([k, n]) => ({k, n, c: col[k] || (k==='NDA' ? pColor('BJP') : k==='INDIA' ? pColor('INC') : pColor(k))})); }
+  else { const main = groups.filter(g=>g.n>=5), oth = groups.filter(g=>g.n<5).reduce((a,g)=>a+g.n,0); shown = main.concat(oth ? [{k:'OTH', n:oth, c:'#B9BDC4'}] : []); }
   drawHemicycle($('#liveHemi'), shown, 543, 272, shown[0].n, t('needed',{n:272}));
-  $('#liveLegend').innerHTML = shown.map(g=>`<span><i class="sw" style="background:${g.c}"></i>${esc(g.k==='OTH'?t('others'):(HI_ALLY[g.k]&&LANG==='hi'?HI_ALLY[g.k]:(g.k.length<8&&g.k!=='IND'?g.k:pName(g.k))))} <b class="num">${g.n}</b></span>`).join('');
+  const liveName = k => k==='OTH' ? t(now ? 'homeUnaligned' : 'others') : k==='VAC' ? t('homeVacant') : (HI_ALLY[k]&&LANG==='hi' ? HI_ALLY[k] : (k.length<8&&k!=='IND' ? k : pName(k)));
+  $('#liveLegend').innerHTML = shown.map(g=>`<span><i class="sw" style="background:${g.c}"></i>${esc(liveName(g.k))} <b class="num">${g.n}</b></span>`).join('');
+  $('#liveNote').textContent = now ? t('homeLiveNote', {d: new Date(now.asof + 'T00:00:00').toLocaleDateString(LANG==='hi'?'hi-IN':'en-IN', {day:'numeric', month:'long', year:'numeric'})}) : '';
   // future builder
   const fw = $('#futWhere'), prevW = fw.value || 'LS';
   const lat = new Map(); INDEX.elections.forEach(x => { const key = x.kind==='LS' ? 'LS' : x.state; const l = lat.get(key); if(!l || x.year > l.year) lat.set(key, x); });
@@ -1787,7 +1841,7 @@ async function renderHome(){
   $('#stgrid').innerHTML = [...latest.values()].sort((a,b)=>stName(a.state).localeCompare(stName(b.state), LANG==='hi'?'hi':'en')).map(x => {
     const tot = x.top.reduce((a,b)=>a+b[1],0) || 1;
     return `<button class="stbtn" data-st="${esc(x.state)}" data-id="${x.id}"><b>${esc(stName(x.state))}</b><span>${esc(t('lastElection',{y:x.label, n:x.seats}))}</span><span class="bar">${x.top.map(([p,n])=>`<i style="width:${100*n/x.seats}%;background:${pColor(p)}"></i>`).join('')}</span></button>`; }).join('');
-  renderPollHome(); renderWhatIfHome();
+  renderPollHome(); renderWhatIfHome(); renderCalendarHome(); renderPlayHome();
   $('#stgrid').querySelectorAll('.stbtn').forEach(b => b.onclick = () => { S.tab = 'easy'; S.mode = 'party'; openSim('AE', b.dataset.st, 'next:'+b.dataset.id, true); });
 }
 function applyLang(){
@@ -2814,9 +2868,9 @@ addI18n('hi', {
 const PAGES = new Map();
 function showPageView(){ $('#home').hidden = true; $('#app').hidden = true; $('#seatview').hidden = true; $('#appPick').hidden = true; $('#tabbar').hidden = true; closeSheet(); $('#homeBtn').hidden = false; $('#pageview').hidden = false; document.body.classList.remove('inapp'); window.scrollTo(0, 0); }
 async function routePages(h){
-  const m = h.match(/^#\/([a-z-]+)$/); if(!m || !PAGES.has(m[1])) return false;
+  const m = h.match(/^#\/([a-z-]+)(?:\/([\w-]+))?$/); if(!m || !PAGES.has(m[1])) return false;
   showPageView(); const box = $('#pageview'); box.innerHTML = `<span class="loading"><i></i>${esc(t('loading'))}</span>`;
-  await PAGES.get(m[1])(box);
+  await PAGES.get(m[1])(box, m[2]);
   box.insertAdjacentHTML('beforeend', `<p style="margin-top:28px"><button class="btn" id="pgBack">← ${esc(t('footBack'))}</button></p>`);
   $('#pgBack').onclick = () => { location.hash = ''; };
   return true;
@@ -2910,6 +2964,9 @@ PAGES.set('glossary', async box => {
 
 // ---------- Changelog (#58) ----------
 const CHANGES = [
+  ['2026-10-25', 'feature', 'Election calendar, prediction challenge, live counting, games and scenario gallery', 'चुनाव कैलेंडर, भविष्यवाणी चुनौती, लाइव गिनती, खेल और परिदृश्य गैलरी', 'A calendar counts down to the next elections, each with a simulate button. Lock a seat prediction, share it, and get scored with a shareable card once the result is in. A live counting page fills the seat arc as you enter the count and compares it with your prediction and the exit polls, and can replay any past count. Guess the election and a ten-question polity quiz are built from the real data, and a scenario gallery holds featured scenarios and your own. There is no server, so predictions and scenarios stay in your browser and in the links you share.', 'कैलेंडर अगले चुनावों की गिनती दिखाता है, हर एक के साथ सिम्युलेट बटन। सीटों की भविष्यवाणी पक्की करें, शेयर करें, और नतीजा आने पर अंक व शेयर करने लायक कार्ड पाएँ। लाइव गिनती का पन्ना आपके डाले आँकड़ों से सीटों का अर्धवृत्त भरता है और उसकी तुलना आपकी भविष्यवाणी और एग्ज़िट पोल से करता है, और कोई भी पुरानी गिनती दोबारा चला सकता है। चुनाव पहचानो और दस प्रश्नों की राजनीति क्विज़ असली आँकड़ों से बने हैं, और परिदृश्य गैलरी में चुनिंदा परिदृश्य और आपके अपने हैं। कोई सर्वर नहीं है, इसलिए भविष्यवाणियाँ और परिदृश्य आपके ब्राउज़र और शेयर किए लिंकों में रहते हैं।'],
+  ['2026-10-25', 'data', 'The Lok Sabha as it stands', 'लोकसभा की मौजूदा स्थिति', 'The chamber on the home page now shows the sitting members as of 12 October 2026 from the Wikipedia Lok Sabha page: NDA 319, INDIA 181, independents 4, parties in neither bloc 37 and 2 vacant seats. Wikipedia counts 3 independents inside INDIA (184); Janadesh keeps independents on their own. The simulator still starts from the 2024 election result.', 'होम पन्ने का सदन अब विकिपीडिया के लोकसभा पन्ने से 12 अक्टूबर 2026 तक के मौजूदा सदस्य दिखाता है: एनडीए 319, इंडिया 181, निर्दलीय 4, किसी गुट में न आने वाले दल 37 और 2 ख़ाली सीटें। विकिपीडिया इंडिया में 3 निर्दलीय गिनता है (184); जनादेश निर्दलीयों को अलग रखता है। सिम्युलेटर अब भी 2024 के चुनावी नतीजे से शुरू होता है।'],
+  ['2026-10-25', 'fix', 'Reserved-seat labels corrected for Lok Sabha 2009 to 2024', 'लोकसभा 2009 से 2024 की आरक्षित सीटों के लेबल सुधारे गए', 'The SC and ST label had been swapped between neighbouring seats (Ahmedabad West and Surendranagar, Inner and Outer Manipur, Tripura East and West, Bangaon and Barrackpur, Dadra and Nagar Haveli and Daman and Diu, and five seats of Assam in 2024), and 2009 still carried the 2004 map with 93 SC and 55 ST seats. All four elections now have 84 SC and 47 ST seats, checked against the Wikipedia list of Lok Sabha constituencies. The 2004 labels, from before the 2008 delimitation, are not yet verified.', 'अनुसूचित जाति और जनजाति का लेबल पड़ोसी सीटों के बीच अदल-बदल गया था (अहमदाबाद पश्चिम और सुरेंद्रनगर, भीतरी और बाहरी मणिपुर, पूर्वी और पश्चिमी त्रिपुरा, बनगाँव और बैरकपुर, दादरा-नगर हवेली और दमन-दीव, और 2024 में असम की पाँच सीटें), और 2009 में अब भी 2004 का नक्शा था जिसमें 93 अनुसूचित जाति और 55 जनजाति की सीटें थीं। अब चारों चुनावों में 84 अनुसूचित जाति और 47 जनजाति की सीटें हैं, जिन्हें विकिपीडिया की लोकसभा चुनाव-क्षेत्रों की सूची से मिलाया गया है। 2004 के लेबल, जो 2008 के परिसीमन से पहले के हैं, अभी जाँचे नहीं गए हैं।'],
   ['2026-10-23', 'feature', 'A smarter model: core voters, waves, momentum and early signals', 'ज़्यादा समझदार मॉडल: कोर मतदाता, लहरें, गति और शुरुआती संकेत', 'A new Core + swing method moves the swing voters first and the core only in a wave; a wave tracker scores every past election; a momentum baseline averages the last four results in each seat; realistic mode stops swings that have never happened; and a signals tool reads the latest assembly results, 543 by-elections since 2014 and the big city corporations as hints for the next Lok Sabha.', 'नया कोर + स्विंग तरीक़ा पहले स्विंग वाले मतदाताओं को खिसकाता है और कोर को सिर्फ़ लहर में; लहर ट्रैकर हर पुराने चुनाव को अंक देता है; गति वाली शुरुआत हर सीट के पिछले चार नतीजों का औसत लेती है; यथार्थवादी मोड वे स्विंग रोकता है जो कभी हुए ही नहीं; और संकेत वाला औज़ार ताज़ा विधानसभा नतीजे, 2014 से 543 उप-चुनाव और बड़े नगर निगमों को अगली लोकसभा के संकेत की तरह पढ़ता है।'],
   ['2026-10-23', 'feature', 'What-if lab, voting systems, One Nation One Election, delimitation and Rajya Sabha', 'अगर-मगर लैब, मतदान प्रणालियाँ, एक देश एक चुनाव, परिसीमन और राज्यसभा', 'A new party, a party split, turnout shifts and a sitting-member penalty; the same votes counted under proportional and runoff systems; one national swing across every assembly; the Lok Sabha enlarged to 800 or more seats; and the Rajya Sabha with the electoral college for President.', 'एक नया दल, दल की टूट, मतदान में बदलाव और मौजूदा सदस्य का जुर्माना; वही वोट अनुपातिक और रनऑफ़ प्रणालियों में गिने हुए; हर विधानसभा में एक राष्ट्रीय स्विंग; 800 या ज़्यादा सीटों वाली लोकसभा; और राज्यसभा तथा राष्ट्रपति का निर्वाचक-मंडल।'],
   ['2026-10-23', 'feature', 'Chief ministers and by-elections', 'मुख्यमंत्री और उप-चुनाव', 'The chief ministers of every state with their terms, parties and the election they came in under; and the by-elections since the 2024 Lok Sabha result with a party scoreboard.', 'हर राज्य के मुख्यमंत्री, उनके कार्यकाल, दल और वह चुनाव जिसमें वे आए; और 2024 की लोकसभा के बाद के उप-चुनाव, दलों के स्कोरबोर्ड के साथ।'],
@@ -4174,6 +4231,805 @@ registerTool({id: 'local', label: 'toolLocal', sub: 'localSub', async render(bod
     <p class="small" style="margin:8px 0 0">${esc(t('localNote'))}</p>`;
   body.querySelectorAll('.lbar i').forEach(i => { i.style.height = '100%'; });
 }});
+
+
+// ======== feature: 280-calendar.js ========
+// Election calendar (#35): countdowns to the next elections with a "simulate now" button (page #/calendar). Data: source/ref/calendar.json.
+addI18n('en', {
+  footCal: 'Election calendar', calTitle: 'Election calendar', calLede: 'The next elections and how long to wait. Click one to simulate it now.', calAll: 'See the full calendar', calSim: 'Simulate now', calPredict: 'Predict',
+  calSub: 'Every house that faces voters next, soonest first. Each assembly serves five years, so the Election Commission votes a few months before the term ends; the exact days are announced only a few weeks ahead.',
+  calNote: 'Windows are estimates from each house\'s five-year term (listed as of {d}). They are not announcements: when the Election Commission fixes a schedule the exact date replaces the window here. A Census year or a political crisis can move an election.',
+  calNext: 'Next up', calIn: 'in {s}', calOn: 'on {d}', calWindowNow: 'The window is open now', calPassed: 'Window passed, date to be confirmed', calEndsIn: 'closes in {s}', calSched: 'Scheduled',
+  calExpected: 'Expected', calTermEnd: 'Term ends {m}', calLast: 'Last election {y}: {p} won {n}', calSeats: '{n} seats', calPres: 'Presidential election', calPresSub: 'MPs and MLAs vote as an electoral college. The President\'s five-year term ends in July 2027.', calPresGo: 'Electoral college tool',
+  calLS: 'Lok Sabha', calVS: '{s} Vidhan Sabha', calToday: 'today', calD1: '1 day', calDn: '{n} days', calM1: '1 month', calMn: '{n} months', calYm: '{y} years {m} months', calY1: '1 year', calYn: '{y} years',
+  calToEC: 'Election Commission of India', calCountdown: 'until the first expected polling month',
+});
+addI18n('hi', {
+  footCal: 'चुनाव कैलेंडर', calTitle: 'चुनाव कैलेंडर', calLede: 'अगले चुनाव और कितना इंतज़ार बाक़ी है। किसी पर क्लिक करके उसे अभी सिम्युलेट करें।', calAll: 'पूरा कैलेंडर देखें', calSim: 'अभी सिम्युलेट करें', calPredict: 'भविष्यवाणी',
+  calSub: 'अगली बार जनता के सामने जाने वाले हर सदन की सूची, जो सबसे पहले है वह ऊपर। हर विधानसभा पाँच साल चलती है, इसलिए चुनाव आयोग कार्यकाल ख़त्म होने से कुछ महीने पहले वोट कराता है; सही तारीख़ें कुछ हफ़्ते पहले ही घोषित होती हैं।',
+  calNote: 'ये अवधियाँ हर सदन के पाँच साल के कार्यकाल से लगाए अनुमान हैं ({d} तक की स्थिति)। ये घोषणाएँ नहीं हैं: जब चुनाव आयोग कार्यक्रम तय करेगा तो अवधि की जगह सही तारीख़ दिखेगी। जनगणना का साल या कोई राजनीतिक संकट चुनाव को खिसका सकता है।',
+  calNext: 'सबसे पहले', calIn: '{s} में', calOn: '{d} को', calWindowNow: 'अवधि अभी चल रही है', calPassed: 'अवधि बीत गई, तारीख़ तय होनी बाक़ी', calEndsIn: '{s} में ख़त्म', calSched: 'तय',
+  calExpected: 'अनुमानित', calTermEnd: 'कार्यकाल {m} में ख़त्म', calLast: 'पिछला चुनाव {y}: {p} ने {n} जीतीं', calSeats: '{n} सीटें', calPres: 'राष्ट्रपति चुनाव', calPresSub: 'सांसद और विधायक निर्वाचक-मंडल की तरह वोट डालते हैं। राष्ट्रपति का पाँच साल का कार्यकाल जुलाई 2027 में ख़त्म होता है।', calPresGo: 'निर्वाचक-मंडल का औज़ार',
+  calLS: 'लोकसभा', calVS: '{s} विधानसभा', calToday: 'आज', calD1: '1 दिन', calDn: '{n} दिन', calM1: '1 महीना', calMn: '{n} महीने', calYm: '{y} साल {m} महीने', calY1: '1 साल', calYn: '{y} साल',
+  calToEC: 'भारत निर्वाचन आयोग', calCountdown: 'पहले अनुमानित मतदान महीने तक',
+});
+let CAL = null;
+async function calData(){ if(!CAL){ try{ CAL = await getJSON('ref/calendar.json'); }catch(e){ CAL = {items: [], asof: ''}; } } return CAL; }
+const calLocale = () => LANG === 'hi' ? 'hi-IN' : 'en-IN';
+const ymStart = ym => new Date(+ym.slice(0, 4), +ym.slice(5, 7) - 1, 1);
+const ymEnd = ym => new Date(+ym.slice(0, 4), +ym.slice(5, 7), 0, 23, 59, 59);
+function calMonth(ym, withYear){ return ymStart(ym).toLocaleDateString(calLocale(), withYear ? {month: 'long', year: 'numeric'} : {month: 'long'}); }
+function calWindow(it){
+  if(it.date) return new Date(it.date + 'T00:00:00').toLocaleDateString(calLocale(), {day: 'numeric', month: 'long', year: 'numeric'});
+  if(it.from === it.to) return calMonth(it.from, true);
+  const y1 = it.from.slice(0, 4), y2 = it.to.slice(0, 4);
+  return y1 === y2 ? calMonth(it.from) + ' – ' + calMonth(it.to) + ' ' + y1 : calMonth(it.from, true) + ' – ' + calMonth(it.to, true);
+}
+// a span of days as plain words: "9 days", "5 months", "2 years 3 months"
+function calSpan(d){
+  d = Math.max(0, Math.round(d));
+  if(d === 0) return t('calToday');
+  if(d < 45) return d === 1 ? t('calD1') : t('calDn', {n: d});
+  const mo = Math.round(d / 30.44);
+  if(mo < 24) return mo === 1 ? t('calM1') : t('calMn', {n: mo});
+  const y = Math.floor(mo / 12), m = mo % 12;
+  return m ? t('calYm', {y, m}) : (y === 1 ? t('calY1') : t('calYn', {y}));
+}
+// where an item stands today: scheduled (exact date known), soon (window ahead), open (inside the window) or passed
+function calState(it, now){
+  if(it.date){ const d = (new Date(it.date + 'T00:00:00') - now) / 864e5; return {k: d >= -1 ? 'sched' : 'passed', d}; }
+  const a = ymStart(it.from), b = ymEnd(it.to);
+  if(now < a) return {k: 'soon', d: (a - now) / 864e5};
+  if(now <= b) return {k: 'open', d: (b - now) / 864e5};
+  return {k: 'passed', d: 0};
+}
+function calLatest(state){ let l = null; INDEX.elections.forEach(x => { if(x.kind === 'AE' && x.state === state && (!l || x.year > l.year)) l = x; }); return l; }
+function calTitle(it){ return it.kind === 'LS' ? t('calLS') + ' ' + it.from.slice(0, 4) : it.kind === 'PRES' ? t('calPres') + ' ' + it.from.slice(0, 4) : t('calVS', {s: stName(it.state)}) + ' ' + it.from.slice(0, 4); }
+function calGo(it){
+  S.tab = 'easy'; track('calendar_simulate', {id: it.id});
+  if(it.kind === 'PRES'){ location.hash = '#/rajyasabha'; return; }
+  if(it.kind === 'LS'){ const l = INDEX.elections.filter(e => e.kind === 'LS').sort((a, b) => b.year - a.year)[0]; location.hash = ''; S.mode = 'alliance'; openSim('LS', null, 'next:' + l.id); return; }
+  const l = calLatest(it.state); if(!l) return;
+  location.hash = ''; S.mode = 'party'; openSim('AE', it.state, 'next:' + l.id, true);
+}
+function calStatusLine(it, st){
+  if(st.k === 'sched') return `<b>${esc(t('calSched'))}: ${esc(calWindow(it))}</b> · ${esc(t('calIn', {s: calSpan(st.d)}))}`;
+  if(st.k === 'soon') return `<b>${esc(t('calIn', {s: calSpan(st.d)}))}</b> <span class="small">· ${esc(t('calExpected'))}: ${esc(calWindow(it))}</span>`;
+  if(st.k === 'open') return `<b>${esc(t('calWindowNow'))}</b> <span class="small">· ${esc(calWindow(it))} · ${esc(t('calEndsIn', {s: calSpan(st.d)}))}</span>`;
+  return `<b>${esc(t('calPassed'))}</b> <span class="small">· ${esc(calWindow(it))}</span>`;
+}
+function calCard(it, now){
+  const st = calState(it, now), l = it.kind === 'AE' ? calLatest(it.state) : it.kind === 'LS' ? INDEX.elections.filter(e => e.kind === 'LS').sort((a, b) => b.year - a.year)[0] : null;
+  const lead = l && l.top && l.top[0] ? l.top[0] : null;
+  const bits = [];
+  if(it.kind === 'PRES') bits.push(esc(t('calPresSub')));
+  else {
+    if(l) bits.push(esc(t('calSeats', {n: l.seats})));
+    if(it.termEnd) bits.push(esc(t('calTermEnd', {m: calMonth(it.termEnd, true)})));
+    if(lead) bits.push(esc(t('calLast', {y: l.label, p: pName(lead[0]), n: lead[1]})));
+  }
+  const color = it.kind === 'PRES' ? 'var(--violet)' : lead ? pColor(lead[0]) : '#9aa0aa';
+  return `<div class="calc ${st.k}" data-cal="${esc(it.id)}"><i style="background:${color}"></i><div><b class="calt">${esc(calTitle(it))}</b><p class="calst">${calStatusLine(it, st)}</p><p class="small" style="margin:0 0 8px">${bits.join(' · ')}</p>
+    <button class="btn small primary" data-cgo="${esc(it.id)}">${esc(it.kind === 'PRES' ? t('calPresGo') : t('calSim'))}</button></div></div>`;
+}
+async function calItems(){
+  const cal = await calData(), now = new Date();
+  const items = cal.items.filter(it => it.kind !== 'AE' || calLatest(it.state)).map(it => ({it, st: calState(it, now)}));
+  const key = o => o.it.date ? new Date(o.it.date + 'T00:00:00').getTime() : ymStart(o.it.from).getTime() + (o.st.k === 'passed' ? 1e13 : 0);
+  items.sort((a, b) => key(a) - key(b) || (a.it.state || a.it.id).localeCompare(b.it.state || b.it.id));
+  return {cal, now, items};
+}
+async function renderCalendarHome(){
+  const box = $('#calGrid'); if(!box) return;
+  const {now, items, cal} = await calItems(); if(!cal.items.length){ $('#calSec').hidden = true; return; }
+  const soon = items.filter(o => o.st.k !== 'passed').slice(0, 4);
+  box.innerHTML = soon.map(o => `<button class="scn" data-chome="${esc(o.it.id)}"><i style="background:${o.it.kind === 'PRES' ? 'var(--violet)' : (() => { const l = o.it.kind === 'AE' ? calLatest(o.it.state) : null; return l && l.top[0] ? pColor(l.top[0][0]) : '#9aa0aa'; })()}"></i><span><b>${esc(calTitle(o.it))}</b><br><span class="small">${calStatusLine(o.it, o.st)}</span></span></button>`).join('');
+  box.querySelectorAll('[data-chome]').forEach(b => b.onclick = () => calGo(cal.items.find(i => i.id === b.dataset.chome)));
+}
+PAGES.set('calendar', async box => {
+  const {cal, now, items} = await calItems();
+  const live = items.filter(o => o.st.k !== 'passed'), late = items.filter(o => o.st.k === 'passed'), first = live[0];
+  const years = new Map(); live.forEach(o => { const y = (o.it.date || o.it.from).slice(0, 4); if(!years.has(y)) years.set(y, []); years.get(y).push(o); });
+  box.innerHTML = `<article class="page" style="max-width:1000px"><h2>${esc(t('calTitle'))}</h2><p class="lede">${esc(t('calSub'))}</p>
+    ${first ? `<div class="calhero"><div><span class="small">${esc(t('calNext'))}</span><h3>${esc(calTitle(first.it))}</h3><p class="calbig">${esc(first.st.k === 'open' ? t('calWindowNow') : calSpan(first.st.d))}</p><p class="small" style="margin:0">${esc(first.st.k === 'open' ? calWindow(first.it) : t('calCountdown') + ' · ' + calWindow(first.it))}</p></div>
+      <button class="btn primary" data-cgo="${esc(first.it.id)}">${esc(first.it.kind === 'PRES' ? t('calPresGo') : t('calSim'))}</button></div>` : ''}
+    ${[...years.entries()].map(([y, list]) => `<h3 style="margin-top:22px">${esc(y)}</h3><div class="calgrid">${list.map(o => calCard(o.it, now)).join('')}</div>`).join('')}
+    ${late.length ? `<h3 style="margin-top:22px">${esc(t('calPassed'))}</h3><div class="calgrid">${late.map(o => calCard(o.it, now)).join('')}</div>` : ''}
+    <p class="small" style="margin-top:18px">${esc(t('calNote', {d: new Date(cal.asof + 'T00:00:00').toLocaleDateString(calLocale(), {day: 'numeric', month: 'long', year: 'numeric'})}))} <a href="https://www.eci.gov.in/" target="_blank" rel="noopener">${esc(t('calToEC'))} ↗</a></p></article>`;
+  box.querySelectorAll('[data-cgo]').forEach(b => b.onclick = () => calGo(cal.items.find(i => i.id === b.dataset.cgo)));
+});
+
+
+// ======== feature: 290-predict.js ========
+// Prediction challenge (#32) and the prediction-vs-reality card (#33), page #/predict.
+// There is no server: predictions live in this browser and in the links people share, and are scored against the real result as soon as that election is in the data.
+addI18n('en', {
+  footPred: 'Predictions', prTitle: 'Prediction challenge', prSub: 'Lock a seat prediction for an election that has not happened yet and share it. When the real result is added to Janadesh your prediction is scored, and you can make a card to post. Add your friends\' links to see who called it best.',
+  prHow1: 'Open an upcoming election and set the vote shares you expect.', prHow2: 'Press Share, then "Lock as my prediction".', prHow3: 'Share the link. Once the result is in, it is scored here.',
+  prNote: 'Predictions are kept in this browser and in the links you share. There is no server, so there is no global leaderboard, and the lock time comes from your own clock and cannot be verified. Share the link before the result so that it counts.',
+  prLockBtn: 'Lock as my prediction', prLockTitle: 'Lock your prediction', prLockHint: 'This saves the seats you see now. The simulator keeps working and you can lock again with new numbers, but every lock is kept exactly as it was.',
+  prName: 'Your name or handle', prNamePh: 'for example @janadesh', prLockDo: 'Lock it', prNeedFuture: 'Predictions are for elections still to come. Open one under "Future elections" first.',
+  prLocked: 'Prediction locked', prLinkHint: 'Share this link. It shows your seats and opens your scenario.', prMine: 'My predictions', prNone: 'You have not locked a prediction yet.',
+  prWait: 'Waiting for the result', prIn: 'Result is in', prAnon: 'Anonymous', prLockedOn: 'locked {d}', prAcc: 'Seat accuracy', prOff: '{n} seats away from the result', prWinner: 'Called the winner', prMaj: 'Called the majority', prYes: 'Yes', prNo: 'No',
+  prPred: 'Predicted', prAct: 'Result', prDiff: 'Difference', prCard: 'Make a card', prCopy: 'Copy link', prDel: 'Delete', prOpenScn: 'Open the scenario', prOwn: 'Make my own prediction', prAdd: 'Add to my league', prAdded: 'Added to your league',
+  prShared: 'A shared prediction', prLeague: 'League', prLeagueSub: 'Predictions for the same election, best first once the result is in. Paste a friend\'s link to add theirs.', prPaste: 'Paste a prediction link', prPasteDo: 'Add', prBadLink: 'That is not a prediction link',
+  prRank: 'Rank', prWho: 'Name', prLead: 'Predicted lead', prRem: 'Remove', prCardHead: '{n}\'s prediction', prCardWait: 'Result not in yet', prNext: 'Make a prediction', prNextSub: 'Pick an upcoming election, set your vote shares, then press Share and "Lock as my prediction".',
+  prLate: 'Practice: locked after the election', prImg: 'Prediction card', prTextWait: '🗳️ My Janadesh prediction for {t}: {p}. Locked {d}. Make yours:', prTextDone: '🗳️ My Janadesh prediction for {t}: {p}. The result: {a}. {c}% of seats placed right.', prSeatsOf: '{n} of {m} seats', prNoResult: 'No result yet', prGone: 'This election is not in the data.',
+});
+addI18n('hi', {
+  footPred: 'भविष्यवाणियाँ', prTitle: 'भविष्यवाणी चुनौती', prSub: 'जो चुनाव अभी हुआ नहीं उसके लिए सीटों की भविष्यवाणी पक्की करें और शेयर करें। असली नतीजा जनादेश में जुड़ते ही आपकी भविष्यवाणी को अंक मिलेंगे, और आप पोस्ट करने के लिए कार्ड बना सकेंगे। दोस्तों के लिंक जोड़कर देखें किसने सबसे सही अंदाज़ा लगाया।',
+  prHow1: 'कोई आने वाला चुनाव खोलें और अपने अनुमान के वोट हिस्से लगाएँ।', prHow2: 'शेयर दबाएँ, फिर "मेरी भविष्यवाणी पक्की करें"।', prHow3: 'लिंक शेयर करें। नतीजा आते ही यहाँ अंक मिल जाएँगे।',
+  prNote: 'भविष्यवाणियाँ इसी ब्राउज़र में और आपके शेयर किए लिंकों में रहती हैं। कोई सर्वर नहीं है, इसलिए कोई वैश्विक लीडरबोर्ड नहीं है, और पक्की करने का समय आपकी अपनी घड़ी से आता है, जिसकी जाँच नहीं हो सकती। नतीजे से पहले लिंक शेयर करें ताकि वह गिना जाए।',
+  prLockBtn: 'मेरी भविष्यवाणी पक्की करें', prLockTitle: 'अपनी भविष्यवाणी पक्की करें', prLockHint: 'इससे अभी दिख रही सीटें सुरक्षित हो जाती हैं। सिम्युलेटर चलता रहता है और आप नए आँकड़ों के साथ फिर पक्की कर सकते हैं, पर हर बार की भविष्यवाणी जस की तस रहती है।',
+  prName: 'आपका नाम या हैंडल', prNamePh: 'जैसे @janadesh', prLockDo: 'पक्की करें', prNeedFuture: 'भविष्यवाणी आने वाले चुनावों के लिए है। पहले "आने वाले चुनाव" में से कोई खोलें।',
+  prLocked: 'भविष्यवाणी पक्की हो गई', prLinkHint: 'यह लिंक शेयर करें। इसमें आपकी सीटें दिखती हैं और आपका परिदृश्य खुलता है।', prMine: 'मेरी भविष्यवाणियाँ', prNone: 'आपने अभी कोई भविष्यवाणी पक्की नहीं की है।',
+  prWait: 'नतीजे का इंतज़ार', prIn: 'नतीजा आ गया', prAnon: 'अनाम', prLockedOn: '{d} को पक्की की', prAcc: 'सीटों की सटीकता', prOff: 'नतीजे से {n} सीटें दूर', prWinner: 'विजेता सही बताया', prMaj: 'बहुमत सही बताया', prYes: 'हाँ', prNo: 'नहीं',
+  prPred: 'भविष्यवाणी', prAct: 'नतीजा', prDiff: 'अंतर', prCard: 'कार्ड बनाएँ', prCopy: 'लिंक कॉपी करें', prDel: 'हटाएँ', prOpenScn: 'परिदृश्य खोलें', prOwn: 'अपनी भविष्यवाणी करें', prAdd: 'मेरी लीग में जोड़ें', prAdded: 'आपकी लीग में जुड़ गई',
+  prShared: 'शेयर की गई भविष्यवाणी', prLeague: 'लीग', prLeagueSub: 'एक ही चुनाव की भविष्यवाणियाँ, नतीजा आने पर सबसे सही ऊपर। दोस्त का लिंक चिपकाकर उसकी जोड़ें।', prPaste: 'भविष्यवाणी का लिंक चिपकाएँ', prPasteDo: 'जोड़ें', prBadLink: 'यह भविष्यवाणी का लिंक नहीं है',
+  prRank: 'क्रम', prWho: 'नाम', prLead: 'बताई बढ़त', prRem: 'हटाएँ', prCardHead: '{n} की भविष्यवाणी', prCardWait: 'नतीजा अभी नहीं आया', prNext: 'भविष्यवाणी करें', prNextSub: 'कोई आने वाला चुनाव चुनें, वोट हिस्से लगाएँ, फिर शेयर दबाकर "मेरी भविष्यवाणी पक्की करें" चुनें।',
+  prLate: 'अभ्यास: चुनाव के बाद पक्की की गई', prImg: 'भविष्यवाणी कार्ड', prTextWait: '🗳️ {t} के लिए जनादेश पर मेरी भविष्यवाणी: {p}। {d} को पक्की की। आप भी करें:', prTextDone: '🗳️ {t} के लिए जनादेश पर मेरी भविष्यवाणी: {p}। नतीजा: {a}। {c}% सीटें सही बैठीं।', prSeatsOf: '{m} में से {n} सीटें', prNoResult: 'अभी नतीजा नहीं', prGone: 'यह चुनाव डेटा में नहीं है।',
+});
+
+// ---------- one image dialog for every card in this file and the games ----------
+async function imageModal(o){
+  let cur = o.fmt || 'wide';
+  const show = async f => {
+    cur = f; modal(`<h3>${esc(o.title)}</h3><p class="small">${esc(t('imgBusy'))}</p>`);
+    const c = await o.compose(cur), url = c.toDataURL('image/png'), blob = await new Promise(r => c.toBlob(r, 'image/png')), file = new File([blob], o.file, {type: 'image/png'});
+    const canShareFile = navigator.canShare && navigator.canShare({files: [file]}), canCopy = navigator.clipboard && window.ClipboardItem;
+    modal(`<h3>${esc(o.title)}</h3>
+      <div class="row" style="margin-bottom:8px"><div class="seg" role="group" aria-label="Format"><button data-f="wide" aria-pressed="${cur === 'wide'}">${esc(t('fmtWide'))}</button><button data-f="story" aria-pressed="${cur === 'story'}">${esc(t('fmtStory'))}</button></div></div>
+      <img src="${url}" alt="${esc(o.title)}" style="width:100%;max-height:60vh;object-fit:contain;border:1px solid var(--line);border-radius:8px">
+      <div class="row" style="margin-top:8px"><a class="btn primary" href="${url}" download="${esc(o.file)}">${esc(t('downloadPng'))}</a>${canCopy ? `<button class="btn" id="imgCopy2">${esc(t('copyImage'))}</button>` : ''}${canShareFile ? `<button class="btn" id="imgShare2">${esc(t('shareNative'))}</button>` : ''}<button class="btn" data-close>${esc(t('close'))}</button></div>`);
+    document.querySelectorAll('#modalRoot [data-f]').forEach(b => b.onclick = () => show(b.dataset.f));
+    const cp = $('#imgCopy2'); if(cp) cp.onclick = async () => { try{ await navigator.clipboard.write([new ClipboardItem({'image/png': blob})]); toast(t('imageCopied')); }catch(e){ toast(t('copyBlocked')); } };
+    const sh = $('#imgShare2'); if(sh) sh.onclick = () => navigator.share({files: [file], title: o.title, text: o.text || ''}).catch(() => {});
+  };
+  await show(cur);
+}
+async function cardFonts(){ try{ await Promise.all(['800 40px "Anek Latin"', '600 24px "Hind"', '700 30px "Anek Devanagari"'].map(f => document.fonts.load(f, 'Aअ'))); }catch(e){} }
+// draw the seat arc onto a canvas at (x, y) with width w; returns the height used
+function hemiOnCanvas(g, groups, N, maj, center, sub, x, y, w, ink, muted){
+  const d = document.createElement('div'); drawHemicycle(d, groups, N, maj, center, sub); const k = w / 520;
+  d.querySelectorAll('circle').forEach(ci => { g.fillStyle = ci.getAttribute('fill'); g.beginPath(); g.arc(x + (+ci.getAttribute('cx')) * k, y + (+ci.getAttribute('cy')) * k, (+ci.getAttribute('r')) * k, 0, Math.PI * 2); g.fill(); });
+  g.textAlign = 'center'; g.fillStyle = ink; g.font = `800 ${Math.round(46 * k)}px "Anek Latin", system-ui`; g.fillText(String(center), x + 260 * k, y + 270 * k);
+  g.fillStyle = muted; g.font = `500 ${Math.round(19 * k)}px "Hind", system-ui`; g.fillText(sub, x + 260 * k, y + 226 * k); g.textAlign = 'left';
+  return 290 * k;
+}
+function cardFrame(g, W, H, wide, pad, col){
+  g.fillStyle = '#fff'; g.fillRect(0, 0, W, H); g.fillStyle = col('--violet'); g.fillRect(0, 0, wide ? 10 : 14, H); g.textBaseline = 'alphabetic';
+  g.fillStyle = col('--violet'); g.font = `800 ${wide ? 21 : 30}px "Anek Latin","Anek Devanagari", system-ui`; g.fillText('JANADESH  जनादेश', pad, wide ? 30 : 56);
+  g.font = `500 ${wide ? 18 : 26}px "Hind", system-ui`; g.fillStyle = col('--muted'); g.textAlign = 'right'; g.fillText('janadesh-smoky.vercel.app', W - pad, wide ? 30 : 56); g.textAlign = 'left';
+}
+
+// ---------- the records ----------
+const predDate = iso => new Date(iso).toLocaleDateString(calLocale(), {day: 'numeric', month: 'short', year: 'numeric'});
+const predTitle = p => p.kind === 'LS' ? t('titleLS', {y: p.y}) : t('titleAE', {s: stName(p.state), y: p.y});
+function predName(key, nm){ if(key === 'OTH') return t('others'); if(key.startsWith('A:')) return allyName(key.slice(2)); return META[key] || S.partyEdit[key] ? pName(key) : (nm || key); }
+function predUnits(p){ return p.u.map(([key, seats, vote, nm, hex]) => ({key, seats, vote, name: predName(key, nm), hex: hex || (key === 'OTH' ? '#9aa0aa' : pColor(key.replace(/^A:/, '')))})).sort((a, b) => b.seats - a.seats || b.vote - a.vote); }
+function predShort(p, n){ return predUnits(p).filter(u => u.key !== 'OTH' && u.seats > 0).slice(0, n || 3).map(u => `${u.name} ${u.seats}`).join(', '); }
+function predLink(p){ const s = Object.assign({}, p); delete s.id; return location.origin + location.pathname + '#/predict/' + encodeScenario(s); }
+function predTarget(p){
+  const base = INDEX.elections.find(e => e.id === p.e); if(!base) return null;
+  const later = INDEX.elections.filter(e => e.kind === base.kind && e.state === base.state && (e.year > base.year || (e.year === base.year && e.label > base.label))).sort((a, b) => a.year - b.year || a.label.localeCompare(b.label));
+  return later[(p.a || 1) - 1] || null;
+}
+const PRED_SCORES = new Map();
+// compare the predicted seats with the real result of the election that followed (null while that election is not in the data)
+async function predScore(p){
+  const key = p.at + '|' + p.e + '|' + p.a + '|' + p.mode;
+  if(PRED_SCORES.has(key)) return PRED_SCORES.get(key);
+  const tgt = predTarget(p); let out = null;
+  if(tgt){
+    const raw = (await bundle(tgt.file)).find(e => e.id === tgt.id), base = INDEX.elections.find(e => e.id === p.e);
+    if(raw){
+      const baseRaw = p.mode === 'alliance' ? (await bundle(base.file)).find(e => e.id === p.e) : null;
+      const ally = Object.assign({}, raw.alliances || {}, (baseRaw && baseRaw.alliances) || {}, (p.sc && p.sc.allyEdit) || {}); for(const k in ally) if(!ally[k]) delete ally[k];
+      const cnt = new Map(); let N = 0;
+      raw.seats.forEach(s => { if(!s[4].length) return; const c = raw.parties[s[4][0]], m = s[6] || 1; N += m; const k = p.mode === 'alliance' && c !== 'OTH' && ally[c] ? 'A:' + ally[c] : c; cnt.set(k, (cnt.get(k) || 0) + m); });
+      const units = predUnits(p), rows = units.map(u => { const a = cnt.get(u.key) || 0; cnt.delete(u.key); return {key: u.key, name: u.name, hex: u.hex, pred: u.seats, act: a}; });
+      let rest = 0; cnt.forEach(v => rest += v);
+      if(rest){ let o = rows.find(r => r.key === 'OTH'); if(!o){ o = {key: 'OTH', name: t('others'), hex: '#9aa0aa', pred: 0, act: 0}; rows.push(o); } o.act += rest; }
+      const maj = Math.floor(N / 2) + 1, off = rows.reduce((a, r) => a + Math.abs(r.pred - r.act), 0) / 2;
+      const real = rows.filter(r => r.key !== 'OTH'), leadP = real.slice().sort((a, b) => b.pred - a.pred)[0], leadA = real.slice().sort((a, b) => b.act - a.act)[0];
+      const majP = rows.find(r => r.pred >= maj), majA = rows.find(r => r.act >= maj);
+      out = {tgt, rows, N, maj, off, late: new Date(p.at).getFullYear() > tgt.year, acc: Math.max(0, 1 - off / N), winnerOK: !!(leadP && leadA && leadP.key === leadA.key), majOK: (majP ? majP.key : '') === (majA ? majA.key : ''), leadA};
+    }
+  }
+  PRED_SCORES.set(key, out); return out;
+}
+const pct1 = x => (Math.round(x * 1000) / 10).toFixed(1);
+
+// ---------- locking ----------
+function lockModal(){
+  if(!S.next || !E || !RES){ toast(t('prNeedFuture')); return; }
+  modal(`<h3>${esc(t('prLockTitle'))}</h3><p class="small">${esc(t('prLockHint'))}</p>
+    <p style="margin:6px 0"><b>${esc($('#title').textContent)}</b><br>${esc(plain($('#verdict').innerHTML))}</p>
+    <label class="stack" style="gap:4px"><span>${esc(t('prName'))}</span><input class="inp" id="prNm" maxlength="40" value="${esc(store.get('predName', ''))}" placeholder="${esc(t('prNamePh'))}"></label>
+    <div class="row" style="margin-top:10px"><button class="btn primary" id="prDo">${esc(t('prLockDo'))}</button><button class="btn" data-close>${esc(t('close'))}</button></div>`);
+  $('#prDo').onclick = () => {
+    const ent = entry(), name = $('#prNm').value.trim(); store.set('predName', name);
+    const sc = scenarioForLink(), seatsLeft = U.map((g, k) => [g.key, RES.counts[k], Math.round(RES.T[k] * 10) / 10, g.name, g.hex]).filter(u => u[1] > 0 || u[2] >= 1);
+    const p = {v: 1, id: Date.now().toString(36), n: name, at: new Date().toISOString(), e: S.eid, a: S.ahead || 1, kind: ent.kind, state: ent.state, y: nextYear(ent), mode: S.mode, N: E.N, u: seatsLeft, sc};
+    const all = store.get('preds', []); all.unshift(p); store.set('preds', all.slice(0, 40)); track('prediction_lock', {e: S.eid});
+    modal(`<h3>${esc(t('prLocked'))}</h3><p class="small">${esc(t('prLinkHint'))}</p><input class="inp" id="prUrl" readonly value="${esc(predLink(p))}" style="width:100%;margin:6px 0 10px" aria-label="${esc(t('prCopy'))}">
+      <div class="row"><button class="btn primary" id="prCp">${esc(t('prCopy'))}</button>${navigator.share ? `<button class="btn" id="prSh">${esc(t('shareNative'))}</button>` : ''}<button class="btn" id="prGo">${esc(t('prMine'))}</button><button class="btn" data-close>${esc(t('close'))}</button></div>`);
+    $('#prUrl').onfocus = e => e.target.select();
+    $('#prCp').onclick = () => copy(predLink(p), t('linkCopied'));
+    const sh = $('#prSh'); if(sh) sh.onclick = () => navigator.share({title: predTitle(p), text: t('prTextWait', {t: predTitle(p), p: predShort(p, 3), d: predDate(p.at)}), url: predLink(p)}).catch(() => {});
+    $('#prGo').onclick = () => { $('#modalRoot').innerHTML = ''; location.hash = '#/predict'; };
+  };
+  setTimeout(() => { const i = $('#prNm'); if(i) i.focus(); }, 30);
+}
+SHARE_ACTIONS.push({k: 'prLockBtn', run: lockModal});
+
+// ---------- the card ----------
+async function predCard(p, sc, fmt){
+  const wide = fmt !== 'story', W = wide ? 1200 : 1080, H = wide ? 675 : 1920, pad = wide ? 48 : 56;
+  const c = document.createElement('canvas'); c.width = W; c.height = H; const g = c.getContext('2d'), cs = getComputedStyle(document.documentElement), col = n => cs.getPropertyValue(n).trim() || '#000';
+  await cardFonts(); cardFrame(g, W, H, wide, pad, col);
+  const units = predUnits(p), maj = Math.floor(p.N / 2) + 1, name = p.n || t('prAnon'), top = units.filter(u => u.seats > 0), mk = list => list.map(u => ({n: u.seats, c: u.hex}));
+  g.fillStyle = col('--ink'); g.font = `700 ${wide ? 38 : 62}px "Anek Latin","Anek Devanagari", system-ui`;
+  let y = wide ? 82 : 150; y = wrapText(g, t('prCardHead', {n: name}), pad, y, W - 2 * pad, wide ? 44 : 72, 2) - (wide ? 8 : 12);
+  g.font = `500 ${wide ? 22 : 34}px "Hind", system-ui`; g.fillStyle = col('--muted'); g.fillText(predTitle(p) + ' · ' + t('prLockedOn', {d: predDate(p.at)}), pad, y + (wide ? 4 : 8));
+  const label = (txt, x, yy, w) => { g.fillStyle = col('--ink'); g.font = `700 ${wide ? 20 : 32}px "Anek Latin","Anek Devanagari", system-ui`; g.textAlign = 'center'; g.fillText(txt, x + w / 2, yy); g.textAlign = 'left'; };
+  const ink = col('--ink'), muted = col('--muted'), hy = wide ? 166 : y + 70;
+  const rowsAt = (rows, ry, rh, right1, right2) => rows.forEach((r, j) => { const yy = ry + j * rh, d = r.act - r.pred;
+    g.fillStyle = r.hex; g.fillRect(pad, yy - (wide ? 18 : 30), wide ? 18 : 30, wide ? 18 : 30);
+    g.fillStyle = ink; g.font = `600 ${wide ? 22 : 36}px "Hind", system-ui`; g.fillText(r.name.slice(0, 22), pad + (wide ? 28 : 46), yy);
+    g.textAlign = 'right'; g.font = `800 ${wide ? 24 : 40}px "Anek Latin", system-ui`; g.fillText(`${r.pred} → ${r.act}`, right1, yy);
+    g.font = `600 ${wide ? 18 : 30}px "Hind", system-ui`; g.fillStyle = d === 0 ? muted : d > 0 ? col('--good') : col('--bad'); g.fillText((d > 0 ? '+' : '') + d, right2, yy); g.textAlign = 'left'; });
+  if(sc){
+    const actU = sc.rows.filter(r => r.act > 0).sort((a, b) => b.act - a.act), hw = wide ? 360 : 760;
+    const x1 = wide ? pad : (W - hw) / 2, x2 = wide ? pad + hw + 30 : x1;
+    label(t('prPred'), x1, hy, hw);
+    const h1 = hemiOnCanvas(g, mk(top), p.N, maj, top[0] ? top[0].seats : 0, t('needed', {n: maj}), x1, hy + 18, hw, ink, muted);
+    const y2 = wide ? hy : hy + 18 + h1 + 40;
+    label(t('prAct'), x2, y2, hw);
+    hemiOnCanvas(g, actU.map(r => ({n: r.act, c: r.hex})), sc.N, sc.maj, actU[0] ? actU[0].act : 0, t('needed', {n: sc.maj}), x2, y2 + 18, hw, ink, muted);
+    const bottom = y2 + 18 + h1;
+    const rows = sc.rows.filter(r => r.key !== 'OTH' && (r.pred || r.act)).sort((a, b) => Math.max(b.pred, b.act) - Math.max(a.pred, a.act)).slice(0, wide ? 4 : 6);
+    const stat = (ax, ay, w) => {
+      g.fillStyle = col('--violet'); g.font = `800 ${wide ? 76 : 130}px "Anek Latin", system-ui`; g.fillText(Math.round(sc.acc * 100) + '%', ax, ay + (wide ? 40 : 100));
+      const tx = wide ? ax : ax + 400, tw = wide ? w : w - 400, ty = wide ? ay + 76 : ay + 34;
+      g.fillStyle = muted; g.font = `500 ${wide ? 20 : 32}px "Hind", system-ui`; const yb = wrapText(g, t('prAcc') + ' · ' + t('prOff', {n: sc.off}), tx, ty, tw, wide ? 26 : 40, 2);
+      g.fillStyle = sc.winnerOK ? col('--good') : col('--bad'); g.font = `600 ${wide ? 20 : 32}px "Hind", system-ui`; g.fillText((sc.winnerOK ? '✓ ' : '✗ ') + t('prWinner'), tx, yb + (wide ? 28 : 12));
+      g.fillStyle = sc.majOK ? col('--good') : col('--bad'); g.fillText((sc.majOK ? '✓ ' : '✗ ') + t('prMaj'), tx, yb + (wide ? 60 : 56)); };
+    if(wide){ stat(x2 + hw + 40, hy + 40, W - (x2 + hw + 40) - pad); rowsAt(rows, bottom + 36, 34, 620, 690); }
+    else { stat(pad, bottom + 40, W - 2 * pad); rowsAt(rows, bottom + 320, 56, W - pad - 120, W - pad); }
+    if(sc.late){ g.fillStyle = col('--warn'); g.font = `600 ${wide ? 20 : 30}px "Hind", system-ui`; g.fillText(t('prLate'), pad, H - (wide ? 24 : 40)); }
+  } else {
+    const hw = wide ? 470 : 800, h1 = hemiOnCanvas(g, mk(top), p.N, maj, top[0] ? top[0].seats : 0, t('needed', {n: maj}), wide ? pad : (W - hw) / 2, hy - 20, hw, ink, muted);
+    const rx = wide ? pad + hw + 50 : pad, ry = wide ? hy + 10 : hy - 20 + h1 + 50, rh = wide ? 48 : 70;
+    top.slice(0, wide ? 6 : 8).forEach((u, j) => { const yy = ry + j * rh + 30;
+      g.fillStyle = u.hex; g.fillRect(rx, yy - (wide ? 22 : 34), wide ? 22 : 34, wide ? 22 : 34); g.fillStyle = ink; g.font = `600 ${wide ? 28 : 42}px "Hind", system-ui`; g.fillText(u.name.slice(0, 22), rx + (wide ? 34 : 50), yy);
+      g.textAlign = 'right'; g.font = `800 ${wide ? 32 : 50}px "Anek Latin", system-ui`; g.fillText(String(u.seats), W - pad, yy); g.textAlign = 'left'; });
+    g.fillStyle = col('--warn'); g.font = `600 ${wide ? 20 : 30}px "Hind", system-ui`; g.fillText(t('prCardWait'), pad, H - (wide ? 24 : 40));
+  }
+  return c;
+}
+function predImage(p, sc){ return imageModal({title: t('prImg'), file: 'janadesh-prediction.png', compose: f => predCard(p, sc, f), text: sc ? t('prTextDone', {t: predTitle(p), p: predShort(p, 3), a: sc.rows.filter(r => r.act > 0).sort((a, b) => b.act - a.act).slice(0, 3).map(r => `${r.name} ${r.act}`).join(', '), c: pct1(sc.acc)}) + ' ' + predLink(p) : t('prTextWait', {t: predTitle(p), p: predShort(p, 3), d: predDate(p.at)}) + ' ' + predLink(p)}); }
+
+// ---------- the page ----------
+function predBlock(p, sc, idx, opts){
+  const units = predUnits(p), maj = Math.floor(p.N / 2) + 1, tgt = predTarget(p);
+  const head = `<h3 style="font-size:19px;margin:0">${esc(predTitle(p))}</h3><p class="small" style="margin:2px 0 8px">${esc(p.n || t('prAnon'))} · ${esc(t('prLockedOn', {d: predDate(p.at)}))} · ${sc ? (sc.late ? `<b style="color:var(--warn)">${esc(t('prLate'))}</b>` : `<b style="color:var(--good)">${esc(t('prIn'))}</b>`) : esc(t('prWait'))}</p>`;
+  const table = sc ? `<div class="tw"><table class="tbl"><thead><tr><th>${esc(t('thParty'))}</th><th>${esc(t('prPred'))}</th><th>${esc(t('prAct'))}</th><th>${esc(t('prDiff'))}</th></tr></thead><tbody>${sc.rows.filter(r => r.pred || r.act).sort((a, b) => Math.max(b.pred, b.act) - Math.max(a.pred, a.act)).map(r => { const d = r.act - r.pred; return `<tr><td><span class="pname"><i class="sw" style="background:${r.hex}"></i><span>${esc(r.name)}</span></span></td><td class="num">${r.pred}</td><td class="num"><b>${r.act}</b></td><td class="num ${d > 0 ? 'up' : d < 0 ? 'down' : ''}">${d > 0 ? '+' : ''}${d}</td></tr>`; }).join('')}</tbody></table></div>`
+    : `<div class="tw"><table class="tbl"><thead><tr><th>${esc(t('thParty'))}</th><th>${esc(t('thVotes'))}</th><th>${esc(t('thSeats'))}</th></tr></thead><tbody>${units.filter(u => u.seats > 0 || u.vote >= 3).map(u => `<tr><td><span class="pname"><i class="sw" style="background:${u.hex}"></i><span>${esc(u.name)}</span></span></td><td class="num">${fmt1(u.vote)}%</td><td class="num"><b>${u.seats}</b></td></tr>`).join('')}</tbody></table></div>`;
+  const stats = sc ? `<div class="predstat"><div><b>${pct1(sc.acc)}%</b><span>${esc(t('prAcc'))}</span><span class="small">${esc(t('prOff', {n: sc.off}))}</span></div><div><b class="${sc.winnerOK ? 'up' : 'down'}">${esc(t(sc.winnerOK ? 'prYes' : 'prNo'))}</b><span>${esc(t('prWinner'))}</span></div><div><b class="${sc.majOK ? 'up' : 'down'}">${esc(t(sc.majOK ? 'prYes' : 'prNo'))}</b><span>${esc(t('prMaj'))}</span></div></div>` : '';
+  const btns = opts.shared
+    ? `<button class="btn primary" data-pa="own">${esc(t('prOwn'))}</button><button class="btn" data-pa="scn">${esc(t('prOpenScn'))}</button><button class="btn" data-pa="add">${esc(t('prAdd'))}</button><button class="btn" data-pa="card">${esc(t('prCard'))}</button>`
+    : `<button class="btn primary" data-pa="card">${esc(t('prCard'))}</button><button class="btn" data-pa="scn">${esc(t('prOpenScn'))}</button><button class="btn" data-pa="link">${esc(t('prCopy'))}</button>${opts.mine ? `<button class="btn" data-pa="del">${esc(t('prDel'))}</button>` : ''}`;
+  return `<section class="card predbox" data-pi="${idx}">${head}${stats}<div class="predhemi"><div><div class="small" style="text-align:center">${esc(t('prPred'))}</div><div data-hp="pred"></div></div>${sc ? `<div><div class="small" style="text-align:center">${esc(t('prAct'))}</div><div data-hp="act"></div></div>` : ''}</div>${table}<div class="row" style="margin:10px 0 4px">${btns}</div></section>`;
+}
+async function predOwn(p){
+  S.tab = 'easy'; location.hash = '';
+  if(p.kind === 'LS'){ S.mode = 'alliance'; await openSim('LS', null, 'next' + (p.a || 1) + ':' + p.e); }
+  else { S.mode = 'party'; await openSim('AE', p.state, 'next' + (p.a || 1) + ':' + p.e, true); }
+}
+PAGES.set('predict', async (box, arg) => {
+  const mine = store.get('preds', []), league = store.get('league', []);
+  let shared = null; if(arg){ try{ shared = decodeScenario(arg); if(!shared || !shared.u || !shared.e) shared = null; }catch(e){ shared = null; } if(!shared) toast(t('prBadLink')); }
+  const entries = [];   // everything drawn with blocks: {p, opts}
+  if(shared) entries.push({p: shared, opts: {shared: true}});
+  mine.forEach(p => entries.push({p, opts: {mine: true}}));
+  for(const en of entries) en.sc = en.p.e && INDEX.elections.some(e => e.id === en.p.e) ? await predScore(en.p) : null;
+  const lg = [...mine.map(p => ({p, who: 'me'})), ...league.map(p => ({p, who: 'friend'}))];
+  const groups = new Map(); lg.forEach(o => { const k = o.p.e + '|' + (o.p.a || 1); if(!groups.has(k)) groups.set(k, []); groups.get(k).push(o); });
+  for(const list of groups.values()) for(const o of list) o.sc = INDEX.elections.some(e => e.id === o.p.e) ? await predScore(o.p) : null;
+  const leagueHTML = [...groups.values()].filter(l => l.length > 1 || l.some(o => o.who === 'friend')).map(list => {
+    const done = list.some(o => o.sc); const sk = o => o.sc && !o.sc.late ? o.sc.acc : -1; list.sort((a, b) => done ? (sk(b) - sk(a)) : (a.p.at < b.p.at ? -1 : 1));
+    return `<h4 style="margin:14px 0 4px">${esc(predTitle(list[0].p))}</h4><div class="tw"><table class="tbl"><thead><tr><th>${esc(t('prRank'))}</th><th>${esc(t('prWho'))}</th><th>${esc(t('prLead'))}</th><th>${esc(t('prAcc'))}</th><th></th></tr></thead><tbody>${list.map((o, i) => `<tr><td class="num">${done && o.sc && !o.sc.late ? i + 1 : '–'}</td><td>${esc(o.p.n || t('prAnon'))}${o.who === 'me' ? ' <span class="small">★</span>' : ''}<div class="small">${esc(predDate(o.p.at))}</div></td><td>${esc(predShort(o.p, 2))}</td><td class="num">${o.sc ? '<b>' + pct1(o.sc.acc) + '%</b>' + (o.sc.late ? `<div class="small">${esc(t('prLate'))}</div>` : '') : esc(t('prNoResult'))}</td><td>${o.who === 'friend' ? `<button class="btn small" data-lrem="${league.indexOf(o.p)}">${esc(t('prRem'))}</button>` : ''}</td></tr>`).join('')}</tbody></table></div>`;
+  }).join('');
+  const {items, now} = await calItems(), soon = items.filter(o => o.st.k !== 'passed').slice(0, 4);
+  box.innerHTML = `<article class="page" style="max-width:1000px"><h2>${esc(t('prTitle'))}</h2><p class="lede">${esc(t('prSub'))}</p>
+    <ol class="prhow"><li>${esc(t('prHow1'))}</li><li>${esc(t('prHow2'))}</li><li>${esc(t('prHow3'))}</li></ol>
+    ${shared ? `<h3 style="margin-top:20px">${esc(t('prShared'))}</h3>${predBlock(shared, entries[0].sc, 0, entries[0].opts)}` : ''}
+    <h3 style="margin-top:22px">${esc(t('prMine'))}</h3>
+    ${mine.length ? entries.filter(en => en.opts.mine).map(en => predBlock(en.p, en.sc, entries.indexOf(en), en.opts)).join('') : `<p class="small">${esc(t('prNone'))}</p>`}
+    <h3 style="margin-top:22px">${esc(t('prLeague'))}</h3><p class="small" style="margin:0 0 8px">${esc(t('prLeagueSub'))}</p>
+    <div class="row"><input class="inp" id="prPaste" placeholder="${esc(t('prPaste'))}" aria-label="${esc(t('prPaste'))}" style="flex:1;min-width:200px"><button class="btn" id="prPasteDo">${esc(t('prPasteDo'))}</button></div>
+    ${leagueHTML}
+    <h3 style="margin-top:22px">${esc(t('prNext'))}</h3><p class="small" style="margin:0 0 8px">${esc(t('prNextSub'))}</p><div class="calgrid">${soon.map(o => calCard(o.it, now)).join('')}</div>
+    <p class="small" style="margin-top:18px">${esc(t('prNote'))}</p></article>`;
+  alignTables(box);
+  box.querySelectorAll('[data-cgo]').forEach(b => b.onclick = () => calGo(items.map(o => o.it).find(i => i.id === b.dataset.cgo)));
+  box.querySelectorAll('.predbox').forEach(sec => {
+    const en = entries[+sec.dataset.pi], p = en.p, sc = en.sc, units = predUnits(p), maj = Math.floor(p.N / 2) + 1, top = units.filter(u => u.seats > 0);
+    drawHemicycle(sec.querySelector('[data-hp=pred]'), top.map(u => ({n: u.seats, c: u.hex})), p.N, maj, top[0] ? top[0].seats : 0, t('needed', {n: maj}));
+    if(sc){ const a = sc.rows.filter(r => r.act > 0).sort((x, y) => y.act - x.act); drawHemicycle(sec.querySelector('[data-hp=act]'), a.map(r => ({n: r.act, c: r.hex})), sc.N, sc.maj, a[0] ? a[0].act : 0, t('needed', {n: sc.maj})); }
+    sec.querySelectorAll('[data-pa]').forEach(b => b.onclick = async () => {
+      const a = b.dataset.pa;
+      if(a === 'card') predImage(p, sc);
+      else if(a === 'link') copy(predLink(p), t('linkCopied'));
+      else if(a === 'scn'){ if(p.sc){ location.hash = ''; applyScenario(p.sc); } }
+      else if(a === 'own') predOwn(p);
+      else if(a === 'del'){ const all = store.get('preds', []), i = all.findIndex(x => x.id === p.id); if(i >= 0){ all.splice(i, 1); store.set('preds', all); } routePages('#/predict'); }
+      else if(a === 'add'){ const l = store.get('league', []); if(!l.some(x => x.at === p.at && x.e === p.e && x.n === p.n)){ l.unshift(p); store.set('league', l.slice(0, 60)); } toast(t('prAdded')); routePages('#/predict'); }
+    });
+  });
+  box.querySelectorAll('[data-lrem]').forEach(b => b.onclick = () => { const l = store.get('league', []); l.splice(+b.dataset.lrem, 1); store.set('league', l); routePages('#/predict'); });
+  $('#prPasteDo').onclick = () => {
+    const m = $('#prPaste').value.match(/#\/predict\/([\w-]+)/); if(!m){ toast(t('prBadLink')); return; }
+    try{ const p = decodeScenario(m[1]); if(!p || !p.u || !p.e) throw 0; const l = store.get('league', []); if(!l.some(x => x.at === p.at && x.e === p.e && x.n === p.n)) l.unshift(p); store.set('league', l.slice(0, 60)); routePages('#/predict'); }
+    catch(e){ toast(t('prBadLink')); }
+  };
+});
+
+
+// ======== feature: 300-live.js ========
+// Live counting mode (#34), page #/live. On results day you type in the party totals or declare seat by seat, and the page fills the seat arc and compares with
+// your locked prediction, the exit polls and any benchmark you type. There is no results feed, so nothing here is automatic; a replay of a past count shows how it looks.
+addI18n('en', {
+  footLive: 'Live counting', lvTitle: 'Live counting', lvSub: 'On counting day, enter what the Election Commission shows and watch the seat arc fill up. Compare the count so far with your locked prediction, the exit polls or any numbers you type. Or replay a past count to see how it looks.',
+  lvNote: 'Nothing here comes from a live feed: you type the numbers, so they are only as good as what you copy. Seats and parties start from the last election in that house, so a new party or a changed map will not appear until you rename a row or use "Others".',
+  lvWhere: 'House', lvWhen: 'Election', lvNext: 'Next election (counting day)', lvReplay: 'Replay of {y}', lvMode: 'Count as', lvAlly: 'Alliances', lvParty: 'Parties', lvEntry: 'Enter', lvTotals: 'Party totals', lvSeats: 'Seat by seat',
+  lvDecl: '{n} of {m} seats declared', lvMaj: '{n} to win', lvLeads: '{a} leads with {n}', lvNone: 'No seat declared yet', lvOver: 'The totals add up to more than {n} seats', lvWon: 'Won or leading', lvBench: 'Compare with', lvDelta: 'Counted minus {b}',
+  lvPlay: 'Play', lvPause: 'Pause', lvReset: 'Start over', lvSpeed: 'Speed', lvClear: 'Clear all', lvFilter: 'Find a seat', lvNotYet: 'not declared', lvShow: 'Showing {n} of {m} seats', lvAnyR: 'All',
+  lvAddBench: 'Add a benchmark', lvBenchHint: 'One per line, for example "Axis poll: NDA 305, INDIA 190". Names can be a party code or an alliance.', lvBenchAdd: 'Add', lvBenchBad: 'Could not read any numbers from that line', lvBenchUnk: 'Not recognised: {n}',
+  lvMine: 'My prediction', lvFriend: 'Friend\'s prediction', lvPoll: 'Exit poll: {n}', lvCopy: 'Copy update', lvCopied: 'Update copied', lvImg: 'Live count', lvText: '🗳️ Counting update, {t}: {a}. {d} of {m} declared, {w} to win.', lvStart: 'Start counting', lvOthers: 'Others',
+  lvRem: 'Remove', lvMore: '{n} more', lvDeclaredBy: 'Declared', lvStepUp: 'One more seat for {p}', lvStepDown: 'One fewer seat for {p}', lvNoBench: 'No benchmark yet. Add one, or lock a prediction.', lvCardFoot: 'Numbers entered by hand, not an official result.',
+});
+addI18n('hi', {
+  footLive: 'लाइव गिनती', lvTitle: 'लाइव गिनती', lvSub: 'गिनती के दिन चुनाव आयोग जो दिखाए उसे दर्ज करें और सीटों का अर्धवृत्त भरते देखें। अब तक की गिनती की तुलना अपनी पक्की भविष्यवाणी, एग्ज़िट पोल या अपने डाले आँकड़ों से करें। या किसी पुरानी गिनती को दोबारा चलाकर देखें।',
+  lvNote: 'यहाँ कुछ भी लाइव फ़ीड से नहीं आता: आँकड़े आप डालते हैं, इसलिए वे उतने ही सही हैं जितना आपने उतारा। सीटें और दल उस सदन के पिछले चुनाव से शुरू होते हैं, इसलिए नया दल या बदला नक्शा तब तक नहीं दिखेगा जब तक आप किसी पंक्ति का नाम न बदलें या "अन्य" न इस्तेमाल करें।',
+  lvWhere: 'सदन', lvWhen: 'चुनाव', lvNext: 'अगला चुनाव (गिनती का दिन)', lvReplay: '{y} की गिनती दोबारा', lvMode: 'ऐसे गिनें', lvAlly: 'गठबंधन', lvParty: 'दल', lvEntry: 'दर्ज करें', lvTotals: 'दलों का योग', lvSeats: 'सीट दर सीट',
+  lvDecl: '{m} में से {n} सीटों के नतीजे आए', lvMaj: 'जीतने को {n}', lvLeads: '{a} {n} पर आगे', lvNone: 'अभी कोई सीट घोषित नहीं', lvOver: 'योग {n} सीटों से ज़्यादा है', lvWon: 'जीते या आगे', lvBench: 'तुलना करें', lvDelta: 'गिनती घटा {b}',
+  lvPlay: 'चलाएँ', lvPause: 'रोकें', lvReset: 'फिर से शुरू', lvSpeed: 'रफ़्तार', lvClear: 'सब मिटाएँ', lvFilter: 'कोई सीट खोजें', lvNotYet: 'घोषित नहीं', lvShow: '{m} में से {n} सीटें दिख रही हैं', lvAnyR: 'सभी',
+  lvAddBench: 'तुलना का आँकड़ा जोड़ें', lvBenchHint: 'हर पंक्ति में एक, जैसे "Axis poll: NDA 305, INDIA 190"। नाम दल का कोड या गठबंधन हो सकता है।', lvBenchAdd: 'जोड़ें', lvBenchBad: 'उस पंक्ति से कोई आँकड़ा पढ़ा नहीं जा सका', lvBenchUnk: 'पहचाना नहीं: {n}',
+  lvMine: 'मेरी भविष्यवाणी', lvFriend: 'दोस्त की भविष्यवाणी', lvPoll: 'एग्ज़िट पोल: {n}', lvCopy: 'अपडेट कॉपी करें', lvCopied: 'अपडेट कॉपी हो गया', lvImg: 'लाइव गिनती', lvText: '🗳️ गिनती का अपडेट, {t}: {a}। {m} में से {d} के नतीजे आए, जीतने को {w}।', lvStart: 'गिनती शुरू करें', lvOthers: 'अन्य',
+  lvRem: 'हटाएँ', lvMore: '{n} और', lvDeclaredBy: 'घोषित', lvStepUp: '{p} की एक और सीट', lvStepDown: '{p} की एक सीट कम', lvNoBench: 'अभी तुलना का कोई आँकड़ा नहीं। एक जोड़ें, या भविष्यवाणी पक्की करें।', lvCardFoot: 'आँकड़े हाथ से दर्ज किए गए, आधिकारिक नतीजा नहीं।',
+});
+const lvNk = x => String(x).toLowerCase().replace(/[^a-z0-9]/g, '');
+// the parties or alliances to count, from the last election of that house
+function liveUnits(raw, mode){
+  const ally = mode === 'alliance' ? (raw.alliances || {}) : {}, seatsBy = new Map(), voteBy = new Map();
+  raw.seats.forEach(s => { if(s[4].length){ const c = raw.parties[s[4][0]]; seatsBy.set(c, (seatsBy.get(c) || 0) + (s[6] || 1)); } for(let k = 0; k < s[4].length; k += 2){ const c = raw.parties[s[4][k]]; voteBy.set(c, (voteBy.get(c) || 0) + s[4][k + 1]); } });
+  const keyOf = c => c !== 'OTH' && c !== 'IND' && ally[c] ? 'A:' + ally[c] : c, g = new Map();
+  new Set([...seatsBy.keys(), ...voteBy.keys()]).forEach(c => { if(c === 'OTH') return; const k = keyOf(c); if(!g.has(k)) g.set(k, {key: k, seats: 0, votes: 0, lead: c, leadV: -1}); const o = g.get(k); o.seats += seatsBy.get(c) || 0; o.votes += voteBy.get(c) || 0; if((voteBy.get(c) || 0) > o.leadV){ o.leadV = voteBy.get(c) || 0; o.lead = c; } });
+  const all = [...g.values()].sort((a, b) => b.seats - a.seats || b.votes - a.votes), keep = all.filter((u, i) => u.seats > 0 || i < 6).slice(0, 14), kept = new Set(keep.map(u => u.key));
+  const units = keep.map(u => ({key: u.key, name: u.key.startsWith('A:') ? allyName(u.key.slice(2)) : pName(u.key), hex: pColor(u.lead), base: u.seats}));
+  units.push({key: 'OTH', name: t('others'), hex: '#9aa0aa', base: all.filter(u => !kept.has(u.key)).reduce((a, u) => a + u.seats, 0)});
+  return {units, unitOf: c => { const k = c === 'OTH' ? 'OTH' : keyOf(c); return kept.has(k) ? k : 'OTH'; }};
+}
+// read a line such as "Axis poll: NDA 305, INDIA 190" against the units on screen
+function liveParseBench(line, units){
+  const i = line.indexOf(':'), label = i > 0 ? line.slice(0, i).trim() : '', body = i > 0 ? line.slice(i + 1) : line, seats = {}, bad = [];
+  const idx = new Map(); units.forEach(u => { [u.key.replace(/^A:/, ''), u.name, u.key].forEach(a => idx.set(lvNk(a), u.key)); });
+  body.split(/[,;]/).forEach(part => { const m = part.trim().match(/^(.+?)\s*[:=]?\s*(\d+)$/); if(!m) { if(part.trim()) bad.push(part.trim()); return; } const k = idx.get(lvNk(m[1])); if(k) seats[k] = (seats[k] || 0) + (+m[2]); else bad.push(m[1].trim()); });
+  return {label: label || t('lvAddBench'), seats, bad};
+}
+PAGES.set('live', async box => {
+  const ix = INDEX.elections, cfg = Object.assign({where: 'LS', when: 'next', mode: 'alliance', entry: 'totals'}, store.get('livecfg', {}));
+  const wheres = ['LS', ...statesList().sort((a, b) => stName(a).localeCompare(stName(b), LANG === 'hi' ? 'hi' : 'en'))];
+  if(!wheres.includes(cfg.where)) cfg.where = 'LS';
+  const latestOf = w => w === 'LS' ? ix.filter(e => e.kind === 'LS').sort((a, b) => b.year - a.year)[0] : calLatest(w);
+  const pastOf = w => ix.filter(e => w === 'LS' ? e.kind === 'LS' : (e.kind === 'AE' && e.state === w)).sort((a, b) => b.year - a.year || b.label.localeCompare(a.label));
+  if(cfg.when !== 'next' && !pastOf(cfg.where).some(e => e.id === cfg.when)) cfg.when = 'next';
+  const L = {rp: null};   // L.rp: the replay timer
+  box.innerHTML = `<article class="page" style="max-width:1100px"><h2>${esc(t('lvTitle'))}</h2><p class="lede">${esc(t('lvSub'))}</p>
+    <div class="tools-row" id="lvPick"></div><div id="lvBody"><span class="loading"><i></i>${esc(t('loading'))}</span></div><p class="small" style="margin-top:16px">${esc(t('lvNote'))}</p></article>`;
+  const stopReplay = () => { if(L.rp && L.rp.timer){ clearInterval(L.rp.timer); L.rp.timer = null; } };
+  async function go(){
+    stopReplay(); store.set('livecfg', cfg);
+    const base = cfg.when === 'next' ? latestOf(cfg.where) : ix.find(e => e.id === cfg.when);
+    const raw = (await bundle(base.file)).find(e => e.id === base.id), hasAlly = new Set(Object.values(raw.alliances || {})).size >= 2;
+    if(cfg.mode === 'alliance' && !hasAlly) cfg.mode = 'party';
+    const {units, unitOf} = liveUnits(raw, cfg.mode), N = raw.seats.reduce((a, s) => a + (s[6] || 1), 0), maj = Math.floor(N / 2) + 1;
+    const yr = cfg.when === 'next' ? nextYear(base) : base.label, title = base.kind === 'LS' ? t('titleLS', {y: yr}) : t('titleAE', {s: stName(base.state), y: yr});
+    const seats = raw.seats.map((s, i) => ({i, no: s[0], name: s[1], region: s[3] >= 0 && raw.regions ? raw.regions[s[3]] || '' : '', m: s[6] || 1, win: s[4].length ? unitOf(raw.parties[s[4][0]]) : null}));
+    const skey = `${cfg.where}|${cfg.when}|${cfg.mode}`, saveAll = store.get('livecount', {}), cur = saveAll[skey] || {t: {}, d: {}, b: []};
+    const persist = () => { saveAll[skey] = cur; store.set('livecount', saveAll); };
+    const showN = 60; let filter = '';
+    // benchmarks: my predictions and friends' for this count, exit polls for a past election, and lines the user typed
+    const benches = [];
+    const polls = await pollData();
+    const target = p => { const tg = predTarget(p); return cfg.when === 'next' ? (p.e === base.id && (p.a || 1) === 1) : (tg && tg.id === cfg.when); };
+    store.get('preds', []).filter(p => target(p) && p.mode === cfg.mode).forEach(p => { const s = {}; p.u.forEach(u => { if(u[1] > 0) s[u[0]] = u[1]; }); benches.push({id: 'p' + p.id, name: (p.n ? p.n + ': ' : '') + t('lvMine'), seats: s}); });
+    store.get('league', []).filter(p => target(p) && p.mode === cfg.mode).forEach((p, i) => { const s = {}; p.u.forEach(u => { if(u[1] > 0) s[u[0]] = u[1]; }); benches.push({id: 'l' + i, name: (p.n || t('prAnon')) + ' · ' + t('lvFriend'), seats: s}); });
+    if(cfg.when !== 'next') polls.sets.filter(st => st.id === cfg.when && st.mode === cfg.mode).forEach(st => st.polls.forEach((p, j) => { const s = {}; for(const [label, n] of Object.entries(p.seats)){ const k = st.mode === 'alliance' ? 'A:' + label : st.units[label]; if(units.some(u => u.key === k)) s[k] = (s[k] || 0) + n; } benches.push({id: 'e' + j, name: t('lvPoll', {n: p.by}), seats: s, avg: !!p.avg}); }));
+    cur.b.forEach((b, j) => benches.push({id: 'c' + j, name: b.name, seats: b.seats, own: j}));
+    const on = new Set(cur.on || benches.filter(b => b.avg).map(b => b.id).concat(benches.filter(b => !b.avg && /^[pl]/.test(b.id)).map(b => b.id)).slice(0, 2));
+    if(!on.size && benches.length) on.add(benches[0].id);
+    const counts = () => { const c = {}; units.forEach(u => c[u.key] = 0); if(cfg.entry === 'totals') units.forEach(u => c[u.key] = Math.max(0, Math.min(N, Math.round(+cur.t[u.key] || 0)))); else seats.forEach(s => { const k = cur.d[s.i]; if(k && c[k] != null) c[k] += s.m; }); return c; };
+    const text = () => { const c = counts(), d = Object.values(c).reduce((a, b) => a + b, 0); return t('lvText', {t: title, a: units.filter(u => c[u.key] > 0).sort((a, b) => c[b.key] - c[a.key]).slice(0, 5).map(u => `${u.name} ${c[u.key]}`).join(', ') || t('lvNone'), d, m: N, w: maj}) + ' ' + location.origin + location.pathname + '#/live'; };
+
+    $('#lvPick').innerHTML = `<label>${esc(t('lvWhere'))} <select id="lvW">${wheres.map(w => `<option value="${esc(w)}" ${w === cfg.where ? 'selected' : ''}>${esc(w === 'LS' ? t('lokSabha') : stName(w) + ' ' + t('vidhanSabha'))}</option>`).join('')}</select></label>
+      <label>${esc(t('lvWhen'))} <select id="lvY"><option value="next" ${cfg.when === 'next' ? 'selected' : ''}>${esc(t('lvNext'))}</option>${pastOf(cfg.where).map(e => `<option value="${e.id}" ${cfg.when === e.id ? 'selected' : ''}>${esc(t('lvReplay', {y: e.label}))}</option>`).join('')}</select></label>
+      ${hasAlly ? `<span class="small">${esc(t('lvMode'))}</span><div class="seg" role="group" aria-label="${esc(t('lvMode'))}"><button data-md="alliance" aria-pressed="${cfg.mode === 'alliance'}">${esc(t('lvAlly'))}</button><button data-md="party" aria-pressed="${cfg.mode === 'party'}">${esc(t('lvParty'))}</button></div>` : ''}
+      <span class="small">${esc(t('lvEntry'))}</span><div class="seg" role="group" aria-label="${esc(t('lvEntry'))}"><button data-en="totals" aria-pressed="${cfg.entry === 'totals'}">${esc(t('lvTotals'))}</button><button data-en="seats" aria-pressed="${cfg.entry === 'seats'}">${esc(t('lvSeats'))}</button></div>`;
+    $('#lvW').onchange = e => { cfg.where = e.target.value; cfg.when = 'next'; go(); };
+    $('#lvY').onchange = e => { cfg.when = e.target.value; if(cfg.when !== 'next') cfg.entry = 'seats'; go(); };
+    box.querySelectorAll('[data-md]').forEach(b => b.onclick = () => { cfg.mode = b.dataset.md; go(); });
+    box.querySelectorAll('[data-en]').forEach(b => b.onclick = () => { cfg.entry = b.dataset.en; go(); });
+
+    $('#lvBody').innerHTML = `<div class="tools-cols"><div><h3 id="lvHead" style="font-size:20px;margin:0">${esc(title)}</h3><div id="lvHemi"></div><p id="lvLine" style="font-family:var(--display);font-size:18px;font-weight:600;margin:4px 0"></p><p class="small" id="lvSub" style="margin:0"></p>
+        <div class="row" style="margin-top:10px" id="lvAct"></div></div><div><div class="tw"><table class="tbl" id="lvTbl"></table></div><p class="small" id="lvWarn" style="color:var(--bad);margin:4px 0"></p>
+        <h4 style="margin:12px 0 4px">${esc(t('lvAddBench'))}</h4><div class="row"><input class="inp" id="lvB" placeholder="Axis poll: ${esc(units[0].key.replace(/^A:/, ''))} 120, ${esc((units[1] || units[0]).key.replace(/^A:/, ''))} 90" aria-label="${esc(t('lvAddBench'))}" style="flex:1;min-width:200px"><button class="btn" id="lvBAdd">${esc(t('lvBenchAdd'))}</button></div><p class="small" style="margin:4px 0">${esc(t('lvBenchHint'))}</p></div></div>
+      <div id="lvSeatBox"></div>`;
+    function drawTop(){
+      const c = counts(), declared = Object.values(c).reduce((a, b) => a + b, 0), order = units.filter(u => c[u.key] > 0).sort((a, b) => c[b.key] - c[a.key]);
+      drawHemicycle($('#lvHemi'), order.map(u => ({n: c[u.key], c: u.hex})), N, maj, order[0] ? c[order[0].key] : 0, t('lvMaj', {n: maj}));
+      $('#lvLine').textContent = order[0] ? t('lvLeads', {a: order[0].name, n: c[order[0].key]}) : t('lvNone');
+      $('#lvSub').textContent = t('lvDecl', {n: declared, m: N});
+      $('#lvWarn').textContent = declared > N ? t('lvOver', {n: N}) : '';
+      const act = benches.filter(b => on.has(b.id)), head = `<thead><tr><th>${esc(t('thParty'))}</th><th>${esc(t('lvWon'))}</th>${act.map(b => `<th title="${esc(t('lvDelta', {b: b.name}))}">${esc(b.name)}</th>`).join('')}</tr></thead>`;
+      $('#lvTbl').innerHTML = head + `<tbody>${units.filter(u => c[u.key] > 0 || u.base > 0 || cfg.entry === 'totals' || act.some(b => b.seats[u.key])).map(u => {
+        const inp = cfg.entry === 'totals' ? `<span class="lvstep"><button class="btn small" data-st="${esc(u.key)}" data-d="-1" aria-label="${esc(t('lvStepDown', {p: u.name}))}">−</button><input class="inp" type="number" min="0" max="${N}" value="${c[u.key]}" data-in="${esc(u.key)}" aria-label="${esc(u.name)}"><button class="btn small" data-st="${esc(u.key)}" data-d="1" aria-label="${esc(t('lvStepUp', {p: u.name}))}">+</button></span>` : `<b>${c[u.key]}</b>`;
+        return `<tr><td><span class="pname"><i class="sw" style="background:${u.hex}"></i><span>${esc(u.name)}</span></span></td><td class="num">${inp}</td>${act.map(b => { const v = b.seats[u.key] || 0, d = c[u.key] - v; return `<td class="num">${v}<div class="small ${d > 0 ? 'up' : d < 0 ? 'down' : ''}">${d > 0 ? '+' : ''}${d}</div></td>`; }).join('')}</tr>`; }).join('')}</tbody>`;
+      alignTables($('#lvTbl'));
+      $('#lvTbl').querySelectorAll('[data-st]').forEach(b => b.onclick = () => { cur.t[b.dataset.st] = Math.max(0, Math.min(N, (+cur.t[b.dataset.st] || 0) + +b.dataset.d)); persist(); drawTop(); });
+      $('#lvTbl').querySelectorAll('[data-in]').forEach(i => i.onchange = () => { cur.t[i.dataset.in] = Math.max(0, Math.min(N, Math.round(+i.value || 0))); persist(); drawTop(); });
+      // which benchmarks to show
+      const bl = $('#lvBL'); if(bl) bl.innerHTML = benchHTML();
+      bindBench();
+    }
+    const chipOf = b => `<label class="chip"><input type="checkbox" data-bc="${esc(b.id)}" ${on.has(b.id) ? 'checked' : ''}> ${esc(b.name)}</label>${b.own != null ? `<button class="btn small" data-brm="${b.own}" aria-label="${esc(t('lvRem'))}">×</button>` : ''}`;
+    const benchHTML = () => benches.length ? `<span class="small">${esc(t('lvBench'))}:</span> ${benches.slice(0, 4).map(chipOf).join(' ')}${benches.length > 4 ? ` <details style="display:inline" ${L.bopen ? 'open' : ''}><summary class="small" style="display:inline;cursor:pointer">${esc(t('lvMore', {n: benches.length - 4}))}</summary>${benches.slice(4).map(chipOf).join(' ')}</details>` : ''}` : `<span class="small">${esc(t('lvNoBench'))}</span>`;
+    function bindBench(){
+      const dt = box.querySelector('#lvBL details'); if(dt) dt.ontoggle = () => { L.bopen = dt.open; };
+      box.querySelectorAll('[data-bc]').forEach(i => i.onchange = () => { if(i.checked) on.add(i.dataset.bc); else on.delete(i.dataset.bc); cur.on = [...on]; persist(); drawTop(); });
+      box.querySelectorAll('[data-brm]').forEach(b => b.onclick = () => { cur.b.splice(+b.dataset.brm, 1); delete cur.on; persist(); go(); });
+    }
+    $('#lvAct').innerHTML = `<div id="lvBL" style="flex:1 1 100%"></div><button class="btn" id="lvCopy">${esc(t('lvCopy'))}</button><button class="btn" id="lvImg">${esc(t('downloadPng'))}</button><button class="btn" id="lvClear">${esc(t('lvClear'))}</button>${cfg.when !== 'next' ? `<span class="lvreplay"><button class="btn primary" id="lvPlay">${esc(t('lvPlay'))}</button><button class="btn" id="lvRst">${esc(t('lvReset'))}</button><label class="small">${esc(t('lvSpeed'))} <select id="lvSp"><option value="1">1×</option><option value="4" selected>4×</option><option value="16">16×</option></select></label></span>` : ''}`;
+    $('#lvCopy').onclick = () => copy(text(), t('lvCopied'));
+    $('#lvClear').onclick = () => { cur.t = {}; cur.d = {}; persist(); stopReplay(); L.rp = null; drawTop(); drawSeats(); };
+    $('#lvImg').onclick = () => imageModal({title: t('lvImg'), file: 'janadesh-live.png', text: text(), compose: async fmt => {
+      const wide = fmt !== 'story', W = wide ? 1200 : 1080, H = wide ? 675 : 1920, pad = wide ? 48 : 56, c = document.createElement('canvas'); c.width = W; c.height = H;
+      const g = c.getContext('2d'), cs = getComputedStyle(document.documentElement), col = n => cs.getPropertyValue(n).trim() || '#000'; await cardFonts(); cardFrame(g, W, H, wide, pad, col);
+      const cn = counts(), order = units.filter(u => cn[u.key] > 0).sort((a, b) => cn[b.key] - cn[a.key]), declared = Object.values(cn).reduce((a, b) => a + b, 0);
+      g.fillStyle = col('--ink'); g.font = `700 ${wide ? 40 : 66}px "Anek Latin","Anek Devanagari", system-ui`; let y = wide ? 82 : 150; g.fillText(title, pad, y);
+      g.font = `500 ${wide ? 22 : 34}px "Hind", system-ui`; g.fillStyle = col('--muted'); g.fillText(t('lvDecl', {n: declared, m: N}), pad, y + (wide ? 34 : 56));
+      const hw = wide ? 540 : W - 2 * pad, hy = wide ? 128 : y + 100, h = hemiOnCanvas(g, order.map(u => ({n: cn[u.key], c: u.hex})), N, maj, order[0] ? cn[order[0].key] : 0, t('lvMaj', {n: maj}), pad, hy, hw, col('--ink'), col('--muted'));
+      const rx = wide ? pad + hw + 50 : pad, ry = wide ? hy + 24 : hy + h + 40, rh = wide ? 48 : 70;
+      order.slice(0, wide ? 7 : 9).forEach((u, j) => { const yy = ry + j * rh + 30; g.fillStyle = u.hex; g.fillRect(rx, yy - (wide ? 22 : 34), wide ? 22 : 34, wide ? 22 : 34); g.fillStyle = col('--ink'); g.font = `600 ${wide ? 28 : 42}px "Hind", system-ui`; g.fillText(u.name.slice(0, 22), rx + (wide ? 34 : 50), yy); g.textAlign = 'right'; g.font = `800 ${wide ? 32 : 50}px "Anek Latin", system-ui`; g.fillText(String(cn[u.key]), W - pad, yy); g.textAlign = 'left'; });
+      g.fillStyle = col('--warn'); g.font = `600 ${wide ? 18 : 28}px "Hind", system-ui`; g.fillText(t('lvCardFoot'), pad, H - (wide ? 24 : 40)); return c; } });
+    $('#lvBAdd').onclick = () => {
+      const lines = $('#lvB').value.split('\n').map(x => x.trim()).filter(Boolean); let added = 0, unk = [];
+      lines.forEach(l => { const r = liveParseBench(l, units); unk.push(...r.bad); if(Object.keys(r.seats).length){ cur.b.push({name: r.label, seats: r.seats}); added++; } });
+      if(unk.length) toast(t('lvBenchUnk', {n: unk.join(', ')})); else if(!added) toast(t('lvBenchBad'));
+      if(added){ delete cur.on; persist(); go(); }
+    };
+    // replay: the real winners declared in a shuffled order
+    if(cfg.when !== 'next'){
+      let sd = 0; for(const ch of base.id) sd = (sd * 31 + ch.charCodeAt(0)) >>> 0; const rnd = () => { sd = (sd * 1664525 + 1013904223) >>> 0; return sd / 4294967296; };
+      const order = seats.filter(s => s.win).map(s => s.i); for(let i = order.length - 1; i > 0; i--){ const j = Math.floor(rnd() * (i + 1)); [order[i], order[j]] = [order[j], order[i]]; }
+      L.rp = {order, n: Object.keys(cur.d).length, timer: null};
+      const step = () => { if(!$('#lvSp')){ stopReplay(); return; } const sp = +$('#lvSp').value, k = Math.max(1, Math.round(sp * N / 600)); for(let q = 0; q < k && L.rp.n < order.length; q++){ const s = seats[order[L.rp.n++]]; cur.d[s.i] = s.win; }
+        if(L.rp.n >= order.length){ stopReplay(); $('#lvPlay').textContent = t('lvPlay'); } persist(); drawTop(); drawSeats(); };
+      $('#lvPlay').onclick = () => { if(L.rp.timer){ stopReplay(); $('#lvPlay').textContent = t('lvPlay'); return; } if(L.rp.n >= order.length){ cur.d = {}; L.rp.n = 0; } cfg.entry = 'seats'; $('#lvPlay').textContent = t('lvPause'); L.rp.timer = setInterval(step, 120); };
+      $('#lvRst').onclick = () => { stopReplay(); cur.d = {}; L.rp.n = 0; $('#lvPlay').textContent = t('lvPlay'); persist(); drawTop(); drawSeats(); };
+    }
+    function drawSeats(){
+      const sb = $('#lvSeatBox'); if(!sb) return;
+      if(cfg.entry !== 'seats'){ sb.innerHTML = ''; return; }
+      const q = nameKey(filter), list = seats.filter(s => !q || nameKey(s.name + s.region).includes(q)), shown = list.slice(0, showN);
+      if(!$('#lvFq')){ sb.innerHTML = `<h3 style="margin-top:18px">${esc(t('lvSeats'))}</h3><input class="inp" id="lvFq" type="search" placeholder="${esc(t('lvFilter'))}" aria-label="${esc(t('lvFilter'))}" style="width:100%;max-width:360px;margin-bottom:6px"><p class="small" id="lvShow"></p><div class="seatlist" style="max-height:520px"><table class="tbl" id="lvSeatTbl"></table></div>`; $('#lvFq').oninput = e => { filter = e.target.value; drawSeats(); }; }
+      $('#lvShow').textContent = t('lvShow', {n: shown.length, m: list.length});
+      $('#lvSeatTbl').innerHTML = `<tbody>${shown.map(s => `<tr><td>${esc(s.name)}<div class="small">${esc(s.region)}</div></td><td><select data-sw="${s.i}" aria-label="${esc(s.name)}"><option value="">— ${esc(t('lvNotYet'))}</option>${units.map(u => `<option value="${esc(u.key)}" ${cur.d[s.i] === u.key ? 'selected' : ''}>${esc(u.name)}</option>`).join('')}</select></td></tr>`).join('')}</tbody>`;
+      $('#lvSeatTbl').querySelectorAll('[data-sw]').forEach(sel => sel.onchange = () => { if(sel.value) cur.d[sel.dataset.sw] = sel.value; else delete cur.d[sel.dataset.sw]; persist(); drawTop(); });
+    }
+    drawTop(); drawSeats();
+  }
+  await go();
+});
+
+
+// ======== feature: 310-games.js ========
+// Games: "Guess the election" (#36, page #/guess) and the polity quiz (#63, page #/quiz). Every question is built from Janadesh's own data, in English and Hindi.
+addI18n('en', {
+  footQuiz: 'Polity quiz', footGuess: 'Guess the election', gmStart: 'Start', gmNext: 'Next', gmFinish: 'See my score', gmAgain: 'Play again', gmQ: 'Question {i} of {n}', gmScore: 'Score {s}', gmBest: 'Best: {b} of {n}', gmFinal: 'You scored {s} of {n}', gmCorrect: 'Correct', gmWrong: 'Not quite', gmTopic: 'Topic', gmLoading: 'Making your questions…',
+  gmShare: 'Copy my score', gmCopied: 'Score copied', gmCard: 'Make a card', gmNoQ: 'Could not make enough questions from the data.',
+  qzTitle: 'Polity quiz', qzSub: 'Ten questions about elections, the Lok Sabha and the states, made from the real results, the chief ministers and the glossary behind Janadesh. Good for students and UPSC practice.', qzMix: 'Mixed', qzResults: 'Election results', qzHouse: 'Lok Sabha facts', qzCms: 'Chief ministers', qzPolity: 'Polity terms',
+  qzWinLS: 'Which party won the most seats in the Lok Sabha election of {y}?', qzWinAE: 'Which party won the most seats in the {s} assembly election of {y}?', qzWinWhy: '{p} won {n} of {m} seats.',
+  qzSeatsLS: 'How many Lok Sabha seats did {p} win in {y}?', qzMajority: 'In a house with {n} elected seats, how many seats make a simple majority?', qzMajWhy: 'More than half of {n} is {m}.',
+  qzBigState: 'Which state sends the most members to the Lok Sabha?', qzBigWhy: '{s} has {n} of the {m} seats.', qzStateSeats: 'How many Lok Sabha seats does {s} have?', qzStateWhy: '{s} elects {n} members to the Lok Sabha.',
+  qzReserved: 'How many Lok Sabha seats are reserved for {c}?', qzScWord: 'Scheduled Castes', qzStWord: 'Scheduled Tribes', qzResWhy: 'The Lok Sabha of {y} has {n} seats reserved for {c}.',
+  qzWomen: 'How many women were elected to the Lok Sabha in {y}?', qzWomenWhy: 'The official count is {n} women out of {m} members.',
+  qzTermLen: 'How long did the {o} Lok Sabha last, from its first sitting to its dissolution?', qzLsWhy: 'The {o} Lok Sabha sat from {a} to {b}: {l}.', qzLongest: 'Which Lok Sabha lasted the longest?', qzShortest: 'Which Lok Sabha lasted the shortest time?', qzOrdName: 'The {o} Lok Sabha', qzDissolved: 'In which year was the {o} Lok Sabha dissolved?', qzDissWhy: 'The {o} Lok Sabha was dissolved on {b}.',
+  qzCm: 'Who was the Chief Minister of {s} on {d}?', qzCmWhy: '{n} served from {a} to {b}.', qzCmNow: 'the present day', qzTerm: 'Which term does this describe? "{d}"', qzTermWhy: '{n}: {d}',
+  gsTitle: 'Guess the election', gsSub: 'A seat arc from a real election, with the parties and their seats. Work out which year it was, or which state. Ten rounds.', gsYear: 'Which year was this election?', gsYearL: 'Which Lok Sabha election was this?', gsState: 'Which state held this assembly election in {y}?',
+  gsWhy: '{t}: {a}.', gsParties: 'The parties and their seats', gsHouse: '{n} seats in the house',
+  gmCardTitle: 'My Janadesh score', gmCardLine: 'I scored {s} of {n} in {g}', gmShareText: '🗳️ I scored {s} of {n} in the Janadesh {g}. Try it:',
+});
+addI18n('hi', {
+  footQuiz: 'राजनीति क्विज़', footGuess: 'चुनाव पहचानो', gmStart: 'शुरू करें', gmNext: 'अगला', gmFinish: 'मेरा स्कोर देखें', gmAgain: 'फिर खेलें', gmQ: 'प्रश्न {i} / {n}', gmScore: 'स्कोर {s}', gmBest: 'सर्वश्रेष्ठ: {n} में से {b}', gmFinal: 'आपका स्कोर {n} में से {s}', gmCorrect: 'सही', gmWrong: 'ग़लत', gmTopic: 'विषय', gmLoading: 'आपके प्रश्न बन रहे हैं…',
+  gmShare: 'मेरा स्कोर कॉपी करें', gmCopied: 'स्कोर कॉपी हो गया', gmCard: 'कार्ड बनाएँ', gmNoQ: 'आँकड़ों से पर्याप्त प्रश्न नहीं बन सके।',
+  qzTitle: 'राजनीति क्विज़', qzSub: 'चुनावों, लोकसभा और राज्यों पर दस प्रश्न, जो जनादेश के असली नतीजों, मुख्यमंत्रियों और शब्दावली से बने हैं। विद्यार्थियों और यूपीएससी के अभ्यास के लिए अच्छा।', qzMix: 'मिला-जुला', qzResults: 'चुनावी नतीजे', qzHouse: 'लोकसभा के तथ्य', qzCms: 'मुख्यमंत्री', qzPolity: 'राजनीति की शब्दावली',
+  qzWinLS: '{y} के लोकसभा चुनाव में किस दल ने सबसे ज़्यादा सीटें जीतीं?', qzWinAE: '{y} के {s} विधानसभा चुनाव में किस दल ने सबसे ज़्यादा सीटें जीतीं?', qzWinWhy: '{p} ने {m} में से {n} सीटें जीतीं।',
+  qzSeatsLS: '{y} में {p} ने लोकसभा की कितनी सीटें जीतीं?', qzMajority: '{n} निर्वाचित सीटों वाले सदन में साधारण बहुमत के लिए कितनी सीटें चाहिए?', qzMajWhy: '{n} के आधे से ज़्यादा यानी {m}।',
+  qzBigState: 'कौन-सा राज्य लोकसभा में सबसे ज़्यादा सदस्य भेजता है?', qzBigWhy: '{m} में से {n} सीटें {s} की हैं।', qzStateSeats: '{s} की लोकसभा में कितनी सीटें हैं?', qzStateWhy: '{s} लोकसभा में {n} सदस्य चुनता है।',
+  qzReserved: 'लोकसभा की कितनी सीटें {c} के लिए आरक्षित हैं?', qzScWord: 'अनुसूचित जातियों', qzStWord: 'अनुसूचित जनजातियों', qzResWhy: '{y} की लोकसभा में {c} के लिए {n} सीटें आरक्षित हैं।',
+  qzWomen: '{y} में लोकसभा में कितनी महिलाएँ चुनकर आईं?', qzWomenWhy: 'आधिकारिक गिनती: {m} सदस्यों में {n} महिलाएँ।',
+  qzTermLen: '{o} लोकसभा पहली बैठक से भंग होने तक कितने समय चली?', qzLsWhy: '{o} लोकसभा {a} से {b} तक चली: {l}।', qzLongest: 'कौन-सी लोकसभा सबसे लंबे समय तक चली?', qzShortest: 'कौन-सी लोकसभा सबसे कम समय चली?', qzOrdName: '{o} लोकसभा', qzDissolved: '{o} लोकसभा किस साल भंग हुई?', qzDissWhy: '{o} लोकसभा {b} को भंग हुई।',
+  qzCm: '{d} को {s} के मुख्यमंत्री कौन थे?', qzCmWhy: '{n} {a} से {b} तक पद पर रहे।', qzCmNow: 'आज', qzTerm: 'यह किस शब्द का अर्थ है? "{d}"', qzTermWhy: '{n}: {d}',
+  gsTitle: 'चुनाव पहचानो', gsSub: 'किसी असली चुनाव का सीटों का अर्धवृत्त, दलों और उनकी सीटों के साथ। पहचानिए कौन-सा साल था, या कौन-सा राज्य। दस दौर।', gsYear: 'यह चुनाव किस साल हुआ था?', gsYearL: 'यह कौन-सा लोकसभा चुनाव था?', gsState: '{y} में यह विधानसभा चुनाव किस राज्य में हुआ?',
+  gsWhy: '{t}: {a}।', gsParties: 'दल और उनकी सीटें', gsHouse: 'सदन में {n} सीटें',
+  gmCardTitle: 'जनादेश पर मेरा स्कोर', gmCardLine: '{g} में {n} में से {s}', gmShareText: '🗳️ जनादेश के {g} में मेरा स्कोर {n} में से {s}। आप भी आज़माएँ:',
+});
+const shuf = a => { a = a.slice(); for(let i = a.length - 1; i > 0; i--){ const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+const pick1 = a => a[Math.floor(Math.random() * a.length)];
+// three wrong numbers near the right one
+function numOpts(a, lo, hi){
+  const set = new Set([a]); let tries = 0;
+  while(set.size < 4 && tries++ < 200){ const spread = Math.max(2, Math.round(a * (0.08 + Math.random() * 0.45))), v = Math.max(lo == null ? 0 : lo, a + (Math.random() < 0.5 ? -1 : 1) * (1 + Math.floor(Math.random() * spread))); if(hi == null || v <= hi) set.add(v); }
+  return [...set];
+}
+// the options for a question: the right answer among others, shuffled, with the index of the right one
+function choices(right, wrong, fmt){ const f = fmt || (x => String(x)), ws = [...new Set(wrong.map(f))].filter(x => x !== f(right)).slice(0, 3), all = shuf([f(right), ...ws]); return ws.length === 3 ? {opts: all, ans: all.indexOf(f(right))} : null; }
+// a session: start screen, rounds with feedback, final score with sharing
+function playRounds(box, o){
+  const st = {i: 0, score: 0, qs: [], topic: store.get('topic:' + o.id, o.topics ? o.topics[0][0] : null), done: false}, N = o.rounds || 10;
+  const best = () => store.get('best:' + o.id, 0);
+  const shell = inner => { box.innerHTML = `<article class="page" style="max-width:760px"><h2>${esc(o.title)}</h2>${inner}</article>`; };
+  function intro(){
+    shell(`<p class="lede">${esc(o.sub)}</p>${o.topics ? `<p><label class="small">${esc(t('gmTopic'))} <select id="gmTopic">${o.topics.map(([id, k]) => `<option value="${id}" ${id === st.topic ? 'selected' : ''}>${esc(t(k))}</option>`).join('')}</select></label></p>` : ''}
+      <p><button class="btn primary big" id="gmGo">${esc(t('gmStart'))}</button> ${best() ? `<span class="small" style="margin-left:10px">${esc(t('gmBest', {b: best(), n: N}))}</span>` : ''}</p>`);
+    const sel = $('#gmTopic'); if(sel) sel.onchange = () => { st.topic = sel.value; store.set('topic:' + o.id, st.topic); };
+    $('#gmGo').onclick = begin;
+  }
+  async function begin(){
+    shell(`<span class="loading"><i></i>${esc(t('gmLoading'))}</span>`);
+    try{ st.qs = await o.gen(st.topic, N); }catch(e){ console.error(e); st.qs = []; }
+    if(st.qs.length < Math.min(N, 5)){ shell(`<p>${esc(t('gmNoQ'))}</p><button class="btn" id="gmBack">${esc(t('gmAgain'))}</button>`); $('#gmBack').onclick = intro; return; }
+    st.i = 0; st.score = 0; track('game_start', {g: o.id}); show();
+  }
+  function show(){
+    const q = st.qs[st.i];
+    shell(`<div class="gmbar"><span>${esc(t('gmQ', {i: st.i + 1, n: st.qs.length}))}</span><span><b>${esc(t('gmScore', {s: st.score}))}</b></span></div>
+      <div class="gmprogress"><i style="width:${100 * st.i / st.qs.length}%"></i></div>
+      ${q.visual ? '<div id="gmVis" class="gmvis"></div>' : ''}<h3 class="gmq">${esc(q.q)}</h3>
+      <div class="gmopts" role="group" aria-label="${esc(q.q)}">${q.opts.map((x, j) => `<button class="gmopt" data-o="${j}"><span class="gmk">${'ABCD'[j]}</span><span>${esc(x)}</span></button>`).join('')}</div><div id="gmFb"></div>`);
+    if(q.visual) q.visual($('#gmVis'));
+    box.querySelectorAll('.gmopt').forEach(b => b.onclick = () => answer(+b.dataset.o));
+  }
+  function answer(j){
+    const q = st.qs[st.i], ok = j === q.ans; if(ok) st.score++;
+    box.querySelectorAll('.gmopt').forEach((b, k) => { b.disabled = true; if(k === q.ans) b.classList.add('right'); else if(k === j) b.classList.add('wrong'); });
+    const last = st.i + 1 >= st.qs.length;
+    $('#gmFb').innerHTML = `<p class="gmfb ${ok ? 'ok' : 'no'}"><b>${esc(t(ok ? 'gmCorrect' : 'gmWrong'))}.</b> ${esc(q.why || '')}</p><button class="btn primary" id="gmNext">${esc(t(last ? 'gmFinish' : 'gmNext'))}</button>`;
+    $('#gmNext').onclick = () => { if(last) finish(); else { st.i++; show(); } }; $('#gmNext').focus();
+  }
+  function finish(){
+    const n = st.qs.length, text = t('gmShareText', {s: st.score, n, g: o.title}) + ' ' + location.origin + location.pathname + '#/' + o.id;
+    const isBest = st.score > best(); if(isBest) store.set('best:' + o.id, st.score); track('game_finish', {g: o.id, s: st.score});
+    shell(`<p class="gmfinal">${esc(t('gmFinal', {s: st.score, n}))}</p><div class="gmprogress"><i style="width:${100 * st.score / n}%"></i></div><p class="small">${esc(t('gmBest', {b: best(), n: N}))}</p>
+      <div class="row"><button class="btn primary" id="gmAgain">${esc(t('gmAgain'))}</button><button class="btn" id="gmShare">${esc(t('gmShare'))}</button><button class="btn" id="gmCard">${esc(t('gmCard'))}</button></div>`);
+    $('#gmAgain').onclick = begin; $('#gmShare').onclick = () => copy(text, t('gmCopied'));
+    $('#gmCard').onclick = () => imageModal({title: t('gmCardTitle'), file: 'janadesh-score.png', text, compose: async fmt => {
+      const wide = fmt !== 'story', W = wide ? 1200 : 1080, H = wide ? 675 : 1920, pad = wide ? 48 : 56, c = document.createElement('canvas'); c.width = W; c.height = H;
+      const g = c.getContext('2d'), cs = getComputedStyle(document.documentElement), col = k => cs.getPropertyValue(k).trim() || '#000'; await cardFonts(); cardFrame(g, W, H, wide, pad, col);
+      g.fillStyle = col('--ink'); g.font = `700 ${wide ? 44 : 72}px "Anek Latin","Anek Devanagari", system-ui`; wrapText(g, o.title, pad, wide ? 130 : 330, W - 2 * pad, wide ? 52 : 84, 2);
+      g.fillStyle = col('--violet'); g.font = `800 ${wide ? 220 : 340}px "Anek Latin", system-ui`; g.fillText(`${st.score}/${n}`, pad, wide ? 400 : 760);
+      g.fillStyle = col('--muted'); g.font = `500 ${wide ? 28 : 44}px "Hind", system-ui`; wrapText(g, t('gmCardLine', {s: st.score, n, g: o.title}), pad, wide ? 470 : 880, W - 2 * pad, wide ? 36 : 58, 3);
+      const bw = W - 2 * pad; g.fillStyle = col('--sunk') || '#eee'; g.fillRect(pad, wide ? 540 : 1100, bw, wide ? 22 : 34); g.fillStyle = col('--good'); g.fillRect(pad, wide ? 540 : 1100, bw * st.score / n, wide ? 22 : 34);
+      return c; } });
+  }
+  intro();
+}
+
+// ---------- the polity quiz ----------
+let QZ = null;
+async function quizData(){
+  if(!QZ){
+    const [stats, cms, ls, terms] = await Promise.all([getJSON('data/stats.json'), getJSON('ref/cms.json').catch(() => ({states: {}})), bundle('ls'), getJSON('ref/loksabha.json').catch(() => ({terms: []}))]);
+    const ent = new Map(INDEX.elections.map(e => [e.id, e]));
+    QZ = {stats, cms: cms.states || {}, ls, ent, terms: terms.terms};
+  }
+  return QZ;
+}
+const lsIds = () => INDEX.elections.filter(e => e.kind === 'LS').map(e => e.id);
+const aeIds = () => INDEX.elections.filter(e => e.kind === 'AE' && e.year >= 1967 && !e.approx).map(e => e.id);
+const nm = c => pName(c);
+function qWinner(Q, ids, kind){
+  const id = pick1(ids), s = Q.stats[id], e = Q.ent.get(id); if(!s || !s.top || s.top.length < 3 || s.top[0][1] === s.top[1][1]) return null;
+  const right = s.top[0][0], pool = s.top.slice(1, 4).map(x => x[0]);
+  if(kind === 'AE'){ const same = INDEX.elections.filter(x => x.state === e.state && x.id !== id && Q.stats[x.id]).map(x => Q.stats[x.id].top[0] && Q.stats[x.id].top[0][0]).filter(Boolean); pool.push(...shuf(same).slice(0, 2)); }
+  else pool.push(...shuf(lsIds().map(x => Q.stats[x] && Q.stats[x].top[0][0]).filter(Boolean)).slice(0, 3));
+  const ch = choices(right, pool, nm); if(!ch) return null;
+  return {topic: 'results', q: kind === 'LS' ? t('qzWinLS', {y: e.label}) : t('qzWinAE', {s: stName(e.state), y: e.label}), ...ch, why: t('qzWinWhy', {p: nm(right), n: s.top[0][1], m: s.n})};
+}
+function qSeats(Q){
+  const id = pick1(lsIds()), s = Q.stats[id], e = Q.ent.get(id); if(!s) return null; const row = pick1(s.top.slice(0, 3)), a = row[1];
+  const ch = choices(a, numOpts(a, 1, s.n), x => String(x)); if(!ch) return null;
+  return {topic: 'results', q: t('qzSeatsLS', {p: nm(row[0]), y: e.label}), ...ch, why: t('qzWinWhy', {p: nm(row[0]), n: a, m: s.n})};
+}
+function qMajority(Q){
+  const id = pick1(aeIds()), s = Q.stats[id]; if(!s || s.n < 20) return null; const a = Math.floor(s.n / 2) + 1;
+  const ch = choices(a, [a - 1, a + 1, Math.round(s.n / 2), Math.round(s.n * 0.6), Math.round(s.n * 2 / 3)], x => String(x)); if(!ch) return null;
+  return {topic: 'polity', q: t('qzMajority', {n: s.n}), ...ch, why: t('qzMajWhy', {n: s.n, m: a})};
+}
+function lsStateCounts(Q){
+  const e = Q.ls.slice().sort((a, b) => b.year - a.year)[0], c = new Map();
+  e.seats.forEach(s => { const r = s[3] >= 0 ? e.regions[s[3]] : null; if(r) c.set(r, (c.get(r) || 0) + (s[6] || 1)); });
+  return {c, N: [...c.values()].reduce((a, b) => a + b, 0), y: e.label};
+}
+function qBigState(Q){
+  const {c, N} = lsStateCounts(Q), arr = [...c.entries()].sort((a, b) => b[1] - a[1]); if(arr.length < 6 || arr[0][1] === arr[1][1]) return null;
+  const ch = choices(arr[0][0], arr.slice(1, 7).map(x => x[0]), stName); if(!ch) return null;
+  return {topic: 'house', q: t('qzBigState'), ...ch, why: t('qzBigWhy', {s: stName(arr[0][0]), n: arr[0][1], m: N})};
+}
+function qStateSeats(Q){
+  const {c} = lsStateCounts(Q), arr = [...c.entries()].filter(x => x[1] >= 3); const [s, a] = pick1(arr);
+  const ch = choices(a, numOpts(a, 1), x => String(x)); if(!ch) return null;
+  return {topic: 'house', q: t('qzStateSeats', {s: stName(s)}), ...ch, why: t('qzStateWhy', {s: stName(s), n: a})};
+}
+function qReserved(Q){
+  const id = pick1(lsIds().filter(x => Q.ent.get(x).year >= 2009 && Q.stats[x] && Q.stats[x].res && Q.stats[x].res.SC && Q.stats[x].res.SC[0] > 0)), s = Q.stats[id]; if(!s) return null; const e = Q.ent.get(id), k = Math.random() < 0.6 ? 'SC' : 'ST', a = s.res[k][0];
+  const ch = choices(a, numOpts(a, 1), x => String(x)); if(!ch) return null; const w = t(k === 'SC' ? 'qzScWord' : 'qzStWord');
+  return {topic: 'house', q: t('qzReserved', {c: w}) + ' (' + e.label + ')', ...ch, why: t('qzResWhy', {y: e.label, n: a, c: w})};
+}
+function qWomen(Q){
+  const id = pick1(lsIds().filter(x => Q.ent.get(x).year >= 2019 && Q.stats[x] && Q.stats[x].wOff > 0)), s = Q.stats[id]; if(!s) return null; const e = Q.ent.get(id), a = s.wOff;
+  const ch = choices(a, numOpts(a, 1), x => String(x)); if(!ch) return null;
+  return {topic: 'house', q: t('qzWomen', {y: e.label}), ...ch, why: t('qzWomenWhy', {n: a, m: s.n})};
+}
+const ORD_EN = ['first', 'second', 'third', 'fourth', 'fifth', 'sixth', 'seventh', 'eighth', 'ninth', 'tenth', 'eleventh', 'twelfth', 'thirteenth', 'fourteenth', 'fifteenth', 'sixteenth', 'seventeenth', 'eighteenth'];
+const ORD_HI = ['पहली', 'दूसरी', 'तीसरी', 'चौथी', 'पाँचवीं', 'छठी', 'सातवीं', 'आठवीं', 'नौवीं', 'दसवीं', 'ग्यारहवीं', 'बारहवीं', 'तेरहवीं', 'चौदहवीं', 'पंद्रहवीं', 'सोलहवीं', 'सत्रहवीं', 'अठारहवीं'];
+const lsOrd = n => LANG === 'hi' ? ORD_HI[n - 1] : ORD_EN[n - 1];
+const lsOrdCap = n => LANG === 'hi' ? ORD_HI[n - 1] : ORD_EN[n - 1][0].toUpperCase() + ORD_EN[n - 1].slice(1);
+function lenText([y, m, d]){
+  if(LANG === 'hi') return [y ? y + ' साल' : '', m ? m + ' महीने' : '', d ? d + ' दिन' : ''].filter(Boolean).join(', ');
+  const p = [y ? y + (y === 1 ? ' year' : ' years') : '', m ? m + (m === 1 ? ' month' : ' months') : '', d ? d + (d === 1 ? ' day' : ' days') : ''].filter(Boolean);
+  return p.length > 1 ? p.slice(0, -1).join(', ') + ' and ' + p[p.length - 1] : p[0];
+}
+const lsDate = iso => new Date(iso + 'T00:00:00').toLocaleDateString(LANG === 'hi' ? 'hi-IN' : 'en-IN', {day: 'numeric', month: 'long', year: 'numeric'});
+const lsDays = tm => (new Date(tm.to) - new Date(tm.from)) / 864e5;
+function qTermLen(Q){
+  const done = Q.terms.filter(x => x.to); if(done.length < 6) return null; const tm = pick1(done), ch = choices(tm.len, shuf(done.filter(x => x !== tm)).slice(0, 6).map(x => x.len), lenText); if(!ch) return null;
+  return {topic: 'house', q: t('qzTermLen', {o: lsOrd(tm.n)}), ...ch, why: t('qzLsWhy', {o: lsOrdCap(tm.n), a: lsDate(tm.from), b: lsDate(tm.to), l: lenText(tm.len)})};
+}
+function qTermExtreme(Q){
+  const done = Q.terms.filter(x => x.to).sort((a, b) => lsDays(b) - lsDays(a)); if(done.length < 6) return null;
+  const longest = Math.random() < 0.5, tm = longest ? done[0] : done[done.length - 1], pool = shuf(done.filter(x => x !== tm)).slice(0, 5);
+  const ch = choices(tm, pool, x => t('qzOrdName', {o: lsOrdCap(x.n)})); if(!ch) return null;
+  return {topic: 'house', q: t(longest ? 'qzLongest' : 'qzShortest'), ...ch, why: t('qzLsWhy', {o: lsOrdCap(tm.n), a: lsDate(tm.from), b: lsDate(tm.to), l: lenText(tm.len)})};
+}
+function qDissolved(Q){
+  const done = Q.terms.filter(x => x.to); if(!done.length) return null; const tm = pick1(done), y = +tm.to.slice(0, 4), ch = choices(y, numOpts(y, 1950, 2024), x => String(x)); if(!ch) return null;
+  return {topic: 'house', q: t('qzDissolved', {o: lsOrd(tm.n)}), ...ch, why: t('qzDissWhy', {o: lsOrdCap(tm.n), b: lsDate(tm.to)})};
+}
+function qCm(Q){
+  const states = Object.keys(Q.cms).filter(s => Q.cms[s].length >= 6); if(!states.length) return null; const st = pick1(states), list = Q.cms[st], year = 1996 + Math.floor(Math.random() * 28), d = `${year}-07-01`;
+  const hit = list.filter(c => c.from <= d && (!c.to || c.to > d)); if(hit.length !== 1) return null;
+  const names = [...new Set(list.map(c => c.name))].filter(n => n !== hit[0].name); if(names.length < 3) return null;
+  const f = x => new Date(x + 'T00:00:00').toLocaleDateString(LANG === 'hi' ? 'hi-IN' : 'en-IN', {day: 'numeric', month: 'long', year: 'numeric'});
+  const ch = choices(hit[0].name, shuf(names).slice(0, 5)); if(!ch) return null;
+  return {topic: 'cms', q: t('qzCm', {s: stName(st), d: f(d)}), ...ch, why: t('qzCmWhy', {n: hit[0].name, a: f(hit[0].from), b: hit[0].to ? f(hit[0].to) : t('qzCmNow')})};
+}
+function qTerm(){
+  const good = GLOSS.filter(g => { const term = L2(g[0], g[1]).toLowerCase(), def = L2(g[2], g[3]).toLowerCase(); return !def.includes(term.replace(/\s*\(.*\)/, '')) && def.length < 220; }), g = pick1(good);
+  const ch = choices(L2(g[0], g[1]), shuf(good.filter(x => x !== g)).slice(0, 6).map(x => L2(x[0], x[1]))); if(!ch) return null;
+  return {topic: 'polity', q: t('qzTerm', {d: L2(g[2], g[3])}), ...ch, why: t('qzTermWhy', {n: L2(g[0], g[1]), d: L2(g[2], g[3])})};
+}
+PAGES.set('quiz', async box => {
+  box.innerHTML = `<span class="loading"><i></i>${esc(t('loading'))}</span>`;
+  const Q = await quizData();
+  const gens = {results: [() => qWinner(Q, lsIds(), 'LS'), () => qWinner(Q, aeIds(), 'AE'), () => qSeats(Q)], house: [() => qBigState(Q), () => qStateSeats(Q), () => qReserved(Q), () => qWomen(Q), () => qTermLen(Q), () => qTermExtreme(Q), () => qDissolved(Q)], cms: [() => qCm(Q)], polity: [() => qMajority(Q), () => qTerm()]};
+  playRounds(box, {id: 'quiz', title: t('qzTitle'), sub: t('qzSub'), topics: [['mix', 'qzMix'], ['results', 'qzResults'], ['house', 'qzHouse'], ['cms', 'qzCms'], ['polity', 'qzPolity']],
+    gen: async (topic, n) => {
+      const pool = topic === 'mix' ? Object.values(gens).flat() : gens[topic], out = [], seen = new Set(); let tries = 0;
+      while(out.length < n && tries++ < 400){ const q = pick1(pool)(); if(q && !seen.has(q.q)){ seen.add(q.q); out.push(q); } }
+      return out; }});
+});
+
+// ---------- guess the election ----------
+function gsVisual(Q, e, s){
+  return el => {
+    const groups = s.top.map(([c, n]) => ({n, c: pColor(c)})), rest = s.n - s.top.reduce((a, x) => a + x[1], 0); if(rest > 0) groups.push({n: rest, c: '#C9CDD2'});
+    el.innerHTML = `<div class="gsarc"></div><p class="small" style="margin:8px 0 4px">${esc(t('gsParties'))}</p><div class="gslegend">${s.top.map(([c, n]) => `<span><i class="sw" style="background:${pColor(c)}"></i>${esc(nm(c))} <b>${n}</b></span>`).join('')}</div>`;
+    drawHemicycle(el.querySelector('.gsarc'), groups, s.n, Math.floor(s.n / 2) + 1, s.top[0][1], t('gsHouse', {n: s.n}));
+  };
+}
+PAGES.set('guess', async box => {
+  box.innerHTML = `<span class="loading"><i></i>${esc(t('loading'))}</span>`;
+  const Q = await quizData();
+  playRounds(box, {id: 'guess', title: t('gsTitle'), sub: t('gsSub'),
+    gen: async (topic, n) => {
+      const out = [], seen = new Set(); let tries = 0;
+      while(out.length < n && tries++ < 400){
+        const id = pick1(INDEX.elections.filter(e => Q.stats[e.id] && !e.approx && Q.stats[e.id].top && Q.stats[e.id].top.length >= 3 && Q.stats[e.id].n >= 25).map(e => e.id)); if(seen.has(id)) continue;
+        const e = Q.ent.get(id), s = Q.stats[id], series = INDEX.elections.filter(x => x.kind === e.kind && x.state === e.state).sort((a, b) => a.year - b.year);
+        let q = null;
+        if(e.kind === 'LS' || Math.random() < 0.55){
+          const ch = choices(e.label, shuf(series.filter(x => x.id !== id)).sort((a, b) => Math.abs(a.year - e.year) - Math.abs(b.year - e.year) + (Math.random() - 0.5) * 14).slice(0, 5).map(x => x.label)); if(!ch) continue;
+          q = {q: e.kind === 'LS' ? t('gsYearL') : t('gsYear') + ' (' + stName(e.state) + ')', ...ch, why: t('gsWhy', {t: e.kind === 'LS' ? t('titleLS', {y: e.label}) : t('titleAE', {s: stName(e.state), y: e.label}), a: s.top.slice(0, 3).map(x => nm(x[0]) + ' ' + x[1]).join(', ')})};
+        } else {
+          const others = [...new Set(INDEX.elections.filter(x => x.kind === 'AE' && x.state !== e.state && x.year >= e.year - 6 && x.year <= e.year + 6).map(x => x.state))];
+          const ch = choices(e.state, shuf(others).slice(0, 6), stName); if(!ch) continue;
+          q = {q: t('gsState', {y: e.label}), ...ch, why: t('gsWhy', {t: t('titleAE', {s: stName(e.state), y: e.label}), a: s.top.slice(0, 3).map(x => nm(x[0]) + ' ' + x[1]).join(', ')})};
+        }
+        q.visual = gsVisual(Q, e, s); seen.add(id); out.push(q);
+      }
+      return out; }});
+});
+
+
+// ======== feature: 320-gallery.js ========
+// Scenario gallery (#37), page #/gallery. Featured scenarios come from source/ref/gallery.json; your own saved scenarios sit beside them.
+// Publishing and upvotes need a server, so instead a scenario can be sent for featuring as a prefilled GitHub issue, and stars are kept in this browser.
+addI18n('en', {
+  footGallery: 'Scenario gallery', glTitle: 'Scenario gallery', glSub: 'Ready-made scenarios to open, change and share, and the ones you saved yourself. All are hypotheticals on real constituency results, not forecasts.',
+  glFeatured: 'Featured', glMine: 'My scenarios', glNoMine: 'Nothing saved yet. Open the simulator, set up a scenario and use the Save tab.', glNoFeat: 'No featured scenarios yet.', glOpen: 'Open', glLink: 'Copy link', glDel: 'Delete', glStar: 'Star', glStarred: 'Starred',
+  glBy: 'by {n}', glSubmit: 'Send a scenario to be featured', glSubmitSub: 'There is no upload button because Janadesh has no server. Pick one of your saved scenarios and it opens a prefilled GitHub issue with its link; if it is a fair, well-explained hypothetical it gets added here.',
+  glPick: 'Scenario', glName: 'Title', glDesc: 'What does it ask? One or two sentences', glSend: 'Open the GitHub issue', glNeedMine: 'Save a scenario first, then you can send it.', glWhen: 'saved {d}', glHead: 'Seats: {h}',
+  homeUnaligned: 'In neither', homeVacant: 'Vacant', homeLiveNote: 'Sitting members as of {d}, from Wikipedia. Independents are shown on their own, and are not part of either bloc. The simulator starts from the 2024 election result.',
+  plTitle: 'Play and follow', plLede: 'Make a prediction, follow the count on results day, test what you know, or open a scenario someone else made.',
+  plPredD: 'Lock a seat prediction, share it and get scored when the result is in.', plLiveD: 'Enter the count as it comes and compare with your prediction and the exit polls.', plGuessD: 'Name the election from its seat arc.', plQuizD: 'Ten questions on elections, the Lok Sabha and the states.', plGalD: 'Ready-made scenarios, and yours.',
+  glRules: 'Please keep submissions to hypotheticals that stay true to the data: no claims that they are predictions, and nothing about named private people.',
+});
+addI18n('hi', {
+  footGallery: 'परिदृश्य गैलरी', glTitle: 'परिदृश्य गैलरी', glSub: 'खोलने, बदलने और शेयर करने के लिए तैयार परिदृश्य, और वे जो आपने ख़ुद सहेजे। सभी असली चुनाव-क्षेत्र नतीजों पर काल्पनिक परिदृश्य हैं, पूर्वानुमान नहीं।',
+  glFeatured: 'चुनिंदा', glMine: 'मेरे परिदृश्य', glNoMine: 'अभी कुछ सहेजा नहीं है। सिम्युलेटर खोलें, परिदृश्य बनाएँ और सहेजें टैब इस्तेमाल करें।', glNoFeat: 'अभी कोई चुनिंदा परिदृश्य नहीं।', glOpen: 'खोलें', glLink: 'लिंक कॉपी करें', glDel: 'हटाएँ', glStar: 'सितारा दें', glStarred: 'सितारा लगा है',
+  glBy: '{n} की ओर से', glSubmit: 'किसी परिदृश्य को चुनिंदा में जुड़वाने के लिए भेजें', glSubmitSub: 'अपलोड का बटन इसलिए नहीं है कि जनादेश का कोई सर्वर नहीं है। अपने सहेजे परिदृश्यों में से एक चुनें, इससे उसके लिंक के साथ GitHub का भरा हुआ इश्यू खुलता है; अगर वह निष्पक्ष और अच्छी तरह समझाया गया काल्पनिक परिदृश्य हुआ तो यहाँ जोड़ दिया जाएगा।',
+  glPick: 'परिदृश्य', glName: 'शीर्षक', glDesc: 'यह क्या पूछता है? एक या दो वाक्य', glSend: 'GitHub इश्यू खोलें', glNeedMine: 'पहले कोई परिदृश्य सहेजें, फिर उसे भेज सकेंगे।', glWhen: '{d} को सहेजा', glHead: 'सीटें: {h}',
+  homeUnaligned: 'किसी में नहीं', homeVacant: 'ख़ाली', homeLiveNote: '{d} तक के मौजूदा सदस्य, विकिपीडिया से। निर्दलीय अलग दिखाए गए हैं, किसी गुट में नहीं गिने गए। सिम्युलेटर 2024 के चुनावी नतीजे से शुरू होता है।',
+  plTitle: 'खेलें और देखें', plLede: 'भविष्यवाणी करें, नतीजे के दिन गिनती के साथ चलें, अपनी जानकारी परखें, या किसी और का बनाया परिदृश्य खोलें।',
+  plPredD: 'सीटों की भविष्यवाणी पक्की करें, शेयर करें और नतीजा आने पर अंक पाएँ।', plLiveD: 'गिनती के साथ आँकड़े दर्ज करें और अपनी भविष्यवाणी व एग्ज़िट पोल से तुलना करें।', plGuessD: 'सीटों के अर्धवृत्त से चुनाव पहचानिए।', plQuizD: 'चुनावों, लोकसभा और राज्यों पर दस प्रश्न।', plGalD: 'तैयार परिदृश्य, और आपके अपने।',
+  glRules: 'कृपया वही काल्पनिक परिदृश्य भेजें जो आँकड़ों के प्रति ईमानदार हों: उन्हें भविष्यवाणी न बताएँ, और किसी निजी व्यक्ति के बारे में कुछ न हो।',
+});
+let GAL = null;
+async function galData(){ if(!GAL){ try{ GAL = await getJSON('ref/gallery.json'); }catch(e){ GAL = {items: []}; } } return GAL; }
+const galLink = code => location.origin + location.pathname + '#s=' + code;
+PAGES.set('gallery', async box => {
+  const gal = await galData(), saved = store.get('scenarios', []), stars = new Set(store.get('galstars', []));
+  const star = id => `<button class="btn small gstar" data-star="${esc(id)}" aria-pressed="${stars.has(id)}" title="${esc(t(stars.has(id) ? 'glStarred' : 'glStar'))}">${stars.has(id) ? '★' : '☆'}</button>`;
+  const feat = gal.items.slice().sort((a, b) => stars.has(b.id) - stars.has(a.id));
+  const mine = saved.map((s, i) => ({s, i, id: 'm' + i}));
+  const scnTitle = s => { const e = INDEX.elections.find(x => x.id === s.s.eid); return e ? (e.kind === 'LS' ? t('titleLS', {y: s.s.next ? nextYear(e, s.s.ahead || 1) : e.label}) : t('titleAE', {s: stName(e.state), y: s.s.next ? nextYear(e, s.s.ahead || 1) : e.label})) : ''; };
+  box.innerHTML = `<article class="page" style="max-width:1000px"><h2>${esc(t('glTitle'))}</h2><p class="lede">${esc(t('glSub'))}</p>
+    <h3 style="margin-top:18px">${esc(t('glFeatured'))}</h3>
+    ${feat.length ? `<div class="calgrid">${feat.map(it => `<div class="calc"><i style="background:${esc(it.color || 'var(--violet)')}"></i><div><b class="calt">${esc(L2(it.en[0], it.hi[0]))}</b><p class="small" style="margin:2px 0 4px">${esc(L2(it.en[1], it.hi[1]))}</p>${it.head ? `<p class="small" style="margin:0 0 6px"><b>${esc(t('glHead', {h: it.head}))}</b></p>` : ''}<p class="small" style="margin:0 0 8px">${esc(t('glBy', {n: it.by || 'Janadesh'}))}</p>
+        <div class="row"><button class="btn small primary" data-gopen="${esc(it.id)}">${esc(t('glOpen'))}</button><button class="btn small" data-glink="${esc(it.id)}">${esc(t('glLink'))}</button>${star(it.id)}</div></div></div>`).join('')}</div>` : `<p class="small">${esc(t('glNoFeat'))}</p>`}
+    <h3 style="margin-top:22px">${esc(t('glMine'))}</h3>
+    ${mine.length ? `<div class="calgrid">${mine.map(o => `<div class="calc"><i style="background:var(--evmblue)"></i><div><b class="calt">${esc(o.s.name)}</b><p class="small" style="margin:2px 0 8px">${esc(scnTitle(o.s))} · ${esc(t('glWhen', {d: o.s.when}))}</p>
+        <div class="row"><button class="btn small primary" data-mopen="${o.i}">${esc(t('glOpen'))}</button><button class="btn small" data-mlink="${o.i}">${esc(t('glLink'))}</button><button class="btn small" data-mdel="${o.i}">${esc(t('glDel'))}</button></div></div></div>`).join('')}</div>` : `<p class="small">${esc(t('glNoMine'))}</p>`}
+    <h3 style="margin-top:22px">${esc(t('glSubmit'))}</h3><p class="small" style="margin:0 0 8px">${esc(t('glSubmitSub'))}</p>
+    ${mine.length ? `<div class="stack" style="gap:8px;max-width:560px"><label class="stack" style="gap:3px"><span class="small">${esc(t('glPick'))}</span><select id="glSel">${mine.map(o => `<option value="${o.i}">${esc(o.s.name)}</option>`).join('')}</select></label>
+      <label class="stack" style="gap:3px"><span class="small">${esc(t('glName'))}</span><input class="inp" id="glNm" maxlength="80"></label>
+      <label class="stack" style="gap:3px"><span class="small">${esc(t('glDesc'))}</span><textarea id="glDs" maxlength="400" style="min-height:70px"></textarea></label>
+      <div><button class="btn primary" id="glGo">${esc(t('glSend'))}</button></div></div>` : `<p class="small">${esc(t('glNeedMine'))}</p>`}
+    <p class="small" style="margin-top:12px">${esc(t('glRules'))}</p></article>`;
+  const open = code => { location.hash = '#s=' + code; };
+  box.querySelectorAll('[data-gopen]').forEach(b => b.onclick = () => { track('gallery_open', {id: b.dataset.gopen}); open(gal.items.find(i => i.id === b.dataset.gopen).code); });
+  box.querySelectorAll('[data-glink]').forEach(b => b.onclick = () => copy(galLink(gal.items.find(i => i.id === b.dataset.glink).code), t('linkCopied')));
+  box.querySelectorAll('[data-star]').forEach(b => b.onclick = () => { const id = b.dataset.star; if(stars.has(id)) stars.delete(id); else stars.add(id); store.set('galstars', [...stars]); routePages('#/gallery'); });
+  const forLink = s => { const sc = Object.assign({}, s, {lang: LANG}); const T = {}; for(const k in sc.T || {}) T[k] = Math.round(sc.T[k] * 100) / 100; sc.T = T; for(const k of ['locks', 'regional', 'reserved', 'overrides', 'allyEdit', 'partyEdit']){ if(sc[k] && !Object.keys(sc[k]).length) delete sc[k]; } if(sc.reserved && !Object.keys(sc.reserved.SC || {}).length && !Object.keys(sc.reserved.ST || {}).length) delete sc.reserved; return sc; };
+  box.querySelectorAll('[data-mopen]').forEach(b => b.onclick = () => { location.hash = ''; applyScenario(saved[+b.dataset.mopen].s); });
+  box.querySelectorAll('[data-mlink]').forEach(b => b.onclick = () => copy(galLink(encodeScenario(forLink(saved[+b.dataset.mlink].s))), t('linkCopied')));
+  box.querySelectorAll('[data-mdel]').forEach(b => b.onclick = () => { saved.splice(+b.dataset.mdel, 1); store.set('scenarios', saved); routePages('#/gallery'); });
+  const sel = $('#glSel'); if(sel){ const fill = () => { const s = saved[+sel.value]; if(s && !$('#glNm').value) $('#glNm').value = s.name; }; sel.onchange = () => { $('#glNm').value = ''; fill(); }; fill();
+    $('#glGo').onclick = () => {
+      const s = saved[+sel.value], name = $('#glNm').value.trim() || s.name, desc = $('#glDs').value.trim(), url = galLink(encodeScenario(forLink(s.s)));
+      const body = `**Title:** ${name}\n**What it asks:** ${desc || '(please describe)'}\n**Election:** ${scnTitle(s)}\n\n**Link:** ${url}\n\n_Sent from ${location.origin}${location.pathname}_`;
+      track('gallery_submit', {e: s.s.eid}); window.open(`${REPO}/issues/new?labels=scenario&title=${encodeURIComponent('Scenario: ' + name)}&body=${encodeURIComponent(body)}`, '_blank', 'noopener'); }; }
+});
+function renderPlayHome(){
+  const g = $('#plGrid'); if(!g) return;
+  const cards = [['predict', 'prTitle', 'plPredD', 'var(--violet)'], ['live', 'lvTitle', 'plLiveD', 'var(--bad)'], ['guess', 'gsTitle', 'plGuessD', '#0F8B8D'], ['quiz', 'qzTitle', 'plQuizD', '#D4A017'], ['gallery', 'glTitle', 'plGalD', 'var(--evmblue)']];
+  g.innerHTML = cards.map(c => `<button class="scn" data-pl="${c[0]}"><i style="background:${c[3]}"></i><span><b>${esc(t(c[1]))}</b><br><span class="small">${esc(t(c[2]))}</span></span></button>`).join('');
+  g.querySelectorAll('[data-pl]').forEach(b => b.onclick = () => { location.hash = '#/' + b.dataset.pl; });
+}
 
 
 async function boot(){

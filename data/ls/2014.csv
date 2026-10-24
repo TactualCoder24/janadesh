@@ -111,8 +111,8 @@ ls-2014,LS,India,2014,2014,official,109,Mahesana,GEN,Gujarat,992643,BJP,Patel Ja
 ls-2014,LS,India,2014,2014,official,110,Sabarkantha,GEN,Gujarat,1071668,BJP,Rathod Dipsinh Shankarsinh,552205,INC,Shankersinh Vaghela Bapu,467750,84455,7.88
 ls-2014,LS,India,2014,2014,official,111,Gandhinagar,GEN,Gujarat,1121382,BJP,L.K.Advani,773539,INC,Kiritbhai Ishvarbhai Patel,290418,483121,43.08
 ls-2014,LS,India,2014,2014,official,112,Ahmedabad East,GEN,Gujarat,968792,BJP,Paresh Rawal,633582,INC,Patel Himmatsingh Prahladsingh,306949,326633,33.72
-ls-2014,LS,India,2014,2014,official,113,Ahmedabad West,GEN,Gujarat,947097,BJP,Dr. Kirit P Solanki,617104,INC,Ishwarbahi Dhanabhai Makwana,296793,320311,33.82
-ls-2014,LS,India,2014,2014,official,114,Surendranagar,SC,Gujarat,933653,BJP,Fatepara Devajibhai Govindbhai,529003,INC,Koli Patel Somabhai Gandalal,326096,202907,21.73
+ls-2014,LS,India,2014,2014,official,113,Ahmedabad West,SC,Gujarat,947097,BJP,Dr. Kirit P Solanki,617104,INC,Ishwarbahi Dhanabhai Makwana,296793,320311,33.82
+ls-2014,LS,India,2014,2014,official,114,Surendranagar,GEN,Gujarat,933653,BJP,Fatepara Devajibhai Govindbhai,529003,INC,Koli Patel Somabhai Gandalal,326096,202907,21.73
 ls-2014,LS,India,2014,2014,official,115,Rajkot,GEN,Gujarat,1038820,BJP,Kundariya Mohanbhai Kalyanjibhai,621524,INC,Kunvarjibhai Mohanbhai Bavaliya,375096,246428,23.72
 ls-2014,LS,India,2014,2014,official,116,Porbandar,GEN,Gujarat,792990,BJP,Radadiya Vithalbhai Hansrajbhai,508437,NCP,Jadeja Kandhalbhai Sarmanbhai,240466,267971,33.79
 ls-2014,LS,India,2014,2014,official,117,Jamnagar,GEN,Gujarat,846055,BJP,Poonamben Hematbhai Maadam,484412,INC,Ahir Vikrambhai Arjanbhai Madam,309123,175289,20.72
@@ -290,8 +290,8 @@ ls-2014,LS,India,2014,2014,official,288,Satara,GEN,Maharashtra,966092,NCP,Shrima
 ls-2014,LS,India,2014,2014,official,289,Ratnagiri - Sindhudurg,GEN,Maharashtra,883863,SHS_SHINDE,Vinayak Bhaurao Raut,493088,INC,Nilesh Narayan Rane,343037,150051,16.98
 ls-2014,LS,India,2014,2014,official,290,Kolhapur,GEN,Maharashtra,1253274,NCP,Dhananjay Bhimrao Mahadik,607665,SHS_SHINDE,Sanjay Sadashiv Mandalik,574406,33259,2.65
 ls-2014,LS,India,2014,2014,official,291,Hatkanangle,GEN,Maharashtra,1178812,SWP,Raju Shetty,640428,INC,Awade Kallappa Baburao,462618,177810,15.08
-ls-2014,LS,India,2014,2014,official,292,Inner Manipur,ST,Manipur,635573,INC,Dr. Thokchom Meinya,292102,CPI,Moirangthem Nara,197428,94674,14.9
-ls-2014,LS,India,2014,2014,official,293,Outer Manipur,GEN,Manipur,769560,INC,Thangso Baite,296770,NPF,Soso Lorho,281133,15637,2.03
+ls-2014,LS,India,2014,2014,official,292,Inner Manipur,GEN,Manipur,635573,INC,Dr. Thokchom Meinya,292102,CPI,Moirangthem Nara,197428,94674,14.9
+ls-2014,LS,India,2014,2014,official,293,Outer Manipur,ST,Manipur,769560,INC,Thangso Baite,296770,NPF,Soso Lorho,281133,15637,2.03
 ls-2014,LS,India,2014,2014,official,294,Shillong,ST,Meghalaya,609027,INC,Vincent H. Pala,209340,IND,Prechard B. M. Basaiawmoit,168961,40379,6.63
 ls-2014,LS,India,2014,2014,official,295,Tura,ST,Meghalaya,438886,NPP,Purno Agitok Sangma,239301,INC,Daryl William Ch Momin,199585,39716,9.05
 ls-2014,LS,India,2014,2014,official,296,Mizoram,ST,Mizoram,426706,INC,C. L. Ruala,210485,IND,Robert Romawia Royte,204331,6154,1.44
@@ -413,8 +413,8 @@ ls-2014,LS,India,2014,2014,official,411,Bhongir,GEN,Telangana,1201022,BRS,Dr. Bo
 ls-2014,LS,India,2014,2014,official,412,Warangal,SC,Telangana,1160597,BRS,Kadiyam Srihari,661639,INC,Rajaiah Siricilla,269065,392574,33.83
 ls-2014,LS,India,2014,2014,official,413,Mahabubabad,ST,Telangana,1117665,BRS,Prof. Azmeera Seetaram Naik,320569,INC,P. Balram,285577,34992,3.13
 ls-2014,LS,India,2014,2014,official,414,Khammam,GEN,Telangana,1177914,YSRCP,Ponguleti Srinivasa Reddy,421957,TDP,Nama Nageswara Rao,409983,11974,1.02
-ls-2014,LS,India,2014,2014,official,415,Tripura West,ST,Tripura,1044320,CPI(M),Sankar Prasad Datta,671665,INC,Arunoday Saha,168179,503486,48.21
-ls-2014,LS,India,2014,2014,official,416,Tripura East,GEN,Tripura,925478,CPI(M),Jitendra Choudhury,623771,INC,Sachitra Debbarma,139413,484358,52.34
+ls-2014,LS,India,2014,2014,official,415,Tripura West,GEN,Tripura,1044320,CPI(M),Sankar Prasad Datta,671665,INC,Arunoday Saha,168179,503486,48.21
+ls-2014,LS,India,2014,2014,official,416,Tripura East,ST,Tripura,925478,CPI(M),Jitendra Choudhury,623771,INC,Sachitra Debbarma,139413,484358,52.34
 ls-2014,LS,India,2014,2014,official,417,Saharanpur,GEN,Uttar Pradesh,1187575,BJP,Raghav Lakhanpal,472999,INC,Imran Masood,407909,65090,5.48
 ls-2014,LS,India,2014,2014,official,418,Kairana,GEN,Uttar Pradesh,1115421,BJP,Hukum Singh,565909,SP,Nahid Hasan,329081,236828,21.23
 ls-2014,LS,India,2014,2014,official,419,Muzaffarnagar,GEN,Uttar Pradesh,1101983,BJP,Dr. Sanjeev Kumar Balyan,653391,BSP,Kadir Rana,252241,401150,36.4
@@ -513,8 +513,8 @@ ls-2014,LS,India,2014,2014,official,511,Baharampur,GEN,West Bengal,1143395,INC,A
 ls-2014,LS,India,2014,2014,official,512,Murshidabad,GEN,West Bengal,1277607,CPI(M),Badaruddoza Khan,426947,INC,Abdul Mannan Hossain,408494,18453,1.44
 ls-2014,LS,India,2014,2014,official,513,Krishnanagar,GEN,West Bengal,1240272,AITC,Tapas Paul,438789,CPI(M),Jha Shantanu,367534,71255,5.75
 ls-2014,LS,India,2014,2014,official,514,Ranaghat,SC,West Bengal,1334741,AITC,Tapas Mandal,590451,CPI(M),Archana Biswas,388684,201767,15.12
-ls-2014,LS,India,2014,2014,official,515,Bangaon,GEN,West Bengal,1271480,AITC,Kapil Krishna Thakur,551213,CPI(M),Debesh Das,404612,146601,11.53
-ls-2014,LS,India,2014,2014,official,516,Barrackpur,SC,West Bengal,1040151,AITC,Dinesh Trivedi,479206,CPI(M),Subhashini Ali,272433,206773,19.88
+ls-2014,LS,India,2014,2014,official,515,Bangaon,SC,West Bengal,1271480,AITC,Kapil Krishna Thakur,551213,CPI(M),Debesh Das,404612,146601,11.53
+ls-2014,LS,India,2014,2014,official,516,Barrackpur,GEN,West Bengal,1040151,AITC,Dinesh Trivedi,479206,CPI(M),Subhashini Ali,272433,206773,19.88
 ls-2014,LS,India,2014,2014,official,517,Dum Dum,GEN,West Bengal,1115807,AITC,Saugata Roy,483244,CPI(M),Asim Kumar Dasgupta,328310,154934,13.89
 ls-2014,LS,India,2014,2014,official,518,Barasat,GEN,West Bengal,1256631,AITC,Kakoli Ghosh Dastidar,525387,AIFB,Dr. Mortoza Hossain,352246,173141,13.78
 ls-2014,LS,India,2014,2014,official,519,Basirhat,GEN,West Bengal,1263800,AITC,Idris Ali,492326,CPI,Nurul Huda,382667,109659,8.68
