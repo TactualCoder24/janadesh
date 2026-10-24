@@ -116,7 +116,7 @@ PAGES.set('live', async box => {
     $('#lvClear').onclick = () => { cur.t = {}; cur.d = {}; persist(); stopReplay(); L.rp = null; drawTop(); drawSeats(); };
     $('#lvImg').onclick = () => imageModal({title: t('lvImg'), file: 'janadesh-live.png', text: text(), compose: async fmt => {
       const wide = fmt !== 'story', W = wide ? 1200 : 1080, H = wide ? 675 : 1920, pad = wide ? 48 : 56, c = document.createElement('canvas'); c.width = W; c.height = H;
-      const g = c.getContext('2d'), cs = getComputedStyle(document.documentElement), col = n => cs.getPropertyValue(n).trim() || '#000'; await cardFonts(); cardFrame(g, W, H, wide, pad, col);
+      const g = c.getContext('2d'), col = lightCol; await cardFonts(); cardFrame(g, W, H, wide, pad, col);
       const cn = counts(), order = units.filter(u => cn[u.key] > 0).sort((a, b) => cn[b.key] - cn[a.key]), declared = Object.values(cn).reduce((a, b) => a + b, 0);
       g.fillStyle = col('--ink'); g.font = `700 ${wide ? 40 : 66}px "Anek Latin","Anek Devanagari", system-ui`; let y = wide ? 82 : 150; g.fillText(title, pad, y);
       g.font = `500 ${wide ? 22 : 34}px "Hind", system-ui`; g.fillStyle = col('--muted'); g.fillText(t('lvDecl', {n: declared, m: N}), pad, y + (wide ? 34 : 56));

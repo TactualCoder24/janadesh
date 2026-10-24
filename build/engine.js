@@ -261,6 +261,7 @@ function run(){
   const w = winners(shares, S.overrides);
   RES = {T, shares, ...w};
   renderResult();
+  undoNote(); cleanTouch();
 }
 
 // ---------- Monte Carlo ----------

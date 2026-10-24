@@ -1,2 +1,17 @@
-{"source": "Wikipedia, Women's political participation in India: number of women elected to the Lok Sabha (table 'Women politicians in Lok Sabha'). Counts differ by a few between sources.",
- "ls-2009": 52, "ls-2014": 64, "ls-2019": 78, "ls-2024": 74}
+{
+ "source": "Election Commission of India, Atlas 2024 (https://www.eci.gov.in/EBooks/atlas-2024/files/basic-html/page137.html): women elected at each general election, 1971 to 2024. 2009 is 59 and 2014 is 62 there, not 52 and 64 as an earlier copy of Wikipedia had; PRS India gives 58 for 2009. The ECI figure is used.",
+ "ls-1971": 29,
+ "ls-1977": 19,
+ "ls-1980": 28,
+ "ls-1984": 43,
+ "ls-1989": 29,
+ "ls-1991": 39,
+ "ls-1996": 40,
+ "ls-1998": 43,
+ "ls-1999": 49,
+ "ls-2004": 45,
+ "ls-2009": 59,
+ "ls-2014": 62,
+ "ls-2019": 78,
+ "ls-2024": 74
+}

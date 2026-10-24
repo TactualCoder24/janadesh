@@ -80,7 +80,7 @@ function playRounds(box, o){
     $('#gmAgain').onclick = begin; $('#gmShare').onclick = () => copy(text, t('gmCopied'));
     $('#gmCard').onclick = () => imageModal({title: t('gmCardTitle'), file: 'janadesh-score.png', text, compose: async fmt => {
       const wide = fmt !== 'story', W = wide ? 1200 : 1080, H = wide ? 675 : 1920, pad = wide ? 48 : 56, c = document.createElement('canvas'); c.width = W; c.height = H;
-      const g = c.getContext('2d'), cs = getComputedStyle(document.documentElement), col = k => cs.getPropertyValue(k).trim() || '#000'; await cardFonts(); cardFrame(g, W, H, wide, pad, col);
+      const g = c.getContext('2d'), col = lightCol; await cardFonts(); cardFrame(g, W, H, wide, pad, col);
       g.fillStyle = col('--ink'); g.font = `700 ${wide ? 44 : 72}px "Anek Latin","Anek Devanagari", system-ui`; wrapText(g, o.title, pad, wide ? 130 : 330, W - 2 * pad, wide ? 52 : 84, 2);
       g.fillStyle = col('--violet'); g.font = `800 ${wide ? 220 : 340}px "Anek Latin", system-ui`; g.fillText(`${st.score}/${n}`, pad, wide ? 400 : 760);
       g.fillStyle = col('--muted'); g.font = `500 ${wide ? 28 : 44}px "Hind", system-ui`; wrapText(g, t('gmCardLine', {s: st.score, n, g: o.title}), pad, wide ? 470 : 880, W - 2 * pad, wide ? 36 : 58, 3);
@@ -142,7 +142,7 @@ function qReserved(Q){
   return {topic: 'house', q: t('qzReserved', {c: w}) + ' (' + e.label + ')', ...ch, why: t('qzResWhy', {y: e.label, n: a, c: w})};
 }
 function qWomen(Q){
-  const id = pick1(lsIds().filter(x => Q.ent.get(x).year >= 2019 && Q.stats[x] && Q.stats[x].wOff > 0)), s = Q.stats[id]; if(!s) return null; const e = Q.ent.get(id), a = s.wOff;
+  const id = pick1(lsIds().filter(x => Q.stats[x] && Q.stats[x].wOff > 0)), s = Q.stats[id]; if(!s) return null; const e = Q.ent.get(id), a = s.wOff;
   const ch = choices(a, numOpts(a, 1), x => String(x)); if(!ch) return null;
   return {topic: 'house', q: t('qzWomen', {y: e.label}), ...ch, why: t('qzWomenWhy', {n: a, m: s.n})};
 }

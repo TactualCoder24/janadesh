@@ -10,5 +10,7 @@ for p in sorted(glob.glob(os.path.join(HERE, 'features', '*.js'))):
 assert '/*FEATURES*/' in t
 t = t.replace('/*FEATURES*/', feats, 1)
 # the deployed site lives at the repo root and reads its data from source/
+import time
+t = t.replace('/*BUILD*/', time.strftime('%Y%m%d%H%M%S'))
 open(os.path.join(ROOT, 'index.html'), 'w', encoding='utf-8', newline='\n').write(t)
 print('assembled', len(t))

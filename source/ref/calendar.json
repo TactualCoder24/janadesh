@@ -1,13 +1,13 @@
 {
   "v": 1,
   "asof": "2026-10-25",
-  "source": "Wikipedia pages '2027 elections in India', '2028 elections in India' and '2029 elections in India' (tentative schedules as per assembly tenure), and news reports of September 2026 on the term-end dates of the early-2027 assemblies. Windows are estimates from each house's five-year term, not announcements.",
+  "source": "Wikipedia pages '2027 elections in India', '2028 elections in India' and '2029 elections in India' (tentative schedules as per assembly tenure), and news reports of September and October 2026 on the term-end dates of the early-2027 assemblies and on Uttar Pradesh possibly voting in March or April 2027 after the board exams. No schedule has been announced by the Election Commission as of 25 October 2026. Windows are estimates from each house's five-year term, not announcements.",
   "items": [
     {"id": "ae-manipur", "kind": "AE", "state": "Manipur", "from": "2027-02", "to": "2027-03", "termEnd": "2027-03", "date": null},
     {"id": "ae-goa", "kind": "AE", "state": "Goa", "from": "2027-02", "to": "2027-03", "termEnd": "2027-03", "date": null},
     {"id": "ae-punjab", "kind": "AE", "state": "Punjab", "from": "2027-02", "to": "2027-03", "termEnd": "2027-03", "date": null},
     {"id": "ae-uttarakhand", "kind": "AE", "state": "Uttarakhand", "from": "2027-02", "to": "2027-03", "termEnd": "2027-03", "date": null},
-    {"id": "ae-uttar-pradesh", "kind": "AE", "state": "Uttar Pradesh", "from": "2027-02", "to": "2027-03", "termEnd": "2027-05", "date": null},
+    {"id": "ae-uttar-pradesh", "kind": "AE", "state": "Uttar Pradesh", "from": "2027-02", "to": "2027-04", "termEnd": "2027-05", "date": null},
     {"id": "president", "kind": "PRES", "state": null, "from": "2027-07", "to": "2027-07", "termEnd": "2027-07", "date": null},
     {"id": "ae-himachal-pradesh", "kind": "AE", "state": "Himachal Pradesh", "from": "2027-11", "to": "2027-12", "termEnd": null, "date": null},
     {"id": "ae-gujarat", "kind": "AE", "state": "Gujarat", "from": "2027-11", "to": "2027-12", "termEnd": null, "date": null},

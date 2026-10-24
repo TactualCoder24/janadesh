@@ -22,7 +22,7 @@ function toolsTouch(now){
     toolKeyShown = key; const my = ++toolRun, body = $('#toolBody');
     $('#toolSub').textContent = def.sub ? t(def.sub) : '';
     try{ await def.render(body, () => my !== toolRun); if(my === toolRun) alignTables(body); }catch(err){ console.error(err); if(my === toolRun) body.innerHTML = `<p class="small">${esc(t('toolsNoData'))}</p>`; }
-  }, now ? 0 : (def.live ? 180 : 40));
+  }, now ? 0 : (toolKeyShown == null ? 1200 : def.live ? 180 : 40));   // the first tool waits so the map and result load first
 }
 function alignTables(root){
   root.querySelectorAll('table.tbl').forEach(tb => { const r = tb.querySelector('tbody tr'); if(!r) return; const tds = [...r.children];

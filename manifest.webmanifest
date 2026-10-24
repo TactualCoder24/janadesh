@@ -1,0 +1,17 @@
+{
+  "name": "Janadesh: Indian election seat simulator",
+  "short_name": "Janadesh",
+  "description": "Simulate the Lok Sabha and every Vidhan Sabha election, seat by seat. Simulation only, not real results or forecasts.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#141414",
+  "theme_color": "#141414",
+  "lang": "en",
+  "categories": ["education", "news", "politics"],
+  "icons": [
+    { "src": "logo/janadesh-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "logo/janadesh-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "logo/janadesh-icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

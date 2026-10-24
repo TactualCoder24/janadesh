@@ -14,12 +14,12 @@ PAGES.set('tree', async box => {
   for(let y = 1950; y <= 2020; y += 10) g += `<line x1="${X(y)}" x2="${X(y)}" y1="22" y2="${H - 8}" stroke="var(--line)"/>${svgText(X(y), 16, String(y), {anchor: 'middle', size: 11})}`;
   g += svgText(X(2026), 16, t('treeNow'), {anchor: 'middle', size: 11});
   D.events.forEach(ev => { const x = X(ev.year), pairs = ev.links || (ev.parents.length ? ev.parents.flatMap(a => ev.children.map(b => [a, b])) : []);
-    pairs.forEach(([a, b]) => { g += `<path d="M${x},${Yr(node(a).row)} V${Yr(node(b).row)}" stroke="#141414" stroke-opacity=".55" stroke-width="1.6" stroke-dasharray="${ev.kind === 'merge' ? '0' : '3 2'}"/>`; }); });
+    pairs.forEach(([a, b]) => { g += `<path d="M${x},${Yr(node(a).row)} V${Yr(node(b).row)}" stroke="var(--ink)" stroke-opacity=".55" stroke-width="1.6" stroke-dasharray="${ev.kind === 'merge' ? '0' : '3 2'}"/>`; }); });
   D.nodes.forEach(n => { const x0 = X(n.from), x1 = n.to ? X(n.to + .8) : X(2027), y = Yr(n.row);
     g += `<line x1="${x0}" x2="${Math.max(x1, x0 + 6)}" y1="${y}" y2="${y}" stroke="${colour(n)}" stroke-width="9" stroke-linecap="round"/>`;
     g += svgText(x0 + (x0 > 600 ? -4 : 4), y - 8, L2(n.n, n.h), {size: 11.5, weight: 600, fill: 'var(--ink)', anchor: x0 > 700 ? 'end' : 'start'}); });
   D.events.forEach(ev => ev.children.concat(ev.kind === 'merge' ? [] : ev.parents.slice(0, 0)).forEach(id => { const n = node(id), x = X(ev.year), y = Yr(n.row);
-    g += `<g><title>${esc(ev.year + ' · ' + L2(ev.en, ev.hi))}</title><circle cx="${x}" cy="${y}" r="7.5" fill="#fff" stroke="#141414" stroke-width="1.6"/>${svgText(x, y + 4, EV_GLYPH[ev.kind], {anchor: 'middle', size: 10.5, fill: '#141414'})}</g>`; }));
+    g += `<g><title>${esc(ev.year + ' · ' + L2(ev.en, ev.hi))}</title><circle cx="${x}" cy="${y}" r="7.5" fill="var(--panel)" stroke="var(--ink)" stroke-width="1.6"/>${svgText(x, y + 4, EV_GLYPH[ev.kind], {anchor: 'middle', size: 10.5, fill: '#141414'})}</g>`; }));
   const kindName = k => t(k === 'split' ? 'evSplit' : k === 'merge' ? 'evMerge' : 'evFormed');
   box.innerHTML = `<article class="page" style="max-width:none"><h2>${esc(t('treeTitle'))}</h2><p class="lede">${esc(t('treeSub'))}</p>
     <p class="small">✂ ${esc(t('evSplit'))} · ⊕ ${esc(t('evMerge'))} · ★ ${esc(t('evFormed'))}. ${esc(t('treeNote'))}</p>

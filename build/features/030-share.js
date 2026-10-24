@@ -74,6 +74,9 @@ function threadPosts(){
 }
 
 // ---------- image ----------
+// pictures to download or post stay light whatever theme the page is in
+const LIGHT_COLOURS = {'--violet': '#4A2577', '--ink': '#141414', '--muted': '#5D6068', '--good': '#16794A', '--bad': '#B4372B', '--warn': '#9A5800', '--sunk': '#F2F3F5', '--line': '#E2E3E6'};
+const lightCol = n => LIGHT_COLOURS[n] || '#000';
 function mapImage(){
   return new Promise(res => {
     const svg = $('#map svg'); if(!svg || !svg.querySelector('path.seat')) return res(null);
@@ -96,7 +99,7 @@ function wrapText(g, text, x, y, maxW, lh, maxLines){
 async function composeImage(fmt){
   const wide = fmt !== 'story', W = wide ? 1200 : 1080, H = wide ? 675 : 1920;
   const c = document.createElement('canvas'); c.width = W; c.height = H;
-  const g = c.getContext('2d'), cs = getComputedStyle(document.documentElement), col = n => cs.getPropertyValue(n).trim() || '#000';
+  const g = c.getContext('2d'), col = lightCol;
   try{ await Promise.all(['800 40px "Anek Latin"', '600 24px "Hind"', '700 30px "Anek Devanagari"'].map(f => document.fonts.load(f, 'Aअ'))); }catch(e){}
   const maj = Math.floor(E.N / 2) + 1, ord = seatOrder().slice(0, wide ? 6 : 8), pad = wide ? 48 : 56;
   g.fillStyle = '#fff'; g.fillRect(0, 0, W, H);
@@ -145,7 +148,8 @@ async function makeImage(fmt){
   modal(`<h3>${esc(t('imgTitle'))}</h3>
     <div class="row" style="margin-bottom:8px"><div class="seg" role="group" aria-label="Format"><button data-f="wide" aria-pressed="${imgFmt==='wide'}">${esc(t('fmtWide'))}</button><button data-f="story" aria-pressed="${imgFmt==='story'}">${esc(t('fmtStory'))}</button></div></div>
     <img src="${url}" alt="${esc(t('imgTitle'))}" style="width:100%;max-height:60vh;object-fit:contain;border:1px solid var(--line);border-radius:8px">
-    <div class="row" style="margin-top:8px"><a class="btn primary" href="${url}" download="janadesh.png">${esc(t('downloadPng'))}</a>${canCopy ? `<button class="btn" id="imgCopy">${esc(t('copyImage'))}</button>` : ''}${canShareFile ? `<button class="btn" id="imgShare">${esc(t('shareNative'))}</button>` : ''}<button class="btn" data-close>${esc(t('close'))}</button></div>`);
+    <div class="row" style="margin-top:8px"><a class="btn primary" href="${url}" download="janadesh.png">${esc(t('downloadPng'))}</a>${canCopy ? `<button class="btn" id="imgCopy">${esc(t('copyImage'))}</button>` : ''}${canShareFile ? `<button class="btn" id="imgShare">${esc(t('shareNative'))}</button>` : ''}<button class="btn" id="imgAnn">${esc(t('anBtn'))}</button><button class="btn" data-close>${esc(t('close'))}</button></div>`);
+  $('#imgAnn').onclick = () => annotateImage(c, {title: $('#title').textContent, file: 'janadesh.png', text: plain($('#verdict').innerHTML) + ' ' + shareURL()});
   document.querySelectorAll('#modalRoot [data-f]').forEach(b => b.onclick = () => makeImage(b.dataset.f));
   const cp = $('#imgCopy'); if(cp) cp.onclick = async () => { try{ await navigator.clipboard.write([new ClipboardItem({'image/png': blob})]); toast(t('imageCopied')); }catch(e){ toast(t('copyBlocked')); } };
   const sh = $('#imgShare'); if(sh) sh.onclick = () => navigator.share({files: [file], title: $('#title').textContent, text: plain($('#verdict').innerHTML) + ' ' + shareURL()}).catch(() => {});

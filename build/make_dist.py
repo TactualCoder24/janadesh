@@ -17,6 +17,17 @@ def run(script):
 
 run('assemble.py')
 
+def write_sw():
+    """sw.js at the repo root: the service worker template with this build's number (the same one the page puts in its data addresses)"""
+    import re
+    html = open(os.path.join(ROOT, 'index.html'), encoding='utf-8').read()
+    m = re.search(r"const BUILD = '(\d{14})'", html)
+    if not m: print('warning: no build number found, sw.js not written'); return
+    src = open(os.path.join(HERE, 'sw.template.js'), encoding='utf-8').read().replace('__BUILD__', m.group(1))
+    open(os.path.join(ROOT, 'sw.js'), 'w', encoding='utf-8', newline=chr(10)).write(src)
+    print('service worker for build', m.group(1))
+write_sw()
+
 def syntax_check():
     """Fail the build if the page's script does not parse (one stray apostrophe in a string takes the whole site down)."""
     import shutil, tempfile

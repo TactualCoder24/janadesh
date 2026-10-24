@@ -45,7 +45,7 @@ def main():
             out[e['id']] = {'n': n, 'lead': list(top[0]) if top else None, 'top': [list(x) for x in top],
                             'votes': [[p, round(100 * v / tot, 2)] for p, v in votes.most_common(6) if p != 'OTH'] if tot else [],
                             'women': [wk, wn], 'age': [ak, asum],
-                            **({'wOff': official[e['id']]} if e['id'] in official and wk < 0.7 * n else {}),
+                            **({'wOff': official[e['id']]} if e['id'] in official and (wk < 0.7 * n or abs(wn - official[e['id']]) > 3) else {}),
                             'res': {k: [v[0], dict(v[1].most_common(8))] for k, v in res.items() if v[0]}}
     json.dump(out, open(f'{D}/stats.json', 'w', encoding='utf-8'), separators=(',', ':'), ensure_ascii=False)
     print('stats:', len(out), 'elections,', round(os.path.getsize(f'{D}/stats.json') / 1e3), 'KB')

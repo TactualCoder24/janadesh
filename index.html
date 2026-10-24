@@ -19,8 +19,12 @@
 <meta name="twitter:image:alt" content="Janadesh: seat simulator for the Lok Sabha and every Vidhan Sabha">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#141414">
+<meta name="color-scheme" content="light dark">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="logo/janadesh-icon.png">
+<script>try{var th=JSON.parse(localStorage.getItem('janadesh:theme'));if(th==='dark'||th==='light')document.documentElement.setAttribute('data-theme',th);if(JSON.parse(localStorage.getItem('janadesh:cvd')))document.documentElement.setAttribute('data-cvd','1')}catch(e){}</script>
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%20512%20512%22%20width%3D%22512%22%20height%3D%22512%22%3E%3Crect%20width%3D%22512%22%20height%3D%22512%22%20rx%3D%22116%22%20fill%3D%22%23141414%22/%3E%3Ccircle%20cx%3D%22149.60%22%20cy%3D%22360.00%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22180.76%22%20cy%3D%22284.76%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22331.24%22%20cy%3D%22284.76%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22362.40%22%20cy%3D%22360.00%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22107.80%22%20cy%3D%22360.00%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22127.66%22%20cy%3D%22285.90%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22181.90%22%20cy%3D%22231.66%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22256.00%22%20cy%3D%22211.80%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22330.10%22%20cy%3D%22231.66%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22384.34%22%20cy%3D%22285.90%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22404.20%22%20cy%3D%22360.00%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%2266.00%22%20cy%3D%22360.00%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%2280.46%22%20cy%3D%22287.29%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22121.65%22%20cy%3D%22225.65%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22183.29%22%20cy%3D%22184.46%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22256.00%22%20cy%3D%22170.00%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22328.71%22%20cy%3D%22184.46%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22390.35%22%20cy%3D%22225.65%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22431.54%22%20cy%3D%22287.29%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%22446.00%22%20cy%3D%22360.00%22%20r%3D%2216.15%22%20fill%3D%22%23fff%22/%3E%3Crect%20x%3D%22237.95%22%20y%3D%22265.00%22%20width%3D%2236.10%22%20height%3D%22111.15%22%20rx%3D%2218.05%22%20fill%3D%22%238E5BD0%22/%3E%3C/svg%3E">
-<link rel="preload" href="source/data/index.json" as="fetch" crossorigin>
+<link rel="preload" href="source/data/index.json?v=20261025021709" as="fetch" crossorigin>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anek+Latin:wdth,wght@75..125,400..800&family=Hind:wght@400;500;600&family=Anek+Devanagari:wght@500;700;800&display=swap">
@@ -31,6 +35,19 @@
   --violet:#4A2577; --violet-soft:#EEE8F5; --evm:#E6E8EA; --evm-edge:#C9CDD2; --evmblue:#1F4FA8; --lamp:#E2231A; --warn:#9A5800; --warn-soft:#FFF5E3; --good:#16794A; --bad:#B4372B;
   --display:"Anek Latin","Anek Devanagari","Segoe UI",system-ui,sans-serif; --body:"Hind","Segoe UI",system-ui,sans-serif;
   --r:12px; color-scheme:light;
+  --onink:#FFFFFF; --good-soft:#E8F4EC; --bad-soft:#FBECEA; --hi:#FFFFFF; --seatline:#FFFFFF; --scrim:rgba(20,20,20,.45);
+}
+:root[data-theme="dark"]{
+  --bg:#101216; --panel:#171A20; --sunk:#1F232B; --tint:#1A1E25; --ink:#ECEEF1; --muted:#A5AAB5; --line:#2D323B;
+  --violet:#B994EC; --violet-soft:#2A2238; --evm:#1D2128; --evm-edge:#3B414C; --evmblue:#3E73D6; --lamp:#FF5A50; --warn:#E3A24A; --warn-soft:#2B2417; --good:#4CC38A; --bad:#FF7A6E;
+  --onink:#101216; --good-soft:#15291F; --bad-soft:#2E1B19; --hi:#2A2F38; --seatline:#171A20; --scrim:rgba(0,0,0,.6); color-scheme:dark;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#101216; --panel:#171A20; --sunk:#1F232B; --tint:#1A1E25; --ink:#ECEEF1; --muted:#A5AAB5; --line:#2D323B;
+    --violet:#B994EC; --violet-soft:#2A2238; --evm:#1D2128; --evm-edge:#3B414C; --evmblue:#3E73D6; --lamp:#FF5A50; --warn:#E3A24A; --warn-soft:#2B2417; --good:#4CC38A; --bad:#FF7A6E;
+    --onink:#101216; --good-soft:#15291F; --bad-soft:#2E1B19; --hi:#2A2F38; --seatline:#171A20; --scrim:rgba(0,0,0,.6); color-scheme:dark;
+  }
 }
 *{box-sizing:border-box}
 [hidden]{display:none!important}
@@ -39,6 +56,10 @@ body{font-family:var(--body);font-size:15px;line-height:1.5;padding-left:max(16p
 button,input,select,textarea{font:inherit;color:inherit}
 :focus-visible{outline:2px solid var(--violet);outline-offset:2px}
 .num{font-variant-numeric:tabular-nums}
+.skip{position:absolute;left:-9999px;top:8px;z-index:100;background:var(--panel);color:var(--ink);padding:8px 14px;border:2px solid var(--violet);border-radius:6px;text-decoration:none;font-weight:600}
+.skip:focus{left:8px}
+.sronly{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+:root[data-cvd] .sw{outline:1px solid var(--ink);outline-offset:-1px}
 h1,h2,h3{font-family:var(--display);margin:0;text-wrap:balance}
 .wrapw{max-width:1440px;margin:0 auto}
 
@@ -51,7 +72,7 @@ h1,h2,h3{font-family:var(--display);margin:0;text-wrap:balance}
 .seg{display:inline-flex;border:1px solid var(--ink);border-radius:6px;overflow:hidden;flex-wrap:wrap}
 .seg button{border:0;background:var(--panel);padding:5px 12px;cursor:pointer;color:var(--ink);font-weight:500}
 .seg button + button{border-left:1px solid var(--ink)}
-.seg button[aria-pressed="true"]{background:var(--ink);color:#fff}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--onink)}
 select,.inp{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:6px 10px;max-width:100%}
 .btn{border:1px solid var(--evm-edge);background:var(--panel);border-radius:5px;padding:6px 12px;cursor:pointer;font-weight:500;text-decoration:none;color:var(--ink);display:inline-flex;align-items:center;gap:6px}
 .btn:hover{border-color:var(--violet);color:var(--violet)}
@@ -129,14 +150,42 @@ select,.inp{background:var(--panel);border:1px solid var(--line);border-radius:8
 .gmopt:hover:not(:disabled){border-color:var(--violet)}
 .gmopt:disabled{cursor:default}
 .gmk{width:26px;height:26px;border-radius:13px;background:var(--sunk);display:inline-flex;align-items:center;justify-content:center;font-weight:700;font-size:13px;flex:none}
-.gmopt.right{border-color:var(--good);background:#E8F4EC}
-.gmopt.wrong{border-color:var(--bad);background:#FBECEA}
+.gmopt.right{border-color:var(--good);background:var(--good-soft)}
+.gmopt.wrong{border-color:var(--bad);background:var(--bad-soft)}
 .gmfb{margin:12px 0 8px}
 .gmfb.ok b{color:var(--good)}
 .gmfb.no b{color:var(--bad)}
 .gmfinal{font-family:var(--display);font-size:34px;font-weight:800;margin:8px 0}
 .gslegend{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:14px}
 .gstar{min-width:32px}
+.cvbar{position:absolute;top:0;left:0;right:0;display:flex;gap:10px;align-items:center;justify-content:flex-end;padding:10px 14px;background:linear-gradient(#000a,#0000);z-index:2;transition:opacity .3s;color:#fff}
+.cvbar.off{opacity:0;pointer-events:none}
+.cvbar .btn,.cvbar .seg button{background:#1a1a1f;color:#fff;border-color:#555}
+.cvbar .seg{border-color:#aaa}
+.cvbar .seg button[aria-pressed="true"]{background:#fff;color:#141414}
+.cvbar .small{color:#ccc;margin-right:auto}
+#cleanView{display:none;position:fixed;inset:0;z-index:70;background:#0b0b0e;align-items:center;justify-content:center}
+body.clean #cleanView{display:flex}
+body.clean{overflow:hidden}
+.cvstage{width:100%;height:100%;display:flex;align-items:center;justify-content:center;padding:12px}
+.cvstage canvas{max-width:100%;max-height:100%;aspect-ratio:16/9;background:#fff;border-radius:6px}
+.embedcredit{padding:8px 4px 4px;font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);margin-top:6px}
+.embedcredit a{color:var(--violet);font-weight:600;text-decoration:none}
+body.embed{padding-block:0 6px}
+body.embed .top,body.embed .notice,body.embed #home,body.embed #dock,body.embed #rail,body.embed #tabbar,body.embed .foot,body.embed #cardCharts,body.embed #cardTools,body.embed #cardHist,body.embed #detail,body.embed #appPick,body.embed .skip,body.embed #storyBtn,body.embed #shareBtn,body.embed #undoBtn,body.embed #redoBtn,body.embed #toast,body.embed #pageview,body.embed #seatview,body.embed .maphead .seg,body.embed #seatcol,body.embed .zoomhint,body.embed #baseNote,body.embed #sheetScrim{display:none!important}
+body.embed #app,body.embed #cardResult,body.embed #cardMap{display:block!important}
+body.embed .grid{display:block!important;padding:0!important}
+body.embed .main{display:block!important;padding:0!important}
+body.embed .mapwrap{display:block!important}
+body.embed .card{padding-top:10px}
+body.embed .hemi,body.embed .map{max-width:560px;margin-left:auto;margin-right:auto}
+body.embed-map #cardResult{display:none!important}
+body.embed-tally #cardMap{display:none!important}
+.calc[data-tool],.calc[data-page]{cursor:pointer}
+.calc[data-tool]:hover,.calc[data-page]:hover,.calc[data-tool]:focus-visible,.calc[data-page]:focus-visible{border-color:var(--violet)}
+.ancols{display:inline-flex;gap:5px}
+.ancol{width:24px;height:24px;border-radius:50%;border:2px solid var(--line);cursor:pointer;padding:0}
+.ancol[aria-pressed="true"]{outline:2px solid var(--violet);outline-offset:2px}
 .stgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:8px;margin-top:12px}
 .stbtn{border:1px solid var(--evm-edge);border-radius:4px;padding:10px 12px;background:var(--panel);text-align:left;cursor:pointer;display:flex;flex-direction:column;gap:2px}
 .stbtn:hover{border-color:var(--violet)}
@@ -146,7 +195,7 @@ select,.inp{background:var(--panel);border:1px solid var(--line);border-radius:8
 
 /* app */
 .grid{display:grid;grid-template-columns:minmax(300px,370px) minmax(0,1fr);gap:18px;align-items:start}
-.rail{background:var(--evm);border:1px solid var(--evm-edge);border-radius:14px;box-shadow:inset 0 1px 0 #fff;position:sticky;top:calc(env(safe-area-inset-top,0px) + 10px);max-height:calc(100vh - 20px);display:flex;flex-direction:column;min-width:0}
+.rail{background:var(--evm);border:1px solid var(--evm-edge);border-radius:14px;box-shadow:inset 0 1px 0 var(--hi);position:sticky;top:calc(env(safe-area-inset-top,0px) + 10px);max-height:calc(100vh - 20px);display:flex;flex-direction:column;min-width:0}
 .tabs{display:flex;flex-wrap:wrap;gap:2px;padding:6px 8px 0;border-bottom:1px solid var(--evm-edge)}
 .tabs button{border:0;background:transparent;padding:8px 9px;cursor:pointer;color:var(--muted);border-bottom:2px solid transparent;font-weight:500;font-size:14px}
 .tabs button[aria-selected="true"]{color:var(--ink);border-bottom:3px solid var(--evmblue);font-weight:600}
@@ -218,7 +267,7 @@ td:first-child,th:first-child{text-align:left}
 @media (max-width:1100px){.mapwrap{grid-template-columns:minmax(0,1fr)}}
 .map{background:var(--tint);border-radius:10px;padding:8px}
 .map svg{width:100%;height:auto;display:block}
-.map path.seat{stroke:#fff;stroke-width:.4;cursor:pointer}
+.map path.seat{stroke:var(--seatline);stroke-width:.4;cursor:pointer}
 .map path.seat:hover,.map path.seat.sel{stroke:var(--ink);stroke-width:1.2}
 .map path.st{fill:none;stroke:var(--ink);stroke-opacity:.35;stroke-width:.6;pointer-events:none}
 .legend{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:13px;margin-top:8px}
@@ -231,7 +280,7 @@ td:first-child,th:first-child{text-align:left}
 .seatlist thead th{position:sticky;top:0;background:var(--panel)}
 .seatlist tr{cursor:pointer}
 .seatlist tr:hover td{background:var(--sunk)}
-.tip{position:fixed;pointer-events:none;background:var(--ink);color:#fff;padding:6px 9px;border-radius:7px;font-size:13px;z-index:30;max-width:260px;display:none}
+.tip{position:fixed;pointer-events:none;background:var(--ink);color:var(--onink);padding:6px 9px;border-radius:7px;font-size:13px;z-index:30;max-width:260px;display:none}
 .detail .cand{display:grid;grid-template-columns:minmax(0,1fr) 70px 64px;gap:6px;align-items:center;font-size:14px;padding:3px 0}
 .chip{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);border-radius:999px;padding:3px 11px;font-size:13px;cursor:pointer;background:var(--panel)}
 .chip[aria-pressed="true"]{border-color:var(--violet);background:var(--violet-soft)}
@@ -243,7 +292,13 @@ td:first-child,th:first-child{text-align:left}
 .modal{position:fixed;inset:0;background:rgba(20,18,40,.45);display:grid;place-items:center;z-index:40;padding:16px}
 .modal>div{background:var(--panel);border-radius:var(--r);padding:16px;max-width:min(900px,100%);max-height:90vh;overflow:auto;min-width:0}
 textarea{width:100%;min-height:90px;border:1px solid var(--line);border-radius:8px;background:var(--sunk);padding:8px;font-size:12.5px}
-.footer{margin-top:24px;color:var(--muted);font-size:13px;line-height:1.6;border-top:1px solid var(--line);padding-top:14px}
+.foot{margin-top:30px;border-top:3px solid var(--ink);padding-top:18px}
+.footgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:18px 28px}
+.footgrid h4{font-family:var(--display);font-size:15px;margin:0 0 6px}
+.footgrid a,.linkbtn{display:block;color:var(--ink);text-decoration:none;padding:3px 0;font-size:14px;font-weight:500;background:none;border:0;cursor:pointer;text-align:left}
+.footgrid a:hover,.linkbtn:hover{color:var(--violet);text-decoration:underline}
+.footbase{margin-top:18px;padding-top:12px;border-top:1px solid var(--line);color:var(--muted);font-size:13px;line-height:1.6}
+.footbase p{margin:0 0 6px}
 input[type=color]{width:34px;height:26px;border:1px solid var(--line);border-radius:6px;padding:0;background:none}
 .ptab td{padding:4px}
 .loading{display:inline-flex;align-items:center;gap:10px;color:var(--muted);font-size:16px}
@@ -261,9 +316,7 @@ input[type=color]{width:34px;height:26px;border:1px solid var(--line);border-rad
 .storythumbs{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:8px}
 .storythumbs img{width:100%;border:1px solid var(--line);border-radius:8px}
 /* content pages */
-.footlinks{display:flex;flex-wrap:wrap;gap:6px 18px;margin-top:22px;font-size:14px}
-.footlinks a{color:var(--violet);text-decoration:none;font-weight:500}
-.footlinks a:hover{text-decoration:underline}
+
 .page{max-width:820px}
 .page h2{font-size:clamp(28px,5vw,40px);font-weight:800;margin:10px 0 4px}
 .page h3{font-size:20px;margin:26px 0 6px}
@@ -401,9 +454,41 @@ pre.code{background:var(--sunk);border-radius:8px;padding:10px 12px;overflow:aut
   .tw{-webkit-overflow-scrolling:touch}
   #toast{bottom:calc(84px + env(safe-area-inset-bottom,0px))!important}
 }
+#printRoot{display:none}
+@media print{
+  @page{size:A4;margin:14mm}
+  body.printing > *:not(#printRoot){display:none!important}
+  body.printing #printRoot{display:block}
+  html,body{background:#fff!important;padding:0!important}
+  *{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+}
+#printRoot{--ink:#141414;--muted:#5D6068;--line:#D5D7DB;--panel:#fff;--sunk:#F2F3F5;--tint:#F6F7F8;--evm:#E6E8EA;--evm-edge:#C9CDD2;--warn:#9A5800;--bg:#fff;--violet:#4A2577;--good:#16794A;--bad:#B4372B;--seatline:#fff;background:#fff;color:#141414;font-size:11.5px;line-height:1.45}
+#printRoot .rp{max-width:182mm;margin:0 auto}
+#printRoot header{display:flex;justify-content:space-between;align-items:baseline;border-bottom:3px solid #141414;padding-bottom:6px;margin-bottom:10px}
+#printRoot .rpbrand{font-family:var(--display);font-weight:800;font-size:16px;color:var(--violet);letter-spacing:.02em}
+#printRoot .rpdate{color:var(--muted);font-size:11px}
+#printRoot h1{font-family:var(--display);font-size:26px;margin:0 0 2px}
+#printRoot h3{font-family:var(--display);font-size:14px;margin:14px 0 4px;border-bottom:1px solid var(--line);padding-bottom:2px;break-after:avoid}
+#printRoot .rpverdict{font-size:15px;font-weight:600;margin:0 0 4px}
+#printRoot .rphemi{max-width:112mm;margin:0 auto}
+#printRoot .rptbl{width:100%;border-collapse:collapse;color:#141414}
+#printRoot .rptbl th,#printRoot .rptbl td{text-align:left;padding:3px 6px;border-bottom:1px solid var(--line);vertical-align:top}
+#printRoot .rptbl th{font-size:10.5px;color:var(--muted);font-weight:600}
+#printRoot .rptbl td.n{text-align:right;font-variant-numeric:tabular-nums}
+#printRoot .rptbl tr{break-inside:avoid}
+#printRoot .d{color:var(--muted);font-size:10.5px}
+#printRoot .rpsw{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px}
+#printRoot .rpmap{max-width:120mm;margin:0 auto;break-inside:avoid}
+#printRoot .rpmap svg{width:100%;height:auto}
+#printRoot .rplegend{display:flex;flex-wrap:wrap;gap:2px 14px;justify-content:center;font-size:10.5px;margin-top:4px}
+#printRoot .rpul{margin:4px 0;padding-left:18px}
+#printRoot .rpp{margin:4px 0}
+#printRoot .rplink{word-break:break-all;font-size:9.5px;color:var(--muted)}
+#printRoot .rpfoot{margin-top:12px;padding-top:6px;border-top:1px solid var(--line);color:var(--warn,#9A5800);font-size:10.5px}
 @media (prefers-reduced-motion: reduce){*{transition:none!important;animation:none!important}}
 </style>
 
+<a class="skip" href="#content" id="skipLink" data-i18n="skipMain"></a>
 <div class="wrapw">
 <header class="top">
   <button class="brand" id="brand" aria-label="Janadesh home"><svg class="mark" viewBox="0 0 512 512" aria-hidden="true"><rect width="512" height="512" rx="116" fill="#141414"/><circle cx="149.60" cy="360.00" r="16.15" fill="#fff"/><circle cx="180.76" cy="284.76" r="16.15" fill="#fff"/><circle cx="331.24" cy="284.76" r="16.15" fill="#fff"/><circle cx="362.40" cy="360.00" r="16.15" fill="#fff"/><circle cx="107.80" cy="360.00" r="16.15" fill="#fff"/><circle cx="127.66" cy="285.90" r="16.15" fill="#fff"/><circle cx="181.90" cy="231.66" r="16.15" fill="#fff"/><circle cx="256.00" cy="211.80" r="16.15" fill="#fff"/><circle cx="330.10" cy="231.66" r="16.15" fill="#fff"/><circle cx="384.34" cy="285.90" r="16.15" fill="#fff"/><circle cx="404.20" cy="360.00" r="16.15" fill="#fff"/><circle cx="66.00" cy="360.00" r="16.15" fill="#fff"/><circle cx="80.46" cy="287.29" r="16.15" fill="#fff"/><circle cx="121.65" cy="225.65" r="16.15" fill="#fff"/><circle cx="183.29" cy="184.46" r="16.15" fill="#fff"/><circle cx="256.00" cy="170.00" r="16.15" fill="#fff"/><circle cx="328.71" cy="184.46" r="16.15" fill="#fff"/><circle cx="390.35" cy="225.65" r="16.15" fill="#fff"/><circle cx="431.54" cy="287.29" r="16.15" fill="#fff"/><circle cx="446.00" cy="360.00" r="16.15" fill="#fff"/><rect x="237.95" y="265.00" width="36.10" height="111.15" rx="18.05" fill="#8E5BD0"/></svg><span><h1>Janadesh</h1><p data-i18n="brandTag"></p></span></button>
@@ -416,15 +501,18 @@ pre.code{background:var(--sunk);border-radius:8px;padding:10px 12px;overflow:aut
     <select id="selYear" aria-label="Election year"></select>
   </div>
   <div class="pick">
+    <button class="btn small" id="anaBtn" data-i18n="anaBtn"></button>
+    <button class="btn small" id="dataBtn" data-i18n="dataBtn"></button>
     <button class="btn small" id="searchBtn" data-i18n="search" aria-keyshortcuts="/"></button>
     <button class="btn small" id="homeBtn" hidden data-i18n="home"></button>
+    <button class="btn small" id="dispBtn" aria-haspopup="dialog" data-i18n="dispBtn"></button>
     <button class="btn small" id="langBtn" lang="hi" data-i18n="langBtn"></button>
   </div>
 </header>
 <div class="notice" role="note"><b data-i18n="simOnly"></b><span data-i18n="disclaimer"></span></div>
 
 <!-- HOME -->
-<div id="home">
+<div id="home" tabindex="-1">
   <section class="hero">
     <div>
       <h2 data-i18n="heroTitle"></h2>
@@ -492,7 +580,7 @@ pre.code{background:var(--sunk);border-radius:8px;padding:10px 12px;overflow:aut
 
 <!-- APP -->
 <div id="seatview" hidden></div>
-<div id="pageview" hidden></div>
+<div id="pageview" hidden tabindex="-1"></div>
 <div id="app" hidden>
 <div class="dock" id="dock" aria-live="polite"></div>
 <div class="grid">
@@ -509,10 +597,10 @@ pre.code{background:var(--sunk);border-radius:8px;padding:10px 12px;overflow:aut
     </div>
     <div class="pane" id="pane"></div>
   </aside>
-  <main class="main">
+  <main class="main" id="mainApp" tabindex="-1">
     <section class="card" id="cardResult" aria-label="Result">
       <div class="headline"><h2 id="title"></h2><span id="badges"></span><button class="btn small" id="storyBtn" data-i18n="storyBtn" style="margin-left:auto"></button><button class="btn small" id="shareBtn" data-i18n="share"></button></div>
-      <div class="verdict" id="verdict"></div>
+      <div class="verdict" id="verdict"></div><div class="sronly" id="srLive" role="status" aria-live="polite" aria-atomic="true"></div>
       <div class="mini" id="scnBanner" hidden style="margin-bottom:10px;font-size:13.5px"></div>
       <div class="chamber">
         <div class="hemi" id="hemi"></div>
@@ -562,8 +650,15 @@ pre.code{background:var(--sunk);border-radius:8px;padding:10px 12px;overflow:aut
   </main>
 </div>
 </div>
-<nav class="footlinks" id="footlinks" aria-label="More"><a href="#/how" data-i18n="footHow"></a><a href="#/calendar" data-i18n="footCal"></a><a href="#/predict" data-i18n="footPred"></a><a href="#/live" data-i18n="footLive"></a><a href="#/quiz" data-i18n="footQuiz"></a><a href="#/guess" data-i18n="footGuess"></a><a href="#/gallery" data-i18n="footGallery"></a><a href="#/glossary" data-i18n="footGlossary"></a><a href="#/rajyasabha" data-i18n="footRS"></a><a href="#/delimitation" data-i18n="footDelim"></a><a href="#/onoe" data-i18n="footOnoe"></a><a href="#/boundaries" data-i18n="footBounds"></a><a href="#/tree" data-i18n="footTree"></a><a href="#/data" data-i18n="footData"></a><a href="#/changelog" data-i18n="footChangelog"></a></nav>
-<footer class="footer" data-i18n="footer"></footer>
+<footer class="foot">
+  <nav class="footgrid" id="footlinks" aria-label="More">
+    <div><h4 data-i18n="ftExplore"></h4><a href="#/analysis" data-i18n="footAna"></a><a href="#/how" data-i18n="footHow"></a><a href="#/glossary" data-i18n="footGlossary"></a><a href="#/calendar" data-i18n="footCal"></a><a href="#/tree" data-i18n="footTree"></a><a href="#/boundaries" data-i18n="footBounds"></a></div>
+    <div><h4 data-i18n="ftSim"></h4><a href="#/rajyasabha" data-i18n="footRS"></a><a href="#/delimitation" data-i18n="footDelim"></a><a href="#/onoe" data-i18n="footOnoe"></a></div>
+    <div><h4 data-i18n="ftPlay"></h4><a href="#/predict" data-i18n="footPred"></a><a href="#/live" data-i18n="footLive"></a><a href="#/quiz" data-i18n="footQuiz"></a><a href="#/guess" data-i18n="footGuess"></a><a href="#/gallery" data-i18n="footGallery"></a></div>
+    <div><h4 data-i18n="ftAbout"></h4><a href="#/data" data-i18n="footData"></a><a href="#/changelog" data-i18n="footChangelog"></a><a id="ftRepo" target="_blank" rel="noopener" data-i18n="ftRepo"></a><a id="ftIssue" target="_blank" rel="noopener" data-i18n="ftIssue"></a><button class="linkbtn" id="ftDisp" data-i18n="dispBtn"></button></div>
+  </nav>
+  <div class="footbase"><p data-i18n="footer"></p><p id="ftMeta"></p></div>
+</footer>
 </div>
 <div class="tip" id="tip"></div>
 <div class="story" id="story" hidden></div>
@@ -858,12 +953,17 @@ function fromEmbedded(u){
   return JSON.parse(pako.ungzip(a, {to:'string'}));
 }
 const BASE = 'source/';
-async function getJSON(u){ const e = fromEmbedded(u); if(e) return e; const r = await fetch(BASE+u); if(!r.ok) throw new Error(u+' '+r.status); return r.json(); }
+const BUILD = '20261025021709', JSON_INFLIGHT = new Map();
+// one request per file however many parts of the page ask for it, and a build number in the address so files can be cached for a long time
+function getJSON(u){ const e = fromEmbedded(u); if(e) return Promise.resolve(e); if(JSON_INFLIGHT.has(u)) return JSON_INFLIGHT.get(u);
+  const p = fetch(BASE + u + (BUILD ? '?v=' + BUILD : '')).then(r => { if(!r.ok) throw new Error(u + ' ' + r.status); return r.json(); }); JSON_INFLIGHT.set(u, p); p.catch(() => JSON_INFLIGHT.delete(u)); return p; }
 async function bundle(file){ if(!BUNDLES[file]) BUNDLES[file] = await getJSON('data/'+file+'.json'); return BUNDLES[file]; }
-async function mapFor(name){ if(!MAPS[name]) MAPS[name] = await getJSON('maps/'+name+'.json'); return MAPS[name]; }
+// maps arrive with each arc as a short string (zig-zag varints, see build/simplify_maps.py): turn them back into TopoJSON arcs
+function decodeArc(str){ let i = 0; const out = [], next = () => { let r = 0, sh = 0, b; do{ b = str.charCodeAt(i++) - 63; r |= (b & 31) << sh; sh += 5; }while(b >= 32); return (r & 1) ? ~(r >> 1) : (r >> 1); }; while(i < str.length){ const dx = next(), dy = next(); out.push([dx, dy]); } return out; }
+async function mapFor(name){ if(!MAPS[name]){ const j = await getJSON('maps/'+name+'.json'); if(j.enc === 'poly'){ j.arcs = j.arcs.map(decodeArc); delete j.enc; } MAPS[name] = j; } return MAPS[name]; }
 
 function pName(c){ return (S.partyEdit[c] && S.partyEdit[c].n) || (LANG === 'hi' && HI_PARTY[c]) || (META[c] && META[c].n) || c; }
-function pColor(c){ return (S.partyEdit[c] && S.partyEdit[c].c) || (META[c] && META[c].c) || '#9aa0aa'; }
+function pColor(c){ return (S.partyEdit[c] && S.partyEdit[c].c) || (S.cvd && CVD_COLORS[c]) || (META[c] && META[c].c) || '#9aa0aa'; }
 function allyColor(name, members){ return members.length ? pColor(members[0]) : '#9aa0aa'; }
 
 function prepare(raw){
@@ -1129,6 +1229,7 @@ function run(){
   const w = winners(shares, S.overrides);
   RES = {T, shares, ...w};
   renderResult();
+  undoNote(); cleanTouch();
 }
 
 // ---------- Monte Carlo ----------
@@ -1202,7 +1303,7 @@ function renderResult(){
   if(S.tab === 'easy' && $('#easyRes')) $('#easyRes').innerHTML = $('#verdict').innerHTML;
   drawCharts(order, maj); drawMap(); drawSeatList(); if(S.sel != null) drawDetail();
   if(S.tab === 'odds') renderPane();
-  renderBanner(); realBadge(); toolsTouch();
+  renderBanner(); realBadge(); toolsTouch(); a11yResult(order);
 }
 function shortName(g){ if(g.key === 'OTH') return t('others'); if(g.key.startsWith('A:')) return g.name; return LANG==='hi' && HI_PARTY[g.key] && !(S.partyEdit[g.key]&&S.partyEdit[g.key].n) ? HI_PARTY[g.key] : g.key.replace('_SHINDE',''); }
 
@@ -1247,7 +1348,7 @@ async function drawStateMap(el){
     a.n += s.m; a.names.add(E.regions[s.r]); a.c.set(RES.win[i], (a.c.get(RES.win[i])||0) + s.m); });
   const W = 600, H = 680, path = d3.geoPath(d3.geoMercator().fitSize([W, H], fc));
   const parts = fc.features.map(f => { const a = agg.get(stKey(f.properties.st));
-    if(!a) return `<path d="${path(f)}" fill="var(--sunk)" stroke="#fff" stroke-width=".6"><title>${esc(stName(f.properties.st))}: ${esc(t('noSeatsData'))}</title></path>`;
+    if(!a) return `<path d="${path(f)}" fill="var(--sunk)" stroke="var(--seatline)" stroke-width=".6"><title>${esc(stName(f.properties.st))}: ${esc(t('noSeatsData'))}</title></path>`;
     const sorted = [...a.c.entries()].sort((x,y)=>y[1]-x[1]), lead = sorted[0];
     const op = S.shade === 'mar' ? Math.max(.3, lead[1]/a.n) : 1;
     return `<path class="seat" data-st="${esc([...a.names][0])}" d="${path(f)}" fill="${U[lead[0]].hex}" fill-opacity="${op}"><title>${esc(stName(f.properties.st))} (${a.n}): ${esc(sorted.map(([u,v]) => `${U[u].name} ${v}`).join(', '))}</title></path>`; }).join('');
@@ -1269,7 +1370,7 @@ async function drawMap(){
   const key = S.eid + '|' + mapName;
   if(mapCache.key !== key){ try{
     el.innerHTML = `<span class="loading"><i></i>${esc(t('loadingMap'))}</span>`;
-    const topo = await mapFor(mapName);
+    const [topo, stTopo] = await Promise.all([mapFor(mapName), mapName === 'pc' ? mapFor('states').catch(() => null) : null]);
     const fc = topojson.feature(topo, topo.objects[Object.keys(topo.objects)[0]]);
     const byKey = new Map();
     fc.features.forEach(f => byKey.set(String(f.properties.k != null ? f.properties.k : f.properties.n), f));
@@ -1278,7 +1379,7 @@ async function drawMap(){
     const W = 600, H = mapName === 'pc' ? 680 : 520;
     const path = d3.geoPath(d3.geoMercator().fitSize([W, H], {type:'FeatureCollection', features: feats.map(x=>x.f)}));
     let border = '';
-    if(mapName === 'pc'){ try{ const st = await mapFor('states'); border = path(topojson.mesh(st, st.objects[Object.keys(st.objects)[0]])); }catch(e){} }
+    if(stTopo){ try{ border = path(topojson.mesh(stTopo, stTopo.objects[Object.keys(stTopo.objects)[0]])); }catch(e){} }
     el.innerHTML = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Constituency map">${feats.map(x=>`<path class="seat" data-i="${x.i}" d="${path(x.f)}"/>`).join('')}${border?`<path class="st" d="${border}"/>`:''}</svg>`;
     const tip = $('#tip');
     el.querySelectorAll('path.seat').forEach(p => {
@@ -1300,10 +1401,10 @@ function drawSeatList(){
   const rows = E.seats.map((s,i)=>({s,i})).filter(o => !q || o.s.name.toLowerCase().includes(q) || (o.s.r>=0 && ((E.regions[o.s.r]||'').toLowerCase().includes(q) || stName(E.regions[o.s.r]||'').includes(q)))).slice(0, 600);
   $('#seatTable').innerHTML = `<thead><tr><th>${esc(t('thSeat'))}</th><th>${esc(t('thWinner'))}</th><th>${esc(t('thLead'))}</th></tr></thead><tbody>${rows.map(({s,i}) => {
     const w = RES.win[i], x = RES.shares[i], flip = w !== E.baseWin[i];
-    return `<tr data-i="${i}"><td>${s.no}. ${esc(s.name)}${s.cat!=='GEN'?` <span class="small">${s.cat}</span>`:''}${S.kind==='LS'&&s.r>=0?`<div class="small">${esc(stName(E.regions[s.r]))}</div>`:''}</td>
+    return `<tr data-i="${i}" tabindex="0"><td>${s.no}. ${esc(s.name)}${s.cat!=='GEN'?` <span class="small">${s.cat}</span>`:''}${S.kind==='LS'&&s.r>=0?`<div class="small">${esc(stName(E.regions[s.r]))}</div>`:''}</td>
       <td><span class="pname"><i class="sw" style="background:${U[w].hex}"></i><span>${esc(U[w].name)}</span></span>${flip?`<div class="small">${esc(t('gain'))}</div>`:''}${S.overrides[s.no]!=null?`<div class="small">${esc(t('setByYou'))}</div>`:''}</td>
       <td class="num">${fmt1(100*(x[w]-x[RES.second[i]]))}</td></tr>`; }).join('')}</tbody>`;
-  $('#seatTable').querySelectorAll('tr[data-i]').forEach(tr => tr.onclick = () => selectSeat(+tr.dataset.i));
+  $('#seatTable').querySelectorAll('tr[data-i]').forEach(tr => { tr.onclick = () => selectSeat(+tr.dataset.i); tr.onkeydown = e => { if(e.key === 'Enter' || e.key === ' '){ e.preventDefault(); selectSeat(+tr.dataset.i); } }; });
 }
 function selectSeat(i){ S.sel = i; if(PHONE.matches && document.body.dataset.ptab !== 'map') setPTab('map'); drawDetail(); drawMap(); $('#detail').scrollIntoView({behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto':'smooth', block:'nearest'}); }
 function drawDetail(){
@@ -1411,7 +1512,7 @@ function drawCurve(){
   g += `<line x1="${L}" x2="${W-Rr}" y1="${y(maj)}" y2="${y(maj)}" stroke="var(--violet)" stroke-dasharray="4 3"/>${svgText(W-Rr, y(maj)-5, t('majLine',{m:maj}), {anchor:'end', fill:'var(--violet)', size:11})}`;
   g += `<path d="${d3.area().x(p=>x(p[0])).y0(H-B).y1(p=>y(p[1]))(pts)}" fill="${hex}" fill-opacity=".14"/><path d="${d3.line().x(p=>x(p[0])).y(p=>y(p[1]))(pts)}" fill="none" stroke="${hex}" stroke-width="2.4"/>`;
   const cv = T0[ui], cs = RES.counts[ui], right = x(cv) > W - 150;
-  g += `<circle cx="${x(cv)}" cy="${y(cs)}" r="5.5" fill="#fff" stroke="${hex}" stroke-width="2.5"/>${svgText(right ? x(cv)-8 : x(cv)+8, y(cs)-9, t('curveNow',{v:fmt1(cv), n:cs}), {fill:'var(--ink)', size:12, weight:600, anchor:right?'end':'start'})}`;
+  g += `<circle cx="${x(cv)}" cy="${y(cs)}" r="5.5" fill="var(--panel)" stroke="${hex}" stroke-width="2.5"/>${svgText(right ? x(cv)-8 : x(cv)+8, y(cs)-9, t('curveNow',{v:fmt1(cv), n:cs}), {fill:'var(--ink)', size:12, weight:600, anchor:right?'end':'start'})}`;
   const cross = pts.find(p => p[1] >= maj);
   if(cross){ const cx = x(cross[0]), lft = cx > W - 140; g += `<line x1="${cx}" x2="${cx}" y1="${y(maj)}" y2="${H-B}" stroke="var(--violet)" stroke-width="1.4" stroke-dasharray="2 3"/><circle cx="${cx}" cy="${y(maj)}" r="4" fill="var(--violet)"/>${svgText(lft ? cx-6 : cx+6, H-B-8, fmt1(cross[0])+'%', {fill:'var(--violet)', size:12, weight:700, anchor: lft?'end':'start'})}`; }
   $('#chCurve').innerHTML = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(t('chCurve'))}">${g}</svg><p class="small" style="margin:4px 0 0">${esc(cross ? t('curveCross',{m:maj, v:cross[0]}) : t('curveNo',{m:maj, a:lo, b:hi}))}</p>`;
@@ -1759,8 +1860,10 @@ async function applyScenario(s){
   syncPickers(); renderPane(); run(); toast(t('scnOpened'));
 }
 const canDownload = !/claude/i.test(location.hostname);
-function modal(html){ const r = $('#modalRoot'); r.innerHTML = `<div class="modal" role="dialog" aria-modal="true"><div>${html}</div></div>`; r.querySelectorAll('[data-close]').forEach(b => b.onclick = () => r.innerHTML=''); r.firstChild.onclick = e => { if(e.target === r.firstChild) r.innerHTML=''; }; }
-let toastT; function toast(msg){ let el = document.getElementById('toast'); if(!el){ el = document.createElement('div'); el.id='toast'; el.setAttribute('role','status'); el.style.cssText='position:fixed;left:50%;transform:translateX(-50%);bottom:calc(76px + env(safe-area-inset-bottom,0px));background:var(--ink);color:#fff;padding:9px 14px;border-radius:9px;z-index:50;font-size:14px;max-width:90vw'; document.body.appendChild(el); } el.textContent = msg; el.hidden = false; clearTimeout(toastT); toastT = setTimeout(()=>el.hidden=true, 3400); }
+let modalPrev = null;
+function modal(html){ const r = $('#modalRoot'); if(!r.firstChild) modalPrev = document.activeElement; r.innerHTML = `<div class="modal" role="dialog" aria-modal="true"><div>${html}</div></div>`; r.querySelectorAll('[data-close]').forEach(b => b.onclick = () => r.innerHTML=''); r.firstChild.onclick = e => { if(e.target === r.firstChild) r.innerHTML=''; };
+  const d = r.querySelector('.modal > div'), h = d && d.querySelector('h3, h2'); if(h){ h.id = 'modalTitle'; r.firstChild.setAttribute('aria-labelledby', 'modalTitle'); } if(d){ d.tabIndex = -1; d.focus({preventScroll: true}); } }
+let toastT; function toast(msg){ let el = document.getElementById('toast'); if(!el){ el = document.createElement('div'); el.id='toast'; el.setAttribute('role','status'); el.style.cssText='position:fixed;left:50%;transform:translateX(-50%);bottom:calc(76px + env(safe-area-inset-bottom,0px));background:var(--ink);color:var(--onink);padding:9px 14px;border-radius:9px;z-index:50;font-size:14px;max-width:90vw'; document.body.appendChild(el); } el.textContent = msg; el.hidden = false; clearTimeout(toastT); toastT = setTimeout(()=>el.hidden=true, 3400); }
 
 // ---------- pickers, loading ----------
 function statesList(){ return [...new Set(INDEX.elections.filter(e=>e.kind==='AE').map(e=>e.state))].sort(); }
@@ -1772,12 +1875,14 @@ function syncPickers(){
   const list = electionsFor(), latest = list[0];
   $('#selYear').innerHTML = `<optgroup label="${esc(t('futGroup'))}">` + [1,2,3,4].map(k=>`<option value="next${k}:${latest.id}" ${S.next&&S.ahead===k?'selected':''}>${esc(t(k===1?'futOpt1':'futOptN',{y:nextYear(latest,k), k}))}</option>`).join('') + `</optgroup><optgroup label="${esc(t('pastGroup'))}">` + list.map(e=>`<option value="${e.id}" ${(!S.next && e.id===S.eid)?'selected':''}>${esc(e.label)}${e.approx?esc(t('reconOpt')):''}</option>`).join('') + '</optgroup>';
 }
+function warmMap(ent){ if(ent && ent.map){ mapFor(ent.map).catch(() => {}); if(ent.map === 'pc') mapFor('states').catch(() => {}); } }
 async function load(keepState){
+  warmMap(entry());   // the map downloads while the election data does
   E = prepare((await bundle(entry().file)).find(e=>e.id===S.eid));
   E.prev = await loadPrev(E.raw);
   if(!keepState){ S.pollScn = null; S.whatIf = null; S.lab = null; S.T = {}; S.locks = {}; S.regional = {}; S.reserved = {SC:{},ST:{}}; S.overrides = {}; S.allyEdit = {}; S.sel = null; S.mc = null; S.swing = {a:null,b:null,pts:0}; }
   mapCache = {key:null}; resetZoom();
-  buildUnits(); E.names = null; loadNames();
+  buildUnits(); E.names = null; setTimeout(loadNames, 1500);   // names only matter once a seat is opened: let the map and result come first
   $('#detail').hidden = true;
   drawHistory();
 }
@@ -1849,7 +1954,7 @@ function applyLang(){
   document.querySelectorAll('[data-i18n]').forEach(el => el.textContent = t(el.dataset.i18n));
   document.querySelectorAll('[data-i18n-ph]').forEach(el => el.placeholder = t(el.dataset.i18nPh));
   $('#langBtn').setAttribute('lang', LANG === 'hi' ? 'en' : 'hi');
-  toolsRelabel();
+  toolsRelabel(); histTitles(); renderFooterMeta();
 }
 
 
@@ -2067,6 +2172,9 @@ function threadPosts(){
 }
 
 // ---------- image ----------
+// pictures to download or post stay light whatever theme the page is in
+const LIGHT_COLOURS = {'--violet': '#4A2577', '--ink': '#141414', '--muted': '#5D6068', '--good': '#16794A', '--bad': '#B4372B', '--warn': '#9A5800', '--sunk': '#F2F3F5', '--line': '#E2E3E6'};
+const lightCol = n => LIGHT_COLOURS[n] || '#000';
 function mapImage(){
   return new Promise(res => {
     const svg = $('#map svg'); if(!svg || !svg.querySelector('path.seat')) return res(null);
@@ -2089,7 +2197,7 @@ function wrapText(g, text, x, y, maxW, lh, maxLines){
 async function composeImage(fmt){
   const wide = fmt !== 'story', W = wide ? 1200 : 1080, H = wide ? 675 : 1920;
   const c = document.createElement('canvas'); c.width = W; c.height = H;
-  const g = c.getContext('2d'), cs = getComputedStyle(document.documentElement), col = n => cs.getPropertyValue(n).trim() || '#000';
+  const g = c.getContext('2d'), col = lightCol;
   try{ await Promise.all(['800 40px "Anek Latin"', '600 24px "Hind"', '700 30px "Anek Devanagari"'].map(f => document.fonts.load(f, 'Aअ'))); }catch(e){}
   const maj = Math.floor(E.N / 2) + 1, ord = seatOrder().slice(0, wide ? 6 : 8), pad = wide ? 48 : 56;
   g.fillStyle = '#fff'; g.fillRect(0, 0, W, H);
@@ -2138,7 +2246,8 @@ async function makeImage(fmt){
   modal(`<h3>${esc(t('imgTitle'))}</h3>
     <div class="row" style="margin-bottom:8px"><div class="seg" role="group" aria-label="Format"><button data-f="wide" aria-pressed="${imgFmt==='wide'}">${esc(t('fmtWide'))}</button><button data-f="story" aria-pressed="${imgFmt==='story'}">${esc(t('fmtStory'))}</button></div></div>
     <img src="${url}" alt="${esc(t('imgTitle'))}" style="width:100%;max-height:60vh;object-fit:contain;border:1px solid var(--line);border-radius:8px">
-    <div class="row" style="margin-top:8px"><a class="btn primary" href="${url}" download="janadesh.png">${esc(t('downloadPng'))}</a>${canCopy ? `<button class="btn" id="imgCopy">${esc(t('copyImage'))}</button>` : ''}${canShareFile ? `<button class="btn" id="imgShare">${esc(t('shareNative'))}</button>` : ''}<button class="btn" data-close>${esc(t('close'))}</button></div>`);
+    <div class="row" style="margin-top:8px"><a class="btn primary" href="${url}" download="janadesh.png">${esc(t('downloadPng'))}</a>${canCopy ? `<button class="btn" id="imgCopy">${esc(t('copyImage'))}</button>` : ''}${canShareFile ? `<button class="btn" id="imgShare">${esc(t('shareNative'))}</button>` : ''}<button class="btn" id="imgAnn">${esc(t('anBtn'))}</button><button class="btn" data-close>${esc(t('close'))}</button></div>`);
+  $('#imgAnn').onclick = () => annotateImage(c, {title: $('#title').textContent, file: 'janadesh.png', text: plain($('#verdict').innerHTML) + ' ' + shareURL()});
   document.querySelectorAll('#modalRoot [data-f]').forEach(b => b.onclick = () => makeImage(b.dataset.f));
   const cp = $('#imgCopy'); if(cp) cp.onclick = async () => { try{ await navigator.clipboard.write([new ClipboardItem({'image/png': blob})]); toast(t('imageCopied')); }catch(e){ toast(t('copyBlocked')); } };
   const sh = $('#imgShare'); if(sh) sh.onclick = () => navigator.share({files: [file], title: $('#title').textContent, text: plain($('#verdict').innerHTML) + ' ' + shareURL()}).catch(() => {});
@@ -2193,7 +2302,7 @@ function toolsTouch(now){
     toolKeyShown = key; const my = ++toolRun, body = $('#toolBody');
     $('#toolSub').textContent = def.sub ? t(def.sub) : '';
     try{ await def.render(body, () => my !== toolRun); if(my === toolRun) alignTables(body); }catch(err){ console.error(err); if(my === toolRun) body.innerHTML = `<p class="small">${esc(t('toolsNoData'))}</p>`; }
-  }, now ? 0 : (def.live ? 180 : 40));
+  }, now ? 0 : (toolKeyShown == null ? 1200 : def.live ? 180 : 40));   // the first tool waits so the map and result load first
 }
 function alignTables(root){
   root.querySelectorAll('table.tbl').forEach(tb => { const r = tb.querySelector('tbody tr'); if(!r) return; const tds = [...r.children];
@@ -2964,9 +3073,13 @@ PAGES.set('glossary', async box => {
 
 // ---------- Changelog (#58) ----------
 const CHANGES = [
+  ['2026-10-25', 'feature', 'Dark mode, undo and redo, installable app, accessibility, PDF report, draw on images, clean view and embed codes', 'डार्क मोड, पलटना-दोहराना, इंस्टॉल होने वाला ऐप, पहुँच, पीडीएफ़ रिपोर्ट, तस्वीर पर बनाना, साफ़ दृश्य और एम्बेड कोड', 'Choose a light or dark theme (or follow your device) and colour-blind-safe party colours under Display. Undo and redo every change to a scenario with the arrows or Ctrl+Z and Ctrl+Y. Install Janadesh as an app and open the data you have used without a connection. Skip link, keyboard-friendly seat list and dialogs, and spoken result updates for screen readers. Print any scenario as a PDF report, draw and write on an exported image, show only the map and tally in a clean 16:9 or 9:16 view for recording, and copy an embed code that puts a live seat map on any page.', 'Display में हल्की या गहरी थीम (या अपने डिवाइस जैसी) और रंग-अंधता के लिए सुरक्षित दल-रंग चुनें। परिदृश्य के हर बदलाव को तीरों या Ctrl+Z और Ctrl+Y से पलटें और दोहराएँ। जनादेश को ऐप की तरह इंस्टॉल करें और जो डेटा इस्तेमाल किया है उसे बिना इंटरनेट खोलें। स्किप लिंक, कीबोर्ड से चलने वाली सीट-सूची और संवाद, और स्क्रीन रीडर के लिए नतीजे की घोषणा। किसी भी परिदृश्य को पीडीएफ़ रिपोर्ट की तरह छापें, निर्यात की तस्वीर पर बनाएँ और लिखें, रिकॉर्डिंग के लिए सिर्फ़ नक्शा और तालिका वाला साफ़ 16:9 या 9:16 दृश्य दिखाएँ, और एम्बेड कोड कॉपी करें जो किसी भी पन्ने पर लाइव सीट-नक्शा लगा दे।'],
+  ['2026-10-25', 'feature', 'An Analysis page with every tool', 'हर औज़ार के साथ विश्लेषण का पन्ना', 'One page lists all 22 analysis tools in five groups (seats and results, parties and alliances, over time and across places, people and representation, reading the signs) and the seven whole-country pages, with a search box. Pick an election, press a tool, and the simulator opens on it with the tool showing. There is an Analysis button in the header next to Data.', 'एक पन्ना सभी 22 विश्लेषण औज़ारों को पाँच समूहों में (सीटें और नतीजे, दल और गठबंधन, समय और जगहों के पार, लोग और प्रतिनिधित्व, संकेत पढ़ना) और पूरे देश के सात पन्नों को खोज-बॉक्स के साथ दिखाता है। चुनाव चुनें, औज़ार दबाएँ, और सिम्युलेटर उसी पर औज़ार दिखाते हुए खुलता है। हेडर में डेटा के बगल में विश्लेषण बटन है।'],
+  ['2026-10-25', 'site', 'Faster maps and data, a Data button and a new footer', 'तेज़ नक्शे और डेटा, डेटा बटन और नया फ़ुटर', 'The Lok Sabha map files are over 40 percent smaller and the map downloads at the same time as the election data instead of after it. The Lok Sabha data is fetched while you read the home page, a state is fetched as you point at it, names and analysis load after the map, and files are kept on your device so a second visit is quick. A Data button in the header opens the open data page, and the footer groups every page by what it is for.', 'लोकसभा के नक्शे की फ़ाइलें 40 प्रतिशत से ज़्यादा छोटी हैं और नक्शा चुनावी डेटा के बाद नहीं, उसी के साथ डाउनलोड होता है। होम पन्ना पढ़ते समय लोकसभा का डेटा आ जाता है, किसी राज्य पर इशारा करते ही उसका डेटा आने लगता है, नाम और विश्लेषण नक्शे के बाद आते हैं, और फ़ाइलें आपके डिवाइस पर रखी जाती हैं ताकि दूसरी बार खोलना तेज़ हो। हेडर का डेटा बटन खुले डेटा के पन्ने पर ले जाता है, और फ़ुटर हर पन्ने को उसके काम के हिसाब से समूहों में रखता है।'],
+  ['2026-10-25', 'fix', 'Women MPs counted from the Election Commission atlas', 'महिला सांसदों की गिनती निर्वाचन आयोग के एटलस से', 'The number of women elected to the Lok Sabha now comes from the Election Commission Atlas 2024: 59 in 2009 (it was 52) and 62 in 2014 (it was 64), with 78 in 2019 and 74 in 2024. Counts for 1971 to 2004 were added, and the 1971 list, where every member had been marked as a man, now shows 29 women.', 'लोकसभा में चुनी गई महिलाओं की संख्या अब निर्वाचन आयोग के एटलस 2024 से ली गई है: 2009 में 59 (पहले 52 थी) और 2014 में 62 (पहले 64 थी), 2019 में 78 और 2024 में 74। 1971 से 2004 तक की गिनती जोड़ी गई, और 1971 की सूची, जिसमें हर सदस्य पुरुष गिना गया था, अब 29 महिलाएँ दिखाती है।'],
   ['2026-10-25', 'feature', 'Election calendar, prediction challenge, live counting, games and scenario gallery', 'चुनाव कैलेंडर, भविष्यवाणी चुनौती, लाइव गिनती, खेल और परिदृश्य गैलरी', 'A calendar counts down to the next elections, each with a simulate button. Lock a seat prediction, share it, and get scored with a shareable card once the result is in. A live counting page fills the seat arc as you enter the count and compares it with your prediction and the exit polls, and can replay any past count. Guess the election and a ten-question polity quiz are built from the real data, and a scenario gallery holds featured scenarios and your own. There is no server, so predictions and scenarios stay in your browser and in the links you share.', 'कैलेंडर अगले चुनावों की गिनती दिखाता है, हर एक के साथ सिम्युलेट बटन। सीटों की भविष्यवाणी पक्की करें, शेयर करें, और नतीजा आने पर अंक व शेयर करने लायक कार्ड पाएँ। लाइव गिनती का पन्ना आपके डाले आँकड़ों से सीटों का अर्धवृत्त भरता है और उसकी तुलना आपकी भविष्यवाणी और एग्ज़िट पोल से करता है, और कोई भी पुरानी गिनती दोबारा चला सकता है। चुनाव पहचानो और दस प्रश्नों की राजनीति क्विज़ असली आँकड़ों से बने हैं, और परिदृश्य गैलरी में चुनिंदा परिदृश्य और आपके अपने हैं। कोई सर्वर नहीं है, इसलिए भविष्यवाणियाँ और परिदृश्य आपके ब्राउज़र और शेयर किए लिंकों में रहते हैं।'],
   ['2026-10-25', 'data', 'The Lok Sabha as it stands', 'लोकसभा की मौजूदा स्थिति', 'The chamber on the home page now shows the sitting members as of 12 October 2026 from the Wikipedia Lok Sabha page: NDA 319, INDIA 181, independents 4, parties in neither bloc 37 and 2 vacant seats. Wikipedia counts 3 independents inside INDIA (184); Janadesh keeps independents on their own. The simulator still starts from the 2024 election result.', 'होम पन्ने का सदन अब विकिपीडिया के लोकसभा पन्ने से 12 अक्टूबर 2026 तक के मौजूदा सदस्य दिखाता है: एनडीए 319, इंडिया 181, निर्दलीय 4, किसी गुट में न आने वाले दल 37 और 2 ख़ाली सीटें। विकिपीडिया इंडिया में 3 निर्दलीय गिनता है (184); जनादेश निर्दलीयों को अलग रखता है। सिम्युलेटर अब भी 2024 के चुनावी नतीजे से शुरू होता है।'],
-  ['2026-10-25', 'fix', 'Reserved-seat labels corrected for Lok Sabha 2009 to 2024', 'लोकसभा 2009 से 2024 की आरक्षित सीटों के लेबल सुधारे गए', 'The SC and ST label had been swapped between neighbouring seats (Ahmedabad West and Surendranagar, Inner and Outer Manipur, Tripura East and West, Bangaon and Barrackpur, Dadra and Nagar Haveli and Daman and Diu, and five seats of Assam in 2024), and 2009 still carried the 2004 map with 93 SC and 55 ST seats. All four elections now have 84 SC and 47 ST seats, checked against the Wikipedia list of Lok Sabha constituencies. The 2004 labels, from before the 2008 delimitation, are not yet verified.', 'अनुसूचित जाति और जनजाति का लेबल पड़ोसी सीटों के बीच अदल-बदल गया था (अहमदाबाद पश्चिम और सुरेंद्रनगर, भीतरी और बाहरी मणिपुर, पूर्वी और पश्चिमी त्रिपुरा, बनगाँव और बैरकपुर, दादरा-नगर हवेली और दमन-दीव, और 2024 में असम की पाँच सीटें), और 2009 में अब भी 2004 का नक्शा था जिसमें 93 अनुसूचित जाति और 55 जनजाति की सीटें थीं। अब चारों चुनावों में 84 अनुसूचित जाति और 47 जनजाति की सीटें हैं, जिन्हें विकिपीडिया की लोकसभा चुनाव-क्षेत्रों की सूची से मिलाया गया है। 2004 के लेबल, जो 2008 के परिसीमन से पहले के हैं, अभी जाँचे नहीं गए हैं।'],
+  ['2026-10-25', 'fix', 'Reserved-seat labels corrected for Lok Sabha 2004 to 2024', 'लोकसभा 2004 से 2024 की आरक्षित सीटों के लेबल सुधारे गए', 'The SC and ST label had been swapped between neighbouring seats (Ahmedabad West and Surendranagar, Inner and Outer Manipur, Tripura East and West, Bangaon and Barrackpur, Dadra and Nagar Haveli and Daman and Diu, and five seats of Assam in 2024), and 2009 still carried the 2004 map with 93 SC and 55 ST seats. 2009 to 2024 now have 84 SC and 47 ST seats, checked against the Wikipedia list of Lok Sabha constituencies, and 2004, from before the 2008 delimitation, has the official 79 SC and 41 ST seats from the list of its members.', 'अनुसूचित जाति और जनजाति का लेबल पड़ोसी सीटों के बीच अदल-बदल गया था (अहमदाबाद पश्चिम और सुरेंद्रनगर, भीतरी और बाहरी मणिपुर, पूर्वी और पश्चिमी त्रिपुरा, बनगाँव और बैरकपुर, दादरा-नगर हवेली और दमन-दीव, और 2024 में असम की पाँच सीटें), और 2009 में अब भी 2004 का नक्शा था जिसमें 93 अनुसूचित जाति और 55 जनजाति की सीटें थीं। अब 2009 से 2024 में 84 अनुसूचित जाति और 47 जनजाति की सीटें हैं, जिन्हें विकिपीडिया की लोकसभा चुनाव-क्षेत्रों की सूची से मिलाया गया है, और 2004 में (2008 के परिसीमन से पहले) सदस्यों की सूची से आधिकारिक 79 अनुसूचित जाति और 41 जनजाति की सीटें हैं।'],
   ['2026-10-23', 'feature', 'A smarter model: core voters, waves, momentum and early signals', 'ज़्यादा समझदार मॉडल: कोर मतदाता, लहरें, गति और शुरुआती संकेत', 'A new Core + swing method moves the swing voters first and the core only in a wave; a wave tracker scores every past election; a momentum baseline averages the last four results in each seat; realistic mode stops swings that have never happened; and a signals tool reads the latest assembly results, 543 by-elections since 2014 and the big city corporations as hints for the next Lok Sabha.', 'नया कोर + स्विंग तरीक़ा पहले स्विंग वाले मतदाताओं को खिसकाता है और कोर को सिर्फ़ लहर में; लहर ट्रैकर हर पुराने चुनाव को अंक देता है; गति वाली शुरुआत हर सीट के पिछले चार नतीजों का औसत लेती है; यथार्थवादी मोड वे स्विंग रोकता है जो कभी हुए ही नहीं; और संकेत वाला औज़ार ताज़ा विधानसभा नतीजे, 2014 से 543 उप-चुनाव और बड़े नगर निगमों को अगली लोकसभा के संकेत की तरह पढ़ता है।'],
   ['2026-10-23', 'feature', 'What-if lab, voting systems, One Nation One Election, delimitation and Rajya Sabha', 'अगर-मगर लैब, मतदान प्रणालियाँ, एक देश एक चुनाव, परिसीमन और राज्यसभा', 'A new party, a party split, turnout shifts and a sitting-member penalty; the same votes counted under proportional and runoff systems; one national swing across every assembly; the Lok Sabha enlarged to 800 or more seats; and the Rajya Sabha with the electoral college for President.', 'एक नया दल, दल की टूट, मतदान में बदलाव और मौजूदा सदस्य का जुर्माना; वही वोट अनुपातिक और रनऑफ़ प्रणालियों में गिने हुए; हर विधानसभा में एक राष्ट्रीय स्विंग; 800 या ज़्यादा सीटों वाली लोकसभा; और राज्यसभा तथा राष्ट्रपति का निर्वाचक-मंडल।'],
   ['2026-10-23', 'feature', 'Chief ministers and by-elections', 'मुख्यमंत्री और उप-चुनाव', 'The chief ministers of every state with their terms, parties and the election they came in under; and the by-elections since the 2024 Lok Sabha result with a party scoreboard.', 'हर राज्य के मुख्यमंत्री, उनके कार्यकाल, दल और वह चुनाव जिसमें वे आए; और 2024 की लोकसभा के बाद के उप-चुनाव, दलों के स्कोरबोर्ड के साथ।'],
@@ -3519,12 +3632,12 @@ PAGES.set('tree', async box => {
   for(let y = 1950; y <= 2020; y += 10) g += `<line x1="${X(y)}" x2="${X(y)}" y1="22" y2="${H - 8}" stroke="var(--line)"/>${svgText(X(y), 16, String(y), {anchor: 'middle', size: 11})}`;
   g += svgText(X(2026), 16, t('treeNow'), {anchor: 'middle', size: 11});
   D.events.forEach(ev => { const x = X(ev.year), pairs = ev.links || (ev.parents.length ? ev.parents.flatMap(a => ev.children.map(b => [a, b])) : []);
-    pairs.forEach(([a, b]) => { g += `<path d="M${x},${Yr(node(a).row)} V${Yr(node(b).row)}" stroke="#141414" stroke-opacity=".55" stroke-width="1.6" stroke-dasharray="${ev.kind === 'merge' ? '0' : '3 2'}"/>`; }); });
+    pairs.forEach(([a, b]) => { g += `<path d="M${x},${Yr(node(a).row)} V${Yr(node(b).row)}" stroke="var(--ink)" stroke-opacity=".55" stroke-width="1.6" stroke-dasharray="${ev.kind === 'merge' ? '0' : '3 2'}"/>`; }); });
   D.nodes.forEach(n => { const x0 = X(n.from), x1 = n.to ? X(n.to + .8) : X(2027), y = Yr(n.row);
     g += `<line x1="${x0}" x2="${Math.max(x1, x0 + 6)}" y1="${y}" y2="${y}" stroke="${colour(n)}" stroke-width="9" stroke-linecap="round"/>`;
     g += svgText(x0 + (x0 > 600 ? -4 : 4), y - 8, L2(n.n, n.h), {size: 11.5, weight: 600, fill: 'var(--ink)', anchor: x0 > 700 ? 'end' : 'start'}); });
   D.events.forEach(ev => ev.children.concat(ev.kind === 'merge' ? [] : ev.parents.slice(0, 0)).forEach(id => { const n = node(id), x = X(ev.year), y = Yr(n.row);
-    g += `<g><title>${esc(ev.year + ' · ' + L2(ev.en, ev.hi))}</title><circle cx="${x}" cy="${y}" r="7.5" fill="#fff" stroke="#141414" stroke-width="1.6"/>${svgText(x, y + 4, EV_GLYPH[ev.kind], {anchor: 'middle', size: 10.5, fill: '#141414'})}</g>`; }));
+    g += `<g><title>${esc(ev.year + ' · ' + L2(ev.en, ev.hi))}</title><circle cx="${x}" cy="${y}" r="7.5" fill="var(--panel)" stroke="var(--ink)" stroke-width="1.6"/>${svgText(x, y + 4, EV_GLYPH[ev.kind], {anchor: 'middle', size: 10.5, fill: '#141414'})}</g>`; }));
   const kindName = k => t(k === 'split' ? 'evSplit' : k === 'merge' ? 'evMerge' : 'evFormed');
   box.innerHTML = `<article class="page" style="max-width:none"><h2>${esc(t('treeTitle'))}</h2><p class="lede">${esc(t('treeSub'))}</p>
     <p class="small">✂ ${esc(t('evSplit'))} · ⊕ ${esc(t('evMerge'))} · ★ ${esc(t('evFormed'))}. ${esc(t('treeNote'))}</p>
@@ -3655,7 +3768,7 @@ registerTool({id: 'cms', label: 'toolCM', sub: 'cmSub', key: () => S.eid + '|' +
   for(let y = Math.ceil(Y0 / 10) * 10; y <= Y1; y += 10) g += `<line x1="${X(y)}" x2="${X(y)}" y1="22" y2="${H - 16}" stroke="var(--line)"/>${svgText(X(y), 14, String(y), {anchor: 'middle', size: 11})}`;
   bars.forEach(o => { const x0 = X(o.a), w = Math.max(3, X(o.b) - x0), y = 28 + o.r * 24, col = cmColor(o.c.party);
     g += `<g><title>${esc(o.c.name)} · ${esc(o.c.party)} · ${o.c.from} → ${o.c.to || t('cmIncumbent')}</title><rect x="${x0}" y="${y}" width="${w}" height="19" rx="4" fill="${col}"/>${w > 46 ? `<text x="${x0 + 4}" y="${y + 13.5}" font-size="11" fill="#fff" style="paint-order:stroke;stroke:rgba(0,0,0,.35);stroke-width:2px">${esc(o.c.name.split(' ').slice(-1)[0].slice(0, Math.floor(w / 6.5)))}</text>` : ''}</g>`; });
-  els.forEach(e => { const x = X(e.year + .4); g += `<line x1="${x}" x2="${x}" y1="24" y2="${H - 16}" stroke="#141414" stroke-opacity=".5" stroke-dasharray="2 3"/><circle cx="${x}" cy="${H - 12}" r="3" fill="#141414"><title>${esc(e.label)}</title></circle>`; });
+  els.forEach(e => { const x = X(e.year + .4); g += `<line x1="${x}" x2="${x}" y1="24" y2="${H - 16}" stroke="var(--ink)" stroke-opacity=".5" stroke-dasharray="2 3"/><circle cx="${x}" cy="${H - 12}" r="3" fill="var(--ink)"><title>${esc(e.label)}</title></circle>`; });
   // link each term to the election it came in under
   const elFor = c => { const y = c.asm || +c.from.slice(0, 4); const cand = els.filter(e => e.year <= y); return cand.length ? cand[cand.length - 1] : null; };
   const rowsT = terms.slice().reverse().map(c => { const e = elFor(c), sy = +c.from.slice(0, 4), fresh = e && sy - e.year <= 1 && !terms.some(o => o !== c && o.from < c.from && o.from >= (e.year + '-01-01') && o.asm === c.asm && o.name !== c.name && false);
@@ -3763,7 +3876,7 @@ function paneLab(p){
       ${sl('spSpread', 0, 100, 5, L.sp.spread || 0, esc(t('labSpread', {v: L.sp.spread || 0})))}</div>
     <div class="swingbox"><b>${esc(t('labTurnout'))}</b><p class="hint" style="margin:4px 0 8px">${esc(t('labTurnoutHint'))}</p>
       ${top.slice(0, 6).map(o => `<label class="stack" style="gap:2px"><span id="toP${esc(o.g.key)}L">${esc(t('labTOParty', {p: o.g.name, v: (L.to.p[o.g.key] || 0)}))}</span><input type="range" min="-50" max="50" step="1" value="${L.to.p[o.g.key] || 0}" data-top="${esc(o.g.key)}" style="--c:${o.g.hex}"></label>`).join('')}
-      ${regs.length ? `<div class="row" style="margin-top:8px"><select id="toReg" style="flex:1;min-width:0"><option value="">${esc(t('labTOPick'))}</option>${regs.map(r => `<option value="${esc(r)}">${esc(stName(r))}</option>`).join('')}</select><input class="inp num" type="number" id="toRegV" min="-50" max="50" step="1" value="-10" style="width:70px"><button class="btn small" id="toRegAdd">${esc(t('labTOAdd'))}</button></div>
+      ${regs.length ? `<div class="row" style="margin-top:8px"><select id="toReg" aria-label="${esc(t('labTORegion'))}" style="flex:1;min-width:0"><option value="">${esc(t('labTOPick'))}</option>${regs.map(r => `<option value="${esc(r)}">${esc(stName(r))}</option>`).join('')}</select><input class="inp num" type="number" id="toRegV" aria-label="${esc(t('labTurnout'))} %" min="-50" max="50" step="1" value="-10" style="width:70px"><button class="btn small" id="toRegAdd">${esc(t('labTOAdd'))}</button></div>
       <div class="row" style="margin-top:6px">${Object.entries(L.to.r).filter(([, v]) => v).map(([r, v]) => `<button class="chip" data-torm="${esc(r)}">${esc(t('labTOReg', {r: stName(r), v}))} ×</button>`).join('')}</div>` : ''}</div>
     <div class="swingbox"><label class="row"><input type="checkbox" id="momOn" ${L.mom && L.mom.on ? 'checked' : ''}> <b>${esc(t('labMom'))}</b></label><p class="hint" style="margin:4px 0 0">${esc(t('labMomHint'))}</p></div>
     <div class="swingbox"><label class="row"><input type="checkbox" id="realOn" ${S.real && S.real.on ? 'checked' : ''}> <b>${esc(t('realTitle'))}</b></label><p class="hint" style="margin:4px 0 8px">${esc(t('realHint'))}</p>
@@ -3922,13 +4035,13 @@ PAGES.set('onoe', async box => {
     const geo = await geoP; let mapSvg = '';
     if(geo){ const fc = topojson.feature(geo, geo.objects[Object.keys(geo.objects)[0]]), W = 600, H = 680, path = d3.geoPath(d3.geoMercator().fitSize([W, H], fc)), byKey = new Map(res.map(r => [stKey(r.st), r]));
       mapSvg = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(t('onoeMapT'))}">${fc.features.map(f => { const r = byKey.get(stKey(f.properties.st)), v = r ? verdict(r.then) : null;
-        return `<path d="${path(f)}" fill="${r ? (v === 'H' ? '#D9DCE2' : sideCol(v)) : '#F2F3F5'}" stroke="#fff" stroke-width=".6"><title>${esc(stName(f.properties.st))}${r ? ': ' + (v === 'H' ? t('onoeHung') : v === 'A' ? allyName(A) : allyName(B)) : ''}</title></path>`; }).join('')}</svg>`; }
+        return `<path d="${path(f)}" fill="${r ? (v === 'H' ? 'var(--evm-edge)' : sideCol(v)) : 'var(--sunk)'}" stroke="var(--seatline)" stroke-width=".6"><title>${esc(stName(f.properties.st))}${r ? ': ' + (v === 'H' ? t('onoeHung') : v === 'A' ? allyName(A) : allyName(B)) : ''}</title></path>`; }).join('')}</svg>`; }
     const lsM = Math.floor(lsRes.N / 2) + 1;
     $('#onoeBody').innerHTML = `<div class="tools-row"><label>${esc(t('onoeSideA'))} <select id="oA">${sides.map(s => `<option ${s === A ? 'selected' : ''}>${esc(s)}</option>`).join('')}</select></label>
       <label>${esc(t('onoeSideB'))} <select id="oB">${sides.map(s => `<option ${s === B ? 'selected' : ''}>${esc(s)}</option>`).join('')}</select></label>
       <label style="flex:1;min-width:220px"><span id="oPL">${esc(t('onoeSwing', {v: (state.pts > 0 ? '+' : '') + state.pts}))}</span> <input type="range" id="oP" min="-12" max="12" step="0.5" value="${state.pts}" style="width:100%"></label></div>
       <div class="tools-cols"><div><div class="map" style="max-width:520px">${mapSvg}</div>
-        <p class="small" style="margin:4px 0"><i class="sw" style="background:${sideCol('A')}"></i> ${esc(allyName(A))} &nbsp; <i class="sw" style="background:${sideCol('B')}"></i> ${esc(allyName(B))} &nbsp; <i class="sw" style="background:#D9DCE2"></i> ${esc(t('onoeHung'))}</p></div>
+        <p class="small" style="margin:4px 0"><i class="sw" style="background:${sideCol('A')}"></i> ${esc(allyName(A))} &nbsp; <i class="sw" style="background:${sideCol('B')}"></i> ${esc(allyName(B))} &nbsp; <i class="sw" style="background:var(--evm-edge)"></i> ${esc(t('onoeHung'))}</p></div>
         <div><p style="font-family:var(--display);font-size:20px;font-weight:700;margin:0">${esc(t('onoeRules', {s: allyName(A), n: ct.A, m: M}))}</p><p class="small" style="margin:0 0 8px">${esc(allyName(B))}: ${ct.B} · ${esc(t('onoeHung'))}: ${ct.H} · ${esc(t('onoeNowRules', {n: allyName(A) + ' ' + cn.A + ', ' + allyName(B) + ' ' + cn.B}))}</p>
           <h4>${esc(t('onoeLSres'))}</h4><p style="margin:0;font-family:var(--display);font-weight:600">${esc(allyName(A))} ${lsRes.bySide.A} · ${esc(allyName(B))} ${lsRes.bySide.B} · ${esc(t('onoeOthers'))} ${lsRes.bySide.O} <span class="small">(${lsM} ${LANG === 'hi' ? 'चाहिए' : 'needed'})</span></p></div></div>
       <h3>${esc(t('onoeTable'))}</h3><div class="seatlist" style="max-height:480px"><table class="tbl"><thead><tr><th>${esc(t('thRegion'))}</th><th>${esc(t('onoeNow'))}</th><th>${esc(allyName(A))} / ${esc(allyName(B))} / ${esc(t('onoeOthers'))}</th><th>${esc(t('onoeThen'))}</th></tr></thead><tbody>
@@ -4378,9 +4491,10 @@ async function imageModal(o){
     const c = await o.compose(cur), url = c.toDataURL('image/png'), blob = await new Promise(r => c.toBlob(r, 'image/png')), file = new File([blob], o.file, {type: 'image/png'});
     const canShareFile = navigator.canShare && navigator.canShare({files: [file]}), canCopy = navigator.clipboard && window.ClipboardItem;
     modal(`<h3>${esc(o.title)}</h3>
-      <div class="row" style="margin-bottom:8px"><div class="seg" role="group" aria-label="Format"><button data-f="wide" aria-pressed="${cur === 'wide'}">${esc(t('fmtWide'))}</button><button data-f="story" aria-pressed="${cur === 'story'}">${esc(t('fmtStory'))}</button></div></div>
+      ${o.noFormats ? '' : `<div class="row" style="margin-bottom:8px"><div class="seg" role="group" aria-label="Format"><button data-f="wide" aria-pressed="${cur === 'wide'}">${esc(t('fmtWide'))}</button><button data-f="story" aria-pressed="${cur === 'story'}">${esc(t('fmtStory'))}</button></div></div>`}
       <img src="${url}" alt="${esc(o.title)}" style="width:100%;max-height:60vh;object-fit:contain;border:1px solid var(--line);border-radius:8px">
-      <div class="row" style="margin-top:8px"><a class="btn primary" href="${url}" download="${esc(o.file)}">${esc(t('downloadPng'))}</a>${canCopy ? `<button class="btn" id="imgCopy2">${esc(t('copyImage'))}</button>` : ''}${canShareFile ? `<button class="btn" id="imgShare2">${esc(t('shareNative'))}</button>` : ''}<button class="btn" data-close>${esc(t('close'))}</button></div>`);
+      <div class="row" style="margin-top:8px"><a class="btn primary" href="${url}" download="${esc(o.file)}">${esc(t('downloadPng'))}</a>${canCopy ? `<button class="btn" id="imgCopy2">${esc(t('copyImage'))}</button>` : ''}${canShareFile ? `<button class="btn" id="imgShare2">${esc(t('shareNative'))}</button>` : ''}<button class="btn" id="imgAnn2">${esc(t('anBtn'))}</button><button class="btn" data-close>${esc(t('close'))}</button></div>`);
+    $('#imgAnn2').onclick = () => annotateImage(c, o);
     document.querySelectorAll('#modalRoot [data-f]').forEach(b => b.onclick = () => show(b.dataset.f));
     const cp = $('#imgCopy2'); if(cp) cp.onclick = async () => { try{ await navigator.clipboard.write([new ClipboardItem({'image/png': blob})]); toast(t('imageCopied')); }catch(e){ toast(t('copyBlocked')); } };
     const sh = $('#imgShare2'); if(sh) sh.onclick = () => navigator.share({files: [file], title: o.title, text: o.text || ''}).catch(() => {});
@@ -4466,7 +4580,7 @@ SHARE_ACTIONS.push({k: 'prLockBtn', run: lockModal});
 // ---------- the card ----------
 async function predCard(p, sc, fmt){
   const wide = fmt !== 'story', W = wide ? 1200 : 1080, H = wide ? 675 : 1920, pad = wide ? 48 : 56;
-  const c = document.createElement('canvas'); c.width = W; c.height = H; const g = c.getContext('2d'), cs = getComputedStyle(document.documentElement), col = n => cs.getPropertyValue(n).trim() || '#000';
+  const c = document.createElement('canvas'); c.width = W; c.height = H; const g = c.getContext('2d'), col = lightCol;
   await cardFonts(); cardFrame(g, W, H, wide, pad, col);
   const units = predUnits(p), maj = Math.floor(p.N / 2) + 1, name = p.n || t('prAnon'), top = units.filter(u => u.seats > 0), mk = list => list.map(u => ({n: u.seats, c: u.hex}));
   g.fillStyle = col('--ink'); g.font = `700 ${wide ? 38 : 62}px "Anek Latin","Anek Devanagari", system-ui`;
@@ -4696,7 +4810,7 @@ PAGES.set('live', async box => {
     $('#lvClear').onclick = () => { cur.t = {}; cur.d = {}; persist(); stopReplay(); L.rp = null; drawTop(); drawSeats(); };
     $('#lvImg').onclick = () => imageModal({title: t('lvImg'), file: 'janadesh-live.png', text: text(), compose: async fmt => {
       const wide = fmt !== 'story', W = wide ? 1200 : 1080, H = wide ? 675 : 1920, pad = wide ? 48 : 56, c = document.createElement('canvas'); c.width = W; c.height = H;
-      const g = c.getContext('2d'), cs = getComputedStyle(document.documentElement), col = n => cs.getPropertyValue(n).trim() || '#000'; await cardFonts(); cardFrame(g, W, H, wide, pad, col);
+      const g = c.getContext('2d'), col = lightCol; await cardFonts(); cardFrame(g, W, H, wide, pad, col);
       const cn = counts(), order = units.filter(u => cn[u.key] > 0).sort((a, b) => cn[b.key] - cn[a.key]), declared = Object.values(cn).reduce((a, b) => a + b, 0);
       g.fillStyle = col('--ink'); g.font = `700 ${wide ? 40 : 66}px "Anek Latin","Anek Devanagari", system-ui`; let y = wide ? 82 : 150; g.fillText(title, pad, y);
       g.font = `500 ${wide ? 22 : 34}px "Hind", system-ui`; g.fillStyle = col('--muted'); g.fillText(t('lvDecl', {n: declared, m: N}), pad, y + (wide ? 34 : 56));
@@ -4818,7 +4932,7 @@ function playRounds(box, o){
     $('#gmAgain').onclick = begin; $('#gmShare').onclick = () => copy(text, t('gmCopied'));
     $('#gmCard').onclick = () => imageModal({title: t('gmCardTitle'), file: 'janadesh-score.png', text, compose: async fmt => {
       const wide = fmt !== 'story', W = wide ? 1200 : 1080, H = wide ? 675 : 1920, pad = wide ? 48 : 56, c = document.createElement('canvas'); c.width = W; c.height = H;
-      const g = c.getContext('2d'), cs = getComputedStyle(document.documentElement), col = k => cs.getPropertyValue(k).trim() || '#000'; await cardFonts(); cardFrame(g, W, H, wide, pad, col);
+      const g = c.getContext('2d'), col = lightCol; await cardFonts(); cardFrame(g, W, H, wide, pad, col);
       g.fillStyle = col('--ink'); g.font = `700 ${wide ? 44 : 72}px "Anek Latin","Anek Devanagari", system-ui`; wrapText(g, o.title, pad, wide ? 130 : 330, W - 2 * pad, wide ? 52 : 84, 2);
       g.fillStyle = col('--violet'); g.font = `800 ${wide ? 220 : 340}px "Anek Latin", system-ui`; g.fillText(`${st.score}/${n}`, pad, wide ? 400 : 760);
       g.fillStyle = col('--muted'); g.font = `500 ${wide ? 28 : 44}px "Hind", system-ui`; wrapText(g, t('gmCardLine', {s: st.score, n, g: o.title}), pad, wide ? 470 : 880, W - 2 * pad, wide ? 36 : 58, 3);
@@ -4880,7 +4994,7 @@ function qReserved(Q){
   return {topic: 'house', q: t('qzReserved', {c: w}) + ' (' + e.label + ')', ...ch, why: t('qzResWhy', {y: e.label, n: a, c: w})};
 }
 function qWomen(Q){
-  const id = pick1(lsIds().filter(x => Q.ent.get(x).year >= 2019 && Q.stats[x] && Q.stats[x].wOff > 0)), s = Q.stats[id]; if(!s) return null; const e = Q.ent.get(id), a = s.wOff;
+  const id = pick1(lsIds().filter(x => Q.stats[x] && Q.stats[x].wOff > 0)), s = Q.stats[id]; if(!s) return null; const e = Q.ent.get(id), a = s.wOff;
   const ch = choices(a, numOpts(a, 1), x => String(x)); if(!ch) return null;
   return {topic: 'house', q: t('qzWomen', {y: e.label}), ...ch, why: t('qzWomenWhy', {n: a, m: s.n})};
 }
@@ -5032,6 +5146,495 @@ function renderPlayHome(){
 }
 
 
+// ======== feature: 330-display.js ========
+// Display and access: dark mode (#46) and the accessibility work (#48): colour-blind-safe party colours, a skip link, keyboard handling for dialogs, announcements for screen readers.
+addI18n('en', {
+  dispBtn: 'Display', dispTitle: 'Display and access', dispTheme: 'Theme', themeAuto: 'Match my device', themeLight: 'Light', themeDark: 'Dark',
+  dispCvd: 'Colour-blind-safe party colours', dispCvdHint: 'Uses a palette that stays apart for the common kinds of colour blindness, and outlines every colour key. Maps, charts and exported images follow it.',
+  dispKeys: 'Keyboard', dispKeysHint: 'Press / to search. Tab moves through the page and Enter opens a seat in the seat list. Ctrl+Z and Ctrl+Y undo and redo changes to a scenario. Esc closes a dialog.',
+  skipMain: 'Skip to the content', srResult: 'Result updated: {v}', dispDone: 'Done', mapLabel: 'Constituency map. The seat list below has the same information.',
+});
+addI18n('hi', {
+  dispBtn: 'डिस्प्ले', dispTitle: 'डिस्प्ले और पहुँच', dispTheme: 'थीम', themeAuto: 'मेरे डिवाइस जैसी', themeLight: 'हल्की', themeDark: 'गहरी',
+  dispCvd: 'रंग-अंधता के लिए सुरक्षित दल-रंग', dispCvdHint: 'ऐसे रंग इस्तेमाल करता है जो रंग-अंधता की आम क़िस्मों में भी अलग दिखते हैं, और हर रंग-चिह्न पर किनारी लगाता है। नक्शे, चार्ट और निर्यात की गई तस्वीरें भी इन्हीं रंगों में बनती हैं।',
+  dispKeys: 'कीबोर्ड', dispKeysHint: '/ दबाकर खोजें। Tab पन्ने में आगे बढ़ाता है और सीट-सूची में Enter से सीट खुलती है। Ctrl+Z और Ctrl+Y परिदृश्य के बदलाव पलटते और दोहराते हैं। Esc संवाद बंद करता है।',
+  skipMain: 'सीधे सामग्री पर जाएँ', srResult: 'नतीजा बदला: {v}', dispDone: 'हो गया', mapLabel: 'चुनाव-क्षेत्र का नक्शा। नीचे की सीट-सूची में वही जानकारी है।',
+});
+// the main parties in the Okabe-Ito palette, which stays apart for the common kinds of colour blindness
+const CVD_COLORS = {BJP: '#E69F00', INC: '#0072B2', AAP: '#56B4E9', SP: '#D55E00', AITC: '#009E73', DMK: '#CC79A7', TDP: '#F0E442', BSP: '#7F7F7F', SHS_SHINDE: '#B8860B', SSUBT: '#E05A2B', NCP: '#2D9CDB', NCPSP: '#2B5F8A', 'CPI(M)': '#8B1A1A', CPI: '#B5651D', RJD: '#1B5E20', 'JD(U)': '#4B3F99', JDU: '#4B3F99', YSRCP: '#3E8E8E', BRS: '#C2185B', BJD: '#2E7D32', JMM: '#4E7A27', IND: '#8D6E63', OTH: '#9AA0AA'};
+S.cvd = !!store.get('cvd', false);
+const themeNow = () => store.get('theme', 'auto');
+function applyTheme(v){
+  const r = document.documentElement; store.set('theme', v);
+  if(v === 'dark' || v === 'light') r.setAttribute('data-theme', v); else r.removeAttribute('data-theme');
+  const dark = v === 'dark' || (v === 'auto' && matchMedia('(prefers-color-scheme: dark)').matches);
+  const m = document.querySelector('meta[name="theme-color"]'); if(m) m.setAttribute('content', dark ? '#101216' : '#141414');
+}
+function applyCvd(on, redraw){
+  S.cvd = !!on; store.set('cvd', S.cvd);
+  if(S.cvd) document.documentElement.setAttribute('data-cvd', '1'); else document.documentElement.removeAttribute('data-cvd');
+  if(redraw){ if(INDEX) renderHome(); if(E && !$('#app').hidden) rebuild(true); if(!$('#pageview').hidden) route(); }
+}
+function openDisplay(){
+  const th = themeNow();
+  modal(`<h3>${esc(t('dispTitle'))}</h3>
+    <p class="small" style="margin:8px 0 4px">${esc(t('dispTheme'))}</p>
+    <div class="seg" role="group" aria-label="${esc(t('dispTheme'))}">${[['auto', 'themeAuto'], ['light', 'themeLight'], ['dark', 'themeDark']].map(([v, k]) => `<button data-th="${v}" aria-pressed="${th === v}">${esc(t(k))}</button>`).join('')}</div>
+    <label class="row" style="margin:14px 0 2px;gap:8px;align-items:flex-start"><input type="checkbox" id="dispCvd" ${S.cvd ? 'checked' : ''} style="margin-top:4px"><span><b>${esc(t('dispCvd'))}</b><br><span class="small">${esc(t('dispCvdHint'))}</span></span></label>
+    <p class="small" style="margin:12px 0"><b>${esc(t('dispKeys'))}.</b> ${esc(t('dispKeysHint'))}</p>
+    ${typeof installBlock === 'function' ? installBlock() : ''}
+    <div class="row" style="margin-top:10px"><button class="btn primary" data-close>${esc(t('dispDone'))}</button></div>`);
+  document.querySelectorAll('#modalRoot [data-th]').forEach(b => b.onclick = () => { applyTheme(b.dataset.th); document.querySelectorAll('#modalRoot [data-th]').forEach(x => x.setAttribute('aria-pressed', x === b)); });
+  $('#dispCvd').onchange = e => { applyCvd(e.target.checked, true); };
+  if(typeof installBind === 'function') installBind();
+}
+$('#dispBtn').onclick = openDisplay;
+applyTheme(themeNow());
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if(themeNow() === 'auto') applyTheme('auto'); });
+
+// skip link: go to whichever view is showing
+$('#skipLink').onclick = e => { e.preventDefault(); const t0 = [$('#pageview'), $('#seatview'), $('#app') && !$('#app').hidden ? $('#mainApp') : null, $('#home')].find(el => el && !el.hidden); if(t0){ t0.focus({preventScroll: true}); t0.scrollIntoView(); } };
+
+// dialogs: Esc closes, Tab stays inside, and focus goes back to where it was
+document.addEventListener('keydown', ev => {
+  const root = $('#modalRoot'); if(!root.firstChild) return;
+  if(ev.key === 'Escape'){ root.innerHTML = ''; return; }
+  if(ev.key === 'Tab'){
+    const f = [...root.querySelectorAll('a[href], button:not(:disabled), input:not(:disabled), select:not(:disabled), textarea:not(:disabled), [tabindex="0"]')].filter(el => el.offsetParent !== null);
+    if(!f.length) return; const a = f[0], z = f[f.length - 1];
+    if(ev.shiftKey && (document.activeElement === a || document.activeElement === root.querySelector('.modal > div'))){ ev.preventDefault(); z.focus(); }
+    else if(!ev.shiftKey && document.activeElement === z){ ev.preventDefault(); a.focus(); }
+  }
+});
+new MutationObserver(() => { const r = $('#modalRoot'); if(!r.firstChild && modalPrev && document.contains(modalPrev)){ try{ modalPrev.focus({preventScroll: true}); }catch(e){} modalPrev = null; } }).observe($('#modalRoot'), {childList: true});
+
+// screen readers: say the result once the sliders have stopped moving, and label the seat chart and the map
+let srTimer = null;
+function a11yResult(order){
+  const hs = $('#hemi svg'); if(hs) hs.setAttribute('aria-label', $('#verdict').textContent.trim() + ' ' + order.slice(0, 6).filter(k => RES.counts[k] > 0).map(k => `${U[k].name} ${RES.counts[k]}`).join(', '));
+  const ms = $('#map svg'); if(ms){ ms.setAttribute('role', 'img'); ms.setAttribute('aria-label', t('mapLabel')); }
+  clearTimeout(srTimer); srTimer = setTimeout(() => { const el = $('#srLive'); if(el) el.textContent = t('srResult', {v: $('#verdict').textContent.trim()}); }, 900);
+}
+
+
+// ======== feature: 335-speed.js ========
+// Loading speed: while the home page is quiet, fetch what the main button needs, and fetch a state's data when its button is touched or hovered.
+function saveDataOn(){ const c = navigator.connection; return !!(c && (c.saveData || /(^|-)2g$/.test(c.effectiveType || ''))); }
+function warmElection(ent){ if(!ent || saveDataOn()) return; bundle(ent.file).catch(() => {}); warmMap(ent); }
+function idleWarm(){
+  if(saveDataOn()) return;
+  const go = () => warmElection(INDEX.elections.filter(e => e.kind === 'LS').sort((a, b) => b.year - a.year)[0]);
+  if('requestIdleCallback' in window) requestIdleCallback(go, {timeout: 5000}); else setTimeout(go, 2000);
+}
+['pointerover', 'touchstart', 'focusin'].forEach(ev => $('#stgrid').addEventListener(ev, e => { const b = e.target.closest && e.target.closest('.stbtn'); if(b) warmElection(INDEX.elections.find(x => x.id === b.dataset.id)); }, {passive: true}));
+['pointerover', 'touchstart', 'focusin'].forEach(ev => $('#goLS').addEventListener(ev, () => warmElection(INDEX.elections.filter(e => e.kind === 'LS').sort((a, b) => b.year - a.year)[0]), {passive: true}));
+
+
+// ======== feature: 340-history.js ========
+// Undo and redo (#45): every change to the scenario (swings, alliances, locks, overrides, the lab) is a step you can go back to with the arrows or Ctrl+Z and Ctrl+Y.
+addI18n('en', {undoBtn: 'Undo', redoBtn: 'Redo', undoDone: 'Undone', redoDone: 'Redone', undoNone: 'Nothing to undo', redoNone: 'Nothing to redo'});
+addI18n('hi', {undoBtn: 'पलटें', redoBtn: 'दोहराएँ', undoDone: 'पलट दिया', redoDone: 'दोहराया', undoNone: 'पलटने को कुछ नहीं', redoNone: 'दोहराने को कुछ नहीं'});
+const HIST = {stack: [], i: -1, key: null, busy: false, timer: null};
+function histSnap(){ const s = scenario(); delete s.partyEdit; return JSON.stringify(s); }
+function histBtns(){
+  const u = $('#undoBtn'), r = $('#redoBtn'); if(!u || !r) return;
+  u.disabled = HIST.i <= 0; r.disabled = HIST.i >= HIST.stack.length - 1;
+}
+function histPush(){
+  HIST.timer = null; if(!E || HIST.busy) return;
+  const key = [S.kind, S.state, S.eid, S.next, S.ahead].join('|'), snap = histSnap();
+  if(key !== HIST.key){ HIST.key = key; HIST.stack = [snap]; HIST.i = 0; histBtns(); return; }
+  if(snap === HIST.stack[HIST.i]) return;
+  HIST.stack = HIST.stack.slice(0, HIST.i + 1); HIST.stack.push(snap); if(HIST.stack.length > 80) HIST.stack.shift(); HIST.i = HIST.stack.length - 1; histBtns();
+}
+// called at the end of run(): steps that come in quick succession (a slider being dragged) count as one
+function undoNote(){ if(HIST.busy || !E) return; clearTimeout(HIST.timer); HIST.timer = setTimeout(histPush, 350); }
+function histApply(snap){
+  const s = JSON.parse(snap); HIST.busy = true;
+  try{
+    Object.assign(S, {mode: s.mode || 'party', method: s.method || 'prop', allyEdit: s.allyEdit || {}, transfer: s.transfer || 100, fixNational: s.fixNational !== false, lab: s.lab || null, wave: s.wave || 'none', real: s.real || null});
+    buildUnits();
+    Object.assign(S, {T: s.T || {}, locks: s.locks || {}, regional: s.regional || {}, reserved: s.reserved || {SC: {}, ST: {}}, overrides: s.overrides || {}, swing: s.swing || {a: null, b: null, pts: 0}});
+    S.mc = null; mapCache = {key: null}; S.pollScn = null; S.whatIf = null;
+    run(); renderPane(); drawHistory();
+  } finally { HIST.busy = false; }
+}
+function histStep(d){
+  if(HIST.timer){ clearTimeout(HIST.timer); histPush(); }   // record what is on screen before going back
+  const j = HIST.i + d;
+  if(j < 0 || j >= HIST.stack.length){ toast(t(d < 0 ? 'undoNone' : 'redoNone')); return; }
+  HIST.i = j; histApply(HIST.stack[j]); histBtns(); toast(t(d < 0 ? 'undoDone' : 'redoDone'));
+}
+(() => {
+  const h = $('#cardResult .headline'), story = $('#storyBtn'); if(!h || !story) return;
+  story.insertAdjacentHTML('beforebegin', `<button class="btn small" id="undoBtn" disabled style="margin-left:auto">↶ <span class="sronly" data-i18n="undoBtn"></span></button><button class="btn small" id="redoBtn" disabled>↷ <span class="sronly" data-i18n="redoBtn"></span></button>`);
+  story.style.marginLeft = '0';
+  $('#undoBtn').onclick = () => histStep(-1); $('#redoBtn').onclick = () => histStep(1);
+})();
+function histTitles(){ const u = $('#undoBtn'), r = $('#redoBtn'); if(u){ u.title = t('undoBtn') + ' (Ctrl+Z)'; u.setAttribute('aria-keyshortcuts', 'Control+Z'); } if(r){ r.title = t('redoBtn') + ' (Ctrl+Y)'; r.setAttribute('aria-keyshortcuts', 'Control+Y'); } }
+histTitles();
+document.addEventListener('keydown', ev => {
+  if(!(ev.ctrlKey || ev.metaKey) || $('#app').hidden || $('#modalRoot').firstChild) return;
+  const tg = ev.target, typing = tg && (tg.isContentEditable || tg.tagName === 'TEXTAREA' || tg.tagName === 'SELECT' || (tg.tagName === 'INPUT' && !/^(range|checkbox|radio|button)$/.test(tg.type)));
+  if(typing) return;
+  const k = ev.key.toLowerCase();
+  if(k === 'z' && !ev.shiftKey){ ev.preventDefault(); histStep(-1); }
+  else if(k === 'y' || (k === 'z' && ev.shiftKey)){ ev.preventDefault(); histStep(1); }
+});
+
+
+// ======== feature: 345-footer.js ========
+// Header and footer: the Data button (opens the open-data page) and the footer's dynamic parts.
+addI18n('en', {dataBtn: 'Data', ftExplore: 'Explore', ftSim: 'More simulations', ftPlay: 'Play and follow', ftAbout: 'Data and about', ftRepo: 'Source code on GitHub', ftIssue: 'Report a problem', ftBuilt: 'Site updated {d}', ftTop: 'Back to top', ftLic: 'Free to use with credit to Janadesh'});
+addI18n('hi', {dataBtn: 'डेटा', ftExplore: 'देखें', ftSim: 'और सिम्युलेशन', ftPlay: 'खेलें और देखें', ftAbout: 'डेटा और जानकारी', ftRepo: 'GitHub पर सोर्स कोड', ftIssue: 'समस्या बताएँ', ftBuilt: 'साइट अपडेट: {d}', ftTop: 'ऊपर जाएँ', ftLic: 'जनादेश को श्रेय देकर मुफ़्त इस्तेमाल करें'});
+$('#dataBtn').onclick = () => { location.hash = '#/data'; };
+$('#anaBtn').onclick = () => { location.hash = '#/analysis'; };
+$('#ftRepo').href = REPO; $('#ftIssue').href = REPO + '/issues/new';
+$('#ftDisp').onclick = openDisplay;
+function renderFooterMeta(){
+  const b = /^(\d{4})(\d{2})(\d{2})/.exec(BUILD || ''), d = b ? new Date(+b[1], +b[2] - 1, +b[3]).toLocaleDateString(LANG === 'hi' ? 'hi-IN' : 'en-IN', {day: 'numeric', month: 'long', year: 'numeric'}) : '';
+  $('#ftMeta').innerHTML = [d ? esc(t('ftBuilt', {d})) : '', esc(t('ftLic')), `<a href="#top" id="ftTop">${esc(t('ftTop'))}</a>`].filter(Boolean).join(' · ');
+  $('#ftTop').onclick = e => { e.preventDefault(); window.scrollTo({top: 0, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'}); };
+}
+renderFooterMeta();
+
+
+// ======== feature: 350-pwa.js ========
+// Installable app and offline use (#47): a service worker (sw.js, written by build/make_dist.py) keeps the page, the data and the map files on the device, and the Display dialog offers to install.
+addI18n('en', {
+  instTitle: 'Install the app', instHint: 'Adds Janadesh to your home screen or desktop. Data you have opened keeps working without a connection.', instBtn: 'Install', instIos: 'On an iPhone or iPad: tap the Share button, then "Add to Home Screen".', instDone: 'Installed. Open Janadesh from your home screen or apps.',
+  offNow: 'You are offline. Data you opened before still works.', onNow: 'Back online.', offReady: 'Ready to work offline',
+});
+addI18n('hi', {
+  instTitle: 'ऐप इंस्टॉल करें', instHint: 'जनादेश को होम स्क्रीन या डेस्कटॉप पर जोड़ता है। जो डेटा आप खोल चुके हैं वह बिना इंटरनेट भी चलता है।', instBtn: 'इंस्टॉल करें', instIos: 'iPhone या iPad पर: शेयर बटन दबाएँ, फिर "होम स्क्रीन पर जोड़ें" चुनें।', instDone: 'इंस्टॉल हो गया। होम स्क्रीन या ऐप्स से जनादेश खोलें।',
+  offNow: 'आप ऑफ़लाइन हैं। जो डेटा पहले खोला था वह चलेगा।', onNow: 'फिर ऑनलाइन।', offReady: 'ऑफ़लाइन चलने के लिए तैयार',
+});
+let installEvt = null;
+const standalone = () => matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
+window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); installEvt = e; });
+window.addEventListener('appinstalled', () => { installEvt = null; toast(t('instDone')); });
+// the install block shown in the Display dialog
+function installBlock(){
+  if(standalone()) return '';
+  const ios = /iphone|ipad|ipod/i.test(navigator.userAgent) && !window.MSStream;
+  if(!installEvt && !ios) return '';
+  return `<div style="margin:12px 0;padding:10px 12px;border:1px solid var(--line);border-radius:8px"><b>${esc(t('instTitle'))}</b><p class="small" style="margin:4px 0 8px">${esc(t('instHint'))}</p>${installEvt ? `<button class="btn primary" id="instGo">${esc(t('instBtn'))}</button>` : `<p class="small" style="margin:0">${esc(t('instIos'))}</p>`}</div>`;
+}
+function installBind(){ const b = $('#instGo'); if(b) b.onclick = async () => { if(!installEvt) return; installEvt.prompt(); try{ await installEvt.userChoice; }catch(e){} installEvt = null; $('#modalRoot').innerHTML = ''; }; }
+window.addEventListener('offline', () => toast(t('offNow')));
+window.addEventListener('online', () => toast(t('onNow')));
+if('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost' || location.hostname === '127.0.0.1')){
+  window.addEventListener('load', () => { navigator.serviceWorker.register('sw.js').catch(err => console.warn('service worker', err)); });
+}
+
+
+// ======== feature: 360-report.js ========
+// PDF report (#44): a printable report of the scenario on screen. It opens the browser's print dialog, where "Save as PDF" makes the file.
+addI18n('en', {
+  rpBtn: 'PDF report', rpTitle: 'Janadesh simulation report', rpDate: 'Made on {d}', rpTally: 'Seats and votes', rpMap: 'Map', rpAssume: 'What was assumed', rpFlips: 'Seats that change hands', rpFlipsNone: 'No seat changes hands compared with {y}.', rpFlipsNote: '{n} of {m} seats; the narrowest are listed',
+  rpRegions: 'Where the seats move', rpMode: 'View', rpMethod: 'Swing method', rpShares: 'Vote shares used', rpNothing: 'No changes: this is the real result.', rpTransfer: 'Vote transfer between allies: {n}%', rpOverrides: '{n} seats forced by hand', rpLocks: '{n} vote shares held fixed',
+  rpWave: 'Wave setting: {w}', rpLab: 'What-if lab: {l}', rpLink: 'Open this scenario', rpFoot: 'Simulation only. Made by applying vote shares to past constituency results; it is not a real result, an exit poll or a forecast.', rpMargin: 'Margin', rpSeat: 'Seat', rpFrom: 'From', rpTo: 'To', rpBase: '{y} result',
+  rpPrinting: 'Opening the print dialog. Choose "Save as PDF" as the printer.',
+});
+addI18n('hi', {
+  rpBtn: 'पीडीएफ़ रिपोर्ट', rpTitle: 'जनादेश सिम्युलेशन रिपोर्ट', rpDate: '{d} को बनी', rpTally: 'सीटें और वोट', rpMap: 'नक्शा', rpAssume: 'क्या मान लिया गया', rpFlips: 'हाथ बदलने वाली सीटें', rpFlipsNone: '{y} की तुलना में कोई सीट हाथ नहीं बदलती।', rpFlipsNote: '{m} में से {n} सीटें; सबसे कम अंतर वाली दिखाई गई हैं',
+  rpRegions: 'सीटें कहाँ खिसकती हैं', rpMode: 'दृश्य', rpMethod: 'स्विंग का तरीक़ा', rpShares: 'इस्तेमाल हुए वोट हिस्से', rpNothing: 'कोई बदलाव नहीं: यह असली नतीजा है।', rpTransfer: 'सहयोगियों के बीच वोट ट्रांसफ़र: {n}%', rpOverrides: '{n} सीटें हाथ से तय', rpLocks: '{n} वोट हिस्से स्थिर रखे',
+  rpWave: 'लहर की सेटिंग: {w}', rpLab: 'अगर-मगर लैब: {l}', rpLink: 'यह परिदृश्य खोलें', rpFoot: 'सिर्फ़ सिम्युलेशन। पिछले चुनाव-क्षेत्र नतीजों पर वोट हिस्से लगाकर बना है; यह असली नतीजा, एग्ज़िट पोल या पूर्वानुमान नहीं है।', rpMargin: 'अंतर', rpSeat: 'सीट', rpFrom: 'से', rpTo: 'को', rpBase: '{y} का नतीजा',
+  rpPrinting: 'प्रिंट खुल रहा है। प्रिंटर में "पीडीएफ़ के रूप में सहेजें" चुनें।',
+});
+function reportHTML(){
+  const ent = entry(), maj = Math.floor(E.N / 2) + 1, order = seatOrder(), yr = S.next ? nextYear(ent) : ent.label, base = ent.label;
+  const hemi = document.createElement('div'); drawHemicycle(hemi, order.map(k => ({n: RES.counts[k], c: U[k].hex})), E.N, maj, RES.counts[order[0]], t('needed', {n: maj}));
+  const rows = U.map((g, k) => k).filter(k => RES.counts[k] > 0 || RES.T[k] >= 0.5 || U[k].baseSeats > 0).sort((a, b) => RES.counts[b] - RES.counts[a] || RES.T[b] - RES.T[a]);
+  const tally = `<table class="rptbl"><thead><tr><th>${esc(S.mode === 'alliance' ? t('thAlly') : t('thParty'))}</th><th>${esc(t('thVotes'))}</th><th>${esc(t('thSeats'))}</th><th>${esc(t('rpBase', {y: base}))}</th><th>${esc(t('thSwing'))}</th></tr></thead><tbody>${rows.map(k => { const g = U[k], ds = RES.counts[k] - g.baseSeats, dv = RES.T[k] - g.base;
+    return `<tr><td><i class="rpsw" style="background:${g.hex}"></i>${esc(g.name)}</td><td class="n">${fmt1(RES.T[k])}%</td><td class="n"><b>${RES.counts[k]}</b> <span class="d">${ds ? (ds > 0 ? '+' : '') + ds : ''}</span></td><td class="n">${g.baseSeats}</td><td class="n">${dv >= 0 ? '+' : ''}${fmt1(dv)}</td></tr>`; }).join('')}</tbody></table>`;
+  // assumptions
+  const bits = [];
+  const shown = U.map((g, k) => ({g, k})).filter(o => Math.abs(RES.T[o.k] - o.g.base) >= 0.05);
+  bits.push(`${t('rpMode')}: ${t(S.mode === 'alliance' ? 'modeAlly' : 'modeParty')}`);
+  bits.push(`${t('rpMethod')}: ${t(S.method === 'core' ? 'coreM' : S.method === 'prop' ? 'methProp' : 'methUnif')}`);
+  if(S.mode === 'alliance' && S.transfer !== 100) bits.push(t('rpTransfer', {n: S.transfer}));
+  if(Object.keys(S.overrides || {}).length) bits.push(t('rpOverrides', {n: Object.keys(S.overrides).length}));
+  if(Object.values(S.locks || {}).some(Boolean)) bits.push(t('rpLocks', {n: Object.values(S.locks).filter(Boolean).length}));
+  if(S.wave && S.wave !== 'none') bits.push(t('rpWave', {w: t(S.wave === 'strong' ? 'waveStrong' : 'waveMild')}));
+  if(typeof labActive === 'function' && labActive()){ const L = S.lab || {}, on = []; if(L.np && L.np.on) on.push(t('labNP')); if(L.sp && L.sp.on) on.push(t('labSplit')); if(L.pen && L.pen.on) on.push(t('labPen')); if(L.mom && L.mom.on) on.push(t('labMom')); if(typeof labTurnoutOn === 'function' && labTurnoutOn(L)) on.push(t('labTurnout')); bits.push(t('rpLab', {l: on.join(', ')})); }
+  const shares = shown.length ? `<p class="rpp"><b>${esc(t('rpShares'))}:</b> ${shown.sort((a, b) => RES.T[b.k] - RES.T[a.k]).slice(0, 10).map(o => `${esc(o.g.name)} ${fmt1(o.g.base)}% → <b>${fmt1(RES.T[o.k])}%</b>`).join(' · ')}</p>` : `<p class="rpp">${esc(t('rpNothing'))}</p>`;
+  // seats that change hands, narrowest first
+  const flips = RES.win.map((w, i) => ({w, i})).filter(o => o.w !== E.baseWin[o.i]).map(o => ({i: o.i, w: o.w, was: E.baseWin[o.i], m: 100 * (RES.shares[o.i][o.w] - RES.shares[o.i][RES.second[o.i]])})).sort((a, b) => a.m - b.m);
+  const flipHTML = flips.length ? `<p class="small rpp">${esc(t('rpFlipsNote', {n: flips.length, m: E.seats.length}))}</p><table class="rptbl"><thead><tr><th>${esc(t('rpSeat'))}</th><th>${esc(t('rpFrom'))}</th><th>${esc(t('rpTo'))}</th><th>${esc(t('rpMargin'))}</th></tr></thead><tbody>${flips.slice(0, 14).map(f => `<tr><td>${esc(E.seats[f.i].name)}${S.kind === 'LS' && E.seats[f.i].r >= 0 ? ` <span class="d">${esc(stName(E.regions[E.seats[f.i].r]))}</span>` : ''}</td><td><i class="rpsw" style="background:${U[f.was].hex}"></i>${esc(shortName(U[f.was]))}</td><td><i class="rpsw" style="background:${U[f.w].hex}"></i>${esc(shortName(U[f.w]))}</td><td class="n">${fmt1(f.m)}</td></tr>`).join('')}</tbody></table>` : `<p class="rpp">${esc(t('rpFlipsNone', {y: base}))}</p>`;
+  // regions with the most movement
+  let regHTML = '';
+  if(E.regions.length){
+    const agg = E.regions.map(() => ({d: new Map(), tot: 0}));
+    flips.forEach(f => { const r = E.seats[f.i].r; if(r < 0) return; const a = agg[r]; a.d.set(f.w, (a.d.get(f.w) || 0) + 1); a.d.set(f.was, (a.d.get(f.was) || 0) - 1); a.tot++; });
+    const top = agg.map((a, r) => ({r, a})).filter(x => x.a.tot > 0).sort((x, y) => y.a.tot - x.a.tot).slice(0, 8);
+    if(top.length) regHTML = `<h3>${esc(t('rpRegions'))}</h3><table class="rptbl"><tbody>${top.map(x => `<tr><td>${esc(stName(E.regions[x.r]))}</td><td>${x.a.tot}</td><td>${[...x.a.d.entries()].filter(e => e[1]).sort((p, q) => q[1] - p[1]).slice(0, 4).map(([k, v]) => `${esc(shortName(U[k]))} ${v > 0 ? '+' : ''}${v}`).join(', ')}</td></tr>`).join('')}</tbody></table>`;
+  }
+  const svg = $('#map svg'), mapHTML = svg && svg.querySelector('path.seat') ? `<h3>${esc(t('rpMap'))}</h3><div class="map rpmap">${svg.outerHTML}</div><div class="rplegend">${U.map((g, k) => k).filter(k => RES.counts[k] > 0).sort((a, b) => RES.counts[b] - RES.counts[a]).map(k => `<span><i class="rpsw" style="background:${U[k].hex}"></i>${esc(U[k].name)} ${RES.counts[k]}</span>`).join('')}</div>` : '';
+  return `<article class="rp"><header><div class="rpbrand">JANADESH <span>जनादेश</span></div><div class="rpdate">${esc(t('rpDate', {d: new Date().toLocaleDateString(LANG === 'hi' ? 'hi-IN' : 'en-IN', {day: 'numeric', month: 'long', year: 'numeric'})}))}</div></header>
+    <h1>${esc($('#title').textContent)}</h1><p class="rpverdict">${esc($('#verdict').textContent.trim())}</p>
+    <div class="rphemi">${hemi.innerHTML}</div>
+    <h3>${esc(t('rpTally'))}</h3>${tally}
+    ${mapHTML}
+    <h3>${esc(t('rpFlips'))}</h3>${flipHTML}
+    ${regHTML}
+    <h3>${esc(t('rpAssume'))}</h3><ul class="rpul">${bits.map(b => `<li>${esc(b)}</li>`).join('')}</ul>${shares}
+    <p class="rpp"><b>${esc(t('rpLink'))}:</b> <span class="rplink">${esc(shareURL())}</span></p>
+    <p class="rpfoot">${esc(t('rpFoot'))}</p></article>`;
+}
+function printReport(){
+  if(!E || !RES){ return; }
+  let root = $('#printRoot'); if(!root){ root = document.createElement('div'); root.id = 'printRoot'; document.body.appendChild(root); }
+  root.innerHTML = reportHTML(); document.body.classList.add('printing'); track('report', {e: S.eid});
+  const done = () => { document.body.classList.remove('printing'); window.removeEventListener('afterprint', done); };
+  window.addEventListener('afterprint', done);
+  if(window.__noPrint) return;
+  setTimeout(() => { window.print(); }, 60);
+}
+SHARE_ACTIONS.push({k: 'rpBtn', run: () => { $('#modalRoot').innerHTML = ''; toast(t('rpPrinting')); printReport(); }});
+
+
+// ======== feature: 370-annotate.js ========
+// Draw and annotate (#43): draw, highlight, point with arrows and write on an exported image before downloading it.
+addI18n('en', {
+  anBtn: 'Draw on it', anTitle: 'Draw and annotate', anHint: 'Draw on the image, then press Done to download or share it.', anPen: 'Pen', anMarker: 'Highlighter', anArrow: 'Arrow', anText: 'Text', anUndo: 'Undo', anClear: 'Clear', anDone: 'Done', anCancel: 'Cancel',
+  anTextPh: 'Type, then press Enter', anColour: 'Colour', anSize: 'Thickness', anRed: 'Red', anBlack: 'Black', anBlue: 'Blue', anYellow: 'Yellow', anWhite: 'White', anGreen: 'Green', anImage: 'Annotated image',
+});
+addI18n('hi', {
+  anBtn: 'इस पर बनाएँ', anTitle: 'बनाएँ और लिखें', anHint: 'तस्वीर पर बनाएँ, फिर डाउनलोड या शेयर करने के लिए "हो गया" दबाएँ।', anPen: 'क़लम', anMarker: 'हाइलाइटर', anArrow: 'तीर', anText: 'लिखें', anUndo: 'पलटें', anClear: 'मिटाएँ', anDone: 'हो गया', anCancel: 'रद्द करें',
+  anTextPh: 'लिखें, फिर Enter दबाएँ', anColour: 'रंग', anSize: 'मोटाई', anRed: 'लाल', anBlack: 'काला', anBlue: 'नीला', anYellow: 'पीला', anWhite: 'सफ़ेद', anGreen: 'हरा', anImage: 'चिह्नित तस्वीर',
+});
+const AN_COLOURS = [['#D7263D', 'anRed'], ['#141414', 'anBlack'], ['#1F4FA8', 'anBlue'], ['#16794A', 'anGreen'], ['#F2B600', 'anYellow'], ['#FFFFFF', 'anWhite']];
+function anDraw(g, base, ops, W){
+  g.clearRect(0, 0, base.width, base.height); g.drawImage(base, 0, 0);
+  g.lineCap = 'round'; g.lineJoin = 'round';
+  ops.forEach(o => {
+    g.save(); g.strokeStyle = g.fillStyle = o.c;
+    if(o.k === 'pen' || o.k === 'marker'){
+      g.globalAlpha = o.k === 'marker' ? 0.35 : 1; g.lineWidth = o.k === 'marker' ? o.w * 4 : o.w; g.beginPath(); o.p.forEach((p, i) => i ? g.lineTo(p[0], p[1]) : g.moveTo(p[0], p[1])); if(o.p.length === 1) g.lineTo(o.p[0][0] + 0.01, o.p[0][1]); g.stroke();
+    } else if(o.k === 'arrow'){
+      const [a, b] = o.p, ang = Math.atan2(b[1] - a[1], b[0] - a[0]), hl = o.w * 4.5 + 10;
+      g.lineWidth = o.w; g.beginPath(); g.moveTo(a[0], a[1]); g.lineTo(b[0] - Math.cos(ang) * hl * 0.6, b[1] - Math.sin(ang) * hl * 0.6); g.stroke();
+      g.beginPath(); g.moveTo(b[0], b[1]); g.lineTo(b[0] - hl * Math.cos(ang - 0.4), b[1] - hl * Math.sin(ang - 0.4)); g.lineTo(b[0] - hl * Math.cos(ang + 0.4), b[1] - hl * Math.sin(ang + 0.4)); g.closePath(); g.fill();
+    } else if(o.k === 'text'){
+      g.font = `700 ${o.s}px "Anek Latin","Anek Devanagari","Hind", system-ui`; g.textBaseline = 'middle'; g.lineWidth = Math.max(3, o.s / 7); g.strokeStyle = o.c === '#FFFFFF' || o.c === '#F2B600' ? '#141414' : '#FFFFFF'; g.strokeText(o.t, o.p[0][0], o.p[0][1]); g.fillText(o.t, o.p[0][0], o.p[0][1]);
+    }
+    g.restore();
+  });
+}
+function annotateImage(src, opts){
+  const W = src.width, H = src.height, base = document.createElement('canvas'); base.width = W; base.height = H; base.getContext('2d').drawImage(src, 0, 0);
+  const st = {tool: 'pen', colour: AN_COLOURS[0][0], size: 1, ops: [], cur: null};
+  const sizes = [Math.max(3, W / 300), Math.max(6, W / 160), Math.max(10, W / 100)];
+  modal(`<h3>${esc(t('anTitle'))}</h3><p class="small" style="margin:2px 0 8px">${esc(t('anHint'))}</p>
+    <div class="row" style="gap:6px;margin-bottom:8px;align-items:center">
+      <div class="seg" role="group" aria-label="${esc(t('anTitle'))}">${[['pen', 'anPen'], ['marker', 'anMarker'], ['arrow', 'anArrow'], ['text', 'anText']].map(([k, l]) => `<button data-tool="${k}" aria-pressed="${k === st.tool}">${esc(t(l))}</button>`).join('')}</div>
+      <span class="ancols" role="group" aria-label="${esc(t('anColour'))}">${AN_COLOURS.map(([c, l]) => `<button class="ancol" data-col="${c}" style="background:${c}" aria-label="${esc(t(l))}" aria-pressed="${c === st.colour}"></button>`).join('')}</span>
+      <label class="small">${esc(t('anSize'))} <input type="range" id="anSize" min="0" max="2" step="1" value="1" style="width:70px;vertical-align:middle"></label>
+    </div>
+    <div class="anwrap" id="anWrap"><canvas id="anCv" width="${W}" height="${H}" style="touch-action:none;width:100%;height:auto;display:block;border:1px solid var(--line);border-radius:8px;cursor:crosshair"></canvas></div>
+    <div class="row" style="margin-top:8px"><button class="btn" id="anUndo">${esc(t('anUndo'))}</button><button class="btn" id="anClear">${esc(t('anClear'))}</button><span style="flex:1"></span><button class="btn" data-close>${esc(t('anCancel'))}</button><button class="btn primary" id="anDone">${esc(t('anDone'))}</button></div>`);
+  const cv = $('#anCv'), g = cv.getContext('2d'), redraw = () => anDraw(g, base, st.cur ? st.ops.concat([st.cur]) : st.ops, W);
+  redraw();
+  const pos = ev => { const r = cv.getBoundingClientRect(); return [(ev.clientX - r.left) * W / r.width, (ev.clientY - r.top) * H / r.height]; };
+  const textAt = (p, ev) => {
+    const wrap = $('#anWrap'), r = cv.getBoundingClientRect(), wr = wrap.getBoundingClientRect(), inp = document.createElement('input');
+    inp.className = 'inp'; inp.placeholder = t('anTextPh'); inp.style.cssText = `position:absolute;left:${Math.min(ev.clientX - wr.left, wr.width - 200)}px;top:${ev.clientY - wr.top - 16}px;width:200px;z-index:2`; wrap.style.position = 'relative'; wrap.appendChild(inp); inp.focus();
+    let done = false; const commit = ok => { if(done) return; done = true; const v = inp.value.trim(); inp.remove(); if(ok && v){ st.ops.push({k: 'text', t: v, p: [p], c: st.colour, s: Math.round(W / 24 * (0.8 + st.size * 0.35))}); redraw(); } };
+    inp.onkeydown = e => { if(e.key === 'Enter'){ e.preventDefault(); commit(true); } else if(e.key === 'Escape'){ e.stopPropagation(); commit(false); } }; inp.onblur = () => commit(true);
+  };
+  cv.onpointerdown = ev => {
+    if(st.tool === 'text'){ ev.preventDefault(); textAt(pos(ev), ev); return; }
+    cv.setPointerCapture(ev.pointerId); const p = pos(ev); st.cur = {k: st.tool, p: st.tool === 'arrow' ? [p, p] : [p], c: st.colour, w: sizes[st.size]}; redraw();
+  };
+  cv.onpointermove = ev => { if(!st.cur) return; const p = pos(ev); if(st.cur.k === 'arrow') st.cur.p[1] = p; else st.cur.p.push(p); redraw(); };
+  const end = () => { if(!st.cur) return; st.ops.push(st.cur); st.cur = null; redraw(); };
+  cv.onpointerup = end; cv.onpointercancel = end;
+  document.querySelectorAll('#modalRoot [data-tool]').forEach(b => b.onclick = () => { st.tool = b.dataset.tool; document.querySelectorAll('#modalRoot [data-tool]').forEach(x => x.setAttribute('aria-pressed', x === b)); cv.style.cursor = st.tool === 'text' ? 'text' : 'crosshair'; });
+  document.querySelectorAll('#modalRoot [data-col]').forEach(b => b.onclick = () => { st.colour = b.dataset.col; document.querySelectorAll('#modalRoot [data-col]').forEach(x => x.setAttribute('aria-pressed', x === b)); });
+  $('#anSize').oninput = e => { st.size = +e.target.value; };
+  $('#anUndo').onclick = () => { st.ops.pop(); redraw(); };
+  $('#anClear').onclick = () => { st.ops = []; redraw(); };
+  $('#anDone').onclick = () => { st.cur = null; const out = document.createElement('canvas'); out.width = W; out.height = H; anDraw(out.getContext('2d'), base, st.ops, W); imageModal(Object.assign({}, opts, {title: t('anImage'), compose: async () => out, noFormats: true})); };
+}
+
+
+// ======== feature: 380-clean.js ========
+// Clean view (#42): the controls out of the way, only the seat arc, tally and map in a 16:9 or 9:16 frame, for screen recording (Shorts, Reels).
+// It updates as the scenario changes, and the left and right arrow keys move the swing so a recording can show it sliding.
+addI18n('en', {
+  cvBtn: 'Clean view', cvTitle: 'Clean view', cvWide: '16:9', cvStory: '9:16', cvFull: 'Full screen', cvClose: 'Close', cvKeys: 'Left and right arrows move the swing. Esc closes.',
+});
+addI18n('hi', {
+  cvBtn: 'साफ़ दृश्य', cvTitle: 'साफ़ दृश्य', cvWide: '16:9', cvStory: '9:16', cvFull: 'पूरी स्क्रीन', cvClose: 'बंद करें', cvKeys: 'बाएँ और दाएँ तीर स्विंग खिसकाते हैं। Esc बंद करता है।',
+});
+const CV = {open: false, fmt: 'wide', timer: null, busy: false, again: false, hide: null};
+function cvEl(){
+  let el = $('#cleanView');
+  if(!el){
+    el = document.createElement('div'); el.id = 'cleanView'; el.setAttribute('role', 'dialog'); el.setAttribute('aria-modal', 'true'); el.setAttribute('aria-label', t('cvTitle'));
+    el.innerHTML = `<div class="cvbar" id="cvBar"><div class="seg" role="group" aria-label="Format"><button data-cvf="wide">${esc(t('cvWide'))}</button><button data-cvf="story">${esc(t('cvStory'))}</button></div><button class="btn small" id="cvFull">${esc(t('cvFull'))}</button><span class="small" id="cvKeys">${esc(t('cvKeys'))}</span><button class="btn small" id="cvX">${esc(t('cvClose'))}</button></div><div class="cvstage" id="cvStage"><canvas id="cvCanvas" aria-label="${esc(t('cvTitle'))}"></canvas></div>`;
+    document.body.appendChild(el);
+    el.querySelectorAll('[data-cvf]').forEach(b => b.onclick = () => { CV.fmt = b.dataset.cvf; cvDraw(); });
+    $('#cvX').onclick = closeClean; $('#cvFull').onclick = () => { if(document.fullscreenElement) document.exitFullscreen(); else if(el.requestFullscreen) el.requestFullscreen().catch(() => {}); };
+    el.addEventListener('pointermove', cvShowBar);
+  }
+  return el;
+}
+function cvShowBar(){ const bar = $('#cvBar'); if(!bar) return; bar.classList.remove('off'); clearTimeout(CV.hide); CV.hide = setTimeout(() => bar.classList.add('off'), 2800); }
+async function cvDraw(){
+  if(!CV.open || !E || !RES) return;
+  if(CV.busy){ CV.again = true; return; }
+  CV.busy = true;
+  try{
+    const c = await composeImage(CV.fmt), cv = $('#cvCanvas'); cv.width = c.width; cv.height = c.height; cv.getContext('2d').drawImage(c, 0, 0);
+    cv.style.aspectRatio = CV.fmt === 'story' ? '9 / 16' : '16 / 9';
+    document.querySelectorAll('#cleanView [data-cvf]').forEach(b => b.setAttribute('aria-pressed', b.dataset.cvf === CV.fmt));
+  }finally{ CV.busy = false; if(CV.again){ CV.again = false; cvDraw(); } }
+}
+// called at the end of run(): redraw once the sliders have settled
+function cleanTouch(){ if(!CV.open) return; clearTimeout(CV.timer); CV.timer = setTimeout(cvDraw, 140); }
+function openClean(){
+  if(!E || !RES) return;
+  $('#modalRoot').innerHTML = ''; CV.open = true; cvEl(); document.body.classList.add('clean'); cvDraw(); cvShowBar(); track('clean_view', {fmt: CV.fmt});
+  $('#cvX').focus();
+}
+function closeClean(){ CV.open = false; document.body.classList.remove('clean'); if(document.fullscreenElement) document.exitFullscreen().catch(() => {}); clearTimeout(CV.hide); }
+document.addEventListener('keydown', ev => {
+  if(!CV.open) return;
+  if(ev.key === 'Escape' && !document.fullscreenElement){ ev.preventDefault(); closeClean(); return; }
+  if(ev.key === 'ArrowLeft' || ev.key === 'ArrowRight'){
+    ev.preventDefault(); const d = ev.key === 'ArrowRight' ? 0.5 : -0.5; easyPair();
+    S.swing.pts = Math.max(-15, Math.min(15, Math.round((S.swing.pts + d) * 10) / 10)); applySwing(); cvShowBar();
+  }
+});
+SHARE_ACTIONS.push({k: 'cvBtn', run: openClean});
+
+
+// ======== feature: 390-embed.js ========
+// Embed links (#40): "Embed code" in the Share menu gives an iframe snippet for the scenario on screen (map, tally or both), so a journalist or YouTuber can put a live seat map on a page.
+// The embedded page is this same site in a bare mode (address #embed=<view>.<language>.<scenario>) with a credit line that links back to the simulator.
+addI18n('en', {
+  emBtn: 'Embed code', emTitle: 'Embed this on a page', emHint: 'Paste this where you want the map. It shows the scenario you have set up, keeps working without any account, and links back to Janadesh.',
+  emView: 'Show', emBoth: 'Map and tally', emMap: 'Map only', emTally: 'Tally only', emHeight: 'Height (pixels)', emCopy: 'Copy the code', emCopied: 'Embed code copied', emPreview: 'Preview',
+  emAuto: 'Optional: add this once on your page so the frame grows to fit', emCredit: 'Made with Janadesh. Simulation only, not a real result or forecast.', emOpen: 'Open this scenario', emBad: 'This embed link could not be read.',
+});
+addI18n('hi', {
+  emBtn: 'एम्बेड कोड', emTitle: 'इसे किसी पन्ने पर लगाएँ', emHint: 'इसे वहाँ चिपकाएँ जहाँ नक्शा चाहिए। यह आपका बनाया परिदृश्य दिखाता है, बिना किसी खाते के चलता है, और जनादेश से जोड़ता है।',
+  emView: 'दिखाएँ', emBoth: 'नक्शा और तालिका', emMap: 'सिर्फ़ नक्शा', emTally: 'सिर्फ़ तालिका', emHeight: 'ऊँचाई (पिक्सेल)', emCopy: 'कोड कॉपी करें', emCopied: 'एम्बेड कोड कॉपी हो गया', emPreview: 'झलक',
+  emAuto: 'वैकल्पिक: इसे अपने पन्ने पर एक बार जोड़ें ताकि फ़्रेम अपने आप सही ऊँचाई ले', emCredit: 'जनादेश से बना। सिर्फ़ सिम्युलेशन, असली नतीजा या पूर्वानुमान नहीं।', emOpen: 'यह परिदृश्य खोलें', emBad: 'यह एम्बेड लिंक पढ़ा नहीं जा सका।',
+});
+const EMBED_H = {both: 1500, map: 900, tally: 1000};
+function embedURL(view){ return location.origin + location.pathname + '#embed=' + view + '.' + LANG + '.' + encodeScenario(scenarioForLink()); }
+function embedSnippet(view, h){
+  return `<iframe src="${embedURL(view)}" title="${$('#title').textContent.replace(/"/g, '&quot;')} (Janadesh)" width="100%" height="${h}" style="border:1px solid #d5d7db;border-radius:8px;max-width:760px" loading="lazy" data-janadesh></iframe>`;
+}
+const EMBED_AUTO = `<script>addEventListener('message',function(e){var d=e.data;if(d&&d.janadesh==='size'){document.querySelectorAll('iframe[data-janadesh]').forEach(function(f){if(f.contentWindow===e.source)f.style.height=d.h+'px'})}})<\/script>`;
+function openEmbed(){
+  if(!E || !RES) return;
+  let view = 'both', h = EMBED_H.both; track('embed_open', {e: S.eid});
+  const draw = () => {
+    modal(`<h3>${esc(t('emTitle'))}</h3><p class="small" style="margin:2px 0 8px">${esc(t('emHint'))}</p>
+      <div class="row" style="gap:10px;align-items:center;margin-bottom:8px"><span class="small">${esc(t('emView'))}</span><div class="seg" role="group" aria-label="${esc(t('emView'))}">${[['both', 'emBoth'], ['map', 'emMap'], ['tally', 'emTally']].map(([v, k]) => `<button data-emv="${v}" aria-pressed="${v === view}">${esc(t(k))}</button>`).join('')}</div>
+        <label class="small">${esc(t('emHeight'))} <input class="inp" id="emH" type="number" min="300" max="2000" step="20" value="${h}" style="width:84px"></label></div>
+      <textarea id="emCode" readonly rows="5" style="width:100%;font-family:monospace;font-size:12px" aria-label="${esc(t('emTitle'))}">${esc(embedSnippet(view, h))}</textarea>
+      <details style="margin:6px 0"><summary class="small" style="cursor:pointer">${esc(t('emAuto'))}</summary><textarea readonly rows="3" style="width:100%;font-family:monospace;font-size:12px">${esc(EMBED_AUTO)}</textarea></details>
+      <div class="row" style="margin:8px 0"><button class="btn primary" id="emCopy">${esc(t('emCopy'))}</button><button class="btn" data-close>${esc(t('close'))}</button></div>
+      <p class="small" style="margin:6px 0 4px"><b>${esc(t('emPreview'))}</b></p>
+      <iframe id="emFrame" title="${esc(t('emPreview'))}" src="${esc(embedURL(view))}" style="width:100%;height:${Math.min(h, 520)}px;border:1px solid var(--line);border-radius:8px"></iframe>`);
+    document.querySelectorAll('#modalRoot [data-emv]').forEach(b => b.onclick = () => { view = b.dataset.emv; h = EMBED_H[view]; draw(); });
+    $('#emH').onchange = e => { h = Math.max(300, Math.min(2000, +e.target.value || h)); draw(); };
+    $('#emCode').onfocus = e => e.target.select();
+    $('#emCopy').onclick = () => copy(embedSnippet(view, h), t('emCopied'));
+  };
+  draw();
+}
+SHARE_ACTIONS.push({k: 'emBtn', run: openEmbed});
+
+// the embedded page: the same app with everything but the map and the tally taken away
+async function bootEmbed(){
+  const m = location.hash.match(/^#embed=(both|map|tally)\.(en|hi)\.([\w-]+)$/); if(!m) return false;
+  document.body.classList.add('embed', 'embed-' + m[1]); document.documentElement.setAttribute('data-theme', 'light');   // an embed stays light, whatever the visitor's device prefers
+  try{
+    if(m[2] !== LANG){ LANG = m[2]; applyLang(); }
+    const sc = decodeScenario(m[3]); await applyScenario(sc);
+  }catch(e){ console.error(e); document.body.classList.remove('embed', 'embed-' + m[1]); toast(t('emBad')); return false; }
+  const link = location.origin + location.pathname + '#s=' + m[3];
+  document.body.insertAdjacentHTML('beforeend', `<div class="embedcredit"><span>${esc(t('emCredit'))}</span> <a href="${esc(link)}" target="_blank" rel="noopener">${esc(t('emOpen'))} ↗</a></div>`);
+  if(window.parent !== window){ const post = () => parent.postMessage({janadesh: 'size', h: Math.ceil(document.documentElement.scrollHeight)}, '*'); new ResizeObserver(post).observe(document.body); post(); }
+  return true;
+}
+
+
+// ======== feature: 400-analysis.js ========
+// Analysis hub (page #/analysis): every analysis tool and every whole-country analysis page in one place, grouped by what it tells you.
+// Pick an election, press a tool, and the simulator opens on that election with the tool already showing.
+addI18n('en', {
+  anaBtn: 'Analysis', footAna: 'Analysis', anaTitle: 'Analysis', anaSub: 'Everything Janadesh can tell you, in one place. Choose an election, then open any tool: it runs on that election in the simulator, where you can also move the vote and watch it change.',
+  anaPick: 'Analyse', anaWhen: 'Election', anaLatest: 'Latest result ({y})', anaNext: 'Next election, as a projection', anaFind: 'Find a tool', anaOpen: 'Open', anaNone: 'No tool matches that.',
+  anaGResults: 'Seats and results', anaGParties: 'Parties and alliances', anaGTime: 'Over time and across places', anaGPeople: 'People and representation', anaGModel: 'Reading the signs', anaGWhole: 'The whole country',
+  anaTools: '{n} tools', anaPages: '{n} pages', anaRSd: 'How the upper house and the electoral college that elects the President would look after the assembly elections.', anaDelimd: 'Lok Sabha seats redrawn by population, and who gains and loses.', anaOnoed: 'One national swing across the Lok Sabha and every assembly at once.',
+  anaTreed: 'How parties split and merged, from the Janata family to the Shiv Sena and NCP.', anaBoundsd: 'Delimitation since 1951, new and renamed seats, seats per state over time.', anaCald: 'Countdowns to the next elections, each with a simulate button.', anaDatad: 'Download every constituency result as CSV or JSON.',
+});
+addI18n('hi', {
+  anaBtn: 'विश्लेषण', footAna: 'विश्लेषण', anaTitle: 'विश्लेषण', anaSub: 'जनादेश जो कुछ बता सकता है, एक जगह। कोई चुनाव चुनें, फिर कोई भी औज़ार खोलें: वह सिम्युलेटर में उसी चुनाव पर चलता है, जहाँ आप वोट खिसकाकर बदलाव भी देख सकते हैं।',
+  anaPick: 'विश्लेषण करें', anaWhen: 'चुनाव', anaLatest: 'सबसे ताज़ा नतीजा ({y})', anaNext: 'अगला चुनाव, अनुमान के रूप में', anaFind: 'कोई औज़ार खोजें', anaOpen: 'खोलें', anaNone: 'कोई औज़ार नहीं मिला।',
+  anaGResults: 'सीटें और नतीजे', anaGParties: 'दल और गठबंधन', anaGTime: 'समय और जगहों के पार', anaGPeople: 'लोग और प्रतिनिधित्व', anaGModel: 'संकेत पढ़ना', anaGWhole: 'पूरा देश',
+  anaTools: '{n} औज़ार', anaPages: '{n} पन्ने', anaRSd: 'विधानसभा चुनावों के बाद ऊपरी सदन और राष्ट्रपति चुनने वाला निर्वाचक-मंडल कैसा दिखेगा।', anaDelimd: 'आबादी के हिसाब से दोबारा बनी लोकसभा सीटें, और किसे फ़ायदा और किसे घाटा।', anaOnoed: 'लोकसभा और हर विधानसभा पर एक साथ एक राष्ट्रीय स्विंग।',
+  anaTreed: 'दल कैसे टूटे और जुड़े, जनता परिवार से शिवसेना और एनसीपी तक।', anaBoundsd: '1951 से परिसीमन, नई और नाम बदली सीटें, समय के साथ राज्यवार सीटें।', anaCald: 'अगले चुनावों की गिनती, हर एक के साथ सिम्युलेट बटन।', anaDatad: 'हर चुनाव-क्षेत्र का नतीजा CSV या JSON में डाउनलोड करें।',
+});
+const ANA_GROUPS = [
+  ['anaGResults', '#D7263D', ['facts', 'flip', 'closest', 'records', 'newseats']],
+  ['anaGParties', '#1F4FA8', ['strike', 'h2h', 'deposit', 'perpt', 'journey', 'coalition', 'alliances']],
+  ['anaGTime', '#0F8B8D', ['compare', 'multiples', 'patterns', 'waves']],
+  ['anaGPeople', '#F28C28', ['representation', 'cms']],
+  ['anaGModel', '#4A2577', ['signals', 'bypolls', 'local', 'votesys']],
+];
+const ANA_PAGES = [['rajyasabha', 'footRS', 'anaRSd'], ['delimitation', 'footDelim', 'anaDelimd'], ['onoe', 'footOnoe', 'anaOnoed'], ['tree', 'footTree', 'anaTreed'], ['boundaries', 'footBounds', 'anaBoundsd'], ['calendar', 'footCal', 'anaCald'], ['data', 'footData', 'anaDatad']];
+const anaFirst = s => { const x = String(s || '').replace(/\s+/g, ' ').trim(), i = x.search(/[.!?](\s|$)/); const f = i > 20 && i < 170 ? x.slice(0, i + 1) : x.slice(0, 150); return f.length < x.length && f === x.slice(0, 150) ? f.replace(/\s+\S*$/, '') + '…' : f; };
+async function anaOpen(toolId, pick){
+  S.tab = 'easy'; location.hash = ''; track('analysis_open', {tool: toolId});
+  const ix = INDEX.elections;
+  if(pick.when === 'next'){ const l = pick.where === 'LS' ? ix.filter(e => e.kind === 'LS').sort((a, b) => b.year - a.year)[0] : calLatest(pick.where); if(pick.where === 'LS') S.mode = 'alliance'; await openSim(pick.where === 'LS' ? 'LS' : 'AE', pick.where === 'LS' ? null : pick.where, 'next:' + l.id, pick.where !== 'LS'); }
+  else { const e = ix.find(x => x.id === pick.when); await openSim(e.kind, e.kind === 'LS' ? null : e.state, e.id); }
+  S.tool = toolId; store.set('tool', toolId); const sel = $('#toolSel'); if(sel) sel.value = toolId; toolKeyShown = null; toolsTouch(true);
+  if(typeof setPTab === 'function') setPTab('result');
+  const card = $('#cardTools'); if(card) card.scrollIntoView({behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start'});
+}
+PAGES.set('analysis', async box => {
+  const ix = INDEX.elections, wheres = ['LS', ...statesList().sort((a, b) => stName(a).localeCompare(stName(b), LANG === 'hi' ? 'hi' : 'en'))];
+  const pick = Object.assign({where: 'LS', when: 'latest'}, store.get('anapick', {})); if(!wheres.includes(pick.where)) pick.where = 'LS';
+  const past = w => ix.filter(e => w === 'LS' ? e.kind === 'LS' : (e.kind === 'AE' && e.state === w)).sort((a, b) => b.year - a.year || b.label.localeCompare(a.label));
+  const resolve = () => ({where: pick.where, when: pick.when === 'latest' ? past(pick.where)[0].id : pick.when});
+  const known = new Map(TOOLS.map(x => [x.id, x])), used = new Set(ANA_GROUPS.flatMap(g => g[2]));
+  const groups = ANA_GROUPS.map(([k, c, ids]) => [k, c, ids.filter(id => known.has(id))]).filter(g => g[2].length);
+  const extra = TOOLS.filter(x => !used.has(x.id)).map(x => x.id); if(extra.length) groups.push(['anaGModel', '#4A2577', extra]);
+  const draw = (q) => {
+    const n = nameKey(q || ''), card = (title, sub, color, attr) => `<div class="calc" ${attr}><i style="background:${color}"></i><div><b class="calt">${esc(title)}</b><p class="small" style="margin:2px 0 8px">${esc(sub)}</p><button class="btn small primary">${esc(t('anaOpen'))}</button></div></div>`;
+    const html = groups.map(([k, c, ids]) => { const list = ids.map(id => known.get(id)).filter(x => !n || nameKey(t(x.label) + ' ' + t(x.sub)).includes(n)); if(!list.length) return '';
+      return `<h3 style="margin-top:22px">${esc(t(k))} <span class="small">· ${esc(t('anaTools', {n: list.length}))}</span></h3><div class="calgrid">${list.map(x => card(t(x.label), anaFirst(t(x.sub)), c, `data-tool="${esc(x.id)}" tabindex="0"`)).join('')}</div>`; }).join('');
+    const pages = ANA_PAGES.filter(p => !n || nameKey(t(p[1]) + ' ' + t(p[2])).includes(n));
+    const phtml = pages.length ? `<h3 style="margin-top:22px">${esc(t('anaGWhole'))} <span class="small">· ${esc(t('anaPages', {n: pages.length}))}</span></h3><div class="calgrid">${pages.map(p => card(t(p[1]), t(p[2]), '#8D6E63', `data-page="${p[0]}" tabindex="0"`)).join('')}</div>` : '';
+    return (html + phtml) || `<p class="small">${esc(t('anaNone'))}</p>`;
+  };
+  box.innerHTML = `<article class="page" style="max-width:1080px"><h2>${esc(t('anaTitle'))}</h2><p class="lede">${esc(t('anaSub'))}</p>
+    <div class="tools-row"><label>${esc(t('anaPick'))} <select id="anWhere">${wheres.map(w => `<option value="${esc(w)}" ${w === pick.where ? 'selected' : ''}>${esc(w === 'LS' ? t('lokSabha') : stName(w) + ' ' + t('vidhanSabha'))}</option>`).join('')}</select></label>
+      <label>${esc(t('anaWhen'))} <select id="anWhen"></select></label>
+      <label style="flex:1;min-width:200px"><span class="sronly">${esc(t('anaFind'))}</span><input class="inp" id="anFind" type="search" placeholder="${esc(t('anaFind'))}" style="width:100%"></label></div>
+    <div id="anBody"></div></article>`;
+  const fillWhen = () => { const list = past(pick.where), latest = list[0];
+    $('#anWhen').innerHTML = `<option value="latest">${esc(t('anaLatest', {y: latest.label}))}</option><option value="next">${esc(t('anaNext'))}</option>${list.map(e => `<option value="${e.id}">${esc(e.label)}${e.approx ? esc(t('reconOpt')) : ''}</option>`).join('')}`;
+    if(![...$('#anWhen').options].some(o => o.value === pick.when)) pick.when = 'latest'; $('#anWhen').value = pick.when; };
+  const paint = () => { $('#anBody').innerHTML = draw($('#anFind').value);
+    box.querySelectorAll('[data-tool]').forEach(c => { const go = () => anaOpen(c.dataset.tool, resolve()); c.onclick = go; c.onkeydown = e => { if(e.key === 'Enter'){ e.preventDefault(); go(); } }; });
+    box.querySelectorAll('[data-page]').forEach(c => { const go = () => { location.hash = '#/' + c.dataset.page; }; c.onclick = go; c.onkeydown = e => { if(e.key === 'Enter'){ e.preventDefault(); go(); } }; }); };
+  $('#anWhere').onchange = e => { pick.where = e.target.value; pick.when = 'latest'; store.set('anapick', pick); fillWhen(); };
+  $('#anWhen').onchange = e => { pick.when = e.target.value; store.set('anapick', pick); };
+  $('#anFind').oninput = paint;
+  fillWhen(); paint();
+});
+
+
 async function boot(){
   toolsSetup();
   applyLang();
@@ -5054,7 +5657,8 @@ async function boot(){
   $('#hVotes').onclick = () => { S.histMode='votes'; $('#hVotes').setAttribute('aria-pressed',true); $('#hSeats').setAttribute('aria-pressed',false); drawHistory(); };
   $('#curveUnit').onchange = e => { S.curveKey = e.target.value; drawCurve(); };
   await renderHome();
-  bootFromHash(); route();
+  if(!/^#embed=/.test(location.hash)) idleWarm();
+  if(!(await bootEmbed())){ bootFromHash(); route(); }
   $('#searchBtn').onclick = () => openSearch();
   $('#hq').onfocus = () => openSearch(); $('#hq').onclick = () => openSearch();
   document.addEventListener('keydown', ev => { if(ev.key === '/' && !/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName) && !$('#modalRoot').firstChild){ ev.preventDefault(); openSearch(); } });

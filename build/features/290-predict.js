@@ -35,9 +35,10 @@ async function imageModal(o){
     const c = await o.compose(cur), url = c.toDataURL('image/png'), blob = await new Promise(r => c.toBlob(r, 'image/png')), file = new File([blob], o.file, {type: 'image/png'});
     const canShareFile = navigator.canShare && navigator.canShare({files: [file]}), canCopy = navigator.clipboard && window.ClipboardItem;
     modal(`<h3>${esc(o.title)}</h3>
-      <div class="row" style="margin-bottom:8px"><div class="seg" role="group" aria-label="Format"><button data-f="wide" aria-pressed="${cur === 'wide'}">${esc(t('fmtWide'))}</button><button data-f="story" aria-pressed="${cur === 'story'}">${esc(t('fmtStory'))}</button></div></div>
+      ${o.noFormats ? '' : `<div class="row" style="margin-bottom:8px"><div class="seg" role="group" aria-label="Format"><button data-f="wide" aria-pressed="${cur === 'wide'}">${esc(t('fmtWide'))}</button><button data-f="story" aria-pressed="${cur === 'story'}">${esc(t('fmtStory'))}</button></div></div>`}
       <img src="${url}" alt="${esc(o.title)}" style="width:100%;max-height:60vh;object-fit:contain;border:1px solid var(--line);border-radius:8px">
-      <div class="row" style="margin-top:8px"><a class="btn primary" href="${url}" download="${esc(o.file)}">${esc(t('downloadPng'))}</a>${canCopy ? `<button class="btn" id="imgCopy2">${esc(t('copyImage'))}</button>` : ''}${canShareFile ? `<button class="btn" id="imgShare2">${esc(t('shareNative'))}</button>` : ''}<button class="btn" data-close>${esc(t('close'))}</button></div>`);
+      <div class="row" style="margin-top:8px"><a class="btn primary" href="${url}" download="${esc(o.file)}">${esc(t('downloadPng'))}</a>${canCopy ? `<button class="btn" id="imgCopy2">${esc(t('copyImage'))}</button>` : ''}${canShareFile ? `<button class="btn" id="imgShare2">${esc(t('shareNative'))}</button>` : ''}<button class="btn" id="imgAnn2">${esc(t('anBtn'))}</button><button class="btn" data-close>${esc(t('close'))}</button></div>`);
+    $('#imgAnn2').onclick = () => annotateImage(c, o);
     document.querySelectorAll('#modalRoot [data-f]').forEach(b => b.onclick = () => show(b.dataset.f));
     const cp = $('#imgCopy2'); if(cp) cp.onclick = async () => { try{ await navigator.clipboard.write([new ClipboardItem({'image/png': blob})]); toast(t('imageCopied')); }catch(e){ toast(t('copyBlocked')); } };
     const sh = $('#imgShare2'); if(sh) sh.onclick = () => navigator.share({files: [file], title: o.title, text: o.text || ''}).catch(() => {});
@@ -123,7 +124,7 @@ SHARE_ACTIONS.push({k: 'prLockBtn', run: lockModal});
 // ---------- the card ----------
 async function predCard(p, sc, fmt){
   const wide = fmt !== 'story', W = wide ? 1200 : 1080, H = wide ? 675 : 1920, pad = wide ? 48 : 56;
-  const c = document.createElement('canvas'); c.width = W; c.height = H; const g = c.getContext('2d'), cs = getComputedStyle(document.documentElement), col = n => cs.getPropertyValue(n).trim() || '#000';
+  const c = document.createElement('canvas'); c.width = W; c.height = H; const g = c.getContext('2d'), col = lightCol;
   await cardFonts(); cardFrame(g, W, H, wide, pad, col);
   const units = predUnits(p), maj = Math.floor(p.N / 2) + 1, name = p.n || t('prAnon'), top = units.filter(u => u.seats > 0), mk = list => list.map(u => ({n: u.seats, c: u.hex}));
   g.fillStyle = col('--ink'); g.font = `700 ${wide ? 38 : 62}px "Anek Latin","Anek Devanagari", system-ui`;
